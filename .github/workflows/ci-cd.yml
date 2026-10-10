@@ -1,0 +1,148 @@
+name: CI/CD Pipeline - Theme Marketplace Platform
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+env:
+  REGISTRY: ghcr.io
+  BACKEND_IMAGE: ghcr.io/${{ github.repository }}/backend
+  FRONTEND_IMAGE: ghcr.io/${{ github.repository }}/frontend
+
+jobs:
+  # ===================================================================
+  # JOB 1: CONTINUOUS INTEGRATION (LINT & TEST)
+  # ===================================================================
+  ci-test:
+    name: Lint & Unit Tests
+    runs-on: ubuntu-latest
+
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: rootpassword
+          MYSQL_DATABASE: theme_marketplace_test
+        ports:
+          - 3306:3306
+        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
+
+      redis:
+        image: redis:7-alpine
+        ports:
+          - 6379:6379
+        options: --health-cmd="redis-cli ping" --health-interval=10s --health-timeout=5s --health-retries=3
+
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
+
+      # Kiểm tra và test Backend nếu thư mục backend tồn tại
+      - name: Backend - Lint & Test
+        run: |
+          if [ -d "backend" ]; then
+            cd backend
+            npm ci || npm install
+            npm run lint --if-present
+            npm run test --if-present
+          else
+            echo "Thư mục backend chưa khởi tạo - bỏ qua bước test BE."
+          fi
+
+      # Kiểm tra và test Frontend nếu thư mục frontend tồn tại
+      - name: Frontend - Lint & Typecheck
+        run: |
+          if [ -d "frontend" ]; then
+            cd frontend
+            npm ci || npm install
+            npm run lint --if-present
+            npm run type-check --if-present
+          else
+            echo "Thư mục frontend chưa khởi tạo - bỏ qua bước test FE."
+          fi
+
+  # ===================================================================
+  # JOB 2: DOCKER BUILD & PUSH TO GHCR
+  # ===================================================================
+  build-and-push:
+    name: Build & Push Docker Images
+    needs: ci-test
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build & Push Backend Docker Image
+        run: |
+          if [ -f "backend/Dockerfile" ]; then
+            docker build -t ${{ env.BACKEND_IMAGE }}:latest -t ${{ env.BACKEND_IMAGE }}:${{ github.sha }} ./backend
+            docker push ${{ env.BACKEND_IMAGE }}:latest
+            docker push ${{ env.BACKEND_IMAGE }}:${{ github.sha }}
+          else
+            echo "Chưa có backend/Dockerfile - bỏ qua build image."
+          fi
+
+      - name: Build & Push Frontend Docker Image
+        run: |
+          if [ -f "frontend/Dockerfile" ]; then
+            docker build -t ${{ env.FRONTEND_IMAGE }}:latest -t ${{ env.FRONTEND_IMAGE }}:${{ github.sha }} ./frontend
+            docker push ${{ env.FRONTEND_IMAGE }}:latest
+            docker push ${{ env.FRONTEND_IMAGE }}:${{ github.sha }}
+          else
+            echo "Chưa có frontend/Dockerfile - bỏ qua build image."
+          fi
+
+  # ===================================================================
+  # JOB 3: CONTINUOUS DEPLOYMENT (CD TO PRODUCTION SERVER)
+  # ===================================================================
+  deploy:
+    name: Deploy to Production VPS
+    needs: build-and-push
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.SERVER_PORT || 22 }}
+          script: |
+            echo "==> Bắt đầu quy trình triển khai tự động lên Production Server..."
+            cd /var/www/theme-marketplace || exit 1
+            git pull origin main
+            
+            # Khởi động dịch vụ và cập nhật containers
+            docker compose pull || true
+            docker compose up -d --remove-orphans
+            
+            # Chạy database migration (nếu có)
+            docker compose exec -T backend npm run db:migrate --if-present || true
+            
+            echo "==> Triển khai hoàn tất thành công!"
