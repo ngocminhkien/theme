@@ -184,3 +184,20 @@ docker compose logs -f
 * 📄 [**`CEO_STRATEGY.md`**](./CEO_STRATEGY.md) - Chiến lược kinh doanh, định vị thị trường, pháp lý và mô hình đa doanh thu.
 * 🗺️ [**`SITEMAP.md`**](./SITEMAP.md) - Bản đồ sitemap chi tiết, cấu trúc phân hệ và luồng trải nghiệm khách hàng.
 * 🚀 [**`ROADMAP.md`**](./ROADMAP.md) - Lộ trình thực thi 4 giai đoạn, các mốc tiến độ và quản trị rủi ro.
+
+---
+
+## 👥 8. PHÂN CHIA CÔNG VIỆC CHO 5 THÀNH VIÊN DỰ ÁN (TEAM WORKSPACE)
+
+Dự án được phân chia thành 5 vai trò độc lập, có tài liệu nhiệm vụ, backlog và tiêu chí nghiệm thu chi tiết:
+
+1. 📘 [**`README_MEMBER_1_DEVOPS_DATABASE.md`**](./README_MEMBER_1_DEVOPS_DATABASE.md)  
+   **Thành viên 01 (Lead DevOps & Database):** Quản trị MySQL 8.0, Redis, Docker Compose, CI/CD GitHub Actions, Nginx, SSL và Cloudflare R2 / S3.
+2. 📘 [**`README_MEMBER_2_BE_CORE_CATALOG.md`**](./README_MEMBER_2_BE_CORE_CATALOG.md)  
+   **Thành viên 02 (Backend Core & Catalog):** Xây dựng NestJS/Express API, JWT Auth & RBAC, Quản lý kho Theme, Bộ lọc đa ngành, Swagger Docs.
+3. 📘 [**`README_MEMBER_3_BE_PAYMENT_LICENSING.md`**](./README_MEMBER_3_BE_PAYMENT_LICENSING.md)  
+   **Thành viên 03 (Backend Payment & Licensing):** Cổng VietQR tự động (SePAY) 3 giây, Stripe/PayPal, Sinh License Key, API WordPress Auto-Updater.
+4. 📘 [**`README_MEMBER_4_FE_STOREFRONT_PREVIEW.md`**](./README_MEMBER_4_FE_STOREFRONT_PREVIEW.md)  
+   **Thành viên 04 (Frontend Storefront & UX):** Giao diện Next.js 15, Trang chủ, Bộ lọc Theme đa tiêu chí, Khung Live Preview Bar (Desktop/Tablet/Mobile).
+5. 📘 [**`README_MEMBER_5_FE_CHECKOUT_PORTAL.md`**](./README_MEMBER_5_FE_CHECKOUT_PORTAL.md)  
+   **Thành viên 05 (Frontend Checkout & Customer Portal):** Thanh toán 1 bước (One-page Checkout), Popup VietQR động, Customer Dashboard (`/my-account`), Admin CMS (`/admin`).
