@@ -178,8 +178,9 @@ docker compose logs -f
 
 ---
 
-## 📚 7. BỘ TÀI LIỆU CHIẾN LƯỢC LIÊN QUAN
+## 📚 7. BỘ TÀI LIỆU DỰ ÁN LIÊN QUAN
 
+* 📖 [**`INSTALLATION_GUIDE.md`**](./INSTALLATION_GUIDE.md) - **Hướng dẫn cài đặt chi tiết**: Triển khai hạ tầng kỹ thuật (Docker, BE, FE, MySQL) & Hướng dẫn cài đặt/import demo theme Woodmart trên WordPress.
 * 📄 [**`CEO_STRATEGY.md`**](./CEO_STRATEGY.md) - Chiến lược kinh doanh, định vị thị trường, pháp lý và mô hình đa doanh thu.
 * 🗺️ [**`SITEMAP.md`**](./SITEMAP.md) - Bản đồ sitemap chi tiết, cấu trúc phân hệ và luồng trải nghiệm khách hàng.
 * 🚀 [**`ROADMAP.md`**](./ROADMAP.md) - Lộ trình thực thi 4 giai đoạn, các mốc tiến độ và quản trị rủi ro.
