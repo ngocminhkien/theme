@@ -2,8 +2,8 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { useCartStore } from '../../shared/stores/cart.store.js';
-import { VietQrModal } from '../../features/checkout/components/vietqr-modal.js';
+import { useCartStore } from '../../shared/stores/cart.store';
+import { VietQrModal } from '../../features/checkout/components/vietqr-modal';
 
 export default function CheckoutPage() {
   const { items, currency, getTotal, clearCart } = useCartStore();

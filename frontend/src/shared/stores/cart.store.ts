@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { CartItem, Currency, ThemeItem } from '../types/index.js';
+import { CartItem, Currency, ThemeItem } from '../types/index';
 
 interface CartState {
   items: CartItem[];

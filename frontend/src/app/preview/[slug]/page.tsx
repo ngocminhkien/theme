@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { useParams } from 'next/navigation';
-import { LivePreviewBar } from '../../../features/preview/components/live-preview-bar.js';
+import { LivePreviewBar } from '../../../features/preview/components/live-preview-bar';
 
 export default function PreviewPage() {
   const params = useParams();

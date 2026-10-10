@@ -2,9 +2,9 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { ThemeCard } from '../features/themes/components/theme-card.js';
-import { useCartStore } from '../shared/stores/cart.store.js';
-import { ThemeItem } from '../shared/types/index.js';
+import { ThemeCard } from '../features/themes/components/theme-card';
+import { useCartStore } from '../shared/stores/cart.store';
+import { ThemeItem } from '../shared/types/index';
 
 // Dữ liệu mẫu demo
 const DEMO_THEMES: ThemeItem[] = [

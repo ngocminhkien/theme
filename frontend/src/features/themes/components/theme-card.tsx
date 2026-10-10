@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
-import { ThemeItem, Currency } from '../../../shared/types/index.js';
-import { useCartStore } from '../../../shared/stores/cart.store.js';
+import { ThemeItem, Currency } from '../../../shared/types/index';
+import { useCartStore } from '../../../shared/stores/cart.store';
 
 interface ThemeCardProps {
   theme: ThemeItem;

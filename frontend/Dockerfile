@@ -5,9 +5,11 @@ COPY package*.json ./
 RUN if [ -f package-lock.json ]; then npm ci; else npm install; fi
 
 COPY tsconfig.json ./
+COPY postcss.config.js* tailwind.config.js* ./
 COPY src ./src
 COPY public ./public 2>/dev/null || true
 RUN npm run build || true
+RUN mkdir -p /app/.next
 
 FROM node:20-alpine AS runner
 WORKDIR /app
