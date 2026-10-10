@@ -5,8 +5,8 @@ export interface ThemeItem {
   id: number;
   name: string;
   slug: string;
-  category: string;
-  category_name_vi: string;
+  category?: string;
+  category_name_vi?: string;
   sub_category?: string;
   short_desc_vi: string;
   short_desc_en: string;
