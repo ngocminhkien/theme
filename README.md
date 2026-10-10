@@ -212,6 +212,7 @@ docker compose logs -f
 
 ## 📚 7. BỘ TÀI LIỆU DỰ ÁN LIÊN QUAN
 
+* 🤝 [**`TEAM_COLLABORATION_MATRIX.md`**](./TEAM_COLLABORATION_MATRIX.md) - **Ma trận kết nối 5 thành viên**: Sơ đồ luồng dữ liệu, hợp đồng API giữa các vai trò, cơ chế bàn giao công việc và xử lý khi bị block.
 * 🛠️ [**`DEV_SETUP_REQUIREMENTS.md`**](./DEV_SETUP_REQUIREMENTS.md) - **Danh sách cần cài đặt (Prerequisites)**: Hướng dẫn chi tiết mọi phần mềm, công cụ, VS Code extensions và tài khoản sandbox cần cài cho từng thành viên.
 * 🚀 [**`GIT_WORKFLOW_GUIDE.md`**](./GIT_WORKFLOW_GUIDE.md) - **Quy chuẩn Git & Đẩy code**: Hướng dẫn quy trình chuẩn chỉ khi thêm, sửa, xóa tính năng, quy ước đặt tên nhánh và tạo Pull Request.
 * 📖 [**`INSTALLATION_GUIDE.md`**](./INSTALLATION_GUIDE.md) - **Hướng dẫn cài đặt chi tiết**: Triển khai hạ tầng kỹ thuật (Docker, BE, FE, MySQL) & Hướng dẫn cài đặt/import demo theme Woodmart trên WordPress.
