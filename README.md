@@ -55,72 +55,104 @@ mysql -u root -p theme_marketplace < database/schema.sql
 
 ---
 
-## ⚙️ 3. KIẾN TRÚC BACKEND (BE)
+## ⚙️ 3. KIẾN TRÚC BACKEND (BE - MÔ HÌNH MVC)
 
-* **Công nghệ khuyến nghị:** **Node.js (NestJS / TypeScript)** hoặc **Express.js** với kiến trúc phân tầng (Controller ➔ Service ➔ Repository).
+Backend được xây dựng theo chuẩn **Kiến trúc MVC (Model - View - Controller + Service Layer)** trên nền tảng **Node.js (Express & TypeScript)**, đảm bảo phân tách rõ ràng trách nhiệm giữa xử lý dữ liệu, nghiệp vụ và phản hồi HTTP:
+
 * **Cấu trúc thư mục Backend (`backend/`):**
   ```
   backend/
   ├── src/
-  │   ├── modules/
-  │   │   ├── auth/              # JWT, Google OAuth, Refresh Tokens
-  │   │   ├── themes/            # CRUD Themes, lọc ngành nghề, upload bản mới
-  │   │   ├── orders/            # Tạo đơn, tính giá VND/USD, giỏ hàng
-  │   │   ├── payments/          # Xử lý Webhook VietQR (SePAY), Stripe, PayPal
-  │   │   ├── licenses/          # Sinh Key, kích hoạt Domain, xác thực API
-  │   │   ├── updater/           # API Cập nhật tự động cho WordPress Client
-  │   │   └── storage/           # Tạo link tải có thời hạn Cloudflare R2 / S3
-  │   ├── common/                # Guards, Interceptors, Filters, DTOs
-  │   └── main.ts
+  │   ├── config/                # Cấu hình MySQL Pool, Redis, biến môi trường (.env)
+  │   │   ├── database.ts
+  │   │   └── env.ts
+  │   ├── models/                # [M] DATA MODELS: Truy vấn cơ sở dữ liệu MySQL
+  │   │   ├── user.model.ts
+  │   │   ├── category.model.ts
+  │   │   ├── theme.model.ts
+  │   │   ├── order.model.ts
+  │   │   └── license.model.ts
+  │   ├── views/                 # [V] VIEWS: Định dạng chuẩn hóa API Response envelope
+  │   │   └── response.view.ts
+  │   ├── controllers/           # [C] CONTROLLERS: Điều phối request/response HTTP
+  │   │   ├── auth.controller.ts
+  │   │   ├── theme.controller.ts
+  │   │   ├── order.controller.ts
+  │   │   ├── payment.controller.ts (Xử lý Webhook VietQR / SePAY)
+  │   │   └── updater.controller.ts (Xử lý WordPress Auto-Updater API)
+  │   ├── services/              # BUSINESS LOGIC & INTEGRATIONS
+  │   │   ├── auth.service.ts    # Băm mật khẩu bcrypt, cấp phát JWT
+  │   │   ├── sepay.service.ts   # Sinh mã VietQR, xác thực chữ ký Webhook
+  │   │   └── license.service.ts # Thuật toán sinh License Key ngẫu nhiên
+  │   ├── middlewares/           # AUTH & ERROR HANDLING
+  │   │   ├── auth.middleware.ts
+  │   │   └── error.middleware.ts
+  │   ├── routes/                # ĐỊNH TUYẾN API (/api/v1/...)
+  │   │   ├── index.ts
+  │   │   ├── auth.routes.ts
+  │   │   ├── theme.routes.ts
+  │   │   ├── order.routes.ts
+  │   │   ├── payment.routes.ts
+  │   │   └── updater.routes.ts
+  │   ├── app.ts                 # Cấu hình Express app, Helmet, CORS
+  │   └── server.ts              # Khởi động máy chủ cổng 4000
   ├── Dockerfile
   ├── package.json
   └── tsconfig.json
   ```
 
-### 3.1. Các API Endpoints Quan Trọng:
-* **Xác thực & Người dùng:**
-  * `POST /api/v1/auth/register` & `POST /api/v1/auth/login`
-  * `GET /api/v1/user/downloads` (Lấy danh sách theme đã mua và link tải)
-* **Khám phá Theme:**
-  * `GET /api/v1/themes` (Bộ lọc theo danh mục, builder, giá, tìm kiếm full-text)
-  * `GET /api/v1/themes/:slug` (Chi tiết theme, screenshots, thông số kỹ thuật)
-* **Thanh toán & Đơn hàng:**
-  * `POST /api/v1/orders/checkout` (Khởi tạo đơn hàng, trả về mã QR VietQR hoặc Stripe Session)
-  * `POST /api/v1/webhooks/sepay` (Webhook nhận thông báo chuyển khoản ngân hàng tự động)
-  * `POST /api/v1/webhooks/stripe` (Webhook xác nhận thanh toán thẻ quốc tế)
-* **License & Auto-Update Engine (Dành cho WordPress Client):**
-  * `POST /api/v1/licenses/activate` (Kích hoạt theme trên domain của khách)
-  * `GET /api/v1/updater/check?license_key=xxx&version=8.6.2` (Kiểm tra bản cập nhật mới)
-  * `GET /api/v1/updater/download?license_key=xxx` (Lấy file zip update sau khi xác thực license hợp lệ)
+### 3.1. Các API Endpoints Đã Sẵn Sàng:
+* **Xác thực:** `POST /api/v1/auth/register`, `POST /api/v1/auth/login`, `GET /api/v1/auth/me`
+* **Kho Theme:** `GET /api/v1/themes` (Lọc theo danh mục, builder, từ khóa, phân trang), `GET /api/v1/themes/:slug`
+* **Danh mục:** `GET /api/v1/themes/categories`
+* **Đơn hàng:** `POST /api/v1/orders/checkout` (Sinh mã đơn hàng & mã VietQR động), `GET /api/v1/orders/:orderNumber/status`
+* **Webhook Thanh toán:** `POST /api/v1/webhooks/sepay` (Tự động kích hoạt đơn hàng & sinh License Key trong 3s)
+* **WordPress Auto-Updater API:** `GET /api/v1/updater/check?license_key=xxx` (Endpoint tương thích với plugin-update-checker trên WordPress)
 
 ---
 
-## 🖥️ 4. KIẾN TRÚC FRONTEND (FE)
+## 🖥️ 4. KIẾN TRÚC FRONTEND (FE - FEATURE-DRIVEN ARCHITECTURE)
 
-* **Công nghệ khuyến nghị:** **Next.js 15 (React 19, App Router)** kết hợp **Tailwind CSS v4** và **TypeScript**.
-* **Cấu trúc thư mục Frontend (`frontend/`):**
-  ```
-  frontend/
-  ├── src/
-  │   ├── app/
-  │   │   ├── (store)/           # Trang chủ, Catalog, Danh mục
-  │   │   ├── theme/[slug]/      # Trang chi tiết Theme tối ưu chuyển đổi
-  │   │   ├── preview/[slug]/    # Giao diện Live Preview Bar + Responsive Iframe
-  │   │   ├── checkout/          # Trang thanh toán 1 bước (One-page Checkout)
-  │   │   ├── my-account/        # Dashboard khách: Tải theme, Quản lý License
-  │   │   └── docs/              # Trung tâm tài liệu & hướng dẫn cài đặt
-  │   ├── components/            # UI components (Header, ThemeCard, DeviceSwitcher...)
-  │   ├── hooks/                 # Custom React hooks
-  │   └── stores/                # Quản lý trạng thái (Zustand: Cart, Currency, Lang)
-  ├── Dockerfile
-  └── package.json
-  ```
+Nhằm mục tiêu **dễ bảo trì, sửa chữa độc lập và không dẫm chân lên nhau khi nhiều người cùng làm việc**, Frontend Next.js 15 được tái cấu trúc theo mô hình **Feature-Driven (Vertical Slice Architecture)**:
 
-### 4.1. Tính Năng Frontend Độc Quyền:
-1. **Live Preview Switcher Bar:** Khung iframe phía trên cho phép người dùng click nhanh chuyển đổi giữa 3 chế độ xem: **Desktop**, **Tablet**, **Mobile** kèm nút "Mua Ngay" luôn cố định.
-2. **One-Page Checkout Siêu Tốc:** Tự động phát hiện vị trí địa lý của khách hàng:
-   * Nếu khách ở Việt Nam: Hiển thị tiền tệ VND và mã VietQR thanh toán tự động.
-   * Nếu khách quốc tế: Hiển thị tiền tệ USD và form thẻ tín dụng Stripe / Apple Pay / PayPal.
+```
+frontend/
+├── src/
+│   ├── app/                   # THIN APP ROUTER (Chỉ nhận URL params và render Feature)
+│   │   ├── layout.tsx         # Root Layout
+│   │   ├── page.tsx           # Trang chủ (kết nối Themes Feature)
+│   │   ├── preview/[slug]/    # Khung Live Preview Bar (kết nối Preview Feature)
+│   │   └── checkout/          # Trang thanh toán 1 bước (kết nối Checkout Feature)
+│   │
+│   ├── features/              # VERTICAL SLICES (Cô lập theo từng tính năng)
+│   │   ├── themes/            # Feature Theme: ThemeCard, FilterSidebar, types
+│   │   │   └── components/
+│   │   │       └── theme-card.tsx
+│   │   ├── preview/           # Feature Live Preview: Thanh điều khiển, Responsive Switcher
+│   │   │   └── components/
+│   │   │       └── live-preview-bar.tsx
+│   │   └── checkout/          # Feature Thanh toán: VietQRModal, Auto Polling 3s
+│   │       └── components/
+│   │           └── vietqr-modal.tsx
+│   │
+│   └── shared/                # DÙNG CHUNG TOÀN HỆ THỐNG (REUSABLE)
+│       ├── stores/            # Zustand Store (Quản lý giỏ hàng, Tiền tệ VND/USD)
+│       │   └── cart.store.ts
+│       ├── types/             # Global Interfaces (ThemeItem, CartItem, Currency)
+│       │   └── index.ts
+│       └── components/        # UI components dùng chung (Button, Header, Footer)
+├── Dockerfile
+├── package.json
+└── tsconfig.json
+```
+
+### 4.1. Lợi Ích Vượt Trội Về Mặt Bảo Trì (Maintainability):
+1. **Cô lập lỗi (Zero Side-Effects):** Khi cần sửa logic quét mã VietQR, lập trình viên chỉ cần can thiệp vào `src/features/checkout/`, hoàn toàn không ảnh hưởng đến giao diện xem Theme hay Live Preview.
+2. **Trang mỏng (Thin Pages):** Các tệp `page.tsx` trong thư mục `src/app/` chỉ dài từ 15 đến 30 dòng, đóng vai trò kết nối logic, cực kỳ dễ đọc và debug.
+3. **Phân chia 2 lập trình viên FE không xung đột:**
+   * **Thành viên 04:** Làm việc toàn quyền trong `src/features/themes/` và `src/features/preview/`.
+   * **Thành viên 05:** Làm việc toàn quyền trong `src/features/checkout/` và `src/features/licenses/`.
+   * Cả hai sử dụng chung Store và Types trong `src/shared/`.
 
 ---
 
