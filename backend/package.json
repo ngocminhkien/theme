@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "Backend API for Digital Theme Marketplace (Vietnam & Global) - MVC Architecture",
   "main": "dist/server.js",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "start": "node dist/server.js",
     "dev": "tsx watch src/server.ts",
     "lint": "eslint src/**/*.ts",
-    "test": "jest"
+    "test": "jest",
+    "db:migrate": "node ../database/migrations/migrate.cjs"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

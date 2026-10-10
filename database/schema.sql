@@ -218,19 +218,5 @@ CREATE TABLE `download_logs` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- =====================================================================
--- INITIAL SEED DATA
+-- SEED DATA: Please refer to database/seeds/01_seed_data.sql
 -- =====================================================================
-
--- Admin mặc định (Mật khẩu hash mẫu: Admin@2026)
-INSERT INTO `users` (`email`, `password_hash`, `full_name`, `role`, `status`, `country_code`) 
-VALUES ('admin@thememarket.local', '$2a$12$e6jZvhT1K8M.V.fK2DkJCe9yYj5L4y5a89M4zJ4Y0G7pG7kX1gKTe', 'Super Administrator', 'admin', 'active', 'VN');
-
--- Danh mục ngành nghề
-INSERT INTO `categories` (`name_vi`, `name_en`, `slug`, `icon`, `sort_order`) VALUES
-('Thương Mại Điện Tử & Bán Lẻ', 'E-Commerce & Retail', 'e-commerce', 'shopping-cart', 1),
-('Doanh Nghiệp & Dịch Vụ', 'Corporate & B2B', 'corporate-b2b', 'briefcase', 2),
-('Y Tế, Spa & Làm Đẹp', 'Health, Spa & Beauty', 'health-beauty', 'heart-pulse', 3),
-('Giáo Dục & Khóa Học', 'Education & LMS', 'education-lms', 'graduation-cap', 4),
-('Nhà Hàng, Café & F&B', 'Restaurant & F&B', 'restaurant-food', 'utensils', 5),
-('Bất Động Sản & Xây Dựng', 'Real Estate & Architecture', 'real-estate', 'building', 6),
-('Portfolio & Sáng Tạo', 'Creative & Agency', 'portfolio-agency', 'palette', 7);

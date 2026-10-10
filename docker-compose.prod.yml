@@ -1,0 +1,150 @@
+version: '3.8'
+
+# =====================================================================
+# PRODUCTION DOCKER COMPOSE CONFIGURATION
+# Stack: Nginx Reverse Proxy + Next.js FE + Express BE + MySQL + Redis
+# =====================================================================
+
+services:
+  # 1. Reverse Proxy & SSL (Nginx)
+  nginx:
+    image: nginx:1.27-alpine
+    container_name: theme_prod_nginx
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./docker/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./docker/nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./docker/nginx/ssl:/etc/nginx/ssl:ro
+      - ./docker/nginx/certbot:/var/www/certbot:ro
+      - nginx_logs:/var/log/nginx
+    depends_on:
+      - frontend
+      - backend
+    networks:
+      - prod_network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "20m"
+        max-file: "5"
+
+  # 2. Frontend Storefront (Next.js 15)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: theme_prod_frontend
+    restart: always
+    expose:
+      - "3000"
+    env_file:
+      - .env.production
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+    depends_on:
+      - backend
+    networks:
+      - prod_network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "20m"
+        max-file: "3"
+
+  # 3. Backend API (Node.js Express / NestJS)
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: theme_prod_backend
+    restart: always
+    expose:
+      - "4000"
+    env_file:
+      - .env.production
+    environment:
+      NODE_ENV: production
+      APP_PORT: 4000
+      DB_HOST: mysql
+      DB_PORT: 3306
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+    depends_on:
+      mysql:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - prod_network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "20m"
+        max-file: "3"
+
+  # 4. Redis Cache & Queue
+  redis:
+    image: redis:7-alpine
+    container_name: theme_prod_redis
+    restart: always
+    command: redis-server /usr/local/etc/redis/redis.conf
+    expose:
+      - "6379"
+    volumes:
+      - redis_prod_data:/data
+      - ./docker/redis/redis.conf:/usr/local/etc/redis/redis.conf:ro
+    networks:
+      - prod_network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # 5. MySQL 8.0 Database
+  mysql:
+    image: mysql:8.0
+    container_name: theme_prod_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:-rootpassword_secure_production_change_me}
+      MYSQL_DATABASE: ${DB_NAME:-theme_marketplace}
+      MYSQL_USER: ${DB_USER:-theme_user}
+      MYSQL_PASSWORD: ${DB_PASSWORD:-theme_password_secure}
+    expose:
+      - "3306"
+    volumes:
+      - mysql_prod_data:/var/lib/mysql
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./database/seeds/01_seed_data.sql:/docker-entrypoint-initdb.d/02_seed_data.sql:ro
+    command: --default-authentication-plugin=mysql_native_password --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci --max_connections=300
+    networks:
+      - prod_network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p${DB_ROOT_PASSWORD:-rootpassword_secure_production_change_me}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "20m"
+        max-file: "5"
+
+volumes:
+  mysql_prod_data:
+  redis_prod_data:
+  nginx_logs:
+
+networks:
+  prod_network:
+    driver: bridge

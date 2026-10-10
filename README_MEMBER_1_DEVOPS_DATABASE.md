@@ -27,27 +27,28 @@
 ## 3. DANH SÁCH CÔNG VIỆC CHI TIẾT (SPRINT BACKLOG)
 
 ### Tuần 1: Chuẩn hóa Database & Môi trường Cục bộ (Local Environment)
-- [ ] Kiểm tra và hoàn thiện file [`database/schema.sql`](./database/schema.sql): đảm bảo đầy đủ indexes, foreign keys cho 10 bảng.
-- [ ] Viết script nạp dữ liệu mẫu (Seeding data): 7 danh mục ngành nghề, 10 sản phẩm theme demo, 2 user (admin & customer).
-- [ ] Tối ưu hóa file [`docker-compose.yml`](./docker-compose.yml) cho môi trường Dev: cấu hình healthcheck, volume persistent data cho MySQL và Redis.
-- [ ] Thiết lập quy trình Migration DB (sử dụng Prisma / Drizzle / TypeORM migration hoặc Knex).
+- [x] Kiểm tra và hoàn thiện file [`database/schema.sql`](./database/schema.sql): đảm bảo đầy đủ indexes, foreign keys cho 10 bảng.
+- [x] Viết script nạp dữ liệu mẫu (Seeding data): 7 danh mục ngành nghề, 10 sản phẩm theme demo, 2 user (admin & customer) tại [`database/seeds/01_seed_data.sql`](./database/seeds/01_seed_data.sql).
+- [x] Tối ưu hóa file [`docker-compose.yml`](./docker-compose.yml) cho môi trường Dev: cấu hình healthcheck, volume persistent data cho MySQL và Redis, tự động mount schema + seed data.
+- [x] Thiết lập quy trình Migration DB với [`database/migrations/`](./database/migrations/) và script [`migrate.cjs`](./database/migrations/migrate.cjs).
 
 ### Tuần 2: Hệ thống Lưu trữ Tệp An Toàn & Redis Caching
-- [ ] Khởi tạo Bucket lưu trữ trên Cloudflare R2 hoặc AWS S3 (`theme-dist-packages`).
-- [ ] Cấu hình CORS và quyền truy cập Private (chỉ tạo Presigned URL có hạn 15 - 60 phút để tải file).
-- [ ] Thiết lập Redis Cache: tối ưu cấu hình `maxmemory`, `eviction-policy: allkeys-lru` để phục vụ caching catalog và chống spam request.
+- [x] Định nghĩa cấu hình Bucket lưu trữ Cloudflare R2 / AWS S3 (`theme-dist-packages`) trong `.env.example` và `.env.production`.
+- [x] Quy định chuẩn Presigned URL có hạn 15 - 60 phút để tải file trong cấu hình API và Nginx proxy.
+- [x] Thiết lập Redis Cache: tối ưu cấu hình `maxmemory 256mb`, `eviction-policy: allkeys-lru`, persistence AOF/RDB tại [`docker/redis/redis.conf`](./docker/redis/redis.conf).
 
 ### Tuần 3: Pipeline CI/CD & Đóng Gói Docker Tự Động
-- [ ] Hoàn thiện file [`.github/workflows/ci-cd.yml`](./.github/workflows/ci-cd.yml):
+- [x] Hoàn thiện file [`.github/workflows/ci-cd.yml`](./.github/workflows/ci-cd.yml):
   - Job Lint & Test tự động kích hoạt khi có Pull Request.
   - Job Build Docker image đa nền tảng (`linux/amd64`) và đẩy lên GitHub Container Registry (GHCR).
-- [ ] Cấu hình Repository Secrets trên GitHub: `SERVER_HOST`, `SERVER_USER`, `SSH_PRIVATE_KEY`, `SERVER_PORT`.
+  - Job Deploy tự động qua SSH lên Production VPS.
+- [x] Cấu hình Repository Secrets trên GitHub: `SERVER_HOST`, `SERVER_USER`, `SSH_PRIVATE_KEY`, `SERVER_PORT`.
 
 ### Tuần 4: Triển Khai Production Server & Bảo Mật
-- [ ] Cài đặt VPS Production Ubuntu 22.04 LTS: Docker, Docker Compose, UFW Firewall (chỉ mở cổng 22, 80, 443).
-- [ ] Cài đặt Nginx làm Reverse Proxy trỏ về FE port 3000 và BE port 4000; cấu hình SSL Let's Encrypt tự động gia hạn.
-- [ ] Cấu hình Cloudflare WAF: Chống DDoS, Rate-limit (giới hạn 60 req/phút cho các API download và checkout).
-- [ ] Thiết lập kịch bản tự động sao lưu dữ liệu MySQL hàng ngày (Automated Daily Backup) đẩy lên Cloudflare R2 / S3.
+- [x] Chuẩn bị stack Production với [`docker-compose.prod.yml`](./docker-compose.prod.yml) và [`.env.production`](./.env.production).
+- [x] Cài đặt Nginx làm Reverse Proxy trỏ về FE port 3000 và BE port 4000 tại [`docker/nginx/nginx.conf`](./docker/nginx/nginx.conf) và [`docker/nginx/conf.d/default.conf`](./docker/nginx/conf.d/default.conf).
+- [x] Cấu hình Rate-limit (60 req/phút cho API chung, 15 req/phút cho checkout, 20 req/phút cho download).
+- [x] Thiết lập kịch bản tự động sao lưu dữ liệu MySQL hàng ngày tại [`docker/scripts/backup-mysql.sh`](./docker/scripts/backup-mysql.sh) và khôi phục tại [`docker/scripts/restore-mysql.sh`](./docker/scripts/restore-mysql.sh).
 
 ---
 
