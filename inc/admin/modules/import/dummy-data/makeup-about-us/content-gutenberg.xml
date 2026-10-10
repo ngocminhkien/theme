@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>makup-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 23 Oct 2024 13:23:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/makeup-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[About us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/</link>
+					<pubDate>Mon, 28 Oct 2024 14:50:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/makeup-gutenberg/?page_id=64</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"e7de6d8e-7e21-41e6-ab59-56c5ffd1eda9","blockVersion":"2","colorScheme":"light","bgColorCode":"#a1cfde","paddingTop":"60","paddingBottom":"60","marginTop":"-40","marginBottom":"40","paddingTopTablet":"40","paddingBottomTablet":"40"} -->
+<div class="wp-block-wd-section color-scheme-light wd-e7de6d8e"><!-- wp:wd/container {"blockId":"e10fc5a7-31cf-45d7-a383-8f6a0d111c0d","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-e10fc5a7"><!-- wp:wd/title {"blockId":"614f5db3-5708-4900-8d0c-69b81e40ac4a","blockVersion":"2","content":"A Complete Assortment of Cosmetics, At the Touch of a Finger.","tpFontSize":"48","tpLineHeight":"1.2","displayWidth":"custom","customWidth":"848","tpFontSizeTablet":"28","tpFontSizeMobile":"22","tpLineHeightUnits":"em","displayWidthTablet":"custom","customWidthTablet":"497"} -->
+<h2 class="wp-block-wd-title title wd-614f5db3 wd-custom-width">A Complete Assortment of Cosmetics, At the Touch of a Finger.</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"724171e1-3463-4fe7-9380-987bf28ad2d5","blockVersion":"2","colorCode":"#ffffff","tpFontSize":"22","displayWidth":"custom","customWidth":"853","htmlTag":"h4","tpFontSizeTablet":"20","tpFontSizeMobile":"18"} -->
+<h4 class="wp-block-wd-paragraph wd-724171e1 wd-custom-width">Care to Beauty is all about simplifying your way to beauty and skincare. Wherever you are in the world, we believe you deserve the very best products.</h4>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/gallery {"blockId":"28f8e0c2-3b0a-43c5-9623-ad78dd9c4320","blockVersion":"2","layout":"carousel","slidesPerView":"3.5","scrollPerPage":false,"centerMode":false,"wrap":false,"disableOverflowCarousel":true,"paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"syncParentId":"wd_28f8e0c2","marginTop":"100","marginTopTablet":"60","marginTopMobile":"40"} -->
+<div class="wp-block-wd-gallery wd-carousel-container wd-caption-mask wd-28f8e0c2" style=""><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:3.5;--wd-col-md:3;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;--wd-carousel-overflow:visible;"><div class="wd-carousel-wrap"><!-- wp:wd/gallery-item {"blockId":"424daa3e-fb07-4e3a-9a90-d1c4c5c6b654","blockVersion":"2","image":{"id":249,"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-3-opt.jpg"},"layout":"carousel","imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-3-opt.jpg"}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-424daa3e"><div class="wd-block-image"><img class="wp-image-249" src="https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-3-opt.jpg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"f755ae0e-529e-466c-b37f-fd11f8ad8521","blockVersion":"2","image":{"id":250,"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-4-opt.jpg"},"layout":"carousel","imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-4-opt.jpg"}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-f755ae0e"><div class="wd-block-image"><img class="wp-image-250" src="https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-4-opt.jpg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"b71c34ad-9969-4dd1-9457-966cfd643454","blockVersion":"2","image":{"id":251,"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-5-opt.jpg"},"layout":"carousel","imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-5-opt.jpg"}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-b71c34ad"><div class="wd-block-image"><img class="wp-image-251" src="https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-5-opt.jpg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"8c0e50f8-add1-4ab6-98be-ba0edcfb5513","blockVersion":"2","image":{"id":252,"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-1-opt.jpg"},"layout":"carousel","imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-1-opt.jpg"}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-8c0e50f8"><div class="wd-block-image"><img class="wp-image-252" src="https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-1-opt.jpg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"a1315d68-9dab-4a05-8e7a-d2aa8c444e2a","blockVersion":"2","image":{"id":253,"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-2-opt.jpg"},"layout":"carousel","imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-2-opt.jpg"}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-a1315d68"><div class="wd-block-image"><img class="wp-image-253" src="https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-2-opt.jpg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/container {"blockId":"b1aa54fb-0191-4859-9fdc-f66e4bf73422","blockVersion":"2","textAlign":"center","colGap":"","rowGap":"","bgColorCode":"#ffffff","paddingTop":"40","paddingBottom":"40","marginBottom":"40","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div class="wp-block-wd-container wd-dir-col wd-align wd-b1aa54fb"><!-- wp:wd/title {"blockId":"0e959718-7b1c-46bd-8723-77c1a638dac3","blockVersion":"2","content":"Meet The Team","tpFontSize":"42","tpLineHeight":"1.2","paddingRight":"15","paddingLeft":"15","tpFontSizeTablet":"24","tpFontSizeMobile":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-0e959718">Meet The Team</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"518e00d1-30d1-4013-9223-dd1142541b0f","blockVersion":"2","paddingRight":"15","paddingLeft":"15","marginBottom":"20","displayWidth":"custom","customWidth":"573"} -->
+<p class="wp-block-wd-paragraph wd-518e00d1 wd-custom-width">Each member excels both professionally and personally, contributing their unique talents to create a harmonious and effective work environment.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/marquee {"blockId":"4df07396-342e-453f-8a58-ddcc3a8f66f9","blockVersion":"2","speed":"90"} -->
+<!-- wp:wd/marquee-item {"blockId":"9bde49c9-7e95-4b85-86e2-925b3a3e73ef"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-9bde49c9"><!-- wp:wd/image {"blockId":"f48694a3-4936-44ae-85de-0ee840b711e9","blockVersion":"2","image":{"id":254,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-1-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-1-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-f48694a3"><img class="wp-image-254" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-1-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"f92f37d4-ebea-424e-a4d4-d643ef806817"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-f92f37d4"><!-- wp:wd/image {"blockId":"a9a2e76a-8513-47cd-882b-50a70326bd60","blockVersion":"2","image":{"id":255,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-2-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-2-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-a9a2e76a"><img class="wp-image-255" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-2-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"152d3a58-d303-4a70-b8f4-99c6725fb015"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-152d3a58"><!-- wp:wd/image {"blockId":"fe964a73-1629-43ce-8f32-9e369181520f","blockVersion":"2","image":{"id":256,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-3-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-3-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-fe964a73"><img class="wp-image-256" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-3-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"b6086996-304e-49b3-a061-19c4a02b4887"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-b6086996"><!-- wp:wd/image {"blockId":"f807dbe8-fe73-4dac-8327-bd7985f558ca","blockVersion":"2","image":{"id":257,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-4-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-4-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-f807dbe8"><img class="wp-image-257" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-4-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"b58c6de1-3277-4713-ab19-14659080cbb1"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-b58c6de1"><!-- wp:wd/image {"blockId":"e1157362-6883-4906-bd78-79fcf77ca38c","blockVersion":"2","image":{"id":258,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-5-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-5-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-e1157362"><img class="wp-image-258" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-5-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"fd6d59cb-03d0-4e9c-a588-548e040bfde3"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-fd6d59cb"><!-- wp:wd/image {"blockId":"27439dab-587f-4124-81bf-8d8dfbf1f4d2","blockVersion":"2","image":{"id":259,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-6-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-6-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-27439dab"><img class="wp-image-259" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-6-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"23cf3d0b-b42a-4815-a1c6-131620eea09a"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-23cf3d0b"><!-- wp:wd/image {"blockId":"5003cb74-875f-46f8-bd7c-91faad81359e","blockVersion":"2","image":{"id":260,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-7-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-7-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-5003cb74"><img class="wp-image-260" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-7-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"b5f1d8be-2da8-4ffd-8cd5-c7cdd1bec674"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-b5f1d8be"><!-- wp:wd/image {"blockId":"30cab102-ef70-4326-9d71-8d594e12b145","blockVersion":"2","image":{"id":261,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-8-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-8-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-30cab102"><img class="wp-image-261" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-8-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"976cb3b6-7d27-43c0-b45c-9a753886d478"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-976cb3b6"><!-- wp:wd/image {"blockId":"db003c05-157a-4f38-a8f9-799b9b9a7ef6","blockVersion":"2","image":{"id":262,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-9-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-9-opt.png","width":160,"height":160}} -->
+<div class="wp-block-wd-image wd-block-image wd-db003c05"><img class="wp-image-262" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-9-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/marquee-item -->
+<!-- /wp:wd/marquee --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"88b2ed3a-8956-43bb-a209-fe97428e0981","blockVersion":"2","columnsGap":20,"marginBottom":"20"} -->
+<div class="wp-block-wd-row wd-88b2ed3a"><!-- wp:wd/column {"blockId":"0a2a7b27-4b25-4197-9a30-84bbb0e35b9e","blockVersion":"2","adjacentCount":2,"colWidth":50,"justifyContent":"center","colorScheme":"light","textAlign":"center","bgImage":{"id":263,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-vid-opt.jpg"},"bgPosition":"center center","bgRepeat":"no-repeat","bgDisplaySize":"cover","paddingTop":"90","paddingRight":"20","paddingBottom":"90","paddingLeft":"20","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column color-scheme-light wd-align wd-0a2a7b27"><!-- wp:wd/paragraph {"blockId":"7027e9bb-1bfc-41dd-9b8a-85d02591e66a","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-7027e9bb">Cosmetic collections</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"ef0d8b21-e8f0-4e2e-8d6e-c64651a0a7ac","blockVersion":"2","content":"How We Start Our Business","tpFontSize":"28","tpLineHeight":"1.2","tpFontSizeTablet":"24","tpFontSizeMobile":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-ef0d8b21">How We Start Our Business</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/video {"blockId":"4b6fc58f-2812-4d9d-b818-42d07e42127f","blockVersion":"2","videoType":"external","videoHosted":{"id":"","url":""},"externalUrl":"https://www.youtube.com/watch?v=LXb3EKWsInQ","videoActionButton":"play","playBtnIconSize":"78"} -->
+<div class="wp-block-wd-video wd-el-video wd-action-play wd-video-external wd-4b6fc58f"><a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="wd-el-video-btn"><span class="wd-el-video-play-btn"></span></a></div>
+<!-- /wp:wd/video --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"00643248-bf8a-4f74-9f30-7598b82bd9d0","blockVersion":"2","adjacentCount":2,"colWidth":50,"colorScheme":"light","bgColorCode":"#a1cfde","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","adjacentCountTablet":1,"colWidthTablet":100,"paddingTopMobile":"20","paddingRightMobile":"20","paddingBottomMobile":"20","paddingLeftMobile":"20","paddingLockMobile":true} -->
+<div class="wp-block-wd-column color-scheme-light wd-00643248"><!-- wp:wd/row {"blockId":"d1ce296c-ad6f-459e-8558-035c1c8c0755","blockVersion":"2"} -->
+<div class="wp-block-wd-row wd-d1ce296c"><!-- wp:wd/column {"blockId":"81ac4fa7-22cb-496e-b800-9c80521b24ee","blockVersion":"2","adjacentCount":2,"colWidth":55,"justifyContent":"center"} -->
+<div class="wp-block-wd-column wd-81ac4fa7"><!-- wp:wd/title {"blockId":"769d8504-4a80-436b-939f-031c50deaf20","blockVersion":"2","content":"Become a Member of the Club","tpFontSize":"28","tpLineHeight":"1.2","displayWidth":"custom","customWidth":"262","tpFontSizeTablet":"24","tpFontSizeMobile":"22","tpLineHeightUnits":"em","displayWidthTablet":"full-width","customWidthTablet":"2000"} -->
+<h2 class="wp-block-wd-title title wd-769d8504 wd-custom-width">Become a Member of the Club</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"14a4ce86-4554-40ec-aa60-456405aca128","blockVersion":"2","displayWidth":"","customWidth":""} -->
+<p class="wp-block-wd-paragraph wd-14a4ce86">With every purchase you make, you'll earn cashback credited to your Woodmart Club account, along with additional perks.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/mailchimp {"blockId":"a7f83d1a-1c9e-403b-bf6a-32a11af647cc","blockVersion":"2","form_id":"266","formColorCode":"#777777","formPlaceholderColorCode":"#777777","formBgCode":"#ffffff","buttonBgColorCode":"#242424","buttonBgColorHoverCode":"#333333"} /-->
+
+<!-- wp:wd/paragraph {"blockId":"28f9213d-1525-4008-9037-6991b72d73a8","blockVersion":"2","tpFontSize":"14","displayWidth":"","customWidth":""} -->
+<p class="wp-block-wd-paragraph wd-28f9213d">Will be used in accordance with our <a href="#">Privacy Policy</a></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c1ff1302-2bad-45be-ba6a-d166a60def39","blockVersion":"2","adjacentCount":2,"colWidth":45} -->
+<div class="wp-block-wd-column wd-c1ff1302"><!-- wp:wd/image {"blockId":"d547d9d9-07a6-4f14-9a2a-656b7f068aa3","blockVersion":"2","image":{"id":267,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-memb-club.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-memb-club.jpg","width":320,"height":340}} -->
+<div class="wp-block-wd-image wd-block-image wd-d547d9d9"><img class="wp-image-267" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-memb-club.jpg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/brands {"blockId":"5418e443-afb0-42fe-8278-23960675792f","blockVersion":"2","filter_in_current_category":false,"imagesHeight":"50","with_bg_color":true,"marginBottom":"80","slides_per_view":"7","hide_pagination_control":true,"sync_parent_id":"wd_f1136f9d","brandBgColorCode":"#fefefe","marginBottomTablet":"60","marginBottomMobile":"40","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/collapsible-content {"blockId":"371124f5-9be1-471d-b828-34427a5f3cc5","blockVersion":"2","contentHeight":"320"} -->
+<div class="wp-block-wd-collapsible-content wd-effect-fade wd-371124f5"><!-- wp:wd/container {"blockId":"a48c5291-93b8-4a80-a07e-0d9368049a39","blockVersion":"2","metadata":{"name":"Content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-a48c5291"><!-- wp:wd/title {"blockId":"f72e9bee-924a-4796-9cba-757f9ac1f54c","blockVersion":"2","content":"Makeup for special events: shine uniquely!","tpFontSize":"28","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-f72e9bee">Makeup for special events: shine uniquely!</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e05de1e5-27d5-4c67-ba2a-f5eda735a008","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e05de1e5">A special day requires a special look, and bright makeup will be its highlight. Regardless of whether it is a wedding, a corporate event, or a romantic dinner, the right makeup will help you feel confident and unforgettable. An effective skincare routine starts with an effective&nbsp;<em>cleansing</em>&nbsp;routine. Far from being the overly aggressive detergents of yesteryear, today’s cleansers often have gentle, mild formulas that work well with the specific needs of different skin types, removing impurities and make-up residue without stripping the skin of its natural oils.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"43f546cb-33df-4476-aaa9-364e1231fb35","blockVersion":"2","content":"Make-up should harmonize with your outfit, hairstyle and accessories.","tpFontSize":"24","htmlTag":"h4","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h4 class="wp-block-wd-title title wd-43f546cb">Make-up should harmonize with your outfit, hairstyle and accessories.</h4>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"8ff8e446-084c-4f5d-8b4c-fbbf912d2dc1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-8ff8e446">If you’ve been following&nbsp;Care to Beauty&nbsp;for a while, you that our specialty is French pharmacy skincare. These were the first brands we worked with and we continue to identify with their ethos–for us, there’s nothing better than gentle skincare products that focus on resolving skin concerns without disrupting the skin barrier.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"6ad49683-a5b1-4f8a-a406-3427abea8c3b","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-6ad49683">If you’re looking to replenish your skincare stash with French pharmacy products at discounted prices, we have offers of up to 50%–time to stock up on iconic moisturizers like&nbsp;Avenge Tolerance Control Soothing Skin Recovery Cream, or rich lip balms like&nbsp;NUKE Rave de Miel Honey Lip Balm Ultra Nourishing and Repairing.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"20bd89db-35c5-45d3-afab-0ba74e43caf3","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-20bd89db">Here at&nbsp;Care to Beauty, we’re sunscreen evangelists: if you use nothing else in your daily skincare routine, use sunscreen. Sunscreen has multiple benefits, ranging from the cosmetic (it helps prevent photoaging and some forms of dark spots and hyperpigmentation) to the health-related (it’s our first line of defense against skin cancer). Between mineral and chemical sunscreens, tinted or untinted, in milky or creamy textures, or even gel-like consistencies, there’s a world of sunscreen options out there, so we know there’s one for you.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"64b4136d-8da9-4f8b-8071-d1260f73b90e","blockVersion":"2","predefinedColor":"white","shape":"round","icon":"right"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-default btn-shape-round btn-icon-pos-right wd-64b4136d"><span>Read more</span><!-- wp:wd/icon {"blockId":"1be247f9-5ba5-44dc-891c-7e506cddceab","blockVersion":"2","image":{"id":205,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg"},"width":"15"} -->
+<div class="wp-block-wd-icon wd-1be247f9"><img class="wp-image-205" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg" alt=""/></div>
+<!-- /wp:wd/icon --></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/collapsible-content -->]]></content:encoded>
+															<wp:post_id>64</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 14:50:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 14:50:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-29 11:47:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-29 11:47:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[chevron-down-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/chevron-down-black/</link>
+					<pubDate>Mon, 28 Oct 2024 14:59:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg</guid>
+															<wp:post_id>205</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 14:59:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 14:59:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 14:59:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 14:59:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[chevron-down-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/chevron-down-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-glry-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-glry-3-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-3-opt.jpg</guid>
+															<wp:post_id>249</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-glry-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-glry-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-glry-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-glry-4-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-4-opt.jpg</guid>
+															<wp:post_id>250</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-glry-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-glry-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-glry-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-glry-5-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-5-opt.jpg</guid>
+															<wp:post_id>251</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-glry-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-glry-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-glry-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-glry-1-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-1-opt.jpg</guid>
+															<wp:post_id>252</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-glry-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-glry-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-glry-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-glry-2-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-2-opt.jpg</guid>
+															<wp:post_id>253</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-glry-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-glry-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-1-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-1-opt.png</guid>
+															<wp:post_id>254</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-1-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-1-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-2-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-2-opt.png</guid>
+															<wp:post_id>255</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-2-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-2-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-3-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-3-opt.png</guid>
+															<wp:post_id>256</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-3-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-3-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-4-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-4-opt.png</guid>
+															<wp:post_id>257</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-4-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-4-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-5-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-5-opt.png</guid>
+															<wp:post_id>258</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-5-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-5-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-6-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:18 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-6-opt.png</guid>
+															<wp:post_id>259</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:18]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:18]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:18]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:18]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-6-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-6-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-7-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-7-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:27 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-7-opt.png</guid>
+															<wp:post_id>260</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:27]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:27]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:27]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:27]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-7-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-7-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-7-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-8-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-8-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:37 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-8-opt.png</guid>
+															<wp:post_id>261</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:37]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:37]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:37]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:37]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-8-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-8-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-8-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-9-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-9-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-9-opt.png</guid>
+															<wp:post_id>262</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-9-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-9-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-9-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-abus-vid-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-abus-vid-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:33:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-vid-opt.jpg</guid>
+															<wp:post_id>263</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:33:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:33:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:33:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:33:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-abus-vid-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-vid-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-abus-vid-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-abus-memb-club]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-abus-memb-club/</link>
+					<pubDate>Mon, 28 Oct 2024 15:35:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-memb-club.jpg</guid>
+															<wp:post_id>267</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:35:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:35:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:35:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:35:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-abus-memb-club]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-memb-club.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-abus-memb-club.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[chevron-down-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/chevron-down-black/</link>
+					<pubDate>Mon, 28 Oct 2024 14:59:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg</guid>
+															<wp:post_id>205</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 14:59:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 14:59:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 14:59:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 14:59:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[chevron-down-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/chevron-down-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-glry-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-glry-5-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-5-opt.jpg</guid>
+															<wp:post_id>251</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-glry-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-glry-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-glry-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-glry-1-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-1-opt.jpg</guid>
+															<wp:post_id>252</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-glry-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-glry-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-glry-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-glry-2-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-2-opt.jpg</guid>
+															<wp:post_id>253</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-glry-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-glry-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-glry-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-1-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-1-opt.png</guid>
+															<wp:post_id>254</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-1-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-1-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-2-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-2-opt.png</guid>
+															<wp:post_id>255</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-2-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-2-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-3-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:31:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-3-opt.png</guid>
+															<wp:post_id>256</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:31:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:31:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:31:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:31:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-3-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-3-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-4-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-4-opt.png</guid>
+															<wp:post_id>257</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-4-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-4-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-5-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-5-opt.png</guid>
+															<wp:post_id>258</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-5-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-5-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-6-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:18 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-6-opt.png</guid>
+															<wp:post_id>259</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:18]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:18]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:18]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:18]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-6-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-6-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-7-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-7-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:27 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-7-opt.png</guid>
+															<wp:post_id>260</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:27]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:27]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:27]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:27]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-7-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-7-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-7-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-8-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-8-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:37 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-8-opt.png</guid>
+															<wp:post_id>261</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:37]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:37]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:37]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:37]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-8-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-8-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-8-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-9-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-tm-p-9-opt/</link>
+					<pubDate>Mon, 28 Oct 2024 15:32:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-9-opt.png</guid>
+															<wp:post_id>262</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:32:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:32:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:32:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:32:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-9-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-tm-p-9-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-tm-p-9-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-abus-memb-club]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/about-us/c2-abus-memb-club/</link>
+					<pubDate>Mon, 28 Oct 2024 15:35:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-memb-club.jpg</guid>
+															<wp:post_id>267</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:35:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:35:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 15:35:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 15:35:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-abus-memb-club]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>64</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/c2-abus-memb-club.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/c2-abus-memb-club.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

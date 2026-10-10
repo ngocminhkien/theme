@@ -1,0 +1,42 @@
+<?php
+/**
+ * Mobile optimization functions.
+ *
+ * @package woodmart
+ */
+
+if ( ! defined( 'WOODMART_THEME_DIR' ) ) {
+	exit( 'No direct script access allowed' );
+}
+
+if ( ! function_exists( 'woodmart_wp_is_mobile' ) ) {
+	/**
+	 * Filter page content.
+	 *
+	 * @param boolean $is_mobile Is mobile.
+	 *
+	 * @return string|void
+	 */
+	function woodmart_wp_is_mobile( $is_mobile ) {
+		if ( isset( $_SERVER['HTTP_USER_AGENT'] ) && strpos( $_SERVER['HTTP_USER_AGENT'], 'iPad' ) ) { // phpcs:ignore
+			$is_mobile = false;
+		}
+
+		return $is_mobile;
+	}
+
+	add_filter( 'wp_is_mobile', 'woodmart_wp_is_mobile' );
+}
+
+if ( ! function_exists( 'woodmart_is_mobile' ) ) {
+	/**
+	 * Check is mobile device.
+	 *
+	 * @return bool
+	 */
+	function woodmart_is_mobile() {
+		$is_mobile = wp_is_mobile();
+
+		return apply_filters( 'woodmart_is_mobile', $is_mobile );
+	}
+}

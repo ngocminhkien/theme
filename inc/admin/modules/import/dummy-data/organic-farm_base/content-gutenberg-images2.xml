@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Farm gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:27:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/farm-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[farm-milk-1.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=37</link>
+					<pubDate>Wed, 24 Jul 2024 11:05:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-milk-1.jpg</guid>
+															<wp:post_id>37</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:05:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:05:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 11:05:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 11:05:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-milk-1-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>13</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-milk-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-milk-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-milk-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-milk-2.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=38</link>
+					<pubDate>Wed, 24 Jul 2024 11:05:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-milk-2.jpg</guid>
+															<wp:post_id>38</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:05:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:05:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 11:05:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 11:05:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-milk-2-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>13</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-milk-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-milk-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-milk-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-milk-3.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=39</link>
+					<pubDate>Wed, 24 Jul 2024 11:05:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-milk-3.jpg</guid>
+															<wp:post_id>39</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:05:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:05:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 11:05:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 11:05:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-milk-3-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>13</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-milk-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-milk-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-milk-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-milk-4.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=40</link>
+					<pubDate>Wed, 24 Jul 2024 11:05:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-milk-4.jpg</guid>
+															<wp:post_id>40</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:05:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:05:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 11:05:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 11:05:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-milk-4-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>13</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-milk-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-milk-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-milk-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-butter-unsalted-1.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=41</link>
+					<pubDate>Wed, 24 Jul 2024 11:05:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-butter-unsalted-1.jpg</guid>
+															<wp:post_id>41</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:05:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:05:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 11:05:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 11:05:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-butter-unsalted-1-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>17</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-butter-unsalted-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-butter-unsalted-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-butter-unsalted-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-butter-unsalted-salted-2.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=42</link>
+					<pubDate>Wed, 24 Jul 2024 11:05:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-butter-unsalted-salted-2.jpg</guid>
+															<wp:post_id>42</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:05:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:05:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 11:05:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 11:05:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-butter-unsalted-salted-2-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>17</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-butter-unsalted-salted-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-butter-unsalted-salted-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-butter-unsalted-salted-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-butter-unsalted-salted-3.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=43</link>
+					<pubDate>Wed, 24 Jul 2024 11:05:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-butter-unsalted-salted-3.jpg</guid>
+															<wp:post_id>43</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:05:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:05:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 11:05:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 11:05:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-butter-unsalted-salted-3-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>17</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-butter-unsalted-salted-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-butter-unsalted-salted-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-butter-unsalted-salted-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-butter-unsalted-salted-4.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=44</link>
+					<pubDate>Wed, 24 Jul 2024 11:05:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-butter-unsalted-salted-4.jpg</guid>
+															<wp:post_id>44</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:05:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:05:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 11:05:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 11:05:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-butter-unsalted-salted-4-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>17</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-butter-unsalted-salted-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-butter-unsalted-salted-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-butter-unsalted-salted-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-product-description-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=155</link>
+					<pubDate>Wed, 24 Jul 2024 13:35:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-product-description-opt.jpg</guid>
+															<wp:post_id>155</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:35:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:35:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:35:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:35:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-product-description-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>13</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-product-description-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-product-description-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-blog-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-blog-1-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:51:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-1-opt.jpg</guid>
+															<wp:post_id>160</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:51:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:51:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:51:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:51:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-blog-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-blog-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-blog-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-blog-2-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:51:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-2-opt.jpg</guid>
+															<wp:post_id>161</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:51:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:51:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:51:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:51:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-blog-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-blog-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-blog-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-blog-3-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:51:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-3-opt.jpg</guid>
+															<wp:post_id>162</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:51:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:51:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:51:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:51:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-blog-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-blog-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-blog-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-blog-4-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:51:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-4-opt.jpg</guid>
+															<wp:post_id>163</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:51:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:51:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:51:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:51:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-blog-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-blog-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-blog-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-blog-6-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:51:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-6-opt.jpg</guid>
+															<wp:post_id>164</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:51:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:51:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:51:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:51:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-blog-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-6-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-blog-6-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-blog-7-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-blog-7-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:51:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-7-opt.jpg</guid>
+															<wp:post_id>165</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:51:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:51:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:51:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:51:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-blog-7-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-7-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-blog-7-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-blog-8-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-blog-8-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:51:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-8-opt.jpg</guid>
+															<wp:post_id>166</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:51:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:51:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:51:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:51:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-blog-8-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-8-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-blog-8-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-blog-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/breeding-solutions-for-organic-dairy-farmers/farm-blog-5-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:53:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-5-opt.jpg</guid>
+															<wp:post_id>167</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:53:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:53:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:53:06]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:53:06]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-blog-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>82</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-blog-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-blog-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-single-post-image-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-single-post-image-2-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:55:02 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-single-post-image-2-opt.jpg</guid>
+															<wp:post_id>171</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:55:02]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:55:02]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:55:02]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:55:02]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-single-post-image-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-single-post-image-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-single-post-image-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-single-post-image-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/2024/07/24/pre-calving-supplement-offers-nutrition-boost/farm-single-post-image-4-opt/</link>
+					<pubDate>Wed, 24 Jul 2024 13:55:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-single-post-image-4-opt.jpg</guid>
+															<wp:post_id>172</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 13:55:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 13:55:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 13:55:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 13:55:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-single-post-image-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>90</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-single-post-image-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-single-post-image-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

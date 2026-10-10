@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Vegetables gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 31 Jul 2024 11:08:52 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>49</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[all-categories-vegetables]]></wp:term_slug><wp:term_name><![CDATA[All categories Vegetables]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[Contact form Vegetables]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?post_type=wpcf7_contact_form&#038;p=14</link>
+					<pubDate>Wed, 31 Jul 2024 11:19:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?post_type=wpcf7_contact_form&#038;p=14</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* First name placeholder ="First name"]</div>
+<div class="wd-col">[text* Last name placeholder ="Email" ]</div>
+</div>
+<div class="wd-col">[textarea your-message placeholder ="Your Message"]</div>
+<div class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>14</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 11:19:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 11:19:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-24 13:45:37]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-24 13:45:37]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* First name placeholder ="First name"]</div>
+<div class="wd-col">[text* Last name placeholder ="Email" ]</div>
+</div>
+<div class="wd-col">[textarea your-message placeholder ="Your Message"]</div>
+<div class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</div>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9f0a3de6531528859f6336d2033c2c220ab15ecc]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}s:23:"mail.additional_headers";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:51:"Invalid mailbox syntax is used in the %name% field.";s:6:"params";a:1:{s:4:"name";s:8:"Reply-To";}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/contact-us/</link>
+					<pubDate>Mon, 05 Aug 2024 09:41:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?page_id=68</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"cce0877d-70e3-446b-92b3-af4a4e746458","blockVersion":"2","marginTop":"-30","marginBottom":"40","marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div class="wp-block-wd-row wd-cce0877d"><!-- wp:wd/column {"blockId":"f28bf349-faa8-4184-8705-14f6b61e41e4","blockVersion":"2","adjacentCount":2,"colWidth":42,"justifyContent":"center"} -->
+<div class="wp-block-wd-column wd-f28bf349"><!-- wp:wd/title {"blockId":"8a0c55df-8bd8-4879-8f6a-7b4c60ce7e39","blockVersion":"2","content":"Head Office","tpFontSize":"28","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-8a0c55df">Head Office</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"706f0bf5-4236-4032-9bf5-4cd5eaa6eb78","blockVersion":"2","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-706f0bf5"><a href="#">Birmingham B37 7JS, United Kingdom</a></p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"20ad6c77-30aa-4b14-ba21-dd94ec0d640b","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-20ad6c77">Monday – Tuesday 10.00am – 4.00pm (By Appointment Only)<br>Wednesday – Saturday, 10.00am – 4.00pm Sunday, Closed</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/row {"blockId":"bfea530c-3294-4fb1-9d6f-79a87a4a7d56","blockVersion":"2","columnsGap":20} -->
+<div class="wp-block-wd-row wd-bfea530c"><!-- wp:wd/column {"blockId":"c66e984c-0725-4483-a0d4-2ee946597121","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-c66e984c"><!-- wp:wd/title {"blockId":"2adfe044-596a-485d-9bd8-5bfaafaeafcb","blockVersion":"2","content":"Phone","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-2adfe044">Phone</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"8c8350d2-8d44-452b-b85a-9c2286ce6341","blockVersion":"2","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-8c8350d2"><a href="tel:(956) 238-7908">(956) 238-7908</a></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"26817969-4995-4e9a-a55f-2bab82344f26","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-26817969"><!-- wp:wd/title {"blockId":"1318822b-eac6-403e-ba1c-170e3d3fefa2","blockVersion":"2","content":"Email","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-1318822b">Email</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"a80a88ca-132d-4c34-b8ba-6a4411a72634","blockVersion":"2","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-a80a88ca"><a href="mailto:#">mail.studio@gmail.com</a></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"b627613f-6985-4805-b9e4-0670c808a43b","blockVersion":"2","adjacentCount":2,"colWidth":58,"bgColorCode":"#ffffff","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","paddingTopMobile":"20","paddingRightMobile":"20","paddingBottomMobile":"20","paddingLeftMobile":"20"} -->
+<div class="wp-block-wd-column wd-b627613f"><!-- wp:wd/title {"blockId":"00e0efa1-ab38-4124-90ba-dfbbcb9ead07","blockVersion":"2","content":"Get in Touch","tpFontSize":"28","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-00e0efa1">Get in Touch</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"b8fd6a9c-8834-4f3d-90fa-028dc74ed6db","blockVersion":"2","form_id":"14"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>68</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-05 09:41:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-05 09:41:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-06 14:14:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-06 14:14:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Header menu Vegetables Fruits]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?cms_block=header-menu-vegetables-fruits</link>
+					<pubDate>Tue, 06 Aug 2024 09:18:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?post_type=cms_block&#038;p=159</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"4f13ac46-eabe-4709-82db-10fcf99ca80a","colGap":"","rowGap":"0","paddingTopTablet":"20","paddingRightTablet":"20","paddingBottomTablet":"20","paddingLeftTablet":"20","paddingLockTablet":true} -->
+<div id="wd-4f13ac46" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"2f22248f-85ad-42ba-b0f4-3be658303575","content":"Vegetables \u0026amp; Fruits","tpFontSize":"16","marginBottom":"10"} -->
+<h2 id="wd-2f22248f" class="wp-block-wd-title title">Vegetables &amp; Fruits</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/product-categories {"blockId":"9f37bf1d-f632-424b-adc1-611960078ab6","orderby":"id","ids":"18,17,50,51,19","hide_empty":false,"categories_design":"side","image_container_width":"45","columns":2,"spacing":"10","img_size":"custom","imgSizeCustomWidth":"45","imgSizeCustomHeight":"45","subcategories":"disable","grid_product_count":"disable","marginBottom":"20","titleFontSize":"14","titleTextTransform":"capitalize","columnsTablet":1,"columnsMobile":1} /-->
+
+<!-- wp:wd/cover {"blockId":"0593f08c-5848-411a-b487-ba9393460eba","hover":"zoom-in","contentAlignVertical":"center","height":"220","bgImage":{"id":476,"url":"http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-discounts-vegetables-opt.jpg"},"marginBottom":"30"} -->
+<div id="wd-0593f08c" class="wp-block-wd-cover wd-hover-parent wd-hover-zoom-in"><div class="wd-block-cover-img"></div><!-- wp:wd/container {"blockId":"a6b5bb79-4a1a-4a8a-9ac8-4fbeb9cd8af0","displayWidth":"custom","customWidth":"240","displayWidthTablet":"custom","customWidthTablet":"180","metadata":{"name":"Banner content"}} -->
+<div id="wd-a6b5bb79" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"e382064e-4e0c-4f3b-8aed-639845125bd9","content":"Get Discounts on Fresh Vegetables \u0026amp; Fruits","tpFontSize":"18","colorCode":"#4c5a3c"} -->
+<h2 id="wd-e382064e" class="wp-block-wd-title title">Get Discounts on Fresh Vegetables &amp; Fruits</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"4b032d80-734e-4a64-b323-b67a045ce163","predefinedColor":"white","size":"small","shape":"semi-round"} -->
+<a id="wd-4b032d80" class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-small btn-shape-semi-round" href="#"><span>To Shop</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"c691239e-3516-42e7-a4b4-a0f1b893e118","layout":"carousel","items_per_page":"4","slides_per_view":"2.4","hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"sync_parent_id":"wd_b8188d81","slides_per_viewMobile":"1.4","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>159</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:18:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:18:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-10 11:35:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-10 11:35:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[header-menu-vegetables-fruits]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[Header menu Vegan Meat]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?cms_block=header-menu-vegan-meat</link>
+					<pubDate>Tue, 06 Aug 2024 09:18:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?post_type=cms_block&#038;p=160</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"6d9a3375-d15d-424c-b16a-8e709626d45f","rowGap":"0","paddingTopTablet":"20","paddingRightTablet":"20","paddingBottomTablet":"20","paddingLeftTablet":"20","paddingLockTablet":true} -->
+<div id="wd-6d9a3375" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"2f22248f-85ad-42ba-b0f4-3be658303575","content":"Vegan Meat","tpFontSize":"16","marginBottom":"10"} -->
+<h2 id="wd-2f22248f" class="wp-block-wd-title title">Vegan Meat</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/product-categories {"blockId":"15e7642f-927c-44e8-8689-2725b0c238cd","orderby":"id","ids":"21,22,23,25,24","hide_empty":false,"categories_design":"side","image_container_width":"45","columns":2,"spacing":"10","img_size":"custom","imgSizeCustomWidth":"45","imgSizeCustomHeight":"45","subcategories":"disable","grid_product_count":"disable","marginBottom":"20","titleFontSize":"14","titleTextTransform":"capitalize","columnsTablet":1,"columnsMobile":1} /-->
+
+<!-- wp:wd/cover {"blockId":"dc7edd81-a76c-47c3-a533-53bafc9957d9","hover":"zoom-in","contentAlignVertical":"center","height":"220","bgImage":{"id":484,"url":"http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-plant-based-nuggets-opt.jpg"},"marginBottom":"30"} -->
+<div id="wd-dc7edd81" class="wp-block-wd-cover wd-hover-parent wd-hover-zoom-in"><div class="wd-block-cover-img"></div><!-- wp:wd/container {"blockId":"94931a58-4d65-48b2-8579-9675ea89cabc","displayWidth":"custom","customWidth":"240","displayWidthTablet":"custom","customWidthTablet":"180","metadata":{"name":"Banner content"}} -->
+<div id="wd-94931a58" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"b6979496-1efb-4450-ab32-5cf02d2f523b","content":"Get discount -15% on Plant-Based Nuggets","tpFontSize":"18","colorCode":"#6f3d10"} -->
+<h2 id="wd-b6979496" class="wp-block-wd-title title">Get discount -15% on Plant-Based Nuggets</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"f7b0854d-5b13-458f-8877-934838955583","predefinedColor":"white","size":"small","shape":"semi-round"} -->
+<a id="wd-f7b0854d" class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-small btn-shape-semi-round" href="#"><span>To Shop</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"c691239e-3516-42e7-a4b4-a0f1b893e118","layout":"carousel","items_per_page":"4","slides_per_view":"2.4","hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"sync_parent_id":"wd_dd7ed3d3","slides_per_viewMobile":"1.4","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>160</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:18:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:18:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-10 11:17:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-10 11:17:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[header-menu-vegan-meat]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[Header menu Seafood]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?cms_block=header-menu-seafood</link>
+					<pubDate>Tue, 06 Aug 2024 09:18:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?post_type=cms_block&#038;p=161</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"63d48463-b74c-4c90-9f96-0e20e5daf702","rowGap":"0","paddingTopTablet":"20","paddingRightTablet":"20","paddingBottomTablet":"20","paddingLeftTablet":"20","paddingLockTablet":true} -->
+<div id="wd-63d48463" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"2f22248f-85ad-42ba-b0f4-3be658303575","content":"Seafood","tpFontSize":"16","marginBottom":"10"} -->
+<h2 id="wd-2f22248f" class="wp-block-wd-title title">Seafood</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/product-categories {"blockId":"eb03f2af-2ae1-497b-b66c-99a1fa2caa28","orderby":"id","ids":"29,28,27","hide_empty":false,"categories_design":"side","image_container_width":"45","columns":1,"spacing":"10","img_size":"custom","imgSizeCustomWidth":"45","imgSizeCustomHeight":"45","subcategories":"disable","grid_product_count":"disable","marginBottom":"20","titleFontSize":"14","titleTextTransform":"capitalize","columnsTablet":1,"columnsMobile":1} /-->
+
+<!-- wp:wd/cover {"blockId":"33ee86b0-4ca3-4247-8d16-62e006ad69ed","hover":"zoom-in","contentAlignVertical":"center","height":"220","bgImage":{"id":483,"url":"http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-buy-fish-opt.jpg"},"marginBottom":"30"} -->
+<div id="wd-33ee86b0" class="wp-block-wd-cover wd-hover-parent wd-hover-zoom-in"><div class="wd-block-cover-img"></div><!-- wp:wd/container {"blockId":"83b2294d-d7e0-4ced-bba2-5da3337ea23e","displayWidth":"custom","customWidth":"240","displayWidthTablet":"custom","customWidthTablet":"180","metadata":{"name":"Banner content"}} -->
+<div id="wd-83b2294d" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"2be330fd-9c36-48db-9bd7-f858a92b0c35","content":"Buy fish “MOWI” Every 3rd unit off -60%","tpFontSize":"18","colorCode":"#1e5b87"} -->
+<h2 id="wd-2be330fd" class="wp-block-wd-title title">Buy fish “MOWI” Every 3rd unit off -60%</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"699397e5-57f3-4990-8468-7825b3876432","predefinedColor":"white","size":"small","shape":"semi-round"} -->
+<a id="wd-699397e5" class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-small btn-shape-semi-round" href="#"><span>To Shop</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"c691239e-3516-42e7-a4b4-a0f1b893e118","layout":"carousel","items_per_page":"4","slides_per_view":"2.4","hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"sync_parent_id":"wd_bfde44b1","slides_per_viewMobile":"1.4","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>161</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:18:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:18:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-10 11:18:02]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-10 11:18:02]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[header-menu-seafood]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[Header menu Dairy]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?cms_block=header-menu-dairy</link>
+					<pubDate>Tue, 06 Aug 2024 09:18:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?post_type=cms_block&#038;p=162</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"a058c4bf-9a5d-4430-9609-4dd41579337c","rowGap":"0","paddingTopTablet":"20","paddingRightTablet":"20","paddingBottomTablet":"20","paddingLeftTablet":"20","paddingLockTablet":true} -->
+<div id="wd-a058c4bf" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"2f22248f-85ad-42ba-b0f4-3be658303575","content":"Dairy","tpFontSize":"16","marginBottom":"10"} -->
+<h2 id="wd-2f22248f" class="wp-block-wd-title title">Dairy</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/product-categories {"blockId":"dfc35fcf-bb8b-4012-91cb-6baa5beb1098","orderby":"id","ids":"47,45,31,46,32","hide_empty":false,"categories_design":"side","image_container_width":"45","columns":2,"spacing":"10","img_size":"custom","imgSizeCustomWidth":"45","imgSizeCustomHeight":"45","subcategories":"disable","grid_product_count":"disable","marginBottom":"20","titleFontSize":"14","titleTextTransform":"capitalize","columnsTablet":1,"columnsMobile":1} /-->
+
+<!-- wp:wd/cover {"blockId":"0bc0fe4e-9dce-4db9-8fa5-d43b3870b413","hover":"zoom-in","contentAlignVertical":"center","height":"220","bgImage":{"id":481,"url":"http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-original-milk-opt.jpg"},"marginBottom":"30"} -->
+<div id="wd-0bc0fe4e" class="wp-block-wd-cover wd-hover-parent wd-hover-zoom-in"><div class="wd-block-cover-img"></div><!-- wp:wd/container {"blockId":"269126bc-d130-4f2b-815e-27c5ab40760d","displayWidth":"custom","customWidth":"240","displayWidthTablet":"custom","customWidthTablet":"180","metadata":{"name":"Banner content"}} -->
+<div id="wd-269126bc" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"a4716a8c-46d6-46a1-98f9-4f307cdd7359","content":"Save up 30% on The Original Oatly milk","tpFontSize":"18","colorCode":"#3e93c8"} -->
+<h2 id="wd-a4716a8c" class="wp-block-wd-title title">Save up 30% on The Original Oatly milk</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"bb7d97b9-be20-4199-8671-53b78f5db102","predefinedColor":"white","size":"small","shape":"semi-round"} -->
+<a id="wd-bb7d97b9" class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-small btn-shape-semi-round" href="#"><span>To Shop</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"c691239e-3516-42e7-a4b4-a0f1b893e118","layout":"carousel","items_per_page":"4","slides_per_view":"2.4","hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"sync_parent_id":"wd_05a344d3","slides_per_viewMobile":"1.4","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>162</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:18:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:18:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-10 11:18:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-10 11:18:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[header-menu-dairy]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[Header menu Bakery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?cms_block=header-menu-bakery</link>
+					<pubDate>Tue, 06 Aug 2024 09:19:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?post_type=cms_block&#038;p=163</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"ca168eab-9f99-4fa8-ae3b-66eaafc0bdcf","rowGap":"0","paddingTopTablet":"20","paddingRightTablet":"20","paddingBottomTablet":"20","paddingLeftTablet":"20","paddingLockTablet":true} -->
+<div id="wd-ca168eab" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"2f22248f-85ad-42ba-b0f4-3be658303575","content":"Bakery","tpFontSize":"16","marginBottom":"10"} -->
+<h2 id="wd-2f22248f" class="wp-block-wd-title title">Bakery</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/product-categories {"blockId":"a68a5b4c-53d2-4c52-bfb0-fdeddc9e315b","orderby":"id","ids":"55,53,54,52","hide_empty":false,"categories_design":"side","image_container_width":"45","columns":2,"spacing":"10","img_size":"custom","imgSizeCustomWidth":"45","imgSizeCustomHeight":"45","subcategories":"disable","grid_product_count":"disable","marginBottom":"20","titleFontSize":"14","titleTextTransform":"capitalize","columnsTablet":1,"columnsMobile":1} /-->
+
+<!-- wp:wd/cover {"blockId":"5c14bb16-09d3-406c-b3eb-600d83787852","hover":"zoom-in","contentAlignVertical":"center","height":"220","bgImage":{"id":485,"url":"http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-free-delivery-baked-goods-opt.jpg"},"marginBottom":"30"} -->
+<div id="wd-5c14bb16" class="wp-block-wd-cover wd-hover-parent wd-hover-zoom-in"><div class="wd-block-cover-img"></div><!-- wp:wd/container {"blockId":"95764cf2-bd4f-46b1-9fff-1bdc5a81d6e8","displayWidth":"custom","customWidth":"240","displayWidthTablet":"custom","customWidthTablet":"180","metadata":{"name":"Banner content"}} -->
+<div id="wd-95764cf2" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"65e93a57-463b-41c1-9e6b-c0f18e82754b","content":"Free Delivery For Own Baked Goods","tpFontSize":"18","colorCode":"#6f3d10"} -->
+<h2 id="wd-65e93a57" class="wp-block-wd-title title">Free Delivery For Own Baked Goods</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"3a55e36c-9b08-4e44-8882-17f4a16bd255","predefinedColor":"white","size":"small","shape":"semi-round"} -->
+<a id="wd-3a55e36c" class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-small btn-shape-semi-round" href="#"><span>To Shop</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"c691239e-3516-42e7-a4b4-a0f1b893e118","layout":"carousel","items_per_page":"4","slides_per_view":"2.4","hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"sync_parent_id":"wd_7577814f","slides_per_viewMobile":"1.4","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>163</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:19:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:19:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-10 11:18:19]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-10 11:18:19]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[header-menu-bakery]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[Header menu Beverages]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?cms_block=header-menu-beverages</link>
+					<pubDate>Tue, 06 Aug 2024 09:19:18 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?post_type=cms_block&#038;p=164</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"770b7828-a367-4a68-93d3-22c47d066632","rowGap":"0","paddingTopTablet":"20","paddingRightTablet":"20","paddingBottomTablet":"20","paddingLeftTablet":"20","paddingLockTablet":true} -->
+<div id="wd-770b7828" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"2f22248f-85ad-42ba-b0f4-3be658303575","content":"Beverages","tpFontSize":"16","marginBottom":"10"} -->
+<h2 id="wd-2f22248f" class="wp-block-wd-title title">Beverages</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/product-categories {"blockId":"829e3e1c-ffe7-4d5d-8867-df69064487b8","orderby":"id","ids":"61,59,57,60,58","hide_empty":false,"categories_design":"side","image_container_width":"45","columns":2,"spacing":"10","img_size":"custom","imgSizeCustomWidth":"45","imgSizeCustomHeight":"45","subcategories":"disable","grid_product_count":"disable","marginBottom":"20","titleFontSize":"14","titleTextTransform":"capitalize","columnsTablet":1,"columnsMobile":1} /-->
+
+<!-- wp:wd/cover {"blockId":"1e800391-b870-4b0e-80b4-53d7ec5c7c47","hover":"zoom-in","contentAlignVertical":"center","height":"220","bgImage":{"id":486,"url":"http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-energy-drinks-opt.jpg"},"marginBottom":"30"} -->
+<div id="wd-1e800391" class="wp-block-wd-cover wd-hover-parent wd-hover-zoom-in"><div class="wd-block-cover-img"></div><!-- wp:wd/container {"blockId":"f279014e-b91f-496b-96d9-52e8f2af5aaf","displayWidth":"custom","customWidth":"240","displayWidthTablet":"custom","customWidthTablet":"180","metadata":{"name":"Banner content"}} -->
+<div id="wd-f279014e" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"3e4bfcfc-8d62-45de-bfa1-815b429b6927","content":"Save up to 35% on Energy Drinks","tpFontSize":"18","colorCode":"#1e5b87"} -->
+<h2 id="wd-3e4bfcfc" class="wp-block-wd-title title">Save up to 35% on Energy Drinks</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"aee68b9e-9ee2-434c-8a48-a0dcc52f24e7","predefinedColor":"white","size":"small","shape":"semi-round"} -->
+<a id="wd-aee68b9e" class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-small btn-shape-semi-round" href="#"><span>To Shop</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"c691239e-3516-42e7-a4b4-a0f1b893e118","layout":"carousel","items_per_page":"4","slides_per_view":"2.4","hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"sync_parent_id":"wd_9ad96939","slides_per_viewMobile":"1.4","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>164</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:19:18]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:19:18]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-10 11:18:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-10 11:18:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[header-menu-beverages]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/2026/07/22/167/</link>
+					<pubDate>Tue, 06 Aug 2024 09:21:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?p=167</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>167</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 12:39:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:21:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 12:39:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 12:39:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[167]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="all-categories-vegetables"><![CDATA[All categories Vegetables]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[26]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-height]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[420]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[20]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_block]]></wp:meta_key>
+							<wp:meta_value><![CDATA[161]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[202]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-06]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-08]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/2026/07/22/168/</link>
+					<pubDate>Tue, 06 Aug 2024 09:21:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?p=168</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>168</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 12:39:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:21:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 12:39:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 12:39:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[168]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="all-categories-vegetables"><![CDATA[All categories Vegetables]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[20]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-height]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[420]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[20]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_block]]></wp:meta_key>
+							<wp:meta_value><![CDATA[160]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[201]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-06]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-08]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/2026/07/22/169/</link>
+					<pubDate>Tue, 06 Aug 2024 09:21:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?p=169</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>169</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 12:39:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:21:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 12:39:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 12:39:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[169]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="all-categories-vegetables"><![CDATA[All categories Vegetables]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[16]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-height]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[420]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[20]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_block]]></wp:meta_key>
+							<wp:meta_value><![CDATA[159]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[200]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-06]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-08]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-vegetables-fruits]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?attachment_id=200</link>
+					<pubDate>Tue, 06 Aug 2024 09:39:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-vegetables-fruits-.svg</guid>
+															<wp:post_id>200</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:39:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:39:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-06 09:39:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-06 09:39:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-vegetables-fruits]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>169</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-vegetables-fruits-.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-vegetables-fruits-.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-vegan-meat]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?attachment_id=201</link>
+					<pubDate>Tue, 06 Aug 2024 09:39:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-vegan-meat.svg</guid>
+															<wp:post_id>201</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:39:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:39:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-06 09:39:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-06 09:39:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-vegan-meat]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>168</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-vegan-meat.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-vegan-meat.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-seafood]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?attachment_id=202</link>
+					<pubDate>Tue, 06 Aug 2024 09:40:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-seafood.svg</guid>
+															<wp:post_id>202</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:40:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:40:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-06 09:40:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-06 09:40:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-seafood]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>167</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-seafood.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-seafood.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-promo-discounts-vegetables-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/promotions/vg-promo-discounts-vegetables-opt/</link>
+					<pubDate>Thu, 08 Aug 2024 11:17:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-discounts-vegetables-opt.jpg</guid>
+															<wp:post_id>476</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 11:17:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 11:17:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 11:17:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 11:17:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-promo-discounts-vegetables-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>72</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-discounts-vegetables-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-promo-discounts-vegetables-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-promo-original-milk-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/promotions/vg-promo-original-milk-opt/</link>
+					<pubDate>Thu, 08 Aug 2024 11:22:31 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-original-milk-opt.jpg</guid>
+															<wp:post_id>481</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 11:22:31]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 11:22:31]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 11:22:31]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 11:22:31]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-promo-original-milk-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>72</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-original-milk-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-promo-original-milk-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-promo-buy-fish-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/promotions/vg-promo-buy-fish-opt/</link>
+					<pubDate>Thu, 08 Aug 2024 11:23:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-buy-fish-opt.jpg</guid>
+															<wp:post_id>483</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 11:23:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 11:23:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 11:23:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 11:23:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-promo-buy-fish-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>72</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-buy-fish-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-promo-buy-fish-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-promo-plant-based-nuggets-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/promotions/vg-promo-plant-based-nuggets-opt/</link>
+					<pubDate>Thu, 08 Aug 2024 11:23:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-plant-based-nuggets-opt.jpg</guid>
+															<wp:post_id>484</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 11:23:14]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 11:23:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 11:23:14]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 11:23:14]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-promo-plant-based-nuggets-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>72</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-plant-based-nuggets-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-promo-plant-based-nuggets-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-promo-free-delivery-baked-goods-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/promotions/vg-promo-free-delivery-baked-goods-opt/</link>
+					<pubDate>Thu, 08 Aug 2024 11:23:31 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-free-delivery-baked-goods-opt.jpg</guid>
+															<wp:post_id>485</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 11:23:31]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 11:23:31]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 11:23:31]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 11:23:31]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-promo-free-delivery-baked-goods-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>72</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-free-delivery-baked-goods-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-promo-free-delivery-baked-goods-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-promo-energy-drinks-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/promotions/vg-promo-energy-drinks-opt/</link>
+					<pubDate>Thu, 08 Aug 2024 11:23:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-energy-drinks-opt.jpg</guid>
+															<wp:post_id>486</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 11:23:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 11:23:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 11:23:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 11:23:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-promo-energy-drinks-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>72</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-promo-energy-drinks-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-promo-energy-drinks-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/2026/07/22/166/</link>
+					<pubDate>Tue, 06 Aug 2024 09:21:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?p=166</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>166</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 12:39:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:21:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 12:39:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 12:39:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[166]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>4</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="all-categories-vegetables"><![CDATA[All categories Vegetables]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-height]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[420]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[20]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_block]]></wp:meta_key>
+							<wp:meta_value><![CDATA[162]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[203]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-06]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-08]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/2026/07/22/197/</link>
+					<pubDate>Tue, 06 Aug 2024 09:38:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?p=197</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>197</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 12:39:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:38:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 12:39:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 12:39:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[197]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>5</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="all-categories-vegetables"><![CDATA[All categories Vegetables]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[15]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-height]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[420]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[20]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_block]]></wp:meta_key>
+							<wp:meta_value><![CDATA[163]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[204]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-06]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-08]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/2026/07/22/198/</link>
+					<pubDate>Tue, 06 Aug 2024 09:38:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?p=198</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>198</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 12:39:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:38:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 12:39:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 12:39:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[198]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>6</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="all-categories-vegetables"><![CDATA[All categories Vegetables]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[56]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-height]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[420]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[20]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_block]]></wp:meta_key>
+							<wp:meta_value><![CDATA[164]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[205]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-06]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-08]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Weekly Discounts]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/2026/07/22/weekly-discounts/</link>
+					<pubDate>Tue, 06 Aug 2024 09:38:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?p=199</guid>
+															<wp:post_id>199</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 12:39:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:38:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 12:39:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 12:39:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[weekly-discounts]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>7</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="all-categories-vegetables"><![CDATA[All categories Vegetables]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[199]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/shop/?stock_status=onsale]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[206]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-06]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024-08-08]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-dairy]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?attachment_id=203</link>
+					<pubDate>Tue, 06 Aug 2024 09:40:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-dairy.svg</guid>
+															<wp:post_id>203</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:40:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:40:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-06 09:40:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-06 09:40:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-dairy]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>166</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-dairy.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-dairy.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-bakery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?attachment_id=204</link>
+					<pubDate>Tue, 06 Aug 2024 09:40:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-bakery.svg</guid>
+															<wp:post_id>204</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:40:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:40:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-06 09:40:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-06 09:40:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-bakery]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>197</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-bakery.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-bakery.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-beverages]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?attachment_id=205</link>
+					<pubDate>Tue, 06 Aug 2024 09:40:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-beverages.svg</guid>
+															<wp:post_id>205</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:40:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:40:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-06 09:40:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-06 09:40:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-beverages]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>198</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-beverages.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-beverages.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[vg-primary-discount]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/?attachment_id=206</link>
+					<pubDate>Tue, 06 Aug 2024 09:41:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-primary-discount.svg</guid>
+															<wp:post_id>206</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 09:41:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 09:41:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-06 09:41:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-06 09:41:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[vg-primary-discount]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>199</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/vegetables-gutenberg/wp-content/uploads/sites/37/2024/08/vg-primary-discount.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/vg-primary-discount.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

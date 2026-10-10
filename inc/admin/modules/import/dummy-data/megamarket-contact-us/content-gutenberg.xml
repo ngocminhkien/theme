@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Megamarket gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Tue, 09 Jul 2024 08:31:10 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/contact-us/</link>
+					<pubDate>Tue, 09 Jul 2024 09:03:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/?page_id=45</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/title {"blockId":"1e178105-43d3-481e-99ad-08cabe168d81","blockVersion":"2","content":"Store Locator Rose Yost","tpFontSize":"36","tpFontVariant":"800","tpFontWeight":"800","colorVariable":"\u002d\u002dwd-primary-color","marginBottom":"30","tpFontSizeTablet":"28","tpFontSizeMobile":"24","marginTopTablet":"-20"} -->
+<h2 class="wp-block-wd-title title wd-1e178105">Store Locator Rose Yost</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/open-street-map {"blockId":"3d15d3ce-8bdb-4ee3-bd7e-d7b64d659484","blockVersion":"2","zoom":15,"height":"500","locations":[{"title":"","lat":"51.50735","lon":"-0.12776","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"}]} -->
+<div class="wp-block-wd-open-street-map wd-map-container wd-osm-map-container wd-3d15d3ce"><div id="wd-osm-map-3d15d3ce-8bdb-4ee3-bd7e-d7b64d659484" class="wd-osm-map-wrapper wd-map-wrapper" data-settings="{&quot;zoom&quot;:15,&quot;scrollWheelZoom&quot;:&quot;no&quot;,&quot;zoomControl&quot;:&quot;yes&quot;,&quot;dragging&quot;:&quot;yes&quot;,&quot;init_type&quot;:&quot;page_load&quot;,&quot;init_offset&quot;:100,&quot;geoapify_tile&quot;:&quot;osm-carto&quot;,&quot;center&quot;:&quot;51.50735,-0.12776&quot;,&quot;markers&quot;:[{&quot;lat&quot;:&quot;51.50735&quot;,&quot;lng&quot;:&quot;-0.12776&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}}]}"></div></div>
+<!-- /wp:wd/open-street-map -->
+
+<!-- wp:wd/row {"blockId":"abdff99a-efdb-4be5-b43a-3bb6291d36f5","blockVersion":"2","marginBottom":"60","columnsGap":20,"marginBottomTablet":"40"} -->
+<div class="wp-block-wd-row wd-abdff99a"><!-- wp:wd/column {"blockId":"a09b344c-2ffe-4895-9f43-383eca4a0603","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","adjacentCount":4,"blocksGap":10,"adjacentCountTablet":3,"colWidthTablet":33} -->
+<div class="wp-block-wd-column wd-a09b344c"><!-- wp:wd/title {"blockId":"6d6ca810-d64d-49f1-8425-c0237c3f4307","blockVersion":"2","content":"Rose Yost","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-6d6ca810">Rose Yost</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"f41aaac7-09d4-411f-890c-f31aea3bc2c2","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f41aaac7">9943 Tanya Bypass Apt. 271</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/list {"blockId":"83590d14-e674-4eb8-aabc-b3d889b8e833","blockVersion":"2","iconType":"image","blockGap":10,"marginBottom":"10"} -->
+<ul class="wp-block-wd-list wd-list wd-type-image wd-style-default wd-83590d14"><!-- wp:wd/list-item {"blockId":"3a253818-7bf7-4876-bf35-b3adbf75f671","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":369,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-3a253818"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg" alt="" class="wp-image-369" /></div><span class="wd-list-content">(925) 907-9798</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"7b233f71-c351-4e58-807f-b224b4602d13","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":370,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-7b233f71"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg" alt="" class="wp-image-370" /></div><span class="wd-list-content">rose_yost@lowe.com</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"92500c2b-7a12-4e6a-8143-a13d56c16954","blockVersion":"2","content":"Store Hours:","tpFontSize":"18"} -->
+<h2 class="wp-block-wd-title title wd-92500c2b">Store Hours:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"4b68848f-6fbe-4a90-a450-61414c745496","blockVersion":"2","markColorVariable":"\u002d\u002dwd-primary-color"} -->
+<p class="wp-block-wd-paragraph wd-4b68848f">Mon. – Sun:<br><span class="wd-highlight"><strong>9:00am - 9:00pm</strong></span></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"7223067d-16b7-4fb3-a027-147c7bc95069","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","adjacentCount":4,"blocksGap":10,"adjacentCountTablet":3,"colWidthTablet":33} -->
+<div class="wp-block-wd-column wd-7223067d"><!-- wp:wd/title {"blockId":"1f4942ba-97d9-41ba-b2f2-d381db078922","blockVersion":"2","content":"Rose Yost","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-1f4942ba">Rose Yost</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"2de30d77-477e-4b99-b348-32e48d354b55","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-2de30d77">8197 Kris Island Apt. 415</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/list {"blockId":"d117917f-1b26-4880-8952-33cd827c75f0","blockVersion":"2","iconType":"image","blockGap":10,"marginBottom":"10"} -->
+<ul class="wp-block-wd-list wd-list wd-type-image wd-style-default wd-d117917f"><!-- wp:wd/list-item {"blockId":"5209d55d-e87b-481c-9d9f-edd794423afe","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":369,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-5209d55d"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg" alt="" class="wp-image-369" /></div><span class="wd-list-content">(925) 907-9798</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"cfcbe8a5-826f-4813-8bd3-666f8b8f269f","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":370,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-cfcbe8a5"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg" alt="" class="wp-image-370" /></div><span class="wd-list-content">rose_yost@lowe.com</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"cb801839-183d-4144-94d9-f01a3b35d317","blockVersion":"2","content":"Store Hours:","tpFontSize":"18"} -->
+<h2 class="wp-block-wd-title title wd-cb801839">Store Hours:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"bf173ae8-57c9-498d-a41f-179dc9ef5a9d","blockVersion":"2","markColorVariable":"\u002d\u002dwd-primary-color"} -->
+<p class="wp-block-wd-paragraph wd-bf173ae8">Mon. – Sun:<br><span class="wd-highlight"><strong>9:00am - 9:00pm</strong></span></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c9ff7b6a-413a-47f3-afe4-2b80b58ab453","blockVersion":"2","hideOnMobile":true,"adjacentCount":4,"adjacentCountTablet":3,"colWidthTablet":33} -->
+<div class="wp-block-wd-column wd-hide-sm wd-c9ff7b6a"></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"37ef1232-e975-4689-9d9f-bc30d1416d5f","blockVersion":"2","hideOnTablet":true,"hideOnMobile":true,"adjacentCount":4,"adjacentCountTablet":1,"colWidthTablet":25} -->
+<div class="wp-block-wd-column wd-hide-md-sm wd-hide-sm wd-37ef1232"></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/title {"blockId":"f37cb012-8089-4ed5-9017-58f690b5e522","blockVersion":"2","content":"Store Locator East Genefort","tpFontSize":"36","tpFontVariant":"800","tpFontWeight":"800","colorVariable":"\u002d\u002dwd-primary-color","marginBottom":"30","tpFontSizeTablet":"28","tpFontSizeMobile":"24"} -->
+<h2 class="wp-block-wd-title title wd-f37cb012">Store Locator East Genefort</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/open-street-map {"blockId":"7d3e0b01-4361-45db-8445-8f6f61a2cd99","blockVersion":"2","zoom":15,"height":"500","locations":[{"title":"","lat":"51.50735","lon":"-0.12776","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"}]} -->
+<div class="wp-block-wd-open-street-map wd-map-container wd-osm-map-container wd-7d3e0b01"><div id="wd-osm-map-7d3e0b01-4361-45db-8445-8f6f61a2cd99" class="wd-osm-map-wrapper wd-map-wrapper" data-settings="{&quot;zoom&quot;:15,&quot;scrollWheelZoom&quot;:&quot;no&quot;,&quot;zoomControl&quot;:&quot;yes&quot;,&quot;dragging&quot;:&quot;yes&quot;,&quot;init_type&quot;:&quot;page_load&quot;,&quot;init_offset&quot;:100,&quot;geoapify_tile&quot;:&quot;osm-carto&quot;,&quot;center&quot;:&quot;51.50735,-0.12776&quot;,&quot;markers&quot;:[{&quot;lat&quot;:&quot;51.50735&quot;,&quot;lng&quot;:&quot;-0.12776&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}}]}"></div></div>
+<!-- /wp:wd/open-street-map -->
+
+<!-- wp:wd/row {"blockId":"69b6411b-d674-4b51-ad7f-16705dc4acc4","blockVersion":"2","marginBottom":"40","columnsGap":20,"marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div class="wp-block-wd-row wd-69b6411b"><!-- wp:wd/column {"blockId":"eeddb11e-2b45-4e7f-bd07-5cf2d7d71b64","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","adjacentCount":4,"blocksGap":10,"adjacentCountTablet":3,"colWidthTablet":33} -->
+<div class="wp-block-wd-column wd-eeddb11e"><!-- wp:wd/title {"blockId":"dad3f0d3-b64a-4ff4-afc7-a28370ec37dd","blockVersion":"2","content":"East Genefort","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-dad3f0d3">East Genefort</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e855dc1d-1f0e-4e72-a161-248f844a8fce","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e855dc1d">194 Michaela Forks​</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/list {"blockId":"c94661a3-41c5-46d5-8f47-cb4a352fd411","blockVersion":"2","iconType":"image","blockGap":10,"marginBottom":"10"} -->
+<ul class="wp-block-wd-list wd-list wd-type-image wd-style-default wd-c94661a3"><!-- wp:wd/list-item {"blockId":"9933c415-3f77-49dd-bd19-5521fb427826","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":369,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-9933c415"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg" alt="" class="wp-image-369" /></div><span class="wd-list-content">(829) 500-2525</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"d14a5af8-8715-4054-b3d7-21926fd3ab86","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":370,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-d14a5af8"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg" alt="" class="wp-image-370" /></div><span class="wd-list-content">genefort@lowe.com</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"9108a90f-6b7b-4922-8423-e6c4e85538e7","blockVersion":"2","content":"Store Hours:","tpFontSize":"18"} -->
+<h2 class="wp-block-wd-title title wd-9108a90f">Store Hours:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"ba0e63c4-58c9-417a-88a8-a74d83d5acdc","blockVersion":"2","markColorVariable":"\u002d\u002dwd-primary-color"} -->
+<p class="wp-block-wd-paragraph wd-ba0e63c4">Mon. – Sun:<br><span class="wd-highlight"><strong>9:00am - 9:00pm</strong></span></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"85d80e71-0a52-4a80-82c5-c1ece1acbbef","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","adjacentCount":4,"blocksGap":10,"adjacentCountTablet":3,"colWidthTablet":33} -->
+<div class="wp-block-wd-column wd-85d80e71"><!-- wp:wd/title {"blockId":"3e6f5b73-1cf0-4813-982d-bfaf689ae408","blockVersion":"2","content":"East Genefort","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-3e6f5b73">East Genefort</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"b8911fdc-0f3c-470a-b1f3-fac65a6fa8d1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-b8911fdc">39642 Bettye Walk</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/list {"blockId":"d67a9f70-0672-455a-81c9-072b9a398e93","blockVersion":"2","iconType":"image","blockGap":10,"marginBottom":"10"} -->
+<ul class="wp-block-wd-list wd-list wd-type-image wd-style-default wd-d67a9f70"><!-- wp:wd/list-item {"blockId":"a10c0c5e-b2fa-4a66-bbd8-c2e5715b411f","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":369,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-a10c0c5e"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg" alt="" class="wp-image-369" /></div><span class="wd-list-content">(829) 500-2525</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"30e4bf0f-e298-42d2-a2fe-a2358661383e","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":370,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-30e4bf0f"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg" alt="" class="wp-image-370" /></div><span class="wd-list-content">genefort@lowe.com</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"56082ac2-3272-41f6-8212-dea1920eb3ca","blockVersion":"2","content":"Store Hours:","tpFontSize":"18"} -->
+<h2 class="wp-block-wd-title title wd-56082ac2">Store Hours:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"58e219ad-c7eb-49db-92c5-daf9d3e282ff","blockVersion":"2","markColorVariable":"\u002d\u002dwd-primary-color"} -->
+<p class="wp-block-wd-paragraph wd-58e219ad">Mon. – Sun:<br><span class="wd-highlight"><strong>9:00am - 9:00pm</strong></span></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"1d1ec282-1004-45c6-a074-f4c3b683b24d","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","adjacentCount":4,"blocksGap":10,"adjacentCountTablet":3,"colWidthTablet":33} -->
+<div class="wp-block-wd-column wd-1d1ec282"><!-- wp:wd/title {"blockId":"ca0c82ff-f8d3-4639-952b-7ef27dddbe72","blockVersion":"2","content":"East Genefort","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-ca0c82ff">East Genefort</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"da79a3cb-cab4-42f2-8566-804750af700e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-da79a3cb">196 Astrid River</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/list {"blockId":"fc451230-cef6-4c3d-8134-bef4cdb935fa","blockVersion":"2","iconType":"image","blockGap":10,"marginBottom":"10"} -->
+<ul class="wp-block-wd-list wd-list wd-type-image wd-style-default wd-fc451230"><!-- wp:wd/list-item {"blockId":"ba069d80-bf77-4c8d-bf62-aa58357ca941","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":369,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-ba069d80"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-phone-megamarket.svg" alt="" class="wp-image-369" /></div><span class="wd-list-content">(829) 500-2525</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"5244770d-45f0-4005-8a90-d6ba5a12f64a","blockVersion":"2","iconType":"image","itemIconType":"image","svg":"","itemImage":{"id":370,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg"}} -->
+<li class="wp-block-wd-list-item wd-5244770d"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/wd-envelope-megamarket.svg" alt="" class="wp-image-370" /></div><span class="wd-list-content">genefort@lowe.com</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"f49639dd-165d-411d-b157-8707b97fe163","blockVersion":"2","content":"Store Hours:","tpFontSize":"18"} -->
+<h2 class="wp-block-wd-title title wd-f49639dd">Store Hours:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"fff5e213-a868-4500-af85-26fbe297eb5d","blockVersion":"2","markColorVariable":"\u002d\u002dwd-primary-color"} -->
+<p class="wp-block-wd-paragraph wd-fff5e213">Mon. – Sun:<br><span class="wd-highlight"><strong>9:00am - 9:00pm</strong></span></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"16c12ed4-f6f4-4dc8-8756-051cd2a44a1a","blockVersion":"2","hideOnTablet":true,"hideOnMobile":true,"adjacentCount":4,"adjacentCountTablet":1,"colWidthTablet":25} -->
+<div class="wp-block-wd-column wd-hide-md-sm wd-hide-sm wd-16c12ed4"></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>45</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 09:03:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 09:03:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-02 11:46:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-02 11:46:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

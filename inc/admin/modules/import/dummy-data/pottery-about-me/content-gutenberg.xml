@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Pottery gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 31 Jul 2024 11:08:01 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pottery-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[About Me]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/</link>
+					<pubDate>Wed, 31 Jul 2024 12:13:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pottery-gutenberg/?page_id=61</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"0088fa88-c279-4c58-9fdf-4339595c0184","blockVersion":"2","bgColorCode":"#c96e4b","paddingTop":"150","paddingBottom":"120","marginBottom":"0","blockGap":30,"colorScheme":"light","paddingTopTablet":"110","paddingTopMobile":"80","paddingBottomTablet":"60","paddingBottomMobile":"40"} -->
+<div class="wp-block-wd-section color-scheme-light wd-0088fa88"><!-- wp:wd/row {"blockId":"1cf1d580-bf42-42ce-ad02-8f9dbdcc3f8a","blockVersion":"2","columnsGap":100,"columnsGapTablet":50,"columnsGapMobile":30} -->
+<div class="wp-block-wd-row wd-1cf1d580"><!-- wp:wd/column {"blockId":"623f750b-5ee0-4550-a2a1-61e894901495","blockVersion":"2","adjacentCount":2,"blocksGap":30} -->
+<div class="wp-block-wd-column wd-623f750b"><!-- wp:wd/title {"blockId":"efa437f7-2c8f-4434-a9ea-8cfb98c9fa60","blockVersion":"2","content":"About me","tpFontSize":"44","tpFontSizeTablet":"36"} -->
+<h2 class="wp-block-wd-title title wd-efa437f7">About me</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/image {"blockId":"93537338-8c70-4416-8cd8-292c88266078","blockVersion":"2","image":{"id":239,"url":"https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-1-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-1-opt.jpg","width":640,"height":618}} -->
+<div class="wp-block-wd-image wd-block-image wd-93537338"><img class="wp-image-239" src="https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-1-opt.jpg" alt="" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"76806288-d826-45be-8fe0-66ee759b261d","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-76806288"><!-- wp:wd/image {"blockId":"19073ed0-fb76-4569-9842-40239084ef07","blockVersion":"2","image":{"id":240,"url":"https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-2-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-2-opt.jpg","width":640,"height":716}} -->
+<div class="wp-block-wd-image wd-block-image wd-19073ed0"><img class="wp-image-240" src="https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-2-opt.jpg" alt="" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"6265798c-ef8f-4fd7-9c72-86c77ad17d4b","blockVersion":"2","columnsGap":100,"columnsGapTablet":50,"columnsGapMobile":20} -->
+<div class="wp-block-wd-row wd-6265798c"><!-- wp:wd/column {"blockId":"3501e524-1b5f-4379-86b2-49da3cdf0d4a","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-3501e524"><!-- wp:wd/title {"blockId":"5d90e591-d75b-41e9-b102-eadcad912450","blockVersion":"2","content":"Hi, I'm Monica Jameson and I make pottery products","tpFontSize":"38","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-5d90e591">Hi, I'm Monica Jameson and I make pottery products</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"0a8e824f-6680-41da-a72d-8c4ae6eaac59","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-0a8e824f"><!-- wp:wd/paragraph {"blockId":"b09bbf59-bef0-477e-a8af-c9947aad3613","blockVersion":"2","colorCode":"#ffffff"} -->
+<p class="wp-block-wd-paragraph wd-b09bbf59">With every touch, I mold raw clay into exquisite forms, infusing them with my imagination and passion. The wheel spins beneath my hands, yielding to my artistic vision. I carve, sculpt, and shape, crafting vessels that hold stories within their delicate curves.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/section {"blockId":"9aff1a45-f124-4ad3-afdd-cf22c099b5c7","blockVersion":"2","bgType":"gradient","bgGradient":"linear-gradient(180deg,rgb(201,110,75) 0%,rgb(201,110,75) 56%,rgb(255,255,255) 56%)","marginBottom":"80","colorScheme":"light","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-section color-scheme-light wd-9aff1a45"><!-- wp:wd/container {"blockId":"0d65e071-f2f6-4ddf-951f-b4ade334de15","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-0d65e071"><!-- wp:wd/gallery {"blockId":"bc6a7bc1-86fc-4d78-8dd6-af9a74a1a015","blockVersion":"2","spacing":"30","layout":"carousel","slidesPerView":"3.2","disableOverflowCarousel":true,"paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"syncParentId":"wd_bc6a7bc1","spacingMobile":"30","slidesPerViewTablet":"3.5","slidesPerViewMobile":"1.3"} -->
+<div class="wp-block-wd-gallery wd-carousel-container wd-caption-mask wd-bc6a7bc1"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:3.2;--wd-col-md:3.5;--wd-col-sm:1.3;--wd-gap-lg:30px;--wd-gap-sm:30px;--wd-carousel-overflow:visible" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/gallery-item {"blockId":"2363906b-565c-4298-b048-d6384aba7b22","blockVersion":"2","image":{"id":245,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-1-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-1-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-2363906b"><div class="wd-block-image"><img class="wp-image-245" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-1-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"8d69fac2-7906-40c9-9266-2bf3de8b7294","blockVersion":"2","image":{"id":246,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-2-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-2-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-8d69fac2"><div class="wd-block-image"><img class="wp-image-246" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-2-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"79529c01-c9b0-4956-aa18-49719d7d0da3","blockVersion":"2","image":{"id":247,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-3-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-3-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-79529c01"><div class="wd-block-image"><img class="wp-image-247" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-3-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"08dad79b-46aa-4587-a6b3-0449dcb78031","blockVersion":"2","image":{"id":248,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-4-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-4-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-08dad79b"><div class="wd-block-image"><img class="wp-image-248" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-4-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"8c5142fe-1ea3-4aae-ac50-386bc1aca0c5","blockVersion":"2","image":{"id":249,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-5-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-5-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-8c5142fe"><div class="wd-block-image"><img class="wp-image-249" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-5-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"f81e38f4-863f-4a6b-8adf-50db5d567315","blockVersion":"2","image":{"id":251,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-3-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-3-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-f81e38f4"><div class="wd-block-image"><img class="wp-image-251" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-3-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"3d7bb8cb-c3cf-45bd-b264-1cf696f60fe0","blockVersion":"2","image":{"id":254,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-6-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-6-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-3d7bb8cb"><div class="wd-block-image"><img class="wp-image-254" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-6-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"7a9ce9bb-611f-4549-81fd-68c311e0dcf3","blockVersion":"2","image":{"id":252,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-4-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-4-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-7a9ce9bb"><div class="wd-block-image"><img class="wp-image-252" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-4-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"8b3cd149-1779-410c-80de-efb182ce8ee7","blockVersion":"2","image":{"id":250,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-2-opt.jpg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-2-opt.jpg","width":433,"height":620}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-8b3cd149"><div class="wd-block-image"><img class="wp-image-250" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-2-opt.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"470bceab-ffa3-4391-9423-97eee17cece9","blockVersion":"2","marginBottom":"80","borderType":"solid","borderColorCode":"#101010","borderWidthTop":"1","borderWidthBottom":"1","borderWidthLock":false,"columnsGap":0,"marginBottomTablet":"60","marginBottomMobile":"40","columnsGapTablet":60,"columnsGapMobile":40} -->
+<div class="wp-block-wd-row wd-470bceab"><!-- wp:wd/column {"blockId":"fceaf9b2-7144-43b5-bdad-c95c65fc2b48","blockVersion":"2","paddingTop":"60","paddingRight":"40","paddingBottom":"60","borderType":"solid","borderColorCode":"#101010","borderWidthRight":"1","borderWidthLock":false,"adjacentCount":2,"colWidth":66.33,"paddingTopMobile":"40","paddingRightTablet":"0","paddingBottomTablet":"0","borderWidthRightTablet":"0","borderWidthLockTablet":false,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-fceaf9b2"><!-- wp:wd/title {"blockId":"414e7f7f-fbf4-4471-b059-57aa46b012f6","blockVersion":"2","content":"Only high-quality materials!","tpFontSize":"64","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpFontSizeMobile":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-414e7f7f">Only high-quality materials!</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"e2560dca-1515-4b56-986b-c9f94bd89707","blockVersion":"2"} -->
+<div class="wp-block-wd-row wd-e2560dca"><!-- wp:wd/column {"blockId":"5a5b0277-90b2-4b49-b029-95f0eda4f2ae","blockVersion":"2","adjacentCount":2,"blocksGap":10} -->
+<div class="wp-block-wd-column wd-5a5b0277"><!-- wp:wd/image {"blockId":"37bb3e47-f0bf-4f0e-a212-ee664221d756","blockVersion":"2","image":{"id":268,"url":"https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-red-clay-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-red-clay-opt.jpg","width":450,"height":140},"marginBottom":"10"} -->
+<div class="wp-block-wd-image wd-block-image wd-37bb3e47"><img class="wp-image-268" src="https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-red-clay-opt.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/title {"blockId":"afd76eea-0ae7-4aa7-ab61-64418745f6b3","blockVersion":"2","content":"Red Clay","tpFontSize":"24","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-afd76eea">Red Clay</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"d1e06b0d-cd20-493f-84dc-721ea9413a4c","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d1e06b0d">A medium-texture Etruria Marl based red terracotta body famously used to produce the Tower Poppies.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"d57389c8-8040-44d5-9f25-9e41c64d08d3","blockVersion":"2","adjacentCount":2,"blocksGap":10} -->
+<div class="wp-block-wd-column wd-d57389c8"><!-- wp:wd/image {"blockId":"bc909240-39d4-42b8-a6ef-a86f6ea027ff","blockVersion":"2","image":{"id":273,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-blue-clay-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-blue-clay-opt.jpg","width":450,"height":140},"marginBottom":"10"} -->
+<div class="wp-block-wd-image wd-block-image wd-bc909240"><img class="wp-image-273" src="http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-blue-clay-opt.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/title {"blockId":"bc241f28-747d-484d-957b-b74e7df6232e","blockVersion":"2","content":"Blue Clay","tpFontSize":"24","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-bc241f28">Blue Clay</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"d04aa97a-f7c1-46e6-9308-560ff2d7d14d","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d04aa97a">A smooth, coloured earthenware ideal for modelling, jewellery making and wheel throwing.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"fa459967-c9d5-4a86-9018-4c6d18917074","blockVersion":"2","paddingTop":"60","paddingBottom":"30","paddingLeft":"40","adjacentCount":2,"colWidth":33.33,"paddingTopTablet":"0","paddingBottomTablet":"40","paddingBottomMobile":"20","paddingLeftTablet":"0","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-fa459967"><!-- wp:wd/title {"blockId":"e90013e5-2e22-4456-be6d-5d7426ea99e8","blockVersion":"2","content":"Some of questions answered here.","tpFontSize":"38","tpLineHeight":"1.2","tpFontSizeTablet":"26","tpFontSizeMobile":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-e90013e5">Some of questions answered here.</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/accordion {"blockId":"2a6aab45-1601-4885-b44c-8b587cc14213","blockVersion":"2","allClosed":true,"openerIcon":"plus","titleTpFontFamily":"var(\u002d\u002dwd-title-font)","titleTpFontSize":"18","titleTpFontVariant":"500","titleTpFontWeight":"500","borderRadiusLock":false} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-default wd-titles-start wd-opener-style-plus wd-opener-pos-end wd-2a6aab45" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"8e70edf8-abd3-4e8e-b5e5-6f276ce9891d","blockVersion":"2","borderType":"solid","borderWidthBottom":"1","borderWidthLock":false,"borderRadiusLock":false} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-8e70edf8"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Are all the items in a pottery shop handmade?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"8652d2c9-cdeb-41f2-83ae-2f58708b36e5","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-8652d2c9">A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity. Fake data can ensure a nice looking layout but it doesn’t reflect what a living, breathing application must endure. Real data does.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"055330ce-11f4-4897-8a51-52beb21dc6f5","blockVersion":"2","borderType":"solid","borderWidthBottom":"1","borderWidthLock":false,"borderRadiusLock":false} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-055330ce"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Can I personalize or customize pottery items?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"67a3c238-f414-4fb9-98d5-867d477164f2","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-67a3c238">Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template. When it’s about controlling hundreds of articles, product pages for web shops.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"b34c737d-aace-4d8c-93ec-c735b4eb3f4b","blockVersion":"2","borderType":"none"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-b34c737d"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Can I learn pottery at a pottery shop?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"77d9892a-f0a6-4bea-a9b5-3a7872e5632f","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-77d9892a">If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited for another time. At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"fd4a3787-d51f-4f2e-b25e-b7a5051cd5c0","blockVersion":"2","marginBottom":"40","marginBottomTablet":"20","marginBottomMobile":"0","columnsGapTablet":40} -->
+<div class="wp-block-wd-row wd-fd4a3787"><!-- wp:wd/column {"blockId":"6c384a70-975c-4859-9414-0a62e22b3df3","blockVersion":"2","adjacentCount":2,"colWidth":33.33,"blocksGap":30,"adjacentCountTablet":1,"colWidthTablet":100,"blocksGapMobile":20} -->
+<div class="wp-block-wd-column wd-6c384a70"><!-- wp:wd/title {"blockId":"51d75805-680a-4347-8085-5773a02dca9e","blockVersion":"2","content":"Contact Me!","tpFontSize":"38","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-51d75805">Contact Me!</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/title {"blockId":"b3e8b964-b7f0-43d4-8326-e9064f0235fa","blockVersion":"2","content":"Address","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-b3e8b964">Address</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"595381ee-14ac-42c7-b5b0-054c812c9767","blockVersion":"2","colorCode":"#242424","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-595381ee">69 2nd Ave, Brooklyn, NY 11215, USA</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"305b8da3-70fd-453c-a492-83b6ff449eb2","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-305b8da3">Monday - Tuesday 10.00am - 4.00pm (By Appointment Only) Wednesday - Saturday, 10.00am – 4.00pm<br>Sunday, Closed</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"be373a4b-08f2-437f-8ede-81a46cd7ea17","blockVersion":"2","content":"Phone","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-be373a4b">Phone</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"05f25256-54da-420b-9190-9fd5223fae74","blockVersion":"2"} -->
+<div class="wp-block-wd-row wd-05f25256"><!-- wp:wd/column {"blockId":"25f721ae-a377-4a10-a05a-e24a8c92abbf","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-25f721ae"><!-- wp:wd/paragraph {"blockId":"452fd599-8340-454e-9997-801950a3954c","blockVersion":"2","colorCode":"#242424","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-452fd599">(211) 820-8293</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"8092fa25-dcd0-45b5-ab29-9d4af309bb2c","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-8092fa25"><!-- wp:wd/paragraph {"blockId":"4de59ee8-0dd1-4ebd-aa7a-29b1a7adcab1","blockVersion":"2","colorCode":"#242424","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-4de59ee8">(211) 820-8295</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/title {"blockId":"cf05d831-1e6e-4f36-b013-0f42052fa764","blockVersion":"2","content":"Email","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-cf05d831">Email</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"fdcb4f00-6466-461c-be7a-458af9d5f737","blockVersion":"2","paddingBottom":"10","borderType":"solid","borderColorCode":"#101010","borderWidthBottom":"1","borderWidthLock":false} -->
+<div class="wp-block-wd-row wd-fdcb4f00"><!-- wp:wd/column {"blockId":"6b29c1d6-2a8b-4258-adc4-44d5f973e4d0","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-6b29c1d6"><!-- wp:wd/paragraph {"blockId":"ad1ddbd2-d206-43a8-9438-95eb21b07495","blockVersion":"2","colorCode":"#242424","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-ad1ddbd2">Customer Service</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"79d82a4e-3fa1-4b0a-ab10-09c0c64e2f9b","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-79d82a4e"><!-- wp:wd/paragraph {"blockId":"fe108adc-cb83-4a1d-8cc7-03847b2dcbb7","blockVersion":"2","colorCode":"#242424","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-fe108adc">info@woodmart.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"9c9eda86-03d7-46f6-8629-d57aad01a49b","blockVersion":"2","paddingBottom":"10","borderType":"solid","borderColorCode":"#101010","borderWidthBottom":"1","borderWidthLock":false} -->
+<div class="wp-block-wd-row wd-9c9eda86"><!-- wp:wd/column {"blockId":"0b2957be-cb88-4963-ba5c-cd7b6d0f7bd3","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-0b2957be"><!-- wp:wd/paragraph {"blockId":"3eed9d11-5539-4452-ba4e-3ef83feb3b6a","blockVersion":"2","colorCode":"#242424","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-3eed9d11">Pottery Class</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"2ec763f4-75bb-42d9-8866-b76759cc5be9","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-2ec763f4"><!-- wp:wd/paragraph {"blockId":"8f8d922e-f367-4b08-846f-78294418f448","blockVersion":"2","colorCode":"#242424","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-8f8d922e">learn@woodmart.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"5d119994-64be-4976-9583-6e952a59fa50","blockVersion":"2","adjacentCount":2,"colWidth":66.33,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-5d119994"><!-- wp:wd/open-street-map {"blockId":"bc5c088f-d084-4828-8725-e96b484f0dc7","marker":{"id":291,"url":"http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-map-point.svg"},"markerData":{"url":"https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-map-point.svg","width":32,"height":40},"zoom":15,"height":"590","locations":[{"title":"","lat":"51.50735","lon":"-0.12776","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"}]} -->
+<div class="wp-block-wd-open-street-map wd-map-container wd-osm-map-container wd-bc5c088f"><div id="wd-osm-map-bc5c088f-d084-4828-8725-e96b484f0dc7" class="wd-osm-map-wrapper wd-map-wrapper" data-settings="{&quot;zoom&quot;:15,&quot;scrollWheelZoom&quot;:&quot;no&quot;,&quot;zoomControl&quot;:&quot;yes&quot;,&quot;dragging&quot;:&quot;yes&quot;,&quot;init_type&quot;:&quot;page_load&quot;,&quot;init_offset&quot;:100,&quot;geoapify_tile&quot;:&quot;osm-carto&quot;,&quot;center&quot;:&quot;51.50735,-0.12776&quot;,&quot;markers&quot;:[{&quot;lat&quot;:&quot;51.50735&quot;,&quot;lng&quot;:&quot;-0.12776&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-map-point.svg&quot;,&quot;image_size&quot;:[32,40],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}}]}"></div></div>
+<!-- /wp:wd/open-street-map --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>61</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 12:13:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 12:13:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-02 12:32:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-02 12:32:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-me]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[header_785881]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-about-me-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-about-me-1-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:51:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-1-opt.jpg</guid>
+															<wp:post_id>239</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:51:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:51:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:51:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:51:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-about-me-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-about-me-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-about-me-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-about-me-2-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:52:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-2-opt.jpg</guid>
+															<wp:post_id>240</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:52:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:52:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:52:06]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:52:06]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-about-me-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-about-me-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-about-me-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-gallery-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-gallery-1-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:54:33 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-1-opt.jpg</guid>
+															<wp:post_id>245</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:54:33]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:54:33]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:54:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:54:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-gallery-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-gallery-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-gallery-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-gallery-2-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:54:33 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-2-opt.jpg</guid>
+															<wp:post_id>246</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:54:33]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:54:33]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:54:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:54:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-gallery-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-gallery-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-gallery-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-gallery-3-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:54:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-3-opt.jpg</guid>
+															<wp:post_id>247</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:54:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:54:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:54:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:54:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-gallery-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-gallery-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-gallery-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-gallery-4-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:54:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-4-opt.jpg</guid>
+															<wp:post_id>248</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:54:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:54:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:54:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:54:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-gallery-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-gallery-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-gallery-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-gallery-5-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:54:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-5-opt.jpg</guid>
+															<wp:post_id>249</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:54:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:54:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:54:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:54:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-gallery-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-gallery-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-single-post-image-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/w-hmp-single-post-image-2-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:55:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-2-opt.jpg</guid>
+															<wp:post_id>250</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:55:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:55:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:55:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:55:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-single-post-image-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-single-post-image-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-single-post-image-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/w-hmp-single-post-image-3-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:55:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-3-opt.jpg</guid>
+															<wp:post_id>251</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:55:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:55:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:55:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:55:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-single-post-image-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-single-post-image-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-single-post-image-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/w-hmp-single-post-image-4-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:55:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-4-opt.jpg</guid>
+															<wp:post_id>252</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:55:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:55:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:55:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:55:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-single-post-image-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-single-post-image-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-single-post-image-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/w-hmp-single-post-image-6-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:55:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-6-opt.jpg</guid>
+															<wp:post_id>254</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:55:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:55:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:55:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:55:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-single-post-image-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-6-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-single-post-image-6-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-red-clay-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-red-clay-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 14:06:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-red-clay-opt.jpg</guid>
+															<wp:post_id>268</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 14:06:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 14:06:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 14:06:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 14:06:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-red-clay-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-red-clay-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-red-clay-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-blue-clay-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-blue-clay-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 14:07:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-blue-clay-opt.jpg</guid>
+															<wp:post_id>273</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 14:07:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 14:07:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 14:07:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 14:07:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-blue-clay-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-blue-clay-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-blue-clay-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-map-point]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-map-point/</link>
+					<pubDate>Wed, 31 Jul 2024 14:14:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-map-point.svg</guid>
+															<wp:post_id>291</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 14:14:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 14:14:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 14:14:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 14:14:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-map-point]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-map-point.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-map-point.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-gallery-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-gallery-4-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:54:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-4-opt.jpg</guid>
+															<wp:post_id>248</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:54:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:54:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:54:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:54:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-gallery-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-gallery-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-gallery-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-gallery-5-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:54:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-5-opt.jpg</guid>
+															<wp:post_id>249</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:54:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:54:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:54:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:54:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-gallery-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-gallery-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-gallery-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-single-post-image-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/w-hmp-single-post-image-2-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:55:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-2-opt.jpg</guid>
+															<wp:post_id>250</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:55:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:55:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:55:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:55:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-single-post-image-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-single-post-image-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-single-post-image-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/w-hmp-single-post-image-3-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:55:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-3-opt.jpg</guid>
+															<wp:post_id>251</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:55:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:55:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:55:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:55:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-single-post-image-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-single-post-image-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-single-post-image-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/w-hmp-single-post-image-4-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:55:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-4-opt.jpg</guid>
+															<wp:post_id>252</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:55:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:55:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:55:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:55:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-single-post-image-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-single-post-image-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-single-post-image-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/w-hmp-single-post-image-6-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 13:55:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-6-opt.jpg</guid>
+															<wp:post_id>254</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 13:55:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 13:55:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 13:55:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 13:55:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-single-post-image-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-single-post-image-6-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-single-post-image-6-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-red-clay-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-red-clay-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 14:06:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-red-clay-opt.jpg</guid>
+															<wp:post_id>268</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 14:06:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 14:06:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 14:06:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 14:06:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-red-clay-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-red-clay-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-red-clay-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-abot-me-blue-clay-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/about-me/w-hmp-abot-me-blue-clay-opt/</link>
+					<pubDate>Wed, 31 Jul 2024 14:07:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-blue-clay-opt.jpg</guid>
+															<wp:post_id>273</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-31 14:07:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-31 14:07:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-31 14:07:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-31 14:07:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-abot-me-blue-clay-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>61</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/2024/07/w-hmp-abot-me-blue-clay-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-abot-me-blue-clay-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

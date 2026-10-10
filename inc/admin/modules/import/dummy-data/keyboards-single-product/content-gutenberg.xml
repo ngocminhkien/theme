@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>keyboards-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg</link>
+	<description></description>
+	<pubDate>Fri, 10 Apr 2026 13:17:46 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>62</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[single-product-navigation]]></wp:term_slug><wp:term_name><![CDATA[Single product navigation]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[Overview]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/2026/04/21/overview/</link>
+					<pubDate>Tue, 21 Apr 2026 11:08:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/?p=195</guid>
+															<wp:post_id>195</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-21 11:08:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-21 11:08:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-21 11:08:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-21 11:08:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[overview]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="single-product-navigation"><![CDATA[Single product navigation]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[195]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#Overview]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Specs]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/2026/04/21/specs/</link>
+					<pubDate>Tue, 21 Apr 2026 11:08:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/?p=196</guid>
+															<wp:post_id>196</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-21 11:08:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-21 11:08:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-21 11:08:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-21 11:08:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[specs]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="single-product-navigation"><![CDATA[Single product navigation]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[196]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#Specs]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Reviews]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/2026/04/21/reviews/</link>
+					<pubDate>Tue, 21 Apr 2026 11:08:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/?p=197</guid>
+															<wp:post_id>197</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-21 11:08:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-21 11:08:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-21 11:08:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-21 11:08:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[reviews]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="single-product-navigation"><![CDATA[Single product navigation]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[197]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#Reviews]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Single product - Keyboards]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/woodmart_layout/single-product-keyboards/</link>
+					<pubDate>Tue, 21 Apr 2026 11:47:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/?post_type=woodmart_layout&#038;p=248</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"fa9eefcf-5ce5-45e3-aa81-86039d7109a6","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginTop":"-20","directionTablet":"row"} -->
+<div class="wp-block-wd-container wd-dir-row wd-dir-row-md wd-align-is-lg-center wd-fa9eefcf"><!-- wp:wd/woo-breadcrumbs {"blockId":"ce65f677-88a2-4b2f-a031-41a67763a2bc","blockVersion":"2","nowrapMd":true,"bgColorCode":"#ffffff","paddingTop":"8","paddingRight":"30","paddingBottom":"8","paddingLeft":"30","marginRight":"auto","marginUnits":"custom","borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","flexSize":"grow","flexGrow":"1","flexShrink":"1","flexBasis":"auto","displayWidth":"","marginRightTablet":"0","flexBasisUnits":"custom"} /-->
+
+<!-- wp:wd/sp-navigation {"blockId":"11160522-309e-46d8-bbed-ff0d4c41d336","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"8","paddingRight":"8","paddingBottom":"8","paddingLeft":"8","paddingLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","hideOnMobile":true,"flexSize":"none","flexGrow":"","flexShrink":"","flexBasis":""} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"15eaa898-4dc3-4d0f-874a-d9a8bf56004b","blockVersion":"2","columnsGap":20,"marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-row wd-15eaa898"><!-- wp:wd/column {"blockId":"09c1592f-6252-4b66-a5b9-d4dcc185ee7b","blockVersion":"2","adjacentCount":2,"colWidth":60} -->
+<div class="wp-block-wd-column wd-09c1592f"><!-- wp:wd/sp-gallery {"blockId":"926075cd-649c-41d0-9be0-7ed2b852d9f5","blockVersion":"2"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"f54f8eba-8fdf-4ca7-b215-5342530bcadd","blockVersion":"2","adjacentCount":2,"colWidth":40,"sticky":true,"stickyOffset":"102","stickyTablet":true} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd-sticky-on-md-sm wd_sticky_offset_102 wd-f54f8eba"><!-- wp:wd/container {"blockId":"5f4be2c4-5cf0-4f93-aca1-11866b669725","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div class="wp-block-wd-container wd-dir-col wd-5f4be2c4"><!-- wp:wd/container {"blockId":"080ca294-7bc3-4a3d-bbbf-1b2aa7d7a11c","blockVersion":"2","direction":"row","justify":"space-between","wrap":"wrap"} -->
+<div class="wp-block-wd-container wd-dir-row wd-080ca294"><!-- wp:wd/sp-meta {"blockId":"973f4f40-faf4-4b96-b4e7-e2bc85a97daf","blockVersion":"2","showSku":false,"showCategories":false,"showTags":false,"showBrand":true,"labelTpFontSize":"0","valueTpFontFamily":"var(\u002d\u002dwd-alternative-font)","valueTpFontSize":"24","valueTpFontVariant":"400","valueTpFontWeight":"400"} /-->
+
+<!-- wp:wd/sp-rating {"blockId":"810629f6-5334-45c0-9215-4d88de1320fc","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sp-title {"blockId":"5352f0ba-ccbc-4b09-b230-77a694fed639","blockVersion":"2","tpFontSize":"40","tpFontSizeTablet":"32","tpFontSizeMobile":"24"} /-->
+
+<!-- wp:wd/sp-stock-status {"blockId":"d5c25af3-c822-486a-a406-3a2741320b58","blockVersion":"2","tpFontFamily":"var(\u002d\u002dwd-alternative-font)"} /-->
+
+<!-- wp:wd/list {"blockId":"3d7db352-0d60-41e0-a641-fc3f9149b537","blockVersion":"2","iconType":"image","image":{"id":249,"url":"http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg","width":16,"height":16},"iconSize":"16","textColorCode":"#333333"} -->
+<ul class="wp-block-wd-list wd-list wd-type-image wd-style-default wd-3d7db352"><!-- wp:wd/list-item {"blockId":"d9a8d21e-20a7-42a8-8554-6329f4e96e7a","blockVersion":"2","iconType":"image","svg":"","image":{"id":249,"url":"http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg","width":16,"height":16},"itemImage":{"id":"","url":""}} -->
+<li class="wp-block-wd-list-item wd-d9a8d21e"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg" alt="" class="wp-image-249"/></div><span class="wd-list-content">67% layout, fully aluminum gasket-mounted case</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"197ec6ed-87ff-4156-a9a1-43afbd2b6bce","blockVersion":"2","iconType":"image","svg":"","image":{"id":249,"url":"http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg","width":16,"height":16},"itemImage":{"id":"","url":""}} -->
+<li class="wp-block-wd-list-item wd-197ec6ed"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg" alt="" class="wp-image-249"/></div><span class="wd-list-content">Hot-swappable connectors and stabilizers included</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"37fe619d-66d4-4b1b-90ef-a16777dad747","blockVersion":"2","iconType":"image","svg":"","image":{"id":249,"url":"http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg","width":16,"height":16},"itemImage":{"id":"","url":""}} -->
+<li class="wp-block-wd-list-item wd-37fe619d"><div class="wd-icon"><img src="http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg" alt="" class="wp-image-249"/></div><span class="wd-list-content">Proprietary materials produce a deep sound</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/sp-countdown {"blockId":"247fc6ff-7833-49fe-bc2e-31fefdb52c30","blockVersion":"2"} /-->
+
+<!-- wp:wd/sp-price {"blockId":"4ce4487a-6105-4825-b795-435db55878b7","blockVersion":"2","mainPriceTextColorCode":"#333333","oldPriceTextColorCode":"#bbbbbb"} /-->
+
+<!-- wp:wd/container {"blockId":"278ab62c-5229-46cc-b112-6e7d1ed2a7b2","blockVersion":"2","direction":"row","align":"end","colGap":"10","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-end wd-278ab62c"><!-- wp:wd/sp-add-to-cart {"blockId":"e1f02358-7ec9-4ee0-84ac-d82c7be40d08","blockVersion":"2","buttonDesign":"full","swatchLayout":"inline","stockStatus":false,"displayWidth":"full-width"} /-->
+
+<!-- wp:wd/sp-wishlist-btn {"blockId":"d8ea15b5-374e-482c-ad83-2f56bcff153d","blockVersion":"2","linkPaddingTop":"8","linkPaddingRight":"8","linkPaddingBottom":"8","linkPaddingLeft":"8","style":"icon","flexSize":"none"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sp-estimate-delivery {"blockId":"32108de5-c59c-4355-8f6a-4aec40266ff1","blockVersion":"2","iconType":"icon","iconColorCode":"#6ec01d"} -->
+<!-- wp:wd/icon {"blockId":"1371c090-d039-4c8e-bd5a-05132b43734b","blockVersion":"2","image":{"id":251,"url":"http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled-green.svg","width":16,"height":16},"width":"16","extraClass":"wd-info-icon"} -->
+<div class="wp-block-wd-icon wd-info-icon wd-1371c090"><img class="wp-image-251" src="http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled-green.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+<!-- /wp:wd/sp-estimate-delivery --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"4f13a9ab-26f9-40c2-8887-b80160c954e9","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div class="wp-block-wd-container wd-dir-col wd-4f13a9ab"><!-- wp:wd/products {"blockId":"0e45605f-5110-45be-9eb7-4b6b1efec86c","blockVersion":"2","show_title":true,"categoriesIds":"","orderby":"rand","layout":"carousel","items_per_page":"3","product_hover":"custom","product_custom_hover":"253","img_size":"custom","imgSizeCustomWidth":"64","imgSizeCustomHeight":"74","slides_per_view":"1","carousel_arrows_position":"together","hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"4354df5c-be29-471f-aef0-825dc7f55e59","blockVersion":"2","content":"Don't Miss Top Accessories","tpFontSize":"16"} -->
+<h2 class="wp-block-wd-title title wd-4354df5c">Don't Miss Top Accessories</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"df3448f7-9d7c-4e4e-a790-781e34e5dbdc","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div class="wp-block-wd-container wd-dir-col wd-df3448f7"><!-- wp:wd/accordion {"blockId":"851ee2c1-2684-46cb-a5e4-33c7527325c0","blockVersion":"2","design":"simple","allClosed":true,"openerSize":"16","titleTpFontSize":"16","titlesColorCode":"#333333","titlesHoverColorCode":"#333333","titlesActiveColorCode":"#333333"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-simple wd-titles-start wd-opener-style-arrow wd-opener-pos-end wd-851ee2c1" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"2007a6d4-3f17-4f13-befa-df46ffb1727c","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-2007a6d4"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Shipping Information</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"b94a8863-9f03-4431-9fa6-6f6f559ba18e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-b94a8863">All orders will be shipped by NuPhy within 48 hours of order confirmation, tracking numbers are provided no later than a day after shipment on business days. You can check Shipping Policy for more information.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"07ecd713-e64c-41e8-b0a2-7eeede67344e","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-07ecd713"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Warranty Policy</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"d050998c-ccb9-451f-9cb9-0b9ec3712357","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d050998c">NuPhy offers a 1-year limited warranty for all NuPhy products. If there is any quality issue, please send relevant images or videos to service@nuphy.com for review.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"84d6aa86-8a0a-406e-ab32-445feed61a76","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-84d6aa86"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Secure Payment</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"cbf292f9-1c73-49a9-9b35-bc6eff541bb3","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-cbf292f9">NuPhy offers a 1-year limited warranty for all NuPhy products. If there is any quality issue, please send relevant images or videos to service@nuphy.com for review.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/container {"blockId":"0ed98b16-3318-4ffe-9e28-c89327eaff5e","blockVersion":"2","textAlign":"center","positionType":"sticky","positionZIndex":"99","positionTop":"102","hideOnMobile":true,"positionTopTablet":"80"} -->
+<div class="wp-block-wd-container wd-dir-col wd-align wd-hide-sm wd-0ed98b16"><!-- wp:wd/menu {"blockId":"75a314bf-0f47-4610-8f0c-a5da0aa1d2bb","blockVersion":"2","nav_menu":"62","style":"bg","items_gap":"m","bgColorCode":"rgba(255,255,255,0.3)","backdropFilterBlur":"5","backdropFilterGrayscale":"","backdropFilterHueRotate":"","backdropFilterInvert":"","backdropFilterSepia":"","paddingTop":"14","paddingRight":"14","paddingBottom":"14","paddingLeft":"14","paddingLock":true,"borderRadius":"32","borderRadiusTop":"32","borderRadiusRight":"32","borderRadiusBottom":"32","borderRadiusLeft":"32","displayWidth":"fit-content","itemTpFontSize":"14","itemTpTextTransform":"none","itemsHoverColorCode":"#ffffff","itemsActiveColorCode":"#ffffff","itemsBgColorCode":"#ffffff","itemsBgHoverColorVariable":"\u002d\u002dwd-primary-color","itemsBgActiveColorVariable":"\u002d\u002dwd-primary-color","itemsBorderRadius":"21","itemsBorderRadiusTop":"21","itemsBorderRadiusRight":"21","itemsBorderRadiusBottom":"21","itemsBorderRadiusLeft":"21","itemsPaddingRight":"20","itemsPaddingLeft":"20"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/menu-anchor {"blockId":"e0099713-161b-4c47-8dd5-1d9108ccab9f","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-e0099713" data-id="Overview" data-offset="0"><div id="Overview"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/sp-content {"blockId":"eecd7086-9a9d-441d-8ec6-7a954b1ec3cb","blockVersion":"2","marginBottom":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"811cc5c8-c6b3-433a-87c2-bb62b263b109","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-811cc5c8" data-id="Specs" data-offset="0"><div id="Specs"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/container {"blockId":"dca36012-029a-4a74-85c5-0d2562760e02","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"50","paddingRight":"50","paddingBottom":"50","paddingLeft":"50","paddingLock":true,"marginBottom":"40","borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","paddingTopTablet":"30","paddingRightTablet":"30","paddingBottomTablet":"30","paddingLeftTablet":"30","paddingLockTablet":true} -->
+<div class="wp-block-wd-container wd-dir-col wd-dca36012"><!-- wp:wd/title {"blockId":"fa2bf3e8-3bbe-4d9f-b61f-4e480bee183b","blockVersion":"2","content":"Tech specs","tpFontSize":"40","tpLineHeight":"1.2","tpFontSizeTablet":"32","tpFontSizeMobile":"24","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-fa2bf3e8">Tech specs</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"2220d664-145a-4285-975d-52d05a03d601","blockVersion":"2"} -->
+<div class="wp-block-wd-row wd-2220d664"><!-- wp:wd/column {"blockId":"3af78fae-e55f-4858-9b45-4086a91c40f0","blockVersion":"2","adjacentCount":2,"blocksGap":30} -->
+<div class="wp-block-wd-column wd-3af78fae"><!-- wp:wd/sp-additional-info-table {"blockId":"9eb13628-5578-4761-a8b4-725c97ab04cf","blockVersion":"2","title":true,"include":"","layout":"inline","style":"default","columns":1,"rowGap":15,"attrImage":false,"termImage":false,"attrNameColumnWidth":"171","attrNameTpFontVariant":"400","attrNameTpFontWeight":"400","attrNameColorCode":"#767676","attrTermTpFontVariant":"600","attrTermTpFontWeight":"600","attrTermColorCode":"#333333","termLinkColorCode":"#333333","termLinkColorHoverCode":"#242424","columnsMobile":1} -->
+<!-- wp:wd/title {"blockId":"7b5a09c9-cd8c-40a7-95eb-43958f7e6cf1","blockVersion":"2","content":"Specification","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-7b5a09c9">Specification</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/sp-additional-info-table --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c0264afe-28ed-4341-a51e-4dadad60e2de","blockVersion":"2","adjacentCount":2,"blocksGap":30} -->
+<div class="wp-block-wd-column wd-c0264afe"><!-- wp:wd/sp-additional-info-table {"blockId":"26aa87c4-cb33-4117-a4be-dc4528d67252","blockVersion":"2","title":true,"include":"","layout":"inline","style":"default","columns":1,"rowGap":15,"attrImage":false,"termImage":false,"attrNameColumnWidth":"171","attrNameTpFontVariant":"400","attrNameTpFontWeight":"400","attrNameColorCode":"#767676","attrTermTpFontVariant":"600","attrTermTpFontWeight":"600","attrTermColorCode":"#333333","termLinkColorCode":"#333333","termLinkColorHoverCode":"#242424","columnsMobile":1} -->
+<!-- wp:wd/title {"blockId":"87dbda77-b22a-4b02-b300-8222bcd9f6ab","blockVersion":"2","content":"Materials","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-87dbda77">Materials</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/sp-additional-info-table --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/menu-anchor {"blockId":"24a95391-18c8-4e63-b912-f95b7d1273cd","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-24a95391" data-id="Reviews" data-offset="0"><div id="Reviews"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/container {"blockId":"e2368cda-846d-4874-b87b-0b94005a3f24","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"50","paddingRight":"50","paddingBottom":"50","paddingLeft":"50","paddingLock":true,"marginBottom":"40","borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","paddingTopTablet":"30","paddingRightTablet":"30","paddingBottomTablet":"30","paddingLeftTablet":"30","paddingLockTablet":true} -->
+<div class="wp-block-wd-container wd-dir-col wd-e2368cda"><!-- wp:wd/title {"blockId":"c5d70704-c8b3-41e6-a85e-f52567fcee81","blockVersion":"2","content":"Reviews","tpFontSize":"40","tpLineHeight":"1.2","tpFontSizeTablet":"32","tpFontSizeMobile":"24","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-c5d70704">Reviews</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/sp-reviews {"blockId":"4d62fc91-642a-466c-83a8-1bcddf9bca77","blockVersion":"2","layout":"two-column"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/products {"blockId":"5643fa2e-96ed-4193-a7e5-247bdc4572bc","blockVersion":"2","show_title":true,"post_type":"recently_viewed","categoriesIds":"","ajax_recently_viewed":true,"layout":"carousel","product_hover":"inherit","img_size":"full","imgSizeCustomWidth":"64","imgSizeCustomHeight":"74","marginBottom":"40","slides_per_view":"3.7","scroll_carousel_init":true,"disable_overflow_carousel":true,"hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"marginBottomTablet":"20","marginBottomMobile":"0","slides_per_viewMobile":"2","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"4556682f-4aeb-4731-b765-5be407d9b204","blockVersion":"2","content":"You may also like…","tpFontSize":"40","tpFontSizeTablet":"32","tpFontSizeMobile":"24"} -->
+<h2 class="wp-block-wd-title title wd-4556682f">You may also like…</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->]]></content:encoded>
+															<wp:post_id>248</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-21 11:47:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-21 11:47:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-04 14:10:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-04 14:10:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-keyboards]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[kac-porudct-check-filled]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/woodmart_layout/single-product-keyboards/kac-porudct-check-filled/</link>
+					<pubDate>Tue, 21 Apr 2026 11:48:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg</guid>
+															<wp:post_id>249</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-21 11:48:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-21 11:48:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-21 11:48:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-21 11:48:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[kac-porudct-check-filled]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>248</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/kac-porudct-check-filled.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[kac-porudct-check-filled-green]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/woodmart_layout/single-product-keyboards/kac-porudct-check-filled-green/</link>
+					<pubDate>Tue, 21 Apr 2026 11:48:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled-green.svg</guid>
+															<wp:post_id>251</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-21 11:48:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-21 11:48:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-21 11:48:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-21 11:48:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[kac-porudct-check-filled-green]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>248</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/2026/04/kac-porudct-check-filled-green.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/kac-porudct-check-filled-green.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Kids gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:26:02 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/kids-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[About us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/about-us/</link>
+					<pubDate>Mon, 29 Jul 2024 11:59:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/kids-gutenberg/?page_id=86</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"18902dd8-7391-41bf-853f-1ff7ae991c10","marginBottom":"90","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-18902dd8" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"a16d84a9-cb2c-4716-8f04-b19055bc559c","adjacentCount":2,"colWidth":60,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-a16d84a9" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"8b9af436-1290-4c6d-b483-24378f70506d","image":{"id":163,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-1-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-1-opt.jpg","width":890,"height":580}} -->
+<div id="wd-8b9af436" class="wp-block-wd-image wd-block-image"><img class="wp-image-163" src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-1-opt.jpg" alt="" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"93d14255-4903-45ff-8dfd-ea4ab643fa9f","adjacentCount":2,"colWidth":40,"blocksGap":10,"justifyContent":"flex-end","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-93d14255" class="wp-block-wd-column"><!-- wp:wd/paragraph {"blockId":"d45f603c-1df2-45fa-8ccb-b912142690ff","colorVariable":"\u002d\u002dwd-primary-color","tpFontSize":"18","tpFontVariant":"500","tpFontWeight":"500","tpFontSizeTablet":"16"} -->
+<p id="wd-d45f603c" class="wp-block-wd-paragraph">About us</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"f8173dde-f191-47a2-947f-0d7d2ce7208b","content":"We create organic clothes for babies​","tpFontSize":"46","displayWidth":"","customWidth":"","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-f8173dde" class="wp-block-wd-title title">We create organic clothes for babies​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"20c640db-7b56-4130-9323-049f4de09f84","displayWidth":"","customWidth":""} -->
+<p id="wd-20c640db" class="wp-block-wd-paragraph">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia, there live the blind texts.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"717911a0-21d9-4b06-a592-abd62dd4c598","displayWidth":""} -->
+<p id="wd-717911a0" class="wp-block-wd-paragraph">Separated they live in Bookmarks grove right at the coast of the Semantics.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"4097c63c-659a-4fa3-848f-884d41a91c2b","marginBottom":"100","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-4097c63c" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"e970d966-0606-4b8f-b3e7-a3429fc1057d","adjacentCount":2,"colWidth":40,"adjacentCountTablet":1,"colWidthTablet":100,"flexOrderTablet":"1"} -->
+<div id="wd-e970d966" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"40174df8-6981-49ed-97a2-efbdffe10656","content":"Meet our team​","tpFontSize":"32","tpFontSizeTablet":"26","tpFontSizeMobile":"22","marginBottomTablet":"-10"} -->
+<h2 id="wd-40174df8" class="wp-block-wd-title title">Meet our team​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"5099ebd4-3721-4789-803e-c2a96f8fc07b"} -->
+<p id="wd-5099ebd4" class="wp-block-wd-paragraph">Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure show.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/divider {"blockId":"71a714cc-491f-4946-b8c2-aa9854c831e9"} -->
+<div id="wd-71a714cc" class="wp-block-wd-divider wd-style-line"></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/container {"blockId":"5a1fd29f-f424-40be-9f0a-75a6ac0b7658","direction":"row","justify":"space-between","align":"center","wrap":"wrap"} -->
+<div id="wd-5a1fd29f" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/container {"blockId":"21d10d70-0008-4ca5-82d9-35caa44e0d46","displayWidth":"fit-content"} -->
+<div id="wd-21d10d70" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"ded294ba-2c6e-4e06-8bda-621bbc388bc2","content":"Darlene Robertson","tpFontSize":"22","tpFontSizeTablet":"18"} -->
+<h2 id="wd-ded294ba" class="wp-block-wd-title title">Darlene Robertson</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"6b0c584e-429a-4f18-9965-7eba1386ecf9"} -->
+<p id="wd-6b0c584e" class="wp-block-wd-paragraph">Director</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/social-buttons {"blockId":"b236e85d-d8fd-4609-a927-65b3987b15a7","type":"follow","style":"bordered","size":"small","social_links_source":"custom","pinterest_link":"","youtube_link":""} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/divider {"blockId":"c20e5892-233d-4fc0-9146-a3df3bd619d9"} -->
+<div id="wd-c20e5892" class="wp-block-wd-divider wd-style-line"></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/container {"blockId":"d7ecd1e7-ed28-45b5-aa30-153d93084df5","direction":"row","justify":"space-between","align":"center","wrap":"wrap"} -->
+<div id="wd-d7ecd1e7" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/container {"blockId":"f4babf0d-c6ba-4901-87ad-5864237000b8","displayWidth":"fit-content"} -->
+<div id="wd-f4babf0d" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"4166fad3-d6dd-4931-a534-d62ba1db25ff","content":"Kathryn Murphy","tpFontSize":"22","tpFontSizeTablet":"18"} -->
+<h2 id="wd-4166fad3" class="wp-block-wd-title title">Kathryn Murphy</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"b3641e54-225e-45d8-ae28-f63c1df32ee8"} -->
+<p id="wd-b3641e54" class="wp-block-wd-paragraph">Marketing manager</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/social-buttons {"blockId":"f4a85723-1394-4daa-a89a-eb2071ca0ac3","type":"follow","style":"bordered","size":"small","social_links_source":"custom","youtube_link":""} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/divider {"blockId":"55c3095b-c40d-4f22-9b88-0f6e96e61ea8"} -->
+<div id="wd-55c3095b" class="wp-block-wd-divider wd-style-line"></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/container {"blockId":"c99fd3b2-ab81-463d-aa9f-4d56c7bd35fd","direction":"row","justify":"space-between","align":"center","wrap":"wrap"} -->
+<div id="wd-c99fd3b2" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/container {"blockId":"efde145f-77c4-468f-8852-44310f4ae204","displayWidth":"fit-content"} -->
+<div id="wd-efde145f" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"bb9fd370-ee86-4e98-ba16-b7d0cb80a677","content":"Jenny Wilson","tpFontSize":"22","tpFontSizeTablet":"18"} -->
+<h2 id="wd-bb9fd370" class="wp-block-wd-title title">Jenny Wilson</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"7dc0ba95-5b8d-4ef6-a497-5301c030e967"} -->
+<p id="wd-7dc0ba95" class="wp-block-wd-paragraph">Product designer</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/social-buttons {"blockId":"c23067bd-feba-4824-8d91-a3363d74c4ce","type":"follow","style":"bordered","size":"small","social_links_source":"custom","youtube_link":""} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/divider {"blockId":"ac2b9cd9-5870-4c36-bd04-0e1b6bb70d61"} -->
+<div id="wd-ac2b9cd9" class="wp-block-wd-divider wd-style-line"></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/container {"blockId":"e3dcf5e9-74eb-49d9-9e98-0f4852b34909","direction":"row","justify":"space-between","align":"center","wrap":"wrap"} -->
+<div id="wd-e3dcf5e9" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/container {"blockId":"766b66d2-6c26-423f-916c-59cd586e7941","displayWidth":"fit-content"} -->
+<div id="wd-766b66d2" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"d0e789ad-cd0c-4d15-92ab-a0eae835a402","content":"Kristin Watson","tpFontSize":"22","tpFontSizeTablet":"18"} -->
+<h2 id="wd-d0e789ad" class="wp-block-wd-title title">Kristin Watson</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"6cddd71e-f466-46cb-a4a8-11e72af45efb"} -->
+<p id="wd-6cddd71e" class="wp-block-wd-paragraph">CEO</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/social-buttons {"blockId":"c4e7e512-dd2b-408c-b228-5f30b8b8eab3","type":"follow","style":"bordered","size":"small","social_links_source":"custom","pinterest_link":"","youtube_link":""} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/divider {"blockId":"fef83df1-ae2c-41f1-b47b-fee8beb3140c"} -->
+<div id="wd-fef83df1" class="wp-block-wd-divider wd-style-line"></div>
+<!-- /wp:wd/divider --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"31ab7cfd-2b27-4ada-9b1f-89b172740150","adjacentCount":2,"colWidth":60,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-31ab7cfd" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"3837ca62-fcd2-4009-a00f-3c132d6ae625","image":{"id":166,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-2-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-2-opt.jpg","width":890,"height":614}} -->
+<div id="wd-3837ca62" class="wp-block-wd-image wd-block-image"><img class="wp-image-166" src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-2-opt.jpg" alt="" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"c95d6180-e9cf-42d6-9e34-ce7bafdeede7","marginBottom":"100","columnsGapTablet":60,"marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-c95d6180" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"0acee114-61e5-45af-b73a-56963ad8e2ef","adjacentCount":2,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-0acee114" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"4782ed6f-9ffc-4a4f-8a93-e9bad2070ce3","image":{"id":173,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-3-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-3-opt.jpg","width":760,"height":750}} -->
+<div id="wd-4782ed6f" class="wp-block-wd-image wd-block-image"><img class="wp-image-173" src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-3-opt.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/title {"blockId":"3c1f409a-d61c-404c-8b7a-817a1b70ba3c","content":"How we work","tpFontSize":"22"} -->
+<h2 id="wd-3c1f409a" class="wp-block-wd-title title">How we work</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"c8942721-40fb-4e37-b3fa-4a67e9cc61ce"} -->
+<p id="wd-c8942721" class="wp-block-wd-paragraph">If that's what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"1e156314-f4f3-44a0-878b-42048876e6ba","adjacentCount":2,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-1e156314" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"5a4bbc45-c591-450f-8af3-b737fd829362","image":{"id":174,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-4-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-4-opt.jpg","width":760,"height":750}} -->
+<div id="wd-5a4bbc45" class="wp-block-wd-image wd-block-image"><img class="wp-image-174" src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-4-opt.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/title {"blockId":"80425d00-cd9d-4484-9f17-af2646a770f4","content":"What we do","tpFontSize":"22"} -->
+<h2 id="wd-80425d00" class="wp-block-wd-title title">What we do</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"9bc40685-f928-49bf-8424-c0ac61ba80ba"} -->
+<p id="wd-9bc40685" class="wp-block-wd-paragraph">Accept that it’s sometimes okay to focus just on the content or just on the design. Rigid proponents of content strategy may shun the use of dummy copy but then designers might want to ask them to provide style sheets with the copy decks they supply that are in tune with the design direction they require. Using dummy content or fake information in the Web design.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"07afb7dc-a283-4e13-ac44-5b55af41cd08","marginBottom":"30"} -->
+<div id="wd-07afb7dc" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"e49ab89a-4d9f-40eb-9016-fe024ef8bfbf","adjacentCount":2,"colWidth":40,"adjacentCountTablet":1,"colWidthTablet":100,"flexOrderTablet":"1"} -->
+<div id="wd-e49ab89a" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"d51c2919-fb88-424d-9221-102ce6881ce4","content":"Some of your questions answered here​","tpFontSize":"32","displayWidth":"","customWidth":"","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 id="wd-d51c2919" class="wp-block-wd-title title">Some of your questions answered here​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"72a07c14-0d12-40bb-a078-6570f940455f","tpFontSizeMobile":"14"} -->
+<p id="wd-72a07c14" class="wp-block-wd-paragraph">We get a lot of questions about our course. You can get any answers.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"0685d9bd-7678-4542-ab55-639ec49ad251","predefinedColor":"primary","shape":"semi-round"} -->
+<a id="wd-0685d9bd" class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-semi-round" href="#"><span>Contact us</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"caf7309a-82df-49f8-9a98-4629f87815e4","adjacentCount":2,"colWidth":60,"adjacentCountTablet":1,"colWidthTablet":100,"flexOrderTablet":"1"} -->
+<div id="wd-caf7309a" class="wp-block-wd-column"><!-- wp:wd/accordion {"blockId":"ac2c5ead-dbd6-43f5-aca3-bd9ccd0e7cd6","allClosed":true,"openerIcon":"plus","titleTpFontFamily":"var(\u002d\u002dwd-title-font)"} -->
+<div id="wd-ac2c5ead" class="wp-block-wd-accordion wd-accordion wd-style-default wd-titles-start wd-opener-style-plus wd-opener-pos-end" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"138235f2-e0ac-4761-8a8c-64c11b08033f"} -->
+<div id="wd-138235f2" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Why choose organic cotton fabrics and certified factories?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"f55aa3c4-6e6a-48c1-a8bf-cb28dbd6150e"} -->
+<p id="wd-f55aa3c4" class="wp-block-wd-paragraph">A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity. Fake data can ensure a nice looking layout but it doesn’t reflect what a living, breathing application must endure. Real data does.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"3978cf68-bb46-4f0a-978a-0af2a89f4679"} -->
+<div id="wd-3978cf68" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>How is your product packaged?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"4f338c23-ad75-48fa-95a9-fe671f796ee9"} -->
+<p id="wd-4f338c23" class="wp-block-wd-paragraph">Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template. When it’s about controlling hundreds of articles, product pages for web shops.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"f33c6077-34db-43a3-817a-ad70069e402d"} -->
+<div id="wd-f33c6077" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>What’s the best size to buy for a baby shower gift?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"dc24c855-def2-4819-964b-578979d0625a"} -->
+<p id="wd-dc24c855" class="wp-block-wd-paragraph">If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited for another time. At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>86</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 11:59:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 11:59:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-24 13:38:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-24 13:38:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-about-us-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/about-us/w-bcs-about-us-1-opt/</link>
+					<pubDate>Mon, 29 Jul 2024 13:56:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-1-opt.jpg</guid>
+															<wp:post_id>163</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 13:56:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 13:56:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-29 13:56:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-29 13:56:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-about-us-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>86</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-about-us-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-about-us-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/about-us/w-bcs-about-us-2-opt/</link>
+					<pubDate>Mon, 29 Jul 2024 13:59:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-2-opt.jpg</guid>
+															<wp:post_id>166</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 13:59:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 13:59:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-29 13:59:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-29 13:59:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-about-us-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>86</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-about-us-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-about-us-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/about-us/w-bcs-about-us-3-opt/</link>
+					<pubDate>Mon, 29 Jul 2024 14:06:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-3-opt.jpg</guid>
+															<wp:post_id>173</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 14:06:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 14:06:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-29 14:06:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-29 14:06:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-about-us-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>86</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-about-us-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-about-us-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/about-us/w-bcs-about-us-4-opt/</link>
+					<pubDate>Mon, 29 Jul 2024 14:06:38 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-4-opt.jpg</guid>
+															<wp:post_id>174</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 14:06:38]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 14:06:38]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-29 14:06:38]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-29 14:06:38]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-about-us-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>86</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-about-us-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-about-us-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

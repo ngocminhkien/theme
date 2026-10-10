@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>pets-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 04 Aug 2025 13:25:06 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[pt-dog]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/home-pets/pt-dog/</link>
+					<pubDate>Mon, 18 Aug 2025 12:16:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-dog.svg</guid>
+															<wp:post_id>411</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 12:16:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 12:16:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-18 12:16:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-18 12:16:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-dog]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>15</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-dog.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-dog.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pt-cat]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/home-pets/pt-cat/</link>
+					<pubDate>Mon, 18 Aug 2025 12:16:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-cat.svg</guid>
+															<wp:post_id>412</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 12:16:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 12:16:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-18 12:16:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-18 12:16:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-cat]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>15</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-cat.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-cat.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pt-support]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/home-pets/pt-support/</link>
+					<pubDate>Mon, 18 Aug 2025 12:16:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-support.svg</guid>
+															<wp:post_id>413</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 12:16:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 12:16:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-18 12:16:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-18 12:16:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-support]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>15</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-support.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-support.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pt-free-delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/home-pets/pt-free-delivery/</link>
+					<pubDate>Mon, 18 Aug 2025 12:16:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-free-delivery.svg</guid>
+															<wp:post_id>414</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 12:16:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 12:16:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-18 12:16:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-18 12:16:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-free-delivery]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>15</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-free-delivery.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-free-delivery.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pt-high-quality]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/home-pets/pt-high-quality/</link>
+					<pubDate>Mon, 18 Aug 2025 12:17:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-high-quality.svg</guid>
+															<wp:post_id>415</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 12:17:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 12:17:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-18 12:17:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-18 12:17:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-high-quality]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>15</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-high-quality.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-high-quality.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Products archive - Pets / Dogs]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/woodmart_layout/products-archive-pets-dogs/</link>
+					<pubDate>Mon, 18 Aug 2025 12:49:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pets-gutenberg/?post_type=woodmart_layout&#038;p=458</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"dae03455-a5e3-493b-820d-5d9a55fe33b0","blockVersion":"2","bgColorCode":"#f6ede4","paddingTop":"10","paddingBottom":"10","marginTop":"-40","marginBottom":"40","overlay":false} -->
+<div class="wp-block-wd-section wd-dae03455"><!-- wp:wd/container {"blockId":"90f9c867-46f5-485b-b6d0-51ded1edf516","blockVersion":"2","direction":"row","align":"center","wrap":"wrap","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-90f9c867"><!-- wp:wd/sa-archive-title {"blockId":"be686208-0989-4380-90c9-d003cc8e4988","blockVersion":"2","tpFontSize":"26"} /-->
+
+<!-- wp:wd/woo-breadcrumbs {"blockId":"c557ce06-6a02-4601-9066-1bf087f586a9","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/product-categories {"blockId":"5e180c4e-3b48-4947-8889-7d472601d6ed","blockVersion":"2","orderby":"id","ids":"41,56,53,44,47,50","hide_empty":false,"style":"carousel","img_size":"custom","imgSizeCustomWidth":"268","imgSizeCustomHeight":"320","marginBottom":"80","slides_per_view":"5","carousel_arrows_position":"sep","hide_pagination_control":true,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"titleFontSize":"30","titleTextTransform":"capitalize","marginBottomTablet":"60","marginBottomMobile":"40","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true,"titleFontSizeTablet":"22","titleFontSizeMobile":"20"} /-->
+
+<!-- wp:wd/container {"blockId":"2b345f3c-1d83-4c35-ab82-76b64f5b3505","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginTop":"100","marginTopTablet":"60","marginTopMobile":"40"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-2b345f3c"><!-- wp:wd/title {"blockId":"620540cc-c0c0-4269-9145-05ac14120487","blockVersion":"2","content":"Shop by Brand","tpFontSize":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-620540cc">Shop by Brand</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"1772c646-23ec-4735-a1d7-febb96cd5aac","blockVersion":"2","predefinedColor":"primary","shape":"round"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-round wd-1772c646"><span>All Brands</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/brands {"blockId":"7df1a886-9054-4b40-ab0d-dce8aaf94e7a","blockVersion":"2","number":"12","filter_in_current_category":false,"columns":6,"spacing":"20","with_bg_color":true,"marginBottom":"80","slides_per_view":"6","scroll_carousel_init":true,"hide_prev_next_buttons":true,"hide_pagination_control":true,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"brandBgColorCode":"#fefefe","columnsMobile":2,"marginBottomTablet":"60","marginBottomMobile":"40","slides_per_viewTablet":"3","hide_prev_next_buttonsTablet":true,"hide_prev_next_buttonsMobile":true,"hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/products {"blockId":"160da00f-2d73-4412-a066-76398378b06e","blockVersion":"2","show_title":true,"categoriesIds":"40","layout":"carousel","items_per_page":"7","products_with_background":true,"marginBottom":"100","slides_per_view":"5","scroll_carousel_init":true,"hide_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"productsBackgroundCode":"#ffffff","marginBottomTablet":"60","marginBottomMobile":"40","slides_per_viewTablet":"3","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"07de56cd-b544-4605-82fa-cf4bdb842dd6","blockVersion":"2","content":"Top Picks","tpFontSize":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-07de56cd">Top Picks</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->
+
+<!-- wp:wd/row {"blockId":"6db98b12-700f-40b3-816e-128b7053780f","blockVersion":"2","marginBottom":"100","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-row wd-6db98b12"><!-- wp:wd/column {"blockId":"51f9da95-6986-40af-99a8-f97fc7aa4875","blockVersion":"2","adjacentCount":2,"colWidth":33,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-51f9da95"><!-- wp:wd/hotspots {"blockId":"15622300-8216-4c3b-855e-351675063d4a","blockVersion":"2","source":"video","image":{"id":"","url":""},"video":{"id":459,"url":"http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-video-opt.mp4"},"iconType":"plus","iconEffect":"sonar","iconShow":"hover","borderRadius":"25","borderRadiusTop":"25","borderRadiusRight":"25","borderRadiusBottom":"25","borderRadiusLeft":"25"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-plus wd-effect-sonar wd-event-hover wd-show-hover wd-15622300"><video src="http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-video-opt.mp4" autoplay loop muted playsinline></video><!-- wp:wd/hotspot {"blockId":"6de3eb15-06b2-4104-a87c-e4546ce85c81","blockVersion":"2","positionX":40,"positionY":40,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-6de3eb15"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"7689e4bb-daae-453e-813f-ca90bb5b04ad","blockVersion":"2","productId":"177"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"1551e9c9-427b-487e-977c-8a6ce6a0204e","blockVersion":"2","positionX":72,"positionY":66,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-1551e9c9"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"97ef20ec-aaae-459b-9db0-14e8df411c1a","blockVersion":"2","productId":"200"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"0c451614-206e-4f77-bb3f-5635e4cb7c86","blockVersion":"2","adjacentCount":2,"colWidth":67,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-0c451614"><!-- wp:wd/container {"blockId":"7ff92bcb-c2d7-4d65-815a-15d73a246d1e","blockVersion":"2","rowGap":"10","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"borderRadius":"25","borderRadiusTop":"25","borderRadiusRight":"25","borderRadiusBottom":"25","borderRadiusLeft":"25","paddingTopTablet":"30","paddingRightTablet":"30","paddingBottomTablet":"30","paddingLeftTablet":"30","paddingLockTablet":true} -->
+<div class="wp-block-wd-container wd-dir-col wd-7ff92bcb"><!-- wp:wd/paragraph {"blockId":"d2163a26-d8fd-46fe-97a3-8b66204782c3","blockVersion":"2","colorCode":"#ffffff","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontVariant":"500","tpFontWeight":"500"} -->
+<p class="wp-block-wd-paragraph wd-d2163a26">Buy bundle and get a 11% discount</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"89a8a97d-f348-476a-bec5-6e13b8ed43db","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","colorScheme":"light","marginBottom":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center color-scheme-light wd-89a8a97d"><!-- wp:wd/title {"blockId":"9205d693-952c-4203-bec3-a2c18973ca44","blockVersion":"2","content":"Puppy Starter Bundle","tpFontSize":"42","tpLineHeight":"1.2","tpFontSizeTablet":"30","tpFontSizeMobile":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-9205d693">Puppy Starter Bundle</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"471338ce-0f5e-45db-a102-2d18f8bd5f1e","blockVersion":"2","predefinedColor":"alt","shape":"round","colorCode":"#242424","colorParentHoverCode":"#333333"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-alt btn-size-default btn-shape-round wd-471338ce" href="#"><span>Buy Bundle</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/products {"blockId":"de84b22d-f5a5-473e-a58a-0851874918cb","blockVersion":"2","post_type":"ids","include":"187,167,183","layout":"carousel","items_per_page":"3","products_with_background":true,"scroll_carousel_init":true,"hide_prev_next_buttons":true,"hide_pagination_control":true,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"productsBackgroundCode":"#ffffff","slides_per_viewTablet":"2","hide_prev_next_buttonsTablet":true,"hide_prev_next_buttonsMobile":true,"hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"fb10c087-ffd8-488f-be6c-e931f69063ab","blockVersion":"2","marginBottom":"60"} -->
+<div class="wp-block-wd-row wd-fb10c087"><!-- wp:wd/column {"blockId":"c39bb1e5-da1b-4a45-bd91-1976471a3576","blockVersion":"2","adjacentCount":3,"justifyContent":"center","textAlign":"end","adjacentCountTablet":3,"adjacentCountMobile":1,"colWidthTablet":25,"colWidthMobile":45,"flexOrderMobile":"1"} -->
+<div class="wp-block-wd-column wd-align wd-c39bb1e5"><!-- wp:wd/image {"blockId":"60d3a3a3-8bd8-4f66-9167-560be2f579b2","blockVersion":"2","image":{"id":411,"url":"http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-dog.svg","width":216,"height":200},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-dog.svg","width":216,"height":200}} -->
+<div class="wp-block-wd-image wd-block-image wd-60d3a3a3"><img class="wp-image-411" src="http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-dog.svg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"26cc340d-19c0-4e2a-8b4b-1b3955dab6a5","blockVersion":"2","adjacentCount":3,"blocksGap":0,"justifyContent":"center","textAlign":"center","adjacentCountTablet":3,"adjacentCountMobile":1,"colWidthTablet":50,"colWidthMobile":100,"blocksGapMobile":0} -->
+<div class="wp-block-wd-column wd-align wd-26cc340d"><!-- wp:wd/title {"blockId":"a5438d75-3ad9-4212-a95c-b8c0f92d2a8d","blockVersion":"2","content":"With \u003cspan class=\u0022wd-highlight\u0022\u003eLove\u003c/span\u003e","tpFontSize":"84","tpLineHeight":"1.2","tpFontVariant":"600","tpFontWeight":"600","markColorVariable":"\u002d\u002dwd-primary-color","displayWidth":"","customWidth":"","tpFontSizeTablet":"60","tpFontSizeMobile":"42","tpLineHeightUnits":"em","markLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-a5438d75">With <span class="wd-highlight">Love</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/title {"blockId":"d483609f-b7e7-4007-b5bc-f10b74ae4b14","blockVersion":"2","content":" for Your Pets","tpFontSize":"52","tpLineHeight":"1.2","tpFontVariant":"500","tpFontWeight":"500","displayWidth":"","customWidth":"","tpFontSizeTablet":"42","tpFontSizeMobile":"26","tpLineHeightUnits":"em","markLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-d483609f"> for Your Pets</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"5e227648-e008-4be4-9cfa-41704c9dc863","blockVersion":"2","adjacentCount":3,"justifyContent":"center","adjacentCountTablet":3,"adjacentCountMobile":1,"colWidthTablet":25,"colWidthMobile":45,"flexOrderMobile":"2"} -->
+<div class="wp-block-wd-column wd-5e227648"><!-- wp:wd/image {"blockId":"ac0b7b87-1d08-47e8-af18-d64c28fd76c6","blockVersion":"2","image":{"id":412,"url":"http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-cat.svg","width":251,"height":180},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-cat.svg","width":251,"height":180}} -->
+<div class="wp-block-wd-image wd-block-image wd-ac0b7b87"><img class="wp-image-412" src="http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-cat.svg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/carousel {"blockId":"204e0b49-cbca-4ecb-9a24-3967d96601f7","blockVersion":"2","currentSlide":2,"paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"initOnScrollCarousel":true,"marginBottom":"40","slidesPerViewTablet":"2","marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div class="wp-block-wd-carousel wd-carousel-container wd-204e0b49"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid scroll-init" style="--wd-col-lg:3;--wd-col-md:2;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/carousel-item {"blockId":"2d1eb1d9-757b-4b23-a768-92e1456b636a","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-2d1eb1d9"><!-- wp:wd/infobox {"blockId":"235ddd87-b33a-4e03-a866-2b040ff09b67","blockVersion":"2","align":"center"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top wd-235ddd87"><!-- wp:wd/icon {"blockId":"d80e95f7-7f62-4a98-beaf-5042c52698fa","blockVersion":"2","image":{"id":413,"url":"http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-support.svg","width":261,"height":86},"width":"259"} -->
+<div class="wp-block-wd-icon wd-d80e95f7"><img class="wp-image-413" src="http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-support.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"7f4a500d-d385-4f31-897a-ab254a71061f","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-7f4a500d"><!-- wp:wd/title {"blockId":"0efaed02-842e-461d-b034-54dff73f7e3c","blockVersion":"2","content":"Get quality help in a timely manner"} -->
+<h2 class="wp-block-wd-title title wd-0efaed02">Get quality help in a timely manner</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"c96c240c-f16b-4275-9d15-f2346bcd8711","blockVersion":"2","design":"link","predefinedColor":"black","size":"extra-large"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-color-black btn-size-extra-large wd-c96c240c" href="#"><span>Learn More</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"1f72d3d5-484a-452a-af3b-741755eb3d3a","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-1f72d3d5"><!-- wp:wd/infobox {"blockId":"fbcd29bf-7e71-42b9-860c-2078cd3e545a","blockVersion":"2","align":"center"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top wd-fbcd29bf"><!-- wp:wd/icon {"blockId":"37247da0-016c-4ac1-85ee-2570cd66ea02","blockVersion":"2","image":{"id":414,"url":"http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-free-delivery.svg","width":261,"height":86},"width":"259"} -->
+<div class="wp-block-wd-icon wd-37247da0"><img class="wp-image-414" src="http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-free-delivery.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"ad2f6d91-d6aa-4253-84bc-ee6fd3b52bcd","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-ad2f6d91"><!-- wp:wd/title {"blockId":"844578d4-1171-4172-9b00-a7a93516ca82","blockVersion":"2","content":"Fast free delivery to your home"} -->
+<h2 class="wp-block-wd-title title wd-844578d4">Fast free delivery to your home</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"7d214cf6-53a6-476e-9564-adb1e76c2516","blockVersion":"2","design":"link","predefinedColor":"black","size":"extra-large"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-color-black btn-size-extra-large wd-7d214cf6" href="#"><span>Learn More</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"b5891b8f-785e-42c0-be97-47061b69e91b","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-b5891b8f"><!-- wp:wd/infobox {"blockId":"ce5fb30a-ab66-48ae-ae0c-beecbf113dcd","blockVersion":"2","align":"center"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top wd-ce5fb30a"><!-- wp:wd/icon {"blockId":"dc0c1832-70f5-4601-b0c8-bb63ae774327","blockVersion":"2","image":{"id":415,"url":"http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-high-quality.svg","width":261,"height":86},"width":"259"} -->
+<div class="wp-block-wd-icon wd-dc0c1832"><img class="wp-image-415" src="http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pt-high-quality.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"54f8feaa-98ae-4b8b-ba6d-10d19970ae23","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-54f8feaa"><!-- wp:wd/title {"blockId":"5a9db339-305b-41d6-b7b7-4363043d9fe1","blockVersion":"2","content":"Guaranteed quality of every product in our store"} -->
+<h2 class="wp-block-wd-title title wd-5a9db339">Guaranteed quality of every product in our store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"40320db2-8da0-4db2-872b-6e5104f82f4e","blockVersion":"2","design":"link","predefinedColor":"black","size":"extra-large"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-color-black btn-size-extra-large wd-40320db2" href="#"><span>Learn More</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/carousel -->]]></content:encoded>
+															<wp:post_id>458</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 12:49:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 12:49:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-29 11:56:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-29 11:56:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-pets-dogs]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-video-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/woodmart_layout/products-archive-pets-dogs/pet-video-opt/</link>
+					<pubDate>Mon, 18 Aug 2025 12:51:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-video-opt.mp4</guid>
+															<wp:post_id>459</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 12:51:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 12:51:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-18 12:51:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-18 12:51:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-video-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>458</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-video-opt.mp4]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-video-opt.mp4]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

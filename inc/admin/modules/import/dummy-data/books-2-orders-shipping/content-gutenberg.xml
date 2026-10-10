@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Books 2 Gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 02 Jul 2026 06:34:14 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>259</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[pages-menu-books-2]]></wp:term_slug><wp:term_name><![CDATA[Pages menu Books 2]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[Orders &amp; Shipping]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/orders-shipping/</link>
+					<pubDate>Mon, 13 Jul 2026 13:42:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?page_id=190</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"48b04430-6c05-43ba-a3d1-1a6f0a951434","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginTopTablet":"-20"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-48b04430"><!-- wp:wd/page-heading {"blockId":"d949120c-80ec-4d80-82f0-6d689938715e","blockVersion":"2","tpFontSize":"38","tpFontSizeTablet":"28","tpFontSizeMobile":"22"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"b4c1e2c2-a3ca-4aeb-9e22-bc46bdb91938","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"928a498c-08b8-48d4-b521-ace7075173f7","blockVersion":"2","marginBottom":"60","columnsGap":null,"marginBottomTablet":"40","columnsGapTablet":null} -->
+<div class="wp-block-wd-row wd-928a498c"><!-- wp:wd/column {"blockId":"4e7e55a1-52eb-4cc2-875c-33b418261d6c","blockVersion":"2","adjacentCount":2,"colWidth":15,"sticky":true,"stickyOffset":"140","flexOrderMobile":"2","adjacentCountTablet":2,"colWidthTablet":30} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd_sticky_offset_140 wd-4e7e55a1"><!-- wp:wd/title {"blockId":"5ec57249-8f23-4590-94d2-99d91c6e8b06","blockVersion":"2","content":"Quick Links","tpFontSize":"28","hideOnDesktop":true,"hideOnTablet":true,"htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-hide-lg wd-hide-md-sm wd-5ec57249">Quick Links</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/menu {"blockId":"d62a6afe-3801-4742-8086-64ced7d9cb09","blockVersion":"2","nav_menu":"259","design":"vertical","dropdown_design":"simple","itemTpFontVariant":"500","itemTpFontWeight":"500","itemTpActiveFontVariant":"600","itemTpActiveFontWeight":"600","itemsColorCode":"#767676","itemsHoverColorCode":"#333333","className":"wd-active-font-weight"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"8f28470e-15be-4c9f-bd43-1600b73ea1e1","blockVersion":"2","adjacentCount":2,"colWidth":85,"adjacentCountTablet":2,"colWidthTablet":70} -->
+<div class="wp-block-wd-column wd-8f28470e"><!-- wp:wd/title {"blockId":"23380af8-2999-4423-b0df-2593d6704a2c","blockVersion":"2","content":"Processing Time","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-23380af8">Processing Time</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"94cc1b60-e54e-4a11-a34a-e7114dbc2389","blockVersion":"2","iconType":"unordered-2","marginBottom":"20"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-94cc1b60"><!-- wp:wd/list-item {"blockId":"6a72e454-ac36-4337-8626-6b1b1288a49e","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-6a72e454"><div class="wd-icon"></div><span class="wd-list-content">Orders are typically processed within 1-2 business days (Monday-Friday, excluding holidays).</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"b8809426-bd22-4ddb-93cb-75f5eb0a6811","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-b8809426"><div class="wd-icon"></div><span class="wd-list-content">During peak seasons or promotional periods, processing may take up to 3 business days.</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"45726bdd-bee4-4d81-9f61-d3cad9097614","blockVersion":"2","content":"Shipping Methods \u0026amp; Estimated Delivery (Domestic - within USA)","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-45726bdd">Shipping Methods &amp; Estimated Delivery (Domestic - within USA)</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"985903da-033c-4607-9f99-726dd4ec12c2","blockVersion":"2","iconType":"unordered-2","marginBottom":"20"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-985903da"><!-- wp:wd/list-item {"blockId":"647bba63-2141-49cf-8b66-63e9b6a65231","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-647bba63"><div class="wd-icon"></div><span class="wd-list-content"><strong>Standard Shipping (Default):</strong> 5-7 business days after processing.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"d062b04f-94e0-4cf3-b285-5ccb45d84c15","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-d062b04f"><div class="wd-icon"></div><span class="wd-list-content"><strong>Expedited Shipping:</strong> 2-3 business days after processing.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"1f1ba477-732e-46d5-8df4-d2443d98b27a","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-1f1ba477"><div class="wd-icon"></div><span class="wd-list-content"><strong>Express Shipping:</strong> 1 business day after processing (available for select regions).</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"1c298a29-2876-443f-bf06-ff345922d6bc","blockVersion":"2","content":"Shipping Methods \u0026amp; Estimated Delivery (International)","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-1c298a29">Shipping Methods &amp; Estimated Delivery (International)</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"f0c791c7-0cd0-411f-a8d8-732000225a86","blockVersion":"2","iconType":"unordered-2","marginBottom":"20"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-f0c791c7"><!-- wp:wd/list-item {"blockId":"9671960b-525a-4db9-ac1c-1b9116908a14","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-9671960b"><div class="wd-icon"></div><span class="wd-list-content"><strong>Standard International:</strong> 10-20 business days after processing.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"ad4ed9d2-6f87-43c1-bc85-d1b8e3dd792f","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-ad4ed9d2"><div class="wd-icon"></div><span class="wd-list-content"><strong>Express International:</strong> 5-10 business days after processing.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"09d27a30-551c-497d-a364-871400936361","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-09d27a30"><div class="wd-icon"></div><span class="wd-list-content">Please note: International delivery times can vary significantly due to customs processing in the destination country.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"2516359c-17ac-4eea-af85-e2204169ea49","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-2516359c"><div class="wd-icon"></div><span class="wd-list-content">Customers are responsible for any customs duties, taxes, or import fees levied by their country.</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"1ab40022-7e45-4761-bbfe-261e32085098","blockVersion":"2","content":"Shipping Costs","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-1ab40022">Shipping Costs</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"050d7d67-bc9f-40c8-ab57-9c5751d745af","blockVersion":"2","iconType":"unordered-2","marginBottom":"20"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-050d7d67"><!-- wp:wd/list-item {"blockId":"32887698-3bca-4f34-ba83-da3537917716","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-32887698"><div class="wd-icon"></div><span class="wd-list-content">Shipping costs are calculated at checkout based on the weight of your order, selected shipping method, and destination.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"fcbdbd36-4a8f-4975-bff0-2b9722bfceaf","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-fcbdbd36"><div class="wd-icon"></div><span class="wd-list-content">We occasionally offer free shipping promotions; please check our homepage for current offers.</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"d72ac879-b4e9-4da9-952e-4031d7df333e","blockVersion":"2","content":"Order Tracking","tpFontSize":"28"} -->
+<h2 class="wp-block-wd-title title wd-d72ac879">Order Tracking</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"ec467893-c17b-4c0d-bc9f-9323ca5d1ae0","blockVersion":"2","iconType":"unordered-2","marginBottom":"20"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-ec467893"><!-- wp:wd/list-item {"blockId":"5ebe46c8-1aab-49c1-b5e9-818ed73e20a4","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-5ebe46c8"><div class="wd-icon"></div><span class="wd-list-content">Once your order has shipped, you will receive a confirmation email with a tracking number.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"5159c560-2b53-4a02-8eae-a4a44cf82ff6","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-5159c560"><div class="wd-icon"></div><span class="wd-list-content">You can track your order's progress by clicking the link in the email or by visiting the "Order Status" section on our website.</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"1fcab4a6-430e-4f11-84a1-23ef78ebcd70","blockVersion":"2","content":"Delivery Issues","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-1fcab4a6">Delivery Issues</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"3f9e09d0-e5bd-49b1-bdad-32f2da0e09f2","blockVersion":"2","iconType":"unordered-2"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-3f9e09d0"><!-- wp:wd/list-item {"blockId":"d7d3f2dc-4630-4881-9ee7-b8fa549baa6f","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-d7d3f2dc"><div class="wd-icon"></div><span class="wd-list-content">If your tracking information shows "delivered" but you have not received your package, please check around your property, with neighbors, or your local post office.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"a65af9bf-dcea-40ac-9f7e-d5d433a53e21","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-a65af9bf"><div class="wd-icon"></div><span class="wd-list-content">If your order is damaged or lost in transit, please contact our Customer Service team within 7 business days of the expected delivery date.</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>190</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-13 13:42:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-13 13:42:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-24 11:22:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-24 11:22:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[orders-shipping]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[About us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/about-us/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=434</guid>
+															<wp:post_id>434</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[434]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/about-us/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/contact-us/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=435</guid>
+															<wp:post_id>435</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[435]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/contact-us/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Bookstore location]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/bookstore-location/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=436</guid>
+															<wp:post_id>436</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[bookstore-location]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[436]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/bookstore-location/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Orders &amp; Shipping]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/orders-shipping/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=437</guid>
+															<wp:post_id>437</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[orders-shipping]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>4</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[437]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/orders-shipping/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Payment]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/payment/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=438</guid>
+															<wp:post_id>438</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>5</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[438]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/payment/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Returns]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/returns/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=439</guid>
+															<wp:post_id>439</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[returns]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>6</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[439]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/returns-2/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

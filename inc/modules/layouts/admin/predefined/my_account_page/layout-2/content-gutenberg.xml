@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Vinyls gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg</link>
+	<description></description>
+	<pubDate>Fri, 11 Jul 2025 11:47:37 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/wp-content/uploads/sites/52/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[My account - Vinyls]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/woodmart_layout/my-account-vinyls/</link>
+					<pubDate>Wed, 24 Sep 2025 12:14:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/?post_type=woodmart_layout&#038;p=300</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"bcb42fb1-6442-4592-8185-fccd8e2982a0","bgType":"gradient","bgGradient":"linear-gradient(180deg,rgb(25,25,25) 0%,rgb(10,43,80) 100%)","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"3","borderRadiusTop":"3","borderRadiusRight":"3","borderRadiusBottom":"3","borderRadiusLeft":"3"} -->
+<div id="wd-bcb42fb1" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/ma-navigation {"blockId":"0f9d1181-ac90-40db-b552-b52a755e68a1","layout_type":"grid","orientation":"horizontal","navColumns":7,"align":"center","icon_alignment":"top","iconSize":28,"navColorCode":"#ffffff","navColumnsTablet":4,"navColumnsMobile":2} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"7097c04f-7dda-4433-8aee-ca39e937459f","paddingTop":"60","paddingBottom":"40","displayWidth":"custom","customWidth":"1000","paddingTopTablet":"40","paddingTopMobile":"20","paddingBottomTablet":"20","paddingBottomMobile":"0"} -->
+<div id="wd-7097c04f" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/ma-content {"blockId":"4faf72d5-2e0f-46a2-a472-d7b0b71cdd10","displayWidth":"","customWidth":""} /--></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>300</wp:post_id>
+					<wp:post_date><![CDATA[2025-09-24 12:14:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-09-24 12:14:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-09-29 14:22:14]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-09-29 14:22:14]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[my-account-vinyls]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[my_account_page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

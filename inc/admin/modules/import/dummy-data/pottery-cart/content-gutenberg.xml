@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Pottery gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 31 Jul 2024 11:08:01 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pottery-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/wp-content/uploads/sites/36/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Pottery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-gutenberg/woodmart_layout/cart-pottery/</link>
+					<pubDate>Wed, 07 Aug 2024 11:40:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pottery-gutenberg/?post_type=woodmart_layout&#038;p=416</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-page-title {"blockId":"e10854f9-df65-4010-b121-01943a2808c2","stretch":true,"marginTop":"-40","marginBottom":"30"} /-->
+
+<!-- wp:wd/row {"blockId":"3d0a1492-a0e2-4b4b-8d7d-22a7e0a6caee","columnsGapTablet":40} -->
+<div id="wd-3d0a1492" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"849f6a01-e5ca-48ab-9ee1-532908a72870","adjacentCount":2,"colWidth":66.33,"blocksGap":30,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-849f6a01" class="wp-block-wd-column"><!-- wp:wd/woo-notices {"blockId":"4a123bf1-57e3-499f-951f-e2c1a88369de"} /-->
+
+<!-- wp:wd/woo-shipping-progress-bar {"blockId":"2af2454e-cd12-4c20-86fa-cb4ed0b11bb6","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderType":"dotted","borderColorCode":"#333333","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"911fe1ff-f6e4-42f5-9dcc-5096e41be43a","hook":"woocommerce_before_cart","cleanActions":true} /-->
+
+<!-- wp:wd/ct-table {"blockId":"48f04364-c0b7-4c70-8d0c-7b0ae6cfe0ce"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"6c69efee-434a-4bed-9437-a933e45af716","adjacentCount":2,"colWidth":33.33,"sticky":false,"paddingTop":"25","paddingRight":"25","paddingBottom":"25","paddingLeft":"25","paddingLock":true,"borderType":"solid","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"alignSelf":"start","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-6c69efee" class="wp-block-wd-column wd-align-s-start"><!-- wp:wd/title {"blockId":"ebef2aae-6132-4587-b6ad-d004defaef39","content":"Cart totals","tpFontSize":"24","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-ebef2aae" class="wp-block-wd-title title">Cart totals</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ct-totals {"blockId":"4696b134-8751-4b0f-a767-b923478cf56f","btnAlign":"stretch","paddingLock":true,"borderWidthLock":true} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"0d22c401-867b-4bfa-8797-ed12218eca93","hook":"woocommerce_after_cart","cleanActions":true} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/woo-hook {"blockId":"fad54a0b-1b1d-4c0f-a1c0-7d35afa0f9ba","hook":"woocommerce_cart_collaterals","cleanActions":true} /-->
+
+<!-- wp:wd/products {"blockId":"497d1bd3-ca17-499d-a8ad-27fd55d091c0","show_title":true,"layout":"carousel","spacing":"","items_per_page":"5","marginTop":"40","marginBottom":"40","hide_pagination_control":true,"sync_parent_id":"wd_1bfa47c2","marginBottomTablet":"20","marginBottomMobile":"0","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"4b2f8cdd-04b9-4877-ac82-3c7be0b33348","content":"You May Be Interested In…","tpFontSize":"24","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-4b2f8cdd" class="wp-block-wd-title title">You May Be Interested In…</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->]]></content:encoded>
+															<wp:post_id>416</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-07 11:40:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-07 11:40:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-13 13:22:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-13 13:22:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-pottery]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

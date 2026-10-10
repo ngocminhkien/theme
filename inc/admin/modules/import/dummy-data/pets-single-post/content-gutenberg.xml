@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>pets-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 04 Aug 2025 13:25:06 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Single post - Pets]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/woodmart_layout/single-post-pets/</link>
+					<pubDate>Mon, 18 Aug 2025 13:26:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pets-gutenberg/?post_type=woodmart_layout&#038;p=477</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"bd7f310a-26e4-47b7-938b-d987ef05b57b","blockVersion":"2","bgColorCode":"#f6ede4","paddingTop":"10","paddingBottom":"10","marginTop":"-40","marginBottom":"40","overlay":false} -->
+<div class="wp-block-wd-section wd-bd7f310a"><!-- wp:wd/container {"blockId":"2f949311-3b16-4483-b913-aaf09e6b8383","blockVersion":"2","direction":"row","align":"center","wrap":"wrap","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-2f949311"><!-- wp:wd/page-heading {"blockId":"a49b9ebc-a35c-46c9-a431-932f579324d4","blockVersion":"2","tpFontSize":"26"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"a79485c6-de92-44f4-a254-4e87f4a289f4","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/off-canvas {"blockId":"1f9c2f83-af9c-4179-9185-f3c5e80d9950","blockVersion":"2","marginBottom":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-off-canvas wd-1f9c2f83"><!-- wp:wd/off-content {"blockId":"f58e7847-fd6e-4e0e-ae1c-2f24579d9a0b","blockVersion":"2","lock":{"move":true,"remove":true}} -->
+<div class="wp-block-wd-off-content wd-f58e7847"><!-- wp:wd/off-canvas-button {"blockId":"ef698a0d-ad67-454c-b36a-9fb1120131e3","blockVersion":"2","stickyBtn":true,"onlyStickyButton":true,"hideOnDesktop":true} -->
+<div class="wp-block-wd-off-canvas-button wd-off-canvas-btn wd-action-btn wd-style-text wd-burger-icon wd-action-hide-btn wd-hide-lg wd-ef698a0d"><a href="#" rel="nofollow"><span>Show sidebar</span></a><div class="wd-sidebar-opener wd-show-on-scroll wd-action-btn wd-style-icon wd-burger-icon"><a href="#" rel="nofollow"></a></div></div>
+<!-- /wp:wd/off-canvas-button -->
+
+<!-- wp:wd/post-image {"blockId":"6e16b4ed-0f3b-4e2e-adbf-0ab5fff450b8","blockVersion":"2"} /-->
+
+<!-- wp:wd/container {"blockId":"888a11a4-7df0-418f-a8eb-cc5026fb8140","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"30","borderRadiusTop":"30","borderRadiusRight":"30","borderRadiusBottom":"30","borderRadiusLeft":"30","paddingTopMobile":"20","paddingRightMobile":"20","paddingBottomMobile":"20","paddingLeftMobile":"20","paddingLockMobile":true} -->
+<div class="wp-block-wd-container wd-dir-col wd-888a11a4"><!-- wp:wd/post-title {"blockId":"31285bf5-0b64-4307-921e-d201fdfb610d","blockVersion":"2"} /-->
+
+<!-- wp:wd/container {"blockId":"ab3b8366-bf4c-425b-bdaf-3b09431a25c3","blockVersion":"2","direction":"row","align":"center","wrap":"wrap","colGap":"15","rowGap":"15"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-ab3b8366"><!-- wp:wd/post-author-meta {"blockId":"f85b7097-8e8f-4cb1-85f8-16304c7e6cb3","blockVersion":"2"} /-->
+
+<!-- wp:wd/post-date-meta {"blockId":"a1356fa5-e70d-42c7-97ea-5fb45538b7f6","blockVersion":"2"} /-->
+
+<!-- wp:wd/post-comments-button {"blockId":"6f36c591-0dbc-4215-a89a-21369d1da6e3","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/post-content {"blockId":"27d31461-3119-42ac-91f2-d8d716ce6f3a","blockVersion":"2","marginBottom":"40","marginBottomMobile":"20"} /-->
+
+<!-- wp:wd/post-tags {"blockId":"1c5bbcfe-61ba-4f36-9c24-52f2e499d1e2","blockVersion":"2"} /-->
+
+<!-- wp:wd/post-navigation {"blockId":"44be3597-5353-4db9-9091-ed74b0c7f113","blockVersion":"2","paddingTop":"30","paddingBottom":"30","marginBottom":"40","borderType":"solid","borderColorCode":"rgba(0,0,0,0.15)","borderWidthTop":"2","borderWidthBottom":"2","marginBottomMobile":"20"} /-->
+
+<!-- wp:wd/post-comments {"blockId":"a8b00223-3931-4851-a0d4-c296e396e395","blockVersion":"2"} /-->
+
+<!-- wp:wd/post-comments-form {"blockId":"b7037054-6a22-4be8-9ae9-3d73db2e9e21","blockVersion":"2","marginBottom":"40"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/off-content -->
+
+<!-- wp:wd/off-sidebar {"blockId":"6b0d52dd-49bf-4086-ac0d-73daae6d4466","blockVersion":"2","sticky":true,"stickyOffset":"82","bgColorCode":"#fefefe","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"25","borderRadiusTop":"25","borderRadiusRight":"25","borderRadiusBottom":"25","borderRadiusLeft":"25","lock":{"move":true,"remove":true}} -->
+<div class="wp-block-wd-off-sidebar wd-left wd-hide-md-sm wd-hide-sm wd-sticky-on-lg wd_sticky_offset_82 wd-6b0d52dd"><div class="wd-heading"><div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div></div><div class="wd-content"><!-- wp:wd/sidebar {"blockId":"13fa3cfc-08c2-4cfa-b247-6662006a64b5","blockVersion":"2"} /--></div></div>
+<!-- /wp:wd/off-sidebar --></div>
+<!-- /wp:wd/off-canvas -->
+
+<!-- wp:wd/blog {"blockId":"c7912103-26a5-49e7-9fd3-1327c2ce9484","blockVersion":"2","show_title":true,"post_type":"related_posts","layout":"carousel","slides_per_view":"4","carousel_arrows_position":"sep","hide_pagination_control":true,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"slides_per_viewTablet":"3","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"d17b4eec-b5f9-4c11-b4cd-1dc91ba37914","blockVersion":"2","content":"Related posts"} -->
+<h2 class="wp-block-wd-title title wd-d17b4eec">Related posts</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/blog -->]]></content:encoded>
+															<wp:post_id>477</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 13:26:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 13:26:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-13 10:29:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-13 10:29:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-post-pets]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

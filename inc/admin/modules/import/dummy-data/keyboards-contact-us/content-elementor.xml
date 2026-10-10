@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>keyboards-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor</link>
+	<description></description>
+	<pubDate>Fri, 10 Apr 2026 13:16:52 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/keyboards-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/contact-us/</link>
+					<pubDate>Fri, 10 Apr 2026 13:37:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-elementor/?page_id=21</guid>
+											<content:encoded><![CDATA[<img width="900" height="540" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-contact-us.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-contact-us.jpg 900w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-contact-us-300x180.jpg 300w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-contact-us-768x461.jpg 768w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-contact-us-600x360.jpg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-contact-us-150x90.jpg 150w" sizes="auto, (max-width: 900px) 100vw, 900px" />					
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-section-title.css?ver=8.5.0" type="text/css" media="all" /> 					
+				<h4>Get in touch</h4> 
+					<p>Contact us for any questions related to your order, personalized advice and support</p>				
+								<link rel="stylesheet" id="wd-wpcf7-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/int-wpcf7.css?ver=8.5.0" type="text/css" media="all" /> 			
+<p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
+<form action="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php#wpcf7-f45-o1" method="post" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset><input type="hidden" name="_wpcf7" value="45" /><input type="hidden" name="_wpcf7_version" value="6.1.6" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f45-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</fieldset>
+			<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="First name" value="" type="text" name="First" />
+			</p>
+			<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="text" name="Last" />
+			</p>
+		<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="text" name="Email" />
+		</p>
+		<p><textarea cols="40" rows="10" maxlength="2000" aria-invalid="false" placeholder="Your Message" name="your-message"></textarea>
+		</p>
+		<p><input type="submit" value="Send Message" />
+		</p>
+</form>]]></content:encoded>
+															<wp:post_id>21</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-10 13:37:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-10 13:37:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 12:23:38]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 12:23:38]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.0.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_migrations_state_d2a1]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.2.2:7648e729aae38c0825752571ace57347]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"eb77b53","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":30,"column":"30","row":"30","isLinked":true},"scroll_y":-80},"elements":[{"id":"75d445b","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"flex_justify_content":"center","padding":{"unit":"px","top":"80","right":"80","bottom":"80","left":"80","isLinked":true},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"scroll_y":-80},"elements":[{"id":"ae36982","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/keyboards-elementor\/wp-content\/uploads\/sites\/71\/2026\/04\/kac-contact-us.jpg","id":603,"size":"","alt":"","source":"library"},"scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true},{"id":"18a2d69","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80},"elements":[{"id":"59d1a26","elType":"widget","settings":{"subtitle":"","title":"Get in touch","after_title":"<p>Contact us for any questions related to your order, personalized advice and support<\/p>","align":"left","width":{"unit":"px","size":375,"sizes":[]},"width_tablet":{"unit":"px","size":"","sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":32,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":24,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":16,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"302caf1","elType":"widget","settings":{"form_id":"45","scroll_y":-80},"elements":[],"widgetType":"wd_contact_form_7"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:24:"wd__woodmart_main_layout";s:10:"full-width";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact form Keyboards]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/?post_type=wpcf7_contact_form&#038;p=45</link>
+					<pubDate>Fri, 10 Apr 2026 13:42:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-elementor/?post_type=wpcf7_contact_form&#038;p=45</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* First name placeholder ="First name"]</div>
+<div class="wd-col">[text* Last name placeholder ="Email" ]</div>
+</div>
+<div class="wd-col">[text* Email placeholder ="Email" ]</div>
+<div class="wd-col">[textarea your-message placeholder ="Your Message"]</div>
+<div class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@dummy.xtemos.com>
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+1
+1
+
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@dummy.xtemos.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+1
+1
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>45</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-10 13:42:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-10 13:42:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-10 13:42:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-10 13:42:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-keyboards]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* First name placeholder ="First name"]</div>
+<div class="wd-col">[text* Last name placeholder ="Email" ]</div>
+</div>
+<div class="wd-col">[text* Email placeholder ="Email" ]</div>
+<div class="wd-col">[textarea your-message placeholder ="Your Message"]</div>
+<div class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</div>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:1;s:13:"exclude_blank";b:1;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:1;s:13:"exclude_blank";b:1;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[fcccdfc7ba4412b44b7a6385552364a1f3c7fee875c0badfbd75df405b74b813]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:23:"mail.additional_headers";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:51:"Invalid mailbox syntax is used in the %name% field.";s:6:"params";a:1:{s:4:"name";s:8:"Reply-To";}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[kac-contact-us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/contact-us/kac-contact-us/</link>
+					<pubDate>Tue, 14 Apr 2026 14:31:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-contact-us.jpg</guid>
+															<wp:post_id>603</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-14 14:31:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-14 14:31:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-14 14:31:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-14 14:31:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[kac-contact-us]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>21</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-contact-us.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/kac-contact-us.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

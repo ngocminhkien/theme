@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>fashion-2-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 22 Dec 2025 12:05:26 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Single product - Fashion 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/woodmart_layout/single-product-fashion-2/</link>
+					<pubDate>Wed, 18 Feb 2026 10:54:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/?post_type=woodmart_layout&#038;p=515</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"f2baa15e-316c-43c1-8331-17a9ff5708d5","blockVersion":"2","marginTop":"-30","direction":"row","justify":"space-between","align":"center","wrap":"wrap","rowGap":"10","marginTopTablet":"-40"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-f2baa15e"><!-- wp:wd/woo-breadcrumbs {"blockId":"8a950701-c147-460e-bb5e-adb51bf18ca7","blockVersion":"2","nowrapMd":true} /-->
+
+<!-- wp:wd/sp-navigation {"blockId":"339a2961-6344-43a0-8d48-661a2f65f187","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"3c5dd53c-1aa8-40bd-a7ec-347a3b21988d","blockVersion":"2","marginBottom":"80","columnsGap":60,"marginBottomTablet":"60","marginBottomMobile":"40","columnsGapTablet":30} -->
+<div class="wp-block-wd-row wd-3c5dd53c"><!-- wp:wd/column {"blockId":"beead794-3408-46f9-aba4-43070e465485","blockVersion":"2","adjacentCount":2,"colWidth":60} -->
+<div class="wp-block-wd-column wd-beead794"><!-- wp:wd/sp-gallery {"blockId":"d2ea596d-35c9-4e0b-afaf-8451c833a6fa","blockVersion":"2","thumbnailsPosition":"bottom_column","gridColumns":"2","gridColumnsGap":0} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"15ca6b8c-9996-4de3-9af6-c2f4c00e4b82","blockVersion":"2","adjacentCount":2,"colWidth":40,"sticky":true,"stickyOffset":"140","stickyTablet":true} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd-sticky-on-md-sm wd_sticky_offset_140 wd-15ca6b8c"><!-- wp:wd/woo-notices {"blockId":"4bec9978-2e9d-4538-9977-d9806c0a464c","blockVersion":"2"} /-->
+
+<!-- wp:wd/sp-title {"blockId":"91cbb9f4-0c40-477a-bd08-ef730e9d47c5","blockVersion":"2","tpFontSize":"24","tpFontVariant":"400","tpFontWeight":"400","tpFontSizeTablet":"20"} /-->
+
+<!-- wp:wd/sp-price {"blockId":"8e733563-f526-4709-9e13-5cc4a596c219","blockVersion":"2","mainPriceTpFontSize":"22","mainPriceTpFontVariant":"400","mainPriceTpFontWeight":"400","mainPriceTpFontSizeTablet":"18"} /-->
+
+<!-- wp:wd/sp-countdown {"blockId":"94b00ced-3f64-42bd-87df-56aae19f4d35","blockVersion":"2","size":"small","timerBoxShadowColorCode":"rgba(0,0,0,0.12)","timerBoxShadowBlur":2,"boxShadowBlur":2} /-->
+
+<!-- wp:wd/sp-stock-progress-bar {"blockId":"37838409-9fb0-4b98-800a-3c985b0e7903","blockVersion":"2","marginBottom":"10"} /-->
+
+<!-- wp:wd/sp-linked-variations {"blockId":"3d6fc4b9-6c68-4e68-9fb0-df6bb169bbd9","blockVersion":"2"} /-->
+
+<!-- wp:wd/container {"blockId":"d6cacb3f-d497-46b0-a73e-202982aac980","blockVersion":"2","direction":"row","align":"end","colGap":"10","rowGap":"10","directionMobile":"row","alignMobile":"end"} -->
+<div class="wp-block-wd-container wd-dir-row wd-dir-row-sm wd-align-is-lg-end wd-align-is-sm-end wd-d6cacb3f"><!-- wp:wd/sp-add-to-cart {"blockId":"ec82c100-e3bb-4080-9a7e-ab897973571c","blockVersion":"2","buttonDesign":"full","displayWidth":"full-width"} /-->
+
+<!-- wp:wd/sp-wishlist-btn {"blockId":"d8042f3f-6398-4e9c-83c5-2d9a103f08d3","blockVersion":"2","linkPaddingTop":"10","linkPaddingRight":"10","linkPaddingBottom":"10","linkPaddingLeft":"10","style":"icon","textTpFontVariant":"400","textTpFontWeight":"400","flexSize":"none"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"131a9d5f-d963-4ea4-9625-d0e265ae1e7e","blockVersion":"2","marginTop":"20"} -->
+<div class="wp-block-wd-container wd-dir-col wd-131a9d5f"><!-- wp:wd/infobox {"blockId":"ffd5913c-f23e-46db-8da3-7cc093ba12be","blockVersion":"2","gap":5,"iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-ffd5913c"><!-- wp:wd/icon {"blockId":"3d4f819f-b676-4cb4-84e6-3938a5fc5677","blockVersion":"2","image":{"id":516,"url":"http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-delivery-product-car.svg","width":24,"height":24},"width":"18"} -->
+<div class="wp-block-wd-icon wd-3d4f819f"><img class="wp-image-516" src="http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-delivery-product-car.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"2bfc52ae-50f1-4ae9-bd2d-2e62b95c1554","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-2bfc52ae"><!-- wp:wd/paragraph {"blockId":"94569b2b-ad4c-4acd-bbd3-668e2f8971e8","blockVersion":"2","colorCode":"#333333"} -->
+<p class="wp-block-wd-paragraph wd-94569b2b">Free standards delivery over 200$ <a href="#">Detail</a></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"7bfb9c9c-8494-4e9f-a06e-f2b47c730895","blockVersion":"2","gap":5,"iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-7bfb9c9c"><!-- wp:wd/icon {"blockId":"35729876-ba64-483c-bad3-f66b576caead","blockVersion":"2","image":{"id":518,"url":"http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-shipping-product-box.svg","width":24,"height":24},"width":"18"} -->
+<div class="wp-block-wd-icon wd-35729876"><img class="wp-image-518" src="http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-shipping-product-box.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"31ae22f7-8b83-4b82-86e0-2c711001d93e","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-31ae22f7"><!-- wp:wd/paragraph {"blockId":"38b2b258-7547-4854-b0c9-d6f61698936f","blockVersion":"2","colorCode":"#333333"} -->
+<p class="wp-block-wd-paragraph wd-38b2b258">Free returns with 28 days <a href="#">Detail</a></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"ccec345d-4414-4f46-9e67-1d2c3b429d3e","blockVersion":"2","gap":5,"iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-ccec345d"><!-- wp:wd/icon {"blockId":"bf56efd7-6dfb-4f3e-ba6b-b349fe9adca9","blockVersion":"2","image":{"id":519,"url":"http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-security-product-shield.svg","width":24,"height":24},"width":"18"} -->
+<div class="wp-block-wd-icon wd-bf56efd7"><img class="wp-image-519" src="http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-security-product-shield.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"f7a4bb31-684f-4544-bae0-61eb1ac352db","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-f7a4bb31"><!-- wp:wd/paragraph {"blockId":"3332c693-f8e7-42f5-aa52-60c4a86d664a","blockVersion":"2","colorCode":"#333333"} -->
+<p class="wp-block-wd-paragraph wd-3332c693">Secure checkout <a href="#">Detail</a></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sp-tabs {"blockId":"f1964e36-4e62-4f03-9f4d-74fa73215ea7","blockVersion":"2","layout":"side-hidden","sideHiddenContentWidth":"420","sideHiddenTitleTpFontSize":"13","sideHiddenTitleTpTextTransform":"uppercase","sideHiddenTitleTpFontVariant":"400","sideHiddenTitleTpFontWeight":"400"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/products {"blockId":"fd8e9148-30fb-4faf-8351-cbcb464bcbef","blockVersion":"2","show_title":true,"post_type":"upsells","layout":"carousel","spacing":"","items_per_page":"5","marginBottom":"80","slides_per_view":"5","hide_pagination_control":true,"sync_parent_id":"wd_2a459458","marginBottomTablet":"60","marginBottomMobile":"40","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"ba40f768-adbf-4f55-98f2-eb8712d67824","blockVersion":"2","design":"","content":"COMPLETE YOUR LOOK","tpFontSize":"24","tpFontSizeTablet":"20","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-ba40f768">COMPLETE YOUR LOOK</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->
+
+<!-- wp:wd/products {"blockId":"d793fb4b-3a00-4d38-972c-c3cfdffccd72","blockVersion":"2","show_title":true,"post_type":"bestselling","layout":"carousel","spacing":"","items_per_page":"5","marginBottom":"80","slides_per_view":"5","hide_pagination_control":true,"sync_parent_id":"wd_2a459458","marginBottomTablet":"60","marginBottomMobile":"40","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"3caf98f5-7a1b-4e98-b538-100f82310ab3","blockVersion":"2","design":"","content":"YOU MAY ALSO LIKE…","tpFontSize":"24","tpFontSizeTablet":"20","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-3caf98f5">YOU MAY ALSO LIKE…</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->
+
+<!-- wp:wd/products {"blockId":"ab7610d2-70ba-4511-8b29-c181915cc4f5","blockVersion":"2","show_title":true,"layout":"carousel","spacing":"","items_per_page":"5","slides_per_view":"5","hide_pagination_control":true,"sync_parent_id":"wd_2a459458","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"c5f43f35-cb40-42da-822e-7cd32031123b","blockVersion":"2","design":"","content":"RELATED PRODUCTS","tpFontSize":"24","tpFontSizeTablet":"20","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-c5f43f35">RELATED PRODUCTS</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->]]></content:encoded>
+															<wp:post_id>515</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-18 10:54:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-18 10:54:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-13 14:24:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-13 14:24:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-fashion-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[fs-delivery-product-car]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/woodmart_layout/single-product-fashion-2/fs-delivery-product-car/</link>
+					<pubDate>Wed, 18 Feb 2026 10:54:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-delivery-product-car.svg</guid>
+															<wp:post_id>516</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-18 10:54:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-18 10:54:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-18 10:54:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-18 10:54:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[fs-delivery-product-car]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>515</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-delivery-product-car.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/fs-delivery-product-car.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[fs-shipping-product-box]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/woodmart_layout/single-product-fashion-2/fs-shipping-product-box/</link>
+					<pubDate>Wed, 18 Feb 2026 10:55:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-shipping-product-box.svg</guid>
+															<wp:post_id>518</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-18 10:55:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-18 10:55:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-18 10:55:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-18 10:55:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[fs-shipping-product-box]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>515</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-shipping-product-box.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/fs-shipping-product-box.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[fs-security-product-shield]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/woodmart_layout/single-product-fashion-2/fs-security-product-shield/</link>
+					<pubDate>Wed, 18 Feb 2026 10:55:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-security-product-shield.svg</guid>
+															<wp:post_id>519</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-18 10:55:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-18 10:55:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-18 10:55:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-18 10:55:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[fs-security-product-shield]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>515</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/2026/02/fs-security-product-shield.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/fs-security-product-shield.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

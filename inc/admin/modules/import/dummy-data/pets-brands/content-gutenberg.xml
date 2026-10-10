@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>pets-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 04 Aug 2025 13:25:06 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Brands]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/brands/</link>
+					<pubDate>Mon, 18 Aug 2025 11:03:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pets-gutenberg/?page_id=26</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"d54d1489-6b11-42d1-91ed-855a6810a771","blockVersion":"2","bgColorCode":"#f6ede4","paddingTop":"10","paddingBottom":"10","marginTop":"-40","marginBottom":"40","overlay":false} -->
+<div class="wp-block-wd-section wd-d54d1489"><!-- wp:wd/container {"blockId":"ce09777e-523d-47f7-9f08-10ff9a2a20aa","blockVersion":"2","direction":"row","align":"center","wrap":"wrap","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-ce09777e"><!-- wp:wd/page-heading {"blockId":"d6ca98c8-90c9-4449-9346-54149ed7b76c","blockVersion":"2","tpFontSize":"26"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"3221a42d-203a-4a05-8a66-70d48e9db073","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/title {"blockId":"962bab1f-ee24-46b9-80ed-7686a44a79cd","blockVersion":"2","content":"Most Popular Brands","tpFontSize":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-962bab1f">Most Popular Brands</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"16e381c5-6ee3-4924-b940-323ae18fd14b","blockVersion":"2","number":"6","ids":"","style":"grid","columns":6,"spacing":"20","with_bg_color":true,"marginBottom":"100","slides_per_view":"6","hide_pagination_control":true,"brandBgColorCode":"#fefefe","columnsTablet":3,"columnsMobile":2,"marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/paragraph {"blockId":"f080d11c-489c-4cc5-ae0d-e762e65c2a22","blockVersion":"2","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"18","tpLetterSpacing":"10","tpFontVariant":"500","tpFontWeight":"500","paddingBottom":"20","marginBottom":"40","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<p class="wp-block-wd-paragraph wd-f080d11c"><a href="#pets_brands_a">A</a> <a href="#pets_brands_b">B</a> <a href="#pets_brands_c">C</a> <a href="#pets_brands_f">F</a> <a href="#pets_brands_h">H</a> <a href="#pets_brands_j">J</a> <a href="#pets_brands_l">L</a> <a href="#pets_brands_p">P</a> <a href="#pets_brands_r">R</a> <a href="#pets_brands_s">S</a> <a href="#pets_brands_t">T</a></p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/menu-anchor {"blockId":"a36292cb-1204-4849-a3dd-43f2ceeab67c","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-a36292cb" data-id="pets_brands_a" data-offset="50"><div id="pets_brands_a"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"9ce154f7-208e-4f2a-a4a4-8893156cb0d1","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eA\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-9ce154f7"><span class="wd-highlight">A</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"fcb45f91-333c-4b46-b94b-1002563671c2","blockVersion":"2","ids":"85,78","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"74b20538-46ce-4c49-aba3-7d0405cff166","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-74b20538" data-id="pets_brands_b" data-offset="50"><div id="pets_brands_b"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"bc95205f-b64a-4941-b41a-e5a7a9e57b41","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eB\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-bc95205f"><span class="wd-highlight">B</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"1a6a6d26-770a-4900-8755-512945e3b621","blockVersion":"2","ids":"77","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"dc96794a-e923-4c77-b69c-f26797610aa3","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-dc96794a" data-id="pets_brands_c" data-offset="50"><div id="pets_brands_c"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"98754268-6430-4ca1-b792-0f8269be90fd","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eC\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-98754268"><span class="wd-highlight">C</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"a042384a-9707-404d-bcb4-fbd99c4c29e1","blockVersion":"2","ids":"79,103","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"eb79b605-4727-42f1-a867-55b9e2bfe2a1","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-eb79b605" data-id="pets_brands_f" data-offset="50"><div id="pets_brands_f"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"1aa1fd5b-1ea6-459e-8bf7-dc10a0a84287","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eF\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-1aa1fd5b"><span class="wd-highlight">F</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"5b7298a8-e9f9-4fed-b9f1-77469466ab26","blockVersion":"2","ids":"83","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"f736c5cf-4b1b-4a63-a27e-93b99eb9134d","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-f736c5cf" data-id="pets_brands_h" data-offset="50"><div id="pets_brands_h"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"5e05bef9-6eb7-4a2c-8219-7483da6c54e6","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eH\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-5e05bef9"><span class="wd-highlight">H</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"ae84c2b8-31dd-4a3a-aa68-c82345d2642d","blockVersion":"2","ids":"72","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"468306bf-b3f2-46f8-a500-8c533a7ffd14","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-468306bf" data-id="pets_brands_j" data-offset="50"><div id="pets_brands_j"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"36c309f0-02c5-40eb-8056-2e2b8dda23e1","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eJ\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-36c309f0"><span class="wd-highlight">J</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"0250dade-1bd7-424e-a16c-682854760db1","blockVersion":"2","ids":"73","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"96ef2825-0f07-4c68-82ee-f45abaf08428","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-96ef2825" data-id="pets_brands_l" data-offset="50"><div id="pets_brands_l"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"54867889-94f2-4483-9a47-bd2cebe5d1c0","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eL\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-54867889"><span class="wd-highlight">L</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"a6f3b80d-d4e3-4439-8330-fbd2a05c6a07","blockVersion":"2","ids":"102","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"38abaebc-f1e9-46e1-aa55-e22f28d4c35e","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-38abaebc" data-id="pets_brands_p" data-offset="50"><div id="pets_brands_p"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"ac655f43-8600-411b-bd72-9e79120651eb","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eP\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-ac655f43"><span class="wd-highlight">P</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"6260064a-ff45-4ff1-baab-6f25a72782ec","blockVersion":"2","ids":"84,74,86","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"ec5cd4e3-02ec-4664-ba46-aa97f86e73a6","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-ec5cd4e3" data-id="pets_brands_r" data-offset="50"><div id="pets_brands_r"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"ccd46c6c-0405-40d1-b14f-69eceb0e93ab","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eR\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-ccd46c6c"><span class="wd-highlight">R</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"c0bc8fdc-6ddf-4b59-93ee-44d8987f5945","blockVersion":"2","ids":"95","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"0caf6071-c54a-4531-8559-d426390ba700","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-0caf6071" data-id="pets_brands_s" data-offset="50"><div id="pets_brands_s"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"cc95842b-598d-4c40-a220-ff9b2922fc80","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eS\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-cc95842b"><span class="wd-highlight">S</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"dd1e0c50-0c08-49bb-919e-6af1675fd56c","blockVersion":"2","ids":"80","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/menu-anchor {"blockId":"2c6570dd-f75d-404b-8fb2-0c0b8b08959c","blockVersion":"2"} -->
+<div class="wp-block-wd-menu-anchor wd-menu-anchor wd-2c6570dd" data-id="pets_brands_t" data-offset="50"><div id="pets_brands_t"></div></div>
+<!-- /wp:wd/menu-anchor -->
+
+<!-- wp:wd/title {"blockId":"21caa6ac-e284-4259-992d-e2b3014c8233","blockVersion":"2","content":"\u003cspan class=\u0022wd-highlight\u0022\u003eT\u003c/span\u003e","tpFontSize":"42","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"30","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-21caa6ac"><span class="wd-highlight">T</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"b05027e9-2825-4f9a-a983-c8990319ec30","blockVersion":"2","ids":"81,82","style":"list","columns":4,"align":"start","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} /-->
+
+<!-- wp:wd/collapsible-content {"blockId":"371124f5-9be1-471d-b828-34427a5f3cc5","blockVersion":"2","contentHeight":"160"} -->
+<div class="wp-block-wd-collapsible-content wd-effect-fade wd-371124f5"><!-- wp:wd/container {"blockId":"a48c5291-93b8-4a80-a07e-0d9368049a39","blockVersion":"2","metadata":{"name":"Content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-a48c5291"><!-- wp:wd/title {"blockId":"f72e9bee-924a-4796-9cba-757f9ac1f54c","blockVersion":"2","content":"Online store of household appliances and electronics","tpFontSize":"30","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-f72e9bee">Online store of household appliances and electronics</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e05de1e5-27d5-4c67-ba2a-f5eda735a008","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e05de1e5">Then the question arises: where’s the content? Not there yet? That’s not so bad, there’s dummy copy to the rescue. But worse, what if the fish doesn’t fit in the can, the foot’s to big for the boot? Or to small? To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"20bd89db-35c5-45d3-afab-0ba74e43caf3","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-20bd89db">A client that’s unhappy for a reason is a problem, a client that’s unhappy though he or her can’t quite put a finger on it is worse. Chances are there wasn’t collaboration, communication, and checkpoints, there wasn’t a process agreed upon or specified with the granularity required. It’s content strategy gone awry right from the start. If that’s what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional appeal to the reader.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"64b4136d-8da9-4f8b-8071-d1260f73b90e","blockVersion":"2","predefinedColor":"white","shape":"round","icon":"right"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-default btn-shape-round btn-icon-pos-right wd-64b4136d"><span>Read more</span><!-- wp:wd/icon {"blockId":"1be247f9-5ba5-44dc-891c-7e506cddceab","blockVersion":"2","image":{"id":666,"url":"http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2026/05/chevron-down-black.svg","width":24,"height":24},"width":"15"} -->
+<div class="wp-block-wd-icon wd-1be247f9"><img class="wp-image-666" src="http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2026/05/chevron-down-black.svg" alt=""/></div>
+<!-- /wp:wd/icon --></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/collapsible-content -->]]></content:encoded>
+															<wp:post_id>26</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 11:03:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 11:03:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 12:35:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 12:35:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[brands]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[chevron-down-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/brands/chevron-down-black/</link>
+					<pubDate>Fri, 15 May 2026 13:59:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2026/05/chevron-down-black.svg</guid>
+															<wp:post_id>666</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-15 13:59:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-15 13:59:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-15 13:59:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-15 13:59:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[chevron-down-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>26</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2026/05/chevron-down-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/chevron-down-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

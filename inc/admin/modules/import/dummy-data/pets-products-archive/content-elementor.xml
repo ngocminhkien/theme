@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>pets-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/pets-elementor</link>
+	<description></description>
+	<pubDate>Mon, 04 Aug 2025 13:24:46 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pets-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[pt-dog]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-elementor/pt-dog/</link>
+					<pubDate>Fri, 08 Aug 2025 13:44:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-dog.svg</guid>
+															<wp:post_id>1781</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-08 13:44:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-08 13:44:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-08 13:44:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-08 13:44:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-dog]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-dog.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-dog.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pt-cat]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-elementor/pt-cat/</link>
+					<pubDate>Fri, 08 Aug 2025 13:44:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-cat.svg</guid>
+															<wp:post_id>1782</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-08 13:44:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-08 13:44:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-08 13:44:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-08 13:44:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-cat]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-cat.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-cat.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pt-high-quality]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-elementor/pt-high-quality/</link>
+					<pubDate>Fri, 08 Aug 2025 13:57:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-high-quality.svg</guid>
+															<wp:post_id>1811</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-08 13:57:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-08 13:57:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-08 13:57:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-08 13:57:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-high-quality]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-high-quality.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-high-quality.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pt-support]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-elementor/pt-support/</link>
+					<pubDate>Fri, 08 Aug 2025 13:57:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-support.svg</guid>
+															<wp:post_id>1812</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-08 13:57:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-08 13:57:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-08 13:57:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-08 13:57:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-support]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-support.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-support.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pt-free-delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-elementor/pt-free-delivery/</link>
+					<pubDate>Fri, 08 Aug 2025 13:57:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-free-delivery.svg</guid>
+															<wp:post_id>1813</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-08 13:57:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-08 13:57:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-08 13:57:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-08 13:57:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pt-free-delivery]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-free-delivery.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pt-free-delivery.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Products archive - Pets / Dogs]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-elementor/woodmart_layout/products-archive-pets-dogs/</link>
+					<pubDate>Mon, 11 Aug 2025 11:51:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pets-elementor/?post_type=woodmart_layout&#038;p=2060</guid>
+											<content:encoded><![CDATA[<h2>Shop</h2>				
+					<nav><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/">Home</a></nav>				
+								<link rel="stylesheet" id="wd-categories-loop-mask-subcat-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/woo-categories-loop-mask-subcat.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-categories-loop-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/woo-categories-loop.min.css?ver=8.2.7" type="text/css" media="all" /> 															<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=8.2.7" type="text/css" media="all" /> 			
+				<img width="268" height="320" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-treats-268x320.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-treats-268x320.jpg 268w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-treats-251x300.jpg 251w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-treats-430x513.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-treats-150x179.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-treats.jpg 536w" sizes="(max-width: 268px) 100vw, 268px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/treats-dogs/"></a>
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/treats-dogs/">
+						Treats					</a>
+				</h3>
+						0					
+				<img width="268" height="320" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-toys-268x320.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-toys-268x320.jpg 268w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-toys-251x300.jpg 251w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-toys-430x513.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-toys-150x179.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-toys.jpg 536w" sizes="(max-width: 268px) 100vw, 268px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/toys-dogs/"></a>
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/toys-dogs/">
+						Toys					</a>
+				</h3>
+						0					
+				<img width="268" height="320" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-supplies-268x320.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-supplies-268x320.jpg 268w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-supplies-251x300.jpg 251w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-supplies-430x513.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-supplies-150x179.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-supplies.jpg 536w" sizes="(max-width: 268px) 100vw, 268px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/supplies-dogs/"></a>
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/supplies-dogs/">
+						Supplies					</a>
+				</h3>
+						0					
+				<img width="268" height="320" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-leashes-268x320.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-leashes-268x320.jpg 268w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-leashes-251x300.jpg 251w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-leashes-430x513.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-leashes-150x179.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-leashes.jpg 536w" sizes="(max-width: 268px) 100vw, 268px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/leashes/"></a>
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/leashes/">
+						Leashes					</a>
+				</h3>
+						0					
+				<img width="268" height="320" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-health-268x320.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-health-268x320.jpg 268w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-health-251x300.jpg 251w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-health-430x513.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-health-150x179.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-health.jpg 536w" sizes="(max-width: 268px) 100vw, 268px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/health-dogs/"></a>
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/health-dogs/">
+						Health					</a>
+				</h3>
+						0					
+				<img width="268" height="320" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-food-268x320.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-food-268x320.jpg 268w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-food-251x300.jpg 251w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-food-430x513.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-food-150x179.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-dog-food.jpg 536w" sizes="(max-width: 268px) 100vw, 268px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/food-dogs/"></a>
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/food-dogs/">
+						Food					</a>
+				</h3>
+						0					
+					<link rel="stylesheet" id="wd-swiper-arrows-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-arrows.min.css?ver=8.2.7" type="text/css" media="all" /> 														
+													<link rel="stylesheet" id="wd-swiper-scrollbar-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-scrollbar.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+				<h4>Shop by Brand</h4> 
+								<link rel="stylesheet" id="wd-button-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/el-button.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+			<a  href="#">
+					All Brands				
+							</a>
+								<link rel="stylesheet" id="wd-brands-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/el-brand.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+																											<a title="Trixie" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/trixie/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-tx.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-tx.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-tx-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Tetra" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/tetra/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-ttr.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-ttr.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-ttr-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Savour life" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/savour-life/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-sl.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-sl.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-sl-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Royal Canin" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/royal-canin/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-rc.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-rc.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-rc-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Purina" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/purina/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-pp.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-pp.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-pp-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Pet one" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/pet-one/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-po-1.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-po-1.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-po-1-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Pedigree" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/pedigree/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-po.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-po.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-po-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Leaps &amp; Bounds" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/leaps-bounds/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-lab.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-lab.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-lab-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Josera" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/josera/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-jd.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-jd.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-jd-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Hill&#039;s" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/hills/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-hs.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-hs.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-hs-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Ferplast" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/ferplast/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-fp.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-fp.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-fp-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+																											<a title="Dentalife" href="https://dummy.xtemos.com/woodmart2/pets-elementor/brand/dentalife/"></a>
+									<img width="200" height="100" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-pdl.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-pdl.jpg 200w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-brand-pdl-150x75.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />															
+								<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-base-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-base.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-add-btn-replace-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/woo-mod-add-btn-replace.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-opt-products-bg-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/woo-opt-products-bg.min.css?ver=8.2.7" type="text/css" media="all" /> 						
+									<h4>Top Picks</h4>							
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/advantage-green-for-small-dog/" tabindex="-1" aria-label="Advantage Green for Small Dog">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0-64x74.jpg 64w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2360" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/advantage-green-for-small-dog/">Advantage Green for Small Dog</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/health-dogs/flea-tick/" rel="tag">Flea &amp; Tick</a>		
+	<bdi>&#36;100.99</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2360" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2360" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2360" data-quantity="1" data-product_id="2360" data-product_sku="27715" aria-label="Add to cart: &ldquo;Advantage Green for Small Dog&rdquo;" rel="nofollow" data-success_message="&ldquo;Advantage Green for Small Dog&rdquo; has been added to your cart" role="button">Add to cart</a>	
+							<link rel="stylesheet" id="wd-mfp-popup-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-animations-transform-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-transform-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/mod-transform.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/advantage-green-for-small-dog/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2360"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/drool-by-dr-chris-brown-teeth-and-breath-dog-treat/" tabindex="-1" aria-label="Drool By Dr Chris Brown Teeth and Breath Dog Treat">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2343" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/drool-by-dr-chris-brown-teeth-and-breath-dog-treat/">Drool By Dr Chris Brown Teeth and Breath Dog Treat</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/treats-dogs/dental-treats/" rel="tag">Dental Treats</a>		
+	<bdi>&#36;13.99</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2343" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2343" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2343" data-quantity="1" data-product_id="2343" data-product_sku="28556" aria-label="Add to cart: &ldquo;Drool By Dr Chris Brown Teeth and Breath Dog Treat&rdquo;" rel="nofollow" data-success_message="&ldquo;Drool By Dr Chris Brown Teeth and Breath Dog Treat&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/drool-by-dr-chris-brown-teeth-and-breath-dog-treat/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2343"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-guacamole-hide-seek-puzzle-plush-squeaky-dog-toy/" tabindex="-1" aria-label="Frisco Guacamole Hide &amp; Seek Puzzle Plush Squeaky Dog Toy">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2356" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-guacamole-hide-seek-puzzle-plush-squeaky-dog-toy/">Frisco Guacamole Hide &amp; Seek Puzzle Plush Squeaky Dog Toy</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/toys-dogs/interactive-toys-toys-dogs/" rel="tag">Interactive Toys</a>		
+	<bdi>&#36;11.69</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2356" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2356" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2356" data-quantity="1" data-product_id="2356" data-product_sku="27708" aria-label="Add to cart: &ldquo;Frisco Guacamole Hide &amp; Seek Puzzle Plush Squeaky Dog Toy&rdquo;" rel="nofollow" data-success_message="&ldquo;Frisco Guacamole Hide &amp; Seek Puzzle Plush Squeaky Dog Toy&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-guacamole-hide-seek-puzzle-plush-squeaky-dog-toy/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2356"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-outdoor-heathered-nylon-collar/" tabindex="-1" aria-label="Frisco Outdoor Heathered Nylon Collar">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-1.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-1.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-1-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-1-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2372" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-outdoor-heathered-nylon-collar/">Frisco Outdoor Heathered Nylon Collar</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/leashes/collars/" rel="tag">Collars</a>		
+	<bdi>&#36;11.25</bdi>
+					All components of the collar are tough, weather resistant, waterproof, long lasting, and versatile.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2372" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-outdoor-heathered-nylon-collar/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2372" data-quantity="1" data-product_id="2372" data-product_sku="27735" aria-label="Select options for &ldquo;Frisco Outdoor Heathered Nylon Collar&rdquo;" rel="nofollow">Select options</a>	
+		This product has multiple variants. The options may be chosen on the product page	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-outdoor-heathered-nylon-collar/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2372"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hills-science-diet-adult-sensitive-stomach-sensitive-skin-chicken-recipe/" tabindex="-1" aria-label="Hill&#8217;s Science Diet Adult Sensitive Stomach &amp; Sensitive Skin Chicken Recipe">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-1-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-1-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-1-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-1-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-1-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2307" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hills-science-diet-adult-sensitive-stomach-sensitive-skin-chicken-recipe/">Hill&#8217;s Science Diet Adult Sensitive Stomach &amp; Sensitive Skin Chicken Recipe</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/food-dogs/dry-food-food-dogs/" rel="tag">Dry Food</a>		
+	<bdi>&#36;39.99</bdi> &ndash; <bdi>&#36;259.99</bdi>Price range: &#36;39.99 through &#36;259.99
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2307" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hills-science-diet-adult-sensitive-stomach-sensitive-skin-chicken-recipe/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2307" data-quantity="1" data-product_id="2307" data-product_sku="13789" aria-label="Select options for &ldquo;Hill&#039;s Science Diet Adult Sensitive Stomach &amp; Sensitive Skin Chicken Recipe&rdquo;" rel="nofollow">Select options</a>	
+		This product has multiple variants. The options may be chosen on the product page	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hills-science-diet-adult-sensitive-stomach-sensitive-skin-chicken-recipe/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2307"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hills-science-diet-natural-baked-light-biscuits-with-real-chicken/" tabindex="-1" aria-label="Hill&#8217;s Science Diet Natural Baked Light Biscuits with Real Chicken">
+			<img width="689" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0.jpg 689w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0-258x300.jpg 258w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0-430x499.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0-150x174.jpg 150w" sizes="(max-width: 689px) 100vw, 689px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2347" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hills-science-diet-natural-baked-light-biscuits-with-real-chicken/">Hill&#8217;s Science Diet Natural Baked Light Biscuits with Real Chicken</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/treats-dogs/biscuits-cookies/" rel="tag">Biscuits &amp; Cookies</a>		
+	<bdi>&#36;13.49</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2347" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2347" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2347" data-quantity="1" data-product_id="2347" data-product_sku="28560" aria-label="Add to cart: &ldquo;Hill&#039;s Science Diet Natural Baked Light Biscuits with Real Chicken&rdquo;" rel="nofollow" data-success_message="&ldquo;Hill&#039;s Science Diet Natural Baked Light Biscuits with Real Chicken&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hills-science-diet-natural-baked-light-biscuits-with-real-chicken/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2347"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hunger-for-words-talking-pet-starter-set/" tabindex="-1" aria-label="Hunger for Words Talking Pet Starter Set">
+						<link rel="stylesheet" id="wd-woo-mod-product-labels-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-product-labels-round-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css?ver=8.2.7" type="text/css" media="all" /> 			Hot<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-12-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-12-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-12-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-12-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-12-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-16-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-16-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-16-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-16-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-16-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2357" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hunger-for-words-talking-pet-starter-set/">Hunger for Words Talking Pet Starter Set</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/toys-dogs/interactive-toys-toys-dogs/" rel="tag">Interactive Toys</a>		
+	<bdi>&#36;49.69</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2357" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2357" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2357" data-quantity="1" data-product_id="2357" data-product_sku="27709" aria-label="Add to cart: &ldquo;Hunger for Words Talking Pet Starter Set&rdquo;" rel="nofollow" data-success_message="&ldquo;Hunger for Words Talking Pet Starter Set&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/hunger-for-words-talking-pet-starter-set/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2357"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/josera-josidog-active/" tabindex="-1" aria-label="Josera JosiDog Active">
+			Hot<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-7-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-7-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-7-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-7-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-7-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2329" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/josera-josidog-active/">Josera JosiDog Active</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/food-dogs/dry-food-food-dogs/" rel="tag">Dry Food</a>		
+	<bdi>&#36;12.97</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2329" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2329" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2329" data-quantity="1" data-product_id="2329" data-product_sku="13795" aria-label="Add to cart: &ldquo;Josera JosiDog Active&rdquo;" rel="nofollow" data-success_message="&ldquo;Josera JosiDog Active&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/josera-josidog-active/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2329"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/juni-logo-dog-harness-green/" tabindex="-1" aria-label="Juni Logo Dog Harness Green">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-6-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-6-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-6-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-6-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-6-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-9-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-9-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-9-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-9-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-9-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2396" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/juni-logo-dog-harness-green/">Juni Logo Dog Harness Green</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/leashes/harnesses/" rel="tag">Harnesses</a>		
+	<bdi>&#36;39.99</bdi>
+					All components of the collar are tough, weather resistant, waterproof, long lasting, and versatile.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2396" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2396" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2396" data-quantity="1" data-product_id="2396" data-product_sku="27736" aria-label="Add to cart: &ldquo;Juni Logo Dog Harness Green&rdquo;" rel="nofollow" data-success_message="&ldquo;Juni Logo Dog Harness Green&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/juni-logo-dog-harness-green/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2396"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/merrick-oven-baked-pawsome-peanut-butter/" tabindex="-1" aria-label="Merrick Oven Baked Paw&#8217;some Peanut Butter">
+			<img width="689" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0.jpg 689w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0-258x300.jpg 258w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0-430x499.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0-150x174.jpg 150w" sizes="(max-width: 689px) 100vw, 689px" />		</a>
+				<img width="689" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0.jpg 689w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0-258x300.jpg 258w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0-430x499.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-14-0-150x174.jpg 150w" sizes="(max-width: 689px) 100vw, 689px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2350" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/merrick-oven-baked-pawsome-peanut-butter/">Merrick Oven Baked Paw&#8217;some Peanut Butter</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/treats-dogs/biscuits-cookies/" rel="tag">Biscuits &amp; Cookies</a>		
+	<bdi>&#36;11.99</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2350" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2350" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2350" data-quantity="1" data-product_id="2350" data-product_sku="28562" aria-label="Add to cart: &ldquo;Merrick Oven Baked Paw&#039;some Peanut Butter&rdquo;" rel="nofollow" data-success_message="&ldquo;Merrick Oven Baked Paw&#039;some Peanut Butter&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/merrick-oven-baked-pawsome-peanut-butter/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2350"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/midwest-quiet-time-fleece-reversible-dog-crate-mat/" tabindex="-1" aria-label="MidWest Quiet Time Fleece Reversible Dog Crate Mat">
+			Hot<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-2-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-2-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-2-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-2-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-supplies-2-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-1-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-1-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-1-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-1-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-1-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2403" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/midwest-quiet-time-fleece-reversible-dog-crate-mat/">MidWest Quiet Time Fleece Reversible Dog Crate Mat</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/supplies-dogs/beds-supplies-dogs/" rel="tag">Beds</a>		
+	<bdi>&#36;26.79</bdi>
+					Machine wash cover separately in cold water on gentle cycle. Use only non-chlorine bleach if needed. Tumble dry on low.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2403" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2403" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2403" data-quantity="1" data-product_id="2403" data-product_sku="27748" aria-label="Add to cart: &ldquo;MidWest Quiet Time Fleece Reversible Dog Crate Mat&rdquo;" rel="nofollow" data-success_message="&ldquo;MidWest Quiet Time Fleece Reversible Dog Crate Mat&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/midwest-quiet-time-fleece-reversible-dog-crate-mat/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2403"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/nylabone-dura-chew-cheese-bone/" tabindex="-1" aria-label="Nylabone Dura Chew Cheese Bone">
+			Hot<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-2-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-1-1.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-1-1.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-1-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-1-1-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-1-1-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2353" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/nylabone-dura-chew-cheese-bone/">Nylabone Dura Chew Cheese Bone</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/toys-dogs/chew-toys/" rel="tag">Chew Toys</a>		
+	<bdi>&#36;33.99</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2353" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2353" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2353" data-quantity="1" data-product_id="2353" data-product_sku="27699" aria-label="Add to cart: &ldquo;Nylabone Dura Chew Cheese Bone&rdquo;" rel="nofollow" data-success_message="&ldquo;Nylabone Dura Chew Cheese Bone&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/nylabone-dura-chew-cheese-bone/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2353"
+				>Quick view</a>
+								<link rel="stylesheet" id="wd-image-hotspot-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/el-hotspot.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+									<video src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/6272401-hd_720_1280_25fps2-opt.mp4" autoplay muted loop playsinline"></video>				
+									<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-outdoor-heathered-nylon-collar/">
+										<img width="430" height="491" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0-430x491.jpg" alt="Frisco Outdoor Heathered Nylon Collar" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-leashes-5-0.jpg 700w" sizes="(max-width: 430px) 100vw, 430px" />									</a>
+								<h4>
+									<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-outdoor-heathered-nylon-collar/">
+										Frisco Outdoor Heathered Nylon Collar									</a>
+								</h4>
+									<bdi>&#36;11.25</bdi>								
+										All components of the collar are tough, weather resistant, waterproof, long lasting, and versatile.									
+									<a href="#" rel="nofollow"  aria-label="Read more description button"></a>
+								<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-outdoor-heathered-nylon-collar/" data-product_id="2372" rel="nofollow">
+									Select options								</a>
+									<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/merrick-oven-baked-pawsome-peanut-butter/">
+										<img width="430" height="499" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0-430x499.jpg" alt="Merrick Oven Baked Paw&#039;some Peanut Butter" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0-430x499.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0-258x300.jpg 258w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0-150x174.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-16-0.jpg 689w" sizes="(max-width: 430px) 100vw, 430px" />									</a>
+								<h4>
+									<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/merrick-oven-baked-pawsome-peanut-butter/">
+										Merrick Oven Baked Paw&#039;some Peanut Butter									</a>
+								</h4>
+									<bdi>&#36;11.99</bdi>								
+										Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.									
+									<a href="#" rel="nofollow"  aria-label="Read more description button"></a>
+								<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2350" data-product_id="2350" rel="nofollow">
+									Add to cart								</a>
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+			<p>Buy bundle and get a 11% discount</p>
+				<h4>Puppy Starter Bundle</h4> 
+			<a  href="#">
+					Buy Bundle				
+							</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/advantage-green-for-small-dog/" tabindex="-1" aria-label="Advantage Green for Small Dog">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-health-2-0-64x74.jpg 64w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-9-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2360" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/advantage-green-for-small-dog/">Advantage Green for Small Dog</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/health-dogs/flea-tick/" rel="tag">Flea &amp; Tick</a>		
+	<bdi>&#36;100.99</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2360" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2360" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2360" data-quantity="1" data-product_id="2360" data-product_sku="27715" aria-label="Add to cart: &ldquo;Advantage Green for Small Dog&rdquo;" rel="nofollow" data-success_message="&ldquo;Advantage Green for Small Dog&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/advantage-green-for-small-dog/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2360"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/drool-by-dr-chris-brown-teeth-and-breath-dog-treat/" tabindex="-1" aria-label="Drool By Dr Chris Brown Teeth and Breath Dog Treat">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-treats-11-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-4-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2343" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/drool-by-dr-chris-brown-teeth-and-breath-dog-treat/">Drool By Dr Chris Brown Teeth and Breath Dog Treat</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/treats-dogs/dental-treats/" rel="tag">Dental Treats</a>		
+	<bdi>&#36;13.99</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2343" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2343" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2343" data-quantity="1" data-product_id="2343" data-product_sku="28556" aria-label="Add to cart: &ldquo;Drool By Dr Chris Brown Teeth and Breath Dog Treat&rdquo;" rel="nofollow" data-success_message="&ldquo;Drool By Dr Chris Brown Teeth and Breath Dog Treat&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/drool-by-dr-chris-brown-teeth-and-breath-dog-treat/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2343"
+				>Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-guacamole-hide-seek-puzzle-plush-squeaky-dog-toy/" tabindex="-1" aria-label="Frisco Guacamole Hide &amp; Seek Puzzle Plush Squeaky Dog Toy">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-toys-11-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0.jpg 700w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-430x491.jpg 430w, https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pet-product-dogs-food-18-0-150x171.jpg 150w" sizes="(max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/compare/" data-id="2356" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-guacamole-hide-seek-puzzle-plush-squeaky-dog-toy/">Frisco Guacamole Hide &amp; Seek Puzzle Plush Squeaky Dog Toy</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/product-category/dogs/toys-dogs/interactive-toys-toys-dogs/" rel="tag">Interactive Toys</a>		
+	<bdi>&#36;11.69</bdi>
+					Complete dry food with lamb and rice for adult dogs of small and miniature breeds weighing up to 10 kg and aged 1 to 6 years.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pets-elementor/wishlist/" data-key="d6351364d3" data-product-id="2356" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/pets-elementor/wp-admin/admin-ajax.php?add-to-cart=2356" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_2356" data-quantity="1" data-product_id="2356" data-product_sku="27708" aria-label="Add to cart: &ldquo;Frisco Guacamole Hide &amp; Seek Puzzle Plush Squeaky Dog Toy&rdquo;" rel="nofollow" data-success_message="&ldquo;Frisco Guacamole Hide &amp; Seek Puzzle Plush Squeaky Dog Toy&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/pets-elementor/product/frisco-guacamole-hide-seek-puzzle-plush-squeaky-dog-toy/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="2356"
+				>Quick view</a>
+								<img  src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-dog.svg" title="pt-dog" loading="lazy" width="216" height="200">					
+								<link rel="stylesheet" id="wd-mod-highlighted-text-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/mod-highlighted-text.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+				<h4>With <u>Love</u></h4> 
+					<p>for Your Pets</p>				
+								<img  src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-cat.svg" title="pt-cat" loading="lazy" width="251" height="180">					
+																							<link rel="stylesheet" id="wd-info-box-css" href="https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+															<img  src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-support.svg" title="pt-support" loading="lazy" width="261" height="86">													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Get quality help in a timely manner						</h4>
+			<a  href="#">
+					Learn More				
+							</a>
+															<img  src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-free-delivery.svg" title="pt-free-delivery" loading="lazy" width="261" height="86">													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Fast free delivery to your home						</h4>
+			<a  href="#">
+					Learn More				
+							</a>
+															<img  src="http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/pt-high-quality.svg" title="pt-high-quality" loading="lazy" width="261" height="86">													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Guaranteed quality of every product store						</h4>
+			<a  href="#">
+					Learn More				
+							</a>]]></content:encoded>
+															<wp:post_id>2060</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-11 11:51:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-11 11:51:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-09-29 11:18:13]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-09-29 11:18:13]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-pets-dogs]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.28.0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"2bf3c6f","elType":"container","settings":{"flex_direction":"row","flex_align_items":"center","flex_gap":{"column":"20","row":"10","isLinked":false,"unit":"px","size":20},"flex_wrap":"wrap","wd_section_stretch":"stretch","background_overlay_opacity":{"unit":"px","size":"","sizes":[]},"margin":{"unit":"px","top":"-40","right":"0","bottom":"40","left":"0","isLinked":false},"padding":{"unit":"px","top":"10","right":"15","bottom":"10","left":"15","isLinked":false},"scroll_y":-80,"background_background":"classic","background_color":"#F6EDE4"},"elements":[{"id":"2fca91b","elType":"widget","settings":{"typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_page_heading"},{"id":"7d0870f","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_element_breadcrumbs"}],"isInner":false},{"id":"dafc818","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"fe7eb2c","elType":"widget","settings":{"orderby":"id","ids":["250","265","262","253","256","259"],"hide_empty":"","img_size":"custom","img_size_custom":{"width":"268","height":"320"},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":30,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":22,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":20,"sizes":[]},"title_typography_text_transform":"capitalize","style":"carousel","slides_per_view":{"unit":"px","size":5,"sizes":[]},"slides_per_view_tablet":{"unit":"px","size":4,"sizes":[]},"carousel_arrows_position_popover":"yes","carousel_arrows_position":"sep","hide_scrollbar_mobile":"","sync_parent_id":"wd_6894b0d7d69a5","scroll_y":-80,"hide_scrollbar_tablet":"","hide_pagination_control":"yes"},"elements":[],"widgetType":"wd_product_categories"}],"isInner":false},{"id":"dcf755c","elType":"container","settings":{"flex_direction":"row","flex_justify_content":"space-between","flex_align_items":"center","flex_wrap":"wrap","margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"62db02c","elType":"widget","settings":{"subtitle":"","title":"Shop by Brand","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":30,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"_element_width":"auto","scroll_y":-80,"color_gradient_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"color_gradient_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"color_gradient_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"color_gradient_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"color_gradient_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"color_gradient_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]}},"elements":[],"widgetType":"wd_title"},{"id":"77af619","elType":"widget","settings":{"text":"All Brands","color":"primary","shape":"round","scroll_y":-80,"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]}},"elements":[],"widgetType":"wd_button"}],"isInner":false},{"id":"0d2419a","elType":"container","settings":{"flex_direction":"column","scroll_y":-80,"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"46637dc","elType":"widget","settings":{"sync_parent_id":"wd_6894bd625894b","scroll_y":-80,"number":12,"columns":{"unit":"px","size":6,"sizes":[]},"columns_tablet":{"unit":"px","size":3,"sizes":[]},"spacing":"20","with_bg_color":"yes","brand_bg_color":"#FFFFFF","filter_in_current_category":"yes","slides_per_view":{"unit":"px","size":6,"sizes":[]},"slides_per_view_tablet":{"unit":"px","size":3,"sizes":[]},"hide_prev_next_buttons":"yes","hide_pagination_control":"yes","hide_scrollbar_tablet":"","hide_scrollbar_mobile":"","_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]}},"elements":[],"widgetType":"wd_products_brands"}],"isInner":false},{"id":"3e20c8a","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"scroll_y":-80,"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"8c57396","elType":"widget","settings":{"element_title":"Top Picks","layout":"carousel","slides_per_view":{"unit":"px","size":5,"sizes":[]},"slides_per_view_tablet":{"unit":"px","size":3,"sizes":[]},"hide_pagination_control":"yes","hide_scrollbar":"","hide_scrollbar_tablet":"","hide_scrollbar_mobile":"","sync_parent_id":"wd_6895d9a3a3aa7","products_with_background":"1","products_background":"#FFFFFF","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":30,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]},"scroll_y":-80,"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"taxonomies":["249"]},"elements":[],"widgetType":"wd_products"}],"isInner":false},{"id":"7f7594f","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":30,"column":"30","row":"30","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"b4ec53c","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33},"scroll_y":-80,"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"6002509","elType":"widget","settings":{"source_type":"video","video":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pets-elementor\/wp-content\/uploads\/sites\/54\/2025\/08\/6272401-hd_720_1280_25fps2-opt.mp4","id":2083,"size":"","alt":"","source":"library"},"items":[{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","_id":"078a716","title":"Title, click to edit.","link_text":"Button","product_id":"2372","hotspot_position_horizontal":{"unit":"px","size":72,"sizes":[]},"hotspot_position_vertical":{"unit":"px","size":66,"sizes":[]}},{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","hotspot_dropdown_side":"right","title":"Title, click to edit.","link_text":"Button","product_id":"2350","hotspot_position_horizontal":{"unit":"px","size":40,"sizes":[]},"hotspot_position_vertical":{"unit":"px","size":40,"sizes":[]},"_id":"24bf140"}],"icon":"alt","icon_position":"hover","primary_color":"#FFFFFF","secondary_color":"#3452EF","scroll_y":-80},"elements":[],"widgetType":"wd_image_hotspot"}],"isInner":true},{"id":"c91cec0","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":67},"flex_gap":{"column":"10","row":"10","isLinked":true,"unit":"px","size":10},"background_background":"classic","background_color":"#3452EF","border_radius":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"padding_tablet":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80,"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"51b7b19","elType":"widget","settings":{"text":"<p>Buy bundle and get a 11% discount<\/p>","text_color_scheme":"light","typography_typography":"custom","typography_font_family":"Fredoka","typography_font_weight":"500","text_color":"title","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"},{"id":"084f413","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_justify_content":"space-between","flex_align_items":"center","flex_wrap":"wrap","wd_color_scheme":"light","margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"0734d6b","elType":"widget","settings":{"subtitle":"","title":"Puppy Starter Bundle","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":30,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"_element_width":"auto","scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"72a086f","elType":"widget","settings":{"text":"Buy Bundle","color":"custom","bg_color":"#FABA5B","bg_color_hover":"#E1A752","shape":"round","scroll_y":-80},"elements":[],"widgetType":"wd_button"}],"isInner":true},{"id":"a6eca9a","elType":"widget","settings":{"taxonomies":["249"],"layout":"carousel","spacing":"20","items_per_page":3,"hide_prev_next_buttons":"yes","hide_pagination_control":"yes","hide_scrollbar_tablet":"","hide_scrollbar_mobile":"","sync_parent_id":"wd_6899ddb3a2916","products_with_background":"1","products_background":"#FFFFFF","scroll_y":-80},"elements":[],"widgetType":"wd_products"}],"isInner":true}],"isInner":false},{"id":"2789355","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":null,"column":"","row":"","isLinked":true},"scroll_y":-80,"flex_wrap_mobile":"wrap","margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"33584a9","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.3},"scroll_y":-80,"width_tablet":{"unit":"%","size":25,"sizes":[]},"width_mobile":{"unit":"%","size":45,"sizes":[]},"flex_justify_content":"center"},"elements":[{"id":"5fb3e29","elType":"widget","settings":{"scroll_y":-80,"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pets-elementor\/wp-content\/uploads\/sites\/54\/2025\/08\/pt-dog.svg","id":1781,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"216","height":"200"},"alignment":"right","rounding_size":"0","_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]}},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true},{"id":"3c9ec2a","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.3},"scroll_y":-80,"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content":"center","_flex_order_mobile":"start"},"elements":[{"id":"97cd29e","elType":"widget","settings":{"subtitle":"","title":"With <u>Love<\/u>","after_title":"<p>for Your Pets<\/p>","title_decoration_style":"colored","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":84,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":60,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":42,"sizes":[]},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"text_color":"#242424","text_typography_typography":"custom","text_typography_font_family":"Fredoka","text_typography_font_size":{"unit":"px","size":52,"sizes":[]},"text_typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"text_typography_font_size_mobile":{"unit":"px","size":26,"sizes":[]},"text_typography_font_weight":"500","text_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80,"color_gradient_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"color_gradient_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"color_gradient_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"color_gradient_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"color_gradient_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"color_gradient_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]}},"elements":[],"widgetType":"wd_title"}],"isInner":true},{"id":"b1438e3","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.3},"scroll_y":-80,"width_tablet":{"unit":"%","size":25,"sizes":[]},"width_mobile":{"unit":"%","size":45,"sizes":[]},"flex_justify_content":"center"},"elements":[{"id":"185fe07","elType":"widget","settings":{"scroll_y":-80,"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pets-elementor\/wp-content\/uploads\/sites\/54\/2025\/08\/pt-cat.svg","id":1782,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"251","height":"180"},"rounding_size":"0","_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]}},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true}],"isInner":false},{"id":"0d4a61e","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"8044fed","elType":"widget","settings":{"content_repeater":[{"title":"Get quality help in a timely manner","subtitle":"","_id":"a5d99a4","icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pets-elementor\/wp-content\/uploads\/sites\/54\/2025\/08\/pt-support.svg","id":1812,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"261","height":"86"},"content":"","btn_text":"Learn More"},{"title":"Fast free delivery to your home","subtitle":"","icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pets-elementor\/wp-content\/uploads\/sites\/54\/2025\/08\/pt-free-delivery.svg","id":1813,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"261","height":"86"},"content":"","btn_text":"Learn More","_id":"35fb8cd"},{"title":"Guaranteed quality of every product store","subtitle":"","icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pets-elementor\/wp-content\/uploads\/sites\/54\/2025\/08\/pt-high-quality.svg","id":1811,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"261","height":"86"},"content":"","btn_text":"Learn More","_id":"75ff85f"}],"slides_per_view_tablet":{"unit":"px","size":2,"sizes":[]},"carousel_arrows_position_popover":"yes","carousel_arrows_position":"sep","hide_pagination_control":"yes","hide_scrollbar_mobile":"","sync_parent_id":"wd_6895ff4e5f31d","btn_size":"extra-large","btn_color":"black","btn_style":"link","scroll_y":-80,"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]}},"elements":[],"widgetType":"wd_infobox_carousel"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[6272401-hd_720_1280_25fps2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-elementor/6272401-hd_720_1280_25fps2-opt/</link>
+					<pubDate>Mon, 11 Aug 2025 12:21:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/6272401-hd_720_1280_25fps2-opt.mp4</guid>
+															<wp:post_id>2083</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-11 12:21:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-11 12:21:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-11 12:21:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-11 12:21:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[6272401-hd_720_1280_25fps2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-elementor/wp-content/uploads/sites/54/2025/08/6272401-hd_720_1280_25fps2-opt.mp4]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/6272401-hd_720_1280_25fps2-opt.mp4]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

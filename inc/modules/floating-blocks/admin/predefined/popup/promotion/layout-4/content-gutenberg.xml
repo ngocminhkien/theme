@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Gutenberg base</title>
+	<link>https://dummy.xtemos.com/woodmart2/gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 21 Mar 2024 10:35:12 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[promotion-4-animation]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/promotion-4-animation/</link>
+					<pubDate>Thu, 28 Aug 2025 12:50:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2025/08/promotion-4-animation.gif</guid>
+															<wp:post_id>37091</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-28 12:50:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-28 12:50:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-28 12:50:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-28 12:50:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[promotion-4-animation]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2025/08/promotion-4-animation.gif]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/promotion-4-animation.gif]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[promotion-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/promotion-4/</link>
+					<pubDate>Thu, 28 Aug 2025 12:51:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2025/08/promotion-4.jpg</guid>
+															<wp:post_id>37092</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-28 12:51:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-28 12:51:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-28 12:51:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-28 12:51:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[promotion-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2025/08/promotion-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/promotion-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Promotion Popup 4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/?post_type=wd_popup&#038;p=39320</link>
+					<pubDate>Fri, 31 Jul 2026 13:39:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/gutenberg/?post_type=wd_popup&#038;p=39320</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"931273c2-88eb-425a-9160-1cb9354d7fb7","textAlign":"center","rowGap":"0","colorScheme":"light"} -->
+<div id="wd-931273c2" class="wp-block-wd-container wd-dir-col color-scheme-light wd-align"><!-- wp:wd/title {"htmlTag":"h4","blockId":"975eb90e-cfdf-4eab-b01d-6a93b67403ad","content":"BLACK FRIDAY","tpFontSize":"42","tpLineHeight":"1.2","displayWidth":"","customWidth":"","tpFontSizeTablet":"32","tpFontSizeMobile":"26","tpLineHeightUnits":"em"} -->
+<h4 id="wd-975eb90e" class="wp-block-wd-title title">BLACK FRIDAY</h4>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/image {"blockId":"48237bb6-4ca7-436d-af95-5d0225694c68","image":{"id":37091,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2025/08/promotion-4-animation.gif","width":1133,"height":1375},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2025/08/promotion-4-animation.gif","width":1133,"height":1375},"marginBottom":"10","displayWidthMobile":"custom","customWidthMobile":"260"} -->
+<div id="wd-48237bb6" class="wp-block-wd-image wd-block-image wd-custom-width"><img class="wp-image-37091" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2025/08/promotion-4-animation.gif" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/title {"htmlTag":"h4","blockId":"af4a74bb-5b23-46ad-9667-9e61ebe79eac","content":"Up to 50% OFF","tpFontSize":"26","marginBottom":"20","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h4 id="wd-af4a74bb" class="wp-block-wd-title title">Up to 50% OFF</h4>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"a4d0955e-5448-4b0a-92ea-97042002a69c","predefinedColor":"white","size":"large","marginBottom":"10"} -->
+<a id="wd-a4d0955e" class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-large btn-shape-rectangle"><span>Shop Now</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/paragraph {"blockId":"bea7eb5c-340e-4b92-ae05-1f0159fc7f9a"} -->
+<p id="wd-bea7eb5c" class="wp-block-wd-paragraph">Ends 11/27</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>39320</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-31 13:39:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-31 13:39:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-04 08:29:31]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-04 08:29:31]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[promotion-popup-4-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wd_popup]]></wp:post_type>
+												<category domain="wd_popup_cat" nicename="promotion"><![CDATA[Promotion]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_paddingRightMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_paddingRight]]></wp:meta_key>
+							<wp:meta_value><![CDATA[40]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_paddingLeftMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_paddingLeft]]></wp:meta_key>
+							<wp:meta_value><![CDATA[40]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowPosition]]></wp:meta_key>
+							<wp:meta_value><![CDATA[outline]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowHorizontalTablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowHorizontalMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowHorizontal]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowVerticalTablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowVerticalMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowVertical]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowBlurTablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowBlurMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowBlur]]></wp:meta_key>
+							<wp:meta_value><![CDATA[10]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowSpreadTablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowSpreadMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_box_shadowSpread]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_borderRadiusLock]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundType]]></wp:meta_key>
+							<wp:meta_value><![CDATA[classic]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundImageTablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundImageMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundImage]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:4:{s:2:"id";i:37092;s:3:"url";s:96:"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2025/08/promotion-4.jpg";s:5:"width";i:380;s:6:"height";i:600;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundImageSize]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundGradientPosition]]></wp:meta_key>
+							<wp:meta_value><![CDATA[center center]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundVideo]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundVideoSource]]></wp:meta_key>
+							<wp:meta_value><![CDATA[external]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundVideoFallback]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundPosition]]></wp:meta_key>
+							<wp:meta_value><![CDATA[center center]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundRepeat]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no-repeat]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundDisplaySize]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cover]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backgroundColorCode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backdrop_filterBrightness]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backdrop_filterContrast]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backdrop_filterOpacity]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_backdrop_filterSaturate]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_overlay_backdrop_filterBrightness]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_overlay_backdrop_filterContrast]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_overlay_backdrop_filterOpacity]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_overlay_backdrop_filterSaturate]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_borderWidthLock]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_borderRadiusLock]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_border_hoverWidthLock]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_border_hoverRadiusLock]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_box_shadowPosition]]></wp:meta_key>
+							<wp:meta_value><![CDATA[outline]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_box_shadowBlur]]></wp:meta_key>
+							<wp:meta_value><![CDATA[10]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_box_shadow_hoverPosition]]></wp:meta_key>
+							<wp:meta_value><![CDATA[outline]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_box_shadow_hoverBlur]]></wp:meta_key>
+							<wp:meta_value><![CDATA[10]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[380]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_btn_display]]></wp:meta_key>
+							<wp:meta_value><![CDATA[icon]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_by_overlay]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_close_by_esc]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_persistent_close]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_btn_offset_vTablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_btn_offset_vMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_btn_offset_v]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_btn_offset_hTablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_btn_offset_hMobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_btn_offset_h]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_display_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[always]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_is_some_time_enabled]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_scroll_valueUnits]]></wp:meta_key>
+							<wp:meta_value><![CDATA[%]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_scroll_value]]></wp:meta_key>
+							<wp:meta_value><![CDATA[50]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_inactivity_time]]></wp:meta_key>
+							<wp:meta_value><![CDATA[10000]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_click_times]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_after_page_views]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_after_sessions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:2:{s:10:"comparison";s:7:"include";s:4:"type";s:3:"all";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

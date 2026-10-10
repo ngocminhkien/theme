@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Farm gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:27:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/farm-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/contact-us/</link>
+					<pubDate>Wed, 24 Jul 2024 11:24:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/farm-gutenberg/?page_id=112</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"9ca04ec0-c307-4cb0-8abc-aaa924357b44","blockVersion":"2","columnsGap":40,"marginBottom":"30","marginBottomMobile":"0"} -->
+<div class="wp-block-wd-row wd-9ca04ec0"><!-- wp:wd/column {"blockId":"95a09025-5c1a-42ba-923c-7f667b0610dc","blockVersion":"2","adjacentCount":2,"colWidth":60,"adjacentCountTablet":1,"colWidthTablet":100,"flexOrderTablet":"1"} -->
+<div class="wp-block-wd-column wd-95a09025"><!-- wp:wd/image {"blockId":"3d9e76ca-acea-4a00-b0be-666414ba1d47","blockVersion":"2","image":{"id":263,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-contact-us-drawn-map-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-contact-us-drawn-map-opt.jpg","width":1780,"height":1432}} -->
+<div class="wp-block-wd-image wd-block-image wd-3d9e76ca"><img class="wp-image-263" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-contact-us-drawn-map-opt.jpg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"53056b1e-e976-43b5-8756-08312dae8122","blockVersion":"2","adjacentCount":2,"colWidth":39.66,"blocksGap":0,"justifyContent":"center","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-53056b1e"><!-- wp:wd/title {"blockId":"51d6e6a8-d02c-443c-90aa-e9f27cbe45cd","blockVersion":"2","content":"Address","tpFontSize":"28","colorVariable":"\u002d\u002dwd-primary-color","marginBottom":"10","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-51d6e6a8">Address</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"9b08fea9-13d3-494d-890b-2f8d9240fea6","blockVersion":"2","colorCode":"#333333","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600","marginBottom":"25"} -->
+<p class="wp-block-wd-paragraph wd-9b08fea9">422 Old 27C, Panama, NY 14766, United States</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"ea337938-1e00-4561-85ce-fcd978dbc65b","blockVersion":"2","marginBottom":"40"} -->
+<p class="wp-block-wd-paragraph wd-ea337938">Monday – Freeday 11:00 a.m. to 5:00 p.m. (By Appointment Only)<br>Sunday, Closed</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/row {"blockId":"9768915c-7287-4245-94ab-2d931b925974","blockVersion":"2","marginBottom":"30"} -->
+<div class="wp-block-wd-row wd-9768915c"><!-- wp:wd/column {"blockId":"7037fbcb-9878-4664-bf69-56ae0fe5c6ee","blockVersion":"2","adjacentCount":2,"blocksGap":10} -->
+<div class="wp-block-wd-column wd-7037fbcb"><!-- wp:wd/title {"blockId":"a6a6bffd-168c-469f-9850-40eecd73e33b","blockVersion":"2","content":"Phone","tpFontSize":"28","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-a6a6bffd">Phone</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"be7401ff-262e-4d97-bf82-ad51308b6d5a","blockVersion":"2","colorCode":"#333333","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-be7401ff">(956) 238-7908</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"3cb48778-e15e-4ae1-a165-4ac33b93975d","blockVersion":"2","adjacentCount":2,"blocksGap":10} -->
+<div class="wp-block-wd-column wd-3cb48778"><!-- wp:wd/title {"blockId":"338ef0c4-964a-409f-8822-b257fb7f5f40","blockVersion":"2","content":"Email","tpFontSize":"28","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-338ef0c4">Email</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"cf83b398-9b53-47ef-97e2-8e3be18103a9","blockVersion":"2","colorCode":"#333333","tpTextDecoration":"underline","tpFontVariant":"600","tpFontWeight":"600"} -->
+<p class="wp-block-wd-paragraph wd-cf83b398">studio@mail.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"7d67bf4a-d794-4529-83f7-869171075ff9","blockVersion":"2","form_id":"120"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>112</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:24:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:24:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-06 11:50:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-06 11:50:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact form Organic Farm]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?post_type=wpcf7_contact_form&#038;p=120</link>
+					<pubDate>Wed, 24 Jul 2024 11:30:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/farm-gutenberg/?post_type=wpcf7_contact_form&#038;p=120</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch" style="--wd-gap-lg: 30px;--wd-gap-sm: 20px">
+<p class="wd-col"><label>Name</label>[text* your-name]</p>
+<p class="wd-col"><label>Email</label>[email* your-email]</p>
+</div>
+<p class="wd-col"><label>Message</label>[textarea your-message]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>120</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:30:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:30:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-24 13:47:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-24 13:47:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-organic-farm]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch" style="--wd-gap-lg: 30px;--wd-gap-sm: 20px">
+<p class="wd-col"><label>Name</label>[text* your-name]</p>
+<p class="wd-col"><label>Email</label>[email* your-email]</p>
+</div>
+<p class="wd-col"><label>Message</label>[textarea your-message]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[8f028010c457cdfafa8c24ac7d51b532fd68e010]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-contact-us-drawn-map-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/contact-us/farm-contact-us-drawn-map-opt/</link>
+					<pubDate>Thu, 25 Jul 2024 06:54:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-contact-us-drawn-map-opt.jpg</guid>
+															<wp:post_id>263</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 06:54:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 06:54:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 06:54:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 06:54:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-contact-us-drawn-map-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>112</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-contact-us-drawn-map-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-contact-us-drawn-map-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

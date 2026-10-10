@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Elementor 2.0 WoodMart dummy</title>
+	<link>https://dummy.xtemos.com/woodmart2/elementor</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Wed, 14 Jul 2021 12:07:27 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[floating-banner-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/floating-banner-5-2/</link>
+					<pubDate>Tue, 09 Sep 2025 13:47:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2025/09/floating-banner-5.jpg</guid>
+															<wp:post_id>29374</wp:post_id>
+					<wp:post_date><![CDATA[2025-09-09 13:47:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-09-09 13:47:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-09-09 13:47:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-09-09 13:47:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[floating-banner-5-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2025/09/floating-banner-5.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/09/floating-banner-5.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Promotion popup 16 (FB Banner 5)]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/?post_type=wd_popup&#038;p=35422</link>
+					<pubDate>Thu, 30 Jul 2026 06:19:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/elementor/?post_type=wd_popup&#038;p=35422</guid>
+											<content:encoded><![CDATA[ 					
+										 							
+					24 Only				
+				<h4>Up to 40% OFF</h4> 
+								 					
+			<a href="#">
+					Grab Deal				
+							</a>]]></content:encoded>
+															<wp:post_id>35422</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-30 06:19:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-30 06:19:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-03 12:59:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-03 12:59:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[promotion-popup-16-fb-banner-5]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wd_popup]]></wp:post_type>
+												<category domain="wd_popup_cat" nicename="promotion"><![CDATA[Promotion]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wd_popup]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.2.1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:10:{s:24:"wd_popup_hidden_repeater";a:0:{}s:19:"wd_popup_conditions";a:1:{i:0;a:11:{s:10:"comparison";s:7:"include";s:4:"type";s:3:"all";s:15:"query_post_type";s:0:"";s:22:"query_single_post_type";s:0:"";s:13:"query_post_id";s:0:"";s:14:"query_taxonomy";s:0:"";s:13:"query_term_id";s:0:"";s:26:"query_single_posts_term_id";s:0:"";s:15:"query_user_role";s:0:"";s:12:"query_custom";s:6:"search";s:3:"_id";s:7:"9dba680";}}s:14:"wd_popup_width";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:580;s:5:"sizes";a:0:{}}s:21:"background_background";s:7:"classic";s:16:"background_color";s:7:"#F5F5F5";s:16:"wd_popup_padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:1:"0";s:5:"right";s:1:"0";s:6:"bottom";s:1:"0";s:4:"left";s:1:"0";s:8:"isLinked";b:1;}s:27:"wd_popup_close_btn_offset_v";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:27:"wd_popup_close_btn_offset_h";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:29:"wd_popup_close_btn_icon_color";s:7:"#333333";s:35:"wd_popup_close_btn_icon_color_hover";s:7:"#767676";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"2497c1b","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"flex_direction_mobile":"column-reverse","flex_align_items":"center","scroll_y":-80},"elements":[{"id":"bbaab83","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80},"elements":[{"id":"f6a27a7","elType":"widget","settings":{"subtitle":"24 Only","title":"Up to 40% OFF","after_title":"","align":"left","width":{"unit":"px","size":203,"sizes":[]},"width_tablet":{"unit":"px","size":"","sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"subtitle_color":"#242424","subtitle_typography_typography":"custom","subtitle_typography_font_family":"Poppins","subtitle_typography_font_size":{"unit":"px","size":24,"sizes":[]},"subtitle_typography_font_weight":"600","subtitle_typography_line_height":{"unit":"em","size":1,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":26,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"636bcfe","elType":"widget","settings":{"text":"Grab Deal","color":"black","size":"extra-large","typography_typography":"custom","typography_text_transform":"none","full_width":"yes","scroll_y":-80},"elements":[],"widgetType":"wd_button"}],"isInner":true},{"id":"b677303","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"min_height":{"unit":"px","size":300,"sizes":[]},"min_height_mobile":{"unit":"px","size":220,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2025\/09\/floating-banner-5.jpg","id":29374,"size":"","alt":"","source":"library"},"background_position":"top center","background_repeat":"no-repeat","background_size":"cover","scroll_y":-80},"elements":[],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

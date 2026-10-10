@@ -1,0 +1,1 @@
+.wd-search-full-screen{--wd-search-sp: 20px;--wd-form-height: 110px;display:flex;flex-direction:column;background-color:var(--bgcolor-white);box-shadow:0 0 14px rgba(0,0,0,.08);transition:opacity .5s cubic-bezier(0.19, 1, 0.22, 1) .5s,visibility .5s cubic-bezier(0.19, 1, 0.22, 1) .5s,transform .5s cubic-bezier(0.19, 1, 0.22, 1);transform:translate3d(0, 100%, 0)}

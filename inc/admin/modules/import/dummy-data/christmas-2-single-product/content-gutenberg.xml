@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>christmas-2-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 16 Oct 2025 13:53:19 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[xms-product-return]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/home-christmas-shop/xms-product-return/</link>
+					<pubDate>Wed, 22 Oct 2025 12:22:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-product-return.svg</guid>
+															<wp:post_id>217</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:22:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:22:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:22:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:22:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-product-return]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>169</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-product-return.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-product-return.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Single product - Christmas 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/woodmart_layout/single-product-christmas-2/</link>
+					<pubDate>Wed, 22 Oct 2025 12:56:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/?post_type=woodmart_layout&#038;p=295</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"6b491ca2-1631-401e-9859-54b2ece753f5","bgColorCode":"#e1edeb","paddingTop":"15","paddingBottom":"15","marginTop":"-40","marginBottom":"40","marginBottomTablet":"20"} -->
+<div id="wd-6b491ca2" class="wp-block-wd-section"><!-- wp:wd/container {"blockId":"f2baa15e-316c-43c1-8331-17a9ff5708d5","direction":"row","justify":"space-between","align":"center","wrap":"wrap","rowGap":"10"} -->
+<div id="wd-f2baa15e" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/woo-breadcrumbs {"blockId":"8a950701-c147-460e-bb5e-adb51bf18ca7","nowrapMd":true} /-->
+
+<!-- wp:wd/sp-navigation {"blockId":"339a2961-6344-43a0-8d48-661a2f65f187"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"3c5dd53c-1aa8-40bd-a7ec-347a3b21988d","columnsGap":40,"marginBottom":"40","columnsGapTablet":30,"marginBottomMobile":"20"} -->
+<div id="wd-3c5dd53c" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"beead794-3408-46f9-aba4-43070e465485","adjacentCount":2,"colWidth":50} -->
+<div id="wd-beead794" class="wp-block-wd-column"><!-- wp:wd/sp-gallery {"blockId":"d2ea596d-35c9-4e0b-afaf-8451c833a6fa"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"15ca6b8c-9996-4de3-9af6-c2f4c00e4b82","adjacentCount":2,"colWidth":50,"sticky":true,"stickyTablet":true} -->
+<div id="wd-15ca6b8c" class="wp-block-wd-column wd-sticky-on-lg wd-sticky-on-md-sm"><!-- wp:wd/woo-notices {"blockId":"4bec9978-2e9d-4538-9977-d9806c0a464c"} /-->
+
+<!-- wp:wd/sp-title {"blockId":"91cbb9f4-0c40-477a-bd08-ef730e9d47c5"} /-->
+
+<!-- wp:wd/sp-rating {"blockId":"d7d53994-0c4a-45cc-bcb7-27c193d5f7a4"} /-->
+
+<!-- wp:wd/sp-price {"blockId":"8e733563-f526-4709-9e13-5cc4a596c219"} /-->
+
+<!-- wp:wd/sp-countdown {"blockId":"94b00ced-3f64-42bd-87df-56aae19f4d35","size":"small","timerBoxShadowColorCode":"rgba(0,0,0,0.12)","timerBoxShadowBlur":2,"boxShadowBlur":2} /-->
+
+<!-- wp:wd/sp-short-description {"blockId":"b3d227b8-94fa-4945-a3f1-67bbaff06611"} /-->
+
+<!-- wp:wd/sp-add-to-cart {"blockId":"ec82c100-e3bb-4080-9a7e-ab897973571c","buttonDesign":"full","stockStatus":false,"marginTop":"10","marginBottom":"10"} /-->
+
+<!-- wp:wd/container {"blockId":"d6cacb3f-d497-46b0-a73e-202982aac980","direction":"row","align":"center","wrap":"wrap","directionMobile":"row","alignMobile":"start"} -->
+<div id="wd-d6cacb3f" class="wp-block-wd-container wd-dir-row wd-dir-row-sm wd-align-is-lg-center wd-align-is-sm-start"><!-- wp:wd/sp-compare-btn {"blockId":"8656a507-7c16-4480-946c-fa23d4bf162e"} /-->
+
+<!-- wp:wd/sp-wishlist-btn {"blockId":"d8042f3f-6398-4e9c-83c5-2d9a103f08d3"} /-->
+
+<!-- wp:wd/sp-price-tracker {"blockId":"6ec926da-32c6-4a65-bfc2-e8e8d3748cc7","marginRight":"auto","marginUnits":"custom","marginRightTablet":"0"} /-->
+
+<!-- wp:wd/social-buttons {"blockId":"af6567be-fdd0-40e1-ad68-839a00083c3a","title":true,"layout":"inline","size":"small","marginRight":"-6","flexSize":"none","displayWidth":""} -->
+<!-- wp:wd/paragraph {"blockId":"39405381-a505-4144-b4e6-48f022ebb63f","extraClass":"wd-label","htmlTag":"span","metadata":{"name":"Label"}} -->
+<span id="wd-39405381" class="wp-block-wd-paragraph wd-label">Share:</span>
+<!-- /wp:wd/paragraph -->
+<!-- /wp:wd/social-buttons --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"9a8cf8e9-5841-4c65-9166-d3738915a23c","colGap":"","rowGap":"10"} -->
+<div id="wd-9a8cf8e9" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/infobox {"blockId":"6ebdf885-0d7b-400f-a4d4-e8344071b059","iconPositionHorizontal":"start","iconPositionVertical":"center","bgColorCode":"#f5f5f5","paddingTop":"16","paddingRight":"24","paddingBottom":"16","paddingLeft":"24"} -->
+<div id="wd-6ebdf885" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"24d72e72-cf1f-4dc2-84f1-1e3d0e840fca","image":{"id":296,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-product-delivery.svg","width":48,"height":48},"width":"48"} -->
+<div id="wd-24d72e72" class="wp-block-wd-icon"><img class="wp-image-296" src="http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-product-delivery.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"e4361700-704d-4201-8ba1-7b4016eb53ed","colGap":"","rowGap":"5","metadata":{"name":"Infobox content"}} -->
+<div id="wd-e4361700" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"b3e6ef38-5333-41af-ae1e-8292f0211d90","content":"Fast Delivery","tpFontSize":"16"} -->
+<h2 id="wd-b3e6ef38" class="wp-block-wd-title title">Fast Delivery</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"add3c529-7f5f-44a5-a076-16e463efc7a2","tpFontSize":"14"} -->
+<p id="wd-add3c529" class="wp-block-wd-paragraph">Quick, reliable shipping to any location.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"dacc06e4-28f5-4c35-a998-664717ad6877","iconPositionHorizontal":"start","iconPositionVertical":"center","bgColorCode":"#f5f5f5","paddingTop":"16","paddingRight":"24","paddingBottom":"16","paddingLeft":"24"} -->
+<div id="wd-dacc06e4" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"3c12055f-4a73-456a-a43a-82f4e7d32e75","image":{"id":217,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-product-return.svg","width":48,"height":48},"width":"48"} -->
+<div id="wd-3c12055f" class="wp-block-wd-icon"><img class="wp-image-217" src="http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-product-return.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"4df4d75e-8ede-4411-b9f1-cda1855944ab","colGap":"","rowGap":"5","metadata":{"name":"Infobox content"}} -->
+<div id="wd-4df4d75e" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"4e4bd394-bf43-49dd-be24-07716e848e14","content":"Free \u0026amp; easy returns","tpFontSize":"16"} -->
+<h2 id="wd-4e4bd394" class="wp-block-wd-title title">Free &amp; easy returns</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"4f8dad24-8d6b-42c4-a2f3-de09efcb0fc8","tpFontSize":"14"} -->
+<p id="wd-4f8dad24" class="wp-block-wd-paragraph">Return this item by mail or in store within 90 days for a full refund.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sp-tabs {"blockId":"1e7fbbad-12a1-4de6-90aa-770237226e8a","layout":"side-hidden","enableReviews":false,"sideHiddenContentWidth":"460","additionalInfoLayout":"inline","attrNameColumnWidth":"199","sideHiddenTitleTpFontSize":"18","bgColorCode":"#fefefe"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/section {"blockId":"2dcc2a15-1a7d-4ffa-954e-e2a098cabdb4","paddingTop":"40","marginTop":"40","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1","marginTopMobile":"20"} -->
+<div id="wd-2dcc2a15" class="wp-block-wd-section"><!-- wp:wd/container {"blockId":"05dad393-cc32-4fec-840f-2c5413c8c65a"} -->
+<div id="wd-05dad393" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"b5b9508c-df27-4de3-bf84-bd56fb419ec1","content":"Reviews","tpFontSize":"32","tpFontSizeTablet":"26"} -->
+<h2 id="wd-b5b9508c" class="wp-block-wd-title title">Reviews</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/sp-reviews {"blockId":"ad13b5e5-637f-49c7-b160-91a1a7e0528f","layout":"two-column"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/section {"blockId":"0b2ffe69-6e04-42e7-a50f-a5973561bdbd","paddingTop":"40","marginTop":"40","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div id="wd-0b2ffe69" class="wp-block-wd-section"><!-- wp:wd/container {"blockId":"1a882991-ac38-4ae3-b642-bdf076c1cab0"} -->
+<div id="wd-1a882991" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/products {"blockId":"2b58e9fd-5b87-4308-98e9-18d403f7089b","show_title":true,"layout":"carousel","spacing":"","items_per_page":"5","products_with_background":true,"slides_per_view":"4","hide_pagination_control":true,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"sync_parent_id":"wd_2a459458","productsBackgroundCode":"#fafafa","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"c68c0c79-01d6-4a5c-a82b-806917b42b41","design":"","content":"Related products","tpFontSize":"32","tpFontSizeTablet":"26"} -->
+<h2 id="wd-c68c0c79" class="wp-block-wd-title title">Related products</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->]]></content:encoded>
+															<wp:post_id>295</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:56:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:56:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-24 12:20:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-24 12:20:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-christmas-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-product-delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/woodmart_layout/single-product-christmas-2/xms-product-delivery/</link>
+					<pubDate>Wed, 22 Oct 2025 12:54:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-product-delivery.svg</guid>
+															<wp:post_id>296</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:54:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:54:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:54:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:54:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-product-delivery]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>295</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-product-delivery.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-product-delivery.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

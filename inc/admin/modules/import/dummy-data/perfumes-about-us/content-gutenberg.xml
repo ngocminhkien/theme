@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>perfumes-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 15 Dec 2025 13:22:35 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[About us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/about-us/</link>
+					<pubDate>Mon, 22 Dec 2025 10:23:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?page_id=240</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/title {"blockId":"67dcf085-e517-4787-9b53-a36e0416730a","blockVersion":"2","content":"Welcome to WoodMart Fragrances","tpFontSize":"62","tpLineHeight":"1.2","tpFontSizeTablet":"54","tpFontSizeMobile":"32","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-67dcf085">Welcome to WoodMart Fragrances</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/image {"blockId":"471aceac-f086-46c9-ac2c-b64a0d3f75d2","blockVersion":"2","image":{"id":338,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-about-us-1-opt.jpg","width":1920,"height":1080},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-about-us-1-opt.jpg","width":1920,"height":1080}} -->
+<div class="wp-block-wd-image wd-block-image wd-471aceac"><img class="wp-image-338" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-about-us-1-opt.jpg" alt=""/></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/paragraph {"blockId":"875898a0-343e-4996-aedc-f20a67979bc6","blockVersion":"2","tpFontSize":"20","marginBottom":"120","tpFontSizeTablet":"18","tpFontSizeMobile":"16","marginBottomTablet":"80","marginBottomMobile":"60"} -->
+<p class="wp-block-wd-paragraph wd-875898a0">At&nbsp;WoodMart Fragrances, we believe that scent is more than just an aroma—it’s an experience. Inspired by the richness of nature, we craft sophisticated fragrances that bring warmth, elegance, and personality to every moment. Our carefully curated collections blend the finest natural ingredients, creating timeless scents that leave a lasting impression.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/section {"blockId":"5586ffff-8d34-4fec-8c15-9f5e695cb9a1","blockVersion":"2","paddingRight":"0","paddingLeft":"0","marginBottom":"120","marginBottomTablet":"80","marginBottomMobile":"60"} -->
+<div class="wp-block-wd-section wd-5586ffff"><!-- wp:wd/marquee {"blockId":"6622f756-8c56-42c0-8f69-473a3ad116cb","blockVersion":"2","speed":"45","tpFontSize":"84","tpLineHeight":"1.2","colorCode":"#242424","tpFontSizeTablet":"48","tpFontSizeMobile":"36","tpLineHeightUnits":"em"} -->
+<!-- wp:wd/marquee-item {"blockId":"f2cb2631-faee-4afd-b58a-f36bad8d9e56"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-f2cb2631"><!-- wp:wd/paragraph {"blockId":"07fd5658-4b93-4dbb-896e-829440a0a860","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-07fd5658">Ethereal</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"fe987b0b-7520-45fa-bff1-28cbf384f9d1"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-fe987b0b"><!-- wp:wd/icon {"blockId":"628496f2-a25c-4db1-8937-45275d8334f9","blockVersion":"2","image":{"id":317,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg","width":64,"height":64}} -->
+<div class="wp-block-wd-icon wd-628496f2"><img class="wp-image-317" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"754fc582-d6b5-4e93-bd96-afb5dd68eca0"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-754fc582"><!-- wp:wd/paragraph {"blockId":"040f30b1-2cfc-471c-b854-f38cdf2fb219","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-040f30b1">Sensory</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"9a0f9e7c-43ed-46b8-806f-f43257ae0f87"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-9a0f9e7c"><!-- wp:wd/icon {"blockId":"6934012a-086b-42a4-a7bb-1c3bd5d9408f","blockVersion":"2","image":{"id":317,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg","width":64,"height":64}} -->
+<div class="wp-block-wd-icon wd-6934012a"><img class="wp-image-317" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"1d22d190-b1ad-4ffd-aa03-90961c11b94b"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-1d22d190"><!-- wp:wd/paragraph {"blockId":"aefe023b-e110-4455-98e8-2fcf73c95678","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-aefe023b">Signature</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"84cefcd2-ae20-434a-bcd6-ab84fe13dcc8"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-84cefcd2"><!-- wp:wd/icon {"blockId":"89a517dd-ffd9-48b4-aaad-ca16179e0fd0","blockVersion":"2","image":{"id":317,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg","width":64,"height":64}} -->
+<div class="wp-block-wd-icon wd-89a517dd"><img class="wp-image-317" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+<!-- /wp:wd/marquee --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"d8adfb63-c33a-437f-9154-03aea996da05","blockVersion":"2","marginBottom":"120","marginBottomTablet":"80","marginBottomMobile":"60"} -->
+<div class="wp-block-wd-row wd-d8adfb63"><!-- wp:wd/column {"blockId":"756b6e04-b3fe-4305-84b2-82f8e0b36bab","blockVersion":"2","adjacentCount":2,"adjacentCountTablet":1,"colWidthTablet":100,"flexOrderTablet":"1"} -->
+<div class="wp-block-wd-column wd-756b6e04"><!-- wp:wd/title {"blockId":"7d94b222-b508-42ad-8690-f86eee5cfb36","blockVersion":"2","content":"Our Story","tpFontSize":"48","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-7d94b222">Our Story</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"f5dc390c-96bd-4a8c-87c2-d90d1c7d1968","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f5dc390c">The journey of&nbsp;WoodMart Fragrances&nbsp;began in a small family workshop in Provence, France. Founded by master perfumer&nbsp;Louis Beaumont&nbsp;in 1987, our brand was born from a passion for nature’s raw beauty and the art of perfumery. Inspired by the rich scents of wood, earth, and blooming florals, Louis spent years perfecting his craft, blending rare ingredients to create signature fragrances. What started as a modest venture quickly grew into an internationally recognized brand, known for its commitment to quality, sustainability, and innovation. Today, WoodMart Fragrances continues this legacy, offering exquisite scents that transport you to a world of timeless elegance.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/accordion {"blockId":"006a2bdb-be10-46dd-af80-b4bc84aaaa48","blockVersion":"2","design":"simple","allClosed":true,"openerIcon":"plus","openerSize":"16","paneSize":20,"titleTpFontSize":"20"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-simple wd-titles-start wd-opener-style-plus wd-opener-pos-end wd-006a2bdb" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"acaa86db-715e-447d-946c-8329aa821937","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-acaa86db"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>What makes WoodMart fragrances unique?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"47a6c1db-75f5-4a50-a302-86f096040e3f","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-47a6c1db">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"fb2aa6b6-3130-418f-8755-52a8b0e5d09b","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-fb2aa6b6"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Are your products cruelty-free?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"26dbf5ec-8d1b-479d-beec-e978ef47551f","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-26dbf5ec">Check the email you received after placing your order. It should contain information about the status of your order and the expected delivery date.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"1d965a43-118c-4a8e-ac58-b0bf386b2942","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-1d965a43"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>How long do your fragrances last?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"416f5ab1-219c-4ad3-9287-dfbb86e4b9a4","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-416f5ab1">If the contents of the parcel are suspicious to customs officers (for example, many identical goods), it may be further checked.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"0a089963-9420-4ed8-a2b6-dfbe078a35f1","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-0a089963"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do you offer sample sizes?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"98b898d5-3d07-4802-aa8a-7099bcf18d46","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-98b898d5">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"fe6a2145-e8b4-4bb0-9973-737bdb6c3e63","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-fe6a2145"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>How should I store my perfume?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"42a2fece-1023-4899-9eb3-6c273b55dabf","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-42a2fece">If the contents of the parcel are suspicious to customs officers (for example, many identical goods), it may be further checked.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"efacf393-0b96-4857-b9c6-47137257e71a","blockVersion":"2","adjacentCount":2,"bgImage":{"id":340,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-about-us-2-opt.jpg","width":965,"height":1230},"bgPosition":"center center","bgDisplaySize":"cover","minHeight":"444","adjacentCountTablet":1,"colWidthTablet":100,"minHeightMobile":"205"} -->
+<div class="wp-block-wd-column wd-efacf393"></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/title {"blockId":"b0376e94-54a7-40ac-bde9-59145c125f7b","blockVersion":"2","content":"Why Choose WoodMart?","tpFontSize":"48","tpLineHeight":"1.2","marginBottom":"40","tpFontSizeTablet":"36","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-b0376e94">Why Choose WoodMart?</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"a78b5fc5-71df-414d-9c00-61967a2debcc","blockVersion":"2","marginBottom":"120","marginBottomTablet":"80","marginBottomMobile":"60"} -->
+<div class="wp-block-wd-row wd-a78b5fc5"><!-- wp:wd/column {"blockId":"41d70ade-983f-4cca-9875-85634ddecd95","blockVersion":"2","adjacentCount":4,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-41d70ade"><!-- wp:wd/infobox {"blockId":"9b2deba2-a6df-4263-bae6-5aee6b256be8","blockVersion":"2","align":"start"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top wd-9b2deba2"><!-- wp:wd/icon {"blockId":"7ffd6b92-f48b-48e3-8a29-9827f3891ca6","blockVersion":"2","image":{"id":302,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-1.svg","width":24,"height":24}} -->
+<div class="wp-block-wd-icon wd-7ffd6b92"><img class="wp-image-302" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-1.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"a1a760fd-95d9-4ec0-96c3-3a8763b6392b","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-a1a760fd"><!-- wp:wd/title {"blockId":"456b1620-25e4-465a-93bf-21cb0e10bd55","blockVersion":"2","content":"Natural Ingredients"} -->
+<h2 class="wp-block-wd-title title wd-456b1620">Natural Ingredients</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"5ddcc946-892a-4df4-8bfc-8141e37f5eb2","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-5ddcc946">We use responsibly sourced, high-quality natural ingredients for an authentic experience.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"8d27cd16-f566-4f81-a10b-4bd6fee0df10","blockVersion":"2","adjacentCount":4,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-8d27cd16"><!-- wp:wd/infobox {"blockId":"418060d4-fb42-4e3a-9dc2-48abc5552140","blockVersion":"2","align":"start"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top wd-418060d4"><!-- wp:wd/icon {"blockId":"309600f3-a0e2-4715-9bf3-bdf35ae1d667","blockVersion":"2","image":{"id":303,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-2.svg","width":24,"height":24}} -->
+<div class="wp-block-wd-icon wd-309600f3"><img class="wp-image-303" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-2.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"52517771-6832-402f-b1cd-710e33b1f844","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-52517771"><!-- wp:wd/title {"blockId":"ff09e8cb-ec07-413e-8738-a02c98128b66","blockVersion":"2","content":"Artisanal Craftsmanship"} -->
+<h2 class="wp-block-wd-title title wd-ff09e8cb">Artisanal Craftsmanship</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"82e2066f-360f-45d8-bb91-9d8363a2fae8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-82e2066f">Each fragrance is carefully developed by expert perfumers with a deep passion for artistry.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"2c2af23d-2655-4f72-ba5d-dbc78127ffc6","blockVersion":"2","adjacentCount":4,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-2c2af23d"><!-- wp:wd/infobox {"blockId":"ab7a1f13-1da3-49a9-bf24-7b2caa3c6ab6","blockVersion":"2","align":"start"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top wd-ab7a1f13"><!-- wp:wd/icon {"blockId":"ac132566-3af7-4015-9170-56d8af0305d9","blockVersion":"2","image":{"id":304,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-3.svg","width":24,"height":24}} -->
+<div class="wp-block-wd-icon wd-ac132566"><img class="wp-image-304" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-3.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"95e9d2e6-bb40-437f-9121-b63bdfc1db6f","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-95e9d2e6"><!-- wp:wd/title {"blockId":"19263523-a974-40ee-bdb0-210b456b4332","blockVersion":"2","content":"Sustainable \u0026amp; Ethical"} -->
+<h2 class="wp-block-wd-title title wd-19263523">Sustainable &amp; Ethical</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"545ac090-4408-4373-bcfc-048272a43447","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-545ac090">We are committed to sustainability, using eco-friendly packaging and ingredients.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"87706f24-a302-4547-83cd-bbb5a08fb077","blockVersion":"2","adjacentCount":4,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-87706f24"><!-- wp:wd/infobox {"blockId":"8bd622b6-2a2e-427b-99ef-75991d68e5d7","blockVersion":"2","align":"start"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top wd-8bd622b6"><!-- wp:wd/icon {"blockId":"e01419c7-9ece-4e58-89f2-bf2c22f59576","blockVersion":"2","image":{"id":342,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-infobox-4.svg","width":24,"height":24}} -->
+<div class="wp-block-wd-icon wd-e01419c7"><img class="wp-image-342" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-infobox-4.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"d50293e5-dcbe-4ee4-af9e-a8d3156e7cac","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-d50293e5"><!-- wp:wd/title {"blockId":"faf3091f-9ff8-479f-ba03-b6fc09c67fbc","blockVersion":"2","content":"Luxury Experience"} -->
+<h2 class="wp-block-wd-title title wd-faf3091f">Luxury Experience</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"f7ffddbf-965f-44ed-b602-fc4f478c1465","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f7ffddbf">From elegant bottles to exquisite scents, every fragrance is designed to offer a journey.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"0a8b8d92-c7e3-43ba-92da-a8ac1b11ab70","blockVersion":"2","paddingTop":"30","borderType":"solid","borderColorVariable":"\u002d\u002dwd-primary-color","borderWidthTop":"2"} -->
+<div class="wp-block-wd-row wd-0a8b8d92"><!-- wp:wd/column {"blockId":"03557067-508c-408d-bf81-7ae7dcdb79e6","blockVersion":"2","adjacentCount":2,"colWidth":30,"justifyContent":"center","adjacentCountTablet":2,"colWidthTablet":40} -->
+<div class="wp-block-wd-column wd-03557067"><!-- wp:wd/title {"blockId":"74f8a649-d461-43e2-a76a-a57bab3575da","blockVersion":"2","content":"Connect to our Instagram","tpFontSize":"48","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-74f8a649">Connect to our Instagram</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"d2cd58c6-0d8d-4041-b1bf-b953d7dd8266","blockVersion":"2","design":"link","predefinedColor":"black","size":"extra-large","icon":"right"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-color-black btn-size-extra-large btn-icon-pos-right wd-d2cd58c6" href="https://www.instagram.com/xtemos.studio/"><span>@xtemos.studio</span><!-- wp:wd/icon {"blockId":"be01205b-0121-4706-a883-6a2a0beabdde","blockVersion":"2","image":{"id":396,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/wd-merchandise-long-arrow-black.svg","width":16,"height":17}} -->
+<div class="wp-block-wd-icon wd-be01205b"><img class="wp-image-396" src="http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/wd-merchandise-long-arrow-black.svg" alt=""/></div>
+<!-- /wp:wd/icon --></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"f02a5cd1-35ed-48d2-8bf2-98c83d79f8d9","blockVersion":"2","adjacentCount":2,"colWidth":70,"justifyContent":"center","adjacentCountTablet":2,"colWidthTablet":60} -->
+<div class="wp-block-wd-column wd-f02a5cd1"><!-- wp:wd/instagram {"blockId":"b18373df-6e9f-4283-af76-0ced3cc771ce","blockVersion":"2","images":[{"id":330,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-1-opt.jpg","width":512,"height":512},{"id":331,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-2-opt.jpg","width":512,"height":512},{"id":332,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-3-opt.jpg","width":512,"height":512},{"id":333,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-4-opt.jpg","width":512,"height":512},{"id":334,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-5-opt.jpg","width":512,"height":512},{"id":335,"url":"http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-6-opt.jpg","width":512,"height":512}],"images_link":"https://www.instagram.com/xtemos.studio/","design":"slider","per_row":6,"slides_per_view":"6","scroll_carousel_init":true,"hide_pagination_control":true,"per_rowTablet":6,"per_rowMobile":3,"slides_per_viewTablet":"3","hide_prev_next_buttonsTablet":true,"hide_prev_next_buttonsMobile":true,"hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>240</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-22 10:23:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-22 10:23:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 12:31:13]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 12:31:13]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-infobox-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?attachment_id=302</link>
+					<pubDate>Fri, 23 Jan 2026 08:19:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-1.svg</guid>
+															<wp:post_id>302</wp:post_id>
+					<wp:post_date><![CDATA[2026-01-23 08:19:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-01-23 08:19:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-01-23 08:19:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-01-23 08:19:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-infobox-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>223</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-infobox-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-infobox-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?attachment_id=303</link>
+					<pubDate>Fri, 23 Jan 2026 08:20:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-2.svg</guid>
+															<wp:post_id>303</wp:post_id>
+					<wp:post_date><![CDATA[2026-01-23 08:20:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-01-23 08:20:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-01-23 08:20:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-01-23 08:20:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-infobox-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>223</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-2.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-infobox-2.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-infobox-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?attachment_id=304</link>
+					<pubDate>Fri, 23 Jan 2026 08:21:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-3.svg</guid>
+															<wp:post_id>304</wp:post_id>
+					<wp:post_date><![CDATA[2026-01-23 08:21:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-01-23 08:21:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-01-23 08:21:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-01-23 08:21:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-infobox-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>223</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-3.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-infobox-3.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-marquee-figure]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/prf-marquee-figure/</link>
+					<pubDate>Tue, 17 Feb 2026 17:35:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg</guid>
+															<wp:post_id>317</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:35:19]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:35:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:35:19]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:35:19]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-marquee-figure]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-marquee-figure.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/prf-inst-1-opt/</link>
+					<pubDate>Tue, 17 Feb 2026 17:43:33 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-1-opt.jpg</guid>
+															<wp:post_id>330</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:43:33]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:43:33]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:43:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:43:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-inst-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/prf-inst-2-opt/</link>
+					<pubDate>Tue, 17 Feb 2026 17:43:33 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-2-opt.jpg</guid>
+															<wp:post_id>331</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:43:33]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:43:33]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:43:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:43:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-inst-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/prf-inst-3-opt/</link>
+					<pubDate>Tue, 17 Feb 2026 17:43:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-3-opt.jpg</guid>
+															<wp:post_id>332</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:43:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:43:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:43:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:43:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-inst-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/prf-inst-4-opt/</link>
+					<pubDate>Tue, 17 Feb 2026 17:43:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-4-opt.jpg</guid>
+															<wp:post_id>333</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:43:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:43:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:43:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:43:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-inst-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/prf-inst-5-opt/</link>
+					<pubDate>Tue, 17 Feb 2026 17:43:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-5-opt.jpg</guid>
+															<wp:post_id>334</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:43:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:43:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:43:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:43:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-inst-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/prf-inst-6-opt/</link>
+					<pubDate>Tue, 17 Feb 2026 17:43:37 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-6-opt.jpg</guid>
+															<wp:post_id>335</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:43:37]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:43:37]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:43:37]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:43:37]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-inst-6-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-inst-6-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-about-us-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/about-us/prf-about-us-1-opt/</link>
+					<pubDate>Tue, 17 Feb 2026 17:44:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-about-us-1-opt.jpg</guid>
+															<wp:post_id>338</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:44:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:44:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:44:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:44:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-about-us-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>240</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-about-us-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-about-us-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-about-us-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/about-us/prf-about-us-2-opt/</link>
+					<pubDate>Tue, 17 Feb 2026 17:45:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-about-us-2-opt.jpg</guid>
+															<wp:post_id>340</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:45:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:45:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:45:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:45:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-about-us-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>240</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-about-us-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-about-us-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-infobox-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/about-us/prf-infobox-4/</link>
+					<pubDate>Tue, 17 Feb 2026 17:46:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-infobox-4.svg</guid>
+															<wp:post_id>342</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:46:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:46:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:46:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:46:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-infobox-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>240</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-infobox-4.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-infobox-4.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-merchandise-long-arrow-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/wd-merchandise-long-arrow-black/</link>
+					<pubDate>Fri, 20 Feb 2026 10:39:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/wd-merchandise-long-arrow-black.svg</guid>
+															<wp:post_id>396</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-20 10:39:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-20 10:39:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-20 10:39:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-20 10:39:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-merchandise-long-arrow-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/wd-merchandise-long-arrow-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/wd-merchandise-long-arrow-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-infobox-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?attachment_id=302</link>
+					<pubDate>Fri, 23 Jan 2026 08:19:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-1.svg</guid>
+															<wp:post_id>302</wp:post_id>
+					<wp:post_date><![CDATA[2026-01-23 08:19:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-01-23 08:19:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-01-23 08:19:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-01-23 08:19:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-infobox-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>223</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-infobox-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-infobox-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?attachment_id=303</link>
+					<pubDate>Fri, 23 Jan 2026 08:20:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-2.svg</guid>
+															<wp:post_id>303</wp:post_id>
+					<wp:post_date><![CDATA[2026-01-23 08:20:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-01-23 08:20:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-01-23 08:20:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-01-23 08:20:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-infobox-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>223</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-2.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-infobox-2.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-infobox-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?attachment_id=304</link>
+					<pubDate>Fri, 23 Jan 2026 08:21:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-3.svg</guid>
+															<wp:post_id>304</wp:post_id>
+					<wp:post_date><![CDATA[2026-01-23 08:21:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-01-23 08:21:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-01-23 08:21:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-01-23 08:21:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-infobox-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>223</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2025/12/prf-infobox-3.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-infobox-3.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-marquee-figure]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/prf-marquee-figure/</link>
+					<pubDate>Tue, 17 Feb 2026 17:35:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg</guid>
+															<wp:post_id>317</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:35:19]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:35:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:35:19]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:35:19]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-marquee-figure]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-marquee-figure.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-marquee-figure.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-infobox-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/about-us/prf-infobox-4/</link>
+					<pubDate>Tue, 17 Feb 2026 17:46:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-infobox-4.svg</guid>
+															<wp:post_id>342</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 17:46:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 17:46:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 17:46:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 17:46:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-infobox-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>240</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/prf-infobox-4.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/prf-infobox-4.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-merchandise-long-arrow-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/home-perfumes/wd-merchandise-long-arrow-black/</link>
+					<pubDate>Fri, 20 Feb 2026 10:39:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/wd-merchandise-long-arrow-black.svg</guid>
+															<wp:post_id>396</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-20 10:39:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-20 10:39:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-20 10:39:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-20 10:39:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-merchandise-long-arrow-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>233</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/2026/02/wd-merchandise-long-arrow-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/02/wd-merchandise-long-arrow-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

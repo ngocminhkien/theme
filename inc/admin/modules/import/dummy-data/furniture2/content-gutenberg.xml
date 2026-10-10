@@ -1,0 +1,2271 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Furniture 2 gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:24:07 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Footer Furniture 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?cms_block=footer-furniture-2</link>
+					<pubDate>Tue, 16 Jul 2024 11:39:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?post_type=cms_block&#038;p=189</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"b8cf3123-d6f6-4ee2-9a43-ed57a8c13d2f","direction":"row","justify":"space-between","align":"center","wrap":"wrap","paddingTop":"50","paddingBottom":"50"} -->
+<div id="wd-b8cf3123" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/image {"blockId":"58cdc6f6-084c-4a7c-8012-afa19d73d664","image":{"id":252,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-white.svg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-white.svg","width":261,"height":40},"displayWidth":"custom","customWidth":"260"} -->
+<div id="wd-58cdc6f6" class="wp-block-wd-image wd-block-image wd-custom-width"><a href="#" class="wd-block-image-link"><img class="wp-image-252" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-white.svg" /></a></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/social-buttons {"blockId":"22cb487c-1cb9-4620-8b5c-268cfb7eef59","title":true,"type":"follow","layout":"inline","style":"colored","size":"small","social_links_source":"custom","youtube_link":"","linkedin_link":"#","displayWidth":"","customWidth":"","customWidthUnits":"%"} -->
+<!-- wp:wd/paragraph {"blockId":"58d90c87-0d65-420b-bcf7-5adf6be61fd7","extraClass":"wd-label","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"22","htmlTag":"span","metadata":{"name":"Label"}} -->
+<span id="wd-58d90c87" class="wp-block-wd-paragraph wd-label">Subscribe us:</span>
+<!-- /wp:wd/paragraph -->
+<!-- /wp:wd/social-buttons --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"5af9fac1-ee67-4161-bdea-4be9ddf60a7d","marginBottom":"50"} -->
+<div id="wd-5af9fac1" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"110953a3-95ee-4163-999b-68480440b637","adjacentCount":4,"colWidth":25,"adjacentCountTablet":3,"adjacentCountMobile":1,"colWidthTablet":33,"colWidthMobile":100} -->
+<div id="wd-110953a3" class="wp-block-wd-column"><!-- wp:wd/menu-list {"blockId":"68f0eb30-8a7f-4900-a95b-cb47e7b82cf4","title":"Useful links","titleTpFontSize":"22","titleTpTextTransform":"none"} -->
+<ul id="wd-68f0eb30" class="wp-block-wd-menu-list wd-sub-menu wd-sub-accented"><li><a>Useful links</a><ul class="sub-sub-menu"><!-- wp:wd/menu-list-item {"blockId":"3f1b7f77-6f88-45cc-8622-f89483481398","title":"About Us"} -->
+<li id="wd-3f1b7f77" class="wp-block-wd-menu-list-item"><a href="https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/about-us/">About Us</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"f4459b6b-11a2-4b65-baaa-a114a2ad8637","title":"Contact Us"} -->
+<li id="wd-f4459b6b" class="wp-block-wd-menu-list-item"><a href="https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/contact-us/">Contact Us</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"caf4d293-da56-4f1e-973c-77d319a16043","title":"Showrooms"} -->
+<li id="wd-caf4d293" class="wp-block-wd-menu-list-item"><a href="https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/">Showrooms</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"2c10ec7a-5b48-4681-ace2-e6ad078733e5","title":"Blog","labelText":""} -->
+<li id="wd-2c10ec7a" class="wp-block-wd-menu-list-item"><a href="https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/blog/">Blog</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"b54ecd86-5456-4d5d-955a-0328d277b05f","title":"Gift Cards"} -->
+<li id="wd-b54ecd86" class="wp-block-wd-menu-list-item"><a href="https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/gift-cards/">Gift Cards</a></li>
+<!-- /wp:wd/menu-list-item --></ul></li></ul>
+<!-- /wp:wd/menu-list --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"1b831358-8a35-4a1e-9346-00741bea76f1","adjacentCount":4,"colWidth":25,"adjacentCountTablet":3,"adjacentCountMobile":2,"colWidthTablet":33,"colWidthMobile":50} -->
+<div id="wd-1b831358" class="wp-block-wd-column"><!-- wp:wd/menu-list {"blockId":"d2e80515-13e2-4e07-adfc-ba827c18cc29","title":"Categories​","titleTpFontSize":"22","titleTpTextTransform":"none"} -->
+<ul id="wd-d2e80515" class="wp-block-wd-menu-list wd-sub-menu wd-sub-accented"><li><a>Categories​</a><ul class="sub-sub-menu"><!-- wp:wd/menu-list-item {"blockId":"9bb19e5c-5665-49f7-b903-1b7f0a1747db","title":"Chair"} -->
+<li id="wd-9bb19e5c" class="wp-block-wd-menu-list-item"><a href="#">Chair</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"aaab0fa9-7a63-4edb-9d1d-d6abbd86a8b5","title":"Tables"} -->
+<li id="wd-aaab0fa9" class="wp-block-wd-menu-list-item"><a href="#">Tables</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"2cd58dbf-41d6-4c78-ab73-9c247c817dff","title":"Sofas"} -->
+<li id="wd-2cd58dbf" class="wp-block-wd-menu-list-item"><a href="#">Sofas</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"c38bd82d-9cc1-4353-bbfc-44225d1ad2c2","title":"Armchairs","labelText":""} -->
+<li id="wd-c38bd82d" class="wp-block-wd-menu-list-item"><a href="#">Armchairs</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"c939b8bc-8c53-4c46-85bd-874e9aea2f5c","title":"Beds"} -->
+<li id="wd-c939b8bc" class="wp-block-wd-menu-list-item"><a href="#">Beds</a></li>
+<!-- /wp:wd/menu-list-item --></ul></li></ul>
+<!-- /wp:wd/menu-list --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"3b3bdd65-788c-49c3-8393-b5c1aebda8f7","adjacentCount":4,"colWidth":20,"justifyContent":"flex-end","adjacentCountTablet":3,"adjacentCountMobile":2,"colWidthTablet":33,"colWidthMobile":50} -->
+<div id="wd-3b3bdd65" class="wp-block-wd-column"><!-- wp:wd/menu-list {"blockId":"75672af2-c6d7-44f0-a8b8-98f98cde721c","title":"​","titleTpFontSize":"22","titleTpTextTransform":"none"} -->
+<ul id="wd-75672af2" class="wp-block-wd-menu-list wd-sub-menu wd-sub-accented"><li><a>​</a><ul class="sub-sub-menu"><!-- wp:wd/menu-list-item {"blockId":"2e2aaeb9-7a98-49de-8771-a51b1b7c7623","title":"Storage"} -->
+<li id="wd-2e2aaeb9" class="wp-block-wd-menu-list-item"><a href="#">Storage</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"79f8d804-3da8-458b-baf7-bb31f68cab2c","title":"Textiles"} -->
+<li id="wd-79f8d804" class="wp-block-wd-menu-list-item"><a href="#">Textiles</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"fe077788-71c0-49ea-a7f4-4539fcca34d3","title":"Lighting"} -->
+<li id="wd-fe077788" class="wp-block-wd-menu-list-item"><a href="#">Lighting</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"6d016bc3-8e35-4ae0-b590-a707968d0afe","title":"Toys","labelText":""} -->
+<li id="wd-6d016bc3" class="wp-block-wd-menu-list-item"><a href="#">Toys</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"0c6ae4e9-7f0c-4e9f-bcdc-b0205216e3cf","title":"Decor"} -->
+<li id="wd-0c6ae4e9" class="wp-block-wd-menu-list-item"><a href="#">Decor</a></li>
+<!-- /wp:wd/menu-list-item --></ul></li></ul>
+<!-- /wp:wd/menu-list --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"348f99d9-0164-4539-9953-1a6f4ac472a9","adjacentCount":4,"colWidth":30,"adjacentCountTablet":1,"colWidthTablet":30} -->
+<div id="wd-348f99d9" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"7fa4f350-f621-4520-81fe-beccd36f7448","content":"Download App on Mobile:","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-7fa4f350" class="wp-block-wd-title title">Download App on Mobile:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"0648ed5b-9f28-4221-ada2-cbc5fed1b1cc"} -->
+<p id="wd-0648ed5b" class="wp-block-wd-paragraph">15% discount on your first purchase</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/gallery {"blockId":"8c909a48-41d8-4cde-ae8b-ec3c796d06d0","columns":2,"rounding":"0","slidesPerView":"2","syncParentId":"wd_e8f3e736","borderType":"none","displayWidth":"fit-content","columnsMobile":2} -->
+<div id="wd-8c909a48" class="wp-block-wd-gallery wd-grid-g wd-caption-mask wd-custom-width" style="--wd-col-lg:2;--wd-col-md:2;--wd-col-sm:2;--wd-gap-lg:20px;--wd-gap-sm: 10px"><!-- wp:wd/gallery-item {"blockId":"a62088e0-af26-48e2-a445-1fd6271f3e70","image":{"id":254,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/google-play.svg"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/google-play.svg","width":135,"height":40}} -->
+<div id="wd-a62088e0" class="wp-block-wd-gallery-item wd-col"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-254" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/google-play.svg" /></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"08850823-e472-461b-9afe-13e573c856ac","image":{"id":253,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/app-store.svg"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/app-store.svg","width":120,"height":40}} -->
+<div id="wd-08850823" class="wp-block-wd-gallery-item wd-col"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-253" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/app-store.svg" /></a></div></div>
+<!-- /wp:wd/gallery-item --></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>189</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 11:39:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 11:39:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-16 12:53:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-16 12:53:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[footer-furniture-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[wd-furniture-pt-def]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-pt-def/</link>
+					<pubDate>Tue, 16 Jul 2024 12:25:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-pt-def.jpg</guid>
+															<wp:post_id>194</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 12:25:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 12:25:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 12:25:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 12:25:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-pt-def]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-pt-def.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-pt-def.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-background]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-background/</link>
+					<pubDate>Tue, 16 Jul 2024 12:31:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-background.jpg</guid>
+															<wp:post_id>195</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 12:31:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 12:31:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 12:31:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 12:31:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-background]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-background.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-background.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-logo-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-logo-black/</link>
+					<pubDate>Tue, 16 Jul 2024 13:41:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-black.svg</guid>
+															<wp:post_id>248</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 13:41:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 13:41:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 13:41:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 13:41:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-logo-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-logo-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-contact-expert]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-contact-expert/</link>
+					<pubDate>Tue, 16 Jul 2024 13:42:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-contact-expert.png</guid>
+															<wp:post_id>249</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 13:42:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 13:42:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 13:42:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 13:42:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-contact-expert]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-contact-expert.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-contact-expert.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-phone]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-phone/</link>
+					<pubDate>Tue, 16 Jul 2024 13:42:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-phone.svg</guid>
+															<wp:post_id>250</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 13:42:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 13:42:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 13:42:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 13:42:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-phone]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-phone.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-phone.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-logo-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?attachment_id=252</link>
+					<pubDate>Tue, 16 Jul 2024 13:47:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-white.svg</guid>
+															<wp:post_id>252</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 13:47:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 13:47:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 13:47:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 13:47:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-logo-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>189</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-logo-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[google-play]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?attachment_id=254</link>
+					<pubDate>Tue, 16 Jul 2024 13:50:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/google-play.svg</guid>
+															<wp:post_id>254</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 13:50:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 13:50:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 13:50:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 13:50:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[google-play]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>189</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/google-play.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/google-play.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[furniture-2-slider-1-author]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/furniture-2-slider-1-author/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-1-author.png</guid>
+															<wp:post_id>279</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:06]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:06]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[furniture-2-slider-1-author]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-1-author.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/furniture-2-slider-1-author.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[furniture-2-slider-2-author]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/furniture-2-slider-2-author/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-2-author.png</guid>
+															<wp:post_id>280</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[furniture-2-slider-2-author]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-2-author.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/furniture-2-slider-2-author.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[furniture-2-slider-3-author]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/furniture-2-slider-3-author/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-3-author.png</guid>
+															<wp:post_id>281</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[furniture-2-slider-3-author]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-3-author.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/furniture-2-slider-3-author.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-video]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-video/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-video.mp4</guid>
+															<wp:post_id>411</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-video]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-video.mp4]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-video.mp4]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Home Furniture2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/</link>
+					<pubDate>Tue, 16 Jul 2024 11:29:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?page_id=165</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/slider {"blockId":"8d553aaa-0960-4fe8-bec4-9ae09514f430","blockVersion":"2","effect":"parallax","arrowsTablet":false,"arrowsMobile":false,"arrowsStyle":"3","paginationStyle":"3","autoplay":true,"autoplaySpeed":"25000","stretch":true,"height":"600","marginTop":"-40","marginBottom":"100","heightTablet":"500","marginBottomTablet":"60"} -->
+<div class="wp-block-wd-slider wd-slider wd-carousel-container wd-anim-parallax wd-stretched wd-autoplay-on wd-8d553aaa"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" data-effect="parallax" data-wrap="yes" data-autoheight="yes" data-sliding_speed="700" style="--wd-col-lg:1;--wd-col-md:1;--wd-col-sm:1;" data-autoplay="yes" data-speed="25000"><div class="wd-carousel-wrap"><!-- wp:wd/slider-item {"blockId":"c66b905b-21a7-446d-97fe-d5de8de8dab5","blockVersion":"2","align":"center","effect":"parallax","aspectRatio":"","image":{"id":282,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-1-opt.jpg","width":1920,"height":640},"bgImage":{"id":"","url":""},"bgColorCode":"#F3F3F3","paddingRight":"80","paddingLeft":"80","imagePositionTablet":"custom","imagePositionMobile":"custom","imageCustomPositionXTablet":"-120","imageCustomPositionXMobile":"-360","imageCustomPositionYTablet":"0","bgPositionTablet":"custom","bgPositionMobile":"custom","bgCustomPositionXTablet":"-120","bgCustomPositionXMobile":"-360","bgCustomPositionYTablet":"0","paddingRightTablet":"30","paddingLeftTablet":"30"} -->
+<div class="wp-block-wd-slider-item wd-slide wd-carousel-item wd-c66b905b"><div class="wd-slide-container"><!-- wp:wd/container {"blockId":"a18d431d-631e-400b-9a64-88a10c7ee05c","blockVersion":"2","rowGap":"0","displayWidth":"custom","customWidth":"1250"} -->
+<div class="wp-block-wd-container wd-dir-col wd-a18d431d wd-custom-width"><!-- wp:wd/infobox {"blockId":"3c0e7505-1aac-4a74-8363-b235b66e0853","blockVersion":"2","iconPositionHorizontal":"start","iconPositionVertical":"center","marginBottom":"100","animation":"slide-from-top","animationDelay":"150","displayWidth":"custom","customWidth":"280"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-animation wd-transform wd-animation-slide-from-top wd_delay_150 wd-3c0e7505 wd-custom-width"><!-- wp:wd/icon {"blockId":"47121715-beeb-4fe0-9633-c922bd46d40e","blockVersion":"2","image":{"id":286,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-decor.svg"},"width":"74","height":"74","bgColorCode":"rgba(16,16,16,0.1)","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","borderRadius":"50","borderRadiusTop":"50","borderRadiusRight":"50","borderRadiusBottom":"50","borderRadiusLeft":"50","borderRadiusUnits":"%"} -->
+<div class="wp-block-wd-icon wd-47121715"><img class="wp-image-286" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-decor.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"b480aaba-661d-40d6-abe7-fa2bec1ca714","blockVersion":"2","displayWidth":"","customWidth":"","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-b480aaba"><!-- wp:wd/title {"blockId":"d2472d0b-2d50-4cf6-9888-359a21dd7aad","blockVersion":"2","content":"Discover more products in the \u003cspan class=\u0022wd-highlight\u0022\u003edecor\u003c/span\u003e category​","tpFontSize":"18","tpFontVariant":"700","tpFontWeight":"700","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","markTextDecorationThickness":"3","markTextUnderlineOffset":"5","colorCode":"rgba(36,36,36,0.8)","displayWidth":""} -->
+<h2 class="wp-block-wd-title title wd-d2472d0b">Discover more products in the <span class="wd-highlight">decor</span> category​</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/paragraph {"blockId":"828a2bcd-e1c8-4cc2-9bb8-f107d0556c90","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"46","tpLineHeight":"1","tpFontVariant":"800","tpFontWeight":"800","animation":"slide-from-bottom","animationDelay":"150","htmlTag":"span","tpFontSizeTablet":"36","tpFontSizeMobile":"28","tpLineHeightMobile":"1.4","tpLineHeightUnits":"em","tpLineHeightUnitsMobile":"em"} -->
+<span class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_150 wd-828a2bcd">Terracotta vase​</span>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"b0925609-7a5f-421e-9eaf-2eb19c7cc5ed","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"46","tpFontVariant":"800","tpFontWeight":"800","marginBottom":"40","animation":"slide-from-bottom","animationDelay":"250","htmlTag":"span","tpFontSizeTablet":"36","tpFontSizeMobile":"28"} -->
+<span class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_250 wd-b0925609">by <img class="wp-image-279" style="width: 50px" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-1-author.png" alt=""> Courtney Henry</span>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"03b50cf8-9240-4a67-910b-def4afe09e93","blockVersion":"2","direction":"row","align":"center","animation":"slide-from-bottom","animationDelay":"350","displayWidth":"","directionTablet":"row","directionMobile":"row"} -->
+<div class="wp-block-wd-container wd-dir-row wd-dir-row-md wd-dir-row-sm wd-align-is-lg-center wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_350 wd-03b50cf8"><!-- wp:wd/button {"blockId":"1059c6d2-1400-4793-b089-1d59a492b748","blockVersion":"2","predefinedColor":"white","shape":"round","animationDelay":""} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-default btn-shape-round wd-1059c6d2" href="#"><span>Shop Now</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/paragraph {"blockId":"c0b1da43-0054-44dc-881b-34189153ea14","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontSize":"34","tpFontVariant":"600","tpFontWeight":"600","animationDelay":"","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<p class="wp-block-wd-paragraph wd-c0b1da43">$182</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container --></div><div class="wd-slide-bg wd-fill"><img src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-1-opt.jpg" class="wp-image-282" alt=""/></div></div>
+<!-- /wp:wd/slider-item -->
+
+<!-- wp:wd/slider-item {"blockId":"35444e04-fa79-4276-aea6-a041108d0063","blockVersion":"2","align":"center","effect":"parallax","aspectRatio":"","image":{"id":283,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-2-opt.jpg","width":1920,"height":640},"bgImage":{"id":"","url":""},"bgColorCode":"#F3F3F3","paddingRight":"80","paddingLeft":"80","imagePositionTablet":"custom","imagePositionMobile":"custom","imageCustomPositionXTablet":"-120","imageCustomPositionXMobile":"-360","imageCustomPositionYTablet":"0","bgPositionTablet":"custom","bgPositionMobile":"custom","bgCustomPositionXTablet":"-120","bgCustomPositionXMobile":"-360","bgCustomPositionYTablet":"0","paddingRightTablet":"30","paddingLeftTablet":"30"} -->
+<div class="wp-block-wd-slider-item wd-slide wd-carousel-item wd-35444e04"><div class="wd-slide-container"><!-- wp:wd/container {"blockId":"77206782-8263-4d68-a4e1-38e491d5f064","blockVersion":"2","rowGap":"0","displayWidth":"custom","customWidth":"1250"} -->
+<div class="wp-block-wd-container wd-dir-col wd-77206782 wd-custom-width"><!-- wp:wd/infobox {"blockId":"8138b758-53c4-486e-829c-285f89c4841f","blockVersion":"2","iconPositionHorizontal":"start","iconPositionVertical":"center","marginBottom":"100","animation":"slide-from-top","animationDelay":"150","displayWidth":"custom","customWidth":"280"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-animation wd-transform wd-animation-slide-from-top wd_delay_150 wd-8138b758 wd-custom-width"><!-- wp:wd/icon {"blockId":"9ca8d78c-8d9d-4214-88f7-f6c6401fa662","blockVersion":"2","image":{"id":285,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-chair.svg"},"width":"74","height":"74","bgColorCode":"rgba(16,16,16,0.1)","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","borderRadius":"50","borderRadiusTop":"50","borderRadiusRight":"50","borderRadiusBottom":"50","borderRadiusLeft":"50","borderRadiusUnits":"%"} -->
+<div class="wp-block-wd-icon wd-9ca8d78c"><img class="wp-image-285" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-chair.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"0aeecd0c-9df2-4db4-872f-b879a60a693c","blockVersion":"2","displayWidth":"","customWidth":"","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-0aeecd0c"><!-- wp:wd/title {"blockId":"5d204f54-4a6a-476f-899b-bd52ac6aee67","blockVersion":"2","content":"Discover more products in the \u003cspan class=\u0022wd-highlight\u0022\u003echair\u003c/span\u003e category​","tpFontSize":"18","tpFontVariant":"700","tpFontWeight":"700","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","markTextDecorationThickness":"3","markTextUnderlineOffset":"5","colorCode":"rgba(36,36,36,0.8)","displayWidth":""} -->
+<h2 class="wp-block-wd-title title wd-5d204f54">Discover more products in the <span class="wd-highlight">chair</span> category​</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/paragraph {"blockId":"b8726fc8-71ac-49f2-a8b0-de57676d0858","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"46","tpLineHeight":"1","tpFontVariant":"800","tpFontWeight":"800","animation":"slide-from-bottom","animationDelay":"150","htmlTag":"span","tpFontSizeTablet":"36","tpFontSizeMobile":"28","tpLineHeightMobile":"1.4","tpLineHeightUnits":"em","tpLineHeightUnitsMobile":"em"} -->
+<span class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_150 wd-b8726fc8">Upholstered chair</span>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"bc2f5a2d-8a6b-4a05-a5e4-ffff3c731ba1","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"46","tpFontVariant":"800","tpFontWeight":"800","marginBottom":"40","animation":"slide-from-bottom","animationDelay":"250","htmlTag":"span","tpFontSizeTablet":"36","tpFontSizeMobile":"28"} -->
+<span class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_250 wd-bc2f5a2d">by <img class="wp-image-280" style="width: 50px" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-2-author.png" alt=""> Esther Howard</span>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"5b711a7f-3b7a-42bf-bfa7-660ad7553d66","blockVersion":"2","direction":"row","align":"center","animation":"slide-from-bottom","animationDelay":"350","displayWidth":"","directionTablet":"row","directionMobile":"row"} -->
+<div class="wp-block-wd-container wd-dir-row wd-dir-row-md wd-dir-row-sm wd-align-is-lg-center wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_350 wd-5b711a7f"><!-- wp:wd/button {"blockId":"b12c4162-5ba0-4cb3-bf04-e86d3824f78d","blockVersion":"2","predefinedColor":"white","shape":"round","animationDelay":""} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-default btn-shape-round wd-b12c4162" href="#"><span>Shop Now</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/paragraph {"blockId":"a629720c-4d0b-4126-8f75-d81618d99370","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontSize":"34","tpFontVariant":"600","tpFontWeight":"600","animationDelay":"","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<p class="wp-block-wd-paragraph wd-a629720c">$468</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container --></div><div class="wd-slide-bg wd-fill"><img src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-2-opt.jpg" class="wp-image-283" alt=""/></div></div>
+<!-- /wp:wd/slider-item -->
+
+<!-- wp:wd/slider-item {"blockId":"a49dbf81-3c8a-4fd4-83e8-b598b3a9aef2","blockVersion":"2","align":"center","effect":"parallax","aspectRatio":"","image":{"id":284,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-3-opt.jpg","width":1920,"height":640},"bgImage":{"id":"","url":""},"bgColorCode":"#F3F3F3","paddingRight":"80","paddingLeft":"80","imagePositionTablet":"custom","imagePositionMobile":"custom","imageCustomPositionXTablet":"-120","imageCustomPositionXMobile":"-360","imageCustomPositionYTablet":"0","bgPositionTablet":"custom","bgPositionMobile":"custom","bgCustomPositionXTablet":"-120","bgCustomPositionXMobile":"-360","bgCustomPositionYTablet":"0","paddingRightTablet":"30","paddingLeftTablet":"30"} -->
+<div class="wp-block-wd-slider-item wd-slide wd-carousel-item wd-a49dbf81"><div class="wd-slide-container"><!-- wp:wd/container {"blockId":"64e0472c-1e53-4789-bcc2-3b50bed2ac3c","blockVersion":"2","rowGap":"0","displayWidth":"custom","customWidth":"1250"} -->
+<div class="wp-block-wd-container wd-dir-col wd-64e0472c wd-custom-width"><!-- wp:wd/infobox {"blockId":"b6cf9f60-f726-47ee-a144-4456b867bce4","blockVersion":"2","iconPositionHorizontal":"start","iconPositionVertical":"center","marginBottom":"100","animation":"slide-from-top","animationDelay":"150","displayWidth":"custom","customWidth":"280"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-animation wd-transform wd-animation-slide-from-top wd_delay_150 wd-b6cf9f60 wd-custom-width"><!-- wp:wd/icon {"blockId":"974bd0de-3d6b-4daf-bbab-cc6eecc57181","blockVersion":"2","image":{"id":287,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-sofas.svg"},"width":"74","height":"74","bgColorCode":"rgba(16,16,16,0.1)","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","borderRadius":"50","borderRadiusTop":"50","borderRadiusRight":"50","borderRadiusBottom":"50","borderRadiusLeft":"50","borderRadiusUnits":"%"} -->
+<div class="wp-block-wd-icon wd-974bd0de"><img class="wp-image-287" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-sofas.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"816abea2-ca1c-435b-9f3c-da151a617f60","blockVersion":"2","displayWidth":"","customWidth":"","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-816abea2"><!-- wp:wd/title {"blockId":"a2b17da0-2853-4291-9a8e-46523b40067e","blockVersion":"2","content":"Discover more products in the \u003cspan class=\u0022wd-highlight\u0022\u003esofas\u003c/span\u003e category​","tpFontSize":"18","tpFontVariant":"700","tpFontWeight":"700","markTextDecoration":"underline","markTextDecorationColorVariable":"\u002d\u002dwd-primary-color","markTextDecorationThickness":"3","markTextUnderlineOffset":"5","colorCode":"rgba(36,36,36,0.8)","displayWidth":"custom","customWidth":""} -->
+<h2 class="wp-block-wd-title title wd-a2b17da0 wd-custom-width">Discover more products in the <span class="wd-highlight">sofas</span> category​</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/paragraph {"blockId":"0ba41c8e-6870-4904-87e2-d5861b21e3a4","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"46","tpLineHeight":"1","tpFontVariant":"800","tpFontWeight":"800","animation":"slide-from-bottom","animationDelay":"150","htmlTag":"span","tpFontSizeTablet":"36","tpFontSizeMobile":"28","tpLineHeightMobile":"1.4","tpLineHeightUnits":"em","tpLineHeightUnitsMobile":"em"} -->
+<span class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_150 wd-0ba41c8e">Sectional fabric sofa</span>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"b3deba06-0663-46d6-b0a0-45e9850b0440","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"46","tpFontVariant":"800","tpFontWeight":"800","marginBottom":"40","animation":"slide-from-bottom","animationDelay":"250","htmlTag":"span","tpFontSizeTablet":"36","tpFontSizeMobile":"28"} -->
+<span class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_250 wd-b3deba06">by <img class="wp-image-281" style="width: 50px" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-3-author.png" alt=""> Ramón Esteve</span>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"44d2bcbc-c359-4ed2-945c-f5318e722fbe","blockVersion":"2","direction":"row","align":"center","animation":"slide-from-bottom","animationDelay":"350","displayWidth":"","directionTablet":"row","directionMobile":"row"} -->
+<div class="wp-block-wd-container wd-dir-row wd-dir-row-md wd-dir-row-sm wd-align-is-lg-center wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_350 wd-44d2bcbc"><!-- wp:wd/button {"blockId":"f11e4e33-1fd2-41c6-8f22-2c03e207b648","blockVersion":"2","predefinedColor":"white","shape":"round","animationDelay":""} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-default btn-shape-round wd-f11e4e33" href="#"><span>Shop Now</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/paragraph {"blockId":"ae86f499-07ea-4efb-bcf9-4ca0eff44ac2","blockVersion":"2","colorCode":"rgba(36,36,36,0.8)","tpFontSize":"34","tpFontVariant":"600","tpFontWeight":"600","animationDelay":"","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<p class="wp-block-wd-paragraph wd-ae86f499">$3620</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container --></div><div class="wd-slide-bg wd-fill"><img src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-3-opt.jpg" class="wp-image-284" alt=""/></div></div>
+<!-- /wp:wd/slider-item --></div></div><div class="wd-nav-arrows wd-slider-arrows wd-custom-style wd-pos-sep wd-hide-md-sm wd-hide-sm wd-style-3 color-scheme-dark"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div><div class="wd-nav-pagin-wrap wd-slider-pagin wd-custom-style wd-style-shape-3 color-scheme-dark"><ul class="wd-nav-pagin"></ul></div></div>
+<!-- /wp:wd/slider -->
+
+<!-- wp:wd/title {"blockId":"038ee3dc-a679-4689-909a-99555587a6e4","blockVersion":"2","content":"Our categories​","tpFontSize":"32","tpFontVariant":"700","tpFontWeight":"700","marginBottom":"10","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-038ee3dc">Our categories​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"4ca90be8-5de8-451c-87c5-0e656b1cc66f","blockVersion":"2","marginBottom":"30"} -->
+<p class="wp-block-wd-paragraph wd-4ca90be8">Lots of new products and product collections</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/product-categories {"blockId":"5de045a7-872b-480e-8d87-0165768bad8b","blockVersion":"2","number":"10","hide_empty":false,"categories_design":"zoom-out","custom_rounding_size":"","columns":5,"marginBottom":"80","custom_rounding_sizeUnits":"%","columnsTablet":3,"marginBottomTablet":"60"} /-->
+
+<!-- wp:wd/products-tabs {"blockId":"575b600f-735e-4002-ab3d-ca69028a07c0","blockVersion":"2","design":"alt","marginBottom":"80","marginBottomTablet":"60"} -->
+<div class="wp-block-wd-products-tabs wd-tabs wd-products-tabs tabs-design-alt wd-575b600f"><!-- wp:wd/products-tabs-header {"blockId":"a9f5bbf5-4809-47ff-8d4b-f5e4eaa456e6","blockVersion":"2","titleStyle":"underline","title":"Weekly bestsellers​","design":"alt","titlesTpTextTransform":"none","titleTpFontSize":"32","titleTpTextTransform":"none","titleTpFontVariant":"700","titleTpFontWeight":"700","titleTpFontSizeTablet":"26","titleTpFontSizeMobile":"22"} -->
+<div class="wp-block-wd-products-tabs-header wd-tabs-header wd-a9f5bbf5"><div class="tabs-name title">Weekly bestsellers​</div><div class="wd-nav-wrapper wd-nav-tabs-wrapper wd-mb-action-swipe"><ul class="wd-nav wd-nav-tabs products-tabs-title wd-icon-pos-start wd-style-underline"><!-- wp:wd/products-tabs-tab {"blockId":"49e7c926-2915-4239-bb01-ca0fb1ae63f2","blockVersion":"2","title":"All","columns":5,"items_per_page":"10","product_hover":"inherit","custom_rounding_size":"","products_with_background":true,"productsBackgroundCode":"#ffffff","columnsTablet":3} -->
+<li class="wp-block-wd-products-tabs-tab wd-49e7c926" data-atts="{&quot;items_per_page&quot;:&quot;10&quot;,&quot;product_hover&quot;:&quot;inherit&quot;,&quot;columns&quot;:5,&quot;products_with_background&quot;:true,&quot;columns_tablet&quot;:3,&quot;wrapper_classes&quot;:&quot;wd-49e7c926&quot;}"><a href="#" class="wd-nav-link"><span class="tab-label nav-link-text">All</span></a></li>
+<!-- /wp:wd/products-tabs-tab -->
+
+<!-- wp:wd/products-tabs-tab {"blockId":"f9fe6c9b-91af-4835-b0ab-f37dcbcf7ca6","blockVersion":"2","title":"Chairs","order":"DESC","columns":5,"items_per_page":"10","custom_rounding_size":"","products_with_background":true,"productsBackgroundCode":"#ffffff","columnsTablet":3} -->
+<li class="wp-block-wd-products-tabs-tab wd-f9fe6c9b" data-atts="{&quot;items_per_page&quot;:&quot;10&quot;,&quot;columns&quot;:5,&quot;products_with_background&quot;:true,&quot;order&quot;:&quot;DESC&quot;,&quot;columns_tablet&quot;:3,&quot;wrapper_classes&quot;:&quot;wd-f9fe6c9b&quot;}"><a href="#" class="wd-nav-link"><span class="tab-label nav-link-text">Chairs</span></a></li>
+<!-- /wp:wd/products-tabs-tab -->
+
+<!-- wp:wd/products-tabs-tab {"blockId":"5b92a82b-f734-4f4b-bc18-283244829569","blockVersion":"2","title":"Sofas","columns":5,"items_per_page":"10","custom_rounding_size":"","products_with_background":true,"productsBackgroundCode":"#ffffff","columnsTablet":3} -->
+<li class="wp-block-wd-products-tabs-tab wd-5b92a82b" data-atts="{&quot;items_per_page&quot;:&quot;10&quot;,&quot;columns&quot;:5,&quot;products_with_background&quot;:true,&quot;columns_tablet&quot;:3,&quot;wrapper_classes&quot;:&quot;wd-5b92a82b&quot;}"><a href="#" class="wd-nav-link"><span class="tab-label nav-link-text">Sofas</span></a></li>
+<!-- /wp:wd/products-tabs-tab -->
+
+<!-- wp:wd/products-tabs-tab {"blockId":"32c6cbdc-7279-4c44-94b3-d0de80020bb2","blockVersion":"2","title":"Armchairs","order":"DESC","columns":5,"items_per_page":"10","custom_rounding_size":"","products_with_background":true,"productsBackgroundCode":"#ffffff","columnsTablet":3} -->
+<li class="wp-block-wd-products-tabs-tab wd-32c6cbdc" data-atts="{&quot;items_per_page&quot;:&quot;10&quot;,&quot;columns&quot;:5,&quot;products_with_background&quot;:true,&quot;order&quot;:&quot;DESC&quot;,&quot;columns_tablet&quot;:3,&quot;wrapper_classes&quot;:&quot;wd-32c6cbdc&quot;}"><a href="#" class="wd-nav-link"><span class="tab-label nav-link-text">Armchairs</span></a></li>
+<!-- /wp:wd/products-tabs-tab -->
+
+<!-- wp:wd/products-tabs-tab {"blockId":"a9c0be31-6908-4895-876d-7936ef8551fc","blockVersion":"2","title":"Tables","columns":5,"items_per_page":"10","custom_rounding_size":"","products_with_background":true,"productsBackgroundCode":"#fefefe","columnsTablet":3} -->
+<li class="wp-block-wd-products-tabs-tab wd-a9c0be31" data-atts="{&quot;items_per_page&quot;:&quot;10&quot;,&quot;columns&quot;:5,&quot;products_with_background&quot;:true,&quot;columns_tablet&quot;:3,&quot;wrapper_classes&quot;:&quot;wd-a9c0be31&quot;}"><a href="#" class="wd-nav-link"><span class="tab-label nav-link-text">Tables</span></a></li>
+<!-- /wp:wd/products-tabs-tab --></ul></div></div>
+<!-- /wp:wd/products-tabs-header -->
+
+<!-- wp:wd/products-tabs-products {"blockId":"49e7c926-2915-4239-bb01-ca0fb1ae63f2","blockVersion":"2","title":"All","columns":5,"items_per_page":"10","product_hover":"inherit","custom_rounding_size":"","products_with_background":true,"productsBackgroundCode":"#ffffff","columnsTablet":3} /--></div>
+<!-- /wp:wd/products-tabs -->
+
+<!-- wp:wd/title {"blockId":"ff1260a4-d4bc-496e-b0e9-2d541dbe5f7f","blockVersion":"2","content":"Shopping by brands​","tpFontSize":"32","tpFontVariant":"700","tpFontWeight":"700","marginBottom":"10","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-ff1260a4">Shopping by brands​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"578af1a2-a8a1-4282-86ca-28ef46e23d0d","blockVersion":"2","marginBottom":"30","marginBottomMobile":"20"} -->
+<p class="wp-block-wd-paragraph wd-578af1a2">Discover lots products from popular brands</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/carousel {"blockId":"5f652510-f735-4b43-9f13-ca26ffa76748","blockVersion":"2","slidesPerView":5,"paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"syncParentId":"wd_5f652510","marginBottom":"100","slidesPerViewTablet":"2","slidesPerViewMobile":"1","marginBottomTablet":"60"} -->
+<div class="wp-block-wd-carousel wd-carousel-container wd-5f652510"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:5;--wd-col-md:2;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/carousel-item {"blockId":"efda43d6-bee6-4b18-805b-338a0f64dd48","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-efda43d6"><!-- wp:wd/cover {"blockId":"0b056a8b-d958-43d7-83ee-bc42aa008b1a","blockVersion":"2","colorScheme":"light","aspectRatio":"16/9","height":"380","bgImage":{"id":368,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-elitis.jpg"},"overlayColorCode":"rgba(0,0,0,0)","overlayHoverColorCode":"#000000","overlay":true,"overlayOpacity":0,"overlayHoverOpacity":0.16,"overlayTransition":0.3} -->
+<div class="wp-block-wd-cover wd-hover-parent color-scheme-light wd-0b056a8b wd-bg-parent"><div class="wd-bg-overlay"></div><div class="wd-block-cover-img"></div><a class="wd-block-cover-link wd-fill" href="#" aria-label="Cover link"></a><!-- wp:wd/container {"blockId":"bc9e73f8-b189-44c9-aacf-04fea1b143f3","blockVersion":"2","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-bc9e73f8"><!-- wp:wd/infobox {"blockId":"2e75be3c-1d4e-43d5-be8c-04452ffc9502","blockVersion":"2","gap":10,"iconPositionHorizontal":"start","bgImage":{"id":"","url":""},"bgPosition":"center center","bgDisplaySize":"cover","paddingLock":true,"overlayHoverColorCode":"rgba(0,0,0,0.16)","overlay":false,"overlayTransition":0.3} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-2e75be3c"><a class="wd-block-infobox-link wd-fill" href="#" aria-label="Infobox link"></a><!-- wp:wd/icon {"blockId":"59036587-c1b2-452f-85e1-b17bdc60036c","blockVersion":"2","image":{"id":359,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png"},"width":"64","height":"64"} -->
+<div class="wp-block-wd-icon wd-59036587"><img class="wp-image-359" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"3824970c-d076-428a-b6d4-3f3177f58682","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-3824970c"><!-- wp:wd/title {"blockId":"d12952e7-cfff-4e72-b195-f09a461e7e94","blockVersion":"2","content":"Elitis","tpFontSize":"22","tpFontVariant":"700","tpFontWeight":"700"} -->
+<h2 class="wp-block-wd-title title wd-d12952e7">Elitis</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"3a8205a6-9026-414b-b025-08f2d2f54f57","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-3a8205a6">Talosa / France</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"c116a0dc-ffd8-4b9d-8dfd-5014b26587b2","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-c116a0dc"><!-- wp:wd/cover {"blockId":"f530d5f3-148d-4a61-8893-61490d907a0c","blockVersion":"2","colorScheme":"light","aspectRatio":"16/9","height":"380","bgImage":{"id":369,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-hay.jpg"},"overlayColorCode":"rgba(0,0,0,0)","overlayHoverColorCode":"#000000","overlay":true,"overlayOpacity":0,"overlayHoverOpacity":0.16,"overlayTransition":0.3} -->
+<div class="wp-block-wd-cover wd-hover-parent color-scheme-light wd-f530d5f3 wd-bg-parent"><div class="wd-bg-overlay"></div><div class="wd-block-cover-img"></div><a class="wd-block-cover-link wd-fill" href="#" aria-label="Cover link"></a><!-- wp:wd/container {"blockId":"f3d8de70-6f08-4d9e-ac1b-ce134652dcc7","blockVersion":"2","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-f3d8de70"><!-- wp:wd/infobox {"blockId":"8cdabf42-0c7a-4efc-a118-714249253590","blockVersion":"2","gap":10,"iconPositionHorizontal":"start","bgImage":{"id":"","url":""},"bgPosition":"center center","bgDisplaySize":"cover","paddingLock":true,"overlayHoverColorCode":"rgba(0,0,0,0.16)","overlay":false,"overlayTransition":0.3} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-8cdabf42"><a class="wd-block-infobox-link wd-fill" href="#" aria-label="Infobox link"></a><!-- wp:wd/icon {"blockId":"1de81603-4eaa-4031-9f78-1c7826654119","blockVersion":"2","image":{"id":361,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png"},"width":"64","height":"64"} -->
+<div class="wp-block-wd-icon wd-1de81603"><img class="wp-image-361" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"14a20bd1-f018-44ce-b06d-a49c74e18770","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-14a20bd1"><!-- wp:wd/title {"blockId":"99e260fe-0b36-485f-8781-0b62e13b26cf","blockVersion":"2","content":"Hay","tpFontSize":"22","tpFontVariant":"700","tpFontWeight":"700"} -->
+<h2 class="wp-block-wd-title title wd-99e260fe">Hay</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"0eb2655e-6c40-4dd8-9c9f-a4c980eb3d06","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-0eb2655e">Barcelona / Spain</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"532dc9b0-a7e2-4d2a-a1b2-76fb64134469","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-532dc9b0"><!-- wp:wd/cover {"blockId":"f059ef5f-5c74-433c-9db2-f378c593bc7f","blockVersion":"2","colorScheme":"light","aspectRatio":"16/9","height":"380","bgImage":{"id":370,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-kettal.jpg"},"overlayColorCode":"rgba(0,0,0,0)","overlayHoverColorCode":"#000000","overlay":true,"overlayOpacity":0,"overlayHoverOpacity":0.16,"overlayTransition":0.3} -->
+<div class="wp-block-wd-cover wd-hover-parent color-scheme-light wd-f059ef5f wd-bg-parent"><div class="wd-bg-overlay"></div><div class="wd-block-cover-img"></div><a class="wd-block-cover-link wd-fill" href="#" aria-label="Cover link"></a><!-- wp:wd/container {"blockId":"a166598e-2b95-4b46-bb8d-f7b9bddf0d7f","blockVersion":"2","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-a166598e"><!-- wp:wd/infobox {"blockId":"f694b4c6-ac68-4ef7-b1e9-32f669567dec","blockVersion":"2","gap":10,"iconPositionHorizontal":"start","bgImage":{"id":"","url":""},"bgPosition":"center center","bgDisplaySize":"cover","paddingLock":true,"overlayHoverColorCode":"rgba(0,0,0,0.16)","overlay":false,"overlayTransition":0.3} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-f694b4c6"><a class="wd-block-infobox-link wd-fill" href="#" aria-label="Infobox link"></a><!-- wp:wd/icon {"blockId":"90d69d5c-9207-43a3-a27d-131e6f22a80c","blockVersion":"2","image":{"id":362,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png"},"width":"64","height":"64"} -->
+<div class="wp-block-wd-icon wd-90d69d5c"><img class="wp-image-362" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"57855781-2694-4a18-afe8-21164fc561cf","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-57855781"><!-- wp:wd/title {"blockId":"fe8081ae-52fb-4564-b42e-6ccf57e78680","blockVersion":"2","content":"Kettal","tpFontSize":"22","tpFontVariant":"700","tpFontWeight":"700"} -->
+<h2 class="wp-block-wd-title title wd-fe8081ae">Kettal</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"83444a2f-b918-4f47-9c61-6cac5a21d004","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-83444a2f">Barcelona / Spain</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"1b15937e-193b-4139-8f32-370d50cfe4a8","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-1b15937e"><!-- wp:wd/cover {"blockId":"761cd6fe-58ce-4e12-ae8f-5ca493bce100","blockVersion":"2","colorScheme":"light","aspectRatio":"16/9","height":"380","bgImage":{"id":371,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-lladro.jpg"},"overlayColorCode":"rgba(0,0,0,0)","overlayHoverColorCode":"#000000","overlay":true,"overlayOpacity":0,"overlayHoverOpacity":0.16,"overlayTransition":0.3} -->
+<div class="wp-block-wd-cover wd-hover-parent color-scheme-light wd-761cd6fe wd-bg-parent"><div class="wd-bg-overlay"></div><div class="wd-block-cover-img"></div><a class="wd-block-cover-link wd-fill" href="#" aria-label="Cover link"></a><!-- wp:wd/container {"blockId":"33b6b17a-440e-4278-90b6-3da3f81e8dc5","blockVersion":"2","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-33b6b17a"><!-- wp:wd/infobox {"blockId":"af5a6109-7081-454b-94a2-6015f7ad282e","blockVersion":"2","gap":10,"iconPositionHorizontal":"start","bgImage":{"id":"","url":""},"bgPosition":"center center","bgDisplaySize":"cover","paddingLock":true,"overlayHoverColorCode":"rgba(0,0,0,0.16)","overlay":false,"overlayTransition":0.3} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-af5a6109"><a class="wd-block-infobox-link wd-fill" href="#" aria-label="Infobox link"></a><!-- wp:wd/icon {"blockId":"afe5014d-7736-465c-97eb-dc69bced73c0","blockVersion":"2","image":{"id":363,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png"},"width":"64","height":"64"} -->
+<div class="wp-block-wd-icon wd-afe5014d"><img class="wp-image-363" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"0ef293dd-bf7f-468b-9cc4-00746715b0bb","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-0ef293dd"><!-- wp:wd/title {"blockId":"2a3785ea-9bc3-4788-afba-d472d33921c7","blockVersion":"2","content":"Llardo","tpFontSize":"22","tpFontVariant":"700","tpFontWeight":"700"} -->
+<h2 class="wp-block-wd-title title wd-2a3785ea">Llardo</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"3d062605-2d78-4cdd-a992-92dd73af23ca","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-3d062605">Valencia / Spain</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"a57dca37-bde0-484f-8717-dd931809a45d","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-a57dca37"><!-- wp:wd/cover {"blockId":"f366bddd-6137-4a69-b6a9-75cf97475749","blockVersion":"2","colorScheme":"light","aspectRatio":"16/9","height":"380","bgImage":{"id":372,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-poliform.jpg"},"overlayColorCode":"rgba(0,0,0,0)","overlayHoverColorCode":"#000000","overlay":true,"overlayOpacity":0,"overlayHoverOpacity":0.16,"overlayTransition":0.3} -->
+<div class="wp-block-wd-cover wd-hover-parent color-scheme-light wd-f366bddd wd-bg-parent"><div class="wd-bg-overlay"></div><div class="wd-block-cover-img"></div><a class="wd-block-cover-link wd-fill" href="#" aria-label="Cover link"></a><!-- wp:wd/container {"blockId":"c3c1503d-00e2-47be-be3e-5a919a5376b7","blockVersion":"2","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-c3c1503d"><!-- wp:wd/infobox {"blockId":"7e047aac-95b3-48be-8a1c-10cb0018d054","blockVersion":"2","gap":10,"iconPositionHorizontal":"start","bgImage":{"id":"","url":""},"bgPosition":"center center","bgDisplaySize":"cover","paddingLock":true,"overlayHoverColorCode":"rgba(0,0,0,0.16)","overlay":false,"overlayTransition":0.3} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-7e047aac"><a class="wd-block-infobox-link wd-fill" href="#" aria-label="Infobox link"></a><!-- wp:wd/icon {"blockId":"173e4c52-8eeb-4535-8c32-b5f58dccb287","blockVersion":"2","image":{"id":365,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png"},"width":"64","height":"64"} -->
+<div class="wp-block-wd-icon wd-173e4c52"><img class="wp-image-365" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"b6f7d446-ec8f-45a8-a4bb-e2ea19a874c6","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-b6f7d446"><!-- wp:wd/title {"blockId":"b23845f1-0d35-4061-979f-37d7be9edce4","blockVersion":"2","content":"Poliform","tpFontSize":"22","tpFontVariant":"700","tpFontWeight":"700"} -->
+<h2 class="wp-block-wd-title title wd-b23845f1">Poliform</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"55647342-f921-40fa-a9b6-f822c94eabe8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-55647342">Como / Italy</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/carousel-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/carousel -->
+
+<!-- wp:wd/title {"blockId":"03b7fc26-be5f-495d-a58e-da2ff627f56d","blockVersion":"2","textAlign":"center","content":"Product collections","tpFontSize":"32","tpFontVariant":"700","tpFontWeight":"700","marginBottom":"10","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-align wd-03b7fc26">Product collections</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"58751c62-42e9-48a5-a3ec-53f4c9b97372","blockVersion":"2","textAlign":"center","marginBottom":"30"} -->
+<p class="wp-block-wd-paragraph wd-align wd-58751c62">Explore product collections from our vendors</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/section {"blockId":"055084ac-dba6-46f7-8011-971fe7b41e2e","blockVersion":"2","marginBottom":"100","paddingRightTablet":"15","paddingLeftTablet":"15","marginBottomTablet":"60"} -->
+<div class="wp-block-wd-section wd-055084ac"><!-- wp:wd/row {"blockId":"d65cfdf0-4094-43cd-a13a-2d8dc4c9f2e3","blockVersion":"2","columnsGap":20,"displayWidth":"full-width"} -->
+<div class="wp-block-wd-row wd-d65cfdf0 wd-custom-width"><!-- wp:wd/column {"blockId":"4510a715-4d1a-4576-a98d-d2c49af5aaf5","blockVersion":"2","adjacentCount":5,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-4510a715"><!-- wp:wd/hotspots {"blockId":"191cadc5-3fb6-40ca-b5d4-813a01eec8b0","blockVersion":"2","image":{"id":402,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-1-opt.jpg"},"iconEffect":"pulse","iconShow":"hover","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-hover wd-191cadc5"><img class="wp-image-402" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-1-opt.jpg" alt=""/><!-- wp:wd/hotspot {"blockId":"c72c7121-e128-4f03-97a2-327b1c7ccd54","blockVersion":"2","positionX":27,"positionY":78,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-c72c7121"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"27e9c745-8971-4c58-8cc2-d4c926deb2b2","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"b8b26469-8bcf-47d1-8906-ab46f75c22e1","blockVersion":"2","positionX":65,"positionY":34,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-b8b26469"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"0a9e0514-f936-4cdd-9fd1-7944042f9eeb","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"f67b7a02-d1e6-461d-9777-a223fed0277a","blockVersion":"2","positionX":85,"positionY":89,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-f67b7a02"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"cb18fa17-2995-48da-9139-6b111373ce67","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots -->
+
+<!-- wp:wd/hotspots {"blockId":"d87c2f2d-d689-4693-bb13-615171f288fe","blockVersion":"2","image":{"id":407,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-6-opt.jpg"},"iconEffect":"pulse","iconShow":"hover","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-hover wd-d87c2f2d"><img class="wp-image-407" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-6-opt.jpg" alt=""/><!-- wp:wd/hotspot {"blockId":"102f0729-9721-438a-bf2b-39f38b66f79d","blockVersion":"2","positionX":30,"positionY":63,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-102f0729"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"5b21c8b0-1858-47b5-8849-296b51f95c8e","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"0f1cfedf-8ddb-4920-9b01-be09a4b81e78","blockVersion":"2","positionX":64,"positionY":51,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-0f1cfedf"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"18b2e6c4-095a-42a9-afd0-e1a731b7ba0d","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"62d1163e-4068-455a-8556-5e5e17908b19","blockVersion":"2","positionX":85,"positionY":89,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-62d1163e"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"b0f355b6-08c1-41da-955d-c176f9e2d9b5","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"a368e2e1-16db-4206-a212-433af6c17d12","blockVersion":"2","adjacentCount":5,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-a368e2e1"><!-- wp:wd/hotspots {"blockId":"eca43992-672e-4b1f-9ee8-a253d5e74f9d","blockVersion":"2","image":{"id":403,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-2-opt.jpg"},"iconEffect":"pulse","iconShow":"hover","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-hover wd-eca43992"><img class="wp-image-403" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-2-opt.jpg" alt=""/><!-- wp:wd/hotspot {"blockId":"177787a7-49cb-4c9b-b1f7-091959d31caa","blockVersion":"2","positionX":32,"positionY":63,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-177787a7"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"b7484403-9ac9-481c-856b-08a2029680db","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"de2e624a-6e31-489a-a811-e0d332210432","blockVersion":"2","positionX":83,"positionY":46,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-de2e624a"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"c65ffbf8-a5eb-427f-be6a-c3d60bf0adc9","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"01815125-5617-46ed-aa93-74691ca32a9e","blockVersion":"2","positionX":67,"positionY":69,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-01815125"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"68195799-af22-4c87-a771-b018f9286c1b","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots -->
+
+<!-- wp:wd/cover {"blockId":"7c16f1b9-55fe-498b-88b4-122df440fcbb","blockVersion":"2","height":"","bgImage":{"id":415,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-futniture-banner-bg-2-1.jpg"}} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-7c16f1b9"><div class="wd-block-cover-img"></div><!-- wp:wd/container {"blockId":"9a59d540-a1e8-4729-85d3-eb1e1b46bb7e","blockVersion":"2","justify":"center","minHeight":"126","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-9a59d540"><!-- wp:wd/title {"blockId":"747269ac-952b-4049-a259-4a315ca6777a","blockVersion":"2","content":"GLADØM","tpFontSize":"36","tpFontVariant":"400","tpFontWeight":"400","tpFontSizeTablet":"20","tpFontSizeMobile":"18"} -->
+<h2 class="wp-block-wd-title title wd-747269ac">GLADØM</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"87e40f64-f6a0-4765-853b-4aa5ed96380e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-87e40f64">The new common language will be more simple and regular than the existing languages</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"b23303d6-95db-46d7-a8ed-40571e483691","blockVersion":"2","adjacentCount":5,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-b23303d6"><!-- wp:wd/hotspots {"blockId":"592d0960-dfc6-4410-8e39-dda458e0449e","blockVersion":"2","source":"video","image":{"id":402,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-1-opt.jpg"},"video":{"id":411,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-video.mp4"},"iconEffect":"pulse","iconShow":"hover","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-hover wd-592d0960"><video src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-video.mp4" autoplay loop muted playsinline></video><!-- wp:wd/hotspot {"blockId":"133ccfe7-3279-4321-8d84-958cb9330e64","blockVersion":"2","positionX":18,"positionY":55,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-133ccfe7"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"5f6d9b29-2dd9-4116-8676-4d85729b8340","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"33e17c61-846f-41cc-8b9f-c97f3f4fe9d5","blockVersion":"2","positionX":32,"positionY":69,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-33e17c61"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"c5f482f5-1d13-4122-855d-2eaa04f43417","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"9c88e111-2ca3-4d17-9e29-9907e0d08e4e","blockVersion":"2","positionX":80,"positionY":53,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-9c88e111"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"ce45a312-1a58-4436-bcce-97645e51ac04","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots -->
+
+<!-- wp:wd/hotspots {"blockId":"8b901d38-d2bc-4603-8982-4787cc49adc6","blockVersion":"2","image":{"id":408,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-7-opt.jpg"},"iconEffect":"pulse","iconShow":"hover","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-hover wd-8b901d38"><img class="wp-image-408" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-7-opt.jpg" alt=""/><!-- wp:wd/hotspot {"blockId":"be89bcaf-98d3-427c-8f32-6d7021c20c87","blockVersion":"2","positionX":22,"positionY":24,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-be89bcaf"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"fe64bde1-d6d6-48ca-9f1a-2cecec22ec9c","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"034a1c69-9c09-4553-854a-9d7520f9c487","blockVersion":"2","positionX":71,"positionY":58,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-034a1c69"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"c5fef89e-b374-42e3-9bdf-7ceab20630ea","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"3d150a29-0a4f-413f-820b-11526db4a39c","blockVersion":"2","positionX":41,"positionY":71,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-3d150a29"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"a74fd84e-643d-4598-a607-ac373383d4ff","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"e72bc62c-e66f-4a72-977d-e510ce704298","blockVersion":"2","adjacentCount":5,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-e72bc62c"><!-- wp:wd/cover {"blockId":"4720774d-0138-4cdb-b5ce-bd317dd69d32","blockVersion":"2","aspectRatio":"asImage","imageAspectRatio":"","height":"","bgImage":{"id":414,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-futniture-banner-bg-1-1.jpg"}} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-4720774d"><div class="wd-block-cover-img"></div><!-- wp:wd/container {"blockId":"58ffd4f8-4916-4fc3-9ada-4744fe313861","blockVersion":"2","justify":"center","minHeight":"126","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-58ffd4f8"><!-- wp:wd/title {"blockId":"d7fb2692-19db-48fd-b74a-c20d3ce4584e","blockVersion":"2","content":"HÄLLAN","tpFontSize":"36","tpFontVariant":"400","tpFontWeight":"400","tpFontSizeTablet":"20","tpFontSizeMobile":"18"} -->
+<h2 class="wp-block-wd-title title wd-d7fb2692">HÄLLAN</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"1284e825-b3c3-475a-9083-83933b824a8e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-1284e825">The new common language will be more simple and regular than the existing languages</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/hotspots {"blockId":"c60860d9-2fd5-446e-a99a-bc6ba318cf5f","blockVersion":"2","image":{"id":405,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-4-opt.jpg"},"iconEffect":"pulse","iconShow":"hover","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-hover wd-c60860d9"><img class="wp-image-405" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-4-opt.jpg" alt=""/><!-- wp:wd/hotspot {"blockId":"eb486309-53f4-436e-ab9e-51f97daf0e2c","blockVersion":"2","positionX":48,"positionY":32,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-eb486309"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"c1524f8d-74ff-45c4-a082-424e76abad34","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"8faab376-7683-493c-85a7-5be09d8db6dc","blockVersion":"2","positionX":49,"positionY":75,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-8faab376"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"4a702028-b39f-4746-bb30-f739371601f4","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"95f9551a-cb70-4c7b-ae34-0c6620afa6ee","blockVersion":"2","positionX":77,"positionY":80,"type":"product"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-95f9551a"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"b2fd40f5-c744-41e3-8b27-962a69e12116","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"1f7ecada-e239-4620-b851-79b9f47216f1","blockVersion":"2","adjacentCount":5,"hideOnTablet":true,"hideOnMobile":true,"adjacentCountTablet":1,"colWidthTablet":20} -->
+<div class="wp-block-wd-column wd-hide-md-sm wd-hide-sm wd-1f7ecada"><!-- wp:wd/hotspots {"blockId":"668f9920-8b55-4ed8-bfc3-bb73476a738f","blockVersion":"2","image":{"id":406,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-5-opt.jpg"},"iconEffect":"pulse","iconShow":"hover","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-hover wd-668f9920"><img class="wp-image-406" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-5-opt.jpg" alt=""/><!-- wp:wd/hotspot {"blockId":"a731b68e-1435-479c-9a0d-2b51237a94a9","blockVersion":"2","positionX":75,"positionY":11,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-a731b68e"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"3ec01083-dc14-4142-bb5d-103bfdadabb5","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"60ae7ed3-3aff-4700-8e9f-28447b796a33","blockVersion":"2","positionX":41,"positionY":78,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-60ae7ed3"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"7ee5324f-bedb-40cd-8e4d-cd5d9c4ab86b","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"83ce1b6c-34fd-4f15-a398-7d19641cbc43","blockVersion":"2","positionX":73,"positionY":79,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-83ce1b6c"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"83cf7497-3f89-4a73-b353-1d0607e3be15","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots -->
+
+<!-- wp:wd/hotspots {"blockId":"7638cc9c-cbf9-4844-8ed9-289f51e7ff1b","blockVersion":"2","image":{"id":409,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-8-opt.jpg"},"iconEffect":"pulse","iconShow":"hover","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-hover wd-7638cc9c"><img class="wp-image-409" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-8-opt.jpg" alt=""/><!-- wp:wd/hotspot {"blockId":"908d0e91-e7d8-4391-8eed-72bdf4cba93b","blockVersion":"2","positionX":83,"positionY":54,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-908d0e91"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"88f14b6e-fb9c-4226-ad90-4ccd936a9cf2","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"f51ad509-8b9e-40c2-b61a-64994419f02d","blockVersion":"2","positionX":34,"positionY":65,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-f51ad509"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"177e4499-19a1-4b3d-ab3c-c36d4bba89a3","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"702e03c9-af5b-4ddf-9dbd-dda0423c6f49","blockVersion":"2","positionX":75,"positionY":86,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-702e03c9"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"511dbcab-e685-4233-afdd-63ab3911c248","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"bc3925b0-9672-4553-aea6-456afaa605a4","blockVersion":"2","marginBottom":"100","marginBottomTablet":"60"} -->
+<div class="wp-block-wd-row wd-bc3925b0"><!-- wp:wd/column {"blockId":"3a1c4af1-f7fa-4340-91b4-7cf01902524e","blockVersion":"2","adjacentCount":2,"colWidth":66.33,"blocksGap":10,"justifyContent":"flex-end","adjacentCountTablet":2,"colWidthTablet":50,"justifyContentTablet":"flex-start"} -->
+<div class="wp-block-wd-column wd-3a1c4af1"><!-- wp:wd/title {"blockId":"1ea360e1-0ff9-40aa-b1f3-64df6328546a","blockVersion":"2","content":"Furniture collection of the week​","tpFontSize":"32","tpFontVariant":"700","tpFontWeight":"700","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-1ea360e1">Furniture collection of the week​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"44eb1449-68fa-407c-8b2d-b9b0176b7f5e","blockVersion":"2","marginBottom":"20"} -->
+<p class="wp-block-wd-paragraph wd-44eb1449">The most popular products from the collection</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/products {"blockId":"5016365c-2d4a-416b-95fc-a5384323182d","blockVersion":"2","layout":"carousel","items_per_page":"4","product_hover":"inherit","custom_rounding_size":"","products_with_background":true,"hide_pagination_control":true,"sync_parent_id":"wd_cc56c877","productsBackgroundCode":"#ffffff","slides_per_viewTablet":"2","slides_per_viewMobile":"2","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c01e5c02-45cb-4272-b039-2f6f32aa4eac","blockVersion":"2","adjacentCount":2,"colWidth":33.33,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div class="wp-block-wd-column wd-c01e5c02"><!-- wp:wd/hotspots {"blockId":"49b7df33-80ff-4e7b-8875-6bff130cbb32","blockVersion":"2","image":{"id":410,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-9.jpg"},"iconEffect":"pulse","iconBgColorCode":"rgba(255,255,255,0.3)"} -->
+<div class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-static wd-49b7df33"><img class="wp-image-410" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-9.jpg" alt=""/><!-- wp:wd/hotspot {"blockId":"b92f6986-563c-49ee-954c-0e8df098f602","blockVersion":"2","positionX":28,"positionY":43,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-b92f6986"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"23c64f53-75f1-407e-9b6d-4b87cbd34cb9","blockVersion":"2","productId":"30"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"868cace9-2469-4db1-8d87-fdadfa5c8900","blockVersion":"2","positionX":19,"positionY":67,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-868cace9"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"d961f004-14d4-4323-a83c-3d6a44bdb191","blockVersion":"2","productId":"111"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"78e89143-fce7-4829-b22c-bc9c496f7699","blockVersion":"2","positionX":62,"positionY":80,"type":"product","position":"left"} -->
+<div class="wp-block-wd-hotspot wd-spot wd-78e89143"><div class="wd-spot-icon wd-role-btn" tabindex="0"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"7a8300df-c9a0-4688-b887-8f805e190d24","blockVersion":"2","productId":"52"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/title {"blockId":"08f9b24c-a1c2-46c0-a9e0-9ab59c1f9a60","blockVersion":"2","content":"Rules for choosing furniture","tpFontSize":"32","tpFontVariant":"700","tpFontWeight":"700","marginBottom":"10","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-08f9b24c">Rules for choosing furniture</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"bddb28c2-ab71-41d8-b67d-c26f9a87bbb2","blockVersion":"2","columnsGap":20,"marginBottom":"100","marginBottomTablet":"60"} -->
+<div class="wp-block-wd-row wd-bddb28c2"><!-- wp:wd/column {"blockId":"48862538-7436-450e-9a27-b52453e0485c","blockVersion":"2","adjacentCount":2,"colWidth":42,"adjacentCountTablet":2,"colWidthTablet":41} -->
+<div class="wp-block-wd-column wd-48862538"><!-- wp:wd/image {"blockId":"3837b6a4-3ec6-4266-b79b-6080b6f0200e","blockVersion":"2","image":{"id":498,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-img-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-img-opt.png","width":580,"height":620}} -->
+<div class="wp-block-wd-image wd-block-image wd-3837b6a4"><img class="wp-image-498" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-img-opt.png" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"db86a769-625c-4099-83fe-954812537e36","blockVersion":"2","adjacentCount":2,"colWidth":58,"adjacentCountTablet":2,"colWidthTablet":59} -->
+<div class="wp-block-wd-column wd-db86a769"><!-- wp:wd/title {"blockId":"99c9766e-d48a-48a7-9e67-25dba2476479","blockVersion":"2","content":"Whether living on your own or with a family, your living room is an important space.","tpFontSize":"18"} -->
+<h2 class="wp-block-wd-title title wd-99c9766e">Whether living on your own or with a family, your living room is an important space.</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"dc7e96cf-b39c-4b93-b6cd-e70360433687","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-dc7e96cf">This room is where your family spends time together, and it is the room most of your guests will spend the majority of their time in. Choosing furniture that creates a pleasant, welcoming appearance while holding up against the wear and tear of everyday life is the key in getting this space to work for your needs.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/list {"blockId":"f2341d2a-a9a2-4e0d-a07f-28d3b9023ee0","blockVersion":"2","iconType":"svg","svg":"\u003csvg class=\u0022wd-svg-icon\u0022 xmlns=\u0022http://www.w3.org/2000/svg\u0022 width=\u00226\u0022 height=\u00226\u0022 viewBox=\u00220 0 6 6\u0022 fill=\u0022none\u0022\u003e\u003crect width=\u00226\u0022 height=\u00226\u0022 rx=\u00223\u0022 fill=\u0022#F59A57\u0022\u003e\u003c/rect\u003e\u003c/svg\u003e","marginBottom":"10","marginLeft":"10"} -->
+<ul class="wp-block-wd-list wd-list wd-type-svg wd-f2341d2a"><!-- wp:wd/list-item {"blockId":"b268ccf6-8662-41f2-b16b-9e5849c01f03","blockVersion":"2","iconType":"svg","svg":"\u003csvg class=\u0022wd-svg-icon\u0022 xmlns=\u0022http://www.w3.org/2000/svg\u0022 width=\u00226\u0022 height=\u00226\u0022 viewBox=\u00220 0 6 6\u0022 fill=\u0022none\u0022\u003e\u003crect width=\u00226\u0022 height=\u00226\u0022 rx=\u00223\u0022 fill=\u0022#F59A57\u0022\u003e\u003c/rect\u003e\u003c/svg\u003e","image":""} -->
+<li class="wp-block-wd-list-item wd-b268ccf6"><div class="wd-icon"><svg class="wd-svg-icon" xmlns="http://www.w3.org/2000/svg" width="6" height="6" viewBox="0 0 6 6" fill="none" aria-hidden="true"><rect width="6" height="6" rx="3" fill="#F59A57"></rect></svg></div><span class="wd-list-content">Choose items in a single color scheme and style</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"2c360477-46c2-4bdd-8297-afa7e6012efe","blockVersion":"2","iconType":"svg","svg":"\u003csvg class=\u0022wd-svg-icon\u0022 xmlns=\u0022http://www.w3.org/2000/svg\u0022 width=\u00226\u0022 height=\u00226\u0022 viewBox=\u00220 0 6 6\u0022 fill=\u0022none\u0022\u003e\u003crect width=\u00226\u0022 height=\u00226\u0022 rx=\u00223\u0022 fill=\u0022#F59A57\u0022\u003e\u003c/rect\u003e\u003c/svg\u003e","image":""} -->
+<li class="wp-block-wd-list-item wd-2c360477"><div class="wd-icon"><svg class="wd-svg-icon" xmlns="http://www.w3.org/2000/svg" width="6" height="6" viewBox="0 0 6 6" fill="none" aria-hidden="true"><rect width="6" height="6" rx="3" fill="#F59A57"></rect></svg></div><span class="wd-list-content">Consider the area of the room</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"e9597384-bb5f-4b5d-84fc-e5f29e349c3c","blockVersion":"2","iconType":"svg","svg":"\u003csvg class=\u0022wd-svg-icon\u0022 xmlns=\u0022http://www.w3.org/2000/svg\u0022 width=\u00226\u0022 height=\u00226\u0022 viewBox=\u00220 0 6 6\u0022 fill=\u0022none\u0022\u003e\u003crect width=\u00226\u0022 height=\u00226\u0022 rx=\u00223\u0022 fill=\u0022#F59A57\u0022\u003e\u003c/rect\u003e\u003c/svg\u003e","image":""} -->
+<li class="wp-block-wd-list-item wd-e9597384"><div class="wd-icon"><svg class="wd-svg-icon" xmlns="http://www.w3.org/2000/svg" width="6" height="6" viewBox="0 0 6 6" fill="none" aria-hidden="true"><rect width="6" height="6" rx="3" fill="#F59A57"></rect></svg></div><span class="wd-list-content">Do not buy unnecessary pieces of furniture</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/container {"blockId":"bff4d9e9-bb2f-4303-bbe9-61a3d9aceac1","blockVersion":"2","textAlign":"center","rowGap":"10","colorScheme":"light","bgImage":{"id":501,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-video-opt.jpg"},"bgPosition":"center center","bgRepeat":"no-repeat","bgDisplaySize":"cover","paddingTop":"90","paddingRight":"15","paddingBottom":"90","paddingLeft":"15","borderRadius":"200","borderRadiusTop":"200","borderRadiusRight":"200","borderRadiusBottom":"200","borderRadiusLeft":"200"} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-align wd-bff4d9e9"><!-- wp:wd/paragraph {"blockId":"c454a1b4-18a1-4101-8af1-1b1087018b7d","blockVersion":"2","tpFontSize":"18"} -->
+<p class="wp-block-wd-paragraph wd-c454a1b4">How choose furniture​</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"b0f80609-37ab-4ba8-b2c0-6abe57d8a348","blockVersion":"2","content":"SØLREM furniture collection​","tpFontSize":"36","marginBottom":"20","tpFontSizeTablet":"22"} -->
+<h2 class="wp-block-wd-title title wd-b0f80609">SØLREM furniture collection​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/video {"blockId":"71999745-f92f-4816-9627-6da227adbd79","blockVersion":"3","videoType":"external","externalUrl":"https://www.youtube.com/watch?v=LXb3EKWsInQ","videoActionButton":"play","playBtnIconSize":"80","playBtnIconColorCode":"rgba(255,255,255,0.9)"} -->
+<div class="wp-block-wd-video wd-el-video wd-action-play wd-video-external wd-71999745"><a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="wd-el-video-btn"><span class="wd-el-video-play-btn"></span></a></div>
+<!-- /wp:wd/video --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/container {"blockId":"6ad532f7-91ba-4861-b927-ec4e9ac5c7a7","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","colGap":"30"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-6ad532f7"><!-- wp:wd/title {"blockId":"8b1e127b-d52d-4b9a-bbde-26d50c36edef","blockVersion":"2","content":"Latest articles","tpFontSize":"32","tpFontVariant":"700","tpFontWeight":"700","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-8b1e127b">Latest articles</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/button {"blockId":"9847f9e4-c06c-4342-ab6e-d56648ca11fd","blockVersion":"2","predefinedColor":"white","shape":"round","icon":"right"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-default btn-shape-round btn-icon-pos-right wd-9847f9e4" href="#"><span>Visit the Blog</span><!-- wp:wd/icon {"blockId":"40f4e156-c46d-4431-aad1-cd1c51cbd8d2","blockVersion":"2","image":{"id":859,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/wd-furniture-long-arrow-black.svg"}} -->
+<div class="wp-block-wd-icon wd-40f4e156"><img class="wp-image-859" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/wd-furniture-long-arrow-black.svg" alt=""/></div>
+<!-- /wp:wd/icon --></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/blog {"blockId":"b8eed34b-97e5-4b9c-b74d-dd58ff5cbe13","blockVersion":"2","items_per_page":"5","layout":"carousel","blog_carousel_design":"meta-image","marginBottom":"80","slides_per_view":"4","hide_pagination_control":true,"sync_parent_id":"wd_963d2e53","marginBottomTablet":"60","slides_per_viewTablet":"2","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true,"lock":{"move":false,"remove":false}} /-->
+
+<!-- wp:wd/collapsible-content {"blockId":"9bc1bf17-e879-45a9-8ca6-f0a135557146","blockVersion":"2","contentHeight":"280","contentHeightTablet":"160"} -->
+<div class="wp-block-wd-collapsible-content wd-effect-fade wd-9bc1bf17"><!-- wp:wd/container {"blockId":"f1ef5c26-4a57-4405-afec-d79963234dc6","blockVersion":"2","rowGap":"","metadata":{"name":"Content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-f1ef5c26"><!-- wp:wd/title {"blockId":"b9684e90-2e1a-45c3-b576-e6d15a8809cb","blockVersion":"2","content":"Online store with a wide selection of furniture and decor","tpFontSize":"22"} -->
+<h2 class="wp-block-wd-title title wd-b9684e90">Online store with a wide selection of furniture and decor</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"df27f258-b629-4573-a339-5f07cb85f43a","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-df27f258">Furniture is an invariable attribute of any room. It is they who give it the right atmosphere, making the space cozy and comfortable, creating favorable conditions for productive work or helping to relax after a hard day. More and more often, customers want to place an order in an online store, when you can sit down at the computer in your free time, arrange the furniture in the photo and calmly buy the furniture you like. The online store has a large catalog of furniture: both home and office furniture are available.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"d6885800-e623-4ee3-a697-4761dae070cf","blockVersion":"2","content":"Furniture production is a modern form of art","tpFontSize":"22"} -->
+<h2 class="wp-block-wd-title title wd-d6885800">Furniture production is a modern form of art</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"99822b92-2838-4f76-b33e-2b97c7a5755e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-99822b92">Furniture manufacturers, as well as manufacturers of other home goods, are full of amazing offers: we often come across both standard mass-produced products and unique creations - furniture from professional craftsmen, which will be appreciated by true connoisseurs of beauty. We have selected for you the best models from modern craftsmen who managed to ingeniously combine elegance, quality and practicality in each product unit. Our assortment includes products from proven companies. Who for many years of continuous joint work did not give reason to doubt their reliability and honesty. All of them guarantee the high quality of their products, excellent operational characteristics, attractive appearance of the products, a long period of use of the furniture, as well as safety.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"851fa9a8-e779-4f27-afa0-8c2f3460b9b0","blockVersion":"2","design":"link","predefinedColor":"primary"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-color-primary btn-size-default wd-851fa9a8" href="#"><span>Read more</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/collapsible-content -->]]></content:encoded>
+															<wp:post_id>165</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 11:29:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 11:29:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-14 15:29:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-14 15:29:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-furniture2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-logo-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?attachment_id=252</link>
+					<pubDate>Tue, 16 Jul 2024 13:47:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-white.svg</guid>
+															<wp:post_id>252</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 13:47:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 13:47:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 13:47:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 13:47:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-logo-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>189</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-logo-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-logo-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[app-store]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?attachment_id=253</link>
+					<pubDate>Tue, 16 Jul 2024 13:50:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/app-store.svg</guid>
+															<wp:post_id>253</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 13:50:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 13:50:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 13:50:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 13:50:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[app-store]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>189</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/app-store.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/app-store.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[google-play]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?attachment_id=254</link>
+					<pubDate>Tue, 16 Jul 2024 13:50:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/google-play.svg</guid>
+															<wp:post_id>254</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 13:50:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 13:50:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-16 13:50:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-16 13:50:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[google-play]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>189</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/google-play.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/google-play.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-slider-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-slider-1-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-1-opt.jpg</guid>
+															<wp:post_id>282</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-slider-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-slider-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-slider-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-slider-2-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-2-opt.jpg</guid>
+															<wp:post_id>283</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-slider-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-slider-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-slider-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-slider-3-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-3-opt.jpg</guid>
+															<wp:post_id>284</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-slider-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-slider-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-slide-icon-chair]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-slide-icon-chair/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-chair.svg</guid>
+															<wp:post_id>285</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-slide-icon-chair]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-chair.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-slide-icon-chair.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-slide-icon-decor]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-slide-icon-decor/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-decor.svg</guid>
+															<wp:post_id>286</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-slide-icon-decor]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-decor.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-slide-icon-decor.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-slide-icon-sofas]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-slide-icon-sofas/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-sofas.svg</guid>
+															<wp:post_id>287</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-slide-icon-sofas]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-sofas.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-slide-icon-sofas.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-elitis-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-elitis-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png</guid>
+															<wp:post_id>359</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-elitis-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-elitis-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-hay-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-hay-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png</guid>
+															<wp:post_id>361</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-hay-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-hay-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-kettal-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-kettal-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png</guid>
+															<wp:post_id>362</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-kettal-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-kettal-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-lladro-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-lladro-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png</guid>
+															<wp:post_id>363</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-lladro-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-lladro-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-brand-bg-elitis]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-brand-bg-elitis/</link>
+					<pubDate>Wed, 17 Jul 2024 09:06:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-elitis.jpg</guid>
+															<wp:post_id>368</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:06:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:06:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:06:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:06:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-brand-bg-elitis]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-elitis.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-brand-bg-elitis.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-brand-bg-hay]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-brand-bg-hay/</link>
+					<pubDate>Wed, 17 Jul 2024 09:06:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-hay.jpg</guid>
+															<wp:post_id>369</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:06:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:06:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:06:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:06:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-brand-bg-hay]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-hay.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-brand-bg-hay.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-brand-bg-kettal]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-brand-bg-kettal/</link>
+					<pubDate>Wed, 17 Jul 2024 09:06:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-kettal.jpg</guid>
+															<wp:post_id>370</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:06:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:06:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:06:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:06:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-brand-bg-kettal]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-kettal.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-brand-bg-kettal.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-brand-bg-lladro]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-brand-bg-lladro/</link>
+					<pubDate>Wed, 17 Jul 2024 09:06:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-lladro.jpg</guid>
+															<wp:post_id>371</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:06:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:06:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:06:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:06:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-brand-bg-lladro]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-lladro.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-brand-bg-lladro.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-brand-bg-poliform]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-brand-bg-poliform/</link>
+					<pubDate>Wed, 17 Jul 2024 09:06:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-poliform.jpg</guid>
+															<wp:post_id>372</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:06:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:06:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:06:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:06:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-brand-bg-poliform]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-brand-bg-poliform.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-brand-bg-poliform.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[furniture-2-slider-1-author]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/furniture-2-slider-1-author/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-1-author.png</guid>
+															<wp:post_id>279</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:06]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:06]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[furniture-2-slider-1-author]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-1-author.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/furniture-2-slider-1-author.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-slider-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-slider-1-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-1-opt.jpg</guid>
+															<wp:post_id>282</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-slider-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-slider-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-slide-icon-chair]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-slide-icon-chair/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-chair.svg</guid>
+															<wp:post_id>285</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-slide-icon-chair]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-chair.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-slide-icon-chair.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-slide-icon-decor]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-slide-icon-decor/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-decor.svg</guid>
+															<wp:post_id>286</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-slide-icon-decor]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-decor.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-slide-icon-decor.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-poliform-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-poliform-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png</guid>
+															<wp:post_id>365</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-poliform-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-poliform-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-1-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-1-opt.jpg</guid>
+															<wp:post_id>402</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-2-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-2-opt.jpg</guid>
+															<wp:post_id>403</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-4-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-4-opt.jpg</guid>
+															<wp:post_id>405</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-5-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-5-opt.jpg</guid>
+															<wp:post_id>406</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-6-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-6-opt.jpg</guid>
+															<wp:post_id>407</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-6-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-6-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-7-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-7-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-7-opt.jpg</guid>
+															<wp:post_id>408</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-7-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-7-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-7-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-8-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-8-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-8-opt.jpg</guid>
+															<wp:post_id>409</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-8-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-8-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-8-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-9]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-9/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-9.jpg</guid>
+															<wp:post_id>410</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-9]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-9.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-9.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-video]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-video/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-video.mp4</guid>
+															<wp:post_id>411</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-video]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-video.mp4]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-video.mp4]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-futniture-banner-bg-1-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-futniture-banner-bg-1-1/</link>
+					<pubDate>Wed, 17 Jul 2024 11:10:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-futniture-banner-bg-1-1.jpg</guid>
+															<wp:post_id>414</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:10:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:10:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:10:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:10:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-futniture-banner-bg-1-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-futniture-banner-bg-1-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-futniture-banner-bg-1-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-futniture-banner-bg-2-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-futniture-banner-bg-2-1/</link>
+					<pubDate>Wed, 17 Jul 2024 11:10:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-futniture-banner-bg-2-1.jpg</guid>
+															<wp:post_id>415</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:10:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:10:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:10:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:10:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-futniture-banner-bg-2-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-futniture-banner-bg-2-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-futniture-banner-bg-2-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-choosing-rules-img-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-choosing-rules-img-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 06:29:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-img-opt.png</guid>
+															<wp:post_id>498</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 06:29:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 06:29:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 06:29:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 06:29:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-choosing-rules-img-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-img-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-choosing-rules-img-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-choosing-rules-video-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-choosing-rules-video-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 06:33:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-video-opt.jpg</guid>
+															<wp:post_id>501</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 06:33:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 06:33:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 06:33:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 06:33:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-choosing-rules-video-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-video-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-choosing-rules-video-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-long-arrow-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-long-arrow-black/</link>
+					<pubDate>Thu, 08 Aug 2024 11:27:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/wd-furniture-long-arrow-black.svg</guid>
+															<wp:post_id>859</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 11:27:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 11:27:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 11:27:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 11:27:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-long-arrow-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/wd-furniture-long-arrow-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/wd-furniture-long-arrow-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[furniture-2-slider-2-author]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/furniture-2-slider-2-author/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-2-author.png</guid>
+															<wp:post_id>280</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[furniture-2-slider-2-author]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-2-author.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/furniture-2-slider-2-author.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[furniture-2-slider-3-author]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/furniture-2-slider-3-author/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-3-author.png</guid>
+															<wp:post_id>281</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[furniture-2-slider-3-author]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/furniture-2-slider-3-author.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/furniture-2-slider-3-author.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-slider-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-slider-2-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-2-opt.jpg</guid>
+															<wp:post_id>283</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-slider-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-slider-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-slider-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-slider-3-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-3-opt.jpg</guid>
+															<wp:post_id>284</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-slider-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-slider-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-slider-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-slide-icon-sofas]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-slide-icon-sofas/</link>
+					<pubDate>Wed, 17 Jul 2024 06:14:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-sofas.svg</guid>
+															<wp:post_id>287</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 06:14:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 06:14:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 06:14:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 06:14:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-slide-icon-sofas]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-slide-icon-sofas.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-slide-icon-sofas.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-elitis-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-elitis-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png</guid>
+															<wp:post_id>359</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-elitis-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-elitis-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-hay-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-hay-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png</guid>
+															<wp:post_id>361</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-hay-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-hay-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-kettal-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-kettal-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png</guid>
+															<wp:post_id>362</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-kettal-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-kettal-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-lladro-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-lladro-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png</guid>
+															<wp:post_id>363</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-lladro-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-lladro-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-poliform-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-poliform-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png</guid>
+															<wp:post_id>365</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-poliform-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-poliform-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-1-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-1-opt.jpg</guid>
+															<wp:post_id>402</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-2-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-2-opt.jpg</guid>
+															<wp:post_id>403</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-4-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-4-opt.jpg</guid>
+															<wp:post_id>405</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-5-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-5-opt.jpg</guid>
+															<wp:post_id>406</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-6-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-6-opt.jpg</guid>
+															<wp:post_id>407</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-6-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-6-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-7-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-7-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-7-opt.jpg</guid>
+															<wp:post_id>408</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-7-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-7-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-7-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-8-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-8-opt/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-8-opt.jpg</guid>
+															<wp:post_id>409</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-8-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-8-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-8-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-hotspot-9]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-hotspot-9/</link>
+					<pubDate>Wed, 17 Jul 2024 11:05:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-9.jpg</guid>
+															<wp:post_id>410</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 11:05:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 11:05:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 11:05:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 11:05:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-hotspot-9]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-hotspot-9.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-hotspot-9.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-choosing-rules-img-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-choosing-rules-img-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 06:29:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-img-opt.png</guid>
+															<wp:post_id>498</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 06:29:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 06:29:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 06:29:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 06:29:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-choosing-rules-img-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-choosing-rules-img-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-choosing-rules-img-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-long-arrow-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-long-arrow-black/</link>
+					<pubDate>Thu, 08 Aug 2024 11:27:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/wd-furniture-long-arrow-black.svg</guid>
+															<wp:post_id>859</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 11:27:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 11:27:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 11:27:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 11:27:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-long-arrow-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/wd-furniture-long-arrow-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/wd-furniture-long-arrow-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

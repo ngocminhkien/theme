@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>pets-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 04 Aug 2025 13:25:06 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[My account - Pets]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/woodmart_layout/my-account-pets/</link>
+					<pubDate>Tue, 23 Sep 2025 12:27:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pets-gutenberg/?post_type=woodmart_layout&#038;p=566</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"01226ab1-a136-4e49-9ba7-12c8a564f09f","bgColorCode":"#f6ede4","paddingTop":"10","paddingBottom":"10","marginTop":"-40","marginBottom":"40","overlay":false,"overlayOpacity":null} -->
+<div id="wd-01226ab1" class="wp-block-wd-section"><!-- wp:wd/container {"blockId":"6b85438a-94da-43e1-b424-e5f7574158f6","direction":"row","align":"center","wrap":"wrap","rowGap":"10"} -->
+<div id="wd-6b85438a" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/page-heading {"blockId":"875dc1c0-e143-43d0-97d1-e9d1f879f518","tpFontSize":"26"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"580b0439-e46e-43bb-a4b2-d6061375f50b"} -->
+<div id="wd-580b0439" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"f73b7db9-c17d-43e0-8ce9-63ab59e49382","adjacentCount":2,"colWidth":25,"bgColorCode":"#ffffff","paddingTop":"15","paddingRight":"25","paddingBottom":"15","paddingLeft":"25","borderRadius":"25","borderRadiusTop":"25","borderRadiusRight":"25","borderRadiusBottom":"25","borderRadiusLeft":"25","alignSelf":"start"} -->
+<div id="wd-f73b7db9" class="wp-block-wd-column wd-align-s-start"><!-- wp:wd/ma-navigation {"blockId":"a4199867-9ff7-40b2-ae4f-87bfca4223fa"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"56dfc882-03af-407e-8a12-fd8dc6d45ff8","adjacentCount":2,"colWidth":75} -->
+<div id="wd-56dfc882" class="wp-block-wd-column"><!-- wp:wd/ma-content {"blockId":"abf4c010-a86d-482f-bc32-f382e80b2166"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>566</wp:post_id>
+					<wp:post_date><![CDATA[2025-09-23 12:27:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-09-23 12:27:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-09-29 11:21:19]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-09-29 11:21:19]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[my-account-pets]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[my_account_page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

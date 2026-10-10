@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Vinyls elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/vinyls-elementor</link>
+	<description></description>
+	<pubDate>Fri, 11 Jul 2025 11:47:09 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/vinyls-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Single product - Vinyls]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vinyls-elementor/woodmart_layout/single-product-vinyls/</link>
+					<pubDate>Tue, 15 Jul 2025 12:09:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vinyls-elementor/?post_type=woodmart_layout&#038;p=1109</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-woo-single-prod-el-gallery-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-gallery.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=8.2.7" type="text/css" media="all" /> 			
+		<figure style="--wd-col-lg:1;--wd-col-md:1;--wd-col-sm:1;">
+				<figure data-thumb="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey-150x150.jpg" data-thumb-alt="Cambridge Audio AXA25 Grey - Image 1"><a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey.jpg"><img width="600" height="600" src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey-600x600.jpg" alt="Cambridge Audio AXA25 Grey - Image 1" title="cambridge-audio-axa25-amplifier-grey.jpg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey.jpg" data-large_image="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey.jpg" data-large_image_width="800" data-large_image_height="800" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey-600x600.jpg 600w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/cambridge-audio-axa25-amplifier-grey.jpg 800w" sizes="(max-width: 600px) 100vw, 600px" /></a></figure>
+		</figure>
+					<link rel="stylesheet" id="wd-swiper-arrows-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-arrows.min.css?ver=8.2.7" type="text/css" media="all" /> 			
+					<nav aria-label="Breadcrumb">				
+					Home				
+			</nav>				
+<h1>
+	Cambridge Audio AXA25 Grey
+	</h1>
+					<p><bdi>&#36;319.99</bdi></p>
+	<form action="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/cambridge-audio-axa25-grey/" method="post" enctype='multipart/form-data'>
+			<input type="button" value="-" aria-label="Decreace quantity" />
+	<label for="quantity_68d52ab7e04c9">Cambridge Audio AXA25 Grey quantity</label>
+	<input
+		type="number"
+				id="quantity_68d52ab7e04c9"
+		class="input-text qty text"
+		value="1"
+		aria-label="Product quantity"
+				min="1"
+				name="quantity"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			>
+			<input type="button" value="+" aria-label="Increace quantity" />
+		<button type="submit" name="add-to-cart" value="278">Add to cart</button>
+			</form>
+			<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/compare/" data-id="278" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wishlist/" data-key="ed5e275d23" data-product-id="278" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+								<link rel="stylesheet" id="wd-woo-single-prod-el-reviews-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-reviews.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-single-prod-el-reviews-style-1-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-reviews-style-1.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-tabs-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/el-tabs.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-single-prod-el-tabs-opt-layout-tabs-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-tabs-opt-layout-tabs.min.css?ver=8.2.7" type="text/css" media="all" /> 				
+			<ul role="tablist">
+														<li id="tab-title-description"
+						role="presentation" aria-controls="tab-description">
+						<a href="#tab-description" role="tab">
+									Description								
+													</a>
+					</li>
+																			<li id="tab-title-additional_information"
+						role="presentation" aria-controls="tab-additional_information">
+						<a href="#tab-additional_information" role="tab">
+									Additional information								
+													</a>
+					</li>
+												</ul>
+<style>.elementor-278 .elementor-element.elementor-element-1fbe277{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}</style>		
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+			<p>The Sony PS-LX310BT is a fully automatic belt-drive turntable that allows you to enjoy your vinyl records wirelessly via Bluetooth. It features a built-in phono preamp, a stable platter for smooth playback, and can connect to various audio systems and speakers for versatile listening options.</p>
+								<link rel="stylesheet" id="wd-image-gallery-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/el-gallery.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+						<img loading="lazy" decoding="async" width="415" height="250" src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-turntable-img-1-opt.jpg" alt="vrs-turntable-img-1-opt" srcset="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-turntable-img-1-opt.jpg 415w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-turntable-img-1-opt-300x181.jpg 300w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-turntable-img-1-opt-150x90.jpg 150w" sizes="(max-width: 415px) 100vw, 415px" />
+						<img loading="lazy" decoding="async" width="415" height="250" src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-turntable-img-2-opt.jpg" alt="vrs-turntable-img-2-opt" srcset="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-turntable-img-2-opt.jpg 415w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-turntable-img-2-opt-300x181.jpg 300w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-turntable-img-2-opt-150x90.jpg 150w" sizes="(max-width: 415px) 100vw, 415px" />
+<table aria-label="Product Details">
+		<tr>
+			<th scope="row">
+						Size					
+			</th>
+			<td>
+				<p>1CD</p>
+							, 
+				<p>2LP</p>
+										</td>
+		</tr>
+		<tr>
+			<th scope="row">
+						Color					
+			</th>
+			<td>
+				<p>Cables and Adapters</p>
+										</td>
+		</tr>
+	</table>
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-section-title-style-under-and-over-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/el-section-title-style-under-and-over.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+				<h4>Review</h4> 
+								<link rel="stylesheet" id="wd-post-types-mod-comments-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/post-types-mod-comments.min.css?ver=8.2.7" type="text/css" media="all" /> 							
+										<link rel="stylesheet" id="wd-el-subtitle-style-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/el-subtitle-style.min.css?ver=8.2.7" type="text/css" media="all" /> 							
+					READY SETS				
+				<h4>May Be of Interest</h4> 
+								<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-standard-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-standard.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-add-btn-replace-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/woo-mod-add-btn-replace.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-opt-stretch-cont-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/woo-opt-stretch-cont.min.css?ver=8.2.7" type="text/css" media="all" /> 						
+		<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/wood-200/" tabindex="-1" aria-label="Wood 200">
+			<img width="800" height="800" src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/wood-200.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/wood-200.jpg 800w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/wood-200-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/wood-200-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/wood-200-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/wood-200-600x600.jpg 600w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/wood-200-64x64.jpg 64w" sizes="(max-width: 800px) 100vw, 800px" />		</a>
+			<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/compare/" data-id="192" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+								<link rel="stylesheet" id="wd-mfp-popup-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-animations-transform-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform.min.css?ver=8.2.7" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-transform-css" href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/themes/woodmart/css/parts/mod-transform.min.css?ver=8.2.7" type="text/css" media="all" /> 					
+			<a
+				href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/wood-200/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="192"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wishlist/" data-key="ed5e275d23" data-product-id="192" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+	<h3><a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/wood-200/">Wood 200</a></h3>
+	<bdi>&#36;11.99</bdi> &ndash; <bdi>&#36;1,284.99</bdi>Price range: &#36;11.99 through &#36;1,284.99
+		<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/wood-200/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_192" data-quantity="1" data-product_id="192" data-product_sku="72837" aria-label="View products in the &ldquo;Wood 200&rdquo; group" rel="nofollow">View products</a>	
+		<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/virtual-velocity/" tabindex="-1" aria-label="Virtual Velocity">
+			<img width="1024" height="1024" src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-virtual-velocity.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-virtual-velocity.jpg 1024w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-virtual-velocity-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-virtual-velocity-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-virtual-velocity-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-virtual-velocity-600x600.jpg 600w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-virtual-velocity-64x64.jpg 64w" sizes="(max-width: 1024px) 100vw, 1024px" />		</a>
+			<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/compare/" data-id="187" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/virtual-velocity/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="187"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wishlist/" data-key="ed5e275d23" data-product-id="187" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+	<h3><a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/virtual-velocity/">Virtual Velocity</a></h3>
+	<bdi>&#36;49.99</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/virtual-velocity/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_187" data-quantity="1" data-product_id="187" data-product_sku="27338" aria-label="Select options for &ldquo;Virtual Velocity&rdquo;" rel="nofollow">Select options</a>	
+		This product has multiple variants. The options may be chosen on the product page	
+		<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/vinyl-record-brush/" tabindex="-1" aria-label="Vinyl Record Brush">
+			<img width="800" height="800" src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vinyl-record-brush.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vinyl-record-brush.jpg 800w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vinyl-record-brush-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vinyl-record-brush-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vinyl-record-brush-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vinyl-record-brush-600x600.jpg 600w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vinyl-record-brush-64x64.jpg 64w" sizes="(max-width: 800px) 100vw, 800px" />		</a>
+			<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/compare/" data-id="213" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/vinyl-record-brush/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="213"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wishlist/" data-key="ed5e275d23" data-product-id="213" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+	<h3><a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/vinyl-record-brush/">Vinyl Record Brush</a></h3>
+	<bdi>&#36;10.95</bdi>
+		<a href="/woodmart2/vinyls-elementor/wp-admin/admin-ajax.php?add-to-cart=213" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_213" data-quantity="1" data-product_id="213" data-product_sku="32261" aria-label="Add to cart: &ldquo;Vinyl Record Brush&rdquo;" rel="nofollow" data-success_message="&ldquo;Vinyl Record Brush&rdquo; has been added to your cart" role="button">Add to cart</a>	
+		<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/twilight/" tabindex="-1" aria-label="Twilight">
+			<img width="1024" height="1024" src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-twilight.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-twilight.jpg 1024w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-twilight-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-twilight-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-twilight-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-twilight-600x600.jpg 600w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/vrs-twilight-64x64.jpg 64w" sizes="(max-width: 1024px) 100vw, 1024px" />		</a>
+			<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/compare/" data-id="103" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/twilight/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="103"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wishlist/" data-key="ed5e275d23" data-product-id="103" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+	<h3><a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/twilight/">Twilight</a></h3>
+	<bdi>&#36;28.99</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/twilight/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_103" data-quantity="1" data-product_id="103" data-product_sku="27314" aria-label="Select options for &ldquo;Twilight&rdquo;" rel="nofollow">Select options</a>	
+		This product has multiple variants. The options may be chosen on the product page	
+		<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/triangle-elarna-ln01a-green/" tabindex="-1" aria-label="Triangle Elarna LN01A Green">
+			<img width="800" height="800" src="http://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/triangle-elara-ln01a-green.jpg" alt="" decoding="async" srcset="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/triangle-elara-ln01a-green.jpg 800w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/triangle-elara-ln01a-green-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/triangle-elara-ln01a-green-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/triangle-elara-ln01a-green-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/vinyls-elementor/wp-content/uploads/sites/51/2025/07/triangle-elara-ln01a-green-600x600.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />		</a>
+			<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/compare/" data-id="217" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/triangle-elarna-ln01a-green/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="217"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/wishlist/" data-key="ed5e275d23" data-product-id="217" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+	<h3><a href="https://dummy.xtemos.com/woodmart2/vinyls-elementor/product/triangle-elarna-ln01a-green/">Triangle Elarna LN01A Green</a></h3>
+	<bdi>&#36;709.99</bdi>
+		<a href="/woodmart2/vinyls-elementor/wp-admin/admin-ajax.php?add-to-cart=217" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_217" data-quantity="1" data-product_id="217" data-product_sku="49847" aria-label="Add to cart: &ldquo;Triangle Elarna LN01A Green&rdquo;" rel="nofollow" data-success_message="&ldquo;Triangle Elarna LN01A Green&rdquo; has been added to your cart" role="button">Add to cart</a>]]></content:encoded>
+															<wp:post_id>1109</wp:post_id>
+					<wp:post_date><![CDATA[2025-07-15 12:09:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-07-15 12:09:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-09-25 11:42:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-09-25 11:42:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-vinyls]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"7b231d40","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_gap":{"size":"60","column":"60","row":"40","unit":"px","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80","flex_direction_mobile":"column","flex_gap_tablet":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"},"margin_tablet":{"unit":"px","top":"-20","right":"0","bottom":"60","left":"0","isLinked":""},"margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":""}},"elements":[{"id":"19da53d5","elType":"container","settings":{"_column_size":"50","width":{"size":"50","unit":"%"},"column_sticky_offset":"20","scroll_y":"-80","column_sticky":"sticky-column","width_tablet":{"size":"50","unit":"%"},"content_width":"full","container_sticky_offset":"50","container_sticky":"yes","container_sticky_tablet":"yes"},"elements":[{"id":"57434941","elType":"widget","settings":{"thumbnails_position":"bottom","scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_gallery"}],"isInner":"1"},{"id":"6bd27dde","elType":"container","settings":{"_column_size":"50","width":{"size":"50","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"50","unit":"%"},"content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"7a9c1ccd","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"239714e2","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_breadcrumb"},{"id":"4b2e7cf","elType":"widget","settings":{"scroll_y":"-80","_element_width_tablet":"initial","_element_custom_width":{"unit":"%","size":"80","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"100","sizes":[]},"typography_typography":"custom","typography_font_size":{"unit":"em","size":"3.5","sizes":[]},"typography_font_size_tablet":{"unit":"em","size":"1.9","sizes":[]},"typography_font_size_mobile":{"unit":"em","size":"1.5","sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"em","size":"1.2","sizes":[]}},"elements":[],"widgetType":"wd_single_product_title"},{"id":"73e03fcf","elType":"widget","settings":{"main_price_typography_typography":"custom","main_price_typography_font_size":{"unit":"px","size":"36","sizes":[]},"main_price_typography_font_size_tablet":{"unit":"px","size":"24","sizes":[]},"scroll_y":"-80","main_price_typography_font_size_mobile":{"unit":"em","size":"","sizes":[]},"main_price_typography_line_height":{"unit":"em","size":"1.2","sizes":[]}},"elements":[],"widgetType":"wd_single_product_price"},{"id":"2cc0fd90","elType":"widget","settings":{"scroll_y":"-80","_element_width_tablet":"inherit","_element_custom_width":{"unit":"%","size":"80","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"","sizes":[]},"separator_text":":"},"elements":[],"widgetType":"wd_single_product_countdown"},{"id":"a05a4d5","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_short_description"},{"id":"18375f13","elType":"widget","settings":{"scroll_y":"-80","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":""}},"elements":[],"widgetType":"wd_single_product_stock_progress_bar"},{"id":"18294f5e","elType":"widget","settings":{"scroll_y":"-80","_element_width_mobile":"inherit","_element_custom_width":{"unit":"%","size":"80","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"100","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"","sizes":[]},"_element_width_tablet":"inherit"},"elements":[],"widgetType":"wd_single_product_add_to_cart"},{"id":"42651e03","elType":"container","settings":{"container_sticky_offset":"50","scroll_y":"-80","content_width":"full","flex_direction":"row","flex_justify_content_tablet":"flex-start","flex_gap":{"column":"20","row":"20","isLinked":"1","unit":"px","size":"20"},"flex_align_items":"center","flex_wrap":"wrap","margin":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[{"id":"194a3884","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_compare_button"},{"id":"40ba11e5","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_wishlist_button"}],"isInner":"1"},{"id":"3f8004be","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_single_product_summary","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"3a01913c","elType":"widget","settings":{"tabs_style":"underline-reverse","tabs_alignment":"left","scroll_y":"-80","_border_color":"#0000001C","_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""},"enable_reviews":"","tabs_title_typography_typography":"custom","tabs_title_typography_font_size":{"unit":"em","size":"1.3","sizes":[]},"tabs_title_typography_font_size_tablet":{"unit":"em","size":"","sizes":[]},"tabs_title_typography_font_size_mobile":{"unit":"em","size":"","sizes":[]},"tabs_title_typography_text_transform":"capitalize","additional_info_layout":"inline","additional_info_style":"default","additional_info_vertical_gap":{"unit":"px","size":"15","sizes":[]},"_margin_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":""},"_border_border":"solid","_border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":""},"attr_name_column_width":{"unit":"px","size":140,"sizes":[]}},"elements":[],"widgetType":"wd_single_product_tabs"},{"id":"140e6c0","elType":"widget","settings":{"subtitle":"","title":"Review","after_title":"","style":"overlined","color":"primary","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"em","size":"1.3","sizes":[]},"title_typography_font_size_tablet":{"unit":"em","size":"","sizes":[]},"title_typography_font_size_mobile":{"unit":"em","size":"","sizes":[]},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""},"_margin_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":""},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"ebb5528","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_reviews"}],"isInner":"1"}],"isInner":false},{"id":"05dd6aa","elType":"container","settings":{"flex_direction":"column","flex_gap":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"},"scroll_y":"-80"},"elements":[{"id":"681c89b","elType":"widget","settings":{"subtitle":"READY SETS","title":"May Be of Interest","after_title":"","color":"primary","align":"left","subtitle_style":"background","subtitle_typography_typography":"custom","subtitle_typography_font_size":{"unit":"em","size":"0.9","sizes":[]},"subtitle_typography_font_size_tablet":{"unit":"em","size":"","sizes":[]},"subtitle_typography_font_size_mobile":{"unit":"em","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"em","size":"3.5","sizes":[]},"title_typography_font_size_tablet":{"unit":"em","size":"1.9","sizes":[]},"title_typography_font_size_mobile":{"unit":"em","size":"","sizes":[]},"title_typography_line_height":{"unit":"em","size":"1.2","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"eb336f0","elType":"widget","settings":{"taxonomies":[],"order":"DESC","layout":"carousel","spacing":"30","items_per_page":"5","slides_per_view":{"unit":"px","size":"4.5","sizes":[]},"slides_per_view_tablet":{"unit":"px","size":"3.5","sizes":[]},"slides_per_view_mobile":{"unit":"px","size":"1.7","sizes":[]},"disable_overflow_carousel":"yes","hide_pagination_control":"yes","sync_parent_id":"wd_68710f0b8e7e3","scroll_y":"-80"},"elements":[],"widgetType":"wd_products"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.28.0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

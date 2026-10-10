@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>pets</title>
+	<link>https://dummy.xtemos.com/woodmart2/pets</link>
+	<description></description>
+	<pubDate>Mon, 04 Aug 2025 13:24:05 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pets</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[usa-flag]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=358</link>
+					<pubDate>Tue, 12 Aug 2025 11:11:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/usa-flag.png</guid>
+															<wp:post_id>358</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-12 11:11:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-12 11:11:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-12 11:11:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-12 11:11:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[usa-flag]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>355</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/usa-flag.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/usa-flag.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[ger-flag]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=359</link>
+					<pubDate>Tue, 12 Aug 2025 11:12:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/ger-flag.png</guid>
+															<wp:post_id>359</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-12 11:12:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-12 11:12:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-12 11:12:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-12 11:12:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[ger-flag]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>355</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/ger-flag.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/ger-flag.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[uk-flag]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=360</link>
+					<pubDate>Tue, 12 Aug 2025 11:12:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/uk-flag.png</guid>
+															<wp:post_id>360</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-12 11:12:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-12 11:12:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-12 11:12:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-12 11:12:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[uk-flag]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>355</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/uk-flag.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/uk-flag.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[logo]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/logo/</link>
+					<pubDate>Tue, 12 Aug 2025 11:15:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/logo.svg</guid>
+															<wp:post_id>369</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-12 11:15:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-12 11:15:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-12 11:15:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-12 11:15:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[logo]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/logo.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/logo.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[6272401-hd_720_1280_25fps2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/woodmart_layout/products-archive-pets-dogs/6272401-hd_720_1280_25fps2-opt/</link>
+					<pubDate>Wed, 13 Aug 2025 08:40:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/6272401-hd_720_1280_25fps2-opt.mp4</guid>
+															<wp:post_id>553</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-13 08:40:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-13 08:40:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-13 08:40:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-13 08:40:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[6272401-hd_720_1280_25fps2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>549</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/6272401-hd_720_1280_25fps2-opt.mp4]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/6272401-hd_720_1280_25fps2-opt.mp4]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-toys-11-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=708</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-toys-11-0.jpg</guid>
+															<wp:post_id>708</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-toys-11-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>709</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-toys-11-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-toys-11-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-toys-11-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-leashes-5-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=711</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-leashes-5-0.jpg</guid>
+															<wp:post_id>711</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-leashes-5-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>710</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-leashes-5-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-leashes-5-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-leashes-5-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-litter-1-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=807</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-litter-1-0.jpg</guid>
+															<wp:post_id>807</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-litter-1-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>808</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-litter-1-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-litter-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-litter-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-parrots-1-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=821</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-parrots-1-0.jpg</guid>
+															<wp:post_id>821</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-parrots-1-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>822</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-parrots-1-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-parrots-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-parrots-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-fish-10-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=823</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-fish-10-0.jpg</guid>
+															<wp:post_id>823</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-fish-10-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>822</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-fish-10-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-fish-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-fish-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-parrots-10-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=824</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-parrots-10-0.jpg</guid>
+															<wp:post_id>824</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-parrots-10-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>822</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-parrots-10-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-parrots-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-parrots-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-fish-8-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=825</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-fish-8-0.jpg</guid>
+															<wp:post_id>825</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-fish-8-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>822</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-fish-8-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-fish-8-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-fish-8-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-parrots-4-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=826</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-parrots-4-0.jpg</guid>
+															<wp:post_id>826</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-parrots-4-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>827</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-parrots-4-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-parrots-4-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-parrots-4-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-fish-12-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=828</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-fish-12-0.jpg</guid>
+															<wp:post_id>828</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-fish-12-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>827</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-fish-12-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-fish-12-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-fish-12-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-rodents-14-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=829</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-rodents-14-0.jpg</guid>
+															<wp:post_id>829</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-rodents-14-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>827</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-rodents-14-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-rodents-14-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-rodents-14-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-rodents-13-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=830</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-rodents-13-0.jpg</guid>
+															<wp:post_id>830</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-rodents-13-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>827</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-rodents-13-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-rodents-13-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-rodents-13-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-parrots-9-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=831</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-parrots-9-0.jpg</guid>
+															<wp:post_id>831</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-parrots-9-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>832</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-parrots-9-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-parrots-9-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-parrots-9-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-rodents-6-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=833</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-rodents-6-0.jpg</guid>
+															<wp:post_id>833</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-rodents-6-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>832</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-rodents-6-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-rodents-6-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-rodents-6-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-fish-7-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=835</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-fish-7-0.jpg</guid>
+															<wp:post_id>835</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-fish-7-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>834</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-fish-7-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-fish-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-fish-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-more-pets-rodents-8-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=837</link>
+					<pubDate>Tue, 19 Aug 2025 12:02:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-rodents-8-0.jpg</guid>
+															<wp:post_id>837</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:02:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:02:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:02:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:02:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-more-pets-rodents-8-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>838</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-more-pets-rodents-8-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-more-pets-rodents-8-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-more-pets-rodents-8-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-treats-11-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=687</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-treats-11-0.jpg</guid>
+															<wp:post_id>687</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-treats-11-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>686</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-treats-11-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-treats-11-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-treats-11-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-toys-12-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=693</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-toys-12-0.jpg</guid>
+															<wp:post_id>693</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-toys-12-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>692</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-toys-12-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-toys-12-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-toys-12-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-leashes-5-1.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=694</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-leashes-5-1.jpg</guid>
+															<wp:post_id>694</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-leashes-5-1-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>692</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-leashes-5-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-leashes-5-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-leashes-5-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-supplies-7-1.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=695</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-supplies-7-1.jpg</guid>
+															<wp:post_id>695</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-supplies-7-1-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>692</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-supplies-7-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-supplies-7-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-supplies-7-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-treats-14-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=699</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-treats-14-0.jpg</guid>
+															<wp:post_id>699</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-treats-14-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>700</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-treats-14-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-treats-14-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-treats-14-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-health-15-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=704</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-health-15-0.jpg</guid>
+															<wp:post_id>704</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-health-15-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>703</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-health-15-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-health-15-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-health-15-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-supplies-7-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=758</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-supplies-7-0.jpg</guid>
+															<wp:post_id>758</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-supplies-7-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>755</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-supplies-7-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-supplies-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-supplies-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-food-13-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=769</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-food-13-0.jpg</guid>
+															<wp:post_id>769</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-food-13-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>770</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-food-13-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-food-13-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-food-13-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-toys-1-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=771</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-toys-1-0.jpg</guid>
+															<wp:post_id>771</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-toys-1-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>770</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-toys-1-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-toys-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-toys-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-litter-4-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=772</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-litter-4-0.jpg</guid>
+															<wp:post_id>772</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-litter-4-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>770</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-litter-4-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-litter-4-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-litter-4-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-scratchers-1-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=773</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-scratchers-1-0.jpg</guid>
+															<wp:post_id>773</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-scratchers-1-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>770</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-scratchers-1-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-scratchers-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-scratchers-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-food-15-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=774</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-food-15-0.jpg</guid>
+															<wp:post_id>774</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-food-15-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>775</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-food-15-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-food-15-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-food-15-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-supplies-3-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=776</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-supplies-3-0.jpg</guid>
+															<wp:post_id>776</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-supplies-3-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>775</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-supplies-3-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-supplies-3-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-supplies-3-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-health-11-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=777</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-health-11-0.jpg</guid>
+															<wp:post_id>777</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-health-11-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>775</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-health-11-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-health-11-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-health-11-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-treats-12-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=784</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-treats-12-0.jpg</guid>
+															<wp:post_id>784</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-treats-12-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>785</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-treats-12-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-treats-12-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-treats-12-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-toys-9-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=789</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-toys-9-0.jpg</guid>
+															<wp:post_id>789</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-toys-9-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>790</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-toys-9-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-toys-9-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-toys-9-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-litter-5-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=810</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-litter-5-0.jpg</guid>
+															<wp:post_id>810</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-litter-5-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>811</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-litter-5-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-litter-5-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-litter-5-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-supplies-2-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=814</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-supplies-2-0.jpg</guid>
+															<wp:post_id>814</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-supplies-2-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>815</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-supplies-2-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-supplies-2-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-supplies-2-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-supplies-5-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=817</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-supplies-5-0.jpg</guid>
+															<wp:post_id>817</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-supplies-5-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>818</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-supplies-5-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-supplies-5-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-supplies-5-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-supplies-8-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=819</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-supplies-8-0.jpg</guid>
+															<wp:post_id>819</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-supplies-8-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>820</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-supplies-8-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-supplies-8-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-supplies-8-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-leashes-7-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=689</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-leashes-7-0.jpg</guid>
+															<wp:post_id>689</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-leashes-7-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>686</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-leashes-7-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-leashes-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-leashes-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-toys-4-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=697</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-toys-4-0.jpg</guid>
+															<wp:post_id>697</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-toys-4-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>696</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-toys-4-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-toys-4-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-toys-4-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-dogs-supplies-5-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=698</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-supplies-5-0.jpg</guid>
+															<wp:post_id>698</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-dogs-supplies-5-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>696</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-dogs-supplies-5-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-dogs-supplies-5-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-dogs-supplies-5-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-food-2-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=759</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-food-2-0.jpg</guid>
+															<wp:post_id>759</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-food-2-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>756</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-food-2-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-food-2-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-food-2-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-treats-10-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=782</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-treats-10-0.jpg</guid>
+															<wp:post_id>782</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-treats-10-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>783</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-treats-10-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-treats-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-treats-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-toys-4-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=787</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-toys-4-0.jpg</guid>
+															<wp:post_id>787</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-toys-4-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>788</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-toys-4-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-toys-4-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-toys-4-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-toys-10-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=791</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-toys-10-0.jpg</guid>
+															<wp:post_id>791</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-toys-10-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>792</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-toys-10-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-toys-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-toys-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-health-1-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=793</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-health-1-0.jpg</guid>
+															<wp:post_id>793</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-health-1-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>794</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-health-1-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-health-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-health-1-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-health-3-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=795</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-health-3-0.jpg</guid>
+															<wp:post_id>795</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-health-3-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>796</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-health-3-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-health-3-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-health-3-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-scratchers-2-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=801</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-scratchers-2-0.jpg</guid>
+															<wp:post_id>801</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-scratchers-2-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>802</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-scratchers-2-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-scratchers-2-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-scratchers-2-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-scratchers-7-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=803</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-scratchers-7-0.jpg</guid>
+															<wp:post_id>803</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-scratchers-7-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>804</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-scratchers-7-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-scratchers-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-scratchers-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-scratchers-10-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=805</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-scratchers-10-0.jpg</guid>
+															<wp:post_id>805</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-scratchers-10-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>806</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-scratchers-10-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-scratchers-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-scratchers-10-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pet-product-cats-litter-7-0.jpg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets/?attachment_id=812</link>
+					<pubDate>Tue, 19 Aug 2025 12:01:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-litter-7-0.jpg</guid>
+															<wp:post_id>812</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-19 12:01:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-19 12:01:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-08-19 12:01:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-08-19 12:01:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pet-product-cats-litter-7-0-jpg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>813</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets/wp-content/uploads/sites/53/2025/08/pet-product-cats-litter-7-0.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/08/pet-product-cats-litter-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wc_attachment_source]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2025/08/pet-product-cats-litter-7-0.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

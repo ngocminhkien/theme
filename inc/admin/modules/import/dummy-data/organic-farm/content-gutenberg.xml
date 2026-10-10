@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Farm gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:27:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/farm-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Home Organic-farm]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/</link>
+					<pubDate>Wed, 24 Jul 2024 11:25:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/farm-gutenberg/?page_id=114</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"84482076-18ae-4360-8e26-c3173c4662c7","textAlign":"center","rowGap":"30","marginTop":"40","marginBottom":"80","rowGapTablet":"20","marginTopTablet":"20","marginTopMobile":"0","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-84482076" class="wp-block-wd-container wd-dir-col wd-align"><!-- wp:wd/title {"blockId":"005f8447-f118-40e6-88ad-eb1543484795","content":"The Highest Quality Products From a Organic Dairy Farm","tpFontSize":"74","tpLineHeight":"1.2","tpFontVariant":"600","tpFontWeight":"600","displayWidth":"custom","customWidth":"1130","tpFontSizeTablet":"48","tpFontSizeMobile":"24","tpLineHeightUnits":"em"} -->
+<h2 id="wd-005f8447" class="wp-block-wd-title title wd-custom-width">The Highest Quality Products From a Organic Dairy Farm</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/container {"blockId":"1d6e751d-656e-4e77-9cee-086f23964e35","direction":"row"} -->
+<div id="wd-1d6e751d" class="wp-block-wd-container wd-dir-row"><!-- wp:wd/button {"blockId":"19b45d3d-a3e2-4a27-aa3b-505f91024449","predefinedColor":"primary","size":"large","shape":"round"} -->
+<a id="wd-19b45d3d" class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-large btn-shape-round" href="#"><span>To Shop</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/button {"blockId":"4f2f5c50-11af-44bd-bb98-99c570ade2c6","design":"bordered","predefinedColor":"primary","size":"large","shape":"round"} -->
+<a id="wd-4f2f5c50" class="wp-block-wd-button btn btn-style-bordered btn-color-primary btn-size-large btn-shape-round" href="#"><span>About Farm</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/section {"blockId":"6155f4b5-4a7b-470d-acec-59a43837ceb0","bgImage":{"id":285,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-top-background-opt.jpg"},"bgPosition":"bottom center","bgRepeat":"no-repeat","marginBottom":"80","bgDisplaySizeMobile":"custom","bgCustomDisplaySizeMobile":"0","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-6155f4b5" class="wp-block-wd-section"><!-- wp:wd/image {"blockId":"d7077797-6a68-4b11-a063-e3f9140ca10d","image":{"id":284,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-home-image-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-home-image-opt.png","width":862,"height":500},"alignSelf":"center"} -->
+<div id="wd-d7077797" class="wp-block-wd-image wd-block-image wd-align-s-center"><img class="wp-image-284" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-home-image-opt.png" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/title {"blockId":"9874d721-cb14-4300-b66e-8503578dfbe9","content":"The Most Popular Of Dairy Products​","tpFontSize":"46","marginBottom":"30","displayWidth":"custom","customWidth":"500","tpFontSizeTablet":"32","tpFontSizeMobile":"24","marginBottomTablet":"20","displayWidthTablet":"full-width","displayWidthMobile":"custom","customWidthMobile":"248"} -->
+<h2 id="wd-9874d721" class="wp-block-wd-title title wd-custom-width">The Most Popular Of Dairy Products​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/products {"blockId":"ce45dc2c-f520-405a-bae0-c1deaf1cfc60","layout":"carousel","items_per_page":"6","products_with_background":true,"marginBottom":"80","slides_per_view":"5","carousel_arrows_position":"together","hide_pagination_control":true,"sync_parent_id":"wd_52fd67ce","productsBackgroundCode":"#ffffff","marginBottomTablet":"60","marginBottomMobile":"40","slides_per_viewTablet":"3","slides_per_viewMobile":"1.5","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/section {"blockId":"6b3fe856-3456-4d55-9da8-7ed99e022d47","blockGap":80,"bgType":"gradient","bgGradient":"linear-gradient(180deg,rgb(245,241,235) 12%,rgb(255,255,255) 12%,rgb(255,255,255) 91%,rgb(244,240,235) 91%)","bgColorCode":"#ffffff","marginBottom":"80","blockGapTablet":60,"blockGapMobile":40,"marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-6b3fe856" class="wp-block-wd-section"><!-- wp:wd/row {"blockId":"e4876ca0-4ffa-49ed-9834-cbdeec61f4ae"} -->
+<div id="wd-e4876ca0" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"8a415612-e66f-4c14-8aeb-23c6d94ff4d6","adjacentCount":2,"colWidth":58,"justifyContent":"center","adjacentCountTablet":1,"colWidthTablet":100,"flexOrderTablet":"1"} -->
+<div id="wd-8a415612" class="wp-block-wd-column"><!-- wp:wd/paragraph {"blockId":"379d5d65-f947-4a1c-9c6e-daf9534aa7e9","colorCode":"#333333","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"74","tpLineHeight":"1.2","tpFontVariant":"600","tpFontWeight":"600","htmlTag":"span","tpFontSizeTablet":"44","tpLineHeightMobile":"1.6","tpLineHeightUnits":"em","tpLineHeightUnitsMobile":"em"} -->
+<span id="wd-379d5d65" class="wp-block-wd-paragraph">Nutritious <img class="wp-image-299" style="width: 75px" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-dairy-cow.png" alt=""> Dairy Products to Your Table</span>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"05bad21e-15e2-4e69-8e75-e6a7ea27db07","direction":"row","wrapMobile":"wrap"} -->
+<div id="wd-05bad21e" class="wp-block-wd-container wd-dir-row"><!-- wp:wd/button {"blockId":"e5060c9e-e992-478d-b0bc-67fa048132c0","design":"bordered","predefinedColor":"primary","shape":"round"} -->
+<a id="wd-e5060c9e" class="wp-block-wd-button btn btn-style-bordered btn-color-primary btn-size-default btn-shape-round" href="#"><span>Milk</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/button {"blockId":"9d930de2-5577-4a72-8aa2-ce6d34c044cf","design":"bordered","predefinedColor":"primary","shape":"round"} -->
+<a id="wd-9d930de2" class="wp-block-wd-button btn btn-style-bordered btn-color-primary btn-size-default btn-shape-round" href="#"><span>Butter</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/button {"blockId":"dd8ead4b-a6f1-43a8-a5c3-f62660fdcbe9","design":"bordered","predefinedColor":"primary","shape":"round"} -->
+<a id="wd-dd8ead4b" class="wp-block-wd-button btn btn-style-bordered btn-color-primary btn-size-default btn-shape-round" href="#"><span>Sour Cream</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/button {"blockId":"251fb612-c04e-4fd9-9969-7d304b6c0c00","design":"bordered","predefinedColor":"primary","shape":"round"} -->
+<a id="wd-251fb612" class="wp-block-wd-button btn btn-style-bordered btn-color-primary btn-size-default btn-shape-round" href="#"><span>Yogurt</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/button {"blockId":"c4a944e0-a7cd-43e9-b10e-8bec3d84e383","design":"bordered","predefinedColor":"primary","shape":"round"} -->
+<a id="wd-c4a944e0" class="wp-block-wd-button btn btn-style-bordered btn-color-primary btn-size-default btn-shape-round" href="#"><span>Cheese</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"4e3672a1-482c-4acd-88dd-de70e807f3c1","adjacentCount":2,"colWidth":42,"justifyContent":"center","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-4e3672a1" class="wp-block-wd-column"><!-- wp:wd/testimonial {"blockId":"4282e0fa-77e3-4260-bb01-bf36be41366f","design":"1","colorScheme":"light","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"paddingTopTablet":"30","paddingRightTablet":"30","paddingBottomTablet":"30","paddingLeftTablet":"30","paddingLockTablet":true} -->
+<div id="wd-4282e0fa" class="wp-block-wd-testimonial color-scheme-light wd-design-1"><!-- wp:wd/container {"blockId":"d63c427a-c89a-4d10-8314-23cee9eef6b6","direction":"row","align":"center","extraClass":"wd-testimonial-heading","bgImage":{"id":297,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-quote.svg"},"bgPosition":"top right","bgRepeat":"no-repeat","paddingRight":"60","displayWidth":"","directionTablet":"row","directionMobile":"row"} -->
+<div id="wd-d63c427a" class="wp-block-wd-container wd-dir-row wd-dir-row-md wd-dir-row-sm wd-align-is-lg-center wd-testimonial-heading"><!-- wp:wd/image {"blockId":"5f8987ff-e567-48ef-9e2e-19f3a3f25191","image":{"id":122,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-marvin-mckinney.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-marvin-mckinney.png","width":160,"height":161},"displayWidth":"","customWidth":"80"} -->
+<div id="wd-5f8987ff" class="wp-block-wd-image wd-block-image"><img class="wp-image-122" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-marvin-mckinney.png" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"31bbfbad-3429-415b-ad32-e036e026cda8","flexSize":"shrink"} -->
+<div id="wd-31bbfbad" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"ad992d10-a941-4baa-85bf-6f37adae76be","design":"","content":"Marvin McKinney","tpFontSize":"28","tpFontSizeMobile":"18"} -->
+<h2 id="wd-ad992d10" class="wp-block-wd-title title">Marvin McKinney</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"a9eff976-f724-40b6-baf4-84d0e0833482"} -->
+<p id="wd-a9eff976" class="wp-block-wd-paragraph">Founder</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"4890ffd6-870c-4187-a225-f0866a027402","extraClass":"wd-testimonial-content","bgColorCode":"rgba(0,0,0,0)","paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","paddingLock":true,"displayWidth":""} -->
+<div id="wd-4890ffd6" class="wp-block-wd-container wd-dir-col wd-testimonial-content"><!-- wp:wd/paragraph {"blockId":"b43d63ed-0a18-404a-bbfe-52467453e169"} -->
+<p id="wd-b43d63ed" class="wp-block-wd-paragraph">We have many years of experience and qualified specialists, which allows us to manufacture high-quality products from environmentally friendly raw materials.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/testimonial --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"2e20c969-ccf4-4b20-8d4e-c5eb40618d08"} -->
+<div id="wd-2e20c969" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"0119b3b1-5b1f-4cfd-8535-1efaff228d2c","adjacentCount":2,"alignItems":"center","justifyContent":"center","alignItemsTablet":"center"} -->
+<div id="wd-0119b3b1" class="wp-block-wd-column wd-align-is-lg-center wd-align-is-md-center"><!-- wp:wd/image {"blockId":"50142bb3-da2d-4914-8cf4-87b34819e3dd","image":{"id":324,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-visit-opt.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-visit-opt.jpg","width":550,"height":640}} -->
+<div id="wd-50142bb3" class="wp-block-wd-image wd-block-image"><img class="wp-image-324" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-visit-opt.jpg" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"d0cf93af-116f-4290-ba84-5fad897bd543","adjacentCount":2,"justifyContent":"center"} -->
+<div id="wd-d0cf93af" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"b4224246-6258-4dd3-8134-35ff204d95fe","content":"Visit Our Dairy Farm","tpFontSize":"40","tpFontSizeTablet":"28","tpFontSizeMobile":"22"} -->
+<h2 id="wd-b4224246" class="wp-block-wd-title title">Visit Our Dairy Farm</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"594d5c9f-d3b1-41fa-932f-60581af7164b"} -->
+<p id="wd-594d5c9f" class="wp-block-wd-paragraph">The process of storing and ripening the cheese in equipped ripening chambers with constant humidity and temperature takes several months, and we show curious tourists this kingdom of cheese during a tour of the cheese factory.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"7f2250e7-1c29-4117-a544-d9d3694c8151"} -->
+<p id="wd-7f2250e7" class="wp-block-wd-paragraph">You will also have the opportunity to visit our farms, where you can familiarize yourself with the interesting process of animal husbandry. And at the tasting, you will feel like you are in the Swiss Alps, and you will also bring home unique delicacies.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"96aab514-43fd-4ebd-b38f-71fec73ec085","direction":"row","marginBottom":"20"} -->
+<div id="wd-96aab514" class="wp-block-wd-container wd-dir-row"><!-- wp:wd/button {"blockId":"9b4b5610-ea23-4e15-8aba-24067d46baca","predefinedColor":"primary","size":"large","shape":"round"} -->
+<a id="wd-9b4b5610" class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-large btn-shape-round" href="#"><span>Reserve</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/button {"blockId":"12cbc737-c741-45ea-9f8f-d2d84f13b70c","design":"bordered","predefinedColor":"black","size":"large","shape":"round"} -->
+<a id="wd-12cbc737" class="wp-block-wd-button btn btn-style-bordered btn-color-black btn-size-large btn-shape-round" href="#"><span>About Farm</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/paragraph {"blockId":"dba88608-123c-4068-8fe3-4718f4554a59","tpFontSize":"14"} -->
+<p id="wd-dba88608" class="wp-block-wd-paragraph">Do You Have Questions About the Farm? <a href="#">Contact Us</a></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"95a76ea9-8854-4788-abc9-0c3dece2fde9","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","paddingTopTablet":"30","paddingRightTablet":"30","paddingBottomTablet":"30","paddingLeftTablet":"30","paddingLockTablet":true,"marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-95a76ea9" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"b3a9490a-24b5-4d06-8364-aa44b98deb12","adjacentCount":4,"colorScheme":"light","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-b3a9490a" class="wp-block-wd-column color-scheme-light"><!-- wp:wd/infobox {"blockId":"d92eb6e7-7eb9-4ffa-a391-47670847a279"} -->
+<div id="wd-d92eb6e7" class="wp-block-wd-infobox wd-hover-parent wd-icon-top"><!-- wp:wd/icon {"blockId":"ae851b92-c7ff-44a1-965c-8513a8c22013","image":{"id":329,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-1-1.svg"},"width":"52"} -->
+<div id="wd-ae851b92" class="wp-block-wd-icon"><img class="wp-image-329" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-1-1.svg" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"13445ecd-faf9-46b6-a9ba-753272036408","metadata":{"name":"Infobox content"}} -->
+<div id="wd-13445ecd" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"eff035c4-dd0d-4cc1-b1ad-9143e9352242","content":"Tour of the Farm","tpFontSize":"24"} -->
+<h2 id="wd-eff035c4" class="wp-block-wd-title title">Tour of the Farm</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"54a30392-1698-4626-9090-1952c7df2b88"} -->
+<p id="wd-54a30392" class="wp-block-wd-paragraph">A wonderful serenity has taken animal principes of spring which enjoy whole.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"373f2b0a-d8f1-4bba-8283-96ba775a2c5d","adjacentCount":4,"colorScheme":"light","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-373f2b0a" class="wp-block-wd-column color-scheme-light"><!-- wp:wd/infobox {"blockId":"fb4a6a7b-00dd-4ae3-9d43-6980330286f9"} -->
+<div id="wd-fb4a6a7b" class="wp-block-wd-infobox wd-hover-parent wd-icon-top"><!-- wp:wd/icon {"blockId":"1e6826d2-15ff-4960-99fc-6fc8db8dd678","image":{"id":330,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-2-1.svg"},"width":"52"} -->
+<div id="wd-1e6826d2" class="wp-block-wd-icon"><img class="wp-image-330" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-2-1.svg" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"a8b431e5-f34e-40bc-89cf-42bdd961042f","metadata":{"name":"Infobox content"}} -->
+<div id="wd-a8b431e5" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"78fc3896-3dfd-4df1-98b6-55d1c407b806","content":"Technological Process","tpFontSize":"24"} -->
+<h2 id="wd-78fc3896" class="wp-block-wd-title title">Technological Process</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"058c9a9b-3a7e-48a5-a18d-385da3830d8f"} -->
+<p id="wd-058c9a9b" class="wp-block-wd-paragraph">The process of storing and ripening the cheese in equipped ripening chambers.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"cdc518d4-efa0-4eef-ba23-59647c3d45a6","adjacentCount":4,"colorScheme":"light","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-cdc518d4" class="wp-block-wd-column color-scheme-light"><!-- wp:wd/infobox {"blockId":"b1022d8a-8dba-4f9c-abbd-9e39e020faa0"} -->
+<div id="wd-b1022d8a" class="wp-block-wd-infobox wd-hover-parent wd-icon-top"><!-- wp:wd/icon {"blockId":"0f3cb331-6753-4fb1-b2bb-133051f31af8","image":{"id":331,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-3-1.svg"},"width":"52"} -->
+<div id="wd-0f3cb331" class="wp-block-wd-icon"><img class="wp-image-331" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-3-1.svg" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"3464772e-9fcc-456a-8969-97ca040cc73e","metadata":{"name":"Infobox content"}} -->
+<div id="wd-3464772e" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"9ce1d7b5-b4f7-4cf3-b753-8dd0f05e918e","content":"Our of the Cheese Factory","tpFontSize":"24"} -->
+<h2 id="wd-9ce1d7b5" class="wp-block-wd-title title">Our of the Cheese Factory</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"2a19b58e-749a-425c-9e0a-7973c9f51eb3"} -->
+<p id="wd-2a19b58e" class="wp-block-wd-paragraph">Temperature takes several months, and we show curious tourists this kingdom.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"da07c6af-cfaf-4cf6-ab38-30a26c068f7b","adjacentCount":4,"colorScheme":"light","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-da07c6af" class="wp-block-wd-column color-scheme-light"><!-- wp:wd/infobox {"blockId":"470f78e1-3c69-4ebb-ad7d-09a1ad61f2eb"} -->
+<div id="wd-470f78e1" class="wp-block-wd-infobox wd-hover-parent wd-icon-top"><!-- wp:wd/icon {"blockId":"210362ca-f17f-4b24-8d16-4bb41431c59e","image":{"id":332,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-4-1.svg"},"width":"52"} -->
+<div id="wd-210362ca" class="wp-block-wd-icon"><img class="wp-image-332" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-4-1.svg" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"c50e4fb4-7575-43f7-8a7e-fad01f6e7080","metadata":{"name":"Infobox content"}} -->
+<div id="wd-c50e4fb4" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"0a9fda1d-b1fe-43cc-8a21-c6f69c284649","content":"Tasting of Dairy Products","tpFontSize":"24"} -->
+<h2 id="wd-0a9fda1d" class="wp-block-wd-title title">Tasting of Dairy Products</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"36c7b5f8-7afc-4a95-bc56-ac65b9ee06f8"} -->
+<p id="wd-36c7b5f8" class="wp-block-wd-paragraph">Where you can familiarize yourself with the interesting process of animal.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/title {"blockId":"c48d3f95-aef2-4722-ae65-2b4709032e4e","content":"Customers Recommend These Products","tpFontSize":"46","marginBottom":"30","displayWidth":"custom","customWidth":"550","tpFontSizeTablet":"32","tpFontSizeMobile":"24","marginBottomTablet":"20","displayWidthTablet":"full-width","displayWidthMobile":"custom","customWidthMobile":"300"} -->
+<h2 id="wd-c48d3f95" class="wp-block-wd-title title wd-custom-width">Customers Recommend These Products</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/products {"blockId":"8fb75e42-7e27-41d3-8008-20a18f145a51","orderby":"modified","layout":"carousel","items_per_page":"6","products_with_background":true,"marginBottom":"80","slides_per_view":"5","carousel_arrows_position":"together","hide_pagination_control":true,"sync_parent_id":"wd_a6a1aa1f","productsBackgroundCode":"#ffffff","marginBottomTablet":"60","marginBottomMobile":"40","slides_per_viewTablet":"3","slides_per_viewMobile":"1.5","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/title {"blockId":"28f0f928-f80b-4b72-bc6a-67aec30ff41d","content":"Our Articles​","tpFontSize":"46","marginBottom":"30","displayWidth":"","customWidth":"550","tpFontSizeTablet":"32","tpFontSizeMobile":"24","marginBottomTablet":"20","displayWidthTablet":"full-width"} -->
+<h2 id="wd-28f0f928" class="wp-block-wd-title title wd-custom-width">Our Articles​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/blog {"blockId":"eb5326e2-9a30-49c5-9b06-0df6e7103f86","layout":"carousel","marginBottom":"30","slides_per_view":"4","carousel_arrows_position":"together","hide_pagination_control":true,"sync_parent_id":"wd_67fa8889","marginBottomMobile":"0","slides_per_viewTablet":"3","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->]]></content:encoded>
+															<wp:post_id>114</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:25:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:25:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-09 11:33:38]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-09 11:33:38]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-farm]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-marvin-mckinney]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/farm-marvin-mckinney/</link>
+					<pubDate>Wed, 24 Jul 2024 12:09:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-marvin-mckinney.png</guid>
+															<wp:post_id>122</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 12:09:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 12:09:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 12:09:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 12:09:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-marvin-mckinney]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-marvin-mckinney.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-marvin-mckinney.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-home-image-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-home-image-opt/</link>
+					<pubDate>Thu, 25 Jul 2024 07:13:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-home-image-opt.png</guid>
+															<wp:post_id>284</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:13:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:13:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:13:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:13:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-home-image-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-home-image-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-home-image-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-top-background-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-top-background-opt/</link>
+					<pubDate>Thu, 25 Jul 2024 07:14:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-top-background-opt.jpg</guid>
+															<wp:post_id>285</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:14:14]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:14:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:14:14]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:14:14]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-top-background-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-top-background-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-top-background-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-quote]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-quote/</link>
+					<pubDate>Thu, 25 Jul 2024 07:36:02 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-quote.svg</guid>
+															<wp:post_id>297</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:36:02]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:36:02]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:36:02]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:36:02]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-quote]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-quote.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-quote.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-dairy-cow]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-dairy-cow/</link>
+					<pubDate>Thu, 25 Jul 2024 07:38:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-dairy-cow.png</guid>
+															<wp:post_id>299</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:38:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:38:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:38:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:38:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-dairy-cow]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-dairy-cow.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-dairy-cow.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-visit-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-visit-opt/</link>
+					<pubDate>Thu, 25 Jul 2024 07:54:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-visit-opt.jpg</guid>
+															<wp:post_id>324</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:54:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:54:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:54:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:54:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-visit-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-visit-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-visit-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-infobox-1-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-infobox-1-1/</link>
+					<pubDate>Thu, 25 Jul 2024 07:58:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-1-1.svg</guid>
+															<wp:post_id>329</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:58:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:58:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:58:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:58:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-infobox-1-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-1-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-infobox-1-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-infobox-2-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-infobox-2-1/</link>
+					<pubDate>Thu, 25 Jul 2024 07:58:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-2-1.svg</guid>
+															<wp:post_id>330</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:58:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:58:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:58:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:58:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-infobox-2-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-2-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-infobox-2-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-infobox-3-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-infobox-3-1/</link>
+					<pubDate>Thu, 25 Jul 2024 07:58:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-3-1.svg</guid>
+															<wp:post_id>331</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:58:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:58:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:58:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:58:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-infobox-3-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-3-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-infobox-3-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-infobox-4-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/home-farm/farm-infobox-4-1/</link>
+					<pubDate>Thu, 25 Jul 2024 07:58:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-4-1.svg</guid>
+															<wp:post_id>332</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 07:58:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 07:58:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 07:58:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 07:58:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-infobox-4-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>114</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-infobox-4-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-infobox-4-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[farm-logo]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/farm-logo/</link>
+					<pubDate>Thu, 25 Jul 2024 08:48:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-logo.svg</guid>
+															<wp:post_id>369</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-25 08:48:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-25 08:48:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 08:48:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 08:48:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-logo]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-logo.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-logo.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Footer Farm]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?cms_block=footer-farm</link>
+					<pubDate>Wed, 24 Jul 2024 11:22:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/farm-gutenberg/?post_type=cms_block&#038;p=103</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"400525e5-eb31-45c3-a8eb-c56b7f8040fa","blockVersion":"2","paddingTop":"80","paddingBottom":"80","columnsGap":20,"paddingTopTablet":"60","paddingTopMobile":"40","paddingBottomTablet":"60","paddingBottomMobile":"40"} -->
+<div class="wp-block-wd-row wd-400525e5"><!-- wp:wd/column {"blockId":"81e59261-ba86-4a40-bd31-6c7022384a85","blockVersion":"2","adjacentCount":2,"colWidth":33.33,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-81e59261"><!-- wp:wd/title {"blockId":"8a2db37f-7185-44f8-a423-25a9dc21cfc6","blockVersion":"2","content":"Join Our Communities On Social Networks​","tpFontSize":"40","tpFontSizeTablet":"28","tpFontSizeMobile":"24"} -->
+<h2 class="wp-block-wd-title title wd-8a2db37f">Join Our Communities On Social Networks​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/social-buttons {"blockId":"d58d7899-a7f4-4506-8129-a8330cc19768","blockVersion":"2","type":"follow","style":"colored","social_links_source":"custom","pinterest_link":"","youtube_link":""} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"1de3bc64-b1c2-4582-80e6-3c20252298ad","blockVersion":"2","adjacentCount":2,"colWidth":66.67,"justifyContent":"flex-end","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-1de3bc64"><!-- wp:wd/menu {"blockId":"859dd244-48b9-40f1-a0fb-b27d34229d71","blockVersion":"2","nav_menu":"32","items_gap":"l","align":"end","icon_alignment":"right","itemTpFontSize":"18","itemTpFontVariant":"500","itemTpFontWeight":"500","itemsHoverColorCode":"rgba(255,255,255,0.8)","alignTablet":"start"} /-->
+
+<!-- wp:wd/divider {"blockId":"e1d3c684-ffbb-4be6-a069-2a78a9283226","blockVersion":"2","weight":2,"colorCode":"#ffffff"} -->
+<div class="wp-block-wd-divider wd-style-line wd-e1d3c684"></div>
+<!-- /wp:wd/divider --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/image {"blockId":"a59c46d3-825d-43b5-b1c1-631879348c45","blockVersion":"2","image":{"id":149,"url":"http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-footer-logo.svg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-footer-logo.svg","width":1532,"height":185},"marginBottom":"0"} -->
+<div class="wp-block-wd-image wd-block-image wd-a59c46d3"><img class="wp-image-149" src="http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-footer-logo.svg" alt=""/></div>
+<!-- /wp:wd/image -->]]></content:encoded>
+															<wp:post_id>103</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 11:22:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 11:22:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-11 14:58:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-11 14:58:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[footer-farm]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+												<category domain="cms_block_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+									</item>
+								<item>
+					<title><![CDATA[farm-footer-logo]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/?attachment_id=149</link>
+					<pubDate>Wed, 24 Jul 2024 12:43:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-footer-logo.svg</guid>
+															<wp:post_id>149</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-24 12:43:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-24 12:43:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-24 12:43:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-24 12:43:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[farm-footer-logo]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>103</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/2024/07/farm-footer-logo.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/farm-footer-logo.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

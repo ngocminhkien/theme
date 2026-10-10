@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Games gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/games-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:26:52 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/games-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form Games]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/games-gutenberg/?post_type=wpcf7_contact_form&#038;p=581</link>
+					<pubDate>Fri, 26 Jul 2024 09:57:13 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/games-gutenberg/?post_type=wpcf7_contact_form&#038;p=581</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch" style="--wd-gap-lg: 30px;--wd-gap-sm: 20px">
+<p class="wd-col">[text* First name placeholder ="First name"]</p>
+<p class="wd-col">[text* Last name placeholder ="Last name"]</p>
+</div>
+<p class="wd-col">[text* Last name placeholder ="Email" ]</p>
+<p class="wd-col">[textarea your-message placeholder ="Your Message"]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>581</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-26 09:57:13]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-26 09:57:13]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-24 13:50:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-24 13:50:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-games]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch" style="--wd-gap-lg: 30px;--wd-gap-sm: 20px">
+<p class="wd-col">[text* First name placeholder ="First name"]</p>
+<p class="wd-col">[text* Last name placeholder ="Last name"]</p>
+</div>
+<p class="wd-col">[text* Last name placeholder ="Email" ]</p>
+<p class="wd-col">[textarea your-message placeholder ="Your Message"]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3681759d7fdce57b8ab9c480523ae9beb15d1c02]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}s:23:"mail.additional_headers";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:51:"Invalid mailbox syntax is used in the %name% field.";s:6:"params";a:1:{s:4:"name";s:8:"Reply-To";}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-vgs-contact-us-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/games-gutenberg/contact-us/wd-vgs-contact-us-opt/</link>
+					<pubDate>Fri, 26 Jul 2024 13:51:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-contact-us-opt.png</guid>
+															<wp:post_id>678</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-26 13:51:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-26 13:51:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-26 13:51:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-26 13:51:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-vgs-contact-us-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>536</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-contact-us-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-vgs-contact-us-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[636e0a6ca814282eca7172c6_icon_clyde_white_RGB]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/games-gutenberg/contact-us/636e0a6ca814282eca7172c6_icon_clyde_white_rgb/</link>
+					<pubDate>Fri, 26 Jul 2024 13:54:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg</guid>
+															<wp:post_id>684</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-26 13:54:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-26 13:54:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-26 13:54:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-26 13:54:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[636e0a6ca814282eca7172c6_icon_clyde_white_rgb]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>536</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-vgs-logo-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/games-gutenberg/wd-vgs-logo-white/</link>
+					<pubDate>Fri, 26 Jul 2024 14:09:13 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-logo-white.svg</guid>
+															<wp:post_id>698</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-26 14:09:13]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-26 14:09:13]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-26 14:09:13]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-26 14:09:13]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-vgs-logo-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-logo-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-vgs-logo-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us Dark]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/games-gutenberg/contact-us-dark/</link>
+					<pubDate>Mon, 26 Aug 2024 06:39:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/games-gutenberg/?page_id=1041</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"26dd4c83-08e2-4e04-b34f-843855ece04e","marginBottom":"40","marginTopTablet":"-20"} -->
+<div id="wd-26dd4c83" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"b9c1ac22-ad3b-460c-8230-4dcb3f0c413c","adjacentCount":2,"justifyContent":"center","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-b9c1ac22" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"e2ea4b59-6032-464a-b0c3-4207d897a6be","content":"Contact Us","tpFontSize":"34","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-e2ea4b59" class="wp-block-wd-title title">Contact Us</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"ec643a16-e657-4e92-b1c0-01d6b3e11c20"} -->
+<p id="wd-ec643a16" class="wp-block-wd-paragraph">The online store of equipment and electronics is one of the leading online stores.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"d1690bb2-df2b-4fd1-8ef0-60fa750d13c9","form_id":"581"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"2f433f45-4d48-4fd3-a47f-9d450f833316","adjacentCount":2,"justifyContent":"center","adjacentCountTablet":2,"flexOrderTablet":"1"} -->
+<div id="wd-2f433f45" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"22858258-c6ad-4751-b99a-0b81b627c264","image":{"id":678,"url":"http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-contact-us-opt.png"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-contact-us-opt.png","width":740,"height":620}} -->
+<div id="wd-22858258" class="wp-block-wd-image wd-block-image"><img class="wp-image-678" src="http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-contact-us-opt.png" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"d4a8ec8b-ce0c-44e1-90e2-6b3c3967ab25","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-d4a8ec8b" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"55a54468-ae41-4f24-bc27-0894a830543b","adjacentCount":4,"alignItems":"center","justifyContent":"center","bgColorCode":"#6d4eed","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"5","borderRadiusTop":"5","borderRadiusRight":"5","borderRadiusBottom":"5","borderRadiusLeft":"5","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-55a54468" class="wp-block-wd-column wd-align-is-lg-center"><!-- wp:wd/title {"blockId":"6d278082-9efa-40fb-9376-a8a374fc3ccc","textAlign":"center","content":"Join us on Discord​","tpFontSize":"18"} -->
+<h2 id="wd-6d278082" class="wp-block-wd-title title wd-align">Join us on Discord​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e2b2739c-51de-4740-b75d-65accbbe03b6","textAlign":"center"} -->
+<p id="wd-e2b2739c" class="wp-block-wd-paragraph wd-align">Come to the official Woodmart deals server and chat with fellow users.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/icon {"blockId":"31e0291b-04e8-4e88-be3d-e3bdccea4ebe","image":{"id":684,"url":"http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg"},"width":"28"} -->
+<div id="wd-31e0291b" class="wp-block-wd-icon"><img class="wp-image-684" src="http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" /></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"074f5597-d4ab-47d7-9ded-3ae143fdb5ce","adjacentCount":4,"alignItems":"center","justifyContent":"center","bgColorCode":"rgba(151,151,151,0.11)","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"5","borderRadiusTop":"5","borderRadiusRight":"5","borderRadiusBottom":"5","borderRadiusLeft":"5","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-074f5597" class="wp-block-wd-column wd-align-is-lg-center"><!-- wp:wd/title {"blockId":"1ea6856e-bae7-4df8-8b42-0384da3d60d9","textAlign":"center","content":"Follow us​","tpFontSize":"18"} -->
+<h2 id="wd-1ea6856e" class="wp-block-wd-title title wd-align">Follow us​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"aaeef59b-045c-408b-b213-258263f5d4d7","textAlign":"center"} -->
+<p id="wd-aaeef59b" class="wp-block-wd-paragraph wd-align">Stay up to date with the best deals! Join us on Facebook, Twitter and Steam.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/social-buttons {"blockId":"a9e8af7b-db6d-4127-ba5d-8efe2f0d71ad"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"3ed7eb98-f9db-4694-904b-40661799d95a","adjacentCount":4,"alignItems":"center","justifyContent":"center","bgColorCode":"rgba(151,151,151,0.11)","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"5","borderRadiusTop":"5","borderRadiusRight":"5","borderRadiusBottom":"5","borderRadiusLeft":"5","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-3ed7eb98" class="wp-block-wd-column wd-align-is-lg-center"><!-- wp:wd/title {"blockId":"1046cd6a-f225-4295-b543-c78d4ca6c900","textAlign":"center","content":"Vote for features​","tpFontSize":"18"} -->
+<h2 id="wd-1046cd6a" class="wp-block-wd-title title wd-align">Vote for features​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"54ab8c01-76e1-47d0-b1ee-4b042bd73b1e","textAlign":"center"} -->
+<p id="wd-54ab8c01" class="wp-block-wd-paragraph wd-align">Tell us how to improve Woodmart. Go to our to vote &amp; comment on feature requests.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/icon {"blockId":"05fae302-bb3e-47e5-8b92-3d6b5bbe9888","image":{"id":698,"url":"http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-logo-white.svg"},"width":"120"} -->
+<div id="wd-05fae302" class="wp-block-wd-icon"><img class="wp-image-698" src="http://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/2024/07/wd-vgs-logo-white.svg" /></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"b76cb50a-5dfa-40fd-b88f-53b2b8440d45","adjacentCount":4,"alignItems":"center","justifyContent":"center","bgColorCode":"rgba(151,151,151,0.11)","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"5","borderRadiusTop":"5","borderRadiusRight":"5","borderRadiusBottom":"5","borderRadiusLeft":"5","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-b76cb50a" class="wp-block-wd-column wd-align-is-lg-center"><!-- wp:wd/title {"blockId":"1b786286-fba5-47d9-93e1-bd0524dd8741","textAlign":"center","content":"Your feedback​","tpFontSize":"18"} -->
+<h2 id="wd-1b786286" class="wp-block-wd-title title wd-align">Your feedback​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"5d936b0e-b88f-4334-a96b-cafc1c910137","textAlign":"center"} -->
+<p id="wd-5d936b0e" class="wp-block-wd-paragraph wd-align">Help us create the best version of Woodmart. Go to our &amp; suggest your ideas.​</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"5d699859-3519-4792-baa2-74e012d05330","size":"small","shape":"round","bgColorCode":"#ebe6ff","bgHoverColorCode":"#d6d1e8"} -->
+<a id="wd-5d699859" class="wp-block-wd-button btn btn-style-default btn-size-small btn-shape-round" href="#"><span>Share Feedback</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/collapsible-content {"blockId":"0046b8b9-b805-471a-a3bb-85a5ae2991e9","contentHeight":"280","contentHeightTablet":"160"} -->
+<div id="wd-0046b8b9" class="wp-block-wd-collapsible-content wd-effect-fade"><!-- wp:wd/container {"blockId":"8ba3e757-ec21-40b2-b983-ed9e4d32dc3e","rowGap":"","metadata":{"name":"Content"}} -->
+<div id="wd-8ba3e757" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"0fe00226-89aa-4515-b739-c7df371ac319","content":"Online video game store","tpFontSize":"18"} -->
+<h2 id="wd-0fe00226" class="wp-block-wd-title title">Online video game store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"ea0a00fe-6c8c-48d8-9a40-a9489864dcf3"} -->
+<p id="wd-ea0a00fe" class="wp-block-wd-paragraph">The online store of equipment and electronics is one of the leading online stores. The band was released in 25 volumes. During this time, our team sent 228 cypemapkets and managed to create a powerful, fast-working online store. The range of online supply points is huge and covers all company categories available for convenience stores. In 2019, we presented a new border policy strategy that covers all aspects of the company’s activities – corporate style, delivery, and consultant work.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"9db91097-06aa-47e5-9827-382ce93faf8e","content":"Online shopping that really is convenient","tpFontSize":"18"} -->
+<h2 id="wd-9db91097" class="wp-block-wd-title title">Online shopping that really is convenient</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"ad37ef9e-5164-4223-8aa2-d803c13141ed"} -->
+<p id="wd-ad37ef9e" class="wp-block-wd-paragraph">The car parts and everything you may need for repairs and regular maintenance of your vehicle are listed in a convenient and comprehensive catalogue. The innovative search – by name, item ID or OEM number will help you to find automotive parts easily.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"3321a459-7d49-410b-84ce-1d66aa86f130"} -->
+<p id="wd-3321a459" class="wp-block-wd-paragraph">You can choose whichever payment method is most convenient for you from among the various options. Have any questions? Our support service specialists are always on hand to help. Picking and buying car parts with us is an enjoyable experience! At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t. If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited for another time.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"1738c7f8-1573-4a5f-bb42-00149ed3188f"} -->
+<p id="wd-1738c7f8" class="wp-block-wd-paragraph">A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity. Fake data can ensure a nice looking layout but it doesn’t reflect what a living, breathing application must endure. Real data does.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"20c3a238-a01d-46a7-ad18-ed7bd8b1c48b","design":"link","predefinedColor":"black"} -->
+<a id="wd-20c3a238" class="wp-block-wd-button btn btn-style-link btn-color-black btn-size-default" href="#"><span>Read more</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/collapsible-content -->]]></content:encoded>
+															<wp:post_id>1041</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-26 06:39:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-26 06:39:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-23 13:57:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-23 13:57:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us-dark]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

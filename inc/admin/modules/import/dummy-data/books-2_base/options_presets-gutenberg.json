@@ -1,0 +1,8 @@
+{
+    "3": {
+        "disable_footer": "1",
+        "footer_content_type": "html_block",
+        "footer_html_block": "165",
+        "fields_to_save": "disable_footer,footer_content_type,footer_html_block"
+    }
+}

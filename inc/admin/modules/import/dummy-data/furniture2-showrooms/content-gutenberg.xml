@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Furniture 2 gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:24:07 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Showrooms]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/</link>
+					<pubDate>Tue, 16 Jul 2024 11:32:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?page_id=177</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"a4d03781-f21a-45cd-ac7b-8138f5ee1c9e","blockVersion":"2","marginTop":"60","marginBottom":"40","marginTopTablet":"20","marginTopMobile":"0","marginBottomMobile":"30"} -->
+<div class="wp-block-wd-row wd-a4d03781"><!-- wp:wd/column {"blockId":"026b0d96-b862-449c-911f-09b8a1c4d5f3","blockVersion":"2","adjacentCount":2,"colWidth":67} -->
+<div class="wp-block-wd-column wd-026b0d96"><!-- wp:wd/title {"blockId":"24d4c875-8aad-461f-90e1-e3612786944e","blockVersion":"2","content":"Milano showroom","tpFontSize":"46","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-24d4c875">Milano showroom</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"8f785582-6356-4d6a-bf80-0d92ef6e97d6","blockVersion":"2","displayWidth":"custom","customWidth":"777"} -->
+<p class="wp-block-wd-paragraph wd-8f785582 wd-custom-width">Furniture is an invariable attribute of any room. It is they who give it the right atmosphere, making the space cozy and comfortable. More and more often, customers want to place an order in an online store, when you can sit down at the computer in your free time, arrange the furniture in the photo and calmly buy the furniture.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/gallery {"blockId":"b3f24f39-c96d-430a-b1d8-becd901861a9","blockVersion":"2","columns":5,"displayWidth":"custom","customWidth":"400","columnsTablet":5,"columnsMobile":5,"displayWidthTablet":"custom"} -->
+<div class="wp-block-wd-gallery wd-grid-g wd-caption-mask wd-b3f24f39 wd-custom-width" style="--wd-col-lg:5;--wd-col-md:5;--wd-col-sm:5;--wd-gap-lg:20px;--wd-gap-sm: 10px;"><!-- wp:wd/gallery-item {"blockId":"45cc343d-be20-4135-b12a-ead741176a86","blockVersion":"2","image":{"id":359,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-45cc343d"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-359" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"5ca5f3bf-358b-485c-8129-630a29abccf6","blockVersion":"2","image":{"id":360,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-flos-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-flos-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-5ca5f3bf"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-360" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-flos-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"cf24df96-aa00-4787-afb8-1fce6372c9f6","blockVersion":"2","image":{"id":361,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-cf24df96"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-361" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"6a70fbf0-fa93-4ed7-87c0-c093a5f0b426","blockVersion":"2","image":{"id":362,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-6a70fbf0"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-362" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"7408dcc6-7e9a-45c8-83b0-f35ebf1a1522","blockVersion":"2","image":{"id":364,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-minotti-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-minotti-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-7408dcc6"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-364" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-minotti-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item --></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"8da85e64-abee-4a11-8482-8abb6eac9af7","blockVersion":"2","adjacentCount":2,"colWidth":33} -->
+<div class="wp-block-wd-column wd-8da85e64"><!-- wp:wd/paragraph {"blockId":"6c6c4c07-dc65-4767-bc51-b93b135160bd","blockVersion":"2","colorCode":"#242424","tpFontFamily":"var(\u002d\u002dwd-title-font)"} -->
+<p class="wp-block-wd-paragraph wd-6c6c4c07"><strong>Milano Piazzale<br>Ferrara<br>Via Mincio, 4, 20139</strong></p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"61bf7b28-bbb0-469a-82e5-0740fb219b69","blockVersion":"2","colorCode":"#242424","tpFontFamily":"var(\u002d\u002dwd-title-font)"} -->
+<p class="wp-block-wd-paragraph wd-61bf7b28"><strong>Monday - Friday</strong> 09:00 - 17:00</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"6fd19892-f59a-4edd-851b-f911818dcfaf","blockVersion":"2","colorCode":"#242424","tpFontFamily":"var(\u002d\u002dwd-title-font)"} -->
+<p class="wp-block-wd-paragraph wd-6fd19892"><strong>studio@mail.com<br>(686) 492-1044</strong></p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"2f0cc490-260e-45c5-a452-452504f754cd","blockVersion":"2","predefinedColor":"primary","shape":"round"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-round wd-2f0cc490" href="#"><span>Make a route</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/section {"blockId":"b0e787c5-3a2a-440a-ac9c-f4d4ae06000b","blockVersion":"2","marginBottom":"100","marginBottomTablet":"80","marginBottomMobile":"60"} -->
+<div class="wp-block-wd-section wd-b0e787c5"><!-- wp:wd/gallery {"blockId":"37637190-fa47-4812-85c7-0f320219698d","blockVersion":"2","expandOnClick":true,"layout":"carousel","paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"syncParentId":"wd_37637190","slidesPerViewTablet":"2"} -->
+<div class="wp-block-wd-gallery wd-carousel-container wd-caption-mask wd-37637190" style=""><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:3;--wd-col-md:2;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/gallery-item {"blockId":"090d6816-f6a6-4618-847e-a0b576a4aa42","blockVersion":"2","image":{"id":641,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-1-opt.jpg"},"expandOnClick":true,"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-1-opt.jpg","width":1320,"height":720}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item photoswipe-images wd-090d6816"><div class="wd-block-image"><a href="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-1-opt.jpg" data-width="1320" data-height="720" data-elementor-open-lightbox="no"><img class="wp-image-641" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-1-opt.jpg" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"fea188b0-ea41-4df3-8037-7c4bb32eb528","blockVersion":"2","image":{"id":642,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-2-opt.jpg"},"expandOnClick":true,"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-2-opt.jpg","width":1320,"height":720}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item photoswipe-images wd-fea188b0"><div class="wd-block-image"><a href="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-2-opt.jpg" data-width="1320" data-height="720" data-elementor-open-lightbox="no"><img class="wp-image-642" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-2-opt.jpg" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"0a0fb49c-cb60-42ca-87ac-b2acf083f20d","blockVersion":"2","image":{"id":643,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-3-opt.jpg"},"expandOnClick":true,"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-3-opt.jpg","width":1320,"height":720}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item photoswipe-images wd-0a0fb49c"><div class="wd-block-image"><a href="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-3-opt.jpg" data-width="1320" data-height="720" data-elementor-open-lightbox="no"><img class="wp-image-643" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-3-opt.jpg" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"658a6bfa-9cef-48cc-8ff4-34b94a2d5a91","blockVersion":"2","image":{"id":1158,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-milano-4-opt.jpg"},"expandOnClick":true,"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-milano-4-opt.jpg","width":1320,"height":720}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item photoswipe-images wd-658a6bfa"><div class="wd-block-image"><a href="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-milano-4-opt.jpg" data-width="1320" data-height="720" data-elementor-open-lightbox="no"><img class="wp-image-1158" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-milano-4-opt.jpg" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"2e882d7d-6b39-4aae-8450-93d220a760e1","blockVersion":"2","marginBottom":"40","marginBottomMobile":"30"} -->
+<div class="wp-block-wd-row wd-2e882d7d"><!-- wp:wd/column {"blockId":"8fef49a1-b4a7-4da4-8aa5-4caf874b0d9d","blockVersion":"2","adjacentCount":2,"colWidth":67} -->
+<div class="wp-block-wd-column wd-8fef49a1"><!-- wp:wd/title {"blockId":"c585053b-eb3e-47c7-97be-7191ea9cc5b0","blockVersion":"2","content":"Torino showroom​","tpFontSize":"46","tpFontSizeTablet":"26","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-c585053b">Torino showroom​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"893287ae-409a-468b-acc6-60ff2e9ea6cc","blockVersion":"2","displayWidth":"custom","customWidth":"777"} -->
+<p class="wp-block-wd-paragraph wd-893287ae wd-custom-width">Furniture is an invariable attribute of any room. It is they who give it the right atmosphere, making the space cozy and comfortable. More and more often, customers want to place an order in an online store, when you can sit down at the computer in your free time, arrange the furniture in the photo and calmly buy the furniture.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/gallery {"blockId":"01294cfc-6282-41a2-ac63-3f8b6508656a","blockVersion":"2","columns":5,"displayWidth":"custom","customWidth":"400","columnsTablet":5,"columnsMobile":5,"displayWidthTablet":"custom"} -->
+<div class="wp-block-wd-gallery wd-grid-g wd-caption-mask wd-01294cfc wd-custom-width" style="--wd-col-lg:5;--wd-col-md:5;--wd-col-sm:5;--wd-gap-lg:20px;--wd-gap-sm: 10px;"><!-- wp:wd/gallery-item {"blockId":"7a117397-db37-410c-b7eb-5a6eea0b0ff1","blockVersion":"2","image":{"id":363,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-7a117397"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-363" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"a5c4e9db-aab2-4876-b196-43f6f1bcdb12","blockVersion":"2","image":{"id":365,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-a5c4e9db"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-365" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"5c81458c-a48d-43eb-99be-67eb0a1926da","blockVersion":"2","image":{"id":366,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-tacchini-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-tacchini-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-5c81458c"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-366" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-tacchini-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"e498b65b-de7d-45c2-b70e-5f3a6f9bccf4","blockVersion":"2","image":{"id":367,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-vitra-1.png"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-vitra-1.png","width":128,"height":128}} -->
+<div class="wp-block-wd-gallery-item wd-col wd-e498b65b"><div class="wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-367" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-vitra-1.png" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item --></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"d2101e7b-7520-4046-a252-804ea1dd5380","blockVersion":"2","adjacentCount":2,"colWidth":33} -->
+<div class="wp-block-wd-column wd-d2101e7b"><!-- wp:wd/paragraph {"blockId":"0a26638d-86bf-4e0b-87a8-40001f5511e3","blockVersion":"2","colorCode":"#242424","tpFontFamily":"var(\u002d\u002dwd-title-font)"} -->
+<p class="wp-block-wd-paragraph wd-0a26638d"><strong>Torino<br>Shopville Le Gru<br>Via Chisola, 5, 10126</strong></p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"9a3e8998-5745-4f77-afec-7b91d7069ba5","blockVersion":"2","colorCode":"#242424","tpFontFamily":"var(\u002d\u002dwd-title-font)","markFontVariant":"300","markFontWeight":"300"} -->
+<p class="wp-block-wd-paragraph wd-9a3e8998"><strong>Monday - Friday</strong> 09:00 - 17:00</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"54bc4e3c-fb5b-4513-98c7-4922e887aa76","blockVersion":"2","colorCode":"#242424","tpFontFamily":"var(\u002d\u002dwd-title-font)"} -->
+<p class="wp-block-wd-paragraph wd-54bc4e3c"><strong>studio@mail.com<br>(686) 492-1044</strong></p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"f005734f-c89f-4bd9-b1aa-00c9a4c3eb45","blockVersion":"2","predefinedColor":"primary","shape":"round"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-round wd-f005734f" href="#"><span>Make a route</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/section {"blockId":"ee6246a1-e6da-423f-aa65-4be7e705488f","blockVersion":"2","marginBottom":"100","marginBottomTablet":"80","marginBottomMobile":"60"} -->
+<div class="wp-block-wd-section wd-ee6246a1"><!-- wp:wd/gallery {"blockId":"676f150a-6001-446f-a6ee-25c43920f958","blockVersion":"2","expandOnClick":true,"layout":"carousel","slidesPerView":"3","paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"syncParentId":"wd_676f150a","slidesPerViewTablet":"2"} -->
+<div class="wp-block-wd-gallery wd-carousel-container wd-caption-mask wd-676f150a" style=""><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:3;--wd-col-md:2;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/gallery-item {"blockId":"4486528c-d9b3-435e-9d77-a00a5f981f2d","blockVersion":"2","image":{"id":636,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-1-opt.jpg"},"expandOnClick":true,"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-1-opt.jpg","width":1320,"height":720}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item photoswipe-images wd-4486528c"><div class="wd-block-image"><a href="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-1-opt.jpg" data-width="1320" data-height="720" data-elementor-open-lightbox="no"><img class="wp-image-636" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-1-opt.jpg" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"8ff1c8f8-ae7e-4124-b6fc-398853d60189","blockVersion":"2","image":{"id":635,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-2-opt.jpg"},"expandOnClick":true,"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-2-opt.jpg","width":1320,"height":720}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item photoswipe-images wd-8ff1c8f8"><div class="wd-block-image"><a href="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-2-opt.jpg" data-width="1320" data-height="720" data-elementor-open-lightbox="no"><img class="wp-image-635" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-2-opt.jpg" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"f70a69e2-8ee8-4e4e-a813-b43fc7c3fa14","blockVersion":"2","image":{"id":634,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-3-opt.jpg"},"expandOnClick":true,"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-3-opt.jpg","width":1320,"height":720}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item photoswipe-images wd-f70a69e2"><div class="wd-block-image"><a href="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-3-opt.jpg" data-width="1320" data-height="720" data-elementor-open-lightbox="no"><img class="wp-image-634" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-3-opt.jpg" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"99de5132-12e7-43a8-8258-b9baf2ee00f3","blockVersion":"2","image":{"id":1159,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-torino-4-opt.jpg"},"expandOnClick":true,"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-torino-4-opt.jpg","width":1320,"height":720}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item photoswipe-images wd-99de5132"><div class="wd-block-image"><a href="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-torino-4-opt.jpg" data-width="1320" data-height="720" data-elementor-open-lightbox="no"><img class="wp-image-1159" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-torino-4-opt.jpg" alt=""/></a></div></div>
+<!-- /wp:wd/gallery-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/collapsible-content {"blockId":"a0eaf0bc-6e2c-4b9c-ad98-2bced3862b8c","blockVersion":"2","contentHeight":"280","contentHeightTablet":"160"} -->
+<div class="wp-block-wd-collapsible-content wd-effect-fade wd-a0eaf0bc"><!-- wp:wd/container {"blockId":"2a956db9-7d3a-45c1-ad36-b7bf70dcbaf6","blockVersion":"2","rowGap":"","metadata":{"name":"Content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-2a956db9"><!-- wp:wd/title {"blockId":"4819e0b1-8aec-4d05-bb94-035103862612","blockVersion":"2","content":"Online store with a wide selection of furniture and decor","tpFontSize":"22","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-4819e0b1">Online store with a wide selection of furniture and decor</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"48d8f466-cced-4cb0-9a16-233cfd1aa440","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-48d8f466">Furniture is an invariable attribute of any room. It is they who give it the right atmosphere, making the space cozy and comfortable, creating favorable conditions for productive work or helping to relax after a hard day. More and more often, customers want to place an order in an online store, when you can sit down at the computer in your free time, arrange the furniture in the photo and calmly buy the furniture you like. The online store has a large catalog of furniture: both home and office furniture are available.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"08c07325-b646-4d42-91c6-c90832f1af1c","blockVersion":"2","content":"Furniture production is a modern form of art","tpFontSize":"22","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-08c07325">Furniture production is a modern form of art</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"bb4bbc5f-ada6-42ec-84e1-a54ee7b5818e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-bb4bbc5f">Furniture manufacturers, as well as manufacturers of other home goods, are full of amazing offers: we often come across both standard mass-produced products and unique creations - furniture from professional craftsmen, which will be appreciated by true connoisseurs of beauty. We have selected for you the best models from modern craftsmen who managed to ingeniously combine elegance, quality and practicality in each product unit. Our assortment includes products from proven companies. Who for many years of continuous joint work did not give reason to doubt their reliability and honesty. All of them guarantee the high quality of their products, excellent operational characteristics, attractive appearance of the products, a long period of use of the furniture, as well as safety.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"c31e3f5d-95b1-4d3d-bd0d-1150d34a8a3c","blockVersion":"2","design":"link","predefinedColor":"primary"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-color-primary btn-size-default wd-c31e3f5d" href="#"><span>Read more</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/collapsible-content -->]]></content:encoded>
+															<wp:post_id>177</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-16 11:32:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-16 11:32:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-06 11:39:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-06 11:39:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[showrooms]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-elitis-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-elitis-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png</guid>
+															<wp:post_id>359</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-elitis-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-elitis-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-elitis-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-flos-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-flos-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-flos-1.png</guid>
+															<wp:post_id>360</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-flos-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-flos-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-flos-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-hay-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-hay-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png</guid>
+															<wp:post_id>361</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-hay-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-hay-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-kettal-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-kettal-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png</guid>
+															<wp:post_id>362</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-kettal-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-kettal-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-lladro-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-lladro-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png</guid>
+															<wp:post_id>363</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-lladro-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-lladro-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-minotti-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-minotti-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-minotti-1.png</guid>
+															<wp:post_id>364</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-minotti-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-minotti-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-minotti-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-poliform-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-poliform-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png</guid>
+															<wp:post_id>365</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-poliform-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-poliform-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-tacchini-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-tacchini-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-tacchini-1.png</guid>
+															<wp:post_id>366</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-tacchini-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-tacchini-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-tacchini-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-vitra-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-vitra-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-vitra-1.png</guid>
+															<wp:post_id>367</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-vitra-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-vitra-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-vitra-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-torino-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-torino-3-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:36:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-3-opt.jpg</guid>
+															<wp:post_id>634</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:36:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:36:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:36:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:36:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-torino-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-torino-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-torino-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-torino-2-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:36:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-2-opt.jpg</guid>
+															<wp:post_id>635</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:36:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:36:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:36:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:36:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-torino-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-torino-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-torino-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-torino-1-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:36:28 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-1-opt.jpg</guid>
+															<wp:post_id>636</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:36:28]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:36:28]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:36:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:36:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-torino-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-torino-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-milano-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-milano-1-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:41:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-1-opt.jpg</guid>
+															<wp:post_id>641</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:41:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:41:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:41:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:41:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-milano-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-milano-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-milano-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-milano-2-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:41:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-2-opt.jpg</guid>
+															<wp:post_id>642</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:41:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:41:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:41:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:41:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-milano-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-milano-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-milano-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-milano-3-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:41:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-3-opt.jpg</guid>
+															<wp:post_id>643</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:41:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:41:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:41:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:41:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-milano-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-milano-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-milano-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-showroom-milano-4-opt/</link>
+					<pubDate>Fri, 27 Sep 2024 11:31:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-milano-4-opt.jpg</guid>
+															<wp:post_id>1158</wp:post_id>
+					<wp:post_date><![CDATA[2024-09-27 11:31:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-09-27 11:31:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-09-27 11:31:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-09-27 11:31:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-milano-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-milano-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/09/wd-furniture-showroom-milano-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-torino-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-showroom-torino-4-opt/</link>
+					<pubDate>Fri, 27 Sep 2024 11:31:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-torino-4-opt.jpg</guid>
+															<wp:post_id>1159</wp:post_id>
+					<wp:post_date><![CDATA[2024-09-27 11:31:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-09-27 11:31:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-09-27 11:31:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-09-27 11:31:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-torino-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-torino-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/09/wd-furniture-showroom-torino-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-hay-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-hay-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png</guid>
+															<wp:post_id>361</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-hay-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-hay-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-hay-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-kettal-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-kettal-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png</guid>
+															<wp:post_id>362</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-kettal-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-kettal-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-kettal-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-lladro-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-lladro-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png</guid>
+															<wp:post_id>363</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-lladro-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-lladro-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-lladro-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-minotti-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-minotti-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-minotti-1.png</guid>
+															<wp:post_id>364</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-minotti-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-minotti-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-minotti-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-poliform-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-poliform-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png</guid>
+															<wp:post_id>365</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-poliform-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-poliform-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-poliform-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-tacchini-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-tacchini-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-tacchini-1.png</guid>
+															<wp:post_id>366</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-tacchini-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-tacchini-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-tacchini-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-circle-brand-vitra-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/home-furniture2/wd-furniture-circle-brand-vitra-1/</link>
+					<pubDate>Wed, 17 Jul 2024 09:05:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-vitra-1.png</guid>
+															<wp:post_id>367</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-17 09:05:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-17 09:05:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-17 09:05:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-17 09:05:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-circle-brand-vitra-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>165</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-circle-brand-vitra-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-circle-brand-vitra-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-torino-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-torino-3-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:36:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-3-opt.jpg</guid>
+															<wp:post_id>634</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:36:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:36:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:36:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:36:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-torino-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-torino-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-torino-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-torino-2-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:36:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-2-opt.jpg</guid>
+															<wp:post_id>635</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:36:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:36:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:36:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:36:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-torino-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-torino-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-torino-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-torino-1-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:36:28 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-1-opt.jpg</guid>
+															<wp:post_id>636</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:36:28]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:36:28]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:36:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:36:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-torino-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-torino-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-torino-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-milano-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-milano-1-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:41:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-1-opt.jpg</guid>
+															<wp:post_id>641</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:41:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:41:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:41:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:41:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-milano-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-milano-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-milano-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-milano-2-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:41:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-2-opt.jpg</guid>
+															<wp:post_id>642</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:41:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:41:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:41:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:41:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-milano-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-milano-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-milano-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/showrooms/wd-furniture-showroom-milano-3-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:41:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-3-opt.jpg</guid>
+															<wp:post_id>643</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:41:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:41:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:41:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:41:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-milano-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>177</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/07/wd-furniture-showroom-milano-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/wd-furniture-showroom-milano-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-milano-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-showroom-milano-4-opt/</link>
+					<pubDate>Fri, 27 Sep 2024 11:31:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-milano-4-opt.jpg</guid>
+															<wp:post_id>1158</wp:post_id>
+					<wp:post_date><![CDATA[2024-09-27 11:31:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-09-27 11:31:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-09-27 11:31:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-09-27 11:31:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-milano-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-milano-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/09/wd-furniture-showroom-milano-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-showroom-torino-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wd-furniture-showroom-torino-4-opt/</link>
+					<pubDate>Fri, 27 Sep 2024 11:31:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-torino-4-opt.jpg</guid>
+															<wp:post_id>1159</wp:post_id>
+					<wp:post_date><![CDATA[2024-09-27 11:31:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-09-27 11:31:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-09-27 11:31:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-09-27 11:31:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-showroom-torino-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/09/wd-furniture-showroom-torino-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/09/wd-furniture-showroom-torino-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,12 @@
+{
+    "2": {
+        "default_header": "header_460291",
+        "single_stock_progress_bar": "1",
+        "disable_footer": "0",
+        "prefooter_content_type": "text",
+        "prefooter_area": "",
+        "footer_content_type": "widgets",
+        "prefooter_html_block": "",
+        "fields_to_save": "default_header,single_stock_progress_bar,disable_footer,prefooter_content_type,prefooter_area,footer_content_type,prefooter_html_block"
+    }
+}

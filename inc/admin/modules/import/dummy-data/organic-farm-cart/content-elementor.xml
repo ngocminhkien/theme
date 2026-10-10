@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Farm elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/farm-elementor</link>
+	<description></description>
+	<pubDate>Mon, 11 Mar 2024 12:05:01 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/farm-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Organic farm]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-elementor/woodmart_layout/cart-organic-farm/</link>
+					<pubDate>Mon, 18 Mar 2024 16:17:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/farm-elementor/?post_type=woodmart_layout&#038;p=511</guid>
+											<content:encoded><![CDATA[ 						<ul>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/cart/">
+						Shopping cart
+					</a>
+				</li>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/checkout/">
+						Checkout
+					</a>
+				</li>
+				<li>
+					Order complete
+				</li>
+			</ul>
+					
+				<table>
+					<thead>
+					<tr>
+						<th>&nbsp;</th>
+						<th>&nbsp;</th>
+						<th>Product</th>
+												<th>Price</th>
+						<th>Quantity</th>
+						<th>Subtotal</th>
+					</tr>
+					</thead>
+					<tbody>
+							<tr>
+								<td>
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/cart/?remove_item=02e74f10e0327ad868d138f2b4fdd6f0&#038;_wpnonce=863fed1997" aria-label="Remove Yogurt Apple from cart" data-product_id="27" data-product_sku="">&times;</a>								</td>
+								<td>
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/product/yogurt-apple/"><img width="430" height="430" src="http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-yogurt-apple-1-600x600.jpg" alt="" /></a>								</td>
+								<td data-title="Product">
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/product/yogurt-apple/">Yogurt Apple</a>								</td>
+								<td data-title="Price">
+									&#036;6.004 oz ($24.00/lb)								</td>
+								<td data-title="Quantity">
+			
+	<label for="quantity_6782378ce1b6e">Yogurt Apple quantity</label>
+	
+			
+								</td>
+								<td data-title="Subtotal">
+									&#036;6.00								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/cart/?remove_item=c16a5320fa475530d9583c34fd356ef5&#038;_wpnonce=863fed1997" aria-label="Remove Cheese With Nuts Inside from cart" data-product_id="31" data-product_sku="">&times;</a>								</td>
+								<td>
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/product/cheese-with-nuts-inside/"><img width="430" height="430" src="http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-cheese-2-1-600x600.jpg" alt="" /></a>								</td>
+								<td data-title="Product">
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/product/cheese-with-nuts-inside/">Cheese With Nuts Inside</a>								</td>
+								<td data-title="Price">
+									&#036;17.901 lb ($17.90/lb)								</td>
+								<td data-title="Quantity">
+			
+	<label for="quantity_6782378ce2025">Cheese With Nuts Inside quantity</label>
+	
+			
+								</td>
+								<td data-title="Subtotal">
+									&#036;17.90								</td>
+							</tr>
+							<tr>
+								<td>
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/cart/?remove_item=a5bfc9e07964f8dddeb95fc584cd965d&#038;_wpnonce=863fed1997" aria-label="Remove Sour Organic Cream from cart" data-product_id="37" data-product_sku="">&times;</a>								</td>
+								<td>
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/product/sour-organic-cream/"><img width="430" height="430" src="http://dummy.xtemos.com/woodmart2/farm-elementor/wp-content/uploads/sites/22/2024/03/farm-sour-cream-2-1-600x600.jpg" alt="" /></a>								</td>
+								<td data-title="Product">
+									<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/product/sour-organic-cream/">Sour Organic Cream</a>								</td>
+								<td data-title="Price">
+									&#036;14.394 oz ($48.80/lb)								</td>
+								<td data-title="Quantity">
+			
+	<label for="quantity_6782378ce22c1">Sour Organic Cream quantity</label>
+	
+			
+								</td>
+								<td data-title="Subtotal">
+									&#036;14.39								</td>
+							</tr>
+					<tr>
+						<td colspan="12">
+										<label for="coupon_code">
+											Coupon:										</label>
+										
+										<button type="submit" name="apply_coupon" value="Apply coupon">
+											Apply coupon										</button>
+								<button type="submit" name="update_cart" value="Update cart">
+									Update cart								</button>
+															
+						</td>
+					</tr>
+										</tbody>
+				</table>
+		
+	<h2>Cart totals</h2>
+	<table cellspacing="0">
+		<tr>
+			<th>Subtotal</th>
+			<td data-title="Subtotal">&#036;38.29</td>
+		</tr>
+		<tr>
+			<th>Total</th>
+			<td data-title="Total"><strong>&#036;38.29</strong> </td>
+		</tr>
+	</table>
+<a href="https://dummy.xtemos.com/woodmart2/farm-elementor/checkout/">
+	Proceed to checkout</a>
+	<!--.cart-totals-inner-->
+						 						 						 						 						 						]]></content:encoded>
+															<wp:post_id>511</wp:post_id>
+					<wp:post_date><![CDATA[2024-03-18 16:17:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-03-18 16:17:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-11 09:19:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-11 09:19:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-organic-farm]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.24.7]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"ba87e57","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"-20","right":"0","bottom":"40","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"400b9a9","elType":"widget","settings":{"alignment":"center","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_checkout_steps"}],"isInner":""},{"id":"a9e9666","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"30","column":"30","row":"30","isLinked":"1"},"flex_direction_tablet":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"7b6c81c","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"67"},"width_tablet":{"unit":"%","size":"100","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"container_sticky_offset":"50","scroll_y":"-80","margin":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[{"id":"c5fd5b8","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"f4d81e1","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_before_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"8edcbe2","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_cart_table"}],"isInner":"1"},{"id":"05cb19a","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"33"},"width_tablet":{"unit":"%","size":"100","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"background_background":"classic","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"dc4d08e","elType":"container","settings":{"background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":"1"},"padding":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"03b3a47","elType":"widget","settings":{"title_typography_typography":"custom","title_typography_text_transform":"capitalize","button_alignment":"full-width","scroll_y":"-80"},"elements":[],"widgetType":"wd_cart_totals"},{"id":"9b93335","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"}],"isInner":"1"}],"isInner":""},{"id":"e471ed5","elType":"container","settings":{"flex_direction":"column","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"3064950","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_cart_collaterals","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"e4b6e8e","elType":"widget","settings":{"element_title":"You May Be Interested In\u2026","post_type":"recently_viewed","layout":"carousel","slides_per_view":{"unit":"px","size":"5","sizes":[]},"slides_per_view_tablet":{"unit":"px","size":"3","sizes":[]},"slides_per_view_mobile":{"unit":"px","size":"1.5","sizes":[]},"carousel_arrows_position_popover":"yes","carousel_arrows_position":"together","hide_pagination_control":"yes","sync_parent_id":"wd_65f869024f735","img_size":"full","products_with_background":"1","products_background":"#FFFFFF","scroll_y":"-80"},"elements":[],"widgetType":"wd_products"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

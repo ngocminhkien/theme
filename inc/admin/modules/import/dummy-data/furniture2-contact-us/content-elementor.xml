@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Furniture 2 elementor dummy</title>
+	<link>https://dummy.xtemos.com/woodmart2/furniture2-elementor</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Tue, 18 Apr 2023 13:46:07 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/furniture2-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form Furniture 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-elementor/?post_type=wpcf7_contact_form&#038;p=6</link>
+					<pubDate>Thu, 20 Apr 2023 11:37:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/furniture2-elementor/?post_type=wpcf7_contact_form&#038;p=6</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<p class="wd-col">[text* Name placeholder ="Name"]</p>
+<p class="wd-col">[text* Email placeholder ="Email" ]</p>
+<p class="wd-col">[textarea your-message placeholder ="Your Message"]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>6</wp:post_id>
+					<wp:post_date><![CDATA[2023-04-20 11:37:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-04-20 11:37:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-24 13:52:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-24 13:52:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<p class="wd-col">[text* Name placeholder ="Name"]</p>
+<p class="wd-col">[text* Email placeholder ="Email" ]</p>
+<p class="wd-col">[textarea your-message placeholder ="Your Message"]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:149:"From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[6c964383bdf3bb18734cbd58a8109563723ea436]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}s:23:"mail.additional_headers";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:51:"Invalid mailbox syntax is used in the %name% field.";s:6:"params";a:1:{s:4:"name";s:8:"Reply-To";}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-elementor/contact-us/</link>
+					<pubDate>Thu, 20 Apr 2023 11:47:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/furniture2-elementor/?page_id=29</guid>
+											<content:encoded><![CDATA[<img width="340" height="340" src="http://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-milano-img-340x340.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-milano-img-340x340.png 340w, https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-milano-img-299x300.png 299w, https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-milano-img-150x150.png 150w, https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-milano-img-430x431.png 430w, https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-milano-img.png 510w" sizes="auto, (max-width: 340px) 100vw, 340px" />					
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/themes/woodmart/css/parts/el-section-title.css?ver=8.5.0" type="text/css" media="all" /> 					
+				<h4>Milano</h4> 
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/themes/woodmart/css/parts/el-text-block.css?ver=8.5.0" type="text/css" media="all" /> 					
+			<p><strong>Piazzale Ferrara</strong><br /><strong>Via Mincio, 4, 20139</strong></p><p><strong>Monday - Friday</strong> 09:00 - 17:00</p><p><strong>studio@mail.com</strong><br /><strong>(686) 492-1044</strong></p>
+								<img width="340" height="340" src="http://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-torino-img-340x340.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-torino-img-340x340.png 340w, https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-torino-img-299x300.png 299w, https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-torino-img-150x150.png 150w, https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-torino-img-430x431.png 430w, https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-torino-img.png 510w" sizes="auto, (max-width: 340px) 100vw, 340px" />					
+				<h4>Torino</h4> 
+			<p><strong>Shopville Le Gru</strong><br /><strong>Via Chisola, 5, 10126</strong></p><p><strong>Monday - Friday</strong> 09:00 - 17:00</p><p><strong>studio@mail.com</strong><br /><strong>(686) 492-1044</strong></p>
+				<h4>Contact with an expert</h4> 
+								<link rel="stylesheet" id="wd-wpcf7-css" href="https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/themes/woodmart/css/parts/int-wpcf7.css?ver=8.5.0" type="text/css" media="all" /> 			
+<p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
+<form action="/woodmart2/furniture2-elementor/wp-admin/admin-ajax.php#wpcf7-f6-o1" method="post" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset><input type="hidden" name="_wpcf7" value="6" /><input type="hidden" name="_wpcf7_version" value="6.1.6" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</fieldset>
+	<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="Name" value="" type="text" name="Name" />
+	</p>
+	<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="text" name="Email" />
+	</p>
+	<p><textarea cols="40" rows="10" maxlength="2000" aria-invalid="false" placeholder="Your Message" name="your-message"></textarea>
+	</p>
+	<p><input type="submit" value="Send Message" />
+	</p>
+</form>
+				<h4>Frequently asked questions</h4> 
+								<link rel="stylesheet" id="wd-accordion-css" href="https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/themes/woodmart/css/parts/el-accordion.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-accordion-elem-wpb-css" href="https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/themes/woodmart/css/parts/el-accordion-wpb-elem.css?ver=8.5.0" type="text/css" media="all" /> 			
+								My order hasn&#039;t arrived yet. Where is it?							
+							<p>A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity. Fake data can ensure a nice looking layout but it doesn’t reflect what a living, breathing application must endure. Real data does.</p>
+								Do you deliver on public holidays?							
+							<p>Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template. When it's about controlling hundreds of articles, product pages for web shops.</p>
+								Do you deliver to my postcode?							
+							<p>If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited for another time. At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t.</p>
+								Is next-day delivery available on all orders?							
+							<p>A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity. Fake data can ensure a nice looking layout but it doesn’t reflect what a living, breathing application must endure. Real data does.</p>
+								Do I need to be there to sign for delivery?							
+							<p>Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template. When it's about controlling hundreds of articles, product pages for web shops.</p>
+			<h3>Online store with a wide selection of furniture and decor</h3><p>Furniture is an invariable attribute of any room. It is they who give it the right atmosphere, making the space cozy and comfortable, creating favorable conditions for productive work or helping to relax after a hard day. More and more often, customers want to place an order in an online store, when you can sit down at the computer in your free time, arrange the furniture in the photo and calmly buy the furniture you like. The online store has a large catalog of furniture: both home and office furniture are available.</p><h3>Furniture production is a modern form of art</h3><p>Furniture manufacturers, as well as manufacturers of other home goods, are full of amazing offers: we often come across both standard mass-produced products and unique creations - furniture from professional craftsmen, which will be appreciated by true connoisseurs of beauty. We have selected for you the best models from modern craftsmen who managed to ingeniously combine elegance, quality and practicality in each product unit. Our assortment includes products from proven companies. Who for many years of continuous joint work did not give reason to doubt their reliability and honesty. All of them guarantee the high quality of their products, excellent operational characteristics, attractive appearance of the products, a long period of use of the furniture, as well as safety.</p>
+								<link rel="stylesheet" id="wd-button-css" href="https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/themes/woodmart/css/parts/el-button.css?ver=8.5.0" type="text/css" media="all" /> 					
+			<a  href="#">
+					Read More				
+							</a>]]></content:encoded>
+															<wp:post_id>29</wp:post_id>
+					<wp:post_date><![CDATA[2023-04-20 11:47:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-04-20 11:47:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-06 11:33:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-06 11:33:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.0.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"3975abb","elType":"container","settings":{"structure":"20","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"flex_direction":"row","flex_gap":{"size":"30","column":"30","row":"40","unit":"px"},"container_sticky_offset":"50","scroll_y":"-80","flex_direction_mobile":"column"},"elements":[{"id":"cc9c43d","elType":"container","settings":{"_column_size":"50","width":{"size":"50","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","flex_gap":{"column":"30","row":"20","isLinked":"","unit":"px","size":"30"},"container_sticky_offset":"50","flex_direction":"row","flex_align_items":"center","flex_wrap_mobile":"nowrap"},"elements":[{"id":"ac089b7","elType":"container","settings":{"_column_size":"50","width":{"size":"","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","container_sticky_offset":"50","width_mobile":{"unit":"px","size":"130","sizes":[]}},"elements":[{"id":"44bd4e6","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/furniture2-elementor\/wp-content\/uploads\/sites\/10\/2023\/04\/wd-furniture-contact-us-milano-img.png","id":"957","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"340","height":"340"},"scroll_y":"-80","content_width":"full"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"},{"id":"2161239","elType":"container","settings":{"_column_size":"50","width":{"size":"","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"96742fe","elType":"widget","settings":{"subtitle":"","title":"Milano","after_title":"","size":"large","align":"left","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":""},"scroll_y":"-80","content_width":"full"},"elements":[],"widgetType":"wd_title"},{"id":"c69796e","elType":"widget","settings":{"text":"<p><strong>Piazzale Ferrara<\/strong><br \/><strong>Via Mincio, 4, 20139<\/strong><\/p><p><strong>Monday - Friday<\/strong> 09:00 - 17:00<\/p><p><strong>studio@mail.com<\/strong><br \/><strong>(686) 492-1044<\/strong><\/p>","typography_typography":"custom","typography_font_family":"Urbanist","text_color":"title","scroll_y":"-80","content_width":"full"},"elements":[],"widgetType":"wd_text_block"}],"isInner":"1"}],"isInner":"1"},{"id":"f854435","elType":"container","settings":{"_column_size":"50","width":{"size":"50","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","flex_gap":{"column":"30","row":"20","isLinked":"","unit":"px","size":"30"},"container_sticky_offset":"50","flex_direction":"row","flex_align_items":"center","flex_wrap_mobile":"nowrap"},"elements":[{"id":"34aaa52","elType":"container","settings":{"_column_size":"50","width":{"size":"","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","container_sticky_offset":"50","width_mobile":{"unit":"px","size":"130","sizes":[]}},"elements":[{"id":"dd2c2d6","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/furniture2-elementor\/wp-content\/uploads\/sites\/10\/2023\/04\/wd-furniture-contact-us-torino-img.png","id":"958","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"340","height":"340"},"scroll_y":"-80","content_width":"full"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"},{"id":"93e69ef","elType":"container","settings":{"_column_size":"50","width":{"size":"","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"4fff840","elType":"widget","settings":{"subtitle":"","title":"Torino","after_title":"","size":"large","align":"left","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":""},"scroll_y":"-80","content_width":"full"},"elements":[],"widgetType":"wd_title"},{"id":"9ab00c8","elType":"widget","settings":{"text":"<p><strong>Shopville Le Gru<\/strong><br \/><strong>Via Chisola, 5, 10126<\/strong><\/p><p><strong>Monday - Friday<\/strong> 09:00 - 17:00<\/p><p><strong>studio@mail.com<\/strong><br \/><strong>(686) 492-1044<\/strong><\/p>","typography_typography":"custom","typography_font_family":"Urbanist","text_color":"title","scroll_y":"-80","content_width":"full"},"elements":[],"widgetType":"wd_text_block"}],"isInner":"1"}],"isInner":"1"}],"isInner":false},{"id":"182218e","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"30","column":"30","row":"40"},"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"c282c84","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"6d1e810","elType":"widget","settings":{"subtitle":"","title":"Contact with an expert","after_title":"","size":"large","align":"left","scroll_y":"-80","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"32","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"26","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"22","sizes":[]},"content_width":"full"},"elements":[],"widgetType":"wd_title"},{"id":"74e77af","elType":"widget","settings":{"form_id":"6","scroll_y":"-80","content_width":"full"},"elements":[],"widgetType":"wd_contact_form_7"}],"isInner":"1"},{"id":"6b3eeb6","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"88fb751","elType":"widget","settings":{"subtitle":"","title":"Frequently asked questions","after_title":"","size":"large","align":"left","scroll_y":"-80","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"32","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"26","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"22","sizes":[]},"content_width":"full"},"elements":[],"widgetType":"wd_title"},{"id":"ca5a946","elType":"widget","settings":{"items":[{"item_title":"My order hasn't arrived yet. Where is it?","item_content":"<p>A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity. Fake data can ensure a nice looking layout but it doesn\u2019t reflect what a living, breathing application must endure. Real data does.<\/p>","_id":"ed1a716"},{"item_title":"Do you deliver on public holidays?","item_content":"<p>Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template. When it's about controlling hundreds of articles, product pages for web shops.<\/p>","_id":"798e9f5"},{"item_title":"Do you deliver to my postcode?","item_content":"<p>If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited for another time. At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don\u2019t.<\/p>","_id":"32a2554"},{"item_title":"Is next-day delivery available on all orders?","item_content":"<p>A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity. Fake data can ensure a nice looking layout but it doesn\u2019t reflect what a living, breathing application must endure. Real data does.<\/p>","_id":"e539755"},{"item_title":"Do I need to be there to sign for delivery?","item_content":"<p>Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template. When it's about controlling hundreds of articles, product pages for web shops.<\/p>","_id":"1a97b79"}],"state":"all_closed","hide_top_bottom_border":"yes","title_typography_typography":"custom","title_typography_font_family":"Urbanist","title_typography_font_size":{"unit":"px","size":"18","sizes":[]},"title_typography_font_weight":"700","opener_alignment":"right","scroll_y":"-80","title_typography_font_size_tablet":{"unit":"px","size":"16","sizes":[]},"content_width":"full"},"elements":[],"widgetType":"wd_accordion"}],"isInner":"1"}],"isInner":false},{"id":"e5ff7fd","elType":"container","settings":{"flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80","wd_collapsible_content_switcher":"collapsible-content","wd_collapsible_content_height":{"unit":"px","size":"330","sizes":[]},"wd_collapsible_content_height_tablet":{"unit":"px","size":"216","sizes":[]},"wd_collapsible_content_fade_out_color":"#F3F2EE"},"elements":[{"id":"54e2fbc","elType":"widget","settings":{"text":"<h3>Online store with a wide selection of furniture and decor<\/h3><p>Furniture is an invariable attribute of any room. It is they who give it the right atmosphere, making the space cozy and comfortable, creating favorable conditions for productive work or helping to relax after a hard day. More and more often, customers want to place an order in an online store, when you can sit down at the computer in your free time, arrange the furniture in the photo and calmly buy the furniture you like. The online store has a large catalog of furniture: both home and office furniture are available.<\/p><h3>Furniture production is a modern form of art<\/h3><p>Furniture manufacturers, as well as manufacturers of other home goods, are full of amazing offers: we often come across both standard mass-produced products and unique creations - furniture from professional craftsmen, which will be appreciated by true connoisseurs of beauty. We have selected for you the best models from modern craftsmen who managed to ingeniously combine elegance, quality and practicality in each product unit. Our assortment includes products from proven companies. Who for many years of continuous joint work did not give reason to doubt their reliability and honesty. All of them guarantee the high quality of their products, excellent operational characteristics, attractive appearance of the products, a long period of use of the furniture, as well as safety.<\/p>","scroll_y":"-80"},"elements":[],"widgetType":"wd_text_block"},{"id":"ae60863","elType":"widget","settings":{"text":"Read More","button_collapsible_content":"yes","style":"link","color":"primary","align":"left","scroll_y":"-80"},"elements":[],"widgetType":"wd_button"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-contact-us-milano-img]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-elementor/contact-us/wd-furniture-contact-us-milano-img/</link>
+					<pubDate>Tue, 25 Apr 2023 12:51:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-milano-img.png</guid>
+															<wp:post_id>957</wp:post_id>
+					<wp:post_date><![CDATA[2023-04-25 12:51:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-04-25 12:51:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-04-25 12:51:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-04-25 12:51:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-contact-us-milano-img]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>29</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-milano-img.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2023/04/wd-furniture-contact-us-milano-img.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-furniture-contact-us-torino-img]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-elementor/contact-us/wd-furniture-contact-us-torino-img/</link>
+					<pubDate>Tue, 25 Apr 2023 12:53:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-torino-img.png</guid>
+															<wp:post_id>958</wp:post_id>
+					<wp:post_date><![CDATA[2023-04-25 12:53:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-04-25 12:53:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-04-25 12:53:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-04-25 12:53:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-furniture-contact-us-torino-img]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>29</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-elementor/wp-content/uploads/sites/10/2023/04/wd-furniture-contact-us-torino-img.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2023/04/wd-furniture-contact-us-torino-img.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

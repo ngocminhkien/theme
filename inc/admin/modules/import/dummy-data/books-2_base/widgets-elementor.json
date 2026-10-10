@@ -1,0 +1,55 @@
+{
+    "sidebar-1": {
+        "widgets": {
+            "block-6": {
+                "content": "<!-- wp:group -->\n<div class=\"wp-block-group\"><!-- wp:wd\/menu {\"blockId\":\"e9b5c515-a5f3-4fda-96e2-7b03cea36b2c\",\"blockVersion\":\"2\",\"nav_menu\":\"296\",\"design\":\"vertical\",\"dropdown_design\":\"simple\",\"itemTpFontVariant\":\"500\",\"itemTpFontWeight\":\"500\",\"itemTpActiveFontVariant\":\"600\",\"itemTpActiveFontWeight\":\"600\",\"itemsColorCode\":\"#767676\",\"itemsHoverColorCode\":\"#333333\",\"className\":\"wd-active-font-weight\"} \/--><\/div>\n<!-- \/wp:group -->"
+            }
+        }
+    },
+    "sidebar-shop": {
+        "widgets": {
+            "woocommerce_product_categories-2": {
+                "title": "Categories",
+                "orderby": "order",
+                "dropdown": 0,
+                "count": 0,
+                "hierarchical": 0,
+                "show_children_only": 1,
+                "hide_empty": 1,
+                "max_depth": ""
+            },
+            "woodmart-woocommerce-layered-nav-3": {
+                "title": "Books format",
+                "attribute": "size",
+                "category": [
+                    "all"
+                ],
+                "query_type": "and",
+                "display": "list",
+                "size": "normal",
+                "style": "inherit",
+                "shape": "round",
+                "labels": "on",
+                "tooltips": "on",
+                "checkboxes": "off",
+                "search_by_filters": ""
+            },
+            "woodmart-woocommerce-layered-nav-2": {
+                "title": "Author",
+                "attribute": "color",
+                "category": [
+                    "all"
+                ],
+                "query_type": "or",
+                "display": "list",
+                "size": "normal",
+                "style": "inherit",
+                "shape": "round",
+                "labels": "off",
+                "tooltips": "on",
+                "checkboxes": "off",
+                "search_by_filters": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Handmade bags gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/handmade-bags-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 02 Apr 2025 11:14:45 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/handmade-bags-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/handmade-bags-gutenberg/wp-content/uploads/sites/49/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form Handmade bags]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/handmade-bags-gutenberg/?post_type=wpcf7_contact_form&#038;p=11</link>
+					<pubDate>Wed, 02 Apr 2025 11:19:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/handmade-bags-gutenberg/?post_type=wpcf7_contact_form&#038;p=11</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* your-name placeholder ="Your name"]</div>
+<div class="wd-col">[email* your-email placeholder ="Your Email"]</div>
+</div>
+<div>[textarea your-message placeholder ="Your Message"]</div>
+<div>[submit "Send Message"]</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title] 
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title] 
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>11</wp:post_id>
+					<wp:post_date><![CDATA[2025-04-02 11:19:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-04-02 11:19:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-04-07 07:17:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-04-07 07:17:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* your-name placeholder ="Your name"]</div>
+<div class="wd-col">[email* your-email placeholder ="Your Email"]</div>
+</div>
+<div>[textarea your-message placeholder ="Your Message"]</div>
+<div>[submit "Send Message"]</div>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[bc23c886df049dbe4d7c1ba2b68e769ff1550c2d]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/handmade-bags-gutenberg/contact-us/</link>
+					<pubDate>Mon, 07 Apr 2025 07:06:31 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/handmade-bags-gutenberg/?page_id=22</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"192309cb-3b33-4d6a-8cff-762edfe98426","bgColorVariable":"\u002d\u002dwd-alternative-color","paddingTop":"60","paddingBottom":"60","marginTop":"-40","marginBottom":"0","paddingTopTablet":"15","paddingBottomTablet":"15"} -->
+<div id="wd-192309cb" class="wp-block-wd-section"><!-- wp:wd/container {"blockId":"244f7bc4-799f-4a9b-8367-4eea6fac12ef","direction":"row","align":"center","wrap":"wrap","colorScheme":"light"} -->
+<div id="wd-244f7bc4" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center color-scheme-light"><!-- wp:wd/page-heading {"blockId":"e9668502-067d-481b-a403-e7a956665a54","tpFontSize":"68","tpFontSizeTablet":"36"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"2263caf8-708b-44c5-8170-07e8bb4ab4e7","marginTop":"15","marginTopTablet":"5"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"04ae83ef-2e0b-4638-b68c-b2408e3b1bcf","marginBottom":"0"} -->
+<div id="wd-04ae83ef" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"e30c80dd-38ba-4317-abb4-44f705e66373","adjacentCount":2,"colWidth":40,"paddingTop":"60","paddingBottom":"60","borderType":"solid","borderColorVariable":"\u002d\u002dwd-alternative-color","borderWidthRight":"1","paddingTopMobile":"40","paddingBottomMobile":"20","borderWidthRightMobile":"0"} -->
+<div id="wd-e30c80dd" class="wp-block-wd-column"><!-- wp:wd/container {"blockId":"6fb76f4c-2535-4a4a-af2b-70f50b5f03f3","colGap":"","rowGap":"10"} -->
+<div id="wd-6fb76f4c" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"32b56701-4fe3-4e3e-84fa-52e4630e1e8b","content":"Address","tpFontSize":"52","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpFontSizeMobile":"24","tpLineHeightUnits":"em"} -->
+<h2 id="wd-32b56701" class="wp-block-wd-title title">Address</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"d67885df-8537-4d11-ab74-22d261232aa8","colorCode":"#333333","tpTextDecoration":"underline","tpFontVariant":"500","tpFontWeight":"500"} -->
+<p id="wd-d67885df" class="wp-block-wd-paragraph">69 2nd Ave, Brooklyn, NY 11215, USA</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"d89bfdd3-909c-4c23-8688-a6974e65d768","colorCode":"#333333"} -->
+<p id="wd-d89bfdd3" class="wp-block-wd-paragraph">Monday – Tuesday 10.00am – 4.00pm (By Appointment Only)<br>Wednesday – Saturday, 10.00am – 4.00pm<br>Sunday, Closed</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"503717be-9387-4b02-a885-90d762ef36ff","colGap":"","rowGap":"10"} -->
+<div id="wd-503717be" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"c046e05e-b21c-4e02-9e19-985aaf495ed4","content":"Phone","tpFontSize":"38","tpLineHeight":"1.2","tpFontSizeTablet":"24","tpFontSizeMobile":"20","tpLineHeightUnits":"em"} -->
+<h2 id="wd-c046e05e" class="wp-block-wd-title title">Phone</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"a8b20b7b-3769-41db-8c0a-4c4fb2a80cfc","colorCode":"#333333","tpTextDecoration":"underline"} -->
+<p id="wd-a8b20b7b" class="wp-block-wd-paragraph">(211) 820-8293</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"e098de3b-9f7d-4939-8d49-82620a2b52cb","colGap":"","rowGap":"10"} -->
+<div id="wd-e098de3b" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"ce1b6894-d91e-4cd6-b489-a5b35b996a67","content":"Email","tpFontSize":"38","tpLineHeight":"1.2","tpFontSizeTablet":"24","tpFontSizeMobile":"20","tpLineHeightUnits":"em"} -->
+<h2 id="wd-ce1b6894" class="wp-block-wd-title title">Email</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"eeeeb499-0b45-4d72-a1fc-390e3ba6ca45","colorCode":"#333333","tpTextDecoration":"underline"} -->
+<p id="wd-eeeeb499" class="wp-block-wd-paragraph">info@woodmart.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"bfad8fc4-6f36-4c68-83d2-2f5730a3748c","adjacentCount":2,"colWidth":60,"paddingTop":"60","paddingBottom":"60","paddingTopMobile":"0","paddingBottomMobile":"40"} -->
+<div id="wd-bfad8fc4" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"2a80ca56-f626-4a6f-b9f8-9ee7cf507256","content":"Get In Touch","tpFontSize":"52","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpFontSizeMobile":"24","tpLineHeightUnits":"em"} -->
+<h2 id="wd-2a80ca56" class="wp-block-wd-title title">Get In Touch</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"b1bdee76-57cc-4891-b4ff-05fb6877ec60","form_id":"11"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/section {"blockId":"073fe473-1ec0-4840-9dc1-c31c69fc0179","marginBottom":"-40","borderType":"solid","borderColorVariable":"\u002d\u002dwd-alternative-color","borderWidthTop":"1"} -->
+<div id="wd-073fe473" class="wp-block-wd-section"><!-- wp:wd/row {"blockId":"5520b9f3-8ed4-4a44-947b-9478b8f97f2a","columnsGapMobile":10} -->
+<div id="wd-5520b9f3" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"9ae8f9da-0931-477a-bd2c-42cb6bee88f4","adjacentCount":2,"colWidth":60,"paddingTop":"60","paddingBottom":"60","borderType":"solid","borderColorVariable":"\u002d\u002dwd-alternative-color","borderWidthRight":"1","paddingTopMobile":"40","paddingBottomMobile":"0","borderWidthRightMobile":"0"} -->
+<div id="wd-9ae8f9da" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"db212463-ffd3-4f50-bbe7-430264189ab8","content":"Frequently Asked Questions","tpFontSize":"52","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpFontSizeMobile":"24","tpLineHeightUnits":"em"} -->
+<h2 id="wd-db212463" class="wp-block-wd-title title">Frequently Asked Questions</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c565b487-42af-4d2e-90d9-554ee4dc4a8a","adjacentCount":2,"colWidth":40,"paddingTop":"40","paddingBottom":"40","paddingTopMobile":"0","paddingBottomMobile":"10"} -->
+<div id="wd-c565b487" class="wp-block-wd-column"><!-- wp:wd/accordion {"blockId":"1f2a0660-c2b2-4de5-a6b2-d0db017e916e","allClosed":true,"openerSize":"18","titleTpFontFamily":"var(\u002d\u002dwd-title-font)","titleTpFontSize":"22","titleTpFontVariant":"600","titleTpFontWeight":"600","titlesColorCode":"#333333","titlesHoverColorVariable":"\u002d\u002dwd-primary-color","titlesActiveColorVariable":"\u002d\u002dwd-primary-color","titleTpFontSizeMobile":"18"} -->
+<div id="wd-1f2a0660" class="wp-block-wd-accordion wd-accordion wd-style-default wd-titles-start wd-opener-style-arrow wd-opener-pos-end" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"4a7b9cfe-3f14-4bd4-9ae0-d7d922b3f76f","borderWidthTop":"0"} -->
+<div id="wd-4a7b9cfe" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>My order hasn't arrived yet. Where is it?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"4426e893-ea9a-432f-a2e9-44205476ae7f"} -->
+<p id="wd-4426e893" class="wp-block-wd-paragraph">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"9dcc4d16-28ce-4494-b7cc-4507e5fd73b8","borderType":"solid","borderColorVariable":"\u002d\u002dwd-alternative-color","borderWidthTop":"1"} -->
+<div id="wd-9dcc4d16" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Do you deliver on public holidays?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"12871227-dcba-4681-a675-5e6d4087bacd"} -->
+<p id="wd-12871227" class="wp-block-wd-paragraph">Check the email you received after placing your order. It should contain information about the status of your order and the expected delivery date.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"520ddf96-87f9-422e-8142-b236afe20785","borderType":"solid","borderColorVariable":"\u002d\u002dwd-alternative-color","borderWidthTop":"1"} -->
+<div id="wd-520ddf96" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Do you deliver to my postcode?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"083ba16e-f297-48fe-a217-560a4e07b789"} -->
+<p id="wd-083ba16e" class="wp-block-wd-paragraph">If the contents of the parcel are suspicious to customs officers (for example, many identical goods), it may be further checked.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"e4a6c093-877d-4a23-b2e5-e9790389b87c","borderType":"solid","borderColorVariable":"\u002d\u002dwd-alternative-color","borderWidthTop":"1"} -->
+<div id="wd-e4a6c093" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Is next-day delivery available on all orders?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"20317f67-f415-4aa5-8fd0-91d8ebcc6055"} -->
+<p id="wd-20317f67" class="wp-block-wd-paragraph">If all other options fail, you may need to consider taking legal action. This can be a lengthy and costly process, so it’s important to weigh the potential benefits against the risks and costs.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"2610b103-bbee-4be7-994c-82835e200d04","borderType":"solid","borderColorVariable":"\u002d\u002dwd-alternative-color","borderWidthTop":"1"} -->
+<div id="wd-2610b103" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Do I need to be there to sign for delivery?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"bcc684f8-de70-40c1-a661-1ad5c6e5d25e"} -->
+<p id="wd-bcc684f8" class="wp-block-wd-paragraph">Track the status of your order: Woodmart marketplace provides the ability to track the status of an order by tracking number.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/section -->]]></content:encoded>
+															<wp:post_id>22</wp:post_id>
+					<wp:post_date><![CDATA[2025-04-07 07:06:31]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-04-07 07:06:31]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-06-02 11:50:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-06-02 11:50:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

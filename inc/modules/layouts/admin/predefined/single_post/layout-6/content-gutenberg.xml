@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Books 2 Gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 02 Jul 2026 06:34:14 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Single post - Books 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/woodmart_layout/single-post-books-2/</link>
+					<pubDate>Mon, 13 Jul 2026 13:58:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?post_type=woodmart_layout&#038;p=226</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"48b04430-6c05-43ba-a3d1-1a6f0a951434","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginBottom":"40","marginTopTablet":"-20","marginBottomTablet":"20"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-48b04430"><!-- wp:wd/page-heading {"blockId":"d949120c-80ec-4d80-82f0-6d689938715e","blockVersion":"2","tpFontSize":"40","htmlTag":"h1","tpFontSizeTablet":"32","tpFontSizeMobile":"22"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"b4c1e2c2-a3ca-4aeb-9e22-bc46bdb91938","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/section {"blockId":"7fa0b73d-d6d1-41c9-a97d-0be25a70bfbd","blockVersion":"2","paddingLeft":"0","marginBottom":"80","paddingRightMobile":"15","paddingLeftMobile":"15","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-section wd-7fa0b73d"><!-- wp:wd/row {"blockId":"56433149-7e1b-479f-b991-21b8f949a05c","blockVersion":"2","displayWidth":"full-width"} -->
+<div class="wp-block-wd-row wd-56433149 wd-custom-width"><!-- wp:wd/column {"blockId":"699eecf4-f7a8-415a-b355-a3355a835b4d","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-699eecf4"><!-- wp:wd/post-image {"blockId":"cc68cdd8-4f50-4467-aaff-5ee1fced72a2","blockVersion":"2","displayWidth":""} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"0d1efe54-24a0-4537-bf7e-959a7bb9f274","blockVersion":"2","adjacentCount":2,"justifyContent":"center","justifyContentMobile":"flex-start"} -->
+<div class="wp-block-wd-column wd-0d1efe54"><!-- wp:wd/post-date-meta {"blockId":"8c85f10f-dbbe-4041-8aaf-e67c7a3563e7","blockVersion":"2"} /-->
+
+<!-- wp:wd/post-title {"blockId":"81ee3793-2b85-42c9-8e9f-c4a464c1ff81","blockVersion":"2","tpFontSize":"38","displayWidth":"custom","customWidth":"520","tpFontSizeTablet":"28"} /-->
+
+<!-- wp:wd/container {"blockId":"2a2626fe-efa8-48be-a97a-9f6dcfce7199","blockVersion":"2","direction":"row","align":"center","wrap":"wrap","colGap":"10","rowGap":"15"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-2a2626fe"><!-- wp:wd/post-author-meta {"blockId":"cae15fe3-3ab7-4a0b-802c-08c2d94775be","blockVersion":"2"} /-->
+
+<!-- wp:wd/post-comments-button {"blockId":"298ec445-6a92-4057-bd82-fb6eeda5b766","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/container {"blockId":"74d7283e-0ad3-466e-b3eb-3de415f3c7de","blockVersion":"2","rowGap":"40","marginBottom":"60","displayWidth":"custom","customWidth":"1172","marginBottomTablet":"40"} -->
+<div class="wp-block-wd-container wd-dir-col wd-74d7283e wd-custom-width"><!-- wp:wd/post-content {"blockId":"9f87f836-40c4-48e4-b2f2-f9a9e6ac196a","blockVersion":"2"} /-->
+
+<!-- wp:wd/container {"blockId":"7d1ddd2e-da6f-4002-9f18-0926cc081985","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-7d1ddd2e"><!-- wp:wd/post-tags {"blockId":"d5e69252-0af5-48ef-8e48-8482a4a1295f","blockVersion":"2"} /-->
+
+<!-- wp:wd/social-buttons {"blockId":"6d70fcd3-0608-4406-8ce1-8d4f6cb7d4be","blockVersion":"2","style":"colored","size":"small"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/post-navigation {"blockId":"db47a1e2-b0cb-4c59-b8e1-ef1faf5bfb87","blockVersion":"2","paddingTop":"20","paddingBottom":"20","borderType":"solid","borderColorCode":"rgba(0,0,0,0.1)","borderWidthTop":"1","borderWidthBottom":"1"} /-->
+
+<!-- wp:wd/post-comments {"blockId":"8b47d6c8-1e6a-436b-9dc3-842aca344d51","blockVersion":"2"} /-->
+
+<!-- wp:wd/post-comments-form {"blockId":"239f0480-2ca8-4976-8193-723bae26704b","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>226</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-13 13:58:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-13 13:58:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-06 08:18:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-06 08:18:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-post-books-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

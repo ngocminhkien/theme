@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Megamarket gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Tue, 09 Jul 2024 08:31:10 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Payment and Delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/payment-and-delivery/</link>
+					<pubDate>Tue, 09 Jul 2024 09:03:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/?page_id=43</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/title {"blockId":"ca886a68-4bfe-456a-bad8-efb309674c30","content":"Delivery Information","tpFontSize":"36","tpFontVariant":"800","tpFontWeight":"800","colorVariable":"\u002d\u002dwd-primary-color","marginBottom":"30","tpFontSizeTablet":"28","tpFontSizeMobile":"24","marginTopTablet":"-20"} -->
+<h2 id="wd-ca886a68" class="wp-block-wd-title title">Delivery Information</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"98c70d1f-da2c-4532-afcc-5ae43f83214c","marginBottom":"40"} -->
+<div id="wd-98c70d1f" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"ee6e0843-cef3-4b40-9b75-152bdb4fec0f","adjacentCount":2} -->
+<div id="wd-ee6e0843" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"667fd29a-797a-4c5e-aaf6-d1f2b6edeffa","content":"When will my order ship?","tpFontSize":"26","tpFontSizeTablet":"22"} -->
+<h2 id="wd-667fd29a" class="wp-block-wd-title title">When will my order ship?</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"c56cca15-f506-43db-889f-aad0264c7ca1"} -->
+<p id="wd-c56cca15" class="wp-block-wd-paragraph">There's lot of hate out there for a text that amounts to little more than garbled words in an old language. The villagers are out there with a vengeance to get that Frankenstein, wielding torches and pitchforks, wanting.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"52d48947-7add-4d03-abab-90377d0bbd0e","adjacentCount":2} -->
+<div id="wd-52d48947" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"01b5cc7d-3be4-4dfd-bf26-a6b437b101e9","content":"When will my order ship?","tpFontSize":"26","tpFontSizeTablet":"22"} -->
+<h2 id="wd-01b5cc7d" class="wp-block-wd-title title">When will my order ship?</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"c03a070a-9105-418b-ac32-5d59b67d196d"} -->
+<p id="wd-c03a070a" class="wp-block-wd-paragraph">How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/image {"blockId":"ae86ab71-80d0-4f20-8d9e-3bcbd748f90d","image":{"id":666,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment-and-delivery.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment-and-delivery.jpg","width":1440,"height":450},"marginBottom":"41"} -->
+<div id="wd-ae86ab71" class="wp-block-wd-image wd-block-image"><img class="wp-image-666" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment-and-delivery.jpg" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/table {"blockId":"0d58f660-a538-4a1d-b92b-e963f5bed4c6","headingFontSize":"16","headingTextTransform":"capitalize","headingFontVariant":"800","headingFontWeight":"800","headingBorderType":"solid","headingBorderWidthBottom":"1","headingBorderWidthLock":false,"bodyBorderType":"solid","bodyBorderWidthTop":"1","bodyBorderWidthLock":false,"marginBottom":"80","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1","marginBottomTablet":"60"} -->
+<div id="wd-0d58f660" class="wp-block-wd-table"><!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Shipping Methods</th><th>Rate</th><th>Max Charge</th></tr></thead><tbody><tr><td>FedEx</td><td>10% of order value</td><td><strong><mark style="color:#1246ab" class="has-inline-color">$299</mark></strong></td></tr><tr><td>FedEx, Signature Required</td><td>10% of order value + $20</td><td><strong><mark style="color:#1246ab" class="has-inline-color">$299 + $20</mark></strong></td></tr><tr><td>In-Home Delivery</td><td>$299 per trip</td><td><strong><mark style="color:#1246ab" class="has-inline-color">$299</mark></strong></td></tr><tr><td>In-Home Delivery, Time-Specific</td><td>$399 per trip</td><td><strong><mark style="color:#1246ab" class="has-inline-color">$299</mark></strong></td></tr></tbody></table></figure>
+<!-- /wp:table --></div>
+<!-- /wp:wd/table -->
+
+<!-- wp:wd/row {"blockId":"a1681a06-5265-420b-8935-08d1a6c75180","marginBottom":"40","marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div id="wd-a1681a06" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"5083c540-c937-4407-8e06-35ad6d08d44c","adjacentCount":2} -->
+<div id="wd-5083c540" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"b93d6759-8780-401f-bdcf-c60958c12d42","content":"Delivery time","tpFontSize":"26","tpFontSizeTablet":"22"} -->
+<h2 id="wd-b93d6759" class="wp-block-wd-title title">Delivery time</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e48c2215-d5b5-4925-bab7-b50650cb128a"} -->
+<p id="wd-e48c2215" class="wp-block-wd-paragraph">If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited for anothe.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"17776777-075e-40df-9da6-16b815d186ca","adjacentCount":2} -->
+<div id="wd-17776777" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"3fc63c50-ff7c-413e-bc77-30bc431effa7","content":"Tracking","tpFontSize":"26","tpFontSizeTablet":"22"} -->
+<h2 id="wd-3fc63c50" class="wp-block-wd-title title">Tracking</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"4c74514a-184a-4b5b-8732-4175191f97e6"} -->
+<p id="wd-4c74514a" class="wp-block-wd-paragraph">To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can’t quite tell right now, but they’re unhappy, somehow.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>43</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 09:03:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 09:03:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-01 12:51:30]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-01 12:51:30]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment-and-delivery]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[payment-and-delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/payment-and-delivery/payment-and-delivery-2/</link>
+					<pubDate>Thu, 11 Jul 2024 07:51:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment-and-delivery.jpg</guid>
+															<wp:post_id>666</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-11 07:51:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-11 07:51:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-11 07:51:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-11 07:51:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment-and-delivery-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>43</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment-and-delivery.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/payment-and-delivery.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>fashion-2-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 22 Dec 2025 12:05:26 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/wp-content/uploads/sites/70/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Single post - Fashion 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/woodmart_layout/single-post-fashion-2/</link>
+					<pubDate>Wed, 18 Feb 2026 12:31:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/fashion-2-gutenberg/?post_type=woodmart_layout&#038;p=552</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"c4e70157-974f-496d-81bb-4674ab4fe12b","columnsGap":60,"marginTop":"-40","marginBottom":"60","columnsGapTablet":20,"marginTopTablet":"-20","marginBottomTablet":"40"} -->
+<div id="wd-c4e70157" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"f198e804-526e-4f60-b1d3-e33e1ef53dc4","adjacentCount":2,"colWidth":40,"justifyContent":"center","adjacentCountTablet":1,"colWidthTablet":100,"blocksGapTablet":15,"alignItemsTablet":"center","textAlignTablet":"center"} -->
+<div id="wd-f198e804" class="wp-block-wd-column wd-align-is-md-center wd-align"><!-- wp:wd/post-categories {"blockId":"7322768f-c116-4721-aebb-873be5d87da4","textAlign":"start","categories_style":"with-bg"} /-->
+
+<!-- wp:wd/post-title {"blockId":"cb4c530f-8a96-4517-b339-d70134ee4220","tpFontSize":"38","displayWidth":"","customWidth":"","tpFontSizeTablet":"28","tpFontSizeMobile":"24"} /-->
+
+<!-- wp:wd/container {"blockId":"34be3695-6c6c-45b9-8850-5d476d47aa32","direction":"row","align":"center","wrap":"wrap","colGap":"15","rowGap":"15"} -->
+<div id="wd-34be3695" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/post-author-meta {"blockId":"955c1da4-ed16-42db-904a-f95bb4dca8f2"} /-->
+
+<!-- wp:wd/post-date-meta {"blockId":"20c9bcd8-9381-4038-b031-902b851244ac"} /-->
+
+<!-- wp:wd/post-comments-button {"blockId":"62936c4d-fe5f-4ca5-8134-102debe61184"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"3fffae64-efc9-4c41-b7b9-f237d00ce6a7","adjacentCount":2,"colWidth":60,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-3fffae64" class="wp-block-wd-column"><!-- wp:wd/post-image {"blockId":"c8d0757b-9424-4385-a265-9c94cafd8a25","textAlign":"center"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/container {"blockId":"b7f78ea6-15c4-459c-a1a9-93c36e0b32c1","colGap":"","rowGap":"50","displayWidth":"custom","customWidth":"1320","rowGapTablet":"40"} -->
+<div id="wd-b7f78ea6" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/post-content {"blockId":"9f87f836-40c4-48e4-b2f2-f9a9e6ac196a","marginBottom":"20"} /-->
+
+<!-- wp:wd/post-navigation {"blockId":"944c48c5-050d-424b-bdd8-0f5eea971f8a","paddingTop":"25","paddingBottom":"25","borderType":"solid","borderColorCode":"rgba(0,0,0,0.15)","borderWidthTop":"1","borderWidthBottom":"1"} /-->
+
+<!-- wp:wd/blog {"blockId":"5eaef73c-f570-4638-b402-774522eb14ca","show_title":true,"post_type":"related_posts","layout":"carousel","hide_pagination_control":true,"hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"af0ebbf8-f2cb-4034-a002-09fd3ab7c864","content":"RELATED POSTS","tpFontSize":"24","tpFontSizeTablet":"20"} -->
+<h2 id="wd-af0ebbf8" class="wp-block-wd-title title">RELATED POSTS</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/blog --></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>552</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-18 12:31:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-18 12:31:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-18 12:31:19]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-18 12:31:19]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-post-fashion-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

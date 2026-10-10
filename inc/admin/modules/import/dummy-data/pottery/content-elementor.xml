@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Pottery Elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/pottery-elementor</link>
+	<description></description>
+	<pubDate>Wed, 17 Jul 2024 13:19:28 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pottery-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/</wp:base_uploads_url>
+
+							<wp:term>
+			<wp:term_id>34</wp:term_id>
+			<wp:term_taxonomy><![CDATA[woodmart_slider]]></wp:term_taxonomy>
+			<wp:term_slug><![CDATA[pottery-slider]]></wp:term_slug>
+			<wp:term_parent><![CDATA[]]></wp:term_parent>
+			<wp:term_name><![CDATA[Pottery slider]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[animation]]></wp:meta_key>
+			<wp:meta_value><![CDATA[parallax]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[stretch_slider]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[stretch_content]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[580]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[height_tablet]]></wp:meta_key>
+			<wp:meta_value><![CDATA[500]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[height_mobile]]></wp:meta_key>
+			<wp:meta_value><![CDATA[500]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_hover_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifSwidGFibGV0Ijp7InZhbHVlIjoiIiwidW5pdCI6InB4In0sIm1vYmlsZSI6eyJ2YWx1ZSI6IiIsInVuaXQiOiJweCJ9fX0=]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_icon_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifSwidGFibGV0Ijp7InZhbHVlIjoiIiwidW5pdCI6InB4In0sIm1vYmlsZSI6eyJ2YWx1ZSI6IiIsInVuaXQiOiJweCJ9fX0=]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_offset_h]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifSwidGFibGV0Ijp7InZhbHVlIjoiIiwidW5pdCI6InB4In0sIm1vYmlsZSI6eyJ2YWx1ZSI6IiIsInVuaXQiOiJweCJ9fX0=]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_offset_v]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifSwidGFibGV0Ijp7InZhbHVlIjoiIiwidW5pdCI6InB4In0sIm1vYmlsZSI6eyJ2YWx1ZSI6IiIsInVuaXQiOiJweCJ9fX0=]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_color_hover]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_bg_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_bg_color_hover]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_border_radius]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_border_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_border_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_border_color_hover]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_box_shadow_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_box_shadow_offset_x]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_box_shadow_offset_y]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_box_shadow_blur]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[arrows_box_shadow_spread]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_horizon_align]]></wp:meta_key>
+			<wp:meta_value><![CDATA[left]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifSwidGFibGV0Ijp7InZhbHVlIjoiIiwidW5pdCI6InB4In0sIm1vYmlsZSI6eyJ2YWx1ZSI6IiIsInVuaXQiOiJweCJ9fX0=]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_bg_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_bg_color_hover]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_bg_color_active]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_bg_color_wrapper]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_color_idle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_color_hover]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_color_active]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_border_radius]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_border_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOiIiLCJ1bml0IjoicHgifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_border_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_border_color_hover]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_border_active_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:0:"";}]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[autoplay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[autoplay_speed]]></wp:meta_key>
+			<wp:meta_value><![CDATA[25000]]></wp:meta_value>
+		</wp:termmeta>
+		</wp:term>
+								<item>
+					<title><![CDATA[Home Pottery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/</link>
+					<pubDate>Thu, 18 Jul 2024 06:54:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pottery-elementor/?page_id=59</guid>
+											<content:encoded><![CDATA[ 						 						 						  										#slide-377 .wd-slide-container {
+										--wd-align-items: flex-end;
+															--wd-justify-content: left;
+									}
+								#slide-377.woodmart-loaded .wd-slide-bg {
+				background-image:url(http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-1.jpg);				}
+				#slide-377 .wd-slide-bg {
+				background-color:rgb(121,113,98);				background-size:cover;
+										background-position:center center;									}
+									#slide-377 .wd-slide-inner {
+						max-width:1190px;					}
+				@media (max-width: 1024px) {
+										#slide-377 .wd-slide-inner {
+							max-width:1200px;						}
+					#slide-377 .wd-slide-bg {
+																							}
+				}
+				@media (max-width: 767px) {
+										#slide-377 .wd-slide-inner {
+							max-width:500px;						}
+					#slide-377 .wd-slide-bg {
+												background-position:-630px 0px;											}
+				}
+															#slide-420 .wd-slide-container {
+										--wd-align-items: flex-end;
+															--wd-justify-content: left;
+									}
+								#slide-420.woodmart-loaded .wd-slide-bg {
+				background-image:url(http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-2.jpg);				}
+				#slide-420 .wd-slide-bg {
+				background-color:rgb(155,155,155);				background-size:cover;
+										background-position:center center;									}
+									#slide-420 .wd-slide-inner {
+						max-width:1190px;					}
+				@media (max-width: 1024px) {
+										#slide-420 .wd-slide-inner {
+							max-width:1200px;						}
+					#slide-420 .wd-slide-bg {
+																							}
+				}
+				@media (max-width: 767px) {
+										#slide-420 .wd-slide-inner {
+							max-width:500px;						}
+					#slide-420 .wd-slide-bg {
+																							}
+				}
+															#slide-423 .wd-slide-container {
+										--wd-align-items: flex-end;
+															--wd-justify-content: left;
+									}
+								#slide-423.woodmart-loaded .wd-slide-bg {
+				background-image:url(http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-3.jpg);				}
+				#slide-423 .wd-slide-bg {
+				background-color:rgb(121,113,98);				background-size:cover;
+										background-position:center center;									}
+									#slide-423 .wd-slide-inner {
+						max-width:1190px;					}
+				@media (max-width: 1024px) {
+										#slide-423 .wd-slide-inner {
+							max-width:1200px;						}
+					#slide-423 .wd-slide-bg {
+																							}
+				}
+				@media (max-width: 767px) {
+										#slide-423 .wd-slide-inner {
+							max-width:500px;						}
+					#slide-423 .wd-slide-bg {
+																							}
+				}
+								
+																					.elementor-377 .elementor-element.elementor-element-61da25a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:10px 10px;--background-transition:0.3s;--padding-top:30px;--padding-bottom:10px;--padding-left:60px;--padding-right:60px;}.elementor-377 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-377 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-377 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:700px;}.elementor-377 .elementor-element.elementor-element-14ebd6b .title{font-size:64px;}.elementor-377 .elementor-element.elementor-element-6f30107 .wd-text-block{max-width:590px;}.elementor-377 .elementor-element.elementor-element-30fd09e{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--gap:20px 15px;--background-transition:0.3s;--margin-top:10px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}@media(max-width:1024px){.elementor-377 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-377 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-377 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:525px;}.elementor-377 .elementor-element.elementor-element-14ebd6b .title{font-size:46px;}}@media(max-width:767px){.elementor-377 .elementor-element.elementor-element-61da25a{--padding-top:30px;--padding-bottom:10px;--padding-left:15px;--padding-right:15px;}.elementor-377 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-377 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-377 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:365px;}.elementor-377 .elementor-element.elementor-element-14ebd6b .title{font-size:32px;}}		
+						 					
+				<h4>A large selection of pots, mugs and decors.</h4> 
+						 					
+			<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.</p>
+			<a href="#">
+					Shop now				
+							</a>
+			<p>Rated 4.9 / 5 based on 374 reviews</p>
+								<img src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg" title="logo-white" width="93" height="23">					
+																					.elementor-420 .elementor-element.elementor-element-61da25a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:10px 10px;--background-transition:0.3s;--padding-top:30px;--padding-bottom:10px;--padding-left:60px;--padding-right:60px;}.elementor-420 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-420 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-420 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:700px;}.elementor-420 .elementor-element.elementor-element-14ebd6b .title{font-size:64px;}.elementor-420 .elementor-element.elementor-element-6f30107 .wd-text-block{max-width:590px;}.elementor-420 .elementor-element.elementor-element-30fd09e{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--gap:20px 15px;--background-transition:0.3s;--margin-top:10px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}@media(max-width:1024px){.elementor-420 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-420 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-420 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:525px;}.elementor-420 .elementor-element.elementor-element-14ebd6b .title{font-size:46px;}}@media(max-width:767px){.elementor-420 .elementor-element.elementor-element-61da25a{--padding-top:30px;--padding-bottom:10px;--padding-left:15px;--padding-right:15px;}.elementor-420 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-420 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-420 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:365px;}.elementor-420 .elementor-element.elementor-element-14ebd6b .title{font-size:32px;}}		
+				<h4>Discover the pinnacle of craftsmanship.</h4> 
+			<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.</p>
+			<a href="#">
+					Shop now				
+							</a>
+			<p>Rated 4.9 / 5 based on 374 reviews</p>
+								<img src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg" title="logo-white" width="93" height="23">					
+																					.elementor-423 .elementor-element.elementor-element-61da25a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:10px 10px;--background-transition:0.3s;--padding-top:30px;--padding-bottom:10px;--padding-left:60px;--padding-right:60px;}.elementor-423 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-423 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-423 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:700px;}.elementor-423 .elementor-element.elementor-element-14ebd6b .title{font-size:64px;}.elementor-423 .elementor-element.elementor-element-6f30107 .wd-text-block{max-width:590px;}.elementor-423 .elementor-element.elementor-element-30fd09e{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--gap:20px 15px;--background-transition:0.3s;--margin-top:10px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}@media(max-width:1024px){.elementor-423 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-423 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-423 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:525px;}.elementor-423 .elementor-element.elementor-element-14ebd6b .title{font-size:46px;}}@media(max-width:767px){.elementor-423 .elementor-element.elementor-element-61da25a{--padding-top:30px;--padding-bottom:10px;--padding-left:15px;--padding-right:15px;}.elementor-423 .elementor-element.elementor-element-14ebd6b .title-after_title, .elementor-423 .elementor-element.elementor-element-14ebd6b .title-subtitle, .elementor-423 .elementor-element.elementor-element-14ebd6b .woodmart-title-container{max-width:365px;}.elementor-423 .elementor-element.elementor-element-14ebd6b .title{font-size:32px;}}		
+				<h4>Get to know pottery, book a class now!</h4> 
+			<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.</p>
+			<a href="#">
+					Shop now				
+							</a>
+			<p>Rated 4.9 / 5 based on 374 reviews</p>
+								<img src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg" title="logo-white" width="93" height="23">					
+										 							
+					<ul></ul>
+						 						 						 						 												
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/pots/"></a>
+				<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-category-pots.png" alt="" />			
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/pots/">
+						Pots					</a>
+				</h3>
+						5					
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/plates/"></a>
+				<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-category-plates.png" alt="" />			
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/plates/">
+						Plates					</a>
+				</h3>
+						5					
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/mugs/"></a>
+				<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-category-mugs.png" alt="" />			
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/mugs/">
+						Mugs					</a>
+				</h3>
+						5					
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/decor/"></a>
+				<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-category-decor.png" alt="" />			
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/decor/">
+						Decor					</a>
+				</h3>
+						5					
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/bowls/"></a>
+				<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-category-bowls.png" alt="" />			
+				<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/bowls/">
+						Bowls					</a>
+				</h3>
+						5					
+					 														
+				<h4>Popular of The Week</h4> 
+					<p>The most popular products from the collection</p>				
+						 						 						 						 						 								
+										 										 					
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/21cm-side-plate/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-plate-10-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/21cm-side-plate/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-pots-2-1.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/21cm-side-plate/" data-id="201" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/21cm-side-plate/">21cm Side Plate</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/plates/" rel="tag">Plates</a>		
+	&pound;38.00
+					You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/21cm-side-plate/" data-key="d8b59998b6" data-product-id="201" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="?add-to-cart=201" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_201" data-quantity="1" data-product_id="201" data-product_sku="PT-043" aria-label="Add to cart: &ldquo;21cm Side Plate&rdquo;" rel="nofollow">Add to cart</a>
+							 					
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/21cm-side-plate/" class="open-quick-view quick-view-button" rel="nofollow" data-id="201">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/americano-mug/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-mug-5-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/americano-mug/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-bowl-1-1.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/americano-mug/" data-id="91" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/americano-mug/">Americano Mug</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/mugs/" rel="tag">Mugs</a>		
+	&pound;32.00
+					You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/americano-mug/" data-key="d8b59998b6" data-product-id="91" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="?add-to-cart=91" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_91" data-quantity="1" data-product_id="91" data-product_sku="MS-014" aria-label="Add to cart: &ldquo;Americano Mug&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/americano-mug/" class="open-quick-view quick-view-button" rel="nofollow" data-id="91">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/black-windows-pot/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-pots-9-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/black-windows-pot/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-decor-4-1.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/black-windows-pot/" data-id="212" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/black-windows-pot/">Black Windows Pot</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/pots/" rel="tag">Pots</a>		
+	&pound;45.00
+					You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/black-windows-pot/" data-key="d8b59998b6" data-product-id="212" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="?add-to-cart=212" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_212" data-quantity="1" data-product_id="212" data-product_sku="PT-054" aria-label="Add to cart: &ldquo;Black Windows Pot&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/black-windows-pot/" class="open-quick-view quick-view-button" rel="nofollow" data-id="212">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/breakfast-bowl/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-bowl-5-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/breakfast-bowl/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-decor-3-1.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/breakfast-bowl/" data-id="107" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/breakfast-bowl/">Breakfast Bowl</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/bowls/" rel="tag">Bowls</a>		
+	&pound;38.00
+					You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/breakfast-bowl/" data-key="d8b59998b6" data-product-id="107" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="?add-to-cart=107" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_107" data-quantity="1" data-product_id="107" data-product_sku="PT-026" aria-label="Add to cart: &ldquo;Breakfast Bowl&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/breakfast-bowl/" class="open-quick-view quick-view-button" rel="nofollow" data-id="107">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-plate/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-plate-1-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-plate/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-pots-4-1.jpg" alt="" />				</a>
+					 						 						
+					Brown				
+					Green				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-plate/" data-id="190" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-plate/">Bump Plate</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/plates/" rel="tag">Plates</a>		
+	&pound;56.00
+					You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-plate/" data-key="d8b59998b6" data-product-id="190" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-plate/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_190" data-quantity="1" data-product_id="190" data-product_sku="PT-034" aria-label="Select options for &ldquo;Bump Plate&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-plate/" class="open-quick-view quick-view-button" rel="nofollow" data-id="190">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-platter/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-plate-5-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-platter/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-decor-3-1.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-platter/" data-id="196" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-platter/">Bump Platter</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/plates/" rel="tag">Plates</a>		
+	&pound;83.00
+					You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-platter/" data-key="d8b59998b6" data-product-id="196" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="?add-to-cart=196" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_196" data-quantity="1" data-product_id="196" data-product_sku="PT-038" aria-label="Add to cart: &ldquo;Bump Platter&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/bump-platter/" class="open-quick-view quick-view-button" rel="nofollow" data-id="196">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/canvas-ceramic-plant-pot/">
+						 						 			-15%<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-pots-4-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/canvas-ceramic-plant-pot/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-decor-3-1.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/canvas-ceramic-plant-pot/" data-id="207" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/canvas-ceramic-plant-pot/">Canvas Ceramic Plant Pot</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/pots/" rel="tag">Pots</a>		
+	<del aria-hidden="true">&pound;25.00</del> Original price was: &pound;25.00.<ins aria-hidden="true">&pound;21.25</ins>Current price is: &pound;21.25.
+					You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/canvas-ceramic-plant-pot/" data-key="d8b59998b6" data-product-id="207" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="?add-to-cart=207" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_207" data-quantity="1" data-product_id="207" data-product_sku="PT-049" aria-label="Add to cart: &ldquo;Canvas Ceramic Plant Pot&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/canvas-ceramic-plant-pot/" class="open-quick-view quick-view-button" rel="nofollow" data-id="207">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/caramel-bowl/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-bowl-8-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/caramel-bowl/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hp-bowl-11-1.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/caramel-bowl/" data-id="110" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/caramel-bowl/">Caramel Bowl</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product-category/bowls/" rel="tag">Bowls</a>		
+	&pound;28.00
+					You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/caramel-bowl/" data-key="d8b59998b6" data-product-id="110" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="?add-to-cart=110" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_110" data-quantity="1" data-product_id="110" data-product_sku="PT-029" aria-label="Add to cart: &ldquo;Caramel Bowl&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/product/caramel-bowl/" class="open-quick-view quick-view-button" rel="nofollow" data-id="110">Quick view</a>
+				<h4>Get to know pottery, book a class now!</h4> 
+								<img width="172" height="64" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-potteries-opt-172x64.jpg" alt="" />					
+				<h4>Get to know pottery, book a class now!</h4> 
+			<p>Are you interested in pottery and want to learn how to create unique models from clay? Then my pottery course is just the place for you! Make your own masterpiece according to your wishes and ideas.</p>
+			<a href="#">
+					Book A Class				
+							</a>
+								<img width="720" height="780" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-img-1-opt.jpg" alt="" />					
+						 			
+							<video src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-gallery-video-2.mp4" playsinline loop muted autoplay poster="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-video-2-image.jpg"></video>			
+							<video src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-gallery-video-1.mp4" playsinline loop muted autoplay poster="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-video-1-image.jpg"></video>			
+								<img width="754" height="580" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-img-2-opt.jpg" alt="" />					
+				<h4>My Blog</h4> 
+					<p>The most popular products from the collection</p>				
+						 						 						 										
+<article id="post-374">
+					<img width="1024" height="633" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-blog-1-1024x633.jpg" alt="" />				
+					13				
+					Jun				
+								<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/" rel="bookmark" aria-label="Link on post Our Most Frequently Asked Questions Explained"></a>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/blog/category/news/" rel="category tag">News</a>				
+												Posted by
+					<img alt='author-avatar' src='https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=32&#038;d=mm&#038;r=g' class='avatar avatar-32 photo' height='32' width='32' />		
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/author/zakhar/" rel="author">
+				Mr. Mackay
+		</a>
+													 			
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/" target="_blank" aria-label="Facebook social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/" target="_blank" aria-label="X social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/&amp;media=http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-blog-1.jpg&amp;description=Our+Most+Frequently+Asked+Questions+Explained" target="_blank" aria-label="Pinterest social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/" target="_blank" aria-label="Linkedin social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/" target="_blank" aria-label="Telegram social link">
+											</a>
+									<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/#respond">0 comments</a>								
+													<h3>
+						<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/" rel="bookmark">
+							Our Most Frequently Asked Questions Explained						</a>
+					</h3>
+													It’s unreal, uncanny, makes you wonder if something is wrong, it seems to seek your attention for all the wrong reasons. Usually, we pr...																		
+						<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/06/13/our-most-frequently-asked-questions-explained/">Continue reading</a>					
+</article>
+<article id="post-371">
+					<img width="1024" height="633" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-blog-2-1024x633.jpg" alt="" />				
+					24				
+					May				
+								<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/" rel="bookmark" aria-label="Link on post Our Top 5 Pottery Gift Ideas"></a>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/blog/category/ideas/" rel="category tag">Ideas</a>				
+												Posted by
+					<img alt='author-avatar' src='https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=32&#038;d=mm&#038;r=g' class='avatar avatar-32 photo' height='32' width='32' />		
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/author/zakhar/" rel="author">
+				Mr. Mackay
+		</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/" target="_blank" aria-label="Facebook social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/" target="_blank" aria-label="X social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/&amp;media=http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-blog-2.jpg&amp;description=Our+Top+5+Pottery+Gift+Ideas" target="_blank" aria-label="Pinterest social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/" target="_blank" aria-label="Linkedin social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/" target="_blank" aria-label="Telegram social link">
+											</a>
+									<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/#respond">0 comments</a>								
+													<h3>
+						<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/" rel="bookmark">
+							Our Top 5 Pottery Gift Ideas						</a>
+					</h3>
+													That’s what is Lorem Ipsum to many—it rubs them the wrong way, all the way. It’s unreal, uncanny, makes you wonder if something is wron...																		
+						<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/05/24/our-top-5-pottery-gift-ideas/">Continue reading</a>					
+</article>
+<article id="post-368">
+					<img width="1024" height="633" src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-blog-3-1024x633.jpg" alt="" />				
+					01				
+					Apr				
+								<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/" rel="bookmark" aria-label="Link on post The Inspiration Behind the Dust to Dust Necklace"></a>
+					<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/blog/category/inspiration/" rel="category tag">Inspiration</a>				
+												Posted by
+					<img alt='author-avatar' src='https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=32&#038;d=mm&#038;r=g' class='avatar avatar-32 photo' height='32' width='32' />		
+		<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/author/zakhar/" rel="author">
+				Mr. Mackay
+		</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/" target="_blank" aria-label="Facebook social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/" target="_blank" aria-label="X social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/&amp;media=http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-blog-3.jpg&amp;description=The+Inspiration+Behind+the+Dust+to+Dust+Necklace" target="_blank" aria-label="Pinterest social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/" target="_blank" aria-label="Linkedin social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/" target="_blank" aria-label="Telegram social link">
+											</a>
+									<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/#respond">0 comments</a>								
+													<h3>
+						<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/" rel="bookmark">
+							The Inspiration Behind the Dust to Dust Necklace						</a>
+					</h3>
+													A client that’s unhappy for a reason is a problem, a client that’s unhappy though he or her can’t quite put a finger on it is worse. Bu...																		
+						<a href="https://dummy.xtemos.com/woodmart2/pottery-elementor/2024/04/01/the-inspiration-behind-the-dust-to-dust-necklace/">Continue reading</a>					
+</article>]]></content:encoded>
+															<wp:post_id>59</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 06:54:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 06:54:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-12 12:24:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-12 12:24:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-pottery]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.23.1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"98c187d","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"-40","right":"0","bottom":"0","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"0a6022f","elType":"widget","settings":{"content_width":"full","slider":"pottery-slider","sync_parent_id":"wd_6698d0f605316","scroll_y":"-80"},"elements":[],"widgetType":"wd_slider"}],"isInner":""},{"id":"e174221","elType":"container","settings":{"flex_direction":"column","wd_section_stretch":"stretch-content","container_sticky_offset":"50","scroll_y":"-80","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[{"id":"257c01a","elType":"widget","settings":{"content_width":"full","style":"carousel","slides_per_view":{"unit":"px","size":"5","sizes":[]},"hide_pagination_control":"yes","sync_parent_id":"wd_6698d837243f2","scroll_y":"-80","categories_design":"side","img_size":"full","categories_with_shadow":"disable","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"24","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"22","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"title_typography_text_transform":"capitalize","categories_bordered_grid":"1","categories_border_color":"#333333","spacing":"30","carousel_arrows_position_popover":"yes","carousel_arrows_offset_h":{"unit":"px","size":"-26","sizes":[]}},"elements":[],"widgetType":"wd_product_categories"}],"isInner":""},{"id":"e7192cb","elType":"container","settings":{"flex_direction":"column","flex_gap":{"column":"","row":"","isLinked":"1","unit":"px","size":""},"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"1cee6ea","elType":"widget","settings":{"content_width":"full","subtitle":"","title":"Popular of The Week","after_title":"<p>The most popular products from the collection<\/p>","size":"medium","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"28","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"26","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"22","sizes":[]},"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":"16","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"2280148","elType":"widget","settings":{"content_width":"full","columns_tablet":{"unit":"px","size":"3","sizes":[]},"items_per_page":"8","pagination":"arrows","sync_parent_id":"wd_6698d8cb4e2d4","scroll_y":"-80"},"elements":[],"widgetType":"wd_products"}],"isInner":""},{"id":"f949a3b","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"100","column":"100","row":"0"},"flex_direction_mobile":"column","flex_gap_tablet":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"},"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"49efa61","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"container_sticky_offset":"50","scroll_y":"-80","hide_mobile":"hidden-mobile"},"elements":[{"id":"d63e3dc","elType":"widget","settings":{"content_width":"full","subtitle":"","title":"Get to know pottery, book a class now!","after_title":"","align":"right","width":{"unit":"px","size":"615","sizes":[]},"width_tablet":{"unit":"px","size":"370","sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"54","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"32","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"}],"isInner":"1"},{"id":"c76d68e","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"69b5d69","elType":"widget","settings":{"content_width":"full","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/w-hmp-potteries-opt.jpg","id":"472","size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"172","height":"64"},"scroll_y":"-80"},"elements":[],"widgetType":"wd_image_or_svg"},{"id":"66807fa","elType":"widget","settings":{"content_width":"full","subtitle":"","title":"Get to know pottery, book a class now!","after_title":"","align":"left","width":{"unit":"px","size":"","sizes":[]},"width_tablet":{"unit":"px","size":"","sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"scroll_y":"-80","hide_desktop":"hidden-desktop","hide_tablet":"hidden-tablet"},"elements":[],"widgetType":"wd_title"},{"id":"ee5fd76","elType":"widget","settings":{"content_width":"full","text":"<p>Are you interested in pottery and want to learn how to create unique models from clay? Then my pottery course is just the place for you! Make your own masterpiece according to your wishes and ideas.<\/p>","width":{"unit":"px","size":"530","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_text_block"},{"id":"0b9f8a2","elType":"widget","settings":{"content_width":"full","text":"Book A Class","color":"primary","align":"left","scroll_y":"-80"},"elements":[],"widgetType":"wd_button"}],"isInner":"1"}],"isInner":""},{"id":"7f263c1","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"30","column":"30","row":"30","isLinked":"1"},"flex_direction_mobile":"column","wd_section_stretch":"stretch-content","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"35c2e71","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"container_sticky_offset":"50","scroll_y":"-80","flex_gap":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"}},"elements":[{"id":"d8fbeec","elType":"widget","settings":{"content_width":"full","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/w-hmp-img-1-opt.jpg","id":"485","size":"","alt":"","source":"library"},"alignment":"center","scroll_y":"-80"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"},{"id":"8cffcd8","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"flex_justify_content":"center","flex_align_items":"center","container_sticky_offset":"50","scroll_y":"-80","flex_gap":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"}},"elements":[{"id":"d7fbc11","elType":"widget","settings":{"content_width":"full","video_hosted_url":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/w-hmp-gallery-video-2.mp4","id":"357","size":"","alt":"","source":"library"},"video_youtube_url":"https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E","video_vimeo_url":"https:\/\/vimeo.com\/235215203","video_autoplay":"yes","video_loop":"yes","video_controls":"","video_poster":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/w-hmp-video-2-image.jpg","id":"490","size":"","alt":"","source":"library"},"text":"Play video","video_size":"aspect_ratio","video_height":{"unit":"px","size":"","sizes":[]},"video_aspect_ratio":"1\/1","_element_width":"initial","_element_width_tablet":"inherit","_element_custom_width":{"unit":"px","size":"434","sizes":[]},"scroll_y":"-80","video_mute":"yes"},"elements":[],"widgetType":"wd_video"}],"isInner":"1"}],"isInner":""},{"id":"bbbc33e","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"30","column":"30","row":"30","isLinked":"1"},"flex_direction_mobile":"column","wd_section_stretch":"stretch-content","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"5ca1c8b","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"flex_justify_content":"center","flex_align_items":"center","container_sticky_offset":"50","scroll_y":"-80","hide_mobile":"hidden-mobile"},"elements":[{"id":"3856a6f","elType":"widget","settings":{"content_width":"full","video_hosted_url":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/w-hmp-gallery-video-1.mp4","id":"356","size":"","alt":"","source":"library"},"video_youtube_url":"https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E","video_vimeo_url":"https:\/\/vimeo.com\/235215203","video_autoplay":"yes","video_loop":"yes","video_controls":"","video_poster":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/w-hmp-video-1-image.jpg","id":"497","size":"","alt":"","source":"library"},"text":"Play video","video_size":"aspect_ratio","video_height":{"unit":"px","size":"","sizes":[]},"video_aspect_ratio":"1\/1","_element_width":"initial","_element_width_tablet":"inherit","_element_custom_width":{"unit":"px","size":"434","sizes":[]},"scroll_y":"-80","video_mute":"yes"},"elements":[],"widgetType":"wd_video"}],"isInner":"1"},{"id":"18c5286","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"flex_justify_content_tablet":"center","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"1b14df7","elType":"widget","settings":{"content_width":"full","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/w-hmp-img-2-opt.jpg","id":"498","size":"","alt":"","source":"library"},"alignment":"center","scroll_y":"-80"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"}],"isInner":""},{"id":"53a5594","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"632eaac","elType":"widget","settings":{"content_width":"full","subtitle":"","title":"My Blog","after_title":"<p>The most popular products from the collection<\/p>","size":"medium","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"28","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"26","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"22","sizes":[]},"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":"16","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"eed0dc3","elType":"widget","settings":{"content_width":"full","blog_design":"list","items_per_page":"3","sync_parent_id":"wd_6698d8cb4c678","scroll_y":"-80"},"elements":[],"widgetType":"wd_blog"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-logo-full-dark]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/w-hmp-logo-full-dark/</link>
+					<pubDate>Thu, 18 Jul 2024 07:03:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-logo-full-dark.svg</guid>
+															<wp:post_id>81</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 07:03:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 07:03:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 07:03:06]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 07:03:06]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-logo-full-dark]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-logo-full-dark.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-logo-full-dark.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Footer Pottery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/?cms_block=footer-pottery</link>
+					<pubDate>Thu, 18 Jul 2024 07:05:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pottery-elementor/?post_type=cms_block&#038;p=82</guid>
+											<content:encoded><![CDATA[<a href="#" aria-label="Image link">
+								<img src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-logo-min-dark.svg" title="w-hmp-logo-min-dark" width="64" height="64">							</a>
+						 					<ul>
+											<li>
+						About Me					
+						<p>Based on <a href="http://woodmart.xtemos.com/" rel="nofollow"><strong>WoodMart</strong></a> theme © 2026 <a href="https://themeforest.net/item/woodmart-woocommerce-wordpress-theme/20264492" rel="nofollow"><strong>WooCommerce Themes</strong></a></p></p>]]></content:encoded>
+															<wp:post_id>82</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 07:05:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 07:05:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-25 15:36:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-25 15:36:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[footer-pottery]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.23.1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"96bc70d","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"0","column":"0","row":"0"},"flex_direction_mobile":"column","flex_wrap_tablet":"wrap","wd_section_stretch":"stretch-content","border_border":"solid","border_width":{"unit":"px","top":"1","right":"0","bottom":"1","left":"0","isLinked":""},"border_color":"#101010","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"36f3808","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"25"},"width_tablet":{"unit":"%","size":"50","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":""},"border_width_tablet":{"unit":"px","top":"0","right":"1","bottom":"1","left":"0","isLinked":""},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":""},"border_color":"#101010","padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80","padding_mobile":{"unit":"px","top":"30","right":"15","bottom":"30","left":"15","isLinked":""}},"elements":[{"id":"7926cd2","elType":"widget","settings":{"content_width":"full","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/w-hmp-logo-min-dark.svg","id":"348","size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"64","height":"64"},"on_click_action":"link","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"scroll_y":"-80"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"},{"id":"367a872","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"25"},"width_tablet":{"unit":"%","size":"50","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":""},"border_width_tablet":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":""},"border_color":"#101010","padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80","padding_mobile":{"unit":"px","top":"30","right":"15","bottom":"30","left":"15","isLinked":""}},"elements":[{"id":"2d6879f","elType":"widget","settings":{"content_width":"full","list_items":[{"list_content":"About Me","_id":"0916e65","link":{"url":"https:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/about-me\/","is_external":"","nofollow":"","custom_attributes":""}},{"list_content":"Blog","_id":"78df4cb","link":{"url":"https:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/blog\/","is_external":"","nofollow":"","custom_attributes":""}},{"list_content":"Pottery Class","_id":"76b5cc0","link":{"url":"https:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/pottery-class\/","is_external":"","nofollow":"","custom_attributes":""}},{"list_content":"Shipping &amp; Return","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"764c5cc"},{"list_content":"Pottery Care","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b3f657f"}],"list_type":"without","size":"medium","color_scheme":"custom","text_color":"#101010","text_color_hover":"#0F52D6","typography_typography":"custom","typography_font_family":"Instrument Sans","typography_font_weight":"500","scroll_y":"-80"},"elements":[],"widgetType":"wd_list"}],"isInner":"1"},{"id":"3882d67","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"25"},"width_tablet":{"unit":"%","size":"50","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":""},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":""},"border_color":"#101010","padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80","padding_mobile":{"unit":"px","top":"30","right":"15","bottom":"30","left":"15","isLinked":""}},"elements":[{"id":"7671e38","elType":"widget","settings":{"content_width":"full","list_items":[{"list_content":"Facebook","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"764c5cc"},{"list_content":"Twitter","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b3f657f"},{"list_content":"Instagram","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"3921e66"},{"list_content":"YouTube","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"76ca089"}],"list_type":"without","size":"medium","color_scheme":"custom","text_color":"#101010","text_color_hover":"#0F52D6","typography_typography":"custom","typography_font_family":"Instrument Sans","typography_font_weight":"500","scroll_y":"-80"},"elements":[],"widgetType":"wd_list"}],"isInner":"1"},{"id":"d44671b","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"25"},"width_tablet":{"unit":"%","size":"50","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80","padding_mobile":{"unit":"px","top":"30","right":"15","bottom":"30","left":"15","isLinked":""}},"elements":[{"id":"510e8ad","elType":"widget","settings":{"content_width":"full","list_items":[{"list_content":"info@woodmart.com","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"764c5cc"},{"list_content":"(211) 820-8293","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b3f657f"},{"list_content":"69 2nd Ave, Brooklyn, NY 11215, USA","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"3921e66"}],"list_type":"without","size":"medium","color_scheme":"custom","text_color":"#101010","text_color_hover":"#0F52D6","typography_typography":"custom","typography_font_family":"Instrument Sans","typography_font_weight":"500","scroll_y":"-80"},"elements":[],"widgetType":"wd_list"}],"isInner":"1"}],"isInner":""},{"id":"5ae2d92","elType":"container","settings":{"flex_direction":"column","wd_section_stretch":"stretch-content","padding":{"unit":"px","top":"20","right":"40","bottom":"20","left":"40","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80","padding_mobile":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":"1"}},"elements":[{"id":"96c507d","elType":"widget","settings":{"content_width":"full","text":"<p>Based on <a href=\"http:\/\/woodmart.xtemos.com\/\" rel=\"nofollow\"><strong>WoodMart<\/strong><\/a> theme © 2026 <a href=\"https:\/\/themeforest.net\/item\/woodmart-woocommerce-wordpress-theme\/20264492\" rel=\"nofollow\"><strong>WooCommerce Themes<\/strong><\/a><\/p>","typography_typography":"custom","typography_font_family":"Instrument Sans","typography_font_size":{"unit":"px","size":"14","sizes":[]},"typography_font_weight":"500","text_color":"title","scroll_y":"-80"},"elements":[],"widgetType":"wd_text_block"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-logo-full-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/w-hmp-logo-full-white/</link>
+					<pubDate>Thu, 18 Jul 2024 07:47:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-logo-full-white.svg</guid>
+															<wp:post_id>347</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 07:47:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 07:47:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 07:47:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 07:47:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-logo-full-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-logo-full-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-logo-full-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-logo-min-dark]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/w-hmp-logo-min-dark/</link>
+					<pubDate>Thu, 18 Jul 2024 07:47:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-logo-min-dark.svg</guid>
+															<wp:post_id>348</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 07:47:14]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 07:47:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 07:47:14]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 07:47:14]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-logo-min-dark]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-logo-min-dark.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-logo-min-dark.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[logo-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/logo-white/</link>
+					<pubDate>Thu, 18 Jul 2024 07:47:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg</guid>
+															<wp:post_id>349</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 07:47:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 07:47:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 07:47:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 07:47:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[logo-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/logo-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-gallery-video-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/w-hmp-gallery-video-1/</link>
+					<pubDate>Thu, 18 Jul 2024 07:48:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-gallery-video-1.mp4</guid>
+															<wp:post_id>356</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 07:48:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 07:48:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 07:48:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 07:48:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-gallery-video-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-gallery-video-1.mp4]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-gallery-video-1.mp4]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-gallery-video-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/w-hmp-gallery-video-2/</link>
+					<pubDate>Thu, 18 Jul 2024 07:48:13 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-gallery-video-2.mp4</guid>
+															<wp:post_id>357</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 07:48:13]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 07:48:13]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 07:48:13]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 07:48:13]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-gallery-video-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-gallery-video-2.mp4]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-gallery-video-2.mp4]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Pottery slide 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/woodmart_slide/pottery-slide-1-2/</link>
+					<pubDate>Thu, 18 Jul 2024 08:38:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pottery-elementor/?post_type=woodmart_slide&#038;p=420</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+				<h4>Discover the pinnacle of craftsmanship.</h4> 
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.</p>
+								<link rel="stylesheet" id="wd-button-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-button.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<a  href="#">
+					Shop now				
+							</a>
+			<p>Rated 4.9 / 5 based on 374 reviews</p>
+								<img  src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg" title="logo-white" loading="lazy" width="93" height="23">]]></content:encoded>
+															<wp:post_id>420</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 08:38:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 08:38:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-25 14:21:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-25 14:21:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[pottery-slide-1-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_slide]]></wp:post_type>
+												<category domain="woodmart_slider" nicename="pottery-slider"><![CDATA[Pottery slider]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_color]]></wp:meta_key>
+							<wp:meta_value><![CDATA[rgb(155,155,155)]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:105:"http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-2.jpg";s:2:"id";s:3:"421";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_size_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cover]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[center center]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_tablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_x_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[-630px]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_y_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0px]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1190]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width_tablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1200]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[500]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[vertical_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[bottom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[horizontal_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[left]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[slide_animation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"61da25a","elType":"container","settings":{"flex_direction":"column","flex_gap":{"column":"10","row":"10","isLinked":"1","unit":"px","size":"10"},"wd_color_scheme":"light","padding":{"unit":"px","top":"30","right":"60","bottom":"25","left":"60","isLinked":""},"padding_mobile":{"unit":"px","top":"30","right":"15","bottom":"25","left":"15","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"14ebd6b","elType":"widget","settings":{"content_width":"full","subtitle":"","title":"Discover the pinnacle of craftsmanship.","after_title":"","align":"left","width":{"unit":"px","size":"700","sizes":[]},"width_tablet":{"unit":"px","size":"525","sizes":[]},"width_mobile":{"unit":"px","size":"365","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"64","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"46","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"32","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"6f30107","elType":"widget","settings":{"content_width":"full","text":"<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.<\/p>","width":{"unit":"px","size":"590","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_text_block"},{"id":"30fd09e","elType":"container","settings":{"content_width":"full","flex_direction":"row","margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80","flex_align_items":"center","flex_gap":{"column":"15","row":"20","isLinked":"","unit":"px","size":"15"}},"elements":[{"id":"156b90a","elType":"widget","settings":{"content_width":"full","text":"Shop now","color":"primary","scroll_y":"-80"},"elements":[],"widgetType":"wd_button"},{"id":"9619ca0","elType":"widget","settings":{"content_width":"full","text":"<p>Rated 4.9 \/ 5 based on 374 reviews<\/p>","text_color":"title","scroll_y":"-80","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_text_block"},{"id":"3c67c00","elType":"widget","settings":{"content_width":"full","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/logo-white.svg","id":"349","size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"93","height":"23"},"scroll_y":"-80","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:6:{s:10:"hide_title";s:0:"";s:8:"wd_image";a:5:{s:3:"url";s:105:"http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-2.jpg";s:2:"id";i:421;s:4:"size";s:0:"";s:3:"alt";s:0:"";s:6:"source";s:7:"library";}s:11:"wd_bg_image";a:3:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:4:"size";s:0:"";}s:6:"margin";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:7:"padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:21:"background_background";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-slide-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/woodmart_slide/pottery-slide-1-2/w-hmp-slide-2/</link>
+					<pubDate>Thu, 18 Jul 2024 08:37:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-2.jpg</guid>
+															<wp:post_id>421</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 08:37:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 08:37:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 08:37:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 08:37:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-slide-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>420</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-slide-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Pottery slide 3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/woodmart_slide/pottery-slide-1-2-2/</link>
+					<pubDate>Thu, 18 Jul 2024 08:38:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pottery-elementor/?post_type=woodmart_slide&#038;p=423</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+				<h4>Get to know pottery, book a class now!</h4> 
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.</p>
+								<link rel="stylesheet" id="wd-button-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-button.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<a  href="#">
+					Shop now				
+							</a>
+			<p>Rated 4.9 / 5 based on 374 reviews</p>
+								<img  src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg" title="logo-white" loading="lazy" width="93" height="23">]]></content:encoded>
+															<wp:post_id>423</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 08:38:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 08:38:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-25 14:21:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-25 14:21:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[pottery-slide-1-2-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_slide]]></wp:post_type>
+												<category domain="woodmart_slider" nicename="pottery-slider"><![CDATA[Pottery slider]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_color]]></wp:meta_key>
+							<wp:meta_value><![CDATA[rgb(121,113,98)]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:105:"http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-3.jpg";s:2:"id";s:3:"424";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_size_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cover]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[center center]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_tablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_x_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[-630px]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_y_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0px]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1190]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width_tablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1200]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[500]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[vertical_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[bottom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[horizontal_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[left]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[slide_animation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"61da25a","elType":"container","settings":{"flex_direction":"column","flex_gap":{"column":"10","row":"10","isLinked":"1","unit":"px","size":"10"},"wd_color_scheme":"light","padding":{"unit":"px","top":"30","right":"60","bottom":"25","left":"60","isLinked":""},"padding_mobile":{"unit":"px","top":"30","right":"15","bottom":"25","left":"15","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"14ebd6b","elType":"widget","settings":{"content_width":"full","subtitle":"","title":"Get to know pottery, book a class now!","after_title":"","align":"left","width":{"unit":"px","size":"700","sizes":[]},"width_tablet":{"unit":"px","size":"525","sizes":[]},"width_mobile":{"unit":"px","size":"365","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"64","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"46","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"32","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"6f30107","elType":"widget","settings":{"content_width":"full","text":"<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.<\/p>","width":{"unit":"px","size":"590","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_text_block"},{"id":"30fd09e","elType":"container","settings":{"content_width":"full","flex_direction":"row","margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80","flex_align_items":"center","flex_gap":{"column":"15","row":"20","isLinked":"","unit":"px","size":"15"}},"elements":[{"id":"156b90a","elType":"widget","settings":{"content_width":"full","text":"Shop now","color":"primary","scroll_y":"-80"},"elements":[],"widgetType":"wd_button"},{"id":"9619ca0","elType":"widget","settings":{"content_width":"full","text":"<p>Rated 4.9 \/ 5 based on 374 reviews<\/p>","text_color":"title","scroll_y":"-80","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_text_block"},{"id":"3c67c00","elType":"widget","settings":{"content_width":"full","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/logo-white.svg","id":"349","size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"93","height":"23"},"scroll_y":"-80","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:6:{s:10:"hide_title";s:0:"";s:8:"wd_image";a:5:{s:3:"url";s:105:"http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-3.jpg";s:2:"id";i:424;s:4:"size";s:0:"";s:3:"alt";s:0:"";s:6:"source";s:7:"library";}s:11:"wd_bg_image";a:3:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:4:"size";s:0:"";}s:6:"margin";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:7:"padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:21:"background_background";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-slide-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/woodmart_slide/pottery-slide-1-2-2/w-hmp-slide-3/</link>
+					<pubDate>Thu, 18 Jul 2024 08:38:33 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-3.jpg</guid>
+															<wp:post_id>424</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 08:38:33]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 08:38:33]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 08:38:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 08:38:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-slide-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>423</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-slide-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-potteries-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/home-pottery/w-hmp-potteries-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:06:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-potteries-opt.jpg</guid>
+															<wp:post_id>472</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:06:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:06:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:06:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:06:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-potteries-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>59</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-potteries-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-potteries-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-img-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/home-pottery/w-hmp-img-1-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:11:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-img-1-opt.jpg</guid>
+															<wp:post_id>485</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:11:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:11:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:11:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:11:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-img-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>59</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-img-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-img-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-video-2-image]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/home-pottery/w-hmp-video-2-image/</link>
+					<pubDate>Thu, 18 Jul 2024 09:18:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-video-2-image.jpg</guid>
+															<wp:post_id>490</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:18:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:18:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:18:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:18:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-video-2-image]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>59</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-video-2-image.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-video-2-image.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-video-1-image]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/home-pottery/w-hmp-video-1-image/</link>
+					<pubDate>Thu, 18 Jul 2024 09:20:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-video-1-image.jpg</guid>
+															<wp:post_id>497</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:20:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:20:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:20:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:20:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-video-1-image]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>59</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-video-1-image.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-video-1-image.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-img-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/home-pottery/w-hmp-img-2-opt/</link>
+					<pubDate>Thu, 18 Jul 2024 09:21:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-img-2-opt.jpg</guid>
+															<wp:post_id>498</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 09:21:14]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 09:21:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 09:21:14]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 09:21:14]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-img-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>59</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-img-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-img-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[logo-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/logo-white/</link>
+					<pubDate>Thu, 18 Jul 2024 07:47:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg</guid>
+															<wp:post_id>349</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 07:47:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 07:47:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 07:47:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 07:47:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[logo-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/logo-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Pottery slide 1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/woodmart_slide/pottery-slide-1/</link>
+					<pubDate>Thu, 18 Jul 2024 08:18:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pottery-elementor/?post_type=woodmart_slide&#038;p=377</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+				<h4>A large selection of pots, mugs and decors.</h4> 
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.</p>
+								<link rel="stylesheet" id="wd-button-css" href="https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/themes/woodmart/css/parts/el-button.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<a  href="#">
+					Shop now				
+							</a>
+			<p>Rated 4.9 / 5 based on 374 reviews</p>
+								<img  src="http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/logo-white.svg" title="logo-white" loading="lazy" width="93" height="23">]]></content:encoded>
+															<wp:post_id>377</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 08:18:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 08:18:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-25 14:20:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-25 14:20:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[pottery-slide-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_slide]]></wp:post_type>
+												<category domain="woodmart_slider" nicename="pottery-slider"><![CDATA[Pottery slider]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_color]]></wp:meta_key>
+							<wp:meta_value><![CDATA[rgb(121,113,98)]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:105:"http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-1.jpg";s:2:"id";s:3:"378";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_size_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cover]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_desktop]]></wp:meta_key>
+							<wp:meta_value><![CDATA[center center]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_tablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_x_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[-630px]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_image_position_y_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0px]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1190]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width_tablet]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1200]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_width_mobile]]></wp:meta_key>
+							<wp:meta_value><![CDATA[500]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[vertical_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[bottom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[horizontal_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[left]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[slide_animation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"61da25a","elType":"container","settings":{"flex_direction":"column","flex_gap":{"column":"10","row":"10","isLinked":"1","unit":"px","size":"10"},"wd_color_scheme":"light","padding":{"unit":"px","top":"30","right":"60","bottom":"25","left":"60","isLinked":""},"padding_mobile":{"unit":"px","top":"30","right":"15","bottom":"25","left":"15","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"14ebd6b","elType":"widget","settings":{"content_width":"full","subtitle":"","title":"A large selection of pots, mugs and decors.","after_title":"","align":"left","width":{"unit":"px","size":"700","sizes":[]},"width_tablet":{"unit":"px","size":"525","sizes":[]},"width_mobile":{"unit":"px","size":"365","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"64","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"46","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"32","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"6f30107","elType":"widget","settings":{"content_width":"full","text":"<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring possession of my entire soul which I enjoy with my whole heart.<\/p>","width":{"unit":"px","size":"590","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_text_block"},{"id":"30fd09e","elType":"container","settings":{"content_width":"full","flex_direction":"row","margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80","flex_align_items":"center","flex_gap":{"column":"15","row":"20","isLinked":"","unit":"px","size":"15"}},"elements":[{"id":"156b90a","elType":"widget","settings":{"content_width":"full","text":"Shop now","color":"primary","scroll_y":"-80"},"elements":[],"widgetType":"wd_button"},{"id":"9619ca0","elType":"widget","settings":{"content_width":"full","text":"<p>Rated 4.9 \/ 5 based on 374 reviews<\/p>","text_color":"title","scroll_y":"-80","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_text_block"},{"id":"3c67c00","elType":"widget","settings":{"content_width":"full","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pottery-elementor\/wp-content\/uploads\/sites\/34\/2024\/07\/logo-white.svg","id":"349","size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"93","height":"23"},"scroll_y":"-80","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:6:{s:10:"hide_title";s:0:"";s:8:"wd_image";a:5:{s:3:"url";s:105:"http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-1.jpg";s:2:"id";i:378;s:4:"size";s:0:"";s:3:"alt";s:0:"";s:6:"source";s:7:"library";}s:11:"wd_bg_image";a:3:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:4:"size";s:0:"";}s:6:"margin";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:7:"padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:21:"background_background";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-hmp-slide-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pottery-elementor/woodmart_slide/pottery-slide-1/w-hmp-slide-1/</link>
+					<pubDate>Thu, 18 Jul 2024 08:18:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-1.jpg</guid>
+															<wp:post_id>378</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-18 08:18:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-18 08:18:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-18 08:18:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-18 08:18:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-hmp-slide-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>377</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pottery-elementor/wp-content/uploads/sites/34/2024/07/w-hmp-slide-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-hmp-slide-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

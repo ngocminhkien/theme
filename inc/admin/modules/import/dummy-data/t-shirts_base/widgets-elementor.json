@@ -1,0 +1,9 @@
+{
+    "sidebar-1": {
+        "widgets": {
+            "block-6": {
+                "content": "<!-- wp:group -->\n<div class=\"wp-block-group\"><!-- wp:search {\"label\":\"Search\",\"buttonText\":\"Search\"} \/--><\/div>\n<!-- \/wp:group -->"
+            }
+        }
+    }
+}

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>merchandise-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 08 Dec 2025 13:36:04 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[About us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/</link>
+					<pubDate>Fri, 12 Dec 2025 12:21:27 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/?page_id=31</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"fd0a44cb-622a-4556-ba4f-fb6a82408874","bgGradient":"linear-gradient(180deg,rgb(248,189,24) 0%,rgb(255,255,255) 58%,rgb(254,254,254) 76%)","bgColorVariable":"\u002d\u002dwd-primary-color","marginTop":"-40","marginBottom":"0","minHeight":"220","minHeightTablet":"120"} -->
+<div id="wd-fd0a44cb" class="wp-block-wd-section"></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"7f0748e6-a1aa-4402-b38a-bf767f781ddb","columnsGap":20,"marginTop":"-180","marginBottom":"120","marginTopTablet":"-100","marginBottomTablet":"70","marginBottomMobile":"50"} -->
+<div id="wd-7f0748e6" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"2581e6d1-fca4-49a0-a9b5-275edf3c9c37","adjacentCount":4,"justifyContent":"center","adjacentCountMobile":2,"colWidthMobile":50} -->
+<div id="wd-2581e6d1" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"bf3d7474-24ff-4f6f-940f-6b53b9fc683c","image":{"id":198,"url":"http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-1-opt.jpg","width":316,"height":316},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-1-opt.jpg","width":316,"height":316}} -->
+<div id="wd-bf3d7474" class="wp-block-wd-image wd-block-image"><img class="wp-image-198" src="http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-1-opt.jpg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"bde209e7-367c-4ee8-82a4-61e333aea9b8","adjacentCount":4,"adjacentCountMobile":2,"colWidthMobile":50} -->
+<div id="wd-bde209e7" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"33932e98-362a-4891-996d-dd5fa1ee4dc3","image":{"id":199,"url":"http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-2-opt.jpg","width":316,"height":380},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-2-opt.jpg","width":316,"height":380}} -->
+<div id="wd-33932e98" class="wp-block-wd-image wd-block-image"><img class="wp-image-199" src="http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-2-opt.jpg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c0be48ff-9470-40f5-95e8-95f233118e9f","adjacentCount":4,"justifyContent":"center","adjacentCountMobile":2,"colWidthMobile":50,"flexOrderMobile":"4"} -->
+<div id="wd-c0be48ff" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"45900e23-493b-4e44-966a-750954c02a5a","image":{"id":200,"url":"http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-3-opt.jpg","width":316,"height":284},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-3-opt.jpg","width":316,"height":284}} -->
+<div id="wd-45900e23" class="wp-block-wd-image wd-block-image"><img class="wp-image-200" src="http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-3-opt.jpg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"03cc1817-6e1f-4706-86f3-32a57c106587","adjacentCount":4,"justifyContent":"center","adjacentCountMobile":2,"colWidthMobile":50,"flexOrderMobile":"3"} -->
+<div id="wd-03cc1817" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"06623b74-1513-4a0d-95f3-78d7b00dca7d","image":{"id":201,"url":"http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-4-opt.jpg","width":316,"height":348},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-4-opt.jpg","width":316,"height":348}} -->
+<div id="wd-06623b74" class="wp-block-wd-image wd-block-image"><img class="wp-image-201" src="http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-4-opt.jpg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/title {"blockId":"edf56ef8-2265-4e51-97d6-b48b5d6fb7fe","content":"Born from a Passion for Gaming","tpFontSize":"32","tpLineHeight":"1.2","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} -->
+<h2 id="wd-edf56ef8" class="wp-block-wd-title title">Born from a Passion for Gaming</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"d03d3c89-2401-4ecb-948b-752bf61415df","columnsGap":20,"marginBottom":"120","marginBottomTablet":"70","marginBottomMobile":"50"} -->
+<div id="wd-d03d3c89" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"534516a1-d546-4f36-bf6f-10505d0b7e2d","adjacentCount":2,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-534516a1" class="wp-block-wd-column"><!-- wp:wd/paragraph {"blockId":"3bc0284c-c42b-4e01-8714-59a8bbaa9a97"} -->
+<p id="wd-3bc0284c" class="wp-block-wd-paragraph">At [Merchandise], we’re more than just a store—we’re gamers like you, driven by a shared passion for the world of video games. Our journey began with a simple yet powerful idea: to create a place where gamers can find high-quality, officially licensed merchandise that truly reflects their love for gaming. Whether you’re reliving the nostalgia of retro classics or immersing yourself in the worlds of the latest blockbusters, we believe that every fan deserves merch that feels authentic, unique, and meaningful.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"99339827-79e2-4840-bc37-9d0227f39a88","adjacentCount":2,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-99339827" class="wp-block-wd-column"><!-- wp:wd/paragraph {"blockId":"d68718e2-8a0e-4459-abb7-65587f8935c6"} -->
+<p id="wd-d68718e2" class="wp-block-wd-paragraph">We’re proud to be your go-to destination for gamer merch, and we’re excited to keep growing, innovating, and leveling up with you on this journey. Whether you’re here for a collectible that completes your setup or an apparel piece that speaks to your inner gamer, we’re here to make sure you find exactly what you’re looking for. Happy gaming!</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/carousel {"blockId":"090647c4-00ed-4ebb-b72c-bc66bca5e21a","currentSlide":3,"slidesPerView":"4","paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"marginBottom":"90","slidesPerViewTablet":"3","slidesPerViewMobile":"1","scrollbarTablet":true,"scrollbarMobile":true,"marginBottomTablet":"70","marginBottomMobile":"50"} -->
+<div id="wd-090647c4" class="wp-block-wd-carousel wd-carousel-container"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:4;--wd-col-md:3;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/carousel-item {"blockId":"c020cd16-7554-42e3-ac92-02e8079368da"} -->
+<div id="wd-c020cd16" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/infobox {"blockId":"23aea4a6-5ad5-459e-a22f-a0af3fa7cf7f","align":"center","bgColorCode":"#f5f5f5","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div id="wd-23aea4a6" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"9d7b892a-ee46-46ec-a007-2f3a98e273bd","image":{"id":203,"url":"http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-gamepad-opt.jpg","width":68,"height":68}} -->
+<div id="wd-9d7b892a" class="wp-block-wd-icon"><img class="wp-image-203" src="http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-gamepad-opt.jpg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"d4863966-fd3a-47c7-a2e9-22212262dc10","metadata":{"name":"Infobox content"}} -->
+<div id="wd-d4863966" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"b1e12cec-ccf5-4356-a23b-44184c91fecb","content":"Apparel \u0026amp; Accessories"} -->
+<h2 id="wd-b1e12cec" class="wp-block-wd-title title">Apparel &amp; Accessories</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e5334d67-992b-4002-a25e-3bd81623bd82","tpFontSize":"14"} -->
+<p id="wd-e5334d67" class="wp-block-wd-paragraph">Show off your favorite gaming franchises in style, both in and out of the game</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"2e710a3b-2da1-4be3-be81-e4310e566349"} -->
+<div id="wd-2e710a3b" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/infobox {"blockId":"537a081e-da3c-41d5-84dd-adcc673b88b4","align":"center","bgColorCode":"#f5f5f5","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div id="wd-537a081e" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"0da377f0-d919-4ebc-9ba3-7e0ccc885ca3","image":{"id":204,"url":"http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-puzzle-opt.jpg","width":68,"height":68}} -->
+<div id="wd-0da377f0" class="wp-block-wd-icon"><img class="wp-image-204" src="http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-puzzle-opt.jpg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"3edf8750-2d8c-4384-8e02-f56d0df87e2c","metadata":{"name":"Infobox content"}} -->
+<div id="wd-3edf8750" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"eb1803de-25a0-41cd-bb5f-4781c8942443","content":"Collectibles \u0026amp; Decor"} -->
+<h2 id="wd-eb1803de" class="wp-block-wd-title title">Collectibles &amp; Decor</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"cf910214-8aee-4c08-8a85-9aad5a40b89f","tpFontSize":"14"} -->
+<p id="wd-cf910214" class="wp-block-wd-paragraph">Bring your favorite game worlds to life with high-quality collectibles and home decor</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"bdd43ee0-7ef2-4c89-a2c4-fa90862816f0"} -->
+<div id="wd-bdd43ee0" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/infobox {"blockId":"39af9d48-eb88-42e5-bfcf-bbf73247b587","align":"center","bgColorCode":"#f5f5f5","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div id="wd-39af9d48" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"5c1d0fd4-90c7-47db-8a3b-42091b4064dd","image":{"id":205,"url":"http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-art-opt.jpg","width":68,"height":68}} -->
+<div id="wd-5c1d0fd4" class="wp-block-wd-icon"><img class="wp-image-205" src="http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-art-opt.jpg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"eb316032-45f3-403a-b46b-e26602ca683a","metadata":{"name":"Infobox content"}} -->
+<div id="wd-eb316032" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"034f199a-c38c-44d5-831d-dd9f93bb638c","content":"Posters \u0026amp; Art Prints"} -->
+<h2 id="wd-034f199a" class="wp-block-wd-title title">Posters &amp; Art Prints</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"bb7c8f76-5743-4ce6-b699-88f8ef24c6d7","tpFontSize":"14"} -->
+<p id="wd-bb7c8f76" class="wp-block-wd-paragraph">Decorate your walls with posters and art prints featuring iconic characters</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"913cee8e-b17d-4530-b6ce-e7f894e8cbb0"} -->
+<div id="wd-913cee8e" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/infobox {"blockId":"245259dd-fa4b-4b30-8d30-f36b95fa4c15","align":"center","bgColorCode":"#f5f5f5","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div id="wd-245259dd" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"afd3b010-f1ba-4ef2-9fef-59d8aa7e673a","image":{"id":206,"url":"http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-gift-opt.jpg","width":68,"height":68}} -->
+<div id="wd-afd3b010" class="wp-block-wd-icon"><img class="wp-image-206" src="http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-gift-opt.jpg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"5809a874-295e-4326-9771-8b355cd14b53","metadata":{"name":"Infobox content"}} -->
+<div id="wd-5809a874" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"53543541-8bf7-45f4-96a4-419442b49076","content":"Unique Gifts \u0026amp; Bundles"} -->
+<h2 id="wd-53543541" class="wp-block-wd-title title">Unique Gifts &amp; Bundles</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"4ed153df-8415-4185-89f5-4f6e0cacf918","tpFontSize":"14"} -->
+<p id="wd-4ed153df" class="wp-block-wd-paragraph">Find the perfect gift for gamers with our exclusive bundles and unique merch</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div><div class="wd-nav-scroll wd-hide-lg"></div></div>
+<!-- /wp:wd/carousel -->
+
+<!-- wp:wd/accordion {"blockId":"984402e3-7764-4a14-9ca1-0ae0063a5b17","allClosed":true,"openerIcon":"plus","openerSize":"18","titleTpFontSize":"20","titlesHoverColorCode":"#242424","titlesActiveColorCode":"#242424","titleTpFontSizeTablet":"18"} -->
+<div id="wd-984402e3" class="wp-block-wd-accordion wd-accordion wd-style-default wd-titles-start wd-opener-style-plus wd-opener-pos-end" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"5bb70873-e332-4901-bf6a-e967fb6091d1","paddingTop":"0","paddingRight":"20","paddingBottom":"0","paddingLeft":"20","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div id="wd-5bb70873" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>What types of products do you offer?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"a339f8d6-beeb-43a2-a66a-efa93cd7c095"} -->
+<p id="wd-a339f8d6" class="wp-block-wd-paragraph">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"cf961f5b-e3d7-4024-b229-62329f147fd5","paddingRight":"20","paddingLeft":"20","marginTop":"20","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div id="wd-cf961f5b" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do you sell officially licensed merchandise?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"61db26da-05f9-485f-b22c-6fc65e87746b"} -->
+<p id="wd-61db26da" class="wp-block-wd-paragraph">Check the email you received after placing your order. It should contain information about the status of your order and the expected delivery date.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"64820e43-849c-4657-bd4c-4d1fcc34b165","paddingRight":"20","paddingLeft":"20","marginTop":"20","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div id="wd-64820e43" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>How long does shipping take?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"b8c6d5ac-343c-4e3e-8222-d17f3e46a24d"} -->
+<p id="wd-b8c6d5ac" class="wp-block-wd-paragraph">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"a744194b-bfaf-45d5-b45c-193a80ec0971","paddingRight":"20","paddingLeft":"20","marginTop":"20","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div id="wd-a744194b" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>What is your return policy?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"06e7df84-6503-4325-a1e1-f21bfaaea76f"} -->
+<p id="wd-06e7df84" class="wp-block-wd-paragraph">If the contents of the parcel are suspicious to customs officers (for example, many identical goods), it may be further checked.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"88c1cfa7-9ae5-4960-b0c2-7eb5ddb2fc7a","paddingRight":"20","paddingLeft":"20","marginTop":"20","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div id="wd-88c1cfa7" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do you offer discounts or special deals?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"a99b7635-ce50-4907-a080-640d8ac6be73"} -->
+<p id="wd-a99b7635" class="wp-block-wd-paragraph">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion -->]]></content:encoded>
+															<wp:post_id>31</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 12:21:27]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 12:21:27]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 12:33:02]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 12:33:02]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[gms-img-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/gms-img-1-opt/</link>
+					<pubDate>Fri, 12 Dec 2025 13:05:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-1-opt.jpg</guid>
+															<wp:post_id>198</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 13:05:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 13:05:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-12 13:05:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-12 13:05:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[gms-img-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>31</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/gms-img-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[gms-img-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/gms-img-2-opt/</link>
+					<pubDate>Fri, 12 Dec 2025 13:05:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-2-opt.jpg</guid>
+															<wp:post_id>199</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 13:05:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 13:05:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-12 13:05:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-12 13:05:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[gms-img-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>31</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/gms-img-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[gms-img-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/gms-img-3-opt/</link>
+					<pubDate>Fri, 12 Dec 2025 13:05:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-3-opt.jpg</guid>
+															<wp:post_id>200</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 13:05:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 13:05:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-12 13:05:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-12 13:05:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[gms-img-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>31</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/gms-img-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[gms-img-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/gms-img-4-opt/</link>
+					<pubDate>Fri, 12 Dec 2025 13:05:31 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-4-opt.jpg</guid>
+															<wp:post_id>201</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 13:05:31]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 13:05:31]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-12 13:05:31]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-12 13:05:31]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[gms-img-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>31</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-img-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/gms-img-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[gms-inbx-gamepad-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/gms-inbx-gamepad-opt/</link>
+					<pubDate>Fri, 12 Dec 2025 13:05:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-gamepad-opt.jpg</guid>
+															<wp:post_id>203</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 13:05:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 13:05:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-12 13:05:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-12 13:05:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[gms-inbx-gamepad-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>31</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-gamepad-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/gms-inbx-gamepad-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[gms-inbx-puzzle-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/gms-inbx-puzzle-opt/</link>
+					<pubDate>Fri, 12 Dec 2025 13:05:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-puzzle-opt.jpg</guid>
+															<wp:post_id>204</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 13:05:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 13:05:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-12 13:05:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-12 13:05:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[gms-inbx-puzzle-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>31</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-puzzle-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/gms-inbx-puzzle-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[gms-inbx-art-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/gms-inbx-art-opt/</link>
+					<pubDate>Fri, 12 Dec 2025 13:05:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-art-opt.jpg</guid>
+															<wp:post_id>205</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 13:05:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 13:05:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-12 13:05:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-12 13:05:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[gms-inbx-art-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>31</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-art-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/gms-inbx-art-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[gms-inbx-gift-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/about-us/gms-inbx-gift-opt/</link>
+					<pubDate>Fri, 12 Dec 2025 13:06:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-gift-opt.jpg</guid>
+															<wp:post_id>206</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-12 13:06:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-12 13:06:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-12 13:06:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-12 13:06:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[gms-inbx-gift-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>31</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/merchandise-gutenberg/wp-content/uploads/sites/63/2025/12/gms-inbx-gift-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/gms-inbx-gift-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

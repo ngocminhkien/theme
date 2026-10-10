@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Books 2 Elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/books-2-elementor</link>
+	<description></description>
+	<pubDate>Thu, 02 Jul 2026 06:31:45 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/books-2-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[bk2-blog-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bk2-blog-1/</link>
+					<pubDate>Tue, 07 Jul 2026 06:43:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-1.jpg</guid>
+															<wp:post_id>128</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 06:43:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 06:43:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 06:43:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 06:43:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-blog-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-blog-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-blog-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bk2-blog-2/</link>
+					<pubDate>Tue, 07 Jul 2026 06:43:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-2.jpg</guid>
+															<wp:post_id>129</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 06:43:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 06:43:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 06:43:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 06:43:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-blog-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-blog-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-blog-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bk2-blog-3/</link>
+					<pubDate>Tue, 07 Jul 2026 06:43:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-3.jpg</guid>
+															<wp:post_id>130</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 06:43:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 06:43:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 06:43:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 06:43:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-blog-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-blog-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-blog-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bk2-blog-4/</link>
+					<pubDate>Tue, 07 Jul 2026 06:43:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-4.jpg</guid>
+															<wp:post_id>131</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 06:43:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 06:43:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 06:43:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 06:43:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-blog-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-blog-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-blog-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bk2-blog-5/</link>
+					<pubDate>Tue, 07 Jul 2026 06:43:30 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-5.jpg</guid>
+															<wp:post_id>132</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 06:43:30]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 06:43:30]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 06:43:30]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 06:43:30]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-blog-5]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-5.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-blog-5.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-blog-1-gallery-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/2026/07/02/the-ultimate-guide-to-curating-your-home-library/bk2-blog-1-gallery-3/</link>
+					<pubDate>Tue, 07 Jul 2026 07:10:38 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-1-gallery-3.jpg</guid>
+															<wp:post_id>152</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 07:10:38]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 07:10:38]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 07:10:38]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 07:10:38]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-blog-1-gallery-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>40</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-1-gallery-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-blog-1-gallery-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-blog-1-gallery-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/2026/07/02/the-ultimate-guide-to-curating-your-home-library/bk2-blog-1-gallery-4/</link>
+					<pubDate>Tue, 07 Jul 2026 07:10:38 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-1-gallery-4.jpg</guid>
+															<wp:post_id>153</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 07:10:38]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 07:10:38]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 07:10:38]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 07:10:38]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-blog-1-gallery-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>40</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-blog-1-gallery-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-blog-1-gallery-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-about-us-img-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bk2-about-us-img-1/</link>
+					<pubDate>Tue, 07 Jul 2026 12:58:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-about-us-img-1.jpg</guid>
+															<wp:post_id>423</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 12:58:14]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 12:58:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 12:58:14]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 12:58:14]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-about-us-img-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-about-us-img-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-about-us-img-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-about-us-img-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bk2-about-us-img-2/</link>
+					<pubDate>Tue, 07 Jul 2026 12:58:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-about-us-img-2.jpg</guid>
+															<wp:post_id>424</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 12:58:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 12:58:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 12:58:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 12:58:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-about-us-img-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-about-us-img-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-about-us-img-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-bookstore-location-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bookstore-location/bk2-bookstore-location-1/</link>
+					<pubDate>Tue, 07 Jul 2026 13:58:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-bookstore-location-1.jpg</guid>
+															<wp:post_id>511</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 13:58:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 13:58:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 13:58:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 13:58:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-bookstore-location-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>17</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-bookstore-location-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-bookstore-location-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-bookstore-location-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bookstore-location/bk2-bookstore-location-2/</link>
+					<pubDate>Tue, 07 Jul 2026 13:58:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-bookstore-location-2.jpg</guid>
+															<wp:post_id>512</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-07 13:58:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-07 13:58:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-07 13:58:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-07 13:58:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-bookstore-location-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>17</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/07/bk2-bookstore-location-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-bookstore-location-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-banner-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-elementor/bk2-banner-1-3/</link>
+					<pubDate>Wed, 02 Sep 2026 14:18:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/09/bk2-banner-1.jpg</guid>
+															<wp:post_id>1824</wp:post_id>
+					<wp:post_date><![CDATA[2026-09-02 14:18:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-09-02 14:18:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-02 14:18:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-02 14:18:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-banner-1-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-elementor/wp-content/uploads/sites/87/2026/09/bk2-banner-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/09/bk2-banner-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

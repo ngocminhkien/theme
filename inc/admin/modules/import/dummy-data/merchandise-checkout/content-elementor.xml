@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>merchandise-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/merchandise-elementor</link>
+	<description></description>
+	<pubDate>Mon, 08 Dec 2025 13:36:26 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/merchandise-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Checkout top content - Merchandise]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-elementor/woodmart_layout/checkout-top-content-merchandise/</link>
+					<pubDate>Wed, 10 Dec 2025 12:47:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/merchandise-elementor/?post_type=woodmart_layout&#038;p=1643</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-el-page-title-builder-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/el-page-title-builder.min.css?ver=8.3.4" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-page-title-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/page-title.min.css?ver=8.3.4" type="text/css" media="all" /> 							
+																<link rel="stylesheet" id="wd-woo-mod-checkout-steps-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/woo-mod-checkout-steps.min.css?ver=8.3.4" type="text/css" media="all" /> 						<ul>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/cart/">
+						Shopping cart
+					</a>
+				</li>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/checkout/">
+						Checkout
+					</a>
+				</li>
+				<li>
+					Order complete
+				</li>
+			</ul>
+		Have a coupon? <a href="#" role="button" aria-label="Enter your coupon code" aria-controls="woocommerce-checkout-form-coupon" aria-expanded="false">Click here to enter your code</a>	
+<form method="post" style="display:none" id="woocommerce-checkout-form-coupon">
+	<p>
+		<label for="coupon_code">Coupon:</label>
+		<input type="text" name="coupon_code" placeholder="Coupon code" id="coupon_code" value="" />
+	</p>
+	<p>
+		<button type="submit" name="apply_coupon" value="Apply coupon">Apply coupon</button>
+	</p>
+</form>]]></content:encoded>
+															<wp:post_id>1643</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-10 12:47:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-10 12:47:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-10 12:58:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-10 12:58:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-top-content-merchandise]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_content]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:16:"checkout_content";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"4effd7bd","elType":"container","settings":{"flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"wd_section_stretch":"stretch-content","margin":{"unit":"px","top":"-40","right":"0","bottom":"30","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"728fb0ce","elType":"widget","settings":{"full_width":"yes","scroll_y":"-80"},"elements":[],"widgetType":"wd_page_title"}],"isInner":false},{"id":"29874566","elType":"container","settings":{"flex_gap":{"size":"30","column":"30","row":"30","unit":"px","isLinked":"1"},"margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"61fff559","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"51015112","elType":"widget","settings":{"hook":"woocommerce_before_checkout_form","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"10a16349","elType":"widget","settings":{"scroll_y":"-80","form_bg_color":"#F5F5F5","form_border_border":"none"},"elements":[],"widgetType":"wd_checkout_login_form"},{"id":"4cd3dfe6","elType":"widget","settings":{"scroll_y":"-80","form_bg_color":"#F5F5F5","form_border_border":"none"},"elements":[],"widgetType":"wd_checkout_coupon_form"},{"id":"79d7613a","elType":"widget","settings":{"hook":"woocommerce_checkout_before_customer_details","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.3]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Checkout form - Merchandise]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-elementor/woodmart_layout/checkout-form-merchandise/</link>
+					<pubDate>Wed, 10 Dec 2025 12:48:28 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/merchandise-elementor/?post_type=woodmart_layout&#038;p=1647</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.3.4" type="text/css" media="all" /> 					
+				<h4>Billing Details</h4> 
+		<h3>Billing details</h3>
+		<p id="billing_first_name_field" data-priority="10"><label for="billing_first_name">First name&nbsp;*</label><input type="text" name="billing_first_name" id="billing_first_name" placeholder=""  value="sds" aria-required="true" autocomplete="given-name" /></p><p id="billing_last_name_field" data-priority="20"><label for="billing_last_name">Last name&nbsp;*</label><input type="text" name="billing_last_name" id="billing_last_name" placeholder=""  value="scssc" aria-required="true" autocomplete="family-name" /></p><p id="billing_company_field" data-priority="30"><label for="billing_company">Company name&nbsp;(optional)</label><input type="text" name="billing_company" id="billing_company" placeholder=""  value="" autocomplete="organization" /></p><p id="billing_country_field" data-priority="40"><label for="billing_country">Country / Region&nbsp;*</label><select name="billing_country" id="billing_country" aria-required="true" autocomplete="country" data-placeholder="Select a country / region&hellip;" data-label="Country / Region"><option value="">Select a country / region&hellip;</option><option value="AF" >Afghanistan</option><option value="AX" >Åland Islands</option><option value="AL" >Albania</option><option value="DZ" >Algeria</option><option value="AS" >American Samoa</option><option value="AD" >Andorra</option><option value="AO" >Angola</option><option value="AI" >Anguilla</option><option value="AQ" >Antarctica</option><option value="AG" >Antigua and Barbuda</option><option value="AR" >Argentina</option><option value="AM" >Armenia</option><option value="AW" >Aruba</option><option value="AU" >Australia</option><option value="AT" >Austria</option><option value="AZ" >Azerbaijan</option><option value="BS" >Bahamas</option><option value="BH" >Bahrain</option><option value="BD" >Bangladesh</option><option value="BB" >Barbados</option><option value="BY" >Belarus</option><option value="PW" >Belau</option><option value="BE" >Belgium</option><option value="BZ" >Belize</option><option value="BJ" >Benin</option><option value="BM" >Bermuda</option><option value="BT" >Bhutan</option><option value="BO" >Bolivia</option><option value="BQ" >Bonaire, Saint Eustatius and Saba</option><option value="BA" >Bosnia and Herzegovina</option><option value="BW" >Botswana</option><option value="BV" >Bouvet Island</option><option value="BR" >Brazil</option><option value="IO" >British Indian Ocean Territory</option><option value="BN" >Brunei</option><option value="BG" >Bulgaria</option><option value="BF" >Burkina Faso</option><option value="BI" >Burundi</option><option value="KH" >Cambodia</option><option value="CM" >Cameroon</option><option value="CA" >Canada</option><option value="CV" >Cape Verde</option><option value="KY" >Cayman Islands</option><option value="CF" >Central African Republic</option><option value="TD" >Chad</option><option value="CL" >Chile</option><option value="CN" >China</option><option value="CX" >Christmas Island</option><option value="CC" >Cocos (Keeling) Islands</option><option value="CO" >Colombia</option><option value="KM" >Comoros</option><option value="CG" >Congo (Brazzaville)</option><option value="CD" >Congo (Kinshasa)</option><option value="CK" >Cook Islands</option><option value="CR" >Costa Rica</option><option value="HR" >Croatia</option><option value="CU" >Cuba</option><option value="CW" >Cura&ccedil;ao</option><option value="CY" >Cyprus</option><option value="CZ" >Czech Republic</option><option value="DK" >Denmark</option><option value="DJ" >Djibouti</option><option value="DM" >Dominica</option><option value="DO" >Dominican Republic</option><option value="EC" >Ecuador</option><option value="EG" >Egypt</option><option value="SV" >El Salvador</option><option value="GQ" >Equatorial Guinea</option><option value="ER" >Eritrea</option><option value="EE" >Estonia</option><option value="SZ" >Eswatini</option><option value="ET" >Ethiopia</option><option value="FK" >Falkland Islands</option><option value="FO" >Faroe Islands</option><option value="FJ" >Fiji</option><option value="FI" >Finland</option><option value="FR" >France</option><option value="GF" >French Guiana</option><option value="PF" >French Polynesia</option><option value="TF" >French Southern Territories</option><option value="GA" >Gabon</option><option value="GM" >Gambia</option><option value="GE" >Georgia</option><option value="DE" >Germany</option><option value="GH" >Ghana</option><option value="GI" >Gibraltar</option><option value="GR" >Greece</option><option value="GL" >Greenland</option><option value="GD" >Grenada</option><option value="GP" >Guadeloupe</option><option value="GU" >Guam</option><option value="GT" >Guatemala</option><option value="GG" >Guernsey</option><option value="GN" >Guinea</option><option value="GW" >Guinea-Bissau</option><option value="GY" >Guyana</option><option value="HT" >Haiti</option><option value="HM" >Heard Island and McDonald Islands</option><option value="HN" >Honduras</option><option value="HK" >Hong Kong</option><option value="HU" >Hungary</option><option value="IS" >Iceland</option><option value="IN" >India</option><option value="ID" >Indonesia</option><option value="IR" >Iran</option><option value="IQ" >Iraq</option><option value="IE" >Ireland</option><option value="IM" >Isle of Man</option><option value="IL" >Israel</option><option value="IT" >Italy</option><option value="CI" >Ivory Coast</option><option value="JM" >Jamaica</option><option value="JP" >Japan</option><option value="JE" >Jersey</option><option value="JO" >Jordan</option><option value="KZ" >Kazakhstan</option><option value="KE" >Kenya</option><option value="KI" >Kiribati</option><option value="XK" >Kosovo</option><option value="KW" >Kuwait</option><option value="KG" >Kyrgyzstan</option><option value="LA" >Laos</option><option value="LV" >Latvia</option><option value="LB" >Lebanon</option><option value="LS" >Lesotho</option><option value="LR" >Liberia</option><option value="LY" >Libya</option><option value="LI" >Liechtenstein</option><option value="LT" >Lithuania</option><option value="LU" >Luxembourg</option><option value="MO" >Macao</option><option value="MG" >Madagascar</option><option value="MW" >Malawi</option><option value="MY" >Malaysia</option><option value="MV" >Maldives</option><option value="ML" >Mali</option><option value="MT" >Malta</option><option value="MH" >Marshall Islands</option><option value="MQ" >Martinique</option><option value="MR" >Mauritania</option><option value="MU" >Mauritius</option><option value="YT" >Mayotte</option><option value="MX" >Mexico</option><option value="FM" >Micronesia</option><option value="MD" >Moldova</option><option value="MC" >Monaco</option><option value="MN" >Mongolia</option><option value="ME" >Montenegro</option><option value="MS" >Montserrat</option><option value="MA" >Morocco</option><option value="MZ" >Mozambique</option><option value="MM" >Myanmar</option><option value="NA" >Namibia</option><option value="NR" >Nauru</option><option value="NP" >Nepal</option><option value="NL" >Netherlands</option><option value="NC" >New Caledonia</option><option value="NZ" >New Zealand</option><option value="NI" >Nicaragua</option><option value="NE" >Niger</option><option value="NG" >Nigeria</option><option value="NU" >Niue</option><option value="NF" >Norfolk Island</option><option value="KP" >North Korea</option><option value="MK" >North Macedonia</option><option value="MP" >Northern Mariana Islands</option><option value="NO" >Norway</option><option value="OM" >Oman</option><option value="PK" >Pakistan</option><option value="PS" >Palestinian Territory</option><option value="PA" >Panama</option><option value="PG" >Papua New Guinea</option><option value="PY" >Paraguay</option><option value="PE" >Peru</option><option value="PH" >Philippines</option><option value="PN" >Pitcairn</option><option value="PL" >Poland</option><option value="PT" >Portugal</option><option value="PR" >Puerto Rico</option><option value="QA" >Qatar</option><option value="RE" >Reunion</option><option value="RO" >Romania</option><option value="RU" >Russia</option><option value="RW" >Rwanda</option><option value="ST" >S&atilde;o Tom&eacute; and Pr&iacute;ncipe</option><option value="BL" >Saint Barth&eacute;lemy</option><option value="SH" >Saint Helena</option><option value="KN" >Saint Kitts and Nevis</option><option value="LC" >Saint Lucia</option><option value="SX" >Saint Martin (Dutch part)</option><option value="MF" >Saint Martin (French part)</option><option value="PM" >Saint Pierre and Miquelon</option><option value="VC" >Saint Vincent and the Grenadines</option><option value="WS" >Samoa</option><option value="SM" >San Marino</option><option value="SA" >Saudi Arabia</option><option value="SN" >Senegal</option><option value="RS" >Serbia</option><option value="SC" >Seychelles</option><option value="SL" >Sierra Leone</option><option value="SG" >Singapore</option><option value="SK" >Slovakia</option><option value="SI" >Slovenia</option><option value="SB" >Solomon Islands</option><option value="SO" >Somalia</option><option value="ZA" >South Africa</option><option value="GS" >South Georgia/Sandwich Islands</option><option value="KR" >South Korea</option><option value="SS" >South Sudan</option><option value="ES" >Spain</option><option value="LK" >Sri Lanka</option><option value="SD" >Sudan</option><option value="SR" >Suriname</option><option value="SJ" >Svalbard and Jan Mayen</option><option value="SE" >Sweden</option><option value="CH" >Switzerland</option><option value="SY" >Syria</option><option value="TW" >Taiwan</option><option value="TJ" >Tajikistan</option><option value="TZ" >Tanzania</option><option value="TH" >Thailand</option><option value="TL" >Timor-Leste</option><option value="TG" >Togo</option><option value="TK" >Tokelau</option><option value="TO" >Tonga</option><option value="TT" >Trinidad and Tobago</option><option value="TN" >Tunisia</option><option value="TR" >Türkiye</option><option value="TM" >Turkmenistan</option><option value="TC" >Turks and Caicos Islands</option><option value="TV" >Tuvalu</option><option value="UG" >Uganda</option><option value="UA" >Ukraine</option><option value="AE" >United Arab Emirates</option><option value="GB" >United Kingdom (UK)</option><option value="US"  selected='selected'>United States (US)</option><option value="UM" >United States (US) Minor Outlying Islands</option><option value="UY" >Uruguay</option><option value="UZ" >Uzbekistan</option><option value="VU" >Vanuatu</option><option value="VA" >Vatican</option><option value="VE" >Venezuela</option><option value="VN" >Vietnam</option><option value="VG" >Virgin Islands (British)</option><option value="VI" >Virgin Islands (US)</option><option value="WF" >Wallis and Futuna</option><option value="EH" >Western Sahara</option><option value="YE" >Yemen</option><option value="ZM" >Zambia</option><option value="ZW" >Zimbabwe</option></select><noscript><button type="submit" name="woocommerce_checkout_update_totals" value="Update country / region">Update country / region</button></noscript></p><p id="billing_address_1_field" data-priority="50"><label for="billing_address_1">Street address&nbsp;*</label><input type="text" name="billing_address_1" id="billing_address_1" placeholder="House number and street name"  value="" aria-required="true" autocomplete="address-line1" /></p><p id="billing_address_2_field" data-priority="60"><label for="billing_address_2">Apartment, suite, unit, etc.&nbsp;(optional)</label><input type="text" name="billing_address_2" id="billing_address_2" placeholder="Apartment, suite, unit, etc. (optional)"  value="" autocomplete="address-line2" /></p><p id="billing_city_field" data-priority="70"><label for="billing_city">Town / City&nbsp;*</label><input type="text" name="billing_city" id="billing_city" placeholder=""  value="" aria-required="true" autocomplete="address-level2" /></p><p id="billing_state_field" data-priority="80"><label for="billing_state">State&nbsp;*</label><select name="billing_state" id="billing_state" aria-required="true" autocomplete="address-level1" data-placeholder="Select an option&hellip;"  data-input-classes="" data-label="State">
+						<option value="">Select an option&hellip;</option><option value="AL" >Alabama</option><option value="AK" >Alaska</option><option value="AZ" >Arizona</option><option value="AR" >Arkansas</option><option value="CA"  selected='selected'>California</option><option value="CO" >Colorado</option><option value="CT" >Connecticut</option><option value="DE" >Delaware</option><option value="DC" >District of Columbia</option><option value="FL" >Florida</option><option value="GA" >Georgia</option><option value="HI" >Hawaii</option><option value="ID" >Idaho</option><option value="IL" >Illinois</option><option value="IN" >Indiana</option><option value="IA" >Iowa</option><option value="KS" >Kansas</option><option value="KY" >Kentucky</option><option value="LA" >Louisiana</option><option value="ME" >Maine</option><option value="MD" >Maryland</option><option value="MA" >Massachusetts</option><option value="MI" >Michigan</option><option value="MN" >Minnesota</option><option value="MS" >Mississippi</option><option value="MO" >Missouri</option><option value="MT" >Montana</option><option value="NE" >Nebraska</option><option value="NV" >Nevada</option><option value="NH" >New Hampshire</option><option value="NJ" >New Jersey</option><option value="NM" >New Mexico</option><option value="NY" >New York</option><option value="NC" >North Carolina</option><option value="ND" >North Dakota</option><option value="OH" >Ohio</option><option value="OK" >Oklahoma</option><option value="OR" >Oregon</option><option value="PA" >Pennsylvania</option><option value="RI" >Rhode Island</option><option value="SC" >South Carolina</option><option value="SD" >South Dakota</option><option value="TN" >Tennessee</option><option value="TX" >Texas</option><option value="UT" >Utah</option><option value="VT" >Vermont</option><option value="VA" >Virginia</option><option value="WA" >Washington</option><option value="WV" >West Virginia</option><option value="WI" >Wisconsin</option><option value="WY" >Wyoming</option><option value="AA" >Armed Forces (AA)</option><option value="AE" >Armed Forces (AE)</option><option value="AP" >Armed Forces (AP)</option></select></p><p id="billing_postcode_field" data-priority="90"><label for="billing_postcode">ZIP Code&nbsp;*</label><input type="text" name="billing_postcode" id="billing_postcode" placeholder=""  value="" aria-required="true" autocomplete="postal-code" /></p><p id="billing_phone_field" data-priority="100"><label for="billing_phone">Phone&nbsp;*</label><input type="tel" name="billing_phone" id="billing_phone" placeholder=""  value="" aria-required="true" autocomplete="tel" /></p><p id="billing_email_field" data-priority="110"><label for="billing_email">Email address&nbsp;*</label><input type="email" name="billing_email" id="billing_email" placeholder=""  value="zak@asda.as" aria-required="true" autocomplete="email" /></p>	
+	<wc-order-attribution-inputs></wc-order-attribution-inputs>
+			<h3>Additional information</h3>
+							<p id="order_comments_field" data-priority=""><label for="order_comments">Order notes&nbsp;(optional)</label><textarea name="order_comments" id="order_comments" placeholder="Notes about your order, e.g. special notes for delivery."  rows="2" cols="5"></textarea></p>					
+				<h4>Payment Information</h4> 
+			<ul>
+			<li>
+		Sorry, it seems that there are no available payment methods. Please contact us if you require assistance or wish to make alternate arrangements.	
+</li>		</ul>
+		<noscript>
+			Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so.			<br/><button type="submit" name="woocommerce_checkout_update_totals" value="Update totals">Update totals</button>
+		</noscript>
+		<button type="submit" name="woocommerce_checkout_place_order" id="place_order" value="Place order" data-value="Place order">Place order</button>
+		<input type="hidden" id="woocommerce-process-checkout-nonce" name="woocommerce-process-checkout-nonce" value="60ee44f834" /><input type="hidden" name="_wp_http_referer" value="/woodmart2/merchandise-elementor/wp-admin/admin-ajax.php" />	
+				<h4>Your Order</h4> 
+					<table>
+	<thead>
+		<tr>
+			<th>Product</th>
+			<th>Subtotal</th>
+		</tr>
+	</thead>
+	<tbody>
+						<tr>
+					<td>
+						Lord of The Rings Stickers&nbsp;						 <strong>&times;&nbsp;1</strong>											</td>
+					<td>
+						<bdi>&#36;715.00</bdi>					</td>
+				</tr>
+								<tr>
+					<td>
+						The Mandalorian Spectrum - S&nbsp;						 <strong>&times;&nbsp;1</strong>											</td>
+					<td>
+						<bdi>&#36;25.00</bdi>					</td>
+				</tr>
+					</tbody>
+	<tfoot>
+		<tr>
+			<th>Subtotal</th>
+			<td><bdi>&#36;740.00</bdi></td>
+		</tr>
+		<tr>
+			<th>Total</th>
+			<td><strong><bdi>&#36;740.00</bdi></strong> </td>
+		</tr>
+	</tfoot>
+</table>
+<wc-order-attribution-inputs></wc-order-attribution-inputs>]]></content:encoded>
+															<wp:post_id>1647</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-10 12:48:28]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-10 12:48:28]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-10 13:09:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-10 13:09:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-form-merchandise]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_form]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:13:"checkout_form";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"3ec9cdab","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"flex_gap":{"size":"30","column":"30","row":"30","unit":"px","isLinked":"1"},"structure":"20","reverse_order_mobile":"reverse-mobile","flex_direction":"row","flex_direction_mobile":"column-reverse","scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"49466e29","elType":"container","settings":{"_column_size":"50","width":{"size":65,"unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"50","unit":"%"},"content_width":"full","flex_gap":{"column":"","row":"","isLinked":"1","unit":"px","size":null},"container_sticky_offset":"50"},"elements":[{"id":"8b63b17","elType":"widget","settings":{"subtitle":"","title":"Billing Details","after_title":"","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":32,"sizes":[]},"scroll_y":"-80","align":"left","title_typography_font_weight":"600","title_typography_font_size_tablet":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]}},"elements":[],"widgetType":"wd_title"},{"id":"6d69b357","elType":"widget","settings":{"scroll_y":"-80","title":"","_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""}},"elements":[],"widgetType":"wd_checkout_billing_details_form"},{"id":"5a99294","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_after_customer_details","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"19c765f2","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_billing","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"76187ad0","elType":"widget","settings":{"content_width":"full","title":"","scroll_y":"-80"},"elements":[],"widgetType":"wd_checkout_shipping_details_from"},{"id":"31d95134","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_shipping","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"43d3d4d","elType":"widget","settings":{"subtitle":"","title":"Payment Information","after_title":"","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":32,"sizes":[]},"scroll_y":"-80","align":"left","title_typography_font_weight":"600","_margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"title_typography_font_size_tablet":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]}},"elements":[],"widgetType":"wd_title"},{"id":"30c88ba6","elType":"widget","settings":{"scroll_y":"-80","button_alignment":"full-width","payment_description_padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":"1"},"payment_description_background-color":"#F5F5F5","terms_conditions_padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":"1"},"terms_conditions_background_color":"#F5F5F5","content_width":"full"},"elements":[],"widgetType":"wd_checkout_payment_methods"},{"id":"5a1435b7","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_after_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"309b4565","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_checkout_form","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"},{"id":"670073bc","elType":"container","settings":{"_column_size":"50","width":{"size":35,"unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"50","unit":"%"},"background_background":"classic","content_width":"full","flex_direction":"column","flex_gap":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"},"container_sticky_offset":"50"},"elements":[{"id":"10e9eef3","elType":"container","settings":{"background_background":"classic","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":"1"},"border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":"1"},"flex_direction":"column","flex_gap":{"size":null,"column":"","row":"","unit":"px","isLinked":true},"content_width":"full","scroll_y":"-80","container_sticky_offset":"50","background_color":"#F5F5F5","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"container_sticky":"yes"},"elements":[{"id":"7385a086","elType":"widget","settings":{"subtitle":"","title":"Your Order","after_title":"","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":32,"sizes":[]},"scroll_y":"-80","align":"left","title_typography_font_weight":"600","title_typography_font_size_tablet":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]}},"elements":[],"widgetType":"wd_title"},{"id":"6a74d17e","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_before_order_review_heading","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"2c054951","elType":"widget","settings":{"scroll_y":"-80","_background_background":"classic"},"elements":[],"widgetType":"wd_checkout_order_review"},{"id":"59622e4a","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_before_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"5ec7532b","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"5aac9eba","elType":"widget","settings":{"scroll_y":"-80","style":"default ","_padding":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":""}},"elements":[],"widgetType":"wd_single_product_shipping_progress_bar"}],"isInner":"1"}],"isInner":"1"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.3]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

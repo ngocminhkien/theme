@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>keyboards-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor</link>
+	<description></description>
+	<pubDate>Fri, 10 Apr 2026 13:16:52 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/keyboards-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>27</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[single-product-navigation]]></wp:term_slug><wp:term_name><![CDATA[Single product navigation]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[Overview]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/2026/04/15/overview/</link>
+					<pubDate>Fri, 10 Apr 2026 13:41:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-elementor/?p=40</guid>
+															<wp:post_id>40</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-15 12:35:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-10 13:41:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-15 12:35:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-15 12:35:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[overview]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="single-product-navigation"><![CDATA[Single product navigation]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[40]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#Overview]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026-04-10]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Specs]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/2026/04/15/specs/</link>
+					<pubDate>Fri, 10 Apr 2026 13:41:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-elementor/?p=41</guid>
+															<wp:post_id>41</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-15 12:35:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-10 13:41:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-15 12:35:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-15 12:35:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[specs]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="single-product-navigation"><![CDATA[Single product navigation]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[41]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#Specs]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026-04-10]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Reviews]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/2026/04/15/reviews/</link>
+					<pubDate>Fri, 10 Apr 2026 13:41:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-elementor/?p=42</guid>
+															<wp:post_id>42</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-15 12:35:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-10 13:41:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-15 12:35:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-15 12:35:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[reviews]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="single-product-navigation"><![CDATA[Single product navigation]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[42]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#Reviews]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026-04-10]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Single product - Keyboards]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/woodmart_layout/single-product-keyboards/</link>
+					<pubDate>Wed, 15 Apr 2026 11:02:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-elementor/?post_type=woodmart_layout&#038;p=638</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-mod-breadcrumbs-no-wrap-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/mod-breadcrumbs-no-wrap.css?ver=8.5.0" type="text/css" media="all" /> 			<nav aria-label="Breadcrumb">				
+					Home				
+			</nav>				
+								<link rel="stylesheet" id="wd-woo-single-prod-el-navigation-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-navigation.css?ver=8.5.0" type="text/css" media="all" /> 			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/glorious-coiled-keyboard-cable/" aria-label="Previous product"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/glorious-coiled-keyboard-cable/">
+					<img width="150" height="150" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/glorious-coiled-keyboard-cable-150x150.jpeg" alt="Glorious Coiled Keyboard Cable" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/glorious-coiled-keyboard-cable-150x150.jpeg 150w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/glorious-coiled-keyboard-cable-300x300.jpeg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" />				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/glorious-coiled-keyboard-cable/">
+						Glorious Coiled Keyboard Cable					</a>
+						<bdi>&#36;65.00</bdi>					
+	<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/shop/">
+			Back to products		
+	</a>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/wuque-studio-keyno-y8/" aria-label="Next product"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/wuque-studio-keyno-y8/">
+					<img width="150" height="150" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-studio-keyno-y8-150x150.jpeg" alt="Wuque Studio Keyno Y8" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-studio-keyno-y8-150x150.jpeg 150w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-studio-keyno-y8-300x300.jpeg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" />				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/wuque-studio-keyno-y8/">
+						Wuque Studio Keyno Y8					</a>
+						<bdi>&#36;210.00</bdi>					
+								<link rel="stylesheet" id="wd-woo-single-prod-el-gallery-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-gallery.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-single-prod-el-gallery-opt-thumb-grid-lg-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-gallery-opt-thumb-grid.css?ver=8.5.0" type="text/css" media="(min-width: 1025px)" /> 						<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/lib-swiper.css?ver=8.5.0" type="text/css" media="all" /> 			
+		<figure style="--wd-col-lg:2;--wd-col-md:1;--wd-col-sm:1;">
+				<figure data-thumb="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura-150x171.jpeg" data-thumb-alt="Osume sakura - Image 1"><a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura.jpeg"><img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura-600x686.jpeg" alt="Osume sakura - Image 1" title="osume-sakura.jpeg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura.jpeg" data-large_image="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura.jpeg" data-large_image_width="700" data-large_image_height="800" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura-150x171.jpeg 150w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-sakura.jpeg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0-150x171.jpeg" data-thumb-alt="Osume sakura - Image 2">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0.jpeg">
+					<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0-600x686.jpeg" alt="Osume sakura - Image 2" title="krytox-gpl-205g0.jpeg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0.jpeg" data-large_image="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0.jpeg" data-large_image_width="700" data-large_image_height="800" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0-150x171.jpeg 150w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/krytox-gpl-205g0.jpeg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" />				</a>
+			</figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable-150x171.jpeg" data-thumb-alt="Osume sakura - Image 3">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable.jpeg">
+					<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable-600x686.jpeg" alt="Osume sakura - Image 3" title="osume-dalgona-cable.jpeg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable.jpeg" data-large_image="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable.jpeg" data-large_image_width="700" data-large_image_height="800" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable-150x171.jpeg 150w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable.jpeg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" />				</a>
+			</figure>
+		</figure>
+						<link rel="stylesheet" id="wd-swiper-arrows-critical-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-arrows-critical.css?ver=8.5.0" type="text/css" media="all" /> 					
+			Brand: <a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/brand/osume/" rel="tag">Osume</a>	
+<h1>
+	Osume sakura
+	</h1>
+								<link rel="stylesheet" id="wd-list-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-list.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-el-list-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-list-wpb-elem.css?ver=8.5.0" type="text/css" media="all" /> 					<ul>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-check-filled.svg" title="kac-porudct-check-filled" loading="lazy" width="16" height="16">					
+													67% layout, fully aluminum gasket-mounted case											
+				</li>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-check-filled.svg" title="kac-porudct-check-filled" loading="lazy" width="16" height="16">					
+													Hot-swappable connectors and stabilizers included											
+				</li>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-check-filled.svg" title="kac-porudct-check-filled" loading="lazy" width="16" height="16">					
+													Proprietary materials produce a deep sound											
+				</li>
+					</ul>
+					<p><bdi>&#36;25.00</bdi></p>
+	<form action="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/osume-sakura/" method="post" enctype='multipart/form-data'>
+			<input type="button" value="-" aria-label="Decrease quantity" />
+	<label for="quantity_6a19a5bd7d10a">Osume sakura quantity</label>
+	<input
+		type="number"
+				id="quantity_6a19a5bd7d10a"
+		class="input-text qty text"
+		value="1"
+		aria-label="Product quantity"
+				min="1"
+				name="quantity"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			>
+			<input type="button" value="+" aria-label="Increase quantity" />
+		<button type="submit" name="add-to-cart" value="330">Add to cart</button>
+			</form>
+				<a href="" data-key="2f4c4b7271" data-product-id="330" rel="nofollow">
+					Add to wishlist
+				</a>
+			<img  src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-check-filled-green.svg" title="kac-porudct-check-filled-green" loading="lazy" width="16" height="16"><strong>Estimated delivery:</strong> May 31, 2026 – June 2, 2026
+								<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-el-base-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-el-base.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-builder-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-builder.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-transform-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/mod-transform.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-block-container-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/block-container.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-loop-prod-add-btn-replace-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-mod-loop-prod-add-btn-replace.css?ver=8.5.0" type="text/css" media="all" /> 						<style id="wd-style-blocks-670-inline-css" data-type="wd-style-blocks-670">
+				.wd.wd .wd-fa62a1e2{--wd-width: 65px;flex:0 0 auto;}.wd.wd .wd-e8ea9fe8{flex: 0 0 auto;}.wd.wd .wd-a73bd762{align-items: center;align-content: center;flex:1 1 auto;}.wd.wd .wd-cdc3c14c{align-items: center;align-content: center;--wd-col-gap: 15px;}@media (max-width: 768.98px) {.wd.wd .wd-a73bd762{align-items: start;align-content: start;}}			</style>
+									<h4>Don&#039;t Miss Top Accessories</h4>							
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/wuque-studio-keyno-y8/" tabindex="-1" aria-label="Wuque Studio Keyno Y8">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-studio-keyno-y8.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-studio-keyno-y8.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-studio-keyno-y8-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-studio-keyno-y8-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-studio-keyno-y8-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/wuque-studio-keyno-y8/">
+				Wuque Studio Keyno Y8			</a>
+		</h3 >
+	<bdi>&#36;210.00</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=108"  data-quantity="1" data-product_id="108" data-product_sku="34453" aria-label="Add to cart: &ldquo;Wuque Studio Keyno Y8&rdquo;" rel="nofollow" data-success_message="&ldquo;Wuque Studio Keyno Y8&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/nuphy-twotone-wrist-rest-2/" tabindex="-1" aria-label="NuPhy Twotone Wrist Rest">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/knda-product-accessories-14-0.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/knda-product-accessories-14-0.jpg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/knda-product-accessories-14-0-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/knda-product-accessories-14-0-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/knda-product-accessories-14-0-150x171.jpg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/nuphy-twotone-wrist-rest-2/">
+				NuPhy Twotone Wrist Rest			</a>
+		</h3 >
+	<bdi>&#36;34.00</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=328"  data-quantity="1" data-product_id="328" data-product_sku="60449" aria-label="Add to cart: &ldquo;NuPhy Twotone Wrist Rest&rdquo;" rel="nofollow" data-success_message="&ldquo;NuPhy Twotone Wrist Rest&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/kailh-box-jade-thick-clicky-switches/" tabindex="-1" aria-label="Kailh Box Jade Thick Clicky Switches">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/kailh-box-jade-thick-clicky-switches/">
+				Kailh Box Jade Thick Clicky Switches			</a>
+		</h3 >
+	<bdi>&#36;6.30</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=217"  data-quantity="1" data-product_id="217" data-product_sku="34354" aria-label="Add to cart: &ldquo;Kailh Box Jade Thick Clicky Switches&rdquo;" rel="nofollow" data-success_message="&ldquo;Kailh Box Jade Thick Clicky Switches&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/melgeek-pixel-16bit/" tabindex="-1" aria-label="Melgeek Pixel 16bit">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-pixel-16bit.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-pixel-16bit.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-pixel-16bit-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-pixel-16bit-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-pixel-16bit-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/melgeek-pixel-16bit/">
+				Melgeek Pixel 16bit			</a>
+		</h3 >
+	<del aria-hidden="true"><bdi>&#36;29.99</bdi></del> Original price was: &#036;29.99.<ins aria-hidden="true"><bdi>&#36;25.49</bdi></ins>Current price is: &#036;25.49.
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=128"  data-quantity="1" data-product_id="128" data-product_sku="19994" aria-label="Add to cart: &ldquo;Melgeek Pixel 16bit&rdquo;" rel="nofollow" data-success_message="&ldquo;Melgeek Pixel 16bit&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/aeboards-staebies-v2-1-stabilizers/" tabindex="-1" aria-label="AEBoards Staebies V2.1 Stabilizers">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/aeboards-staebies-v2-1-stabilizers/">
+				AEBoards Staebies V2.1 Stabilizers			</a>
+		</h3 >
+	<bdi>&#36;22.00</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=236"  data-quantity="1" data-product_id="236" data-product_sku="32562" aria-label="Add to cart: &ldquo;AEBoards Staebies V2.1 Stabilizers&rdquo;" rel="nofollow" data-success_message="&ldquo;AEBoards Staebies V2.1 Stabilizers&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/osume-dalgona-cable/" tabindex="-1" aria-label="Osume dalgona cable">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/osume-dalgona-cable-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/osume-dalgona-cable/">
+				Osume dalgona cable			</a>
+		</h3 >
+	<bdi>&#36;79.00</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=100"  data-quantity="1" data-product_id="100" data-product_sku="64797" aria-label="Add to cart: &ldquo;Osume dalgona cable&rdquo;" rel="nofollow" data-success_message="&ldquo;Osume dalgona cable&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/haimu-x-geon-hg-red-silent-linear-switches/" tabindex="-1" aria-label="Haimu x Geon HG Red Silent Linear Switches">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/haimu-x-geon-hg-red-silent-linear-switches.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/haimu-x-geon-hg-red-silent-linear-switches.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/haimu-x-geon-hg-red-silent-linear-switches-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/haimu-x-geon-hg-red-silent-linear-switches-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/haimu-x-geon-hg-red-silent-linear-switches-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/haimu-x-geon-hg-red-silent-linear-switches/">
+				Haimu x Geon HG Red Silent Linear Switches			</a>
+		</h3 >
+	<bdi>&#36;5.76</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=229"  data-quantity="1" data-product_id="229" data-product_sku="29151" aria-label="Add to cart: &ldquo;Haimu x Geon HG Red Silent Linear Switches&rdquo;" rel="nofollow" data-success_message="&ldquo;Haimu x Geon HG Red Silent Linear Switches&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/kalam-unikorn-purple-pvd/" tabindex="-1" aria-label="Kalam Unikorn Purple PVD">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kalam-unikorn-purple-pvd.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kalam-unikorn-purple-pvd.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kalam-unikorn-purple-pvd-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kalam-unikorn-purple-pvd-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kalam-unikorn-purple-pvd-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/kalam-unikorn-purple-pvd/">
+				Kalam Unikorn Purple PVD			</a>
+		</h3 >
+	<bdi>&#36;283.00</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=115"  data-quantity="1" data-product_id="115" data-product_sku="59190" aria-label="Add to cart: &ldquo;Kalam Unikorn Purple PVD&rdquo;" rel="nofollow" data-success_message="&ldquo;Kalam Unikorn Purple PVD&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/gateron-ef-grayish-tactile-switches/" tabindex="-1" aria-label="Gateron EF Grayish Tactile Switches">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/gateron-ef-grayish-tactile-switches.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/gateron-ef-grayish-tactile-switches.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/gateron-ef-grayish-tactile-switches-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/gateron-ef-grayish-tactile-switches-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/gateron-ef-grayish-tactile-switches-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/gateron-ef-grayish-tactile-switches/">
+				Gateron EF Grayish Tactile Switches			</a>
+		</h3 >
+	<bdi>&#36;4.59</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=226"  data-quantity="1" data-product_id="226" data-product_sku="31514" aria-label="Add to cart: &ldquo;Gateron EF Grayish Tactile Switches&rdquo;" rel="nofollow" data-success_message="&ldquo;Gateron EF Grayish Tactile Switches&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/melgeek-label/" tabindex="-1" aria-label="Melgeek Label">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-label.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-label.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-label-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-label-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/melgeek-label-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/melgeek-label/">
+				Melgeek Label			</a>
+		</h3 >
+	<bdi>&#36;59.99</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=127"  data-quantity="1" data-product_id="127" data-product_sku="99096" aria-label="Add to cart: &ldquo;Melgeek Label&rdquo;" rel="nofollow" data-success_message="&ldquo;Melgeek Label&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/wuque-titanium-switch-puller/" tabindex="-1" aria-label="Wuque Titanium Switch Puller">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-titanium-switch-puller.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-titanium-switch-puller.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-titanium-switch-puller-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-titanium-switch-puller-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/wuque-titanium-switch-puller-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/wuque-titanium-switch-puller/">
+				Wuque Titanium Switch Puller			</a>
+		</h3 >
+	<bdi>&#36;15.00</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=232"  data-quantity="1" data-product_id="232" data-product_sku="65143" aria-label="Add to cart: &ldquo;Wuque Titanium Switch Puller&rdquo;" rel="nofollow" data-success_message="&ldquo;Wuque Titanium Switch Puller&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-cinnamoroll-star-5108b-plus/" tabindex="-1" aria-label="Akko Cinnamoroll Star 5108B Plus">
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-cinnamoroll-star-5108b-plus/">
+				Akko Cinnamoroll Star 5108B Plus			</a>
+		</h3 >
+	<bdi>&#36;119.99</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=99"  data-quantity="1" data-product_id="99" data-product_sku="25229" aria-label="Add to cart: &ldquo;Akko Cinnamoroll Star 5108B Plus&rdquo;" rel="nofollow" data-success_message="&ldquo;Akko Cinnamoroll Star 5108B Plus&rdquo; has been added to your cart" role="button">Add to cart</a>			
+														<link rel="stylesheet" id="wd-swiper-scrollbar-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-scrollbar.css?ver=8.5.0" type="text/css" media="all" /> 					
+								<link rel="stylesheet" id="wd-accordion-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-accordion.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-accordion-elem-wpb-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-accordion-wpb-elem.css?ver=8.5.0" type="text/css" media="all" /> 			
+								Shipping Information							
+							<p>All orders will be shipped by NuPhy within 48 hours of order confirmation, tracking numbers are provided no later than a day after shipment on business days. You can check Shipping Policy for more information.</p>
+								Warranty Policy							
+							<p>NuPhy offers a 1-year limited warranty for all NuPhy products. If there is any quality issue, please send relevant images or videos to service@nuphy.com for review.</p>
+								Secure Payment							
+							<p>NuPhy offers a 1-year limited warranty for all NuPhy products. If there is any quality issue, please send relevant images or videos to service@nuphy.com for review.</p>
+								<link rel="stylesheet" id="wd-mod-nav-style-bg-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/mod-nav-style-bg.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-el-menu-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-menu.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-el-menu-wpb-elem-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-menu-wpb-elem.css?ver=8.5.0" type="text/css" media="all" /> 					
+						<ul id="menu-single-product-navigation"><li id="menu-item-40" ><a href="#Overview">Overview</a></li>
+<li id="menu-item-41" ><a href="#Specs">Specs</a></li>
+<li id="menu-item-42" ><a href="#Reviews">Reviews</a></li>
+</ul>		
+					<style>.elementor-99 .elementor-element.elementor-element-8433379{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-9755e79{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--margin-top:60px;--margin-bottom:60px;--margin-left:0px;--margin-right:0px;}.elementor-99 .elementor-element.elementor-element-efab846{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-7487c74 .title{font-size:40px;line-height:1.2em;}.elementor-99 .elementor-element.elementor-element-ddaa94c{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-1418965 .wd-text-block{font-size:24px;font-weight:600;}.elementor-99 .elementor-element.elementor-element-a4bd90f{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-4b7e431{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-a105e94 .wd-el-video{height:412px;}.elementor-99 .elementor-element.elementor-element-00e85c2{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--border-radius:16px 16px 16px 16px;--padding-top:30px;--padding-bottom:30px;--padding-left:30px;--padding-right:30px;}.elementor-99 .elementor-element.elementor-element-00e85c2:not(.elementor-motion-effects-element-type-background), .elementor-99 .elementor-element.elementor-element-00e85c2 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#54CEB6;}.elementor-99 .elementor-element.elementor-element-054666b .title-subtitle{color:#FFFFFF;background-color:#6559F5;}.elementor-99 .elementor-element.elementor-element-054666b .title{color:#FFFFFF66;font-size:32px;}.elementor-99 .elementor-element.elementor-element-054666b .woodmart-title-container u{text-decoration:none;color:#FFFFFF;}.elementor-99 .elementor-element.elementor-element-2b76fbb{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-a532290{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-ab8691a{--display:flex;--min-height:412px;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--border-radius:16px 16px 16px 16px;--padding-top:30px;--padding-bottom:30px;--padding-left:30px;--padding-right:30px;}.elementor-99 .elementor-element.elementor-element-ab8691a:not(.elementor-motion-effects-element-type-background), .elementor-99 .elementor-element.elementor-element-ab8691a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FBAE19;}.elementor-99 .elementor-element.elementor-element-c11100d .title-subtitle{color:#FFFFFF;background-color:#6559F5;}.elementor-99 .elementor-element.elementor-element-c11100d .title{color:#FFFFFF66;font-size:32px;}.elementor-99 .elementor-element.elementor-element-c11100d .woodmart-title-container u{text-decoration:none;color:#FFFFFF;}.elementor-99 .elementor-element.elementor-element-889e1d1 .wd-el-video{height:412px;}.elementor-99 .elementor-element.elementor-element-ded763b{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-ded763b:not(.elementor-motion-effects-element-type-background), .elementor-99 .elementor-element.elementor-element-ded763b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-overview-air75-l.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-99 .elementor-element.elementor-element-f5db848{--display:flex;}.elementor-99 .elementor-element.elementor-element-2536809{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-77e6b78 .wd-el-video{height:412px;}.elementor-99 .elementor-element.elementor-element-66a6543{--display:flex;}.elementor-99 .elementor-element.elementor-element-66e788b{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-f07ef19 .wd-el-video{height:412px;}.elementor-99 .elementor-element.elementor-element-26d2534{--display:flex;}.elementor-99 .elementor-element.elementor-element-205ea6d{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-99 .elementor-element.elementor-element-83580ae .wd-el-video{height:412px;}@media(max-width:1024px){.elementor-99 .elementor-element.elementor-element-9755e79{--margin-top:40px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;}.elementor-99 .elementor-element.elementor-element-7487c74 .title{font-size:32px;}.elementor-99 .elementor-element.elementor-element-1418965 .wd-text-block{font-size:20px;}.elementor-99 .elementor-element.elementor-element-054666b .title{font-size:24px;}.elementor-99 .elementor-element.elementor-element-c11100d .title{font-size:24px;}}@media(max-width:767px){.elementor-99 .elementor-element.elementor-element-9755e79{--margin-top:20px;--margin-bottom:20px;--margin-left:0px;--margin-right:0px;}.elementor-99 .elementor-element.elementor-element-7487c74 .title{font-size:24px;}.elementor-99 .elementor-element.elementor-element-1418965 .wd-text-block{font-size:18px;}.elementor-99 .elementor-element.elementor-element-054666b .title{font-size:20px;}.elementor-99 .elementor-element.elementor-element-ab8691a{--min-height:0px;}.elementor-99 .elementor-element.elementor-element-c11100d .title{font-size:20px;}}@media(min-width:768px){.elementor-99 .elementor-element.elementor-element-efab846{--width:50%;}.elementor-99 .elementor-element.elementor-element-ddaa94c{--width:50%;}.elementor-99 .elementor-element.elementor-element-4b7e431{--width:66.6666%;}.elementor-99 .elementor-element.elementor-element-00e85c2{--width:33.3333%;}.elementor-99 .elementor-element.elementor-element-a532290{--width:33.3333%;}.elementor-99 .elementor-element.elementor-element-ded763b{--width:66.6666%;}}@media(max-width:1024px) and (min-width:768px){.elementor-99 .elementor-element.elementor-element-4b7e431{--width:60%;}.elementor-99 .elementor-element.elementor-element-00e85c2{--width:40%;}.elementor-99 .elementor-element.elementor-element-a532290{--width:40%;}.elementor-99 .elementor-element.elementor-element-ded763b{--width:60%;}}</style>		
+								<link rel="stylesheet" id="wd-image-gallery-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-gallery.css?ver=8.5.0" type="text/css" media="all" /> 					
+						<img width="1276" height="740" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-1.jpg" alt="kac-porudct-slide-1" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-1.jpg 1276w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-1-300x174.jpg 300w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-1-1024x594.jpg 1024w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-1-768x445.jpg 768w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-1-600x348.jpg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-1-150x87.jpg 150w" sizes="auto, (max-width: 1276px) 100vw, 1276px" />
+						<img width="1276" height="740" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-2.jpg" alt="kac-porudct-slide-2" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-2.jpg 1276w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-2-300x174.jpg 300w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-2-1024x594.jpg 1024w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-2-768x445.jpg 768w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-2-600x348.jpg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-2-150x87.jpg 150w" sizes="auto, (max-width: 1276px) 100vw, 1276px" />
+						<img width="1276" height="740" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-3.jpg" alt="kac-porudct-slide-3" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-3.jpg 1276w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-3-300x174.jpg 300w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-3-1024x594.jpg 1024w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-3-768x445.jpg 768w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-3-600x348.jpg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-3-150x87.jpg 150w" sizes="auto, (max-width: 1276px) 100vw, 1276px" />
+						<img width="1276" height="740" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-4.jpg" alt="kac-porudct-slide-4" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-4.jpg 1276w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-4-300x174.jpg 300w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-4-1024x594.jpg 1024w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-4-768x445.jpg 768w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-4-600x348.jpg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-4-150x87.jpg 150w" sizes="auto, (max-width: 1276px) 100vw, 1276px" />
+						<img width="1276" height="740" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-5.jpg" alt="kac-porudct-slide-5" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-5.jpg 1276w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-5-300x174.jpg 300w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-5-1024x594.jpg 1024w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-5-768x445.jpg 768w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-5-600x348.jpg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-5-150x87.jpg 150w" sizes="auto, (max-width: 1276px) 100vw, 1276px" />
+						<img width="1276" height="740" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-6.jpg" alt="kac-porudct-slide-6" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-6.jpg 1276w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-6-300x174.jpg 300w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-6-1024x594.jpg 1024w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-6-768x445.jpg 768w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-6-600x348.jpg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-slide-6-150x87.jpg 150w" sizes="auto, (max-width: 1276px) 100vw, 1276px" />
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-section-title.css?ver=8.5.0" type="text/css" media="all" /> 					
+				<h4>Reloaded. Rewired. Reinvented.</h4> 
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-text-block.css?ver=8.5.0" type="text/css" media="all" /> 					
+			<p>Sep 5th 2021 marks the date when the low-profile mechanical keyboard was forever changed by the release of NuPhy Air75. Fast forward 2 years, we are excited to share that a new Air75 with lightning fast connection and light weight, one not just built for you, but also put you in charge, is now ready.</p>
+								<link rel="stylesheet" id="wd-el-video-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-video.css?ver=8.5.0" type="text/css" media="all" /> 			
+							<video src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/9-2-opt.mp4" playsinline loop muted autoplay></video>			
+										<link rel="stylesheet" id="wd-el-subtitle-style-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/el-subtitle-style.css?ver=8.5.0" type="text/css" media="all" /> 							
+					New Arrivals				
+				<h4><u>Bask in the fresh Air</u> ‘Less is more’ has been our mantra when it comes to designing</h4> 
+					Keycaps				
+				<h4><u>A double-shot keycap at half the thickness</u> Double-shot PBT keycaps are finally coming to Air75!</h4> 
+							<video src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/6-new.mp4" playsinline loop muted autoplay></video>			
+							<video src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/3-opt.mp4" playsinline loop muted autoplay></video>			
+							<video src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/7-opt.mp4" playsinline loop muted autoplay></video>			
+							<video src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4-opt.mp4" playsinline loop muted autoplay></video>			
+						<link rel="stylesheet" id="wd-swiper-pagin-critical-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-pagin-critical.css?ver=8.5.0" type="text/css" media="all" /> 					
+			<ul></ul>
+				<h4>Tech specs</h4> 
+								<h4>
+					Specification				
+			</h4>
+						<link rel="stylesheet" id="wd-woo-mod-shop-attributes-builder-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-mod-shop-attributes-builder.css?ver=8.5.0" type="text/css" media="all" /> 			<table aria-label="Product Details"><tr><th scope="row">Weight</th><td>1.1 kg</td></tr></table>				
+								<h4>
+					Materials				
+			</h4>
+			<table aria-label="Product Details"><tr><th scope="row">Weight</th><td>1.1 kg</td></tr></table>				
+				<h4>Reviews</h4> 
+								<link rel="stylesheet" id="wd-woo-single-prod-el-reviews-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-reviews.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-single-prod-el-reviews-style-1-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-reviews-style-1.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-post-types-mod-comments-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/post-types-mod-comments.css?ver=8.5.0" type="text/css" media="all" /> 							
+								<link rel="stylesheet" id="wd-woo-loop-prod-predefined-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-predefined.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-info-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-info.css?ver=8.5.0" type="text/css" media="all" /> 						
+									<h4>You may also like…</h4>							
+		<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/kailh-box-jade-thick-clicky-switches/" tabindex="-1" aria-label="Kailh Box Jade Thick Clicky Switches">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kailh-box-jade-thick-clicky-switches-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/xvx-sakura.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/xvx-sakura.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/xvx-sakura-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/xvx-sakura-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/xvx-sakura-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/kailh-box-jade-thick-clicky-switches/">Kailh Box Jade Thick Clicky Switches</a></h3>					
+						<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product-category/switches/" rel="tag">Switches</a>		
+	<bdi>&#36;6.30</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=217"  data-quantity="1" data-product_id="217" data-product_sku="34354" aria-label="Add to cart: &ldquo;Kailh Box Jade Thick Clicky Switches&rdquo;" rel="nofollow" data-success_message="&ldquo;Kailh Box Jade Thick Clicky Switches&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/?attachment_id=265" data-id="217" rel="nofollow">
+				Compare
+			</a>
+								<link rel="stylesheet" id="wd-mod-animations-transform-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform.css?ver=8.5.0" type="text/css" media="all" /> 					
+			<a
+				href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/kailh-box-jade-thick-clicky-switches/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="217"
+				>
+						Quick view					
+			</a>
+				<a href="" data-key="2f4c4b7271" data-product-id="217" rel="nofollow">
+					Add to wishlist
+				</a>]]></content:encoded>
+															<wp:post_id>638</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-15 11:02:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-15 11:02:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-29 14:42:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-29 14:42:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-keyboards]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.0.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_migrations_state_d2a1]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.2.2:7648e729aae38c0825752571ace57347]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"f5e923b","elType":"container","settings":{"flex_direction":"row","margin":{"unit":"px","top":"-20","right":"0","bottom":"20","left":"0","isLinked":false},"scroll_y":-80,"boxed_width_tablet":{"unit":"%","size":"","sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]},"flex_align_items":"center"},"elements":[{"id":"bb98e7c","elType":"widget","settings":{"nowrap_md":"md","_padding":{"unit":"px","top":"8","right":"30","bottom":"8","left":"30","isLinked":false},"scroll_y":-80,"_background_background":"classic","_background_color":"#FFFFFF","_border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"_element_width":"inherit"},"elements":[],"widgetType":"wd_wc_breadcrumb"},{"id":"50d9b90","elType":"widget","settings":{"_padding":{"unit":"px","top":"8","right":"8","bottom":"8","left":"8","isLinked":true},"scroll_y":-80,"_background_background":"classic","_background_color":"#FFFFFF","_border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"hide_mobile":"hidden-mobile","_flex_size":"none"},"elements":[],"widgetType":"wd_single_product_nav"}],"isInner":false},{"id":"67b9a3e","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":null,"column":"","row":"","isLinked":true},"scroll_y":-80,"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"23cf2d7","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":60},"background_background":"classic","scroll_y":-80},"elements":[{"id":"159d1e2","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_gallery"}],"isInner":true},{"id":"25e7bde","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"background_background":"classic","scroll_y":-80,"container_sticky":"yes","container_sticky_tablet":"yes","container_sticky_offset":102},"elements":[{"id":"dcc49f1","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80},"elements":[{"id":"ba038f1","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_justify_content":"space-between","flex_align_items":"center","flex_wrap":"wrap","scroll_y":-80},"elements":[{"id":"6b04b9c","elType":"widget","settings":{"show_sku":"","show_categories":"","show_tags":"","show_brand":"yes","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":0,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_meta"},{"id":"7114325","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_rating"},{"id":"5088fb5","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_brand_information"}],"isInner":true},{"id":"24f7498","elType":"widget","settings":{"typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_title"},{"id":"1df4450","elType":"widget","settings":{"typography_typography":"custom","typography_font_family":"Tiny5","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_stock_status"},{"id":"30d09ea","elType":"widget","settings":{"list_items":[{"list_content":"67% layout, fully aluminum gasket-mounted case","_id":"e3e7fd3"},{"list_content":"Hot-swappable connectors and stabilizers included","_id":"db98bdc"},{"list_content":"Proprietary materials produce a deep sound","_id":"1247343"}],"list_type":"image","scroll_y":-80,"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/keyboards-elementor\/wp-content\/uploads\/sites\/71\/2026\/04\/kac-porudct-check-filled.svg","id":657,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"16","height":"16"}},"elements":[],"widgetType":"wd_list"},{"id":"e6ec5d9","elType":"widget","settings":{"separator_text":":","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_countdown"},{"id":"b9978f9","elType":"widget","settings":{"main_price_text_color":"#333333","old_price_text_color":"#BBBBBB","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_price"},{"id":"00510e0","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_align_items":"flex-end","flex_gap":{"column":"10","row":"10","isLinked":true,"unit":"px","size":10},"scroll_y":-80,"flex_wrap":"nowrap"},"elements":[{"id":"c75fa32","elType":"widget","settings":{"button_design":"full","_element_width":"inherit","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_add_to_cart"},{"id":"dea195c","elType":"widget","settings":{"style":"icon","link_padding":{"unit":"px","top":"11","right":"11","bottom":"11","left":"11","isLinked":true},"_flex_size":"none","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_wishlist_button"}],"isInner":true},{"id":"6fbefef","elType":"widget","settings":{"icon_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/keyboards-elementor\/wp-content\/uploads\/sites\/71\/2026\/04\/kac-porudct-check-filled-green.svg","id":658,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"16","height":"16"},"scroll_y":-80},"elements":[],"widgetType":"wd_estimate_delivery"}],"isInner":true},{"id":"2433b51","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80},"elements":[{"id":"418c370","elType":"widget","settings":{"element_title":"Don't Miss Top Accessories","orderby":"rand","layout":"carousel","slides_per_view":{"unit":"px","size":1,"sizes":[]},"carousel_arrows_position_popover":"yes","carousel_arrows_position":"together","hide_pagination_control":"yes","hide_scrollbar":"","hide_scrollbar_tablet":"","hide_scrollbar_mobile":"","sync_parent_id":"wd_69df7baecbb11","product_hover":"custom","product_custom_hover":"670","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"scroll_y":-80,"sync_group_id":"group-1"},"elements":[],"widgetType":"wd_products"}],"isInner":true},{"id":"5b8ef5f","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80},"elements":[{"id":"4316171","elType":"widget","settings":{"items":[{"item_title":"Shipping Information","item_content":"<p>All orders will be shipped by NuPhy within 48 hours of order confirmation, tracking numbers are provided no later than a day after shipment on business days. You can check Shipping Policy for more information.<\/p>","_id":"7c51ae6"},{"item_title":"Warranty Policy","item_content":"<p>NuPhy offers a 1-year limited warranty for all NuPhy products. If there is any quality issue, please send relevant images or videos to service@nuphy.com for review.<\/p>","_id":"f5daa4b"},{"item_title":"Secure Payment","item_content":"<p>NuPhy offers a 1-year limited warranty for all NuPhy products. If there is any quality issue, please send relevant images or videos to service@nuphy.com for review.<\/p>","_id":"ba69777"}],"state":"all_closed","style":"simple","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_text_color_scheme":"custom","title_text_idle_color":"#333333","title_text_hover_color":"#333333","title_text_active_color":"#333333","opener_alignment":"right","scroll_y":-80},"elements":[],"widgetType":"wd_accordion"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"801e8e7","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"e16f05e","elType":"container","settings":{"content_width":"full","z_index":99,"container_sticky":"yes","container_sticky_offset":102,"scroll_y":-80,"flex_align_items":"center"},"elements":[{"id":"dab4e70","elType":"widget","settings":{"title":"","nav_menu":"27","design":"horizontal","alignment":"center","style":"bg","items_gap":"m","item_typography_typography":"custom","item_typography_font_size":{"unit":"px","size":14,"sizes":[]},"item_typography_text_transform":"none","items_bg_color_enable":"1","items_bg_color":"#FFFFFF","items_border_enable":"1","items_border_radius":{"unit":"px","top":"21","right":"21","bottom":"21","left":"21","isLinked":true},"items_hover_color":"#FFFFFF","items_bg_hover_color_enable":"1","items_bg_hover_color":"#FB6A19","items_active_color":"#FFFFFF","items_bg_active_color_enable":"1","items_bg_active_color":"#FB6A19","scroll_y":-80,"_padding":{"unit":"px","top":"14","right":"14","bottom":"14","left":"14","isLinked":true},"_element_width":"initial","_element_custom_width":{"unit":"px","size":332,"sizes":[]},"_background_background":"classic","_background_color":"#FFFFFF4D","backdrop_filter_popover":"yes","backdrop_filter":{"blur":5,"brightness":"","contrast":"","grayscale":"","hue-rotate":"","invert":"","opacity":"","saturate":"","sepia":""},"_border_radius":{"unit":"px","top":"32","right":"32","bottom":"32","left":"32","isLinked":true},"items_padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[],"widgetType":"wd_mega_menu"}],"isInner":true},{"id":"0491301","elType":"container","settings":{"content_width":"full","margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"ca6c984","elType":"widget","settings":{"offset":0,"anchor":"Overview","_position":"absolute","scroll_y":-80},"elements":[],"widgetType":"woodmart_menu_anchor"},{"id":"781f70f","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_content"}],"isInner":true},{"id":"20f6c12","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"padding_tablet":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80},"elements":[{"id":"1b1f51e","elType":"widget","settings":{"offset":0,"anchor":"Specs","_position":"absolute","scroll_y":-80},"elements":[],"widgetType":"woodmart_menu_anchor"},{"id":"b093779","elType":"widget","settings":{"subtitle":"","title":"Tech specs","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"413ca45","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30},"scroll_y":-80},"elements":[{"id":"989ecae","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":50,"sizes":[]},"scroll_y":-80},"elements":[{"id":"b503d15","elType":"widget","settings":{"title":"Specification","layout":"inline","style":"default","columns":{"unit":"px","size":1,"sizes":[]},"vertical_gap":{"unit":"px","size":15,"sizes":[]},"attr_name_column_width":{"unit":"px","size":171,"sizes":[]},"attr_name_typography_typography":"custom","attr_name_typography_font_weight":"400","attr_name_color":"#767676","attr_hide_image":"yes","attr_term_typography_typography":"custom","attr_term_typography_font_weight":"600","term_link_color":"#333333","term_link_color_hover":"#242424","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_additional_info_table"}],"isInner":true},{"id":"f18f47b","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":50,"sizes":[]},"scroll_y":-80},"elements":[{"id":"938580a","elType":"widget","settings":{"title":"Materials","layout":"inline","style":"default","columns":{"unit":"px","size":1,"sizes":[]},"vertical_gap":{"unit":"px","size":15,"sizes":[]},"attr_name_column_width":{"unit":"px","size":171,"sizes":[]},"attr_name_typography_typography":"custom","attr_name_typography_font_weight":"400","attr_name_color":"#767676","attr_hide_image":"yes","attr_term_typography_typography":"custom","attr_term_typography_font_weight":"600","term_link_color":"#333333","term_link_color_hover":"#242424","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_additional_info_table"}],"isInner":true}],"isInner":true}],"isInner":true},{"id":"4a6e5e3","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"padding_tablet":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80},"elements":[{"id":"90fd3f5","elType":"widget","settings":{"offset":0,"anchor":"Reviews","_position":"absolute","scroll_y":-80},"elements":[],"widgetType":"woodmart_menu_anchor"},{"id":"9186595","elType":"widget","settings":{"subtitle":"","title":"Reviews","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"21db7e2","elType":"widget","settings":{"layout":"two-column","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_reviews"}],"isInner":true}],"isInner":false},{"id":"b6c16ca","elType":"container","settings":{"flex_direction":"column","scroll_y":-80},"elements":[{"id":"c460e79","elType":"widget","settings":{"element_title":"You may also like\u2026","post_type":"recently_viewed","ajax_recently_viewed":"yes","layout":"carousel","slides_per_view":{"unit":"px","size":3.7,"sizes":[]},"scroll_carousel_init":"yes","disable_overflow_carousel":"yes","hide_pagination_control":"yes","hide_scrollbar":"","hide_scrollbar_tablet":"","hide_scrollbar_mobile":"","sync_parent_id":"wd_69df7d54a5a90","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80,"sync_group_id":"group-1"},"elements":[],"widgetType":"wd_products"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[kac-porudct-check-filled]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/kac-porudct-check-filled/</link>
+					<pubDate>Wed, 15 Apr 2026 11:24:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-check-filled.svg</guid>
+															<wp:post_id>657</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-15 11:24:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-15 11:24:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-15 11:24:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-15 11:24:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[kac-porudct-check-filled]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-check-filled.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/kac-porudct-check-filled.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[kac-porudct-check-filled-green]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/kac-porudct-check-filled-green/</link>
+					<pubDate>Wed, 15 Apr 2026 11:24:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-check-filled-green.svg</guid>
+															<wp:post_id>658</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-15 11:24:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-15 11:24:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-15 11:24:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-15 11:24:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[kac-porudct-check-filled-green]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/kac-porudct-check-filled-green.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/kac-porudct-check-filled-green.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

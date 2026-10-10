@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>perfumes-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 15 Dec 2025 13:22:35 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Products archive - Perfumes]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/woodmart_layout/products-archive-perfumes/</link>
+					<pubDate>Wed, 18 Feb 2026 09:20:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?post_type=woodmart_layout&#038;p=360</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/off-canvas {"blockId":"27ca87fd-c04b-4030-8087-0c644f04d69a","blockVersion":"2"} -->
+<div class="wp-block-wd-off-canvas wd-27ca87fd"><!-- wp:wd/off-sidebar {"blockId":"a7b1e613-36c0-4805-9010-87f6a72e97ed","blockVersion":"2","offCanvasSidebarWidth":"440","offCanvasDesktop":true,"position":"right","offCanvasSidebarWidthTablet":"340"} -->
+<div class="wp-block-wd-off-sidebar wd-right wd-hide-lg wd-hide-md-sm wd-hide-sm wd-a7b1e613"><div class="wd-heading"><div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener"><span class="wd-action-icon"></span><span class="wd-action-text">Close</span></a></div></div><div class="wd-content"><!-- wp:wd/sidebar {"blockId":"4cfa2832-1574-461b-a77f-2833b2d62b7d","blockVersion":"2","sidebar_id":"sidebar-shop"} /--></div></div>
+<!-- /wp:wd/off-sidebar -->
+
+<!-- wp:wd/off-content {"blockId":"84aa3bfe-d99e-483b-b8f2-951923fe2c48","blockVersion":"2"} -->
+<div class="wp-block-wd-off-content wd-84aa3bfe"><!-- wp:wd/sa-archive-description {"blockId":"90508c14-856e-4f13-8e7e-6b28fcb8de1f","blockVersion":"2"} /-->
+
+<!-- wp:wd/container {"blockId":"f563e386-1ab8-4af5-bb26-57471c86cf95","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginTop":"-20","displayWidth":"","customWidth":"","marginTopTablet":"-25","customWidthUnits":"%"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-f563e386"><!-- wp:wd/page-heading {"blockId":"e00f7b5e-f927-4586-bf72-0675f7fb7324","blockVersion":"2","tpFontSize":"44","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} /-->
+
+<!-- wp:wd/off-canvas-button {"blockId":"485c7e17-a7ca-4fe6-8a06-00469b7656fb","blockVersion":"2","btnContent":"Filters","stickyBtn":false} -->
+<div class="wp-block-wd-off-canvas-button wd-off-canvas-btn wd-action-btn wd-style-text wd-burger-icon wd-485c7e17"><a href="#" rel="nofollow"><span class="wd-action-icon"></span><span class="wd-action-text">Filters</span></a></div>
+<!-- /wp:wd/off-canvas-button --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/woo-notices {"blockId":"839864be-72a8-4d9e-bd33-b27def0d5cac","blockVersion":"2"} /-->
+
+<!-- wp:wd/sa-active-filters {"blockId":"21554bd3-086c-48f2-950f-f8d5471adb1c","blockVersion":"2"} /-->
+
+<!-- wp:wd/section {"blockId":"481bdc79-1b7e-4c84-8c58-3823efffdf74","blockVersion":"2","bgColorCode":"#f1f1f1","paddingRight":"0","paddingLeft":"0","marginBottom":"-40"} -->
+<div class="wp-block-wd-section wd-481bdc79"><!-- wp:wd/sa-archive-products {"blockId":"ab566e03-e715-45f2-a270-559c142fb7d6","blockVersion":"2","productHover":"","shopPagination":"","shopPaginationMarginBottom":"20"} /--></div>
+<!-- /wp:wd/section --></div>
+<!-- /wp:wd/off-content --></div>
+<!-- /wp:wd/off-canvas -->]]></content:encoded>
+															<wp:post_id>360</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-18 09:20:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-18 09:20:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-03-12 13:15:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-03-12 13:15:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-perfumes]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

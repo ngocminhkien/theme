@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Accessories</title>
+	<link>https://dummy.xtemos.com/woodmart2/accessories</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Thu, 23 Jun 2022 08:59:59 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/accessories</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form Accessories]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories/?post_type=wpcf7_contact_form&#038;p=6</link>
+					<pubDate>Thu, 18 Aug 2022 11:46:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories/?post_type=wpcf7_contact_form&#038;p=6</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch" style="--wd-gap-lg: 30px;--wd-gap-sm: 20px">
+<p class="wd-col"><label>Your Name</label>[text* your-name]</p>
+<p class="wd-col"><label>Your Email</label>[email* your-email]</p>
+</div>
+<div class="wd-grid-f-stretch" style="--wd-gap-lg: 30px;--wd-gap-sm: 20px">
+<p class="wd-col"><label>Phone Number</label>[tel tel-767]</p>
+<p class="wd-col"><label>Company</label>[text text-1]</p>
+</div>
+<p><label>Your Message</label>[textarea your-message]</p>
+<p>[submit class:btn-color-black "ASK A QUESTION"]</p>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>6</wp:post_id>
+					<wp:post_date><![CDATA[2022-08-18 11:46:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-08-18 11:46:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-06-04 11:21:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-06-04 11:21:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch" style="--wd-gap-lg: 30px;--wd-gap-sm: 20px">
+<p class="wd-col"><label>Your Name</label>[text* your-name]</p>
+<p class="wd-col"><label>Your Email</label>[email* your-email]</p>
+</div>
+<div class="wd-grid-f-stretch" style="--wd-gap-lg: 30px;--wd-gap-sm: 20px">
+<p class="wd-col"><label>Phone Number</label>[tel tel-767]</p>
+<p class="wd-col"><label>Company</label>[text text-1]</p>
+</div>
+<p><label>Your Message</label>[textarea your-message]</p>
+<p>[submit class:btn-color-black "ASK A QUESTION"]</p>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:149:"From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[65cbad79b75f7f171c0f3d501de508aae0988a24]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[FAQs]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories/faqs/</link>
+					<pubDate>Thu, 18 Aug 2022 12:02:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories/?page_id=24</guid>
+											<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" woodmart_bg_position="center-bottom" css=".vc_custom_1663687039618{margin-bottom: 80px !important;padding-top: 180px !important;padding-bottom: 300px !important;background: #f2f2f2 url(http://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/faqs.jpg?id=247) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}" wd_z_index="no" woodmart_css_id="6329d9726f119" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MzI5ZDk3MjZmMTE5Iiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnsibWFyZ2luLWJvdHRvbSI6IjYwcHgifX19" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" row_reverse_mobile="0" row_reverse_tablet="0" woodmart_disable_overflow="0" woodmart_box_shadow="no"][vc_column css=".vc_custom_1629885433950{padding-top: 0px !important;}" wd_z_index="no" woodmart_css_id="612613f769ba5" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTI2MTNmNzY5YmE1Iiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" parallax_scroll="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_sticky_column="false" mobile_reset_margin="no" tablet_reset_margin="no"][woodmart_title woodmart_css_id="626a3fd96abbc" title="Questions &amp; Answers" title_font_size="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zaXplIiwiY3NzX2FyZ3MiOnsiZm9udC1zaXplIjpbIiAud29vZG1hcnQtdGl0bGUtY29udGFpbmVyIl19LCJzZWxlY3Rvcl9pZCI6IjYyNmEzZmQ5NmFiYmMiLCJkYXRhIjp7ImRlc2t0b3AiOiI1MnB4IiwidGFibGV0IjoiMzZweCJ9fQ==" after_title="Write us an e-mail via the form, or just send us an e-mail directly at." after_font_size="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zaXplIiwiY3NzX2FyZ3MiOnsiZm9udC1zaXplIjpbIiAudGl0bGUtYWZ0ZXJfdGl0bGUiXX0sInNlbGVjdG9yX2lkIjoiNjI2YTNmZDk2YWJiYyIsImRhdGEiOnsiZGVza3RvcCI6IjE2cHgifX0=" css=".vc_custom_1651130356102{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjZhM2ZkOTZhYmJjIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][woodmart_popup color="primary" size="extra-large" style="link" id="contact-form-popup" width="900" title="CONTACT US" woodmart_css_id="6268e77475836" full_width="no" button_inline="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjY4ZTc3NDc1ODM2Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfcG9wdXAiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][html_block id="211"][/woodmart_popup][/vc_column][/vc_row][vc_row css=".vc_custom_1496940694752{margin-bottom: 20px !important;}"][vc_column css=".vc_custom_1484657273903{padding-top: 0px !important;}"][woodmart_title align="left" style="underlined" color="primary" size="medium" title="Shopping Information" css=".vc_custom_1651048835682{margin-bottom: 15px !important;}" woodmart_css_id="6269018030018" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjY5MDE4MDMwMDE4Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][/vc_column][/vc_row][vc_row equal_height="yes" css=".vc_custom_1629893241850{margin-bottom: 50px !important;}" wd_z_index="no" woodmart_css_id="6126327347fb2" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTI2MzI3MzQ3ZmIyIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnsibWFyZ2luLWJvdHRvbSI6IjMwIn19fQ==" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" row_reverse_mobile="0" row_reverse_tablet="0" woodmart_disable_overflow="0"][vc_column width="1/2" css=".vc_custom_1484657119633{padding-top: 0px !important;}"][woodmart_text_block woodmart_css_id="612614a5b6133" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>Delivery charges for orders from the Online Shop</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][woodmart_text_block woodmart_css_id="6126308ec5904" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>How long will delivery take?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612630a8ce8ca" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>What exactly happens after ordering?</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][/vc_column][vc_column width="1/2" css=".vc_custom_1484657123074{padding-top: 0px !important;}"][woodmart_text_block woodmart_css_id="612630477001f" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>Where can I view my sales receipt?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612630b4e605c" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>How do I add a gift receipt to an order?</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612630c5141e5" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>How long do I have to return an order?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][/vc_column][/vc_row][vc_row css=".vc_custom_1496940740070{margin-bottom: 20px !important;}"][vc_column css=".vc_custom_1484657273903{padding-top: 0px !important;}"][woodmart_title align="left" style="underlined" color="primary" size="medium" title="Payment Information" css=".vc_custom_1651048839126{margin-bottom: 15px !important;}" woodmart_css_id="62690184a5381" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjY5MDE4NGE1MzgxIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][/vc_column][/vc_row][vc_row equal_height="yes" css=".vc_custom_1629893257785{margin-bottom: 50px !important;}" wd_z_index="no" woodmart_css_id="6126328392954" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTI2MzI4MzkyOTU0Iiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnsibWFyZ2luLWJvdHRvbSI6IjMwIn19fQ==" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" row_reverse_mobile="0" row_reverse_tablet="0" woodmart_disable_overflow="0"][vc_column width="1/2" css=".vc_custom_1484657119633{padding-top: 0px !important;}"][woodmart_text_block woodmart_css_id="6126312b24b73" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>How is the recipient reimbursed?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612631399a95d" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>Can I be reimbursed through the original payment method?</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][woodmart_text_block woodmart_css_id="61263147d1c91" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>Can the country receiving the shipment be different than the country of purchase?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][/vc_column][vc_column width="1/2" css=".vc_custom_1484657123074{padding-top: 0px !important;}"][woodmart_text_block woodmart_css_id="6126315627495" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>How can I return an item?</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612631628438b" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>Will I receive the same product that I see in the picture?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][woodmart_text_block woodmart_css_id="6126316e47900" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>Will you restock items indicated as “out of stock?”</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][/vc_column][/vc_row][vc_row css=".vc_custom_1493372598184{margin-bottom: 20px !important;}"][vc_column css=".vc_custom_1484657273903{padding-top: 0px !important;}"][woodmart_title align="left" style="underlined" color="primary" size="medium" title="Orders and Returns" css=".vc_custom_1651048844123{margin-bottom: 15px !important;}" woodmart_css_id="626901885b924" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjY5MDE4ODViOTI0Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][/vc_column][/vc_row][vc_row equal_height="yes" css=".vc_custom_1496940825311{margin-bottom: 0px !important;}"][vc_column width="1/2" css=".vc_custom_1484657119633{padding-top: 0px !important;}"][woodmart_text_block woodmart_css_id="6126319f3bf62" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>Delivery charges for orders from the Online Shop?</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612631aaaabe4" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>How long will delivery take?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612631b71e31a" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>What exactly happens after ordering?</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][/vc_column][vc_column width="1/2" css=".vc_custom_1484657123074{padding-top: 0px !important;}"][woodmart_text_block woodmart_css_id="612631c3820c5" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>How long does the delivery take and how much does it cost?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612631d00eeb5" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>Which browser is best to use the site?</h5>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.</p>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.[/woodmart_text_block][woodmart_text_block woodmart_css_id="612631dbae9f5" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]</p>
+<h5>How do I subscribe to the newsletter?</h5>
+<p>Ad vivamus nullam scelerisque a neque suspendisse consectetur fringilla a suspendisse proin senectus lobortis lacinia sem parturient dapibus ad aliquet maecenas dis neque.</p>
+<p>Torquent posuere vel id sagittis urna placerat ridiculus odio vestibulum donec tristique a nisl eros conubia condimentum nunc quisque nibh adipiscing habitasse parturient suspendisse proin a pharetra commodo leo tincidunt lobortis lacinia sem parturient dapibus.[/woodmart_text_block][/vc_column][/vc_row]</p>
+]]></content:encoded>
+															<wp:post_id>24</wp:post_id>
+					<wp:post_date><![CDATA[2022-08-18 12:02:19]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-08-18 12:02:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-09-20 15:17:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-09-20 15:17:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[faqs]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[header_548880]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[woodmart_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#wd-626a3fd96abbc .woodmart-title-container{line-height:62px;font-size:52px;}#wd-626a3fd96abbc .title-after_title{line-height:26px;font-size:16px;}@media (max-width: 1199px) {#wd-626a3fd96abbc .woodmart-title-container{line-height:46px;font-size:36px;}}@media (max-width: 767px) {.website-wrapper .wd-rs-6329d9726f119{margin-bottom:60px !important;}.website-wrapper .wd-rs-6126327347fb2{margin-bottom:30px !important;}.website-wrapper .wd-rs-6126328392954{margin-bottom:30px !important;}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1663687039618{margin-bottom: 80px !important;padding-top: 180px !important;padding-bottom: 300px !important;background: #f2f2f2 url(http://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/faqs.jpg?id=247) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1496940694752{margin-bottom: 20px !important;}.vc_custom_1629893241850{margin-bottom: 50px !important;}.vc_custom_1496940740070{margin-bottom: 20px !important;}.vc_custom_1629893257785{margin-bottom: 50px !important;}.vc_custom_1493372598184{margin-bottom: 20px !important;}.vc_custom_1496940825311{margin-bottom: 0px !important;}.vc_custom_1629885433950{padding-top: 0px !important;}.vc_custom_1651130356102{margin-bottom: 20px !important;}.vc_custom_1484657273903{padding-top: 0px !important;}.vc_custom_1651048835682{margin-bottom: 15px !important;}.vc_custom_1484657119633{padding-top: 0px !important;}.vc_custom_1484657123074{padding-top: 0px !important;}.vc_custom_1484657273903{padding-top: 0px !important;}.vc_custom_1651048839126{margin-bottom: 15px !important;}.vc_custom_1484657273903{padding-top: 0px !important;}.vc_custom_1651048844123{margin-bottom: 15px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[paper-plane]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories/paper-plane/</link>
+					<pubDate>Tue, 20 Sep 2022 12:43:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/paper-plane.svg</guid>
+															<wp:post_id>186</wp:post_id>
+					<wp:post_date><![CDATA[2022-09-20 12:43:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-09-20 12:43:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-09-20 12:43:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-09-20 12:43:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[paper-plane]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/paper-plane.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/09/paper-plane.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[placeholder]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories/placeholder/</link>
+					<pubDate>Tue, 20 Sep 2022 12:43:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/placeholder.svg</guid>
+															<wp:post_id>187</wp:post_id>
+					<wp:post_date><![CDATA[2022-09-20 12:43:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-09-20 12:43:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-09-20 12:43:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-09-20 12:43:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[placeholder]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/placeholder.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/09/placeholder.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smartphone]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories/smartphone/</link>
+					<pubDate>Tue, 20 Sep 2022 12:43:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/smartphone.svg</guid>
+															<wp:post_id>188</wp:post_id>
+					<wp:post_date><![CDATA[2022-09-20 12:43:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-09-20 12:43:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-09-20 12:43:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-09-20 12:43:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smartphone]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/smartphone.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/09/smartphone.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Popup with contact form]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories/?cms_block=popup-with-contact-form</link>
+					<pubDate>Tue, 20 Sep 2022 12:52:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories/?post_type=cms_block&#038;p=211</guid>
+											<content:encoded><![CDATA[[vc_row equal_height="yes" woodmart_css_id="6306384f4abec" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MzA2Mzg0ZjRhYmVjIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" row_reverse_mobile="0" row_reverse_tablet="0" woodmart_disable_overflow="0" css=".vc_custom_1661352020018{margin-top: -30px !important;margin-right: -30px !important;margin-bottom: -30px !important;margin-left: -30px !important;}" woodmart_box_shadow="no" wd_z_index="no"][vc_column width="2/3" css=".vc_custom_1627982416578{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 15px !important;padding-left: 30px !important;}" woodmart_css_id="61090a45ae5b4" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTA5MGE0NWFlNWI0Iiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" parallax_scroll="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_sticky_column="false" mobile_reset_margin="no" tablet_reset_margin="no"][woodmart_title align="left" size="small" title="SEND US A MESSAGE"][woodmart_contact_form_7 form_id="6" woodmart_css_id="678fa208c9ff8" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NzhmYTIwOGM5ZmY4Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfY29udGFjdF9mb3JtXzciLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" css=".vc_custom_1737466380674{margin-bottom: 20px !important;}"][/vc_column][vc_column width="1/3" woodmart_css_id="6306386fadad9" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MzA2Mzg2ZmFkYWQ5Iiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" parallax_scroll="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_sticky_column="false" mobile_reset_margin="no" tablet_reset_margin="no" css=".vc_custom_1661352052695{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #333333 !important;}" wd_collapsible_content_switcher="no" wd_column_role_offcanvas_desktop="no" wd_column_role_offcanvas_tablet="no" wd_column_role_offcanvas_mobile="no" wd_column_role_content_desktop="no" wd_column_role_content_tablet="no" wd_column_role_content_mobile="no" woodmart_box_shadow="no" wd_z_index="no"][woodmart_title align="left" color="white" size="small" title="CONTACT INFORMATION"][woodmart_info_box image="187" rounding_size="" woodmart_color_scheme="light" image_alignment="left" img_size="30x30" woodmart_css_id="6329b7d753f87" svg_animation="no" info_box_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MzI5YjdkNzUzZjg3Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfaW5mb19ib3giLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_z_index="no"]50 East 52nd Street
+Brooklyn, NY 10022
+United States[/woodmart_info_box][woodmart_info_box image="188" rounding_size="" woodmart_color_scheme="light" image_alignment="left" img_size="30x30" woodmart_css_id="6329b7f26ab67" svg_animation="no" info_box_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MzI5YjdmMjZhYjY3Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfaW5mb19ib3giLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_z_index="no"]+1322224332
++1546232784[/woodmart_info_box][woodmart_info_box image="186" rounding_size="" woodmart_color_scheme="light" image_alignment="left" img_size="30x30" woodmart_css_id="6329b7f83a88e" svg_animation="no" info_box_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MzI5YjdmODNhODhlIiwic2hvcnRjb2RlIjoid29vZG1hcnRfaW5mb19ib3giLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_z_index="no"]<a href="#">info@google.com</a>
+<a href="#">support@google.com</a>[/woodmart_info_box][vc_separator color="custom" css=".vc_custom_1484144347493{margin-bottom: 30px !important;}" accent_color="rgba(255,255,255,0.15)"][woodmart_text_block text_color_scheme="light" woodmart_css_id="6109094bc8729" css=".vc_custom_1627982162772{margin-bottom: 20px !important;}" parallax_scroll="no" woodmart_inline="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]Do you have questions about how we can help your company? Send us an email and we’ll get in touch shortly.[/woodmart_text_block][social_buttons align="left" style="colored" size="small" color="dark"][/vc_column][/vc_row]]]></content:encoded>
+															<wp:post_id>211</wp:post_id>
+					<wp:post_date><![CDATA[2022-09-20 12:52:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-09-20 12:52:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-21 13:33:02]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-21 13:33:02]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[popup-with-contact-form]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1661352020018{margin-top: -30px !important;margin-right: -30px !important;margin-bottom: -30px !important;margin-left: -30px !important;}.vc_custom_1627982416578{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 15px !important;padding-left: 30px !important;}.vc_custom_1661352052695{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #333333 !important;}.vc_custom_1737466380674{margin-bottom: 20px !important;}.vc_custom_1484144347493{margin-bottom: 30px !important;}.vc_custom_1627982162772{margin-bottom: 20px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_post_custom_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[faqs]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories/faqs/faqs-2/</link>
+					<pubDate>Tue, 20 Sep 2022 15:17:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/faqs.jpg</guid>
+															<wp:post_id>247</wp:post_id>
+					<wp:post_date><![CDATA[2022-09-20 15:17:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-09-20 15:17:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-09-20 15:17:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-09-20 15:17:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[faqs-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>24</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories/wp-content/uploads/sites/5/2022/09/faqs.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/09/faqs.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,21 @@
+{
+    "1": {
+        "footer_content_type": "html_block",
+        "footer_html_block": "46",
+        "disable_footer": "1",
+        "footer-bar-bg": {
+            "color": "rgb(14,14,14)",
+            "url": "",
+            "id": "",
+            "image_size": "full",
+            "image_size_custom_width": "",
+            "image_size_custom_height": "",
+            "repeat": "",
+            "size": "",
+            "attachment": "",
+            "position": ""
+        },
+        "footer-style": "light",
+        "fields_to_save": "footer_content_type,footer_html_block,disable_footer,footer-bar-bg,footer-style"
+    }
+}

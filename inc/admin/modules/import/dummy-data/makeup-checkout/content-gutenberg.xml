@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>makup-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 23 Oct 2024 13:23:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/makeup-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Checkout form - Makeup]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/woodmart_layout/checkout-form-makeup/</link>
+					<pubDate>Mon, 28 Oct 2024 15:49:33 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/makeup-gutenberg/?post_type=woodmart_layout&#038;p=277</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-checkout-steps {"blockId":"470f698a-7cdb-4a69-819f-f097b862c83b","marginTop":"-20","marginBottom":"40"} /-->
+
+<!-- wp:wd/woo-notices {"blockId":"974393ac-5c55-4cf7-b2ce-8180885675b6","marginBottom":"30"} /-->
+
+<!-- wp:wd/container {"blockId":"6c8cd02f-afd1-45fe-867d-fc62706638b4","marginBottom":"40"} -->
+<div id="wd-6c8cd02f" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/woo-hook {"blockId":"b1de4a65-311f-452c-8d07-be6e31173ce1","hook":"woocommerce_before_checkout_form"} /-->
+
+<!-- wp:wd/ch-login-form {"blockId":"63d8bc6d-c51b-4a15-a16e-7e83e99bb030","formWidth":"","formBgColorCode":"#ffffff","formBorderType":"none"} /-->
+
+<!-- wp:wd/ch-coupon-form {"blockId":"81a383a6-ea07-45bb-a99c-80cbd72cf575","formWidth":"","formBgColorCode":"#ffffff","formBorderType":"none"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"af5be11a-96bd-409b-8674-95d77cb1db16","hook":"woocommerce_checkout_before_customer_details"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/ch-form {"blockId":"f658ee7d-e349-482f-ae04-9132388f2373"} -->
+<!-- wp:wd/row {"blockId":"4e352acb-ae5d-40ab-8992-5e5a4342e779"} -->
+<div id="wd-4e352acb" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"ebeab513-bd53-4934-ada0-68e76638d29c","bgColorCode":"#ffffff","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","adjacentCountTablet":2,"colWidthTablet":50,"paddingTopMobile":"20","paddingRightMobile":"20","paddingBottomMobile":"20","paddingLeftMobile":"20","paddingLockMobile":true} -->
+<div id="wd-ebeab513" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"7f288522-5439-40e6-9677-e0aec36e7849","content":"Billing Details","tpFontSize":"28","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 id="wd-7f288522" class="wp-block-wd-title title">Billing Details</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ch-billing-details {"blockId":"bd688060-b06f-4179-b3cf-7e6fb4363a59"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"2a45cd21-7c09-434e-b86c-69d9d5f50060","hook":"woocommerce_checkout_after_customer_details"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"2bd9e8ae-c0d2-41c4-9fb9-a1350a2233db","hook":"woocommerce_checkout_billing"} /-->
+
+<!-- wp:wd/title {"blockId":"bbcde47f-cc4f-4e3e-bfe6-5652a5387a40","content":"Additional Information","tpFontSize":"28","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 id="wd-bbcde47f" class="wp-block-wd-title title">Additional Information</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ch-shipping-details {"blockId":"a50f880f-ba0e-426e-9d92-0543f38eb74d"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"7be23546-04f6-4f79-9a2e-a23062723e74","hook":"woocommerce_checkout_shipping"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"9f98c182-c121-40f6-a5fc-7ed15f21f26a","blocksGap":0,"bgColorCode":"#ffffff","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","alignSelf":"start","adjacentCountTablet":2,"colWidthTablet":50,"paddingTopMobile":"20","paddingRightMobile":"20","paddingBottomMobile":"20","paddingLeftMobile":"20","paddingLockMobile":true} -->
+<div id="wd-9f98c182" class="wp-block-wd-column wd-align-s-start"><!-- wp:wd/title {"blockId":"9c908e8b-504b-44a7-bf7b-b7e94edf198d","content":"Your Order","tpFontSize":"28","marginBottom":"5","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 id="wd-9c908e8b" class="wp-block-wd-title title">Your Order</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/woo-hook {"blockId":"3f2dd7c4-f1ad-4531-af8e-e616eafa9f1e","hook":"woocommerce_checkout_before_order_review_heading"} /-->
+
+<!-- wp:wd/ch-order-review {"blockId":"0cb88dc5-bdda-45d5-8a2a-307f536e3e74","marginBottom":"10"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"bd9b497e-2947-4416-be66-726e412e3207","hook":"woocommerce_checkout_before_order_review"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"4137769a-7ec2-4848-b6fa-209c383c4030","hook":"woocommerce_checkout_order_review"} /-->
+
+<!-- wp:wd/woo-shipping-progress-bar {"blockId":"f12d2082-b35d-40f4-9433-2c2c87d1bf89","paddingLock":true,"marginBottom":"20","borderWidthLock":true} /-->
+
+<!-- wp:wd/ch-payment-methods {"blockId":"4d63f20c-84d2-42cf-b162-87dc696798b3","btnAlign":"stretch","descriptionBgColorCode":"#f9f9f9","termsConditionsColorCode":"#f9f9f9"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"eba097bc-4293-41a6-b282-af7da8fb2a54","hook":"woocommerce_checkout_after_order_review"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"ed25cd5f-7128-4459-879a-a619f6856316","hook":"woocommerce_after_checkout_form"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+<!-- /wp:wd/ch-form -->]]></content:encoded>
+															<wp:post_id>277</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:49:33]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:49:33]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-20 15:56:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-20 15:56:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-form-makeup]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_form]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:13:"checkout_form";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

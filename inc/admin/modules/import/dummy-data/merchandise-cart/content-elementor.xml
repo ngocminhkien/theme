@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>merchandise-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/merchandise-elementor</link>
+	<description></description>
+	<pubDate>Mon, 08 Dec 2025 13:36:26 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/merchandise-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Merchandise]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-elementor/woodmart_layout/cart-merchandise/</link>
+					<pubDate>Wed, 10 Dec 2025 12:41:13 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/merchandise-elementor/?post_type=woodmart_layout&#038;p=1635</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-el-page-title-builder-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/el-page-title-builder.min.css?ver=8.3.4" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-page-title-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/page-title.min.css?ver=8.3.4" type="text/css" media="all" /> 							
+																<link rel="stylesheet" id="wd-woo-mod-checkout-steps-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/woo-mod-checkout-steps.min.css?ver=8.3.4" type="text/css" media="all" /> 						<ul>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/cart/">
+						Shopping cart
+					</a>
+				</li>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/checkout/">
+						Checkout
+					</a>
+				</li>
+				<li>
+					Order complete
+				</li>
+			</ul>
+							<form action="https://dummy.xtemos.com/woodmart2/merchandise-elementor/cart/" method="post">
+				<table>
+					<thead>
+					<tr>
+						<th>&nbsp;</th>
+						<th>&nbsp;</th>
+						<th scope="col">Product</th>
+						<th scope="col">Price</th>
+						<th scope="col">Quantity</th>
+						<th scope="col">Subtotal</th>
+					</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/cart/?remove_item=5f0f5e5f33945135b874349cfbed4fb9&#038;_wpnonce=c1e21c46a4" aria-label="Remove Lord of The Rings Stickers from cart" data-product_id="745" data-product_sku="GM-ST-8">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/product/lord-of-the-rings-stickers/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/2025/12/lord-of-the-rings-stickers-300x300.jpeg" alt="Lord of The Rings Stickers" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/2025/12/lord-of-the-rings-stickers-300x300.jpeg 300w, https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/2025/12/lord-of-the-rings-stickers-150x150.jpeg 150w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/product/lord-of-the-rings-stickers/">Lord of The Rings Stickers</a>								</td>
+								<td data-title="Price">
+									<bdi>&#36;715.00</bdi>								</td>
+								<td data-title="Quantity">
+			<input type="button" value="-" aria-label="Decrease quantity" />
+	<label for="quantity_69396bc2e727e">Lord of The Rings Stickers quantity</label>
+	<input
+		type="number"
+				id="quantity_69396bc2e727e"
+		class="input-text qty text"
+		value="1"
+		aria-label="Product quantity"
+				min="0"
+				name="cart[5f0f5e5f33945135b874349cfbed4fb9][qty]"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			>
+			<input type="button" value="+" aria-label="Increase quantity" />
+								</td>
+								<td data-title="Subtotal">
+									<bdi>&#36;715.00</bdi>								</td>
+							</tr>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/cart/?remove_item=d027f1324599443b4a4f833f3140ec8f&#038;_wpnonce=c1e21c46a4" aria-label="Remove The Mandalorian Spectrum - S from cart" data-product_id="532" data-product_sku="GM-T-03S">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/product/the-mandalorian-spectrum/?attribute_pa_size=s"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/2025/12/the-mandalorian-spectrum-300x300.jpeg" alt="The Mandalorian Spectrum - S" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/2025/12/the-mandalorian-spectrum-300x300.jpeg 300w, https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/2025/12/the-mandalorian-spectrum-150x150.jpeg 150w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/product/the-mandalorian-spectrum/?attribute_pa_size=s">The Mandalorian Spectrum - S</a>								</td>
+								<td data-title="Price">
+									<bdi>&#36;25.00</bdi>								</td>
+								<td data-title="Quantity">
+			<input type="button" value="-" aria-label="Decrease quantity" />
+	<label for="quantity_69396bc2e7faa">The Mandalorian Spectrum - S quantity</label>
+	<input
+		type="number"
+				id="quantity_69396bc2e7faa"
+		class="input-text qty text"
+		value="1"
+		aria-label="Product quantity"
+				min="0"
+				name="cart[d027f1324599443b4a4f833f3140ec8f][qty]"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			>
+			<input type="button" value="+" aria-label="Increase quantity" />
+								</td>
+								<td data-title="Subtotal">
+									<bdi>&#36;25.00</bdi>								</td>
+							</tr>
+				<tr>
+					<td colspan="12">
+									<label for="coupon_code">
+										Coupon:									</label>
+									<input type="text" name="coupon_code" id="coupon_code" value="" placeholder="Coupon code" />
+									<button type="submit" name="apply_coupon" value="Apply coupon">
+										Apply coupon									</button>
+							<button type="submit" name="update_cart" value="Update cart">
+								Update cart							</button>
+							<input type="hidden" id="woocommerce-cart-nonce" name="woocommerce-cart-nonce" value="c1e21c46a4" /><input type="hidden" name="_wp_http_referer" value="/woodmart2/merchandise-elementor/wp-admin/admin-ajax.php" />						
+					</td>
+				</tr>
+								</tbody>
+			</table>
+					</form>
+	<h2>Cart totals</h2>
+	<table cellspacing="0">
+		<tr>
+			<th>Subtotal</th>
+			<td data-title="Subtotal"><bdi>&#36;740.00</bdi></td>
+		</tr>
+		<tr>
+			<th>Total</th>
+			<td data-title="Total"><strong><bdi>&#36;740.00</bdi></strong> </td>
+		</tr>
+	</table>
+<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/checkout/">
+	Proceed to checkout</a>]]></content:encoded>
+															<wp:post_id>1635</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-10 12:41:13]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-10 12:41:13]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-10 12:46:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-10 12:46:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-merchandise]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"727d182","elType":"container","settings":{"wd_section_stretch":"stretch","background_background":"classic","background_color":"#F8BD18","margin":{"unit":"px","top":"-40","right":"0","bottom":"40","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"ee480ab","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_page_title"}],"isInner":false},{"id":"6b7fe141","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"flex_gap":{"size":"40","column":"40","row":"30","unit":"px","isLinked":""},"structure":"22","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"flex_direction":"row","flex_direction_tablet":"column","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"666db535","elType":"container","settings":{"_column_size":"66","width":{"size":"66.6","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"f0d0ce0","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"63ef0e28","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_before_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"5412fa8","elType":"widget","settings":{"style":"default","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_shipping_progress_bar"},{"id":"6bb197fc","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_cart_table"}],"isInner":"1"},{"id":"2757792f","elType":"container","settings":{"_column_size":"33","width":{"size":"33.4","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","container_sticky_offset":"50","background_background":"classic","background_color":"#F5F5F5","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"_flex_align_self":"flex-start"},"elements":[{"id":"7d5ef8f7","elType":"widget","settings":{"button_alignment":"full-width","scroll_y":"-80","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":32,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":28,"sizes":[]},"title_typography_text_transform":"none"},"elements":[],"widgetType":"wd_cart_totals"},{"id":"f2e506b","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.3]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

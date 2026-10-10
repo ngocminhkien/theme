@@ -1,0 +1,47 @@
+{
+    "sidebar-shop": {
+        "widgets": {
+            "woocommerce_price_filter-3": {
+                "title": "Filter by price"
+            },
+            "woodmart-woocommerce-layered-nav-5": {
+                "title": "Filter by Filter by brand",
+                "attribute": "product_brand",
+                "category": [
+                    "all"
+                ],
+                "query_type": "and",
+                "display": "list",
+                "size": "normal",
+                "style": "inherit",
+                "shape": "inherit",
+                "labels": "on",
+                "tooltips": "off",
+                "checkboxes": "off",
+                "search_by_filters": ""
+            },
+            "woodmart-woocommerce-layered-nav-6": {
+                "title": "Color",
+                "attribute": "color",
+                "category": [
+                    "all"
+                ],
+                "query_type": "and",
+                "display": "list",
+                "size": "normal",
+                "style": "inherit",
+                "shape": "round",
+                "labels": "on",
+                "tooltips": "off",
+                "checkboxes": "off",
+                "search_by_filters": ""
+            },
+            "wd-widget-stock-status-3": {
+                "title": "Stock status",
+                "instock": "1",
+                "onsale": "1",
+                "onbackorder": "1"
+            }
+        }
+    }
+}

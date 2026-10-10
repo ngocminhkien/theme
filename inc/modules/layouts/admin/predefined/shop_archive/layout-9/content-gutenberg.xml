@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Megamarket gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Tue, 09 Jul 2024 08:31:10 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Products archive - Megamarket / Flooring]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/woodmart_layout/products-archive-megamarket-flooring/</link>
+					<pubDate>Mon, 12 Aug 2024 12:11:27 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/?post_type=woodmart_layout&#038;p=905</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-notices {"blockId":"bf31673f-1ba5-478e-8ff6-a601aeed0be1","marginTopMobile":"-20"} /-->
+
+<!-- wp:wd/container {"blockId":"baa364fe-f170-48df-beb6-0018d6810b21","direction":"row","justify":"space-between","align":"center","marginBottom":"60","marginBottomTablet":"30"} -->
+<div id="wd-baa364fe" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/sa-archive-title {"blockId":"daf755ac-1f32-47ab-8911-9c118a3ba87d","tpFontSize":"32","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"24"} /-->
+
+<!-- wp:wd/woo-breadcrumbs {"blockId":"769f5443-3ffe-4d96-ac0f-38547ccaa332"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sa-archive-description {"blockId":"110bd1c9-32a3-4b4c-a166-453524364ed9"} /-->
+
+<!-- wp:wd/product-categories {"blockId":"4f05b74f-4bdc-4697-83ea-3eeb14e8674f","data_source":"wc_query","number":"10","orderby":"id","ids":"","hide_empty":false,"categories_design":"alt","image_container_width":"128","columns":5,"img_size":"full","marginBottom":"90","columnsTablet":4,"marginBottomTablet":"30"} /-->
+
+<!-- wp:wd/title {"blockId":"52116dd7-50a1-4409-8447-d1a425774184","content":"Popular Brands","tpFontSize":"26","marginBottom":"10","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-52116dd7" class="wp-block-wd-title title">Popular Brands</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/brands {"blockId":"3b7905ce-c39e-4dce-aebd-48e64951bbca","hover":"alt","style":"grid","columns":6,"with_bg_color":true,"marginBottom":"50","slides_per_view":"6","sync_parent_id":"wd_ef5874d2","brandBgColorCode":"rgba(0,0,0,0)","columnsTablet":4,"columnsMobile":2,"marginBottomTablet":"30","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/title {"blockId":"445aa79e-a391-4f27-bd0a-a63649b78cd7","content":"Projects \u0026amp; Ideas​","tpFontSize":"26","marginBottom":"10","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-445aa79e" class="wp-block-wd-title title">Projects &amp; Ideas​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"063c558a-fa5a-49df-a751-0ecf5198192f"} -->
+<p id="wd-063c558a" class="wp-block-wd-paragraph">Get inspired and make your home a place where you can relax in any way. Our range of furniture and accessories will help.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/row {"blockId":"2c86ea5d-2001-415b-9ce7-aed9fe91a7c9","marginBottom":"80","columnsGapTablet":20,"marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-2c86ea5d" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"5141b947-1570-497a-bb08-c8bbefe9be18","adjacentCount":2} -->
+<div id="wd-5141b947" class="wp-block-wd-column"><!-- wp:wd/hotspots {"blockId":"0c6ce79d-9db8-4c58-a192-097d568fac01","image":{"id":918,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/08/hotspot-1.jpg"},"iconEffect":"sonar"} -->
+<div id="wd-0c6ce79d" class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-sonar wd-event-hover wd-show-static"><img class="wp-image-918" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/08/hotspot-1.jpg" alt="" /><!-- wp:wd/hotspot {"blockId":"2a3bd80c-cc26-4961-b9ac-c4b50a6b3d4c","positionX":47,"positionY":31,"type":"product"} -->
+<div id="wd-2a3bd80c" class="wp-block-wd-hotspot wd-spot"><div class="wd-spot-icon"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"1d70f81b-7c83-41e9-8f2b-636be967469f","productId":"89"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"1404ec9b-6643-4c12-b736-68134b9e22b9","positionX":54,"positionY":64,"type":"product","position":"left"} -->
+<div id="wd-1404ec9b" class="wp-block-wd-hotspot wd-spot"><div class="wd-spot-icon"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"a7a2af04-93c0-4144-b164-665cbf9cdcf8","productId":"85"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"d0a8a4e2-1f2b-463d-bc4a-3296f0ff619b","positionX":30,"positionY":86,"type":"product"} -->
+<div id="wd-d0a8a4e2" class="wp-block-wd-hotspot wd-spot"><div class="wd-spot-icon"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"e6f1f16f-1bea-4fda-8c89-1c6ae29ae35e","productId":"80"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c6b363b2-5cba-4bf0-a528-5b3e853535b6","adjacentCount":2} -->
+<div id="wd-c6b363b2" class="wp-block-wd-column"><!-- wp:wd/hotspots {"blockId":"ba07dc94-e657-4f7d-9ee7-91f2167dcba3","image":{"id":919,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/08/hotspot-2.jpg"},"iconEffect":"pulse"} -->
+<div id="wd-ba07dc94" class="wp-block-wd-hotspots wd-spots wd-icon-type-dot wd-effect-pulse wd-event-hover wd-show-static"><img class="wp-image-919" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/08/hotspot-2.jpg" alt="" /><!-- wp:wd/hotspot {"blockId":"72f48cdb-9dd8-46a4-bda2-d92da4d9f12f","positionX":42,"positionY":20,"type":"product"} -->
+<div id="wd-72f48cdb" class="wp-block-wd-hotspot wd-spot"><div class="wd-spot-icon"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-right"><!-- wp:wd/hotspot-product {"blockId":"5c077c0d-dbe9-4e42-85b9-d3b1f04e02f4","productId":"82"} /--></div></div>
+<!-- /wp:wd/hotspot -->
+
+<!-- wp:wd/hotspot {"blockId":"f1ca6c1e-71fd-49ce-ad33-6fb1634d939f","positionX":66,"positionY":82,"type":"product","position":"left"} -->
+<div id="wd-f1ca6c1e" class="wp-block-wd-hotspot wd-spot"><div class="wd-spot-icon"><span class="wd-spot-icon-bg"></span></div><div class="wd-spot-dropdown wd-dropdown wd-left"><!-- wp:wd/hotspot-product {"blockId":"936925bf-8188-463a-8112-0a717945709c","productId":"75"} /--></div></div>
+<!-- /wp:wd/hotspot --></div>
+<!-- /wp:wd/hotspots --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/products {"blockId":"27d60a2c-436e-499f-909a-2439e6d46117","show_title":true,"post_type":"recently_viewed","layout":"carousel","items_per_page":"6","product_hover":"small","img_size":"custom","imgSizeCustomWidth":"80","imgSizeCustomHeight":"80","products_bordered_grid":true,"grid_gallery":"no","marginBottom":"70","slides_per_view":"5","hide_pagination_control":true,"sync_parent_id":"wd_b3907966","marginBottomMobile":"40","slides_per_viewMobile":"1","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"8baef82c-5d71-4fbe-902e-e6d3a41644b9","content":"Recently Viewed Products","tpFontSize":"22","tpFontSizeTablet":"22"} -->
+<h2 id="wd-8baef82c" class="wp-block-wd-title title">Recently Viewed Products</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->
+
+<!-- wp:wd/section {"blockId":"42cabe0c-2292-426c-a5f0-98fad8c4251b","bgColorCode":"#f1f3f8","paddingTop":"60","paddingBottom":"40","marginBottom":"-40","paddingTopTablet":"40"} -->
+<div id="wd-42cabe0c" class="wp-block-wd-section"><!-- wp:wd/collapsible-content {"blockId":"9e336110-05e4-4df1-956c-ef53fc402d6e","contentHeight":"353","alignSelf":"center","displayWidth":"custom","customWidth":"1360"} -->
+<div id="wd-9e336110" class="wp-block-wd-collapsible-content wd-effect-fade wd-custom-width wd-align-s-center"><!-- wp:wd/container {"blockId":"cf2846ae-4bda-423c-a6d1-bd4f831e4a85","rowGap":"20","metadata":{"name":"Content"}} -->
+<div id="wd-cf2846ae" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"d9d2626a-5b94-4df1-bbef-202fda56a00a","content":"See our new featured collections​","tpFontSize":"32","tpFontVariant":"800","tpFontWeight":"800","colorVariable":"\u002d\u002dwd-primary-color","marginBottom":"10","tpFontSizeTablet":"26"} -->
+<h2 id="wd-d9d2626a" class="wp-block-wd-title title">See our new featured collections​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/title {"blockId":"f63f456a-28f4-47db-88fe-7ffa9d017264","content":"Online store of tiles and plumbing. Buy online. Here and now!","tpFontSize":"18"} -->
+<h2 id="wd-f63f456a" class="wp-block-wd-title title">Online store of tiles and plumbing. Buy online. Here and now!</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"0a060b29-f360-4676-89d8-43357ef00b1d","tpFontSize":"16"} -->
+<p id="wd-0a060b29" class="wp-block-wd-paragraph">I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"3e1b2e19-1e28-4d05-9db1-41d0d6d92fad","content":"Like these sweet mornings of spring which I enjoy with my whole heart.","tpFontSize":"18"} -->
+<h2 id="wd-3e1b2e19" class="wp-block-wd-title title">Like these sweet mornings of spring which I enjoy with my whole heart.</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"de005b3c-bcd0-4c66-836b-66b462ce22e4","tpFontSize":"16"} -->
+<p id="wd-de005b3c" class="wp-block-wd-paragraph">When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"7e02cf48-400f-4788-ba1a-be36fbb95a56","content":"A wonderful serenity has taken possession of my entire soul.","tpFontSize":"18"} -->
+<h2 id="wd-7e02cf48" class="wp-block-wd-title title">A wonderful serenity has taken possession of my entire soul.</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e2bd697c-bc3c-446a-adf6-0f1582d978ba","tpFontSize":"016"} -->
+<p id="wd-e2bd697c" class="wp-block-wd-paragraph">Authorities in our business will tell in no uncertain terms that Lorem Ipsum is that huge, huge no no to forswear forever. Not so fast, I'd say, there are some redeeming factors in favor of greeking text, as its use is merely the symptom of a worse problem to take into consideration.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"92cb4056-1646-472f-9c1a-9f1be3b64291","content":"Safe delivery, ensures the movement of goods in a short time.","tpFontSize":"18"} -->
+<h2 id="wd-92cb4056" class="wp-block-wd-title title">Safe delivery, ensures the movement of goods in a short time.</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"233e6751-e3ad-494d-a833-ce2dac0d2441","tpFontSize":"16"} -->
+<p id="wd-233e6751" class="wp-block-wd-paragraph">You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it, dummy copy, no less.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"6edf2cd6-aa56-46ed-97e9-a24923587c5f","design":"link","predefinedColor":"primary"} -->
+<a id="wd-6edf2cd6" class="wp-block-wd-button btn btn-style-link btn-color-primary btn-size-default" href="#"><span>Read more</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/collapsible-content --></div>
+<!-- /wp:wd/section -->]]></content:encoded>
+															<wp:post_id>905</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-12 12:11:27]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-12 12:11:27]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-11-18 13:51:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-11-18 13:51:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-megamarket-flooring]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:3:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:12:"product_term";s:15:"condition_query";s:3:"149";}i:1;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:12:"product_term";s:15:"condition_query";s:2:"31";}i:2;a:3:{s:20:"condition_comparison";s:7:"exclude";s:14:"condition_type";s:25:"filtered_product_term_any";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[hotspot-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/woodmart_layout/products-archive-megamarket-flooring/hotspot-1/</link>
+					<pubDate>Mon, 12 Aug 2024 12:57:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/08/hotspot-1.jpg</guid>
+															<wp:post_id>918</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-12 12:57:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-12 12:57:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-12 12:57:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-12 12:57:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[hotspot-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>905</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/08/hotspot-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/hotspot-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[hotspot-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/woodmart_layout/products-archive-megamarket-flooring/hotspot-2/</link>
+					<pubDate>Mon, 12 Aug 2024 12:57:30 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/08/hotspot-2.jpg</guid>
+															<wp:post_id>919</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-12 12:57:30]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-12 12:57:30]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-12 12:57:30]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-12 12:57:30]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[hotspot-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>905</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/08/hotspot-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/hotspot-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

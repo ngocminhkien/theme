@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>perfumes-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 15 Dec 2025 13:22:35 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Checkout form - Perfumes]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/woodmart_layout/checkout-form-perfumes/</link>
+					<pubDate>Wed, 18 Feb 2026 09:26:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?post_type=woodmart_layout&#038;p=363</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-page-title {"blockId":"32d9f10d-b0a6-42f6-a435-f5e16ad81545","blockVersion":"2","stretch":true,"marginTop":"-40"} /-->
+
+<!-- wp:wd/woo-notices {"blockId":"974393ac-5c55-4cf7-b2ce-8180885675b6","blockVersion":"2","marginBottom":"30"} /-->
+
+<!-- wp:wd/container {"blockId":"6c8cd02f-afd1-45fe-867d-fc62706638b4","blockVersion":"2","marginBottom":"40","displayWidth":"","customWidth":"","marginBottomTablet":"20"} -->
+<div class="wp-block-wd-container wd-dir-col wd-6c8cd02f"><!-- wp:wd/woo-hook {"blockId":"dba30bcd-4161-4bdd-be46-d2a239e89d0d","blockVersion":"2","hook":"woocommerce_before_checkout_form"} /-->
+
+<!-- wp:wd/ch-login-form {"blockId":"63d8bc6d-c51b-4a15-a16e-7e83e99bb030","blockVersion":"2","formWidth":""} /-->
+
+<!-- wp:wd/ch-coupon-form {"blockId":"81a383a6-ea07-45bb-a99c-80cbd72cf575","blockVersion":"2","formWidth":""} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"dbcb7351-ceef-4610-8280-9da441b6ba0b","blockVersion":"2","hook":"woocommerce_checkout_before_customer_details"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"ed9af3a2-aea4-4259-9ac1-e114998a73b4","blockVersion":"2","displayWidth":"","customWidth":""} -->
+<div class="wp-block-wd-container wd-dir-col wd-ed9af3a2"><!-- wp:wd/ch-form {"blockId":"f658ee7d-e349-482f-ae04-9132388f2373","blockVersion":"2"} -->
+<!-- wp:wd/row {"blockId":"4e352acb-ae5d-40ab-8992-5e5a4342e779","blockVersion":"2","columnsGap":60,"columnsGapTablet":30,"columnsGapMobile":null} -->
+<div class="wp-block-wd-row wd-4e352acb"><!-- wp:wd/column {"blockId":"ebeab513-bd53-4934-ada0-68e76638d29c","blockVersion":"2","marginTop":"30","adjacentCountTablet":2,"colWidthTablet":40,"marginTopMobile":"20","flexOrderMobile":"1"} -->
+<div class="wp-block-wd-column wd-ebeab513"><!-- wp:wd/title {"blockId":"7f288522-5439-40e6-9677-e0aec36e7849","blockVersion":"2","content":"Billing Details","tpFontSize":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-7f288522">Billing Details</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ch-billing-details {"blockId":"bd688060-b06f-4179-b3cf-7e6fb4363a59","blockVersion":"2"} /-->
+
+<!-- wp:wd/title {"blockId":"d30d1ac2-8f59-49cf-8c25-b9e7271c4dbf","blockVersion":"2","content":"Additional Information","tpFontSize":"28","marginBottom":"40","tpLineHeightUnits":"em","marginBottomTablet":"20"} -->
+<h2 class="wp-block-wd-title title wd-d30d1ac2">Additional Information</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ch-shipping-details {"blockId":"a50f880f-ba0e-426e-9d92-0543f38eb74d","blockVersion":"2"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"9f98c182-c121-40f6-a5fc-7ed15f21f26a","blockVersion":"2","blocksGap":10,"paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderType":"solid","borderColorCode":"#292724","borderWidth":"2","borderWidthTop":"2","borderWidthRight":"2","borderWidthBottom":"2","borderWidthLeft":"2","borderWidthLock":true,"alignSelf":"start","adjacentCountTablet":2,"colWidthTablet":60} -->
+<div class="wp-block-wd-column wd-9f98c182 wd-align-s-start"><!-- wp:wd/title {"blockId":"a589080a-d1bc-4842-a246-c72ba985aadd","blockVersion":"2","content":"Your Order","tpFontSize":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-a589080a">Your Order</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ch-order-review {"blockId":"0cb88dc5-bdda-45d5-8a2a-307f536e3e74","blockVersion":"2","bgColorCode":"#ffffff"} /-->
+
+<!-- wp:wd/ch-payment-methods {"blockId":"4d63f20c-84d2-42cf-b162-87dc696798b3","blockVersion":"2","btnAlign":"stretch","descriptionBgColorCode":"#f5f5f5","termsConditionsColorCode":"#f5f5f5"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+<!-- /wp:wd/ch-form --></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>363</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-18 09:26:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-18 09:26:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-03-12 13:04:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-03-12 13:04:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-form-perfumes]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_form]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:13:"checkout_form";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

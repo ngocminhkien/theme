@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Elementor 2.0 WoodMart dummy</title>
+	<link>https://dummy.xtemos.com/woodmart2/elementor</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Wed, 14 Jul 2021 12:07:27 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>116</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu-school]]></wp:term_slug><wp:term_name><![CDATA[Main menu School]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[scool-logo]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-logo/</link>
+					<pubDate>Mon, 08 Nov 2021 16:20:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-logo.svg</guid>
+															<wp:post_id>9347</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:20:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:20:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:20:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:20:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-logo]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-logo.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-logo.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-phone-call]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-phone-call/</link>
+					<pubDate>Mon, 08 Nov 2021 16:20:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-phone-call.svg</guid>
+															<wp:post_id>9348</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:20:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:20:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:20:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:20:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-phone-call]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-phone-call.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-phone-call.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-popup-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-popup-opt/</link>
+					<pubDate>Mon, 08 Nov 2021 16:22:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-popup-opt.jpg</guid>
+															<wp:post_id>9350</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:22:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:22:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:22:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:22:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-popup-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-popup-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-popup-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-page-title]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-page-title/</link>
+					<pubDate>Mon, 08 Nov 2021 16:23:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-page-title.jpg</guid>
+															<wp:post_id>9351</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:23:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:23:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:23:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:23:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-page-title]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-page-title.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-page-title.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-education-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-education-bg/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-bg.svg</guid>
+															<wp:post_id>9354</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:19]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:19]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:19]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-education-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-bg.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-education-bg.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-infobox-figure-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-infobox-figure-1/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-1.svg</guid>
+															<wp:post_id>9355</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-infobox-figure-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-infobox-figure-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-infobox-figure-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-infobox-figure-2/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-2.svg</guid>
+															<wp:post_id>9356</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-infobox-figure-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-2.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-infobox-figure-2.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-infobox-figure-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-infobox-figure-3/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-3.svg</guid>
+															<wp:post_id>9357</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-infobox-figure-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-3.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-infobox-figure-3.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-infobox-figure-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-infobox-figure-4/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-4.svg</guid>
+															<wp:post_id>9358</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-infobox-figure-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-4.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-infobox-figure-4.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-top-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-top-bg/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-top-bg.svg</guid>
+															<wp:post_id>9361</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-top-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-top-bg.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-top-bg.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-teatcher-bg-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-teatcher-bg-2/</link>
+					<pubDate>Mon, 08 Nov 2021 16:57:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-teatcher-bg-2.jpg</guid>
+															<wp:post_id>9405</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:57:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:57:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:57:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:57:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-teatcher-bg-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-teatcher-bg-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-teatcher-bg-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-bg-banner-row]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-bg-banner-row/</link>
+					<pubDate>Mon, 08 Nov 2021 17:03:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-bg-banner-row.jpg</guid>
+															<wp:post_id>9421</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:03:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:03:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:03:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:03:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-bg-banner-row]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-bg-banner-row.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-bg-banner-row.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-avatar-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-avatar-1/</link>
+					<pubDate>Mon, 08 Nov 2021 17:22:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1.jpg</guid>
+															<wp:post_id>9457</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:22:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:22:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:22:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:22:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-avatar-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-avatar-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool--avatar-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-avatar-2/</link>
+					<pubDate>Mon, 08 Nov 2021 17:22:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2.jpg</guid>
+															<wp:post_id>9458</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:22:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:22:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:22:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:22:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-avatar-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-avatar-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-avatar-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-avatar-3/</link>
+					<pubDate>Mon, 08 Nov 2021 17:22:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3.jpg</guid>
+															<wp:post_id>9459</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:22:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:22:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:22:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:22:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-avatar-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-avatar-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-teatcher-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-teatcher-bg/</link>
+					<pubDate>Mon, 08 Nov 2021 17:24:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-teatcher-bg.png</guid>
+															<wp:post_id>9460</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:24:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:24:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:24:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:24:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-teatcher-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-teatcher-bg.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-teatcher-bg.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Home School]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/</link>
+					<pubDate>Mon, 08 Nov 2021 16:17:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?page_id=9341</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=7.3.4" type="text/css" media="all" /> 					
+				<h4>We Teach to Be Active and Creative</h4> 
+						<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=7.3.4" type="text/css" media="all" /> 					
+			<p>Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always.</p>
+			<a  href="#">
+					VIEW MORE				
+							</a>
+								<img width="850" height="640" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1.jpg 850w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1-398x300.jpg 398w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1-768x578.jpg 768w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1-430x324.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1-700x527.jpg 700w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1-130x98.jpg 130w" sizes="(max-width: 850px) 100vw, 850px" />					
+					Our advantages				
+				<h4>Why choose our school?</h4> 
+						<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=7.3.4" type="text/css" media="all" /> 					
+																							<link rel="stylesheet" id="wd-banner-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-banner.min.css?ver=7.3.4" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-banner-hover-zoom-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-banner-hover-zoom.min.css?ver=7.3.4" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-banner-btn-hover-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-banner-btn-hover.min.css?ver=7.3.4" type="text/css" media="all" /> 					
+																					<img width="560" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-1.jpg 560w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-1-210x300.jpg 210w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-1-430x614.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-1-130x186.jpg 130w" sizes="(max-width: 560px) 100vw, 560px" />																		
+													<h4 data-elementor-setting-key="title">
+								Community							</h4>
+								<p>Even if your less into design and more content.</p>
+									<a href="#"></a>
+																					<img width="560" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-2.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-2.jpg 560w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-2-210x300.jpg 210w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-2-430x614.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-2-130x186.jpg 130w" sizes="(max-width: 560px) 100vw, 560px" />																		
+													<h4 data-elementor-setting-key="title">
+								Growth							</h4>
+								<p>But worse, what if the fish doesn't fit in can.</p>
+									<a href="#"></a>
+																					<img width="560" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-3.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-3.jpg 560w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-3-210x300.jpg 210w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-3-430x614.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-3-130x186.jpg 130w" sizes="(max-width: 560px) 100vw, 560px" />																		
+													<h4 data-elementor-setting-key="title">
+								Tenacity							</h4>
+								<p>A client that's unhappy for a reason is a problem.</p>
+									<a href="#"></a>
+																					<img width="560" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-4.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-4.jpg 560w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-4-210x300.jpg 210w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-4-430x614.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-4-130x186.jpg 130w" sizes="(max-width: 560px) 100vw, 560px" />																		
+													<h4 data-elementor-setting-key="title">
+								Curiosity							</h4>
+								<p>Process agreed upon or specified with the yet.</p>
+									<a href="#"></a>
+					<link rel="stylesheet" id="wd-swiper-arrows-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/lib-swiper-arrows.min.css?ver=7.3.4" type="text/css" media="all" /> 										
+					Taking care of your child				
+				<h4>Extensive knowledge base for a child</h4> 
+			<p>Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can different show text different.</p>
+			<a  href="#">
+					Apply now				
+							</a>
+																					<img width="380" height="500" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-1.jpg 380w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-1-228x300.jpg 228w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-1-130x171.jpg 130w" sizes="(max-width: 380px) 100vw, 380px" />																		
+													<h4 data-elementor-setting-key="title">
+								Preschool							</h4>
+								<p>For child 3-5 years.</p>
+									<a href="#"></a>
+																					<img width="380" height="500" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-2.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-2.jpg 380w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-2-228x300.jpg 228w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-2-130x171.jpg 130w" sizes="(max-width: 380px) 100vw, 380px" />																		
+													<h4 data-elementor-setting-key="title">
+								Preschool							</h4>
+								<p>For child 6-9 years.</p>
+									<a href="#"></a>
+																					<img width="380" height="500" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-3.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-3.jpg 380w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-3-228x300.jpg 228w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-3-130x171.jpg 130w" sizes="(max-width: 380px) 100vw, 380px" />																		
+													<h4 data-elementor-setting-key="title">
+								School							</h4>
+								<p>For child 10-13 years.</p>
+									<a href="#"></a>
+								<img width="785" height="524" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img.png 785w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img-400x267.png 400w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img-768x513.png 768w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img-430x287.png 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img-700x467.png 700w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img-130x87.png 130w" sizes="(max-width: 785px) 100vw, 785px" />					
+				<h4>A developed child is our mission</h4> 
+			<p>Websites in professional use templating systems. They will be drawn to it, fiercely. Do it the wrong way and draft copy can derail your design review commercial publishing platforms.</p>
+						<link rel="stylesheet" id="wd-list-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-list.min.css?ver=7.3.4" type="text/css" media="all" /> 					<ul>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-1.svg" title="scool-infobox-figure-1" width="24" height="24">					
+						15 Years of work					
+									</li>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-3.svg" title="scool-infobox-figure-3" width="24" height="24">					
+						10 Teachers					
+									</li>
+					</ul>
+					<ul>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-2.svg" title="scool-infobox-figure-2" width="24" height="24">					
+						Official education					
+									</li>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-4.svg" title="scool-infobox-figure-4" width="24" height="24">					
+						5 Classrooms					
+									</li>
+					</ul>
+								<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-lion.svg" title="scool-lion" width="3000" height="3000">					
+				<h4>You have a question?</h4> 
+					<p>A client that's unhappy for a reason is a problem</p>				
+<p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
+<form action="/woodmart2/elementor/wp-admin/admin-ajax.php#wpcf7-f9352-o1" method="post" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<input type="hidden" name="_wpcf7" value="9352" />
+<input type="hidden" name="_wpcf7_version" value="5.7.7" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f9352-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+	<p><input size="40" aria-required="true" aria-invalid="false" placeholder="Your name" value="" type="text" name="Your" />
+	</p>
+	<p><input size="40" aria-required="true" aria-invalid="false" placeholder="Your phone number" value="" type="text" name="Your" />
+	</p>
+	<p><input type="submit" value="Call me back" />
+	</p>
+</form>
+					Taking care of your child				
+				<h4>Our teachers</h4> 
+			<p>Authorities in our business will tell in no uncertain terms that Lorem Ipsum is that huge forever.</p>
+						<link rel="stylesheet" id="wd-social-icons-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-social-icons.min.css?ver=7.3.4" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-team-member-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-team-member.min.css?ver=7.3.4" type="text/css" media="all" /> 					
+						<img width="460" height="421" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1.jpg 460w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1-328x300.jpg 328w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1-430x394.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1-130x119.jpg 130w" sizes="(max-width: 460px) 100vw, 460px" />					
+									<h4>
+						Cameron Williamson					</h4>
+						Director of school					
+						<img width="460" height="421" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2.jpg 460w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2-328x300.jpg 328w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2-430x394.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2-130x119.jpg 130w" sizes="(max-width: 460px) 100vw, 460px" />					
+									<h4>
+						Kristin Watson					</h4>
+						Early development					
+						<img width="460" height="421" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3.jpg 460w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3-328x300.jpg 328w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3-430x394.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3-130x119.jpg 130w" sizes="(max-width: 460px) 100vw, 460px" />					
+									<h4>
+						Ronald Richards					</h4>
+						Programming teacher]]></content:encoded>
+															<wp:post_id>9341</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:17:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:17:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-12-22 12:20:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-12-22 12:20:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-school]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.16.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"4283941","elType":"container","settings":{"content_position":"middle","wd_section_stretch":"stretch","structure":"20","background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-top-bg.svg","id":9361,"alt":"","source":"library"},"background_repeat":"no-repeat","margin":{"unit":"px","top":"-40","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"80","right":"15","bottom":"80","left":"15","isLinked":false},"background_size_tablet":"initial","background_bg_width_tablet":{"unit":"px","size":0,"sizes":[]},"padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"80","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"15","bottom":"70","left":"15","isLinked":false},"reverse_order_mobile":"reverse-mobile","background_position":"top center","flex_direction":"row","flex_align_items":"center","flex_gap":{"size":30,"column":"30","row":"40","unit":"px"},"flex_direction_mobile":"column-reverse","scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"9aaa5f1","elType":"container","settings":{"_column_size":50,"width":{"size":58.3,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":50,"unit":"%"},"content_width":"full","container_sticky_offset":50},"elements":[{"id":"837904b","elType":"widget","settings":{"subtitle":"","title":"We Teach to Be Active and Creative","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":69,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":38,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":36,"sizes":[]},"title_typography_font_weight":"900","title_typography_line_height":{"unit":"px","size":79,"sizes":[]},"title_typography_line_height_tablet":{"unit":"px","size":48,"sizes":[]},"title_typography_line_height_mobile":{"unit":"px","size":36,"sizes":[]},"scroll_y":-80,"width_tablet":{"unit":"px","size":400,"sizes":[]}},"elements":[],"widgetType":"wd_title"},{"id":"1349441","elType":"widget","settings":{"text":"<p>Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always.<\/p>","width":{"unit":"px","size":607,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"scroll_y":-80,"width_tablet":{"unit":"px","size":400,"sizes":[]}},"elements":[],"widgetType":"wd_text_block"},{"id":"1ee9bf1","elType":"widget","settings":{"text":"VIEW MORE","color":"primary","size":"large","shape":"semi-round","align":"left","scroll_y":-80},"elements":[],"widgetType":"wd_button"}],"isInner":true},{"id":"9457d93","elType":"container","settings":{"_column_size":50,"width":{"size":41.7,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":50,"unit":"%"},"content_width":"full","container_sticky_offset":50},"elements":[{"id":"9fadde2","elType":"widget","settings":{"offset":"","anchor":"Home","scroll_y":-80,"_position":"absolute"},"elements":[],"widgetType":"woodmart_menu_anchor"},{"id":"25d4905","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-slider-img-1.jpg","id":9367,"alt":"","source":"library"},"_margin":{"unit":"px","top":"0","right":"-405","bottom":"0","left":"0","isLinked":false},"scroll_y":-80,"_margin_tablet":{"unit":"px","top":"0","right":"-250","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true}],"isInner":false},{"id":"d2a8d53","elType":"container","settings":{"wd_section_stretch":"stretch","background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-teatcher-bg-2.jpg","id":9405,"alt":"","source":"library"},"background_position":"center center","background_repeat":"no-repeat","padding":{"unit":"px","top":"40","right":"15","bottom":"110","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"80","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"15","bottom":"60","left":"15","isLinked":false},"flex_direction":"column","flex_gap":{"size":30,"column":"30","row":"30","unit":"px","isLinked":true},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"056d808","elType":"widget","settings":{"anchor":"Clasess","scroll_y":-80,"_position":"absolute"},"elements":[],"widgetType":"woodmart_menu_anchor"},{"id":"803daea","elType":"widget","settings":{"subtitle":"Our advantages","title":"Why choose our school?","after_title":"","color":"primary","size":"large","subtitle_style":"background","scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"3eb9229","elType":"widget","settings":{"content_repeater":[{"title":"Community","subtitle":"","_id":"63766e8","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-category-1.jpg","id":9395,"size":"","alt":"","source":"library"},"image_size":"full","content":"Even if your less into design and more content.","btn_text":"","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center"},{"title":"Growth","subtitle":"","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-category-2.jpg","id":9396,"size":"","alt":"","source":"library"},"image_size":"full","content":"But worse, what if the fish doesn't fit in can.","btn_text":"","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","_id":"ac92844"},{"title":"Tenacity","subtitle":"","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-category-3.jpg","id":9397,"size":"","alt":"","source":"library"},"image_size":"full","content":"A client that's unhappy for a reason is a problem.","btn_text":"","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","_id":"292c79e"},{"title":"Curiosity","subtitle":"","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-category-4.jpg","id":9398,"size":"","alt":"","source":"library"},"image_size":"full","content":"Process agreed upon or specified with the yet.","btn_text":"","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","_id":"eeb93c6"}],"hover":"zoom","woodmart_color_scheme":"light","title_size":"extra-large","slides_per_view":{"unit":"px","size":4,"sizes":[]},"slides_per_view_tablet":{"unit":"px","size":3,"sizes":[]},"slides_per_view_mobile":{"unit":"px","size":2,"sizes":[]},"hide_pagination_control":"yes","sync_parent_id":"wd_65857d002dacf","scroll_y":-80},"elements":[],"widgetType":"wd_banner_carousel"}],"isInner":false},{"id":"546bd07","elType":"container","settings":{"flex_gap":{"size":30,"column":"30","row":"40","unit":"px"},"content_position":"middle","wd_section_stretch":"stretch","structure":"20","background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-bg-banner-row.jpg","id":9421,"alt":"","source":"library"},"shape_divider_top":"wd_sweet_wave","shape_divider_bottom":"wd_sweet_wave","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"padding":{"unit":"px","top":"150","right":"15","bottom":"150","left":"15","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"110","right":"15","bottom":"110","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"90","right":"15","bottom":"90","left":"15","isLinked":false},"flex_direction":"row","flex_align_items":"center","flex_direction_mobile":"column","scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"0bbc170","elType":"container","settings":{"_column_size":50,"width":{"size":33.3,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"content_width":"full","width_tablet":{"unit":"%","size":"","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"container_sticky_offset":50},"elements":[{"id":"812125b","elType":"widget","settings":{"subtitle":"Taking care of your child","title":"Extensive knowledge base for a child","after_title":"","color":"primary","size":"large","align":"left","width":{"unit":"px","size":"","sizes":[]},"subtitle_style":"background","scroll_y":-80,"width_tablet":{"unit":"px","size":270,"sizes":[]},"width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_title"},{"id":"f99e92e","elType":"widget","settings":{"text":"<p>Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can different show text different.<\/p>","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"scroll_y":-80},"elements":[],"widgetType":"wd_text_block"},{"id":"8ff87fe","elType":"widget","settings":{"text":"Apply now","color":"primary","size":"large","shape":"semi-round","align":"left","scroll_y":-80},"elements":[],"widgetType":"wd_button"}],"isInner":true},{"id":"73c98e0","elType":"container","settings":{"_column_size":50,"width":{"size":66.7,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"content_width":"full","width_tablet":{"unit":"%","size":"","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"container_sticky_offset":50},"elements":[{"id":"b32d6a9","elType":"widget","settings":{"content_repeater":[{"title":"Preschool","subtitle":"","_id":"11d9bbe","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-banner-1.jpg","id":9412,"alt":"","source":"library"},"image_size":"full","content":"For child 3-5 years.","btn_text":"","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center"},{"title":"Preschool","subtitle":"","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-banner-2.jpg","id":9413,"alt":"","source":"library"},"image_size":"full","content":"For child 6-9 years.","btn_text":"","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","_id":"66826c3"},{"title":"School","subtitle":"","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-banner-3.jpg","id":9414,"alt":"","source":"library"},"image_size":"full","content":"For child 10-13 years.","btn_text":"","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","_id":"e41a721"}],"hover":"zoom","woodmart_color_scheme":"light","title_size":"extra-large","slides_per_view":{"unit":"px","size":2,"sizes":[]},"hide_pagination_control":"yes","scroll_y":-80,"sync_parent_id":"wd_65857d002dacf"},"elements":[],"widgetType":"wd_banner_carousel"}],"isInner":true}],"isInner":false},{"id":"081f03e","elType":"container","settings":{"flex_gap":{"size":30,"column":"30","row":"40","unit":"px"},"content_position":"middle","structure":"22","margin":{"unit":"px","top":"0","right":"0","bottom":"120","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"center","flex_direction_tablet":"row","scroll_y":-80,"container_sticky_offset":50,"flex_direction_mobile":"column"},"elements":[{"id":"2cd6bc3","elType":"container","settings":{"_column_size":66,"width":{"size":66.6,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":50,"unit":"%"},"content_width":"full","container_sticky_offset":50},"elements":[{"id":"ec80699","elType":"widget","settings":{"anchor":"About_Us","scroll_y":-80,"_position":"absolute"},"elements":[],"widgetType":"woodmart_menu_anchor"},{"id":"1f85dbb","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-education-img.png","id":9434,"alt":"","source":"library"},"scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true},{"id":"c876707","elType":"container","settings":{"_column_size":33,"width":{"size":43.4,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":50,"unit":"%"},"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"container_sticky_offset":50},"elements":[{"id":"6f989b7","elType":"widget","settings":{"subtitle":"","title":"A developed child is our mission","after_title":"","size":"large","align":"left","width":{"unit":"px","size":340,"sizes":[]},"subtitle_style":"background","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"638a718","elType":"widget","settings":{"text":"<p>Websites in professional use templating systems. They will be drawn to it, fiercely. Do it the wrong way and draft copy can derail your design review commercial publishing platforms.<\/p>","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"scroll_y":-80,"width_tablet":{"unit":"px","size":709,"sizes":[]}},"elements":[],"widgetType":"wd_text_block"},{"id":"59364aa","elType":"container","settings":{"flex_gap":{"size":30,"column":"30","row":"15","unit":"px"},"structure":"20","flex_direction":"row","content_width":"full","flex_direction_mobile":"column","scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"e17aa5a","elType":"widget","settings":{"list_items":[{"list_content":"15 Years of work","_id":"410a1d5","item_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-infobox-figure-1.svg","id":9355,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"24","height":"24"}},{"list_content":"10 Teachers","item_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-infobox-figure-3.svg","id":9357,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"24","height":"24"},"_id":"1998bd7"}],"list_type":"image","size":"medium","list_items_gap":{"unit":"px","size":30,"sizes":[]},"scroll_y":-80,"_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_list"},{"id":"d50d988","elType":"widget","settings":{"list_items":[{"list_content":"Official education","_id":"410a1d5","item_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-infobox-figure-2.svg","id":9356,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"24","height":"24"}},{"list_content":"5 Classrooms","item_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-infobox-figure-4.svg","id":9358,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"24","height":"24"},"_id":"1998bd7"}],"list_type":"image","size":"medium","list_items_gap":{"unit":"px","size":30,"sizes":[]},"scroll_y":-80,"_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_list"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"b4fb8f4","elType":"container","settings":{"flex_gap":{"size":30,"column":"30","row":"20","unit":"px"},"structure":"21","background_background":"classic","background_color":"#0099FF","padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"content_position":"middle","border_radius":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"70","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"center","padding_mobile":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"795eec0","elType":"container","settings":{"_column_size":33,"width":{"size":33.3,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"content_width":"full","width_tablet":{"unit":"%","size":"","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"container_sticky_offset":50},"elements":[{"id":"a048d0d","elType":"widget","settings":{"offset":200,"anchor":"Feedback","scroll_y":-80,"_position":"absolute"},"elements":[],"widgetType":"woodmart_menu_anchor"},{"id":"cccf342","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-lion.svg","id":9360,"alt":"","source":"library"},"scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true},{"id":"f97b652","elType":"container","settings":{"_column_size":66,"width":{"size":66.7,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"wd_color_scheme":"light","content_width":"full","width_tablet":{"unit":"%","size":58,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"container_sticky_offset":50},"elements":[{"id":"ecdacdb","elType":"widget","settings":{"subtitle":"","title":"You have a question?","after_title":"<p>A client that's unhappy for a reason is a problem<\/p>","color":"white","size":"large","align":"left","width":{"unit":"px","size":"","sizes":[]},"subtitle_style":"background","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":26,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"5143168","elType":"widget","settings":{"scroll_y":-80,"form_id":"9352","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"style":"wd-style-with-bg"},"elements":[],"widgetType":"wd_contact_form_7"}],"isInner":true}],"isInner":false},{"id":"b94fc24","elType":"container","settings":{"flex_gap":{"size":30,"column":"30","row":"40","unit":"px"},"content_position":"middle","wd_section_stretch":"stretch","structure":"20","background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-teatcher-bg.png","id":9460,"alt":"","source":"library"},"background_position":"center center","background_repeat":"no-repeat","padding":{"unit":"px","top":"120","right":"15","bottom":"70","left":"15","isLinked":false},"background_size_tablet":"initial","background_bg_width_tablet":{"unit":"px","size":0,"sizes":[]},"padding_tablet":{"unit":"px","top":"20","right":"15","bottom":"30","left":"15","isLinked":false},"flex_direction":"row","flex_align_items":"center","flex_direction_tablet":"column","scroll_y":-80,"padding_mobile":{"unit":"px","top":"0","right":"15","bottom":"30","left":"15","isLinked":false},"container_sticky_offset":50},"elements":[{"id":"6571ea8","elType":"container","settings":{"_column_size":50,"width":{"size":25,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":100,"unit":"%"},"content_width":"full","flex_gap":{"column":"10","row":"10","isLinked":true,"unit":"px","size":10},"container_sticky_offset":50},"elements":[{"id":"2aedd3e","elType":"widget","settings":{"anchor":"Teachers","scroll_y":-80,"_position":"absolute"},"elements":[],"widgetType":"woodmart_menu_anchor"},{"id":"7713b87","elType":"widget","settings":{"subtitle":"Taking care of your child","title":"Our teachers","after_title":"","size":"large","align":"left","width":{"unit":"px","size":340,"sizes":[]},"subtitle_style":"background","scroll_y":-80,"color":"primary"},"elements":[],"widgetType":"wd_title"},{"id":"50215e1","elType":"widget","settings":{"text":"<p>Authorities in our business will tell in no uncertain terms that Lorem Ipsum is that huge forever.<\/p>","scroll_y":-80,"width_tablet":{"unit":"px","size":407,"sizes":[]},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_text_block"}],"isInner":true},{"id":"102eda6","elType":"container","settings":{"_column_size":50,"width":{"size":75,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":100,"unit":"%"},"content_width":"full","flex_direction":"row","flex_gap":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30},"container_sticky_offset":50},"elements":[{"id":"dfd5ffc","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-avatar-1.jpg","id":9457,"alt":"","source":"library"},"image_size":"full","name":"Cameron Williamson","position":"Director of school","content":"","facebook":"","twitter":"","linkedin":"","skype":"","instagram":"","align":"center","scroll_y":-80,"_element_width":"initial","_element_custom_width":{"unit":"%","size":33.3,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_team_member"},{"id":"60718d1","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-avatar-2.jpg","id":9458,"alt":"","source":"library"},"image_size":"full","name":"Kristin Watson","position":"Early development","content":"","facebook":"","twitter":"","linkedin":"","skype":"","instagram":"","align":"center","scroll_y":-80,"_element_width":"initial","_element_custom_width":{"unit":"%","size":33.3,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_team_member"},{"id":"5ccda19","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-avatar-3.jpg","id":9459,"alt":"","source":"library"},"image_size":"full","name":"Ronald Richards","position":"Programming teacher","content":"","facebook":"","twitter":"","linkedin":"","skype":"","instagram":"","align":"center","scroll_y":-80,"_element_width":"initial","_element_custom_width":{"unit":"%","size":33.3,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_team_member"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:12:{s:8:"wd_title";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"general_content_section";a:3:{s:8:"subtitle";i:6;s:5:"title";i:6;s:11:"after_title";i:6;}}s:5:"style";a:3:{s:21:"general_style_section";a:4:{s:5:"align";i:5;s:5:"color";i:4;s:4:"size";i:5;s:5:"width";i:4;}s:19:"title_style_section";a:4:{s:27:"title_typography_typography";i:2;s:26:"title_typography_font_size";i:2;s:28:"title_typography_font_weight";i:1;s:28:"title_typography_line_height";i:1;}s:22:"subtitle_style_section";a:1:{s:14:"subtitle_style";i:5;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:13:"wd_text_block";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:4:"text";i:4;}}s:5:"style";a:1:{s:29:"style_general_content_section";a:1:{s:5:"width";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:9:"wd_button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:4:"text";i:2;}}s:5:"style";a:1:{s:21:"general_style_section";a:4:{s:5:"color";i:2;s:4:"size";i:2;s:5:"shape";i:2;s:5:"align";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:20;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:20;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:3;}}s:5:"style";a:1:{s:14:"wd_extra_style";a:1:{s:15:"wd_color_scheme";i:1;}}}}s:20:"woodmart_menu_anchor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:15:"content_section";a:2:{s:6:"offset";i:2;s:6:"anchor";i:5;}}}}s:15:"wd_image_or_svg";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:5:"image";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:9;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:6:"layout";a:3:{s:14:"section_layout";a:2:{s:16:"content_position";i:5;s:3:"gap";i:7;}s:15:"wd_extra_layout";a:1:{s:18:"wd_section_stretch";i:4;}s:17:"section_structure";a:1:{s:9:"structure";i:8;}}s:5:"style";a:3:{s:18:"section_background";a:5:{s:21:"background_background";i:5;s:16:"background_image";i:4;s:17:"background_repeat";i:3;s:19:"background_position";i:3;s:16:"background_color";i:1;}s:21:"section_shape_divider";a:2:{s:17:"shape_divider_top";i:1;s:20:"shape_divider_bottom";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:6:"margin";i:4;s:7:"padding";i:5;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:9:"wd_banner";a:3:{s:5:"count";i:4;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:2:{s:21:"image_content_section";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}s:15:"content_section";a:4:{s:8:"subtitle";i:4;s:5:"title";i:4;s:7:"content";i:4;s:8:"btn_text";i:4;}}s:5:"style";a:2:{s:21:"general_style_section";a:3:{s:5:"hover";i:4;s:21:"woodmart_color_scheme";i:4;s:10:"title_size";i:4;}s:20:"layout_style_section";a:3:{s:20:"horizontal_alignment";i:4;s:18:"vertical_alignment";i:4;s:14:"text_alignment";i:4;}}}}s:18:"wd_banner_carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:16:"content_repeater";i:1;}}s:5:"style";a:2:{s:21:"general_style_section";a:3:{s:5:"hover";i:1;s:21:"woodmart_color_scheme";i:1;s:10:"title_size";i:1;}s:22:"carousel_style_section";a:2:{s:15:"slides_per_view";i:1;s:23:"hide_pagination_control";i:1;}}}}s:7:"wd_list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:2:{s:23:"general_content_section";a:1:{s:10:"list_items";i:2;}s:20:"icon_content_section";a:1:{s:9:"list_type";i:2;}}s:5:"style";a:1:{s:21:"general_style_section";a:2:{s:4:"size";i:2;s:14:"list_items_gap";i:2;}}}}s:17:"wd_contact_form_7";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:23:"general_content_section";a:2:{s:7:"form_id";i:1;s:5:"style";i:1;}}}}s:14:"wd_team_member";a:3:{s:5:"count";i:3;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:2:{s:23:"general_content_section";a:5:{s:5:"image";i:3;s:10:"image_size";i:3;s:4:"name";i:3;s:8:"position";i:3;s:7:"content";i:3;}s:21:"links_content_section";a:5:{s:8:"facebook";i:3;s:7:"twitter";i:3;s:8:"linkedin";i:3;s:5:"skype";i:3;s:9:"instagram";i:3;}}s:5:"style";a:1:{s:21:"general_style_section";a:1:{s:5:"align";i:3;}}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-logo]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-logo/</link>
+					<pubDate>Mon, 08 Nov 2021 16:20:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-logo.svg</guid>
+															<wp:post_id>9347</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:20:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:20:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:20:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:20:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-logo]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-logo.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-logo.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-infobox-figure-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-infobox-figure-1/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-1.svg</guid>
+															<wp:post_id>9355</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-infobox-figure-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-infobox-figure-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-infobox-figure-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-infobox-figure-2/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-2.svg</guid>
+															<wp:post_id>9356</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-infobox-figure-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-2.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-infobox-figure-2.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-infobox-figure-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-infobox-figure-3/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-3.svg</guid>
+															<wp:post_id>9357</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-infobox-figure-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-3.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-infobox-figure-3.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-infobox-figure-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-infobox-figure-4/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-4.svg</guid>
+															<wp:post_id>9358</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-infobox-figure-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-infobox-figure-4.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-infobox-figure-4.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-lion]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-lion/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-lion.svg</guid>
+															<wp:post_id>9360</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-lion]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-lion.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-lion.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-top-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-top-bg/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-top-bg.svg</guid>
+															<wp:post_id>9361</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-top-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-top-bg.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-top-bg.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-slider-img-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-slider-img-1/</link>
+					<pubDate>Mon, 08 Nov 2021 16:33:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1.jpg</guid>
+															<wp:post_id>9367</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:33:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:33:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:33:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:33:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-slider-img-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-slider-img-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-slider-img-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-category-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-category-1/</link>
+					<pubDate>Mon, 08 Nov 2021 16:54:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-1.jpg</guid>
+															<wp:post_id>9395</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:54:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:54:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:54:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:54:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-category-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-category-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-category-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-category-2/</link>
+					<pubDate>Mon, 08 Nov 2021 16:54:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-2.jpg</guid>
+															<wp:post_id>9396</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:54:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:54:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:54:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:54:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-category-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-category-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-category-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-category-3/</link>
+					<pubDate>Mon, 08 Nov 2021 16:54:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-3.jpg</guid>
+															<wp:post_id>9397</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:54:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:54:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:54:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:54:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-category-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-category-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-category-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-category-4/</link>
+					<pubDate>Mon, 08 Nov 2021 16:54:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-4.jpg</guid>
+															<wp:post_id>9398</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:54:14]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:54:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:54:14]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:54:14]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-category-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-category-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-category-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-teatcher-bg-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-teatcher-bg-2/</link>
+					<pubDate>Mon, 08 Nov 2021 16:57:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-teatcher-bg-2.jpg</guid>
+															<wp:post_id>9405</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:57:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:57:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:57:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:57:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-teatcher-bg-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-teatcher-bg-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-teatcher-bg-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-banner-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-banner-1/</link>
+					<pubDate>Mon, 08 Nov 2021 17:00:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-1.jpg</guid>
+															<wp:post_id>9412</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:00:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:00:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:00:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:00:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-banner-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-banner-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-banner-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-banner-2/</link>
+					<pubDate>Mon, 08 Nov 2021 17:00:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-2.jpg</guid>
+															<wp:post_id>9413</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:00:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:00:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:00:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:00:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-banner-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-banner-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-banner-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-banner-3/</link>
+					<pubDate>Mon, 08 Nov 2021 17:00:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-3.jpg</guid>
+															<wp:post_id>9414</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:00:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:00:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:00:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:00:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-banner-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-banner-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-banner-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-bg-banner-row]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-bg-banner-row/</link>
+					<pubDate>Mon, 08 Nov 2021 17:03:21 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-bg-banner-row.jpg</guid>
+															<wp:post_id>9421</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:03:21]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:03:21]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:03:21]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:03:21]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-bg-banner-row]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-bg-banner-row.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-bg-banner-row.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-education-img]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-education-img/</link>
+					<pubDate>Mon, 08 Nov 2021 17:07:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img.png</guid>
+															<wp:post_id>9434</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:07:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:07:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:07:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:07:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-education-img]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-education-img.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-education-img.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-teatcher-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-teatcher-bg/</link>
+					<pubDate>Mon, 08 Nov 2021 17:24:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-teatcher-bg.png</guid>
+															<wp:post_id>9460</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:24:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:24:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:24:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:24:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-teatcher-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-teatcher-bg.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-teatcher-bg.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact form School]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/?post_type=wpcf7_contact_form&#038;p=9352</link>
+					<pubDate>Mon, 08 Nov 2021 16:26:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=wpcf7_contact_form&#038;p=9352</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* First name placeholder ="Your name"]</div>
+<div class="wd-col">[text* Your phone number placeholder ="Your phone number"]</div>
+<div class="wd-col">[submit class:btn class:btn-color-white"Call me back"]</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
+															<wp:post_id>9352</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:26:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:26:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-24 14:15:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-24 14:15:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-scool]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* First name placeholder ="Your name"]</div>
+<div class="wd-col">[text* Your phone number placeholder ="Your phone number"]</div>
+<div class="wd-col">[submit class:btn class:btn-color-white"Call me back"]</div>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:149:"From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[61d1d8462a7c6fd10638ab37450c0e49670018ba]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}s:23:"mail.additional_headers";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:51:"Invalid mailbox syntax is used in the %name% field.";s:6:"params";a:1:{s:4:"name";s:8:"Reply-To";}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-contact-us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-contact-us/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:18 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-contact-us.svg</guid>
+															<wp:post_id>9353</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:18]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:18]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:18]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:18]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-contact-us]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-contact-us.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-contact-us.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-links]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-links/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-links.svg</guid>
+															<wp:post_id>9359</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-links]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-links.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-links.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-where-we-are]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/scool-where-we-are/</link>
+					<pubDate>Mon, 08 Nov 2021 16:27:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-where-we-are.svg</guid>
+															<wp:post_id>9362</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 16:27:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 16:27:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 16:27:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 16:27:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-where-we-are]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-where-we-are.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-where-we-are.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-avatar-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-avatar-1/</link>
+					<pubDate>Mon, 08 Nov 2021 17:22:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1.jpg</guid>
+															<wp:post_id>9457</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:22:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:22:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:22:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:22:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-avatar-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-avatar-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool--avatar-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-avatar-2/</link>
+					<pubDate>Mon, 08 Nov 2021 17:22:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2.jpg</guid>
+															<wp:post_id>9458</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:22:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:22:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:22:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:22:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-avatar-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-avatar-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[scool-avatar-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-school/scool-avatar-3/</link>
+					<pubDate>Mon, 08 Nov 2021 17:22:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3.jpg</guid>
+															<wp:post_id>9459</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:22:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:22:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-08 17:22:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-08 17:22:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[scool-avatar-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9341</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/scool-avatar-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/scool-avatar-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Footer School]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/?cms_block=footer-scool</link>
+					<pubDate>Mon, 08 Nov 2021 17:26:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=cms_block&#038;p=9467</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+																							<link rel="stylesheet" id="wd-info-box-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+															<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none"><rect x="8" y="8" width="48" height="48" rx="24" fill="white"></rect><rect opacity="0.5" x="1" y="1" width="62" height="62" rx="31" stroke="white" stroke-linecap="round" stroke-dasharray="5 5"></rect><g clip-path="url(#clip0)"><path d="M38.316 26.0518L26.316 22.0518C26.008 21.9478 25.674 21.9998 25.416 22.1878C25.154 22.3758 25 22.6778 25 22.9998V40.9998C25 41.4298 25.276 41.8118 25.684 41.9498L37.684 45.9498C37.788 45.9818 37.894 45.9998 38 45.9998C38.208 45.9998 38.412 45.9358 38.584 45.8098C38.846 45.6218 39 45.3218 39 44.9998V26.9998C39 26.5698 38.724 26.1878 38.316 26.0518Z" fill="#42A5F5"></path><path d="M26 22.0161C25.862 22.0161 25.724 22.0281 25.594 22.0841L16.594 26.0841C16.232 26.2481 16 26.6041 16 27.0001V45.0001C16 45.3381 16.17 45.6541 16.456 45.8381C16.62 45.9461 16.81 46.0001 17 46.0001C17.138 46.0001 17.276 45.9701 17.406 45.9141L26 42.0941V22.0161Z" fill="#64B5F6"></path><path d="M47.544 22.162C47.258 21.978 46.904 21.948 46.592 22.086L38 25.906V46C38.138 46 38.276 45.97 38.406 45.914L47.406 41.914C47.768 41.754 48 41.394 48 41V23C48 22.662 47.828 22.346 47.544 22.162Z" fill="#2196F3"></path><path d="M41 14C37.14 14 34 17.14 34 21C34 24.592 39.616 30.954 40.256 31.668C40.446 31.878 40.716 32 41 32C41.284 32 41.554 31.878 41.744 31.668C42.384 30.954 48 24.592 48 21C48 17.14 44.86 14 41 14Z" fill="#FFC107"></path><path d="M41 24C42.6569 24 44 22.6569 44 21C44 19.3431 42.6569 18 41 18C39.3431 18 38 19.3431 38 21C38 22.6569 39.3431 24 41 24Z" fill="#FAFAFA"></path></g><defs><clipPath id="svg-1918"><rect width="32" height="32" fill="white" transform="translate(16 14)"></rect></clipPath></defs></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								WHERE WE ARE						</h4>
+					<p>6391 Elgin St. Celina, Delaware</p>
+									<a href="#" aria-label="Infobox link"></a>
+															<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none"><rect x="8" y="8" width="48" height="48" rx="24" fill="white"></rect><rect opacity="0.5" x="1" y="1" width="62" height="62" rx="31" stroke="white" stroke-linecap="round" stroke-dasharray="5 5"></rect><g clip-path="url(#clip0)"><path d="M48 25.6533V39.6667C48 41.32 46.6533 42.6667 45 42.6667H19C17.3467 42.6667 16 41.32 16 39.6667V25.6533L30.76 33.36C31.5333 33.76 32.4667 33.76 33.24 33.36L48 25.6533Z" fill="#64B5F6"></path><path d="M48 24.3335V25.6535L33.24 33.3602C32.4667 33.7602 31.5333 33.7602 30.76 33.3602L16 25.6535V24.3335C16 22.6802 17.3467 21.3335 19 21.3335H45C46.6533 21.3335 48 22.6802 48 24.3335Z" fill="#2196F3"></path></g><defs><clipPath id="svg-2612"><rect width="32" height="32" fill="white" transform="translate(16 16)"></rect></clipPath></defs></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								CONTACT WITH US						</h4>
+					<p><a href="mailto:xtemos@gmail.com">xtemos@gmail.com</a><br /><a href="tel:4805550120">(480) 555-0120</a></p>
+									<a href="#" aria-label="Infobox link"></a>
+															<svg id="svg-8781" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none"><rect x="8" y="8" width="48" height="48" rx="24" fill="white"></rect><rect opacity="0.5" x="1" y="1" width="62" height="62" rx="31" stroke="white" stroke-linecap="round" stroke-dasharray="5 5"></rect><path d="M39 22H21C18.794 22 17 23.794 17 26V38C17 40.206 18.794 42 21 42V47C21 47.39 21.228 47.746 21.582 47.908C21.716 47.97 21.858 48 22 48C22.234 48 22.466 47.918 22.65 47.76L29.37 42H39C41.206 42 43 40.206 43 38V26C43 23.794 41.206 22 39 22Z" fill="#2196F3"></path><path d="M39 22H31.202C31.07 22.646 31 23.314 31 24C31 29.522 35.478 34 41 34C41.686 34 42.354 33.93 43 33.798V26C43 23.794 41.206 22 39 22Z" fill="#FAFAFA"></path><path d="M41 32C45.4183 32 49 28.4183 49 24C49 19.5817 45.4183 16 41 16C36.5817 16 33 19.5817 33 24C33 28.4183 36.5817 32 41 32Z" fill="#FFC107"></path><path d="M41 28C40.448 28 40 27.552 40 27V21C40 20.448 40.448 20 41 20C41.552 20 42 20.448 42 21V27C42 27.552 41.552 28 41 28Z" fill="#FAFAFA"></path><path d="M44 25H38C37.448 25 37 24.552 37 24C37 23.448 37.448 23 38 23H44C44.552 23 45 23.448 45 24C45 24.552 44.552 25 44 25Z" fill="#FAFAFA"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								SOCIAL LINKS						</h4>
+					<p><a href="#">Facebook</a><br /><a href="#">Twitter</a></p>
+									<a href="#" aria-label="Infobox link"></a>
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		
+						<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+			<p><a href="#"><strong>WOODMART</strong></a> Created By <a href="#"><strong>XTEMOS STUDIO</strong></a></p>]]></content:encoded>
+															<wp:post_id>9467</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-08 17:26:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-08 17:26:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-03-01 15:50:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-03-01 15:50:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[footer-scool]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.19.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"5015e56","elType":"container","settings":{"wd_section_stretch":"stretch","shape_divider_top":"wd_sweet_wave","padding":{"unit":"px","top":"150","right":"15","bottom":"60","left":"15","isLinked":false},"flex_direction":"column","flex_gap":{"size":null,"column":"","row":"","unit":"px","isLinked":true},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"d92983d","elType":"widget","settings":{"content_repeater":[{"title":"WHERE WE ARE","subtitle":"","_id":"ff7a84c","icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-where-we-are.svg","id":9362,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"64","height":"64"},"content":"<p>6391 Elgin St. Celina, Delaware<\/p>","btn_text":""},{"title":"CONTACT WITH US","subtitle":"","icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-contact-us.svg","id":9353,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"64","height":"64"},"content":"<p><a href=\"mailto:xtemos@gmail.com\">xtemos@gmail.com<\/a><br \/><a href=\"tel:4805550120\">(480) 555-0120<\/a><\/p>","btn_text":"","_id":"8dc1810"},{"title":"SOCIAL LINKS","subtitle":"","icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/scool-links.svg","id":9359,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"64","height":"64"},"content":"<p><a href=\"#\">Facebook<\/a><br \/><a href=\"#\">Twitter<\/a><\/p>","btn_text":"","_id":"5b11748"}],"woodmart_color_scheme":"light","hide_pagination_control":"yes","hide_prev_next_buttons":"yes","scroll_y":-80,"sync_parent_id":"wd_65e1f9442e2d5"},"elements":[],"widgetType":"wd_infobox_carousel"}],"isInner":false},{"id":"6d497f6","elType":"container","settings":{"flex_direction":"column","flex_gap":{"size":null,"column":"","row":"","unit":"px","isLinked":true},"scroll_y":-80,"padding":{"unit":"px","top":"0","right":"0","bottom":"35","left":"0","isLinked":false},"container_sticky_offset":50},"elements":[{"id":"47d0b6a","elType":"widget","settings":{"text":"Divider","color":"#FFFFFF4D","scroll_y":-80},"elements":[],"widgetType":"divider"},{"id":"3f0c340","elType":"widget","settings":{"text":"<p><a href=\"#\"><strong>WOODMART<\/strong><\/a> Created By <a href=\"#\"><strong><span style=\"color: #cd3e3e;\">X<\/span>TEMOS STUDIO<\/strong><\/a><\/p>","text_color_scheme":"light","text_alignment":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:5:{s:19:"wd_infobox_carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:16:"content_repeater";i:1;}}s:5:"style";a:2:{s:21:"general_style_section";a:1:{s:21:"woodmart_color_scheme";i:1;}s:22:"carousel_style_section";a:2:{s:23:"hide_pagination_control";i:1;s:22:"hide_prev_next_buttons";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:15:"wd_extra_layout";a:1:{s:18:"wd_section_stretch";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:1:{s:21:"background_background";i:1;}s:21:"section_shape_divider";a:1:{s:17:"shape_divider_top";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:5:"color";i:1;s:3:"gap";i:1;}}}}s:13:"wd_text_block";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:4:"text";i:1;}}s:5:"style";a:2:{s:29:"style_general_content_section";a:2:{s:17:"text_color_scheme";i:1;s:14:"text_alignment";i:1;}s:31:"style_paragraph_content_section";a:2:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;}}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Home]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/home-4/</link>
+					<pubDate>Tue, 09 Nov 2021 10:44:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9598</guid>
+															<wp:post_id>9598</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 10:44:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 10:44:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 10:44:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 10:44:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-4]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="main-menu-school"><![CDATA[Main menu School]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9598]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/elementor/#Home]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Clasess]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/clasess/</link>
+					<pubDate>Tue, 09 Nov 2021 10:44:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9599</guid>
+															<wp:post_id>9599</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 10:44:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 10:44:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 10:44:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 10:44:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[clasess]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="main-menu-school"><![CDATA[Main menu School]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9599]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/elementor/#Clasess]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[About Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/about-us-7/</link>
+					<pubDate>Tue, 09 Nov 2021 10:44:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9600</guid>
+															<wp:post_id>9600</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 10:44:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 10:44:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 10:44:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 10:44:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us-7]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="main-menu-school"><![CDATA[Main menu School]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9600]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/elementor/#About_Us]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Feedback]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/feedback/</link>
+					<pubDate>Tue, 09 Nov 2021 10:44:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9601</guid>
+															<wp:post_id>9601</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 10:44:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 10:44:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 10:44:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 10:44:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[feedback]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>4</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="main-menu-school"><![CDATA[Main menu School]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9601]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/elementor/#Feedback]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Teachers]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/teachers/</link>
+					<pubDate>Tue, 09 Nov 2021 10:44:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9602</guid>
+															<wp:post_id>9602</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 10:44:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 10:44:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 10:44:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 10:44:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[teachers]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>5</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="main-menu-school"><![CDATA[Main menu School]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9602]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[http://dummy.xtemos.com/woodmart2/elementor/#Teachers]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_opanchor]]></wp:meta_key>
+							<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

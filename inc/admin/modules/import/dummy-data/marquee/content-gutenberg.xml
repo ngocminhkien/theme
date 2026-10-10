@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Gutenberg base</title>
+	<link>https://dummy.xtemos.com/woodmart2/gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 21 Mar 2024 10:35:12 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[brand-flos]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/brand-flos-2/</link>
+					<pubDate>Mon, 19 Jul 2021 08:26:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-flos.png</guid>
+															<wp:post_id>720</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-19 08:26:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-19 08:26:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-04-16 13:18:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-04-16 13:18:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[brand-flos-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-flos.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/brand-flos.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[brand-hay]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/brand-hay-2/</link>
+					<pubDate>Mon, 19 Jul 2021 08:26:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-hay.png</guid>
+															<wp:post_id>721</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-19 08:26:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-19 08:26:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-04-16 13:18:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-04-16 13:18:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[brand-hay-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-hay.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/brand-hay.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[brand-Joseph-Joseph]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/brand-joseph-joseph-2/</link>
+					<pubDate>Mon, 19 Jul 2021 08:26:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-Joseph-Joseph.png</guid>
+															<wp:post_id>722</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-19 08:26:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-19 08:26:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-04-16 13:18:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-04-16 13:18:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[brand-joseph-joseph-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-Joseph-Joseph.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/brand-Joseph-Joseph.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[brand-klober]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/brand-klober-2/</link>
+					<pubDate>Mon, 19 Jul 2021 08:26:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-klober.png</guid>
+															<wp:post_id>723</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-19 08:26:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-19 08:26:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-04-16 13:18:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-04-16 13:18:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[brand-klober-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-klober.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/brand-klober.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[brand-Magisso]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/brand-magisso-2/</link>
+					<pubDate>Mon, 19 Jul 2021 08:27:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-Magisso.png</guid>
+															<wp:post_id>725</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-19 08:27:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-19 08:27:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-04-16 13:18:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-04-16 13:18:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[brand-magisso-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-Magisso.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/brand-Magisso.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[brand-witra]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/brand-witra/</link>
+					<pubDate>Mon, 19 Jul 2021 08:30:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-witra.png</guid>
+															<wp:post_id>727</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-19 08:30:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-19 08:30:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-04-16 13:18:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-04-16 13:18:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[brand-witra]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-witra.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/brand-witra.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[black-friday-online-payment]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/black-friday-online-payment/</link>
+					<pubDate>Fri, 07 Jun 2024 12:48:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-online-payment.svg</guid>
+															<wp:post_id>14659</wp:post_id>
+					<wp:post_date><![CDATA[2024-06-07 12:48:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-06-07 12:48:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-06-07 12:48:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-06-07 12:48:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[black-friday-online-payment]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-online-payment.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/06/black-friday-online-payment.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[black-friday-return]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/black-friday-return/</link>
+					<pubDate>Fri, 07 Jun 2024 12:48:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-return.svg</guid>
+															<wp:post_id>14660</wp:post_id>
+					<wp:post_date><![CDATA[2024-06-07 12:48:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-06-07 12:48:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-06-07 12:48:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-06-07 12:48:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[black-friday-return]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-return.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/06/black-friday-return.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[black-friday-shipping]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/black-friday-shipping/</link>
+					<pubDate>Fri, 07 Jun 2024 12:48:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-shipping.svg</guid>
+															<wp:post_id>14662</wp:post_id>
+					<wp:post_date><![CDATA[2024-06-07 12:48:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-06-07 12:48:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-06-07 12:48:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-06-07 12:48:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[black-friday-shipping]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-shipping.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/06/black-friday-shipping.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[black-friday-support]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/black-friday-support/</link>
+					<pubDate>Fri, 07 Jun 2024 12:48:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-support.svg</guid>
+															<wp:post_id>14663</wp:post_id>
+					<wp:post_date><![CDATA[2024-06-07 12:48:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-06-07 12:48:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-06-07 12:48:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-06-07 12:48:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[black-friday-support]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-support.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/06/black-friday-support.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Marquee]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/marquee/</link>
+					<pubDate>Thu, 11 Jun 2026 13:40:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/gutenberg/?page_id=38791</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/paragraph {"blockId":"a4df3067-f91f-4d85-9bb1-dd61b857988b","blockVersion":"2","textAlign":"center","colorVariable":"\u002d\u002dwd-primary-color","marginBottom":"10"} -->
+<p class="wp-block-wd-paragraph wd-align wd-a4df3067">XTEMOS ELEMENTS</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/divider {"blockId":"38642b09-bc31-4dad-a0eb-a95e68343661","blockVersion":"2","innerBlock":"title","marginBottom":"30"} -->
+<div class="wp-block-wd-divider wd-style-line wd-added-title wd-38642b09"><div class="wd-divider-inner"><!-- wp:wd/title {"blockId":"99e154b7-8e05-493c-8af4-66f466057f5a","blockVersion":"2","textAlign":"center","content":"MARQUEE DEFAULT"} -->
+<h2 class="wp-block-wd-title title wd-align wd-99e154b7">MARQUEE DEFAULT</h2>
+<!-- /wp:wd/title --></div></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/section {"blockId":"c7815e5e-1ad7-4f29-a4cd-40f2d4d48a52","blockVersion":"2","paddingRight":"0","paddingLeft":"0","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-section wd-c7815e5e"><!-- wp:wd/marquee {"blockId":"f97faf62-2045-4140-a7e9-f83eba24f81e","blockVersion":"2","speed":"10","tpFontSize":"24"} -->
+<!-- wp:wd/marquee-item {"blockId":"87a76f7f-4cd8-4ac2-9ef1-8e8ad41112cf"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-87a76f7f"><!-- wp:wd/paragraph {"blockId":"8c73956e-32dd-4d8e-9f8d-2ba96fd192f2","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-8c73956e">Discounts 30% For Men Watches</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"68036414-ed77-47fa-b7a3-4726b2b29138"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-68036414"><!-- wp:wd/paragraph {"blockId":"5b4ef99e-9101-4761-9b4a-f3d9e34d1c62","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-5b4ef99e">New Tents Accessories Hiking</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"b3e12e1a-99c4-45d0-a615-40c62894eeb5"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-b3e12e1a"><!-- wp:wd/paragraph {"blockId":"69b9e05f-5737-4876-9850-4d005f2ce71a","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-69b9e05f">Buy 2 Devices With 5% discount</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+<!-- /wp:wd/marquee --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/paragraph {"blockId":"f5f62713-3df8-4663-95c2-0494f0c1cf5e","blockVersion":"2","textAlign":"center","colorVariable":"\u002d\u002dwd-primary-color","marginBottom":"10"} -->
+<p class="wp-block-wd-paragraph wd-align wd-f5f62713">XTEMOS ELEMENTS</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/divider {"blockId":"87b21c06-8955-4f76-9463-7c21ecd7c3c4","blockVersion":"2","innerBlock":"title","marginBottom":"30"} -->
+<div class="wp-block-wd-divider wd-style-line wd-added-title wd-87b21c06"><div class="wd-divider-inner"><!-- wp:wd/title {"blockId":"9d90e583-a9e6-48c4-a6e6-e2b4b7107381","blockVersion":"2","textAlign":"center","content":"MARQUEE PAUSE ON HOVER"} -->
+<h2 class="wp-block-wd-title title wd-align wd-9d90e583">MARQUEE PAUSE ON HOVER</h2>
+<!-- /wp:wd/title --></div></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/section {"blockId":"f761f6ed-6c64-4744-8148-77338472eb81","blockVersion":"2","paddingRight":"0","paddingLeft":"0","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-section wd-f761f6ed"><!-- wp:wd/marquee {"blockId":"7ad8667c-aba8-402a-baaf-f69b49891d04","blockVersion":"2","speed":"15","direction":"reverse","pauseOnHover":true,"tpFontSize":"24"} -->
+<!-- wp:wd/marquee-item {"blockId":"8247e824-4a6a-4fd3-a1c7-ee996fb7b1ee"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-8247e824"><!-- wp:wd/paragraph {"blockId":"82a5757b-1dca-4477-9906-0e8aac0fcd82","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-82a5757b">Discounts 30% For Men Watches</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"46b04f6c-24cc-4065-9efc-8f1a3ab8db3e"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-46b04f6c"><!-- wp:wd/paragraph {"blockId":"f00c86af-f0fd-4a04-b2da-289e77a97ab1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f00c86af">New Tents Accessories Hiking</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"c3b3e62b-219d-49ce-8c19-b0240ce0bad8"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-c3b3e62b"><!-- wp:wd/paragraph {"blockId":"73f9b607-e8d4-449b-a0b1-d3d704967249","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-73f9b607">Buy 2 Devices With 5% discount</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+<!-- /wp:wd/marquee --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/paragraph {"blockId":"b5dc4adf-ac6c-4412-9b4a-1c199d19e80d","blockVersion":"2","textAlign":"center","colorVariable":"\u002d\u002dwd-primary-color","marginBottom":"10"} -->
+<p class="wp-block-wd-paragraph wd-align wd-b5dc4adf">XTEMOS ELEMENTS</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/divider {"blockId":"40cc9209-7131-40a8-b3e3-27a64cc16577","blockVersion":"2","innerBlock":"title","marginBottom":"30"} -->
+<div class="wp-block-wd-divider wd-style-line wd-added-title wd-40cc9209"><div class="wd-divider-inner"><!-- wp:wd/title {"blockId":"00949fc4-74ad-4ed8-996b-710bcc40dabe","blockVersion":"2","textAlign":"center","content":"MARQUEE WITH IMAGE"} -->
+<h2 class="wp-block-wd-title title wd-align wd-00949fc4">MARQUEE WITH IMAGE</h2>
+<!-- /wp:wd/title --></div></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/section {"blockId":"d60257fc-10a6-4f81-905d-c0b7fb075ce8","blockVersion":"2","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"40","paddingRight":"0","paddingBottom":"40","paddingLeft":"0","marginBottom":"0"} -->
+<div class="wp-block-wd-section wd-d60257fc"><!-- wp:wd/marquee {"blockId":"284f24d2-45a0-4ecc-8ce3-f47aa26a38cc","blockVersion":"2","speed":"13","direction":"","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontSize":"22","tpFontVariant":"700","tpFontWeight":"700","colorCode":"#ffffff"} -->
+<!-- wp:wd/marquee-item {"blockId":"f4e5706e-f593-4d97-b1c2-a19dc89d20cc"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-f4e5706e"><!-- wp:wd/icon {"blockId":"010aa723-e3bf-4183-a54f-56eb8c84b642","blockVersion":"2","image":{"id":14662,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-shipping.svg","width":511,"height":324},"width":"60"} -->
+<div class="wp-block-wd-icon wd-010aa723"><img class="wp-image-14662" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-shipping.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/paragraph {"blockId":"2b2e9a57-1082-4eb7-82e1-3501db9fe13d","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-2b2e9a57">FREE SHIPPING</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"9b739bf4-1b1c-4870-b0f3-8c4e8fec6122"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-9b739bf4"><!-- wp:wd/icon {"blockId":"bb496e33-bf74-4d38-a764-47512cba6679","blockVersion":"2","image":{"id":14659,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-online-payment.svg","width":512,"height":375},"width":"60"} -->
+<div class="wp-block-wd-icon wd-bb496e33"><img class="wp-image-14659" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-online-payment.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/paragraph {"blockId":"b04ed1da-c91f-4006-a950-aa2f5cf051ac","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-b04ed1da">ONLINE PAYMENT</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"e60ad410-7f77-4830-952d-95335065e044"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-e60ad410"><!-- wp:wd/icon {"blockId":"a1039278-52b2-4202-9a9a-b3d3dfa06bac","blockVersion":"2","image":{"id":14663,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-support.svg","width":312,"height":459},"width":"40"} -->
+<div class="wp-block-wd-icon wd-a1039278"><img class="wp-image-14663" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-support.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/paragraph {"blockId":"791acf9d-027b-4259-bc1b-15972547a7f3","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-791acf9d">24/7 SUPPORT</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"22810610-6ad2-44c3-bd5a-70bb5a4f9e3d"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-22810610"><!-- wp:wd/icon {"blockId":"098c47cd-96ff-462c-9547-9a260df04f97","blockVersion":"2","image":{"id":14660,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-return.svg","width":40,"height":40},"width":"60"} -->
+<div class="wp-block-wd-icon wd-098c47cd"><img class="wp-image-14660" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2024/06/black-friday-return.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/paragraph {"blockId":"8ff2d7f4-7feb-4f8c-a90c-e51c4e378092","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-8ff2d7f4">FREE RETURNS</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+<!-- /wp:wd/marquee --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/section {"blockId":"17f26dfc-ad35-4fcd-91ea-a9e97a465556","blockVersion":"2","bgColorCode":"#f9f9f9","paddingTop":"40","paddingRight":"0","paddingBottom":"40","paddingLeft":"0","marginBottom":"-40"} -->
+<div class="wp-block-wd-section wd-17f26dfc"><!-- wp:wd/marquee {"blockId":"1338f442-b755-4f25-9c72-cc7b38307c24","blockVersion":"2","speed":"13","direction":"reverse","pauseOnHover":true} -->
+<!-- wp:wd/marquee-item {"blockId":"f8a80052-3c38-45df-a626-755d685a8baa"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-f8a80052"><!-- wp:wd/icon {"blockId":"cb732b45-17b8-4db5-b1eb-329235763e84","blockVersion":"2","image":{"id":727,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-witra.png","width":180,"height":100},"width":"180","height":"100"} -->
+<div class="wp-block-wd-icon wd-cb732b45"><img class="wp-image-727" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-witra.png" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"8fc830d0-a941-4188-bb16-0eb97f870753"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-8fc830d0"><!-- wp:wd/icon {"blockId":"b939b548-1c17-43ac-a21b-e0a0f2383ded","blockVersion":"2","image":{"id":722,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-Joseph-Joseph.png","width":180,"height":100},"width":"180","height":"100"} -->
+<div class="wp-block-wd-icon wd-b939b548"><img class="wp-image-722" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-Joseph-Joseph.png" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"61a8d7d6-4d76-45f4-8559-9ca429d15372"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-61a8d7d6"><!-- wp:wd/icon {"blockId":"eb2de837-f9d2-4bbd-90a3-890a261f93d7","blockVersion":"2","image":{"id":720,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-flos.png","width":180,"height":100},"width":"180","height":"100"} -->
+<div class="wp-block-wd-icon wd-eb2de837"><img class="wp-image-720" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-flos.png" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"8f12a66e-b060-474f-9966-8f255bb080bc"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-8f12a66e"><!-- wp:wd/icon {"blockId":"a453d132-17ee-4655-b630-5893cf9b5e88","blockVersion":"2","image":{"id":721,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-hay.png","width":180,"height":100},"width":"180","height":"100"} -->
+<div class="wp-block-wd-icon wd-a453d132"><img class="wp-image-721" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-hay.png" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"9cf149e1-6e0d-41c7-bccb-598882a17b7f"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-9cf149e1"><!-- wp:wd/icon {"blockId":"8cbce4d8-803b-4544-9f52-cd6d5e4bd553","blockVersion":"2","image":{"id":725,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-Magisso.png","width":180,"height":100},"width":"180","height":"100"} -->
+<div class="wp-block-wd-icon wd-8cbce4d8"><img class="wp-image-725" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-Magisso.png" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"7741872a-b180-4fe3-8d0e-480496af45f8"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-7741872a"><!-- wp:wd/icon {"blockId":"c575d0c5-9fdc-48cb-aec6-51e9cadd81de","blockVersion":"2","image":{"id":723,"url":"https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-klober.png","width":180,"height":100},"width":"180","height":"100"} -->
+<div class="wp-block-wd-icon wd-c575d0c5"><img class="wp-image-723" src="https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-klober.png" alt=""/></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/marquee-item -->
+<!-- /wp:wd/marquee --></div>
+<!-- /wp:wd/section -->]]></content:encoded>
+															<wp:post_id>38791</wp:post_id>
+					<wp:post_date><![CDATA[2026-06-11 13:40:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-06-11 13:40:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-06-11 13:52:30]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-06-11 13:52:30]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[marquee]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[brand-klober]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/brand-klober-2/</link>
+					<pubDate>Mon, 19 Jul 2021 08:26:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-klober.png</guid>
+															<wp:post_id>723</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-19 08:26:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-19 08:26:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-04-16 13:18:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-04-16 13:18:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[brand-klober-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/2021/07/brand-klober.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/brand-klober.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

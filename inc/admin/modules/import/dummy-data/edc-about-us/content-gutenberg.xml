@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>EDC gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 16 Apr 2026 15:13:20 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/edc-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[About Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/about-us/</link>
+					<pubDate>Tue, 28 Apr 2026 11:41:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/edc-gutenberg/?page_id=14</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"5bc5d0db-a458-412c-948c-dcd283d604a3","blockVersion":"2","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"20"} -->
+<div class="wp-block-wd-row wd-5bc5d0db"><!-- wp:wd/column {"blockId":"20eed423-2617-42d0-848d-858cf8b5f057","blockVersion":"2","adjacentCount":2,"justifyContent":"center"} -->
+<div class="wp-block-wd-column wd-20eed423"><!-- wp:wd/title {"blockId":"16d5ca74-4e34-42a9-8ec3-e5772fa2dd2f","blockVersion":"2","content":"At WoodMart, we’re passionate about the tools you carry every day.","tpFontSize":"34","displayWidth":"custom","customWidth":"610","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-16d5ca74 wd-custom-width">At WoodMart, we’re passionate about the tools you carry every day.</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"7eb4917a-8fd0-45de-9846-3dcc44b086e3","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-7eb4917a">At WoodMart, we’re passionate about the tools you carry every day. Whether it’s a sleek knife, a durable flashlight, or a versatile multi-tool, we believe EDC isn’t just about functionality—it’s a way of life.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"76b06105-2646-4448-9588-edc0d2fa1356","blockVersion":"2","predefinedColor":"primary","shape":"semi-round"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-semi-round wd-76b06105" href="https://dummy.xtemos.com/woodmart2/edc-gutenberg/contact-us/"><span>Contact Us</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"45b3d639-fbc9-4b71-b161-254cb16c7e91","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-45b3d639"><!-- wp:wd/image {"blockId":"d629749e-9da6-40f2-8945-8a010dce0ce2","blockVersion":"2","image":{"id":91,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-1.jpg","width":670,"height":460},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-1.jpg","width":670,"height":460}} -->
+<div class="wp-block-wd-image wd-block-image wd-d629749e"><img class="wp-image-91" src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-1.jpg" alt="" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"5c04d30f-c0d2-429a-b1d9-466d5282979d","blockVersion":"2","columnsGap":20,"marginBottom":"60","marginBottomTablet":"40"} -->
+<div class="wp-block-wd-row wd-5c04d30f"><!-- wp:wd/column {"blockId":"7c2f7a10-a858-4bd2-9051-aa0443a8c2fd","blockVersion":"2","adjacentCount":2,"colWidth":67} -->
+<div class="wp-block-wd-column wd-7c2f7a10"><!-- wp:wd/cover {"blockId":"54de91d4-af60-4387-a82d-0fd33fabbeeb","blockVersion":"2","contentAlignVertical":"end","aspectRatio":"asImage","imageAspectRatio":"","height":"480","image":{"id":92,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-2.jpg","width":902,"height":480},"displayWidth":"","aspectRatioMobile":"1/1","heightTablet":"300"} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-54de91d4"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-2.jpg" class="wp-image-92" alt="" /></div><!-- wp:wd/container {"blockId":"2b50cf5f-0efb-4a56-9db3-882eac8dbc04","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-2b50cf5f"><!-- wp:wd/title {"blockId":"a9664781-c288-41ae-9e04-9b787aaa43b2","blockVersion":"2","content":"Our mission is to help you build the perfect carry kit.","displayWidth":"","customWidth":""} -->
+<h2 class="wp-block-wd-title title wd-a9664781">Our mission is to help you build the perfect carry kit.</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"3421ca86-a536-4299-80d1-a69c69f4065f","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-3421ca86">We curate gear from trusted brands, blending quality, reliability, and style to suit every need.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"78cdcd3b-a68a-4719-ab4d-511aa1061b31","blockVersion":"2","adjacentCount":2,"colWidth":33,"bgImage":{"id":"","url":""},"bgDisplaySize":"cover"} -->
+<div class="wp-block-wd-column wd-78cdcd3b"><!-- wp:wd/image {"blockId":"fc0eaacc-e687-45e6-85f8-f3b16dac8e61","blockVersion":"2","image":{"id":93,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-3.jpg","width":438,"height":480},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-3.jpg","width":438,"height":480},"size":"custom","height":"480","displayWidth":"full-width","heightTablet":"300"} -->
+<div class="wp-block-wd-image wd-block-image wd-fc0eaacc wd-custom-width"><img class="wp-image-93" src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-3.jpg" alt="" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/brands {"blockId":"c44ab7ee-3be8-4ac9-ad3f-eb27cdef0288","blockVersion":"2","hover":"alt","with_bg_color":false,"marginBottom":"60","slides_per_view":"7","scroll_carousel_init":true,"hide_prev_next_buttons":true,"hide_pagination_control":true,"marginBottomTablet":"40","hide_prev_next_buttonsTablet":true,"hide_prev_next_buttonsMobile":true,"hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/row {"blockId":"2bdc7656-c4a1-45c9-a775-63d7aad27fe1","blockVersion":"2","columnsGap":20,"marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-row wd-2bdc7656"><!-- wp:wd/column {"blockId":"e30f0455-9a17-4f81-b2de-4583c4305dba","blockVersion":"2","adjacentCount":2,"colWidth":33,"bgImage":{"id":"","url":""},"bgDisplaySize":"cover"} -->
+<div class="wp-block-wd-column wd-e30f0455"><!-- wp:wd/image {"blockId":"e27b6511-5654-4487-a2fe-417a48d6550a","blockVersion":"2","image":{"id":94,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-4.jpg","width":438,"height":480},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-4.jpg","width":438,"height":480},"size":"custom","height":"480","displayWidth":"full-width","heightTablet":"300"} -->
+<div class="wp-block-wd-image wd-block-image wd-e27b6511 wd-custom-width"><img class="wp-image-94" src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-4.jpg" alt="" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"4dfd07ba-b3d4-4b79-a52a-35e85c2b8319","blockVersion":"2","adjacentCount":2,"colWidth":67} -->
+<div class="wp-block-wd-column wd-4dfd07ba"><!-- wp:wd/cover {"blockId":"01953c8e-985f-4dfa-be3c-1a6f2a777831","blockVersion":"2","contentAlignVertical":"end","aspectRatio":"asImage","imageAspectRatio":"","height":"480","image":{"id":95,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-5.jpg","width":902,"height":480},"displayWidth":"","aspectRatioMobile":"1/1","heightTablet":"300"} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-01953c8e"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-5.jpg" class="wp-image-95" alt="" /></div><!-- wp:wd/container {"blockId":"c1a3c761-9dea-438c-b064-dad27c93ce7d","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-c1a3c761"><!-- wp:wd/title {"blockId":"be7b246c-006f-474f-802f-d727968c83f5","blockVersion":"2","content":"Why choose us?","displayWidth":"custom","customWidth":"375"} -->
+<h2 class="wp-block-wd-title title wd-be7b246c wd-custom-width">Why choose us?</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"ae2b8e3d-147e-4c62-851e-d299bedc632c","blockVersion":"2","displayWidth":"custom","customWidth":"615"} -->
+<p class="wp-block-wd-paragraph wd-ae2b8e3d wd-custom-width">We’re EDC enthusiasts too. We only feature gear we’d proudly carry ourselves. With expert advice, we make your everyday easier, safer, and more efficient.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/section {"blockId":"e137b5fc-bccd-4c0e-a162-bd57c2d662f5","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"60","paddingBottom":"60","marginBottom":"-40","paddingTopTablet":"40","paddingBottomTablet":"40"} -->
+<div class="wp-block-wd-section wd-e137b5fc"><!-- wp:wd/container {"blockId":"216e48b2-651a-4f2b-a8b3-03b3624bdb79","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-216e48b2"><!-- wp:wd/accordion {"blockId":"f985b6f2-84e7-44ea-9eaf-6a522a8e201a","blockVersion":"2","design":"shadow","allClosed":true,"openerIcon":"plus","openerSize":"16"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-shadow wd-titles-start wd-opener-style-plus wd-opener-pos-end wd-f985b6f2" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"657867ba-9731-4254-9879-0372e8988871","blockVersion":"2","boxShadowColorCode":"rgba(0,0,0,0.15)","boxShadowBlur":0,"boxShadowSpread":1,"borderWidthLock":true} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-657867ba"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>What is EDC?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"6d9a465a-e76f-438e-b93f-98145d781876","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-6d9a465a">EDC stands for "Everyday Carry". It refers to the essential tools and items you carry daily to be prepared for various situations.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"f5a702b6-8d58-4510-8fd0-aa2fdb16b787","blockVersion":"2","boxShadowColorCode":"rgba(0,0,0,0.15)","boxShadowBlur":0,"boxShadowSpread":1,"borderWidthLock":true} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-f5a702b6"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>What are the most common EDC items?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"41d9d5ff-104c-4593-abcb-9935b0c29565","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-41d9d5ff">Popular EDC items include knives, multi-tools, flashlights, wallets, pens, and key organizers.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"2662df18-7a00-4b4e-9c13-c86e28a77737","blockVersion":"2","boxShadowColorCode":"rgba(0,0,0,0.15)","boxShadowBlur":0,"boxShadowSpread":1,"borderWidthLock":true} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-2662df18"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>How do i choose the right EDC gear?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"e9b320dc-1444-459e-97d2-34c6b30ed565","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e9b320dc">Consider your daily needs, environment, and budget. Start with basics like a quality knife or flashlight, and build your kit over time. </p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"831083bd-5d15-4456-83ea-ad75471793e6","blockVersion":"2","boxShadowColorCode":"rgba(0,0,0,0.15)","boxShadowBlur":0,"boxShadowSpread":1,"borderWidthLock":true} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-831083bd"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Are EDC items legal to carry?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"d905de40-bd4a-47eb-9053-26a5ff4ae62b","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d905de40">It depends on your location and the type of gear (e.g., knives or self-defense tools). Always check local laws and regulations.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"f61647d6-9c7f-43f5-8ea5-b642672e4a2a","blockVersion":"2","boxShadowColorCode":"rgba(0,0,0,0.15)","boxShadowBlur":0,"boxShadowSpread":1,"borderWidthLock":true} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-f61647d6"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>How do i maintain my EDC gear?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"1e5004fa-4e24-4e0f-ab90-406b615d901f","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-1e5004fa">Regularly clean and oil tools, replace batteries in electronics, and store items in a safe, dry place when not in use.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->]]></content:encoded>
+															<wp:post_id>14</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-28 11:41:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-28 11:41:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-29 06:09:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-29 06:09:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-about-us-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-about-us-1/</link>
+					<pubDate>Wed, 29 Apr 2026 14:21:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-1.jpg</guid>
+															<wp:post_id>91</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:21:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:21:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:21:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:21:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-about-us-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-about-us-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-about-us-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-about-us-2/</link>
+					<pubDate>Wed, 29 Apr 2026 14:21:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-2.jpg</guid>
+															<wp:post_id>92</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:21:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:21:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:21:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:21:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-about-us-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-about-us-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-about-us-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-about-us-3/</link>
+					<pubDate>Wed, 29 Apr 2026 14:21:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-3.jpg</guid>
+															<wp:post_id>93</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:21:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:21:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:21:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:21:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-about-us-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-about-us-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-about-us-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-about-us-4/</link>
+					<pubDate>Wed, 29 Apr 2026 14:21:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-4.jpg</guid>
+															<wp:post_id>94</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:21:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:21:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:21:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:21:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-about-us-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-about-us-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-about-us-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-about-us-5/</link>
+					<pubDate>Wed, 29 Apr 2026 14:21:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-5.jpg</guid>
+															<wp:post_id>95</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:21:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:21:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:21:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:21:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-about-us-5]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-about-us-5.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-about-us-5.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Vinyls gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg</link>
+	<description></description>
+	<pubDate>Fri, 11 Jul 2025 11:47:37 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/wp-content/uploads/sites/52/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Single product - Vinyls]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/woodmart_layout/single-product-vinyls/</link>
+					<pubDate>Fri, 18 Jul 2025 11:39:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/?post_type=woodmart_layout&#038;p=271</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"d29e5051-d892-44ff-a3e7-9b5450f6df0b","columnsGap":40,"marginBottom":"100","marginTopTablet":"-20","marginBottomTablet":"60"} -->
+<div id="wd-d29e5051" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"cc5bb6be-3047-4833-99c7-b34576050f4a","adjacentCount":2,"sticky":true,"stickyTablet":true} -->
+<div id="wd-cc5bb6be" class="wp-block-wd-column wd-sticky-on-lg wd-sticky-on-md-sm"><!-- wp:wd/sp-gallery {"blockId":"a6c38f2d-a473-49ea-85af-80306861b311"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"eddc143d-f296-4144-8e57-ed8aafde6c39","adjacentCount":2} -->
+<div id="wd-eddc143d" class="wp-block-wd-column"><!-- wp:wd/woo-notices {"blockId":"26eb017a-ac1c-4c4c-b14b-a9e0c7fef23d"} /-->
+
+<!-- wp:wd/woo-breadcrumbs {"blockId":"e2a42069-5255-40ec-b4d1-7e0a5db698ad"} /-->
+
+<!-- wp:wd/sp-title {"blockId":"124b8744-fe4f-4c54-becf-4859c2d46867","tpFontSize":"3.5","tpLineHeight":"1.2","tpFontVariant":"700","tpFontWeight":"700","tpFontSizeTablet":"1.9","tpFontSizeMobile":"1.5","tpFontSizeUnits":"em","tpFontSizeUnitsTablet":"em","tpFontSizeUnitsMobile":"em","tpLineHeightUnits":"em"} /-->
+
+<!-- wp:wd/sp-price {"blockId":"f739a5d8-616f-45db-9e25-a74ada2aab49","mainPriceTpFontSize":"2.3","mainPriceTpFontSizeTablet":"1.5","mainPriceTpFontSizeUnits":"em","mainPriceTpFontSizeUnitsTablet":"em"} /-->
+
+<!-- wp:wd/sp-countdown {"blockId":"8dc7418f-5ac6-4c57-8dd4-a19f29163462"} /-->
+
+<!-- wp:wd/sp-short-description {"blockId":"5ec2c505-b615-4c2e-b42d-ff40d0596a39"} /-->
+
+<!-- wp:wd/sp-stock-progress-bar {"blockId":"364dcbf3-01f5-4e05-bec5-710dda535c2c"} /-->
+
+<!-- wp:wd/sp-add-to-cart {"blockId":"b753421e-8fd8-4b75-b25a-6d8fe242bb71"} /-->
+
+<!-- wp:wd/container {"blockId":"215f453c-a4bd-4a87-8a88-045750d31c21","direction":"row","align":"center","wrap":"wrap","marginTop":"20","marginBottom":"20"} -->
+<div id="wd-215f453c" class="wp-block-wd-container wd-dir-row wd-align-is-lg-center"><!-- wp:wd/sp-compare-btn {"blockId":"e9e9259b-fb77-464b-a5a8-22faaf684359"} /-->
+
+<!-- wp:wd/sp-wishlist-btn {"blockId":"d71c34fe-ad25-48be-b281-4b3883a1c6dc"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sp-tabs {"blockId":"5f53d1a9-d4b7-4163-a63e-f9f67e97bc10","enableReviews":false,"tabsStyle":"underline-reverse","additionalInfoLayout":"inline","additionalInfoStyle":"default","additionalInfoRowGap":15,"additionalInfoMaxWidth":"","attrNameColumnWidth":"140","tabsTitleTpFontSize":"1.3","tabsTitleTpTextTransform":"capitalize","marginTop":"40","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1","tabsTitleTpFontSizeUnits":"em"} /-->
+
+<!-- wp:wd/title {"blockId":"5f6f0f67-243b-4b2c-80fc-adfb06b50cb0","design":"overlined","content":"Review","tpFontSize":"1.3","activeBorderColorVariable":"\u002d\u002dwd-primary-color","marginTop":"40","tpFontSizeUnits":"em"} -->
+<h2 id="wd-5f6f0f67" class="wp-block-wd-title title wd-design-overlined"><span>Review</span></h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/sp-reviews {"blockId":"88cad3ae-c02a-44b9-a46a-e78c7cd9e83b"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/paragraph {"blockId":"2e2e6f66-7e98-4d3a-85d1-a4033198aa11","colorCode":"#ffffff","tpFontSize":"0.9","tpFontVariant":"500","tpFontWeight":"500","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"4","paddingRight":"8","paddingBottom":"4","paddingLeft":"8","marginBottom":"10","borderRadius":"3","borderRadiusTop":"3","borderRadiusRight":"3","borderRadiusBottom":"3","borderRadiusLeft":"3","displayWidth":"fit-content","tpFontSizeUnits":"em"} -->
+<p id="wd-2e2e6f66" class="wp-block-wd-paragraph wd-custom-width">READY SETS</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"2d63511e-33f6-4da7-b55b-6d13cb360535","content":"May Be of Interest","tpFontSize":"3.5","marginBottom":"30","tpFontSizeTablet":"1.9","tpFontSizeUnits":"em","tpFontSizeUnitsTablet":"em"} -->
+<h2 id="wd-2d63511e" class="wp-block-wd-title title">May Be of Interest</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/products {"blockId":"5e8f7c6b-92cc-4039-8e5e-fff95973fc26","categoriesIds":"","layout":"carousel","spacing":"30","items_per_page":"5","slides_per_view":"4.5","disable_overflow_carousel":true,"hide_pagination_control":true,"slides_per_viewTablet":"3.5","slides_per_viewMobile":"1.7","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->]]></content:encoded>
+															<wp:post_id>271</wp:post_id>
+					<wp:post_date><![CDATA[2025-07-18 11:39:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-07-18 11:39:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-09-25 11:40:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-09-25 11:40:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-vinyls]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

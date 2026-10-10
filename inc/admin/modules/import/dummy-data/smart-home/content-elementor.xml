@@ -1,0 +1,2115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Elementor 2.0 WoodMart dummy</title>
+	<link>https://dummy.xtemos.com/woodmart2/elementor</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Wed, 14 Jul 2021 12:07:27 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>117</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu-smart-home]]></wp:term_slug><wp:term_name><![CDATA[Footer menu Smart Home]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[w-smart-home-logo]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-logo/</link>
+					<pubDate>Tue, 09 Nov 2021 12:00:30 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo.svg</guid>
+															<wp:post_id>9626</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:00:30]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:00:30]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:00:30]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:00:30]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-logo]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-logo.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-logo-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-logo-white/</link>
+					<pubDate>Tue, 09 Nov 2021 12:00:30 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo-white.svg</guid>
+															<wp:post_id>9627</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:00:30]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:00:30]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:00:30]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:00:30]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-logo-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-logo-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-popup]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-popup/</link>
+					<pubDate>Tue, 09 Nov 2021 12:04:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-popup.jpg</guid>
+															<wp:post_id>9628</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:04:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:04:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:04:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:04:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-popup]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-popup.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-popup.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-page-title]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-page-title/</link>
+					<pubDate>Tue, 09 Nov 2021 12:04:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-page-title.jpg</guid>
+															<wp:post_id>9629</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:04:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:04:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:04:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:04:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-page-title]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-page-title.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-page-title.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-add]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-add/</link>
+					<pubDate>Tue, 09 Nov 2021 12:13:02 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-add.svg</guid>
+															<wp:post_id>9649</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:13:02]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:13:02]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:13:02]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:13:02]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-add]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-add.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-add.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-g-m]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-g-m/</link>
+					<pubDate>Tue, 09 Nov 2021 12:13:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-m.svg</guid>
+															<wp:post_id>9650</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:13:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:13:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:13:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:13:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-g-m]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-m.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-g-m.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-g-n]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-g-n/</link>
+					<pubDate>Tue, 09 Nov 2021 12:13:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-n.svg</guid>
+															<wp:post_id>9651</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:13:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:13:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:13:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:13:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-g-n]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-n.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-g-n.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-i-h]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-i-h/</link>
+					<pubDate>Tue, 09 Nov 2021 12:13:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-i-h.svg</guid>
+															<wp:post_id>9652</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:13:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:13:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:13:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:13:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-i-h]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-i-h.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-i-h.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-top-bg-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-top-bg-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:16:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-bg-opt.jpg</guid>
+															<wp:post_id>9656</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:16:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:16:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:16:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:16:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-top-bg-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-bg-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-top-bg-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-image-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-image-1-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:24:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt.png</guid>
+															<wp:post_id>9675</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:24:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:24:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:24:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:24:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-image-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-image-1-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-hotspot-smoke-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/w-smart-home-hotspot-smoke-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:26:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-smoke-opt.png</guid>
+															<wp:post_id>9676</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:26:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:26:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:26:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:26:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-hotspot-smoke-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-smoke-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-hotspot-smoke-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-hotspot-sensor-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/w-smart-home-hotspot-sensor-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:32:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-sensor-opt.png</guid>
+															<wp:post_id>9686</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:32:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:32:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:32:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:32:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-hotspot-sensor-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-sensor-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-hotspot-sensor-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-hotspot-light-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/w-smart-home-hotspot-light-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:33:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-light-opt.png</guid>
+															<wp:post_id>9687</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:33:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:33:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:33:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:33:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-hotspot-light-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-light-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-hotspot-light-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-video-monitoring-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-video-monitoring-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:39:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-video-monitoring-opt.jpg</guid>
+															<wp:post_id>9701</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:39:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:39:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:39:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:39:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-video-monitoring-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-video-monitoring-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-video-monitoring-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-door-window-sensor-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-door-window-sensor-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:40:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-door-window-sensor-opt.jpg</guid>
+															<wp:post_id>9702</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:40:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:40:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:40:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:40:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-door-window-sensor-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-door-window-sensor-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-door-window-sensor-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-smoke-sensor-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-smoke-sensor-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:41:28 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-smoke-sensor-opt.jpg</guid>
+															<wp:post_id>9703</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:41:28]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:41:28]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:41:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:41:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-smoke-sensor-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-smoke-sensor-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-smoke-sensor-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-ecosystem-bg-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-ecosystem-bg-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:42:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-bg-opt.jpg</guid>
+															<wp:post_id>9707</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:42:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:42:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:42:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:42:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-ecosystem-bg-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-bg-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-ecosystem-bg-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-features-bg-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-features-bg-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:55:18 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-features-bg-opt.jpg</guid>
+															<wp:post_id>9739</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:55:18]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:55:18]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:55:18]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:55:18]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-features-bg-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-features-bg-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-features-bg-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-scenarios-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-scenarios-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 13:17:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt.png</guid>
+															<wp:post_id>9813</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:17:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:17:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:17:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:17:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-scenarios-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-scenarios-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 11]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-11/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-11.jpg</guid>
+															<wp:post_id>10025</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-11]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-11.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-11.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Home Smart-home]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/</link>
+					<pubDate>Tue, 09 Nov 2021 11:59:30 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?page_id=9621</guid>
+											<content:encoded><![CDATA[<img width="600" height="524" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-device-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-device-opt.png 600w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-device-opt-344x300.png 344w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-device-opt-430x376.png 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-device-opt-130x114.png 130w" sizes="(max-width: 600px) 100vw, 600px" />					
+						<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+				<h4>Make Your Home Smart and Secure</h4> 
+						<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+			<p>Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen.</p>
+			<a  href="#">
+					Read more				
+							</a>
+						<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+																							<link rel="stylesheet" id="wd-info-box-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+															<svg id="svg-1537" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none"><rect width="50" height="50" rx="25" fill="#7038A9"></rect><path d="M35.2951 36.8358L31.1332 30.149C32.5673 28.6057 33.3789 26.5592 33.3789 24.4414V20.3789C33.3789 15.7588 29.6201 12 25 12C20.3799 12 16.6211 15.7588 16.6211 20.3789V24.4414C16.6211 26.5592 17.4327 28.6057 18.8668 30.149L14.7049 36.8358C14.5587 37.0707 14.5514 37.3663 14.6857 37.6082C14.82 37.85 15.0749 38 15.3516 38H34.6484C34.9251 38 35.18 37.85 35.3143 37.6082C35.4486 37.3663 35.4413 37.0707 35.2951 36.8358ZM26.9673 28.9629C26.3914 29.2624 25.6814 29.3037 25 29.3037C24.3186 29.3037 23.6086 29.2624 23.0327 28.9629C22.5402 28.7067 21.9531 28.1548 21.9531 26.9805C21.9531 25.2066 23.2561 23.2227 25 23.2227C26.7439 23.2227 28.0469 25.2066 28.0469 26.9805C28.0469 28.1548 27.4598 28.7067 26.9673 28.9629ZM28.0469 22.9688C27.4703 22.9688 26.6214 22.7671 25.8839 22.455C25.3222 22.2173 24.6778 22.2172 24.116 22.455C23.3786 22.7671 22.5296 22.9688 21.9531 22.9688C20.5531 22.9688 19.4141 21.8297 19.4141 20.4297C19.4141 19.0296 20.5531 17.8906 21.9531 17.8906C22.5296 17.8906 23.3785 18.0923 24.1159 18.4043C24.6777 18.642 25.3222 18.6421 25.884 18.4043C26.6215 18.0923 27.4704 17.8906 28.0469 17.8906C29.4469 17.8906 30.5859 19.0296 30.5859 20.4297C30.5859 21.8297 29.4469 22.9688 28.0469 22.9688Z" fill="white"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Deters burglars						</h4>
+															<svg id="svg-1887" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none"><rect width="50" height="50" rx="25" fill="#E06F30"></rect><path d="M30.7491 20.1156C26.1083 17.2921 28.2846 13.3069 28.378 13.1413C28.5135 12.9055 28.513 12.6155 28.3768 12.3802C28.2407 12.1449 27.9894 12 27.7175 12C25.3286 12 23.458 12.6787 22.1575 14.0175C19.9354 16.3049 20.0385 19.865 20.0825 21.3852C20.0874 21.5537 20.0916 21.6992 20.0916 21.8073C20.0916 22.936 20.2727 23.9781 20.4325 24.8975C20.5355 25.49 20.6244 26.0017 20.6402 26.4039C20.6571 26.8346 20.5785 26.9332 20.5752 26.9373C20.5639 26.9506 20.4705 27.0003 20.2179 27.0003C19.9297 27.0003 19.7174 26.9061 19.5291 26.6951C18.794 25.8708 18.7432 23.6201 18.8837 22.3956C18.9089 22.1797 18.8406 21.9634 18.696 21.8011C18.5515 21.6388 18.3445 21.546 18.1272 21.546C16.1495 21.546 14.6717 24.7801 14.6717 27.6718C14.6717 29.0312 14.9451 30.3628 15.4844 31.6297C16.0057 32.8545 16.7491 33.9598 17.694 34.915C19.6617 36.9044 22.2563 38 24.9996 38C27.7541 38 30.348 36.9199 32.3036 34.9588C34.2541 33.0026 35.3283 30.4148 35.3283 27.6717C35.3283 24.1718 32.5898 21.2354 30.7491 20.1156Z" fill="white"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Recognizes fire						</h4>
+															<svg id="svg-4604" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none"><rect width="50" height="50" rx="25" fill="#3FAEDE"></rect><path d="M34.0861 21.7213L34.0469 21.6682L34.0392 21.6527L30.4789 16.3675L26.9186 21.6528L26.9111 21.6676L26.8716 21.7214C26.3003 22.4951 25.9984 23.4143 25.9984 24.3797C25.9984 26.8503 28.0083 28.8602 30.4788 28.8602C32.9494 28.8602 34.9593 26.8502 34.9593 24.3797C34.9594 23.4142 34.6574 22.4949 34.0861 21.7213Z" fill="white"></path><path d="M30.479 30.3868C27.1666 30.3868 24.4719 27.692 24.4719 24.3797C24.4719 23.0921 24.873 21.8651 25.632 20.8303L27.9725 17.3559L24.3644 12L16.847 23.1594C15.6651 24.7678 15.0405 26.6748 15.0405 28.676C15.0405 33.8173 19.2232 38 24.3645 38C29.2359 38 33.2461 34.2447 33.6537 29.477C32.7319 30.0532 31.6438 30.3868 30.479 30.3868Z" fill="white"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Detects flooding						</h4>
+															<svg id="svg-4890" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none"><rect width="50" height="50" rx="25" fill="#B0C47A"></rect><path d="M35.2315 19.9444H14.7685C13.242 19.9444 12 18.7024 12 17.1759V15.9722C12 14.4457 13.242 13.2037 14.7685 13.2037H35.2315C36.758 13.2037 38 14.4457 38 15.9722V17.1759C38 18.7024 36.758 19.9444 35.2315 19.9444Z" fill="white"></path><path d="M25 32.463C26.5955 32.463 27.8889 31.1696 27.8889 29.5741C27.8889 27.9786 26.5955 26.6852 25 26.6852C23.4045 26.6852 22.1111 27.9786 22.1111 29.5741C22.1111 31.1696 23.4045 32.463 25 32.463Z" fill="white"></path><path d="M35.2916 21.8704H14.7083C14.5421 21.8704 14.4073 22.0051 14.4073 22.1713V25.6197C14.4073 31.4748 19.1148 36.2984 24.9699 36.3147C30.8244 36.3311 35.5925 31.573 35.5925 25.7222V22.1713C35.5925 22.0051 35.4578 21.8704 35.2916 21.8704ZM24.9999 34.3889C22.3451 34.3889 20.1851 32.229 20.1851 29.5741C20.1851 26.9192 22.3451 24.7593 24.9999 24.7593C27.6548 24.7593 29.8148 26.9192 29.8148 29.5741C29.8148 32.229 27.6548 34.3889 24.9999 34.3889Z" fill="white"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Streams security						</h4>
+															<svg id="svg-6846" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" fill="none"><rect width="50" height="50" rx="25" fill="#5F56C6"></rect><path d="M35.2391 38H14.7608C13.3495 38 12.201 36.8514 12.201 35.4402V14.5599C12.201 13.1487 13.3495 12.0001 14.7608 12.0001H35.239C36.6501 12.0001 37.7988 13.1487 37.7988 14.5599V35.4402C37.7989 36.8514 36.6502 38 35.2391 38ZM25 15.6974C19.8702 15.6974 15.6971 19.8705 15.6971 25.0001C15.6971 30.13 19.8702 34.3025 25 34.3025C30.1297 34.3025 34.3025 30.1295 34.3025 25.0001C34.3025 19.8697 30.1296 15.6974 25 15.6974Z" fill="white"></path><path d="M25.0001 32.5959C20.8117 32.5959 17.4038 29.1885 17.4038 25.0001C17.4038 20.8108 20.8118 17.404 25.0001 17.404C29.1886 17.404 32.596 20.8114 32.596 25.0001C32.596 29.1891 29.1886 32.5959 25.0001 32.5959ZM22.8669 24.8111C22.8669 24.34 22.4847 23.9579 22.0137 23.9579C21.5426 23.9579 21.1604 24.3399 21.1604 24.8111V25.3555C21.1604 25.8263 21.5427 26.2086 22.0137 26.2086C22.4847 26.2086 22.8669 25.8264 22.8669 25.3555V24.8111ZM29.1241 24.8111C29.1241 24.34 28.7419 23.9579 28.2709 23.9579C27.7999 23.9579 27.4176 24.3399 27.4176 24.8111V25.3555C27.4176 25.8263 27.7999 26.2086 28.2709 26.2086C28.7419 26.2086 29.1241 25.8264 29.1241 25.3555V24.8111Z" fill="white"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Controls appliances						</h4>
+				<h4>Perfect Solution for Your Home</h4> 
+						<link rel="stylesheet" id="wd-list-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-list.min.css?ver=7.4.0" type="text/css" media="all" /> 					<ul>
+											<li>
+						Self-monitoring or 24/7 fast-response pro monitoring					
+									</li>
+											<li>
+						Customizable systems you can easily set up yourself					
+									</li>
+											<li>
+						Customizable alerts, schedules and automations					
+									</li>
+											<li>
+						Security and video packages					
+									</li>
+					</ul>
+			<a  href="#">
+					VIEW MORE				
+							</a>
+						<link rel="stylesheet" id="wd-image-hotspot-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-hotspot.min.css?ver=7.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+									<img width="596" height="510" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt.png 596w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt-351x300.png 351w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt-430x368.png 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt-130x111.png 130w" sizes="(max-width: 596px) 100vw, 596px" />				
+									<img width="220" height="80" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-smoke-opt-220x80.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-smoke-opt.png 220w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-smoke-opt-130x47.png 130w" sizes="(max-width: 220px) 100vw, 220px" />								
+								<h4>
+									Smoke sensor								</h4>
+									Open source software for your client&#039;s needs								
+									<img width="220" height="80" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-sensor-opt-220x80.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-sensor-opt.png 220w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-sensor-opt-130x47.png 130w" sizes="(max-width: 220px) 100vw, 220px" />								
+								<h4>
+									Door/Window Sensor								</h4>
+									True enough, but that&#039;s not all that it takes								
+									<img width="220" height="80" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-light-opt-220x80.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-light-opt.png 220w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-light-opt-130x47.png 130w" sizes="(max-width: 220px) 100vw, 220px" />								
+								<h4>
+									Smart Light								</h4>
+									Focus on the actual layout, or color scheme								
+			<p>* You can test our security system within 30 days.</p>
+				<h4>Smart Cloud Ecosystem</h4> 
+					<p>Our service uses cloud technologies. You can always get remote access to the smart home system via the Internet. Even if your less into design and more into content strategy you may.</p>				
+								<img width="620" height="303" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-device-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-device-opt.png 620w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-device-opt-400x195.png 400w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-device-opt-430x210.png 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-device-opt-130x64.png 130w" sizes="(max-width: 620px) 100vw, 620px" />					
+															<img width="60" height="60" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-video-monitoring-opt-60x60.jpg" alt="" decoding="async" loading="lazy" />													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Video monitoring						</h4>
+					<p>Secure your home and privacy</p>
+															<img width="60" height="60" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-door-window-sensor-opt-60x60.jpg" alt="" decoding="async" loading="lazy" />													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Door/Window Sensor						</h4>
+					<p>The villagers are out there with</p>
+															<img width="60" height="60" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-smoke-sensor-opt-60x60.jpg" alt="" decoding="async" loading="lazy" />													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Smoke sensor						</h4>
+					<p>Feather it at the least, running</p>
+					<link rel="stylesheet" id="wd-swiper-arrows-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/lib-swiper-arrows.min.css?ver=7.4.0" type="text/css" media="all" /> 										
+								<img width="280" height="567" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-notification-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-notification-opt.png 280w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-notification-opt-148x300.png 148w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-notification-opt-130x263.png 130w" sizes="(max-width: 280px) 100vw, 280px" />					
+				<h4>Security Features</h4> 
+			<p>Chances are there wasn’t collaboration, communication, and checkpoints, there wasn’t a process agreed upon or specified with the granularity required. It’s content strategy gone awry right from the start wouldn’t.</p>
+															<svg id="svg-5955" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none"><rect width="40" height="40" rx="20" fill="#4B95D9"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M9 16.5C9 15.3954 9.89543 14.5 11 14.5H26C27.1046 14.5 28 15.3954 28 16.5V23.5C28 24.6046 27.1046 25.5 26 25.5H17.1969C16.1569 25.5 15.2062 26.0876 14.7411 27.0178L14.6445 27.2109C14.4067 27.6866 13.7124 27.6373 13.5443 27.1328C13.2192 26.1577 12.3067 25.5 11.2789 25.5H11.0398C9.91323 25.5 9 24.5868 9 23.4602V16.5ZM12 18.5C12 17.9477 12.4477 17.5 13 17.5H24C24.5523 17.5 25 17.9477 25 18.5C25 19.0523 24.5523 19.5 24 19.5H13C12.4477 19.5 12 19.0523 12 18.5ZM13 20.5C12.4477 20.5 12 20.9477 12 21.5C12 22.0523 12.4477 22.5 13 22.5H20C20.5523 22.5 21 22.0523 21 21.5C21 20.9477 20.5523 20.5 20 20.5H13Z" fill="white"></path><path d="M28.1464 13.6464C27.9512 13.8417 27.9512 14.1583 28.1464 14.3536C28.3417 14.5488 28.6583 14.5488 28.8536 14.3536L28.1464 13.6464ZM29.8536 13.3536C30.0488 13.1583 30.0488 12.8417 29.8536 12.6464C29.6583 12.4512 29.3417 12.4512 29.1464 12.6464L29.8536 13.3536ZM29.5 16C29.2239 16 29 16.2239 29 16.5C29 16.7761 29.2239 17 29.5 17V16ZM30.5 17C30.7761 17 31 16.7761 31 16.5C31 16.2239 30.7761 16 30.5 16V17ZM26 13C26 13.2761 26.2239 13.5 26.5 13.5C26.7761 13.5 27 13.2761 27 13H26ZM27 12C27 11.7239 26.7761 11.5 26.5 11.5C26.2239 11.5 26 11.7239 26 12H27ZM28.8536 14.3536L29.8536 13.3536L29.1464 12.6464L28.1464 13.6464L28.8536 14.3536ZM29.5 17H30.5V16H29.5V17ZM27 13V12H26V13H27Z" fill="white"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Notifications						</h4>
+					<p>Stay updated with a full event log in the notification</p>
+															<svg id="svg-7032" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none"><rect width="40" height="40" rx="20" fill="#E44343"></rect><path d="M28.6574 15.7223H11.3426C10.0509 15.7223 9 14.6714 9 13.3797V12.3611C9 11.0695 10.0509 10.0186 11.3426 10.0186H28.6574C29.9491 10.0186 31 11.0695 31 12.3611V13.3797C31 14.6714 29.9491 15.7223 28.6574 15.7223Z" fill="white"></path><path d="M20 26.3149C21.35 26.3149 22.4444 25.2205 22.4444 23.8705C22.4444 22.5204 21.35 21.426 20 21.426C18.65 21.426 17.5555 22.5204 17.5555 23.8705C17.5555 25.2205 18.65 26.3149 20 26.3149Z" fill="white"></path><path d="M28.7083 17.3518H11.2916C11.151 17.3518 11.037 17.4658 11.037 17.6064V20.5243C11.037 25.4787 15.0202 29.5602 19.9745 29.574C24.9284 29.5878 28.9629 25.5617 28.9629 20.6111V17.6064C28.9629 17.4658 28.8489 17.3518 28.7083 17.3518ZM20 27.9444C17.7535 27.9444 15.9259 26.1168 15.9259 23.8703C15.9259 21.6239 17.7535 19.7963 20 19.7963C22.2464 19.7963 24.074 21.6239 24.074 23.8703C24.074 26.1168 22.2464 27.9444 20 27.9444Z" fill="white"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Camera Live						</h4>
+					<p>Keep track of your home wherever you are accept</p>
+															<svg id="svg-1442" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none"><rect width="40" height="40" rx="20" fill="#A6D26E"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M17.2222 11C14.4608 11 12.2222 13.2386 12.2222 16V16.125C12.2222 17.5509 12.8191 18.8374 13.7767 19.7483C11.527 20.9718 10 23.3562 10 26.0972V27.3125C10 28.2445 10.7555 29 11.6875 29H22.757C23.689 29 24.4445 28.2445 24.4445 27.3125V26.0972C24.4445 23.3562 22.9175 20.9718 20.6678 19.7483C21.6253 18.8374 22.2222 17.5509 22.2222 16.125V16C22.2222 13.2386 19.9837 11 17.2222 11Z" fill="white"></path><path d="M25.5556 28C25.5556 28.5523 26.0033 29 26.5556 29H28.0001C29.1046 29 30.0001 28.1046 30.0001 27V26.1875C30.0001 23.4045 28.4646 20.9847 26.2047 19.749C27.1732 18.8257 27.7778 17.5156 27.7778 16.0625C27.7778 13.2666 25.5392 11 22.7778 11C22.025 11 21.8247 11.9225 22.2497 12.5439C22.933 13.5429 23.3334 14.7553 23.3334 16.0625C23.3334 17.0032 23.1256 17.8953 22.7545 18.6938C22.5346 19.1671 22.6264 19.7434 23.0002 20.1076C24.5745 21.6419 25.5556 23.7982 25.5556 26.1875V28Z" fill="white"></path></svg> 													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Guest Mode						</h4>
+					<p>Give friends one-time access to open doors</p>
+								<img width="680" height="520" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt.png 680w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt-392x300.png 392w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt-430x329.png 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt-130x99.png 130w" sizes="(max-width: 680px) 100vw, 680px" />					
+				<h4>Create Personal Scenarios</h4> 
+			<p>Automate your smart home with scripts. Rest assured that every command will be delivered to the hub communications executed with reliable radio.</p>
+					<ul>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-m.svg" title="smart-home-g-m" width="26" height="26">					
+						Good Morning					
+									</li>
+					</ul>
+					<ul>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-n.svg" title="smart-home-g-n" width="26" height="26">					
+						Good Night					
+									</li>
+					</ul>
+					<ul>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-i-h.svg" title="smart-home-i-h" width="26" height="26">					
+						I’m Home					
+									</li>
+					</ul>
+					<ul>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-add.svg" title="smart-home-add" width="26" height="26">					
+						Add Scenario					
+									</li>
+					</ul>
+				<h4>Which Hub is Best for Your Home?</h4> 
+						<link rel="stylesheet" id="wd-banner-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-banner.min.css?ver=7.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-banner-hover-zoom-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-banner-hover-zoom.min.css?ver=7.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-banner-btn-hover-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-banner-btn-hover.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+																					<img width="580" height="460" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-1-opt.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-1-opt.jpg 580w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-1-opt-378x300.jpg 378w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-1-opt-430x341.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-1-opt-130x103.jpg 130w" sizes="(max-width: 580px) 100vw, 580px" />																		
+													<h4 data-elementor-setting-key="title">
+								Smart home hub black							</h4>
+								<p>$229</p>
+			<a  href="http://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/">
+					Read more				
+							</a>
+									<a href="http://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/" aria-label="Banner link"></a>
+																					<img width="580" height="460" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-2-opt.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-2-opt.jpg 580w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-2-opt-378x300.jpg 378w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-2-opt-430x341.jpg 430w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-2-opt-130x103.jpg 130w" sizes="(max-width: 580px) 100vw, 580px" />																		
+													<h4 data-elementor-setting-key="title">
+								Smart home hub white							</h4>
+								<p>$269</p>
+			<a  href="http://dummy.xtemos.com/woodmart2/elementor/product/ornare-auctor/">
+					Read more				
+							</a>
+									<a href="http://dummy.xtemos.com/woodmart2/elementor/product/ornare-auctor/" aria-label="Banner link"></a>
+				<h4>You May Also Like…</h4> 
+						<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=7.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-quick-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-quick.min.css?ver=7.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-add-btn-replace-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/woo-mod-add-btn-replace.min.css?ver=7.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-swatches-base-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/woo-mod-swatches-base.min.css?ver=7.4.0" type="text/css" media="all" /> 						
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/photo-camera-wooden-model/">
+						<link rel="stylesheet" id="wd-woo-mod-product-labels-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css?ver=7.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-product-labels-round-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css?ver=7.4.0" type="text/css" media="all" /> 			Hot<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-accessories-3-290x326.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-accessories-3-290x326.jpg 290w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-accessories-3-65x74.jpg 65w" sizes="(max-width: 290px) 100vw, 290px" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/photo-camera-wooden-model/">
+					<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-accessories-3-1-290x326.jpg" alt="" decoding="async" loading="lazy" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="13593" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+								<link rel="stylesheet" id="wd-mfp-popup-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=7.4.0" type="text/css" media="all" /> 					
+			<a
+				href="https://dummy.xtemos.com/woodmart2/elementor/product/photo-camera-wooden-model/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="13593"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="298b88c3a2" data-product-id="13593" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+				<a href="?add-to-cart=13593" data-quantity="1" data-product_id="13593" data-product_sku="" aria-label="Add &ldquo;Photo camera&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a>							
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/photo-camera-wooden-model/">Photo camera</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/accessories/" rel="tag">Accessories</a>		
+			Rated <strong>5.00</strong> out of 5		
+	<bdi>&#36;259.00</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/">
+			-53%<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/furniture5-290x326.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/furniture5-290x326.jpg 290w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/furniture5-65x74.jpg 65w" sizes="(max-width: 290px) 100vw, 290px" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/">
+					<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/furniture5_3-290x326.jpg" alt="" decoding="async" loading="lazy" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="13540" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="13540"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="298b88c3a2" data-product-id="13540" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+				<a href="?add-to-cart=13540" data-quantity="1" data-product_id="13540" data-product_sku="MNK-001-1" aria-label="Add &ldquo;Euismod aliquam parturient&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a>							
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/">Euismod aliquam parturient</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+			Rated <strong>5.00</strong> out of 5		
+	<del aria-hidden="true"><bdi>&#36;599.00</bdi></del> <ins><bdi>&#36;280.00</bdi></ins>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/">
+			<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-7-290x326.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-7-290x326.jpg 290w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-7-65x74.jpg 65w" sizes="(max-width: 290px) 100vw, 290px" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/">
+					<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-7-3-290x326.jpg" alt="" decoding="async" loading="lazy" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="13510" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="13510"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="298b88c3a2" data-product-id="13510" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+				<a href="?add-to-cart=13510" data-quantity="1" data-product_id="13510" data-product_sku="" aria-label="Add &ldquo;Char with love&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a>							
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/">Char with love</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/cooking/" rel="tag">Cooking</a>		
+			Rated <strong>5.00</strong> out of 5		
+	<bdi>&#36;420.00</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/reflect-chest-of-drawers/">
+			<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-6-290x326.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-6-290x326.jpg 290w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-6-65x74.jpg 65w" sizes="(max-width: 290px) 100vw, 290px" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/reflect-chest-of-drawers/">
+					<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-6-3-290x326.jpg" alt="" decoding="async" loading="lazy" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="13491" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/elementor/product/reflect-chest-of-drawers/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="13491"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="298b88c3a2" data-product-id="13491" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/reflect-chest-of-drawers/" data-quantity="1" data-product_id="13491" data-product_sku="" aria-label="Select options for &ldquo;Reflect Chest of Drawers&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow">Select options</a>							
+					<link rel="stylesheet" id="wd-woo-mod-swatches-style-1-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/woo-mod-swatches-style-1.min.css?ver=7.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-swatches-dis-1-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/woo-mod-swatches-dis-style-1.min.css?ver=7.4.0" type="text/css" media="all" /> 						
+					Beige				
+					Black				
+					Brown				
+				<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/reflect-chest-of-drawers/">Reflect Chest of Drawers</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+			Rated <strong>5.00</strong> out of 5		
+	<bdi>&#36;399.00</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/">
+			<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/senectus-tincidunt-1-290x326.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/senectus-tincidunt-1-290x326.jpg 290w, https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/senectus-tincidunt-1-65x74.jpg 65w" sizes="(max-width: 290px) 100vw, 290px" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/">
+					<img width="290" height="326" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/senectus-tincidunt-2-290x326.jpg" alt="" decoding="async" loading="lazy" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="411" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="411"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="298b88c3a2" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+				<a href="?add-to-cart=411" data-quantity="1" data-product_id="411" data-product_sku="" aria-label="Add &ldquo;Henectus tincidunt&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a>							
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/">Henectus tincidunt</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/accessories/" rel="tag">Accessories</a>		
+	<bdi>&#36;429.00</bdi>
+											<!-- end #carousel-550 -->]]></content:encoded>
+															<wp:post_id>9621</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 11:59:30]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 11:59:30]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-01-03 14:28:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-01-03 14:28:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-smart-home]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.16.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"09058da","elType":"container","settings":{"wd_section_stretch":"stretch","background_background":"classic","background_color":"#F3F5F9","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-top-bg-opt.jpg","id":9656,"alt":"","source":"library"},"background_position":"top center","background_repeat":"no-repeat","margin":{"unit":"px","top":"-40","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"80","right":"15","bottom":"80","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"60","right":"15","bottom":"60","left":"15","isLinked":false},"background_size":"contain","flex_direction":"column","flex_gap":{"size":20,"column":"20","row":"120","unit":"px","isLinked":false},"flex_gap_tablet":{"column":"20","row":"100","isLinked":false,"unit":"px","size":20},"flex_gap_mobile":{"column":"20","row":"60","isLinked":false,"unit":"px","size":20},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"ae6e80d","elType":"container","settings":{"flex_gap":{"size":30,"column":"30","row":"40","unit":"px"},"structure":"20","content_position":"middle","flex_direction":"row","flex_align_items":"center","content_width":"full","scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"f928533","elType":"container","settings":{"_column_size":50,"width":{"size":58.3,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":50,"unit":"%"},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"content_width":"full","container_sticky_offset":50},"elements":[{"id":"6d44607","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-top-device-opt.png","id":9630,"alt":"","source":"library"},"scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true},{"id":"bbe6205","elType":"container","settings":{"_column_size":50,"width":{"size":41.7,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":50,"unit":"%"},"content_width":"full","container_sticky_offset":50},"elements":[{"id":"7a80bb5","elType":"widget","settings":{"subtitle":"","title":"Make Your Home Smart and Secure","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":60,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"scroll_y":-80,"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]}},"elements":[],"widgetType":"wd_title"},{"id":"6ed8cf5","elType":"widget","settings":{"text":"<p>Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen.<\/p>","width":{"unit":"px","size":366,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"scroll_y":-80},"elements":[],"widgetType":"wd_text_block"},{"id":"935f8f0","elType":"widget","settings":{"text":"Read more","color":"primary","size":"large","align":"left","scroll_y":-80,"shape":"semi-round"},"elements":[],"widgetType":"wd_button"}],"isInner":true}],"isInner":true},{"id":"74bbe71","elType":"widget","settings":{"content_repeater":[{"title":"Deters burglars","subtitle":"","_id":"702f0f5","icon_text":"01.","btn_text":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-thief.svg","id":9648,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"50","height":"50"},"content":""},{"title":"Recognizes fire","subtitle":"","icon_text":"01.","btn_text":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-fire.svg","id":9643,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"50","height":"50"},"content":"","_id":"80cd48b"},{"title":"Detects flooding","subtitle":"","icon_text":"01.","btn_text":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-flooding.svg","id":9644,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"50","height":"50"},"content":"","_id":"7455632"},{"title":"Streams security","subtitle":"","icon_text":"01.","btn_text":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-security.svg","id":9647,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"50","height":"50"},"content":"","_id":"1effd84"},{"title":"Controls appliances","subtitle":"","icon_text":"01.","btn_text":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-controls.svg","id":9641,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"50","height":"50"},"content":"","_id":"0880fb3"}],"scroll_y":-80,"slides_per_view":{"unit":"px","size":5,"sizes":[]},"hide_pagination_control":"yes","hide_prev_next_buttons":"yes","slides_per_view_tablet":{"unit":"px","size":3,"sizes":[]},"slides_per_view_mobile":{"unit":"px","size":2,"sizes":[]},"sync_parent_id":"wd_659417029922f"},"elements":[],"widgetType":"wd_infobox_carousel"}],"isInner":false},{"id":"08147c8","elType":"container","settings":{"wd_section_stretch":"stretch","background_background":"gradient","background_color":"#AE90DE","background_color_b":"#5077D9","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"80","right":"15","bottom":"80","left":"15","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"70","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"60","right":"15","bottom":"60","left":"15","isLinked":false},"flex_gap":{"size":40,"column":"40","row":"40","unit":"px","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"3936bbb","elType":"container","settings":{"flex_gap":{"size":30,"column":"30","row":"40","unit":"px"},"content_position":"middle","structure":"20","flex_direction":"row","flex_align_items":"center","content_width":"full","scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"bda0b23","elType":"container","settings":{"_column_size":50,"width":{"size":41.6,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":50,"unit":"%"},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"content_width":"full","flex_gap":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30},"container_sticky_offset":50},"elements":[{"id":"a4160c4","elType":"widget","settings":{"subtitle":"","title":"Perfect Solution for Your Home","after_title":"","color":"white","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"65267af","elType":"widget","settings":{"list_items":[{"list_content":"Self-monitoring or 24\/7 fast-response pro monitoring","_id":"1ff14be"},{"list_content":"Customizable systems you can easily set up yourself","_id":"408dc09"},{"list_content":"Customizable alerts, schedules and automations","_id":"e6eb323"},{"list_content":"Security and video packages","_id":"7ee137b"}],"icon":{"value":"fas fa-check","library":"fa-solid"},"size":"medium","color_scheme":"light","icons_color":"#FFFFFF","scroll_y":-80},"elements":[],"widgetType":"wd_list"},{"id":"b7b4d8e","elType":"widget","settings":{"text":"VIEW MORE","style":"bordered","color":"white","size":"large","shape":"semi-round","align":"left","scroll_y":-80},"elements":[],"widgetType":"wd_button"}],"isInner":true},{"id":"a693cae","elType":"container","settings":{"_column_size":50,"width":{"size":58.4,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":50,"unit":"%"},"content_width":"full","container_sticky_offset":50},"elements":[{"id":"a214036","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-image-1-opt.png","id":9675,"alt":"","source":"library"},"image_size":"full","items":[{"content":"Open source software for your client's needs","_id":"5d07920","hotspot_type":"text","hotspot_dropdown_side":"right","title":"Smoke sensor","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-hotspot-smoke-opt.png","id":9676,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"220","height":"80"},"link_text":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"hotspot_position_horizontal":{"unit":"px","size":10.6,"sizes":[]},"hotspot_position_vertical":{"unit":"px","size":39.5,"sizes":[]}},{"content":"True enough, but that's not all that it takes","hotspot_type":"text","hotspot_dropdown_side":"right","title":"Door\/Window Sensor","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-hotspot-sensor-opt.png","id":9686,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"220","height":"80"},"link_text":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"hotspot_position_horizontal":{"unit":"px","size":27.4,"sizes":[]},"hotspot_position_vertical":{"unit":"px","size":24.3,"sizes":[]},"_id":"d3c5d1a"},{"content":"Focus on the actual layout, or color scheme","hotspot_type":"text","title":"Smart Light","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-hotspot-light-opt.png","id":9687,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"220","height":"80"},"link_text":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"hotspot_position_horizontal":{"unit":"px","size":68.6,"sizes":[]},"hotspot_position_vertical":{"unit":"px","size":31.3,"sizes":[]},"_id":"544bf53"}],"scroll_y":-80,"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"85","isLinked":false},"_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_image_hotspot"}],"isInner":true}],"isInner":true},{"id":"4008ea8","elType":"widget","settings":{"text":"<p>* You can test our security system within 30 days.<\/p>","text_color_scheme":"light","text_alignment":"center","text_color":"custom","custom_text_color":"#FFFFFF4D","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":false},{"id":"a3378ba","elType":"container","settings":{"boxed_width":{"unit":"px","size":850,"sizes":[]},"wd_section_stretch":"stretch","background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-ecosystem-bg-opt.jpg","id":9707,"alt":"","source":"library"},"background_position":"bottom center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"15","bottom":"70","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"60","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"15","bottom":"50","left":"15","isLinked":false},"flex_direction":"column","flex_gap":{"size":0,"column":"0","row":"0","unit":"px","isLinked":true},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"da45d33","elType":"widget","settings":{"subtitle":"","title":"Smart Cloud Ecosystem","after_title":"<p>Our service uses cloud technologies. You can always get remote access to the smart home system via the Internet. Even if your less into design and more into content strategy you may.<\/p>","width":{"unit":"px","size":780,"sizes":[]},"width_tablet":{"unit":"%","size":760,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"title_typography_line_height_mobile":{"unit":"em","size":1.2,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"110","left":"0","isLinked":false},"scroll_y":-80,"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":16,"sizes":[]},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_title"},{"id":"b8bbed0","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-ecosystem-device-opt.png","id":9700,"alt":"","source":"library"},"alignment":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80,"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_image_or_svg"},{"id":"ca67315","elType":"widget","settings":{"content_repeater":[{"title":"Video monitoring","subtitle":"","_id":"d5125f3","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-video-monitoring-opt.jpg","id":9701,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"60","height":"60"},"content":"<p>Secure your home and privacy<\/p>","btn_text":""},{"title":"Door\/Window Sensor","subtitle":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-door-window-sensor-opt.jpg","id":9702,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"60","height":"60"},"content":"<p>The villagers are out there with<\/p>","btn_text":"","_id":"ea71df9"},{"title":"Smoke sensor","subtitle":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-smoke-sensor-opt.jpg","id":9703,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"60","height":"60"},"content":"<p>Feather it at the least, running<\/p>","btn_text":"","_id":"0651125"}],"hide_pagination_control":"yes","hide_prev_next_buttons":"","_margin":{"unit":"px","top":"0","right":"40","bottom":"0","left":"40","isLinked":false},"scroll_y":-80,"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"slides_per_view_tablet":{"unit":"px","size":2,"sizes":[]},"sync_parent_id":"wd_659417029922f"},"elements":[],"widgetType":"wd_infobox_carousel"}],"isInner":false},{"id":"dae136e","elType":"container","settings":{"content_position":"middle","structure":"20","wd_section_stretch":"stretch","background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-features-bg-opt.jpg","id":9739,"alt":"","source":"library"},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"40","right":"15","bottom":"110","left":"15","isLinked":false},"flex_gap":{"size":30,"column":"30","row":"30","unit":"px","isLinked":true},"padding_tablet":{"unit":"px","top":"40","right":"15","bottom":"80","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"20","right":"15","bottom":"70","left":"15","isLinked":false},"flex_direction":"row","flex_align_items":"center","scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"dc00d54","elType":"container","settings":{"_column_size":50,"width":{"size":42,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"width_tablet":{"size":33.3,"unit":"%"},"content_width":"full","container_sticky_offset":50},"elements":[{"id":"6dbaced","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-notification-opt.png","id":9732,"alt":"","source":"library"},"alignment":"center","scroll_y":-80,"_margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true},{"id":"56f5d1c","elType":"container","settings":{"_column_size":50,"width":{"size":58,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"width_tablet":{"size":66.7,"unit":"%"},"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"container_sticky_offset":50},"elements":[{"id":"62cd6eb","elType":"widget","settings":{"subtitle":"","title":"Security Features","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80,"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_title"},{"id":"0c77e87","elType":"widget","settings":{"text":"<p>Chances are there wasn\u2019t collaboration, communication, and checkpoints, there wasn\u2019t a process agreed upon or specified with the granularity required. It\u2019s content strategy gone awry right from the start wouldn\u2019t.<\/p>","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80,"width":{"unit":"px","size":595,"sizes":[]},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_text_block"},{"id":"14c88af","elType":"widget","settings":{"content_repeater":[{"title":"Notifications","subtitle":"","_id":"d548e59","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-notification.svg","id":9646,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"40","height":"40"},"content":"<p>Stay updated with a full event log in the notification<\/p>","btn_text":""},{"title":"Camera Live","subtitle":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-camera-stream.svg","id":9640,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"40","height":"40"},"content":"<p>Keep track of your home wherever you are accept<\/p>","btn_text":"","_id":"11f583e"},{"title":"Guest Mode","subtitle":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"icon_type":"icon","icon_text":"01.","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-guest-mode.svg","id":9645,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"40","height":"40"},"content":"<p>Give friends one-time access to open doors<\/p>","btn_text":"","_id":"6091e70"}],"alignment":"left","scroll_y":-80,"_margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"0","right":"150","bottom":"0","left":"0","isLinked":false},"hide_pagination_control":"yes","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"slides_per_view_tablet":{"unit":"px","size":2,"sizes":[]},"sync_parent_id":"wd_659417029922f"},"elements":[],"widgetType":"wd_infobox_carousel"}],"isInner":true}],"isInner":false},{"id":"80ee5de","elType":"container","settings":{"flex_gap":{"size":30,"column":"30","row":"40","unit":"px","isLinked":false},"content_position":"middle","wd_section_stretch":"stretch","structure":"20","background_background":"gradient","background_color":"#AE90DE","background_color_b":"#5077D9","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"70","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"padding":{"unit":"px","top":"100","right":"15","bottom":"100","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"80","right":"15","bottom":"80","left":"15","isLinked":false},"flex_direction":"row","flex_direction_tablet":"column","padding_mobile":{"unit":"px","top":"60","right":"15","bottom":"60","left":"15","isLinked":false},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"da0586d","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"width_tablet":{"size":66.6,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"content_width":"full","width_mobile":{"unit":"%","size":100,"sizes":[]},"container_sticky_offset":50},"elements":[{"id":"99dfc98","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-scenarios-opt.png","id":9813,"alt":"","source":"library"},"alignment":"center","scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true},{"id":"c55ed30","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"width_tablet":{"size":100,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"container_sticky_offset":50},"elements":[{"id":"736b925","elType":"widget","settings":{"subtitle":"","title":"Create Personal Scenarios","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80,"color":"white","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_title"},{"id":"b68e260","elType":"widget","settings":{"text":"<p>Automate your smart home with scripts. Rest assured that every command will be delivered to the hub communications executed with reliable radio.<\/p>","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80,"width":{"unit":"px","size":440,"sizes":[]},"text_color_scheme":"light","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_text_block"},{"id":"a03ae8c","elType":"container","settings":{"structure":"20","flex_direction":"column","flex_gap":{"size":20,"column":"20","row":"20","unit":"px","isLinked":true},"content_width":"full","scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"5d05749","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"content_width":"full","flex_direction":"row","container_sticky_offset":50},"elements":[{"id":"e113363","elType":"widget","settings":{"list_items":[{"list_content":"Good Morning","_id":"dd2635d"}],"list_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-g-m.svg","id":9650,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"26","height":"26"},"size":"large","color_scheme":"custom","text_color":"#212121","text_color_hover":"#212121","_padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":false},"scroll_y":-80,"_background_background":"classic","_background_color":"#FFFFFF","_border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_list"},{"id":"9071d71","elType":"widget","settings":{"list_items":[{"list_content":"Good Night","_id":"dd2635d"}],"list_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-g-n.svg","id":9651,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"26","height":"26"},"size":"large","color_scheme":"custom","text_color":"#212121","text_color_hover":"#212121","_padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":false},"scroll_y":-80,"_background_background":"classic","_background_color":"#FFFFFF","_border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_list"}],"isInner":true},{"id":"fe5b788","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"column_sticky_offset":50,"scroll_y":-80,"content_width":"full","flex_direction":"row","container_sticky_offset":50},"elements":[{"id":"98e6396","elType":"widget","settings":{"list_items":[{"list_content":"I\u2019m Home","_id":"dd2635d"}],"list_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-i-h.svg","id":9652,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"26","height":"26"},"size":"large","color_scheme":"custom","text_color":"#212121","text_color_hover":"#212121","_padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":false},"scroll_y":-80,"_background_background":"classic","_background_color":"#FFFFFF","_border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"wd_list"},{"id":"7011126","elType":"widget","settings":{"list_items":[{"list_content":"Add Scenario","_id":"dd2635d"}],"list_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-add.svg","id":9649,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"26","height":"26"},"size":"large","color_scheme":"custom","text_color":"#FFFFFFCC","text_color_hover":"#FFFFFFCC","_padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":false},"scroll_y":-80,"_border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]},"_border_border":"solid","_border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"_border_color":"#FFFFFF33"},"elements":[],"widgetType":"wd_list"}],"isInner":true}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"3a99dd2","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"flex_direction":"column","flex_gap":{"size":30,"column":"30","row":"30","unit":"px","isLinked":true},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"224a740","elType":"widget","settings":{"subtitle":"","title":"Which Hub is Best for Your Home?","after_title":"","size":"extra-large","width":{"unit":"px","size":430,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"0fac266","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_gap":{"size":null,"column":"","row":"","unit":"px","isLinked":true},"content_width":"full","flex_direction_mobile":"column","scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"cd06b20","elType":"widget","settings":{"link":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/product\/augue-adipiscing-euismod\/","is_external":false,"nofollow":false,"custom_attributes":""},"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-hub-product-1-opt.jpg","id":9826,"alt":"","source":"library"},"image_size":"full","subtitle":"","title":"Smart home hub black","content":"<p>$229<\/p>","btn_text":"Read more","hover":"zoom","title_size":"large","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":24,"sizes":[]},"btn_color":"primary","btn_shape":"semi-round","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","scroll_y":-80,"custom_text_color":"#1010104D","text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":24,"sizes":[]},"text_typography_font_weight":"600","_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]},"custom_height":"Yes","image_height":{"unit":"px","size":486,"sizes":[]},"image_height_tablet":{"unit":"px","size":460,"sizes":[]},"image_height_mobile":{"unit":"px","size":380,"sizes":[]}},"elements":[],"widgetType":"wd_banner"},{"id":"c71448c","elType":"widget","settings":{"link":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/product\/ornare-auctor\/","is_external":false,"nofollow":false,"custom_attributes":""},"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-hub-product-2-opt.jpg","id":9827,"alt":"","source":"library"},"image_size":"full","subtitle":"","title":"Smart home hub white","content":"$269","btn_text":"Read more","hover":"zoom","title_size":"large","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":24,"sizes":[]},"btn_color":"primary","btn_shape":"semi-round","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","scroll_y":-80,"custom_text_color":"#1010104D","text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":24,"sizes":[]},"text_typography_font_weight":"600","_element_width":"initial","_element_custom_width":{"unit":"%","size":50,"sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":100,"sizes":[]},"custom_height":"Yes","image_height":{"unit":"px","size":486,"sizes":[]},"image_height_tablet":{"unit":"px","size":460,"sizes":[]},"image_height_mobile":{"unit":"px","size":380,"sizes":[]}},"elements":[],"widgetType":"wd_banner"}],"isInner":true}],"isInner":false},{"id":"001f616","elType":"container","settings":{"wd_section_stretch":"stretch","background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/smart-home-products-bg-opt.jpg","id":9831,"alt":"","source":"library"},"background_position":"bottom center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"0","bottom":"-40","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"15","bottom":"110","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"90","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"15","bottom":"70","left":"15","isLinked":false},"flex_direction":"column","flex_gap":{"size":30,"column":"30","row":"30","unit":"px","isLinked":true},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"300492f","elType":"widget","settings":{"subtitle":"","title":"You May Also Like\u2026","after_title":"","size":"extra-large","align":"left","title_typography_typography":"custom","title_typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"ed19ed2","elType":"widget","settings":{"orderby":"date","order":"ASC","layout":"carousel","spacing":"20","items_per_page":5,"slides_per_view":{"unit":"px","size":4,"sizes":[]},"hide_pagination_control":"yes","product_hover":"quick","img_size":"custom","img_size_custom":{"width":"290","height":"326"},"scroll_y":-80,"slides_per_view_tablet":{"unit":"px","size":3,"sizes":[]},"slides_per_view_mobile":{"unit":"px","size":2,"sizes":[]},"sync_parent_id":"wd_659417029c842"},"elements":[],"widgetType":"wd_products"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:11:{s:15:"wd_image_or_svg";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:2:{s:5:"image";i:4;s:9:"alignment";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:19;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:19;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:3;}}}}s:8:"wd_title";a:3:{s:5:"count";i:7;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"general_content_section";a:3:{s:8:"subtitle";i:7;s:5:"title";i:7;s:11:"after_title";i:7;}}s:5:"style";a:3:{s:21:"general_style_section";a:4:{s:5:"align";i:5;s:5:"color";i:2;s:5:"width";i:2;s:4:"size";i:2;}s:19:"title_style_section";a:3:{s:27:"title_typography_typography";i:7;s:26:"title_typography_font_size";i:5;s:28:"title_typography_line_height";i:5;}s:18:"text_style_section";a:2:{s:26:"text_typography_typography";i:1;s:25:"text_typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:13:"wd_text_block";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:4:"text";i:4;}}s:5:"style";a:2:{s:29:"style_general_content_section";a:3:{s:5:"width";i:3;s:17:"text_color_scheme";i:2;s:14:"text_alignment";i:1;}s:31:"style_paragraph_content_section";a:2:{s:10:"text_color";i:1;s:17:"custom_text_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:9:"wd_button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:5:"style";a:1:{s:21:"general_style_section";a:5:{s:5:"color";i:2;s:4:"size";i:2;s:5:"align";i:2;s:5:"shape";i:2;s:5:"style";i:1;}}s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:4:"text";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:12;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:3:{s:14:"section_layout";a:3:{s:3:"gap";i:4;s:16:"content_position";i:4;s:13:"content_width";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:7;}s:15:"wd_extra_layout";a:1:{s:18:"wd_section_stretch";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:7;s:7:"padding";i:6;}}s:5:"style";a:1:{s:18:"section_background";a:7:{s:21:"background_background";i:6;s:16:"background_color";i:3;s:16:"background_image";i:4;s:19:"background_position";i:4;s:17:"background_repeat";i:4;s:15:"background_size";i:4;s:18:"background_color_b";i:2;}}}}s:19:"wd_infobox_carousel";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:16:"content_repeater";i:3;}}s:5:"style";a:2:{s:22:"carousel_style_section";a:3:{s:15:"slides_per_view";i:1;s:23:"hide_pagination_control";i:3;s:22:"hide_prev_next_buttons";i:2;}s:21:"general_style_section";a:1:{s:9:"alignment";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:8:"_padding";i:1;}}}}s:7:"wd_list";a:3:{s:5:"count";i:5;s:15:"control_percent";i:9;s:8:"controls";a:3:{s:7:"content";a:2:{s:23:"general_content_section";a:1:{s:10:"list_items";i:5;}s:20:"icon_content_section";a:5:{s:4:"icon";i:1;s:9:"list_type";i:4;s:5:"image";i:4;s:10:"image_size";i:4;s:22:"image_custom_dimension";i:4;}}s:5:"style";a:2:{s:21:"general_style_section";a:4:{s:4:"size";i:5;s:12:"color_scheme";i:5;s:10:"text_color";i:4;s:16:"text_color_hover";i:4;}s:18:"icon_style_section";a:1:{s:11:"icons_color";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:4;}s:19:"_section_background";a:2:{s:22:"_background_background";i:4;s:17:"_background_color";i:3;}s:15:"_section_border";a:4:{s:14:"_border_radius";i:4;s:14:"_border_border";i:1;s:13:"_border_width";i:1;s:13:"_border_color";i:1;}}}}s:16:"wd_image_hotspot";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:2:{s:23:"general_content_section";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}s:21:"items_content_section";a:1:{s:5:"items";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:9:"wd_banner";a:3:{s:5:"count";i:2;s:15:"control_percent";i:8;s:8:"controls";a:2:{s:7:"content";a:3:{s:23:"general_content_section";a:1:{s:4:"link";i:2;}s:21:"image_content_section";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}s:15:"content_section";a:3:{s:8:"subtitle";i:2;s:5:"title";i:2;s:7:"content";i:2;}}s:5:"style";a:5:{s:21:"general_style_section";a:2:{s:5:"hover";i:2;s:10:"title_size";i:2;}s:19:"title_style_section";a:2:{s:27:"title_typography_typography";i:2;s:26:"title_typography_font_size";i:2;}s:20:"button_style_section";a:2:{s:9:"btn_color";i:2;s:9:"btn_shape";i:2;}s:20:"layout_style_section";a:3:{s:20:"horizontal_alignment";i:2;s:18:"vertical_alignment";i:2;s:14:"text_alignment";i:2;}s:21:"content_style_section";a:4:{s:17:"custom_text_color";i:2;s:26:"text_typography_typography";i:2;s:25:"text_typography_font_size";i:2;s:27:"text_typography_font_weight";i:2;}}}}s:11:"wd_products";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:2:{s:7:"orderby";i:1;s:5:"order";i:1;}}s:5:"style";a:3:{s:20:"layout_style_section";a:3:{s:6:"layout";i:1;s:7:"spacing";i:1;s:14:"items_per_page";i:1;}s:22:"carousel_style_section";a:2:{s:15:"slides_per_view";i:1;s:23:"hide_pagination_control";i:1;}s:29:"products_design_style_section";a:3:{s:13:"product_hover";i:1;s:8:"img_size";i:1;s:15:"img_size_custom";i:1;}}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-logo]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-logo/</link>
+					<pubDate>Tue, 09 Nov 2021 12:00:30 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo.svg</guid>
+															<wp:post_id>9626</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:00:30]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:00:30]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:00:30]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:00:30]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-logo]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-logo.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-popup]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-popup/</link>
+					<pubDate>Tue, 09 Nov 2021 12:04:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-popup.jpg</guid>
+															<wp:post_id>9628</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:04:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:04:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:04:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:04:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-popup]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-popup.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-popup.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-page-title]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-page-title/</link>
+					<pubDate>Tue, 09 Nov 2021 12:04:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-page-title.jpg</guid>
+															<wp:post_id>9629</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:04:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:04:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:04:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:04:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-page-title]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-page-title.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-page-title.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-top-device-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-top-device-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:08:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-device-opt.png</guid>
+															<wp:post_id>9630</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:08:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:08:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:08:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:08:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-top-device-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-device-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-top-device-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-fire]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-fire/</link>
+					<pubDate>Tue, 09 Nov 2021 12:12:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-fire.svg</guid>
+															<wp:post_id>9643</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:12:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:12:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:12:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:12:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-fire]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-fire.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-fire.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-thief]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-thief/</link>
+					<pubDate>Tue, 09 Nov 2021 12:12:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-thief.svg</guid>
+															<wp:post_id>9648</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:12:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:12:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:12:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:12:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-thief]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-thief.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-thief.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-top-bg-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-top-bg-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:16:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-bg-opt.jpg</guid>
+															<wp:post_id>9656</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:16:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:16:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:16:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:16:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-top-bg-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-top-bg-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-top-bg-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-1/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-1.jpg</guid>
+															<wp:post_id>10015</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-2/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-2.jpg</guid>
+															<wp:post_id>10016</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-3/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-3.jpg</guid>
+															<wp:post_id>10017</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-4/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-4.jpg</guid>
+															<wp:post_id>10018</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 6]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-6/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-6.jpg</guid>
+															<wp:post_id>10020</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-6]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-6.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-6.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 7]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-7/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-7.jpg</guid>
+															<wp:post_id>10021</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-7]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-7.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-7.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 8]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-8/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-8.jpg</guid>
+															<wp:post_id>10022</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-8]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-8.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-8.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 9]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-9/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-9.jpg</guid>
+															<wp:post_id>10023</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-9]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-9.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-9.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 10]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-10/</link>
+					<pubDate>Tue, 09 Nov 2021 14:28:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-10.jpg</guid>
+															<wp:post_id>10024</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:28:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:28:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:28:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:28:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-10]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-10.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-10.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 12]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-12/</link>
+					<pubDate>Tue, 09 Nov 2021 14:29:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-12.jpg</guid>
+															<wp:post_id>10026</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:29:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:29:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:29:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:29:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-12]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-12.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-12.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-product 5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-product-5-2/</link>
+					<pubDate>Tue, 09 Nov 2021 14:42:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-5-1.jpg</guid>
+															<wp:post_id>10036</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 14:42:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 14:42:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 14:42:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 14:42:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-product-5-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-product-5-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-product-5-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-camera-stream]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-camera-stream/</link>
+					<pubDate>Tue, 09 Nov 2021 12:12:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-camera-stream.svg</guid>
+															<wp:post_id>9640</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:12:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:12:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:12:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:12:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-camera-stream]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-camera-stream.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-camera-stream.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-controls]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-controls/</link>
+					<pubDate>Tue, 09 Nov 2021 12:12:37 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-controls.svg</guid>
+															<wp:post_id>9641</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:12:37]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:12:37]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:12:37]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:12:37]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-controls]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-controls.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-controls.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-flooding]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-flooding/</link>
+					<pubDate>Tue, 09 Nov 2021 12:12:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-flooding.svg</guid>
+															<wp:post_id>9644</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:12:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:12:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:12:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:12:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-flooding]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-flooding.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-flooding.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-guest-mode]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-guest-mode/</link>
+					<pubDate>Tue, 09 Nov 2021 12:12:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-guest-mode.svg</guid>
+															<wp:post_id>9645</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:12:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:12:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:12:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:12:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-guest-mode]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-guest-mode.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-guest-mode.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-notification]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-notification/</link>
+					<pubDate>Tue, 09 Nov 2021 12:12:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-notification.svg</guid>
+															<wp:post_id>9646</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:12:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:12:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:12:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:12:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-notification]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-notification.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-notification.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-security]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-security/</link>
+					<pubDate>Tue, 09 Nov 2021 12:12:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-security.svg</guid>
+															<wp:post_id>9647</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:12:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:12:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:12:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:12:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-security]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-security.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-security.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-g-m]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-g-m/</link>
+					<pubDate>Tue, 09 Nov 2021 12:13:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-m.svg</guid>
+															<wp:post_id>9650</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:13:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:13:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:13:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:13:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-g-m]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-m.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-g-m.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-g-n]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-g-n/</link>
+					<pubDate>Tue, 09 Nov 2021 12:13:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-n.svg</guid>
+															<wp:post_id>9651</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:13:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:13:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:13:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:13:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-g-n]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-g-n.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-g-n.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-image-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-image-1-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:24:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt.png</guid>
+															<wp:post_id>9675</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:24:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:24:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:24:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:24:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-image-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-image-1-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-image-1-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-hotspot-smoke-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/w-smart-home-hotspot-smoke-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:26:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-smoke-opt.png</guid>
+															<wp:post_id>9676</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:26:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:26:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:26:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:26:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-hotspot-smoke-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-smoke-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-hotspot-smoke-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-hotspot-sensor-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/w-smart-home-hotspot-sensor-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:32:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-sensor-opt.png</guid>
+															<wp:post_id>9686</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:32:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:32:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:32:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:32:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-hotspot-sensor-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-sensor-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-hotspot-sensor-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-hotspot-light-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/w-smart-home-hotspot-light-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:33:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-light-opt.png</guid>
+															<wp:post_id>9687</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:33:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:33:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:33:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:33:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-hotspot-light-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-hotspot-light-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-hotspot-light-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-ecosystem-device-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-ecosystem-device-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:39:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-device-opt.png</guid>
+															<wp:post_id>9700</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:39:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:39:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:39:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:39:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-ecosystem-device-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-device-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-ecosystem-device-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-video-monitoring-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-video-monitoring-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:39:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-video-monitoring-opt.jpg</guid>
+															<wp:post_id>9701</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:39:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:39:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:39:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:39:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-video-monitoring-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-video-monitoring-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-video-monitoring-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-door-window-sensor-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-door-window-sensor-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:40:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-door-window-sensor-opt.jpg</guid>
+															<wp:post_id>9702</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:40:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:40:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:40:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:40:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-door-window-sensor-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-door-window-sensor-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-door-window-sensor-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-smoke-sensor-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-smoke-sensor-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:41:28 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-smoke-sensor-opt.jpg</guid>
+															<wp:post_id>9703</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:41:28]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:41:28]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:41:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:41:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-smoke-sensor-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-smoke-sensor-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-smoke-sensor-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-ecosystem-bg-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-ecosystem-bg-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:42:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-bg-opt.jpg</guid>
+															<wp:post_id>9707</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:42:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:42:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:42:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:42:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-ecosystem-bg-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-ecosystem-bg-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-ecosystem-bg-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-notification-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-notification-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:49:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-notification-opt.png</guid>
+															<wp:post_id>9732</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:49:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:49:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:49:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:49:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-notification-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-notification-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-notification-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-features-bg-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-features-bg-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 12:55:18 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-features-bg-opt.jpg</guid>
+															<wp:post_id>9739</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:55:18]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:55:18]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:55:18]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:55:18]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-features-bg-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-features-bg-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-features-bg-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-scenarios-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-scenarios-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 13:17:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt.png</guid>
+															<wp:post_id>9813</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:17:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:17:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:17:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:17:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-scenarios-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-scenarios-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-scenarios-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-smart-home-logo-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/w-smart-home-logo-white/</link>
+					<pubDate>Tue, 09 Nov 2021 12:00:30 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo-white.svg</guid>
+															<wp:post_id>9627</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:00:30]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:00:30]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:00:30]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:00:30]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-smart-home-logo-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/w-smart-home-logo-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-add]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-add/</link>
+					<pubDate>Tue, 09 Nov 2021 12:13:02 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-add.svg</guid>
+															<wp:post_id>9649</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:13:02]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:13:02]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:13:02]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:13:02]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-add]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-add.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-add.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-i-h]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/smart-home-i-h/</link>
+					<pubDate>Tue, 09 Nov 2021 12:13:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-i-h.svg</guid>
+															<wp:post_id>9652</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 12:13:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 12:13:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 12:13:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 12:13:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-i-h]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-i-h.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-i-h.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-hub-product-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-hub-product-1-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 13:27:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-1-opt.jpg</guid>
+															<wp:post_id>9826</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:27:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:27:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:27:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:27:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-hub-product-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-hub-product-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-hub-product-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-hub-product-2-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 13:29:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-2-opt.jpg</guid>
+															<wp:post_id>9827</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:29:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:29:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:29:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:29:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-hub-product-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-hub-product-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-hub-product-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[smart-home-products-bg-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-smart-home/smart-home-products-bg-opt/</link>
+					<pubDate>Tue, 09 Nov 2021 13:32:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-products-bg-opt.jpg</guid>
+															<wp:post_id>9831</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:32:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:32:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:32:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:32:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[smart-home-products-bg-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>9621</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/smart-home-products-bg-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/smart-home-products-bg-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Footer Smart Home]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/?cms_block=footer-smart-home</link>
+					<pubDate>Tue, 09 Nov 2021 13:33:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=cms_block&#038;p=9835</guid>
+											<content:encoded><![CDATA[<a  href="#">
+								<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/11/w-smart-home-logo-white.svg" title="w-smart-home-logo-white" width="180" height="40">							</a>
+						<link rel="stylesheet" id="wd-widget-nav-mega-menu-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/widget-nav-mega-menu.min.css?ver=7.3.2" type="text/css" media="all" /> 					
+						<ul id="menu-footer-menu-smart-home"><li id="menu-item-9837" ><a href="#">Home</a></li>
+<li id="menu-item-9838" ><a href="#">Shop</a></li>
+<li id="menu-item-9839" ><a href="#">Blog</a></li>
+<li id="menu-item-9840" ><a href="#">Pages</a></li>
+<li id="menu-item-9841" ><a href="#">Elements</a></li>
+<li id="menu-item-9842" ><a href="#">Buy</a></li>
+</ul>]]></content:encoded>
+															<wp:post_id>9835</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:33:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:33:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-11-17 15:19:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-11-17 15:19:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[footer-smart-home]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.16.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"f0e0367","elType":"container","settings":{"content_position":"middle","structure":"20","padding":{"unit":"px","top":"35","right":"0","bottom":"35","left":"0","isLinked":false},"flex_direction":"row","flex_gap":{"size":null,"column":"","row":"","unit":"px","isLinked":true},"flex_direction_mobile":"column","flex_justify_content":"space-between","scroll_y":-80},"elements":[{"id":"9c84f91","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/11\/w-smart-home-logo-white.svg","id":9627,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"180","height":"40"},"on_click_action":"link","link":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""},"scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"},{"id":"1296c63","elType":"widget","settings":{"title":"","nav_menu":"117","design":"horizontal","scroll_y":-80},"elements":[],"widgetType":"wd_mega_menu"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:4:{s:15:"wd_image_or_svg";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:1:{s:7:"content";a:1:{s:23:"general_content_section";a:5:{s:5:"image";i:1;s:10:"image_size";i:1;s:22:"image_custom_dimension";i:1;s:15:"on_click_action";i:1;s:4:"link";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}}}s:12:"wd_mega_menu";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:2:{s:5:"title";i:1;s:8:"nav_menu";i:1;}}s:5:"style";a:1:{s:21:"general_style_section";a:2:{s:6:"design";i:1;s:9:"alignment";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:16:"content_position";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Home]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/home-14/</link>
+					<pubDate>Tue, 09 Nov 2021 13:35:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9837</guid>
+															<wp:post_id>9837</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:35:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:35:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-14]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="footer-menu-smart-home"><![CDATA[Footer menu Smart Home]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9837]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Shop]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/shop-4/</link>
+					<pubDate>Tue, 09 Nov 2021 13:35:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9838</guid>
+															<wp:post_id>9838</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:35:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:35:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[shop-4]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="footer-menu-smart-home"><![CDATA[Footer menu Smart Home]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9838]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Blog]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/blog-5/</link>
+					<pubDate>Tue, 09 Nov 2021 13:35:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9839</guid>
+															<wp:post_id>9839</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:35:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:35:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[blog-5]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="footer-menu-smart-home"><![CDATA[Footer menu Smart Home]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9839]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Pages]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/pages-3/</link>
+					<pubDate>Tue, 09 Nov 2021 13:35:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9840</guid>
+															<wp:post_id>9840</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:35:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:35:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[pages-3]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>4</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="footer-menu-smart-home"><![CDATA[Footer menu Smart Home]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9840]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Elements]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/elements-2/</link>
+					<pubDate>Tue, 09 Nov 2021 13:35:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9841</guid>
+															<wp:post_id>9841</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:35:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:35:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[elements-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>5</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="footer-menu-smart-home"><![CDATA[Footer menu Smart Home]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9841]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Buy]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/2021/11/09/buy-2/</link>
+					<pubDate>Tue, 09 Nov 2021 13:35:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?p=9842</guid>
+															<wp:post_id>9842</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-09 13:35:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-09 13:35:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-09 13:35:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[buy-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>6</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="footer-menu-smart-home"><![CDATA[Footer menu Smart Home]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9842]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

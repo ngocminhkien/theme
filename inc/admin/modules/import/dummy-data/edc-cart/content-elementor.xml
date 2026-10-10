@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>EDC elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/edc-elementor</link>
+	<description></description>
+	<pubDate>Thu, 16 Apr 2026 15:12:22 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/edc-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - EDC]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-elementor/woodmart_layout/cart-edc/</link>
+					<pubDate>Wed, 06 May 2026 12:01:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/edc-elementor/?post_type=woodmart_layout&#038;p=2646</guid>
+											<content:encoded><![CDATA[ 						 							
+								 							
+							
+				<table>
+					<thead>
+					<tr>
+						<th>&nbsp;</th>
+						<th>&nbsp;</th>
+						<th scope="col">Product</th>
+						<th scope="col">Price</th>
+						<th scope="col">Quantity</th>
+						<th scope="col">Subtotal</th>
+					</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/edc-elementor/cart/?remove_item=fc6709bfdf0572f183c1a84ce5276e96&#038;_wpnonce=2956316e43" aria-label="Remove FidgetThings CoinFig Shift Steel from cart" data-product_id="1718" data-product_sku="ETC742">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/fidgetthings-coinfig-shift-steel/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/fidgetthings-coinfig-shift-steel-300x300.jpg" alt="FidgetThings CoinFig Shift Steel" loading="lazy" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/fidgetthings-coinfig-shift-steel/">FidgetThings CoinFig Shift Steel</a>								</td>
+								<td data-title="Price">
+									&#036;112.00								</td>
+								<td data-title="Quantity">
+			
+	<label for="quantity_69fb51cd26d49">FidgetThings CoinFig Shift Steel quantity</label>
+	
+			
+								</td>
+								<td data-title="Subtotal">
+									&#036;224.00								</td>
+							</tr>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/edc-elementor/cart/?remove_item=e1696007be4eefb81b1a1d39ce48681b&#038;_wpnonce=2956316e43" aria-label="Remove Alpaka Maglockz Keychain from cart" data-product_id="1659" data-product_sku="KYC825">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/alpaka-maglockz-keychain/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/alpaka-maglockz-keychain-300x300.jpg" alt="Alpaka Maglockz Keychain" loading="lazy" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/alpaka-maglockz-keychain/">Alpaka Maglockz Keychain</a>								</td>
+								<td data-title="Price">
+									&#036;21.00								</td>
+								<td data-title="Quantity">
+			
+	<label for="quantity_69fb51cd2726a">Alpaka Maglockz Keychain quantity</label>
+	
+			
+								</td>
+								<td data-title="Subtotal">
+									&#036;21.00								</td>
+							</tr>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/edc-elementor/cart/?remove_item=02f039058bd48307e6f653a2005c9dd2&#038;_wpnonce=2956316e43" aria-label="Remove Alpaka Zip Pouch Hook &amp; Loop from cart" data-product_id="1707" data-product_sku="BGS749">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/alpaka-zip-pouch-hook-loop/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/alpaka-zip-pouch-hook-loop-300x300.jpg" alt="Alpaka Zip Pouch Hook &amp; Loop" loading="lazy" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/alpaka-zip-pouch-hook-loop/">Alpaka Zip Pouch Hook &amp; Loop</a>								</td>
+								<td data-title="Price">
+									&#036;31.00								</td>
+								<td data-title="Quantity">
+			
+	<label for="quantity_69fb51cd27572">Alpaka Zip Pouch Hook &amp; Loop quantity</label>
+	
+			
+								</td>
+								<td data-title="Subtotal">
+									&#036;31.00								</td>
+							</tr>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/edc-elementor/cart/?remove_item=dca5672ff3444c7e997aa9a2c4eb2094&#038;_wpnonce=2956316e43" aria-label="Remove CountyComm Peanut Titanium Lighter (Gen 2) from cart" data-product_id="1589" data-product_sku="TLS943">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/countycomm-peanut-titanium-lighter-gen-2/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/countycomm-peanut-titanium-lighter-gen-2-300x300.jpg" alt="CountyComm Peanut Titanium Lighter (Gen 2)" loading="lazy" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/countycomm-peanut-titanium-lighter-gen-2/">CountyComm Peanut Titanium Lighter (Gen 2)</a>								</td>
+								<td data-title="Price">
+									&#036;52.00								</td>
+								<td data-title="Quantity">
+			
+	<label for="quantity_69fb51cd2784e">CountyComm Peanut Titanium Lighter (Gen 2) quantity</label>
+	
+			
+								</td>
+								<td data-title="Subtotal">
+									&#036;104.00								</td>
+							</tr>
+				<tr>
+					<td colspan="12">
+									<label for="coupon_code">
+										Coupon:									</label>
+									
+									<button type="submit" name="apply_coupon" value="Apply coupon">
+										Apply coupon									</button>
+							<button type="submit" name="update_cart" value="Update cart">
+								Update cart							</button>
+													
+					</td>
+				</tr>
+								</tbody>
+			</table>
+					
+	<h2>Cart totals</h2>
+	<table cellspacing="0">
+		<tr>
+			<th>Subtotal</th>
+			<td data-title="Subtotal">&#036;380.00</td>
+		</tr>
+		<tr>
+			<th>Total</th>
+			<td data-title="Total"><strong>&#036;380.00</strong> </td>
+		</tr>
+	</table>
+<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/checkout/">
+	Proceed to checkout</a>
+								 					
+				<h4>You May Be Interested In…</h4> 
+								 						 						 						 						 						 						  						 						
+				 			
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/alpaka-maglockz-keychain/" aria-label="Alpaka Maglockz Keychain">
+							 					
+									<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/alpaka-maglockz-keychain.jpg" alt="" loading="lazy" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/alpaka-maglockz-keychain/">
+				Alpaka Maglockz Keychain			</a>
+		</h3>
+	<del aria-hidden="true">&#036;26.00</del> Original price was: &#036;26.00.<ins aria-hidden="true">&#036;21.00</ins>Current price is: &#036;21.00.
+			 						 					
+			-19%		
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/alpaka-zip-pouch-hook-loop/" aria-label="Alpaka Zip Pouch Hook &amp; Loop">
+									<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/alpaka-zip-pouch-hook-loop.jpg" alt="" loading="lazy" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/alpaka-zip-pouch-hook-loop/">
+				Alpaka Zip Pouch Hook &amp; Loop			</a>
+		</h3>
+	&#036;31.00
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/bellroy-sling-mini/" aria-label="Bellroy Sling Mini">
+									<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/bellroy-sling-mini.jpg" alt="" loading="lazy" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/bellroy-sling-mini/">
+				Bellroy Sling Mini			</a>
+		</h3>
+	&#036;83.00
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/big-idea-design-slim-titanium-pen/" aria-label="Big Idea Design Slim Titanium Pen">
+									<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/big-idea-design-slim-titanium-pen.jpg" alt="" loading="lazy" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/big-idea-design-slim-titanium-pen/">
+				Big Idea Design Slim Titanium Pen			</a>
+		</h3>
+	&#036;103.00
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/big-idea-design-tpt-pocket-tool/" aria-label="Big Idea Design TPT Pocket Tool">
+									<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/edc-elementor/wp-content/uploads/sites/74/2026/04/big-idea-design-tpt-pocket-tool.jpg" alt="" loading="lazy" />			</a>
+		<h3>
+			<a href="https://dummy.xtemos.com/woodmart2/edc-elementor/product/big-idea-design-tpt-pocket-tool/">
+				Big Idea Design TPT Pocket Tool			</a>
+		</h3>
+	&#036;73.00
+					 						]]></content:encoded>
+															<wp:post_id>2646</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-06 12:01:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-06 12:01:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-06 14:35:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-06 14:35:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-edc]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.0.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_migrations_state_d2a1]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.2.2:7648e729aae38c0825752571ace57347]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"d5c10fc","elType":"container","settings":{"margin":{"unit":"px","top":"-40","right":"0","bottom":"40","left":"0","isLinked":false},"scroll_y":"-80"},"elements":[{"id":"ead7b8c","elType":"widget","settings":{"full_width":"yes","scroll_y":"-80"},"elements":[],"widgetType":"wd_page_title"}],"isInner":false},{"id":"8d310a5","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"flex_gap":{"size":"30","column":"30","row":"30","unit":"px","isLinked":""},"structure":"22","flex_direction":"row","flex_direction_tablet":"column","container_sticky_offset":"50","scroll_y":"-80","content_width":"full","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"67f59e9","elType":"container","settings":{"_column_size":"66","width":{"size":"60","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","container_sticky_offset":"50","background_background":"classic","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true}},"elements":[{"id":"2b3f871","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"a9ff33f","elType":"widget","settings":{"style":"default","_padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"scroll_y":"-80","_background_background":"classic","_background_color":"#FFFFFF","_border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true}},"elements":[],"widgetType":"wd_single_product_shipping_progress_bar"},{"id":"c97ef41","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_before_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"b15b650","elType":"widget","settings":{"scroll_y":"-80","_padding":{"unit":"px","top":"20","right":"30","bottom":"30","left":"30","isLinked":false},"_background_background":"classic","_background_color":"#FFFFFF","_border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true}},"elements":[],"widgetType":"wd_cart_table"}],"isInner":"1"},{"id":"a9be630","elType":"container","settings":{"_column_size":"33","width":{"size":"40","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","container_sticky_offset":"50","background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"_flex_align_self":"flex-start"},"elements":[{"id":"1e822da","elType":"widget","settings":{"button_alignment":"full-width","scroll_y":"-80","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"32","sizes":[]},"title_typography_text_transform":"capitalize","title_typography_line_height":{"unit":"em","size":"1.2","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"28","sizes":[]}},"elements":[],"widgetType":"wd_cart_totals"},{"id":"e84d8f1","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"}],"isInner":true},{"id":"76b4abf","elType":"container","settings":{"reverse_order_mobile":"reverse-mobile","reverse_order_tablet":"reverse-tablet","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"e9ac931","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_cart_collaterals","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"855aa62","elType":"widget","settings":{"subtitle":"","title":"You May Be Interested In\u2026","after_title":"","scroll_y":"-80","color":"primary","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"32","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"28","sizes":[]}},"elements":[],"widgetType":"wd_title"},{"id":"830df00","elType":"widget","settings":{"layout":"carousel","columns":{"unit":"px","size":"3","sizes":[]},"items_per_page":"5","hide_pagination_control":"yes","scroll_y":"-80","img_size":"medium_large","slides_per_view":{"unit":"px","size":"4","sizes":[]},"sync_parent_id":"wd_65982f4604762","slides_per_view_tablet":{"unit":"px","size":"3","sizes":[]},"sync_group_id":"group-1","_padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[],"widgetType":"wd_products"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

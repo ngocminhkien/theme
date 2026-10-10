@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Furniture 2 gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:24:07 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Single product - Furniture 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/woodmart_layout/single-product-furniture-2/</link>
+					<pubDate>Tue, 06 Aug 2024 14:54:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/?post_type=woodmart_layout&#038;p=801</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"ed6a01c2-174d-4929-891a-08fe76e5ad31","blockVersion":"2","blockGap":10,"bgColorCode":"#ffffff","paddingTop":"20","paddingBottom":"40","marginTop":"-40","marginBottom":"40"} -->
+<div class="wp-block-wd-section wd-ed6a01c2"><!-- wp:wd/container {"blockId":"522097fb-6956-4fe7-b125-44811b660cf9","blockVersion":"2","direction":"row","justify":"space-between"} -->
+<div class="wp-block-wd-container wd-dir-row wd-522097fb"><!-- wp:wd/woo-breadcrumbs {"blockId":"6c6220a9-3e66-4aeb-8cf8-078ae9d649a2","blockVersion":"2"} /-->
+
+<!-- wp:wd/sp-navigation {"blockId":"8ce1177f-df58-4e44-aaac-a2a8e8941ce4","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/woo-notices {"blockId":"5860650c-994b-49d5-8e87-e3dfb1aaa7cb","blockVersion":"2"} /-->
+
+<!-- wp:wd/row {"blockId":"b21b7458-f91a-4b04-9297-e36a03399cea","blockVersion":"2"} -->
+<div class="wp-block-wd-row wd-b21b7458"><!-- wp:wd/column {"blockId":"4a46adb9-a88e-4840-93e0-7d008f7c31bb","blockVersion":"2","adjacentCount":2,"colWidth":58} -->
+<div class="wp-block-wd-column wd-4a46adb9"><!-- wp:wd/sp-gallery {"blockId":"a7e45610-7656-4364-9808-f1cb9067e2cb","blockVersion":"2","thumbnailsPosition":"bottom_column","carouselOnMobile":"enable","gridColumnsTablet":"2"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"f1b6a706-8437-4b8f-8914-39224bc81c72","blockVersion":"2","adjacentCount":2,"colWidth":42,"sticky":true,"stickyTablet":true} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd-sticky-on-md-sm wd-f1b6a706"><!-- wp:wd/container {"blockId":"1c76278f-7bde-414a-885b-1cc328f3c294","blockVersion":"2","direction":"row","justify":"space-between","wrap":"wrap","colGap":"20"} -->
+<div class="wp-block-wd-container wd-dir-row wd-1c76278f"><!-- wp:wd/sp-title {"blockId":"8c2c5988-4e0f-4446-b006-a7ef360de6b1","blockVersion":"2","flexSize":"shrink","flexShrink":"1","flexBasis":"","displayWidth":"custom","customWidth":"70","customWidthUnits":"%"} /-->
+
+<!-- wp:wd/sp-brands {"blockId":"a7cec75f-c348-4621-8dc4-f2c5b303b7f9","blockVersion":"2","title":false,"style":"shadow","imageWidth":60,"flexShrink":"","flexBasis":"","displayWidth":"","customWidth":""} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sp-meta {"blockId":"8d0e4ccc-0bec-4fd6-8ed6-dabaafbce3d5","blockVersion":"2","showCategories":false,"showTags":false} /-->
+
+<!-- wp:wd/sp-rating {"blockId":"d8928cf5-ed18-49b3-91b7-b52a096a04e2","blockVersion":"2"} /-->
+
+<!-- wp:wd/infobox {"blockId":"36588e13-ad5c-4b89-b01f-f7f30c4e6e88","blockVersion":"2","iconPositionHorizontal":"start","iconPositionVertical":"center","bgColorCode":"#f7f7f7","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div class="wp-block-wd-infobox wd-hover-parent wd-icon-start wd-36588e13"><!-- wp:wd/icon {"blockId":"9983bd1a-3f00-4889-983b-db42a5505f53","blockVersion":"2","image":{"id":874,"url":"http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/promotions.svg"},"width":"33"} -->
+<div class="wp-block-wd-icon wd-9983bd1a"><img class="wp-image-874" src="http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/promotions.svg" alt=""/></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"76622701-842f-4a89-9868-18c9cd74a7a9","blockVersion":"2","metadata":{"name":"Infobox content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-76622701"><!-- wp:wd/title {"blockId":"f14779e1-0ca0-4f42-b57d-c2468aa9207b","blockVersion":"2","content":"Soft Edge collection"} -->
+<h2 class="wp-block-wd-title title wd-f14779e1">Soft Edge collection</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"cbead3ea-e388-442f-af39-ef21802d531c","blockVersion":"2","markTextDecoration":"underline"} -->
+<p class="wp-block-wd-paragraph wd-cbead3ea">Hurry and get discounts up to 20% <a href="#"><span class="wd-highlight">Read more</span></a></p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/sp-short-description {"blockId":"1efc8fe4-34b3-43e2-8da9-0f8be15bdffc","blockVersion":"2"} /-->
+
+<!-- wp:wd/container {"blockId":"d42793fd-bb87-425a-90ec-cb83144a43de","blockVersion":"2","direction":"row","align":"center","wrap":"wrap"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-d42793fd"><!-- wp:wd/sp-price {"blockId":"c53870ab-6585-4436-8c20-27b8426e2414","blockVersion":"2","mainPriceTpFontSize":"34","displayWidth":"","customWidth":"","mainPriceTpFontSizeTablet":"28","mainPriceTpFontSizeMobile":"22","customWidthUnits":"%"} /-->
+
+<!-- wp:wd/sp-stock-status {"blockId":"f1fc669d-076f-4a61-b84d-ef21d967176a","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sp-countdown {"blockId":"824a5f47-9092-4577-8505-66000c66fb18","blockVersion":"2"} /-->
+
+<!-- wp:wd/sp-stock-progress-bar {"blockId":"201a2119-8211-4533-888d-a3a1ab33af26","blockVersion":"2"} /-->
+
+<!-- wp:wd/sp-add-to-cart {"blockId":"4471eacb-f479-4ea4-a235-45a3fce16f2e","blockVersion":"2","buttonDesign":"full","stockStatus":false} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"1a883b32-6b56-4cab-b400-1d3376065d1e","blockVersion":"2","hook":"woocommerce_single_product_summary"} /-->
+
+<!-- wp:wd/container {"blockId":"e04c6dbb-4682-465f-8430-07c1014e236e","blockVersion":"2","direction":"row","wrap":"wrap","marginBottom":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-e04c6dbb"><!-- wp:wd/sp-compare-btn {"blockId":"9dd41807-d0c3-4878-a1f9-3985a22d1e96","blockVersion":"2"} /-->
+
+<!-- wp:wd/sp-wishlist-btn {"blockId":"98cd7031-83e1-4bd7-96f9-cd6b8586e5a3","blockVersion":"2"} /-->
+
+<!-- wp:wd/sp-size-guide-btn {"blockId":"c6adea86-3158-4392-8dbe-a512176d3074","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/accordion {"blockId":"8a93a378-1978-4439-9d4d-e52b834f70a7","blockVersion":"2","allClosed":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.1)","borderWidthTop":"1"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-default wd-titles-start wd-opener-style-arrow wd-opener-pos-end wd-8a93a378" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"161d4f7d-f3d8-477f-a42d-ab470ba6c293","blockVersion":"2","borderType":"solid","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-161d4f7d"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Shipping and returns</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"258f71ba-8d59-4b15-b198-bff8f3c519a8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-258f71ba">Authorities in our business will tell in no uncertain terms that Lorem Ipsum is that huge, huge no no to forswear forever. Not so fast, I’d say, there are some redeeming factors in favor of greeking text, as its use is merely the symptom of a worse problem to take into consideration.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"b2fe7603-25e5-425c-982b-64820fefadc0","blockVersion":"2","borderType":"none"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-b2fe7603"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Product care</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"df053f70-86cf-4ef0-a41b-f741768a1044","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-df053f70">Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/sp-fbt-products {"blockId":"a08d39c1-b129-472d-873e-0a02d88fed76","blockVersion":"2","showTitle":true,"bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"marginBottom":"60","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","marginBottomTablet":"40"} -->
+<!-- wp:wd/title {"blockId":"4c3c2ae0-b180-4a16-8520-0f4473278fa6","blockVersion":"2","content":"Frequently bought together","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-4c3c2ae0">Frequently bought together</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/sp-fbt-products -->
+
+<!-- wp:wd/row {"blockId":"c38b5e26-97e7-4fe0-99a2-de951bddb568","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"marginBottom":"60","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","marginBottomTablet":"40"} -->
+<div class="wp-block-wd-row wd-c38b5e26"><!-- wp:wd/column {"blockId":"08404bd3-0a58-4e71-8ee2-79c73456b9ee","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-08404bd3"><!-- wp:wd/title {"blockId":"374a854b-ca7e-4ae3-8e0d-ae71d6e53342","blockVersion":"2","content":"Product details","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-374a854b">Product details</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"f0b05180-903f-4448-8f8e-9ede22a8b4e8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f0b05180">Made possible by exploring innovative molded plywood techniques, Iskos-Berlin’s Soft Edge Chair blends strong curves with extreme lightness to create a three-dimensionality not usually possible with 2-D plywood.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/sp-additional-info-table {"blockId":"8aa16cbd-6a22-4102-85f6-e4e69aebf969","blockVersion":"2"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"6e4840e4-1d37-4261-a716-733eb709c202","blockVersion":"2","adjacentCount":2,"sticky":true,"stickyTablet":true} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd-sticky-on-md-sm wd-6e4840e4"><!-- wp:wd/title {"blockId":"b9253145-087f-4a12-9186-9b16f94c711d","blockVersion":"2","content":"Description","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-b9253145">Description</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/sp-content {"blockId":"c274188f-de83-4c8e-ae57-c8540bbd8a97","blockVersion":"2"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/container {"blockId":"d07cce13-567a-42b4-aba2-bb38a7dd4ef9","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"marginBottom":"60","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","marginBottomTablet":"40"} -->
+<div class="wp-block-wd-container wd-dir-col wd-d07cce13"><!-- wp:wd/title {"blockId":"3d3425b7-95b3-4e05-b33f-d73ce461568d","blockVersion":"2","content":"About brand","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-3d3425b7">About brand</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/sp-brand-info {"blockId":"e87ce817-3251-47a4-b45a-6f0a16b893b6","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"186fc6f4-494d-4de5-b834-b15c8edd585e","blockVersion":"2","rowGap":"30","bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"marginBottom":"60","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div class="wp-block-wd-container wd-dir-col wd-186fc6f4"><!-- wp:wd/title {"blockId":"e9afee21-27ae-4c8f-a7ae-90f2cbdf8745","blockVersion":"2","content":"Customer reviews​","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-e9afee21">Customer reviews​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/sp-reviews {"blockId":"5191dc69-d94f-4079-b59b-67727b7de7aa","blockVersion":"2","layout":"two-column","reviewsColumns":2} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/products {"blockId":"698a63d1-1035-42bb-8722-27c0051970f8","blockVersion":"2","show_title":true,"layout":"carousel","items_per_page":"6","products_with_background":true,"marginTop":"40","marginBottom":"40","slides_per_view":"5","hide_pagination_control":true,"sync_parent_id":"wd_9a13be74","productsBackgroundCode":"#ffffff","marginBottomTablet":"20","slides_per_viewTablet":"3","slides_per_viewMobile":"2","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"c69cef3b-6096-4d59-9b4d-6aede89be769","blockVersion":"2","content":"Related products","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-c69cef3b">Related products</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->]]></content:encoded>
+															<wp:post_id>801</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-06 14:54:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-06 14:54:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-04 13:28:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-04 13:28:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-furniture-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[promotions]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/woodmart_layout/single-product-furniture-2/promotions/</link>
+					<pubDate>Thu, 08 Aug 2024 14:14:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/promotions.svg</guid>
+															<wp:post_id>874</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 14:14:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 14:14:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-08 14:14:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-08 14:14:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[promotions]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>801</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/furniture2-gutenberg/wp-content/uploads/sites/28/2024/08/promotions.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/08/promotions.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

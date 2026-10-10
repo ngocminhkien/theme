@@ -1,0 +1,35 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"settings": {
+		"typography": {
+			"defaultFontSizes": false,
+			"fontSizes": [
+				{
+					"name": "X Small",
+					"size": "13px",
+					"slug": "x-small"
+				},
+				{
+					"name": "Small",
+					"size": "14px",
+					"slug": "small"
+				},
+				{
+					"name": "Medium",
+					"size": "22px",
+					"slug": "medium"
+				}
+			]
+		}
+	},
+	"styles": {
+		"elements": {
+			"link": {
+				"typography": {
+					"textDecoration": "none"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>jewellery-2-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 29 Apr 2026 11:46:50 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Checkout form - Jewellery 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/woodmart_layout/checkout-form-jewellery-2/</link>
+					<pubDate>Mon, 11 May 2026 12:07:02 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/?post_type=woodmart_layout&#038;p=218</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-checkout-steps {"blockId":"a681749f-899a-456c-848b-84a3dfc595ac","blockVersion":"2","textAlign":"center","marginBottom":"40"} /-->
+
+<!-- wp:wd/woo-notices {"blockId":"999680d0-3598-408e-8695-2b9b0923c20c","blockVersion":"2","marginBottom":"30"} /-->
+
+<!-- wp:wd/container {"blockId":"238e4c83-f6ea-4c36-97be-1658af99daca","blockVersion":"2","marginBottom":"30"} -->
+<div class="wp-block-wd-container wd-dir-col wd-238e4c83"><!-- wp:wd/woo-hook {"blockId":"921596a8-7f4d-42e4-b19a-8cfe115d7f96","blockVersion":"2","hook":"woocommerce_checkout_before_customer_details"} /-->
+
+<!-- wp:wd/ch-login-form {"blockId":"6c8a3740-394b-409e-ab06-6ddbb8767531","blockVersion":"2","formBorderType":"solid","formBorderColorCode":"#000000","formBorderWidth":"1","formBorderWidthTop":"1","formBorderWidthRight":"1","formBorderWidthBottom":"1","formBorderWidthLeft":"1","formBorderWidthLock":true} /-->
+
+<!-- wp:wd/ch-coupon-form {"blockId":"800af568-96d9-4fe3-86bc-5fe698c92d03","blockVersion":"2","formWidth":"","formBorderType":"solid","formBorderColorCode":"#000000","formBorderWidth":"1","formBorderWidthTop":"1","formBorderWidthRight":"1","formBorderWidthBottom":"1","formBorderWidthLeft":"1","formBorderWidthLock":true,"borderWidthLock":true} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"af179afa-dc7d-4662-84e0-1e7f01f91fd3","blockVersion":"2","hook":"woocommerce_before_checkout_form"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/ch-form {"blockId":"eeeb6d90-edcc-4ded-87e9-b638b97d6277","blockVersion":"2"} -->
+<!-- wp:wd/row {"blockId":"1c1b8bf4-ec8e-4a75-a061-f36e4d0dc0fc","blockVersion":"2"} -->
+<div class="wp-block-wd-row wd-1c1b8bf4"><!-- wp:wd/column {"blockId":"8a449f60-0a4d-4bd9-af9c-8cd17e2b1ca0","blockVersion":"2","adjacentCount":2,"colWidth":60,"marginTop":"26","adjacentCountTablet":2,"colWidthTablet":50,"marginTopMobile":"0","flexOrderMobile":"1"} -->
+<div class="wp-block-wd-column wd-8a449f60"><!-- wp:wd/title {"blockId":"05d36b9d-e38e-4d69-9b42-646d5730b9b3","blockVersion":"2","design":"","content":"Billing details","iconPositionHorizontal":"start","tpFontSize":"28","tpFontSizeTablet":"24"} -->
+<h2 class="wp-block-wd-title title wd-05d36b9d">Billing details</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ch-billing-details {"blockId":"8a34d9e8-a8dd-4045-a589-a75b0d5a3086","blockVersion":"2"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"8af27c3a-0ca6-4680-b8c4-15f8779d8c1e","blockVersion":"2","hook":"woocommerce_checkout_after_customer_details"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"d882d1d4-57f5-4547-a0af-16120beb97a8","blockVersion":"2","hook":"woocommerce_checkout_billing"} /-->
+
+<!-- wp:wd/ch-shipping-details {"blockId":"98553bf9-0f86-4a8c-a25c-04f5c76d1d64","blockVersion":"2","marginBottom":"10"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"f81e0d78-aea2-4948-b6e8-18a3374cd134","blockVersion":"2","hook":"woocommerce_checkout_shipping"} /-->
+
+<!-- wp:wd/title {"blockId":"68812e6d-d094-4e48-a4f5-432d554d623a","blockVersion":"2","design":"","content":"Payment Information","iconPositionHorizontal":"start","tpFontSize":"28","tpFontSizeTablet":"24"} -->
+<h2 class="wp-block-wd-title title wd-68812e6d">Payment Information</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ch-payment-methods {"blockId":"8b94df23-82a0-4d96-a7e2-57614387c1ee","blockVersion":"2","btnAlign":"stretch","descriptionBgColorCode":"rgba(0,0,0,0.05)","descriptionBoxShadowPosition":"inset","descriptionBoxShadowColorCode":"rgba(0,0,0,0)","descriptionBoxShadowBlur":0,"termsConditionsColorCode":"rgba(0,0,0,0.05)","termsConditionsBoxShadowBlur":0} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"bbe3b47c-bf63-453e-bb36-969154fd556d","blockVersion":"2","hook":"woocommerce_checkout_after_order_review"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"5f443fbc-2876-4b93-8e5c-8fdb28bfe92d","blockVersion":"2","hook":"woocommerce_after_checkout_form"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"9eda25d5-729a-4ef1-811d-4abb99945600","blockVersion":"2","adjacentCount":2,"colWidth":40,"blocksGap":30,"sticky":true,"adjacentCountTablet":2,"colWidthTablet":50,"stickyTablet":true} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd-sticky-on-md-sm wd-9eda25d5"><!-- wp:wd/container {"blockId":"8baffa50-cfdd-4cd4-b838-0eb57146458a","blockVersion":"2","paddingTop":"25","paddingRight":"25","paddingBottom":"25","paddingLeft":"25","paddingLock":true,"borderType":"solid","borderColorCode":"#000000","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true} -->
+<div class="wp-block-wd-container wd-dir-col wd-8baffa50"><!-- wp:wd/title {"blockId":"357fc329-9235-4f5b-bdef-008eacbd13f3","blockVersion":"2","design":"","content":"Your order","iconPositionHorizontal":"start","tpFontSize":"28","tpFontSizeTablet":"24"} -->
+<h2 class="wp-block-wd-title title wd-357fc329">Your order</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/woo-hook {"blockId":"9e8ce325-315c-4d60-beb8-44833b2610ca","blockVersion":"2","hook":"woocommerce_checkout_before_order_review_heading"} /-->
+
+<!-- wp:wd/ch-order-review {"blockId":"83e4d11d-4dc5-4c99-a164-e85b851bb91f","blockVersion":"2"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"a6a71d2a-e5f2-4780-a6db-cf061f1be607","blockVersion":"2","hook":"woocommerce_checkout_before_order_review"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"a48eff11-22e3-42bd-9704-79fe6da2a564","blockVersion":"2","hook":"woocommerce_checkout_order_review"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+<!-- /wp:wd/ch-form -->]]></content:encoded>
+															<wp:post_id>218</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 12:07:02]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 12:07:02]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 12:08:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 12:08:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-form-jewellery-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_form]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:13:"checkout_form";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

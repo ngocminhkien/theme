@@ -1,0 +1,157 @@
+{
+    "default_header": "header_273375",
+    "text-font": [
+        {
+            "google": "1",
+            "font-family": "Inter",
+            "font-weight": "400",
+            "font-style": "",
+            "advanced-variants": [
+                ""
+            ],
+            "font-size": "15",
+            "tablet": {
+                "font-size": ""
+            },
+            "mobile": {
+                "font-size": ""
+            },
+            "color": "rgb(118,118,118)"
+        }
+    ],
+    "primary-font": [
+        {
+            "google": "1",
+            "font-family": "League Spartan",
+            "font-weight": "600",
+            "font-style": "",
+            "font-subset": "",
+            "text-transform": "",
+            "color": "#242424"
+        }
+    ],
+    "post-titles-font": [
+        {
+            "google": "1",
+            "font-family": "League Spartan",
+            "font-weight": "600",
+            "font-style": "",
+            "font-subset": "",
+            "text-transform": "",
+            "color": "#333333",
+            "hover": {
+                "color": "rgb(51 51 51 \/ 65%)"
+            }
+        }
+    ],
+    "widget-titles-font": [
+        {
+            "google": "1",
+            "font-family": "League Spartan",
+            "font-weight": "600",
+            "font-style": "",
+            "text-transform": "uppercase",
+            "font-size": "16",
+            "tablet": {
+                "font-size": ""
+            },
+            "mobile": {
+                "font-size": ""
+            },
+            "color": "#333"
+        }
+    ],
+    "navigation-font": [
+        {
+            "google": "1",
+            "font-family": "Inter",
+            "font-weight": "500",
+            "font-style": "",
+            "font-subset": "",
+            "text-transform": "uppercase",
+            "font-size": "13",
+            "tablet": {
+                "font-size": ""
+            },
+            "mobile": {
+                "font-size": ""
+            }
+        }
+    ],
+    "primary-color": {
+        "idle": "rgb(17,70,57)"
+    },
+    "pages-background": {
+        "color": "rgb(243,243,243)",
+        "url": "",
+        "id": "",
+        "repeat": "",
+        "size": "",
+        "attachment": "",
+        "position": ""
+    },
+    "promo_popup": "1",
+    "hide_main_sidebar": "0",
+    "promo_popup_content_type": "html_block",
+    "popup_html_block": "724",
+    "popup-background": {
+        "color": "#111111",
+        "url": "http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/coffee-popup.jpg",
+        "id": "7296",
+        "image_size": "full",
+        "image_size_custom_width": "",
+        "image_size_custom_height": "",
+        "repeat": "no-repeat",
+        "size": "cover",
+        "attachment": "",
+        "position": "center center"
+    },
+    "popup_padding": "eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOjE1fX19",
+    "title-background": {
+        "color": "rgb(17,70,57)",
+        "url": "http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/coffee-page-title.jpg",
+        "id": "7297",
+        "image_size": "full",
+        "image_size_custom_width": "",
+        "image_size_custom_height": "",
+        "size": "cover",
+        "position": "center center"
+    },
+    "disable_footer": "1",
+    "footer_content_type": "html_block",
+    "footer_html_block": "1033",
+    "footer-bar-bg": {
+        "color": "rgb(17,17,17)",
+        "url": "",
+        "id": "",
+        "image_size": "full",
+        "image_size_custom_width": "",
+        "image_size_custom_height": "",
+        "repeat": "",
+        "size": "",
+        "attachment": "",
+        "position": ""
+    },
+    "footer-style": "light",
+    "prefooter_content_type": "html_block",
+    "prefooter_html_block": "7298",
+    "android_browser_bar_color": {
+        "idle": "rgb(17,70,57)"
+    },
+    "btns_shop_bg": {
+        "idle": "rgb(17,70,57)"
+    },
+    "btns_shop_bg_hover": {
+        "idle": "rgb(15,64,52)"
+    },
+    "blog_design": "mask",
+    "blog_columns": "3",
+    "blog_spacing": "20",
+    "blog_archive_layout": "full-width",
+    "blog_excerpt": "excerpt",
+    "blog_excerpt_length": "90",
+    "update_cart_quantity_change": "1",
+    "products_hover": "icons",
+    "legacy_product_tabs_enabled": "0",
+    "custom_product_tabs_enabled": "1"
+}

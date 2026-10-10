@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Kids gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:26:02 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/kids-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Home Kids]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/</link>
+					<pubDate>Mon, 29 Jul 2024 11:59:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/kids-gutenberg/?page_id=84</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/slider {"blockId":"b871366a-50b5-424a-9bb9-15ca83883027","blockVersion":"2","effect":"parallax","arrowsColorScheme":"light","paginationStyle":"3","paginationColorScheme":"light","stretch":true,"height":"720","marginBottom":"40","heightTablet":"500"} -->
+<div class="wp-block-wd-slider wd-slider wd-carousel-container wd-anim-parallax wd-stretched wd-b871366a"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" data-effect="parallax" data-wrap="yes" data-autoheight="yes" data-sliding_speed="700" style="--wd-col-lg:1;--wd-col-md:1;--wd-col-sm:1;"><div class="wd-carousel-wrap"><!-- wp:wd/slider-item {"blockId":"2b67dbd8-7de5-4161-b8f9-58460980b886","blockVersion":"2","blockGap":25,"justify":"flex-end","align":"flex-start","effect":"parallax","colorScheme":"light","aspectRatio":"","image":{"id":232,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-1-opt.jpg","width":2048,"height":740},"bgImage":{"id":"","url":""},"bgColorCode":"#F3F3F3","paddingBottom":"90","blockGapMobile":20} -->
+<div class="wp-block-wd-slider-item wd-slide wd-carousel-item color-scheme-light wd-2b67dbd8"><div class="wd-slide-container"><!-- wp:wd/title {"blockId":"99170bc4-1ad5-47a7-b1a8-19754cb07ca8","blockVersion":"2","content":"A new line of overalls for the little ones​","tpFontSize":"64","tpLineHeight":"1.2","animation":"slide-from-bottom","animationDelay":"300","displayWidth":"custom","customWidth":"685","tpFontSizeTablet":"38","tpFontSizeMobile":"28","tpLineHeightUnits":"em","displayWidthTablet":"custom","customWidthTablet":"450"} -->
+<h2 class="wp-block-wd-title title wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_300 wd-99170bc4 wd-custom-width">A new line of overalls for the little ones​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"ac5625ee-63cd-4134-9436-605953ab8923","blockVersion":"2","animation":"slide-from-bottom","animationDelay":"400","displayWidth":"custom","customWidth":"560","displayWidthTablet":"custom","customWidthTablet":"490"} -->
+<p class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_400 wd-ac5625ee wd-custom-width">How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"9823e3f1-0f5b-4eb9-8c9f-7612c7afac76","blockVersion":"2","predefinedColor":"primary","shape":"semi-round","animation":"slide-from-bottom","animationDelay":"500"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-semi-round wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_500 wd-9823e3f1" href="#"><span>Shop now</span></a>
+<!-- /wp:wd/button --></div><div class="wd-slide-bg wd-fill"><img src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-1-opt.jpg" class="wp-image-232" alt=""/></div></div>
+<!-- /wp:wd/slider-item -->
+
+<!-- wp:wd/slider-item {"blockId":"a96de152-19d0-4ace-bc04-fd16a17d3a27","blockVersion":"2","blockGap":25,"justify":"flex-end","align":"flex-start","effect":"parallax","colorScheme":"light","aspectRatio":"","image":{"id":233,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-2-opt.jpg","width":2048,"height":740},"bgImage":{"id":"","url":""},"bgColorCode":"#F3F3F3","paddingBottom":"90","blockGapMobile":20} -->
+<div class="wp-block-wd-slider-item wd-slide wd-carousel-item color-scheme-light wd-a96de152"><div class="wd-slide-container"><!-- wp:wd/title {"blockId":"6da60eb4-5d7e-4efb-85ae-7a63ab3d6ba6","blockVersion":"2","content":"New and comfortable growsuite for your baby​","tpFontSize":"64","tpLineHeight":"1.2","animation":"slide-from-bottom","animationDelay":"300","displayWidth":"custom","customWidth":"763","tpFontSizeTablet":"38","tpFontSizeMobile":"28","tpLineHeightUnits":"em","displayWidthTablet":"custom","customWidthTablet":"470"} -->
+<h2 class="wp-block-wd-title title wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_300 wd-6da60eb4 wd-custom-width">New and comfortable growsuite for your baby​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"943d638f-572c-46c8-ba14-519538c512a3","blockVersion":"2","animation":"slide-from-bottom","animationDelay":"400","displayWidth":"custom","customWidth":"580","displayWidthTablet":"custom","customWidthTablet":"490"} -->
+<p class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_400 wd-943d638f wd-custom-width">It's content strategy gone awry right from the start. Forswearing the use of Lorem Ipsum wouldn't have helped, won't help now every other.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"9a026305-a5f2-4543-a67b-f5b696e0b57e","blockVersion":"2","predefinedColor":"primary","shape":"semi-round","animation":"slide-from-bottom","animationDelay":"500"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-semi-round wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_500 wd-9a026305" href="#"><span>Shop now</span></a>
+<!-- /wp:wd/button --></div><div class="wd-slide-bg wd-fill"><img src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-2-opt.jpg" class="wp-image-233" alt=""/></div></div>
+<!-- /wp:wd/slider-item -->
+
+<!-- wp:wd/slider-item {"blockId":"4f0b7b5f-7176-4556-9db4-906e4a7fec65","blockVersion":"2","blockGap":25,"justify":"flex-end","align":"flex-start","effect":"parallax","colorScheme":"light","aspectRatio":"","image":{"id":234,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-3-opt.jpg","width":2048,"height":740},"bgImage":{"id":"","url":""},"bgColorCode":"#F3F3F3","paddingBottom":"90","blockGapMobile":20} -->
+<div class="wp-block-wd-slider-item wd-slide wd-carousel-item color-scheme-light wd-4f0b7b5f"><div class="wd-slide-container"><!-- wp:wd/title {"blockId":"22420089-cbf8-4bd7-ab54-d5f47bada0e2","blockVersion":"2","content":"Toys and accessories​","tpFontSize":"64","tpLineHeight":"1.2","animation":"slide-from-bottom","animationDelay":"300","displayWidth":"","customWidth":"685","tpFontSizeTablet":"38","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_300 wd-22420089">Toys and accessories​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"9e011b6d-b631-41ad-b815-612b205793bd","blockVersion":"2","animation":"slide-from-bottom","animationDelay":"400","displayWidth":"custom","customWidth":"560","displayWidthTablet":"custom","customWidthTablet":"490"} -->
+<p class="wp-block-wd-paragraph wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_400 wd-9e011b6d wd-custom-width">A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity layout living.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"a5808f47-3626-4f2a-9be3-8424561beae9","blockVersion":"2","predefinedColor":"primary","shape":"semi-round","animation":"slide-from-bottom","animationDelay":"500"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-semi-round wd-animation wd-transform wd-animation-slide-from-bottom wd_delay_500 wd-a5808f47" href="#"><span>Shop now</span></a>
+<!-- /wp:wd/button --></div><div class="wd-slide-bg wd-fill"><img src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-3-opt.jpg" class="wp-image-234" alt=""/></div></div>
+<!-- /wp:wd/slider-item --></div></div><div class="wd-nav-arrows wd-slider-arrows wd-custom-style wd-pos-sep wd-style-1 color-scheme-light"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div><div class="wd-nav-pagin-wrap wd-slider-pagin wd-custom-style wd-style-shape-3 color-scheme-light"><ul class="wd-nav-pagin"></ul></div></div>
+<!-- /wp:wd/slider -->
+
+<!-- wp:wd/section {"blockId":"50b938fa-9db7-47cb-b0c4-c89f75eb2ef8","blockVersion":"2","marginBottom":"100","marginBottomTablet":"60"} -->
+<div class="wp-block-wd-section wd-50b938fa"><!-- wp:wd/product-categories {"blockId":"ce045801-4a25-4898-8d67-f4243bd57e85","blockVersion":"2","ids":"22,32,16,20,33,21","categories_design":"zoom-out","custom_rounding_size":"50","style":"carousel","boxShadowPosition":"inset","boxShadowBlur":0,"slides_per_view":"6","hide_pagination_control":true,"sync_parent_id":"wd_cdf5e356","custom_rounding_sizeUnits":"%","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/paragraph {"blockId":"9a60e6d1-372d-4656-809f-49ef85c4db3e","blockVersion":"2","textAlign":"center","colorVariable":"u002du002dwd-primary-color","tpFontVariant":"500","tpFontWeight":"500","marginBottom":"10","tpFontSizeTablet":"14"} -->
+<p class="wp-block-wd-paragraph wd-align wd-9a60e6d1">Discover lots new products</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"d6252680-1d7a-4987-a74d-840eab58e01d","blockVersion":"2","textAlign":"center","content":"Feature collection","tpFontSize":"32","marginBottom":"30","tpFontSizeTablet":"26","tpFontSizeMobile":"22","marginBottomMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-align wd-d6252680">Feature collection</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/products {"blockId":"1f4b306f-073b-4a5f-ba7f-8f4c0c84646c","blockVersion":"2","post_type":"ids","include":"25,39,53,69,71","layout":"carousel","items_per_page":"5","marginBottom":"100","slides_per_view":"5","hide_pagination_control":true,"sync_parent_id":"wd_992fd308","marginBottomTablet":"60","slides_per_viewTablet":"4","slides_per_viewMobile":"2.3","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/row {"blockId":"719ce71e-9d3f-4d26-902c-dda28255a636","blockVersion":"2","columnsGap":20,"marginBottom":"100","marginBottomTablet":"60"} -->
+<div class="wp-block-wd-row wd-719ce71e"><!-- wp:wd/column {"blockId":"f4eb2327-f300-4869-bdc4-6573ec119d33","blockVersion":"2","adjacentCount":2,"colWidth":42,"bgImage":{"id":256,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-banner-1-opt.jpg"},"bgPosition":"center center","bgDisplaySize":"cover","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","adjacentCountTablet":1,"colWidthTablet":100,"minHeightTablet":"560"} -->
+<div class="wp-block-wd-column wd-f4eb2327"></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"dc18edbe-15dc-4afc-abc2-2ba4ad7ad074","blockVersion":"2","adjacentCount":2,"colWidth":58,"blocksGap":0,"textAlign":"center","bgColorCode":"#f7f3f0","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","adjacentCountTablet":1,"colWidthTablet":100,"paddingBottomTablet":"60"} -->
+<div class="wp-block-wd-column wd-align wd-dc18edbe"><!-- wp:wd/paragraph {"blockId":"c4a3c65e-bbb1-490f-bc3b-9b3c5fef926d","blockVersion":"2","colorVariable":"u002du002dwd-primary-color","tpFontSize":"18","tpFontVariant":"500","tpFontWeight":"500","marginBottom":"10","tpFontSizeTablet":"16","tpFontSizeMobile":"14"} -->
+<p class="wp-block-wd-paragraph wd-c4a3c65e">Buy bundle and get a 25% discount</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"8cb2f54b-b6ab-49dd-8b10-13d01d0cc0a7","blockVersion":"2","content":"Organic and safe clothes set for your baby","tpFontSize":"46","marginBottom":"30","alignSelf":"center","displayWidth":"custom","customWidth":"580","tpFontSizeTablet":"26","tpFontSizeMobile":"22","marginBottomMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-8cb2f54b wd-custom-width wd-align-s-center">Organic and safe clothes set for your baby</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/products {"blockId":"971ef6cd-b50c-4ca6-aff6-385ae3fbbbee","blockVersion":"2","post_type":"ids","include":"38,60,70","layout":"carousel","marginBottom":"30","hide_pagination_control":true,"sync_parent_id":"wd_22c4bec7","slides_per_viewMobile":"1","hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/button {"blockId":"7875c698-d69c-4abc-a989-6bdaa748fd95","blockVersion":"2","predefinedColor":"primary","shape":"semi-round","icon":"left","marginBottom":"20"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-semi-round btn-icon-pos-left wd-7875c698" href="#"><span>Buy bundle now</span><!-- wp:wd/icon {"blockId":"4ce6ad9f-81a7-436e-a3bd-95a9efeb66e6","blockVersion":"2","image":{"id":255,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/bundle.svg"}} -->
+<div class="wp-block-wd-icon wd-4ce6ad9f"><img class="wp-image-255" src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/bundle.svg" alt=""/></div>
+<!-- /wp:wd/icon --></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/paragraph {"blockId":"f4947837-e7a4-481c-a89b-f73a6d58e7fa","blockVersion":"2","tpFontSize":"14"} -->
+<p class="wp-block-wd-paragraph wd-f4947837">When you buy this set, you save 25%. Discounts and promotions are not cumulative with the current discount.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/paragraph {"blockId":"581daeac-45bb-46cb-a75c-1e12a895455c","blockVersion":"2","textAlign":"center","colorVariable":"u002du002dwd-primary-color","tpFontVariant":"500","tpFontWeight":"500","marginBottom":"10","tpFontSizeTablet":"14"} -->
+<p class="wp-block-wd-paragraph wd-align wd-581daeac">Hots and bestsellers on this week​</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"2ee9425a-bcf5-4756-b343-2066382086c8","blockVersion":"2","textAlign":"center","content":"Popular products","tpFontSize":"32","marginBottom":"30","tpFontSizeTablet":"26","tpFontSizeMobile":"22","marginBottomMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-align wd-2ee9425a">Popular products</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/products {"blockId":"c885659f-93d2-465b-87b9-44cbfceb5e3c","blockVersion":"2","post_type":"ids","include":"28,29,35,53,54,58,59,62,65,77","layout":"carousel","items_per_page":"10","marginBottom":"100","slides_per_view":"5","sync_parent_id":"wd_19e069a5","marginBottomTablet":"60","slides_per_viewMobile":"2.3","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/paragraph {"blockId":"72e49b87-bf06-4e44-a411-627951513d3e","blockVersion":"2","textAlign":"center","colorVariable":"u002du002dwd-primary-color","tpFontVariant":"500","tpFontWeight":"500","marginBottom":"10","tpFontSizeTablet":"14"} -->
+<p class="wp-block-wd-paragraph wd-align wd-72e49b87">Advice for young parents</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"16b5aeae-b800-43e4-b141-11de5d63302e","blockVersion":"2","textAlign":"center","content":"Tips and articles","tpFontSize":"32","marginBottom":"30","tpFontSizeTablet":"26","tpFontSizeMobile":"22","marginBottomMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-align wd-16b5aeae">Tips and articles</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/blog {"blockId":"cbc4d2d8-d1e0-4080-9105-54be2e43d05f","blockVersion":"2","layout":"carousel","marginBottom":"100","slides_per_view":"4","hide_pagination_control":true,"sync_parent_id":"wd_70d6b3ad","marginBottomTablet":"60","slides_per_viewTablet":"3","slides_per_viewMobile":"1","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/paragraph {"blockId":"8365fbff-0ea4-44e8-a451-5ca9d1331f74","blockVersion":"2","textAlign":"center","colorVariable":"u002du002dwd-primary-color","tpFontVariant":"500","tpFontWeight":"500","marginBottom":"10","tpFontSizeTablet":"14"} -->
+<p class="wp-block-wd-paragraph wd-align wd-8365fbff">@Woodmart_kids</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"ce8efc5c-7f75-4b96-96ec-31bb1464f147","blockVersion":"2","textAlign":"center","content":"Our instagram","tpFontSize":"32","marginBottom":"30","tpFontSizeTablet":"26","tpFontSizeMobile":"22","marginBottomMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-align wd-ce8efc5c">Our instagram</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/instagram {"blockId":"b0d67715-e016-4aae-b278-6a754d0bd20b","blockVersion":"2","images":[{"id":269,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-1-opt.jpg","width":292,"height":292},{"id":270,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-2-opt.jpg","width":292,"height":292},{"id":271,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-3-opt.jpg","width":292,"height":292},{"id":272,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-4-opt.jpg","width":292,"height":292},{"id":273,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-5-opt.jpg","width":292,"height":292}],"design":"slider","marginBottom":"60","slides_per_view":"5","hide_pagination_control":true,"sync_parent_id":"wd_0550dba4","marginBottomTablet":"20","marginBottomMobile":"0","slides_per_viewTablet":"4","slides_per_viewMobile":"3","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->]]></content:encoded>
+															<wp:post_id>84</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 11:59:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 11:59:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-10 11:12:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-10 11:12:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-kids]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[header_957328]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Footer Kids]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/?cms_block=footer-kids</link>
+					<pubDate>Mon, 29 Jul 2024 12:16:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/kids-gutenberg/?post_type=cms_block&#038;p=102</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"880b0dfd-ecc6-40b8-9614-0406817fa307","paddingTop":"40","paddingBottom":"40","marginBottom":"0","borderType":"solid","borderColorCode":"rgba(0,0,0,0.1)","borderWidthBottom":"1"} -->
+<div id="wd-880b0dfd" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"14ddabb0-0743-4819-9825-888ef47458b9","adjacentCount":3,"colWidth":33.333,"justifyContent":"center","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-14ddabb0" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"a849ed19-3982-4e03-a8ca-0b2dd61cef43","image":{"id":157,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-black-l.svg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-black-l.svg","width":245,"height":72}} -->
+<div id="wd-a849ed19" class="wp-block-wd-image wd-block-image"><a href="#" class="wd-block-image-link"><img class="wp-image-157" src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-black-l.svg" alt="" /></a></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"a35269b6-108b-430b-9e04-ab0b030c320a","adjacentCount":3,"colWidth":36,"justifyContent":"center","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-a35269b6" class="wp-block-wd-column"><!-- wp:wd/infobox {"blockId":"11319f91-83f9-40da-903b-250afecb3d49","iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div id="wd-11319f91" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"3a7cdb8d-39c2-4f3e-b252-a187807f5655","image":{"id":159,"url":"http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-newslatter.svg"},"width":"48"} -->
+<div id="wd-3a7cdb8d" class="wp-block-wd-icon"><img class="wp-image-159" src="http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-newslatter.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"47d0b6af-e0db-49f9-a7e2-7147ff6edb28","metadata":{"name":"Infobox content"}} -->
+<div id="wd-47d0b6af" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"60a04448-67cf-4caa-86e3-6880420deb5b","content":"Join our mailing list to receive any latest updates and promotions​","tpFontSize":"18"} -->
+<h2 id="wd-60a04448" class="wp-block-wd-title title">Join our mailing list to receive any latest updates and promotions​</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"1a28940c-58e4-40c0-b075-740a9c743424","adjacentCount":3,"colWidth":30.667000000000016,"justifyContent":"center","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-1a28940c" class="wp-block-wd-column"><!-- wp:wd/mailchimp {"blockId":"5a341bb9-614e-47b7-8df3-e3e201a3e5b4","form_id":"130","displayWidth":"","customWidth":"430"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"1adefccb-12b1-4607-8a0f-b2cbc8a300ae","paddingTop":"40","paddingBottom":"40"} -->
+<div id="wd-1adefccb" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"5fd13f07-83f2-4fd9-a3e1-fdedb3dd0b43","adjacentCount":4,"colWidth":42,"adjacentCountTablet":1,"adjacentCountMobile":1,"colWidthTablet":100,"colWidthMobile":100} -->
+<div id="wd-5fd13f07" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"16378052-6093-4bc1-8a79-26b757446bf8","content":"Beautiful things for small people","tpFontSize":"46","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-16378052" class="wp-block-wd-title title">Beautiful things for small people</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/social-buttons {"blockId":"1f22ca42-37dd-492a-addc-51a2f80f60c3","style":"colored","size":"small"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"f6a031b3-4619-4db6-a7c6-ff2afada6031","adjacentCount":4,"colWidth":18,"adjacentCountTablet":3,"adjacentCountMobile":1,"colWidthTablet":33.333,"colWidthMobile":100} -->
+<div id="wd-f6a031b3" class="wp-block-wd-column"><!-- wp:wd/toggle {"blockId":"9a46fe62-dc7f-4869-a626-2efe11928b74","state":"static","stateTablet":"static"} -->
+<div id="wd-9a46fe62" class="wp-block-wd-toggle wd-toggle wd-state-static-lg wd-state-static-md-sm wd-state-closed-sm wd-active-lg wd-active-md-sm wd-icon-rotate"><!-- wp:wd/container {"blockId":"ff5ac7f7-486c-4a09-8771-ec8fb61ab00e","direction":"row","extraClass":"wd-toggle-head","metadata":{"name":"Toggle header"}} -->
+<div id="wd-ff5ac7f7" class="wp-block-wd-container wd-dir-row wd-toggle-head"><!-- wp:wd/title {"blockId":"a73ffff9-68ef-4618-9c52-60fd9bc1c4c0","content":"Shop","tpFontSize":"22","tpFontVariant":"400","tpFontWeight":"400","tpFontSizeTablet":"20","tpFontSizeMobile":"18"} -->
+<h2 id="wd-a73ffff9" class="wp-block-wd-title title">Shop</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/icon {"blockId":"55400a39-7aaa-435a-8ab7-992d91d292a2","type":"svg","svg":"\u003csvg xmlns=\u0022http://www.w3.org/2000/svg \u0022 width=\u002264\u0022 height=\u002264\u0022 viewBox=\u00220 0 64 64\u0022\u003e\u003cpath d=\u0022M59.7678 20.7678C60.2551 20.2804 60.4992 19.6419 60.5 19.0031C60.5008 18.3623 60.2567 17.7212 59.7678 17.2322C59.2796 16.7441 58.6398 16.5 58 16.5C57.3602 16.5 56.7204 16.7441 56.2322 17.2322L32 41.4645L7.76777 17.2322C7.27961 16.7441 6.63981 16.5 6 16.5C5.36019 16.5 4.72039 16.7441 4.23223 17.2322C3.74408 17.7204 3.5 18.3602 3.5 19C3.5 19.6398 3.74408 20.2796 4.23223 20.7678L30.2322 46.7678C30.7204 47.2559 31.3602 47.5 32 47.5C32.6398 47.5 33.2796 47.2559 33.7678 46.7678L59.7678 20.7678Z\u0022 /\u003e\u003c/svg\u003e","extraClass":"wd-toggle-icon"} -->
+<div id="wd-55400a39" class="wp-block-wd-icon wd-toggle-icon"><svg xmlns="http://www.w3.org/2000/svg " width="64" height="64" viewBox="0 0 64 64" aria-hidden="true"><path d="M59.7678 20.7678C60.2551 20.2804 60.4992 19.6419 60.5 19.0031C60.5008 18.3623 60.2567 17.7212 59.7678 17.2322C59.2796 16.7441 58.6398 16.5 58 16.5C57.3602 16.5 56.7204 16.7441 56.2322 17.2322L32 41.4645L7.76777 17.2322C7.27961 16.7441 6.63981 16.5 6 16.5C5.36019 16.5 4.72039 16.7441 4.23223 17.2322C3.74408 17.7204 3.5 18.3602 3.5 19C3.5 19.6398 3.74408 20.2796 4.23223 20.7678L30.2322 46.7678C30.7204 47.2559 31.3602 47.5 32 47.5C32.6398 47.5 33.2796 47.2559 33.7678 46.7678L59.7678 20.7678Z"></path></svg></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/toggle-content {"blockId":"a74d7427-2117-4351-8409-cdd71e017091"} -->
+<div id="wd-a74d7427" class="wp-block-wd-toggle-content wd-toggle-content"><div class="wd-toggle-content-inner"><!-- wp:wd/menu-list {"blockId":"a93b9011-375e-460c-be30-5aebcba58e6e","title":""} -->
+<ul id="wd-a93b9011" class="wp-block-wd-menu-list wd-sub-menu wd-sub-accented"><li><ul class="sub-sub-menu"><!-- wp:wd/menu-list-item {"blockId":"1ae22ae3-5604-41d7-a727-2aff66c92fb9","title":"Growsuits"} -->
+<li id="wd-1ae22ae3" class="wp-block-wd-menu-list-item"><a href="#">Growsuits</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"a29ef7a7-2f94-457b-8dfc-704730508b84","title":"Jumpers","labelText":"","labelColor":"green"} -->
+<li id="wd-a29ef7a7" class="wp-block-wd-menu-list-item"><a href="#">Jumpers</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"f3e10747-8879-438d-b778-b43e25a54d2d","title":"Toys"} -->
+<li id="wd-f3e10747" class="wp-block-wd-menu-list-item"><a href="#">Toys</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"0aea5616-34e9-403b-bd0c-611f086aadce","title":"Accessories"} -->
+<li id="wd-0aea5616" class="wp-block-wd-menu-list-item"><a href="#">Accessories</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"446dabe9-de12-4abe-b674-f725410d7def","title":"Dresses"} -->
+<li id="wd-446dabe9" class="wp-block-wd-menu-list-item"><a href="#">Dresses</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"ae04d57c-579c-4f0c-8784-36c0400e0b5c","title":"Leggings"} -->
+<li id="wd-ae04d57c" class="wp-block-wd-menu-list-item"><a href="#">Leggings</a></li>
+<!-- /wp:wd/menu-list-item --></ul></li></ul>
+<!-- /wp:wd/menu-list --></div></div>
+<!-- /wp:wd/toggle-content --></div>
+<!-- /wp:wd/toggle --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"a730c28f-f65f-4273-be50-3f6fb0a817a0","adjacentCount":4,"colWidth":18,"adjacentCountTablet":3,"adjacentCountMobile":1,"colWidthTablet":33.333,"colWidthMobile":100} -->
+<div id="wd-a730c28f" class="wp-block-wd-column"><!-- wp:wd/toggle {"blockId":"f6f4563a-0e95-44f8-989d-ef27cf139d87","state":"static","stateTablet":"static"} -->
+<div id="wd-f6f4563a" class="wp-block-wd-toggle wd-toggle wd-state-static-lg wd-state-static-md-sm wd-state-closed-sm wd-active-lg wd-active-md-sm wd-icon-rotate"><!-- wp:wd/container {"blockId":"21f1f6fd-829e-4d3a-9fd3-460a84d14ca9","direction":"row","extraClass":"wd-toggle-head","metadata":{"name":"Toggle header"}} -->
+<div id="wd-21f1f6fd" class="wp-block-wd-container wd-dir-row wd-toggle-head"><!-- wp:wd/title {"blockId":"67293f9d-ec29-4315-b108-04887f1d9342","content":"Useful links","tpFontSize":"22","tpFontVariant":"400","tpFontWeight":"400","tpFontSizeTablet":"20","tpFontSizeMobile":"18"} -->
+<h2 id="wd-67293f9d" class="wp-block-wd-title title">Useful links</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/icon {"blockId":"6c9376b9-2f24-4f04-a94f-895c600fb485","type":"svg","svg":"\u003csvg xmlns=\u0022http://www.w3.org/2000/svg \u0022 width=\u002264\u0022 height=\u002264\u0022 viewBox=\u00220 0 64 64\u0022\u003e\u003cpath d=\u0022M59.7678 20.7678C60.2551 20.2804 60.4992 19.6419 60.5 19.0031C60.5008 18.3623 60.2567 17.7212 59.7678 17.2322C59.2796 16.7441 58.6398 16.5 58 16.5C57.3602 16.5 56.7204 16.7441 56.2322 17.2322L32 41.4645L7.76777 17.2322C7.27961 16.7441 6.63981 16.5 6 16.5C5.36019 16.5 4.72039 16.7441 4.23223 17.2322C3.74408 17.7204 3.5 18.3602 3.5 19C3.5 19.6398 3.74408 20.2796 4.23223 20.7678L30.2322 46.7678C30.7204 47.2559 31.3602 47.5 32 47.5C32.6398 47.5 33.2796 47.2559 33.7678 46.7678L59.7678 20.7678Z\u0022 /\u003e\u003c/svg\u003e","extraClass":"wd-toggle-icon"} -->
+<div id="wd-6c9376b9" class="wp-block-wd-icon wd-toggle-icon"><svg xmlns="http://www.w3.org/2000/svg " width="64" height="64" viewBox="0 0 64 64" aria-hidden="true"><path d="M59.7678 20.7678C60.2551 20.2804 60.4992 19.6419 60.5 19.0031C60.5008 18.3623 60.2567 17.7212 59.7678 17.2322C59.2796 16.7441 58.6398 16.5 58 16.5C57.3602 16.5 56.7204 16.7441 56.2322 17.2322L32 41.4645L7.76777 17.2322C7.27961 16.7441 6.63981 16.5 6 16.5C5.36019 16.5 4.72039 16.7441 4.23223 17.2322C3.74408 17.7204 3.5 18.3602 3.5 19C3.5 19.6398 3.74408 20.2796 4.23223 20.7678L30.2322 46.7678C30.7204 47.2559 31.3602 47.5 32 47.5C32.6398 47.5 33.2796 47.2559 33.7678 46.7678L59.7678 20.7678Z"></path></svg></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/toggle-content {"blockId":"c914bf79-7aab-464b-b3a1-a0e2e9d6290b"} -->
+<div id="wd-c914bf79" class="wp-block-wd-toggle-content wd-toggle-content"><div class="wd-toggle-content-inner"><!-- wp:wd/menu-list {"blockId":"8d2cb9fc-6765-4c29-8e64-7953a1d05651","title":""} -->
+<ul id="wd-8d2cb9fc" class="wp-block-wd-menu-list wd-sub-menu wd-sub-accented"><li><ul class="sub-sub-menu"><!-- wp:wd/menu-list-item {"blockId":"3cb5d51b-8bc1-487e-b4ad-4b3dc6571197","title":"Blog"} -->
+<li id="wd-3cb5d51b" class="wp-block-wd-menu-list-item"><a href="https://dummy.xtemos.com/woodmart2/kids-gutenberg/blog/">Blog</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"1cc19fb5-c80c-4828-aef4-07541e0a233c","title":"Contact us","labelText":"","labelColor":"green"} -->
+<li id="wd-1cc19fb5" class="wp-block-wd-menu-list-item"><a href="https://dummy.xtemos.com/woodmart2/kids-gutenberg/contact-us/">Contact us</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"0e99d3a0-7c1c-46d2-9377-537186c3548c","title":"About us"} -->
+<li id="wd-0e99d3a0" class="wp-block-wd-menu-list-item"><a href="https://dummy.xtemos.com/woodmart2/kids-gutenberg/about-us/">About us</a></li>
+<!-- /wp:wd/menu-list-item -->
+
+<!-- wp:wd/menu-list-item {"blockId":"ccfb311f-192d-41bb-ac48-1053c58c428a","title":"Delivery \u0026amp; Return"} -->
+<li id="wd-ccfb311f" class="wp-block-wd-menu-list-item"><a href="#">Delivery &amp; Return</a></li>
+<!-- /wp:wd/menu-list-item --></ul></li></ul>
+<!-- /wp:wd/menu-list --></div></div>
+<!-- /wp:wd/toggle-content --></div>
+<!-- /wp:wd/toggle --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"e499c4a9-e598-4ce9-915c-3a3406b97a81","adjacentCount":4,"colWidth":22,"adjacentCountTablet":3,"adjacentCountMobile":1,"colWidthTablet":33.333,"colWidthMobile":100} -->
+<div id="wd-e499c4a9" class="wp-block-wd-column"><!-- wp:wd/toggle {"blockId":"59bb0c00-8083-4c70-8893-5bd24530fe7a","state":"static","stateTablet":"static"} -->
+<div id="wd-59bb0c00" class="wp-block-wd-toggle wd-toggle wd-state-static-lg wd-state-static-md-sm wd-state-closed-sm wd-active-lg wd-active-md-sm wd-icon-rotate"><!-- wp:wd/container {"blockId":"b5b3cc61-9c29-4774-a213-a8054b89e3eb","direction":"row","extraClass":"wd-toggle-head","metadata":{"name":"Toggle header"}} -->
+<div id="wd-b5b3cc61" class="wp-block-wd-container wd-dir-row wd-toggle-head"><!-- wp:wd/title {"blockId":"a6b94a78-8fea-45b1-8983-77fd2db0410f","content":"Got a question?","tpFontSize":"22","tpFontVariant":"400","tpFontWeight":"400","tpFontSizeTablet":"20","tpFontSizeMobile":"18"} -->
+<h2 id="wd-a6b94a78" class="wp-block-wd-title title">Got a question?</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/icon {"blockId":"e270a367-0323-414f-93a5-9e0c9a9b0aba","type":"svg","svg":"\u003csvg xmlns=\u0022http://www.w3.org/2000/svg \u0022 width=\u002264\u0022 height=\u002264\u0022 viewBox=\u00220 0 64 64\u0022\u003e\u003cpath d=\u0022M59.7678 20.7678C60.2551 20.2804 60.4992 19.6419 60.5 19.0031C60.5008 18.3623 60.2567 17.7212 59.7678 17.2322C59.2796 16.7441 58.6398 16.5 58 16.5C57.3602 16.5 56.7204 16.7441 56.2322 17.2322L32 41.4645L7.76777 17.2322C7.27961 16.7441 6.63981 16.5 6 16.5C5.36019 16.5 4.72039 16.7441 4.23223 17.2322C3.74408 17.7204 3.5 18.3602 3.5 19C3.5 19.6398 3.74408 20.2796 4.23223 20.7678L30.2322 46.7678C30.7204 47.2559 31.3602 47.5 32 47.5C32.6398 47.5 33.2796 47.2559 33.7678 46.7678L59.7678 20.7678Z\u0022 /\u003e\u003c/svg\u003e","extraClass":"wd-toggle-icon"} -->
+<div id="wd-e270a367" class="wp-block-wd-icon wd-toggle-icon"><svg xmlns="http://www.w3.org/2000/svg " width="64" height="64" viewBox="0 0 64 64" aria-hidden="true"><path d="M59.7678 20.7678C60.2551 20.2804 60.4992 19.6419 60.5 19.0031C60.5008 18.3623 60.2567 17.7212 59.7678 17.2322C59.2796 16.7441 58.6398 16.5 58 16.5C57.3602 16.5 56.7204 16.7441 56.2322 17.2322L32 41.4645L7.76777 17.2322C7.27961 16.7441 6.63981 16.5 6 16.5C5.36019 16.5 4.72039 16.7441 4.23223 17.2322C3.74408 17.7204 3.5 18.3602 3.5 19C3.5 19.6398 3.74408 20.2796 4.23223 20.7678L30.2322 46.7678C30.7204 47.2559 31.3602 47.5 32 47.5C32.6398 47.5 33.2796 47.2559 33.7678 46.7678L59.7678 20.7678Z"></path></svg></div>
+<!-- /wp:wd/icon --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/toggle-content {"blockId":"1467ff43-5e29-49a9-a499-b291922dc279"} -->
+<div id="wd-1467ff43" class="wp-block-wd-toggle-content wd-toggle-content"><div class="wd-toggle-content-inner"><!-- wp:wd/list {"blockId":"5154628e-dd70-4473-9061-4f0b406b83f0","iconType":"without"} -->
+<ul id="wd-5154628e" class="wp-block-wd-list wd-list wd-type-without"><!-- wp:wd/list-item {"blockId":"cdcc2053-f62a-4387-9f7e-b12e49d813ee","iconType":"without","svg":"","image":""} -->
+<li id="wd-cdcc2053" class="wp-block-wd-list-item"><span class="wd-list-content">Email: babyclothes@mail.com</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"04b715d0-7122-429c-ab24-79ee78d1bd7f","iconType":"without","svg":"","image":""} -->
+<li id="wd-04b715d0" class="wp-block-wd-list-item"><span class="wd-list-content">Call Us: (064) 332-1233</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"a817b97d-a2b5-4028-98d8-c5004f1cd31f","iconType":"without","svg":"","image":""} -->
+<li id="wd-a817b97d" class="wp-block-wd-list-item"><span class="wd-list-content">Monday - Friday</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"6e327a52-bdcf-4a29-ad03-8023a065f6f4","iconType":"without","svg":"","image":""} -->
+<li id="wd-6e327a52" class="wp-block-wd-list-item"><span class="wd-list-content">Hours: 9:00am - 5:00pm</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"1932a9ac-9869-4245-85ed-f67860ee16ad","iconType":"without","svg":"","image":""} -->
+<li id="wd-1932a9ac" class="wp-block-wd-list-item"><span class="wd-list-content">913 Wyandotte St, Kansas City, MO 64105, United States<br></span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list --></div></div>
+<!-- /wp:wd/toggle-content --></div>
+<!-- /wp:wd/toggle --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>102</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 12:16:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 12:16:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-02-24 14:52:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-02-24 14:52:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[footer-kids]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[w-bcs-logo-black-l]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/?attachment_id=157</link>
+					<pubDate>Mon, 29 Jul 2024 13:26:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-black-l.svg</guid>
+															<wp:post_id>157</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 13:26:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 13:26:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-29 13:26:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-29 13:26:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-logo-black-l]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>102</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-black-l.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-logo-black-l.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-logo-black-m]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/?attachment_id=158</link>
+					<pubDate>Mon, 29 Jul 2024 13:26:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-black-m.svg</guid>
+															<wp:post_id>158</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 13:26:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 13:26:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-29 13:26:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-29 13:26:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-logo-black-m]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>102</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-black-m.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-logo-black-m.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-newslatter]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/?attachment_id=159</link>
+					<pubDate>Mon, 29 Jul 2024 13:27:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-newslatter.svg</guid>
+															<wp:post_id>159</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 13:27:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 13:27:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-29 13:27:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-29 13:27:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-newslatter]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>102</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-newslatter.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-newslatter.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-logo-white-m]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/w-bcs-logo-white-m/</link>
+					<pubDate>Mon, 29 Jul 2024 13:52:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-white-m.svg</guid>
+															<wp:post_id>160</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-29 13:52:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-29 13:52:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-29 13:52:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-29 13:52:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-logo-white-m]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-logo-white-m.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-logo-white-m.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-slide-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-slide-1-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:11:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-1-opt.jpg</guid>
+															<wp:post_id>232</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:11:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:11:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:11:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:11:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-slide-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-slide-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-slide-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-slide-2-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:11:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-2-opt.jpg</guid>
+															<wp:post_id>233</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:11:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:11:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:11:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:11:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-slide-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-slide-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-slide-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-slide-3-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:11:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-3-opt.jpg</guid>
+															<wp:post_id>234</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:11:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:11:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:11:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:11:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-slide-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-slide-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bundle]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/bundle/</link>
+					<pubDate>Tue, 30 Jul 2024 06:34:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/bundle.svg</guid>
+															<wp:post_id>255</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:34:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:34:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:34:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:34:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bundle]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/bundle.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/bundle.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-banner-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-banner-1-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:34:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-banner-1-opt.jpg</guid>
+															<wp:post_id>256</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:34:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:34:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:34:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:34:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-banner-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-banner-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-banner-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-instagram-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-instagram-1-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:47:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-1-opt.jpg</guid>
+															<wp:post_id>269</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:47:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:47:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:47:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:47:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-instagram-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-instagram-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-instagram-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-instagram-2-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:47:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-2-opt.jpg</guid>
+															<wp:post_id>270</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:47:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:47:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:47:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:47:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-instagram-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-instagram-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-instagram-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-instagram-3-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:47:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-3-opt.jpg</guid>
+															<wp:post_id>271</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:47:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:47:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:47:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:47:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-instagram-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-instagram-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-instagram-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-instagram-4-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:47:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-4-opt.jpg</guid>
+															<wp:post_id>272</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:47:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:47:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:47:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:47:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-instagram-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-instagram-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-instagram-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-instagram-5-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:47:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-5-opt.jpg</guid>
+															<wp:post_id>273</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:47:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:47:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:47:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:47:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-instagram-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-instagram-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-instagram-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-slide-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-slide-1-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:11:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-1-opt.jpg</guid>
+															<wp:post_id>232</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:11:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:11:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:11:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:11:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-slide-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-slide-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-slide-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-slide-2-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:11:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-2-opt.jpg</guid>
+															<wp:post_id>233</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:11:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:11:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:11:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:11:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-slide-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-slide-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-slide-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/w-bcs-slide-3-opt/</link>
+					<pubDate>Tue, 30 Jul 2024 06:11:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-3-opt.jpg</guid>
+															<wp:post_id>234</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:11:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:11:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:11:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:11:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-slide-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/w-bcs-slide-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/w-bcs-slide-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bundle]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids-gutenberg/home-kids/bundle/</link>
+					<pubDate>Tue, 30 Jul 2024 06:34:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/bundle.svg</guid>
+															<wp:post_id>255</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-30 06:34:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-30 06:34:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-30 06:34:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-30 06:34:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bundle]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>84</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids-gutenberg/wp-content/uploads/sites/30/2024/07/bundle.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/bundle.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

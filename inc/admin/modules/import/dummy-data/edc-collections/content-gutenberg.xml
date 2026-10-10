@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>EDC gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 16 Apr 2026 15:13:20 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/edc-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Collections]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/collections/</link>
+					<pubDate>Tue, 28 Apr 2026 11:42:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/edc-gutenberg/?page_id=17</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"f161e31a-203c-477d-adb7-fefde67f38dc","blockVersion":"2","columnsGap":20,"marginBottom":"20"} -->
+<div class="wp-block-wd-row wd-f161e31a"><!-- wp:wd/column {"blockId":"97a10c29-2cb9-46c5-8b88-8373eb160c7a","blockVersion":"2","adjacentCount":2,"blocksGap":0,"bgColorCode":"#ffffff","borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div class="wp-block-wd-column wd-97a10c29"><!-- wp:wd/cover {"blockId":"fb602543-545b-4655-8765-b80db486a6fb","blockVersion":"2","contentAlignVertical":"end","height":"240","image":{"id":151,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-hiking.jpg","width":670,"height":240},"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"0","borderRadiusLeft":"0","borderRadiusLock":false} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-fb602543"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-hiking.jpg" class="wp-image-151" alt="" /></div><!-- wp:wd/container {"blockId":"4d7b0601-dc92-48e9-994f-f575cb6d4df4","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-4d7b0601"><!-- wp:wd/paragraph {"blockId":"a6f6eed5-bb05-4f17-836a-ca46f4343006","blockVersion":"2","colorCode":"#ffffff","tpFontSize":"14","tpFontVariant":"600","tpFontWeight":"600","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"2","paddingRight":"10","paddingBottom":"2","paddingLeft":"10","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","displayWidth":"fit-content"} -->
+<p class="wp-block-wd-paragraph wd-a6f6eed5 wd-custom-width">Ready-made EDC</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"b8316172-adca-42fb-86fc-d73fb68dfa4d","blockVersion":"2","content":"Hiking Collection"} -->
+<h2 class="wp-block-wd-title title wd-b8316172">Hiking Collection</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"d27e2594-fab5-45e6-992a-214fb0609b28","blockVersion":"2","include":"375,402,392,490","orderby":"","columns":2,"items_per_page":"4","product_hover":"small","img_size":"custom","imgSizeCustomWidth":"65","imgSizeCustomHeight":"74","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"columnsTablet":1,"columnsMobile":1} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"246ad931-8dcb-40d0-8bbe-b40619040587","blockVersion":"2","adjacentCount":2,"blocksGap":0,"bgColorCode":"#ffffff","borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div class="wp-block-wd-column wd-246ad931"><!-- wp:wd/cover {"blockId":"25bc55c7-21dc-4864-aea9-4717cb4be201","blockVersion":"2","contentAlignVertical":"end","height":"240","image":{"id":150,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-fishing.jpg","width":670,"height":240},"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"0","borderRadiusLeft":"0","borderRadiusLock":false} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-25bc55c7"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-fishing.jpg" class="wp-image-150" alt="" /></div><!-- wp:wd/container {"blockId":"bc9c8858-773e-447b-aaa1-e063d252367f","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-bc9c8858"><!-- wp:wd/paragraph {"blockId":"8e48b757-8991-44fe-b1c0-d02e47031508","blockVersion":"2","colorCode":"#ffffff","tpFontSize":"14","tpFontVariant":"600","tpFontWeight":"600","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"2","paddingRight":"12","paddingBottom":"2","paddingLeft":"12","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","displayWidth":"fit-content"} -->
+<p class="wp-block-wd-paragraph wd-8e48b757 wd-custom-width">Ready-made EDC</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"ceb382b2-2524-4204-8dbe-8d9b7ff9b808","blockVersion":"2","content":"Fishing Collection"} -->
+<h2 class="wp-block-wd-title title wd-ceb382b2">Fishing Collection</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"8a83ac25-6427-4c63-83c0-b4f17cb7988a","blockVersion":"2","include":"381,395,417,517","orderby":"","columns":2,"items_per_page":"4","product_hover":"small","img_size":"custom","imgSizeCustomWidth":"65","imgSizeCustomHeight":"74","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"columnsTablet":1,"columnsMobile":1} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"2400346a-6ca6-44db-891d-ab80a3095195","blockVersion":"2","columnsGap":20,"marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-row wd-2400346a"><!-- wp:wd/column {"blockId":"ae249fe0-89fb-4a16-86cf-aabca0ce4a1c","blockVersion":"2","adjacentCount":2,"blocksGap":0,"bgColorCode":"#ffffff","borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div class="wp-block-wd-column wd-ae249fe0"><!-- wp:wd/cover {"blockId":"1433dc11-892e-45db-8594-4d6f0686af4a","blockVersion":"2","contentAlignVertical":"end","imageAspectRatio":"670/420","height":"240","image":{"id":149,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-bicycle.jpg","width":670,"height":240},"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"0","borderRadiusLeft":"0","borderRadiusLock":false} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-1433dc11"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-bicycle.jpg" class="wp-image-149" alt="" /></div><!-- wp:wd/container {"blockId":"f487c570-90a1-4c94-bd23-8f3d053b954d","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-f487c570"><!-- wp:wd/paragraph {"blockId":"1a7aa52f-25f9-45cf-abec-60a7c928ba27","blockVersion":"2","colorCode":"#ffffff","tpFontSize":"14","tpFontVariant":"600","tpFontWeight":"600","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"2","paddingRight":"10","paddingBottom":"2","paddingLeft":"10","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","displayWidth":"fit-content"} -->
+<p class="wp-block-wd-paragraph wd-1a7aa52f wd-custom-width">Ready-made EDC</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"282a13d5-0172-4dec-afca-fec1a83dd78f","blockVersion":"2","content":"Bicycle Collection"} -->
+<h2 class="wp-block-wd-title title wd-282a13d5">Bicycle Collection</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"198b6940-b1ac-4940-8cac-1e0af458a439","blockVersion":"2","include":"392,431,442,608","orderby":"","columns":2,"items_per_page":"4","product_hover":"small","img_size":"custom","imgSizeCustomWidth":"65","imgSizeCustomHeight":"74","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"columnsTablet":1,"columnsMobile":1} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"a866cfe9-4f2c-4d3e-a888-1f2e17d2a675","blockVersion":"2","adjacentCount":2,"blocksGap":0,"bgColorCode":"#ffffff","borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16"} -->
+<div class="wp-block-wd-column wd-a866cfe9"><!-- wp:wd/cover {"blockId":"a54202ed-9026-45b8-abe9-135f0739cfed","blockVersion":"2","contentAlignVertical":"end","imageAspectRatio":"670/420","height":"240","image":{"id":152,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-worker.jpg","width":670,"height":240},"imagePosition":"","borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"0","borderRadiusLeft":"0","borderRadiusLock":false} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-a54202ed"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-worker.jpg" class="wp-image-152" alt="" /></div><!-- wp:wd/container {"blockId":"028c2ebd-0e0c-4cd7-aa16-880bf9eb9cae","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-028c2ebd"><!-- wp:wd/paragraph {"blockId":"d8d81569-8d40-46aa-9837-70438e7cba0b","blockVersion":"2","colorCode":"#ffffff","tpFontSize":"14","tpFontVariant":"600","tpFontWeight":"600","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"2","paddingRight":"10","paddingBottom":"2","paddingLeft":"10","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","displayWidth":"fit-content"} -->
+<p class="wp-block-wd-paragraph wd-d8d81569 wd-custom-width">Ready-made EDC</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"a85e3826-85eb-471b-a3dc-f227823aa54f","blockVersion":"2","content":"Worker Collection"} -->
+<h2 class="wp-block-wd-title title wd-a85e3826">Worker Collection</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover -->
+
+<!-- wp:wd/products {"blockId":"25848694-bd7f-49c5-8d83-de422f827c1b","blockVersion":"2","include":"533,416,572,385","orderby":"","columns":2,"items_per_page":"4","product_hover":"small","img_size":"custom","imgSizeCustomWidth":"65","imgSizeCustomHeight":"74","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"columnsTablet":1,"columnsMobile":1} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/title {"blockId":"dee8852d-ae60-486a-9526-7be0b1587205","blockVersion":"2","textAlign":"center","content":"The Most Favorable Offers","tpFontSize":"40","tpLineHeight":"1.2","marginBottom":"40","tpFontSizeTablet":"32","tpFontSizeMobile":"28","tpLineHeightUnits":"em","marginBottomTablet":"20"} -->
+<h2 class="wp-block-wd-title title wd-align wd-dee8852d">The Most Favorable Offers</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/carousel {"blockId":"de2d70c5-bfd7-450a-9451-5d3dd7ecc56e","blockVersion":"2","currentSlide":2,"paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"initOnScrollCarousel":true,"marginBottom":"60","slidesPerViewTablet":"2","paddingRightTablet":"15","paddingLeftTablet":"15","marginBottomTablet":"30"} -->
+<div class="wp-block-wd-carousel wd-carousel-container wd-de2d70c5"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid scroll-init" style="--wd-col-lg:3;--wd-col-md:2;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/carousel-item {"blockId":"90fcdae9-a68a-48ef-b54e-fcee120b4c49","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-90fcdae9"><!-- wp:wd/cover {"blockId":"4648ed4e-0021-4156-b84e-be81ae8e4e6a","blockVersion":"2","contentAlignVertical":"end","size":"aspectRatio","aspectRatio":"asImage","imageAspectRatio":"670/420","height":"","image":{"id":96,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-1.jpg","width":670,"height":420},"bgColorCode":"#0a100e","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-4648ed4e"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-1.jpg" class="wp-image-96" alt="" /></div><!-- wp:wd/container {"blockId":"8afe1e63-6bfd-4d3a-b4f6-8e40c34ed4a9","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-8afe1e63"><!-- wp:wd/paragraph {"blockId":"7cfc7ffa-f250-42f3-ad0b-ff537d9d29eb","blockVersion":"2","colorCode":"#ffffff","tpFontSize":"14","tpFontVariant":"600","tpFontWeight":"600","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"2","paddingRight":"10","paddingBottom":"2","paddingLeft":"10","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","displayWidth":"fit-content"} -->
+<p class="wp-block-wd-paragraph wd-7cfc7ffa wd-custom-width">$239.00</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"0d5d3f37-e572-40cc-b3e3-acdb38ed65ff","blockVersion":"2","content":"Kershaw Believer"} -->
+<h2 class="wp-block-wd-title title wd-0d5d3f37">Kershaw Believer</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"2bc6740e-0f40-49cb-930c-e57a0725a4e7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-2bc6740e">The iconic knife for your EDC collection.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"979ceb2f-2657-4665-b1b1-2b96afb30572","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-979ceb2f"><!-- wp:wd/cover {"blockId":"5f6d18af-4f4e-46e5-9c4b-32bcf97e961c","blockVersion":"2","contentAlignVertical":"end","size":"aspectRatio","aspectRatio":"asImage","imageAspectRatio":"670/420","height":"","image":{"id":97,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-2.jpg","width":670,"height":420},"bgColorCode":"#eff1f2","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-5f6d18af"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-2.jpg" class="wp-image-97" alt="" /></div><!-- wp:wd/container {"blockId":"d4b41d2a-c0d4-4ea0-b7f3-81f0119afb91","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-d4b41d2a"><!-- wp:wd/paragraph {"blockId":"3e976adb-3a7c-460b-9f04-46769b3f32ac","blockVersion":"2","colorCode":"#ffffff","tpFontSize":"14","tpFontVariant":"600","tpFontWeight":"600","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"2","paddingRight":"10","paddingBottom":"2","paddingLeft":"10","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","displayWidth":"fit-content"} -->
+<p class="wp-block-wd-paragraph wd-3e976adb wd-custom-width">$34.90</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"dfb3f388-933d-417a-8927-b8e465a4434d","blockVersion":"2","content":"Orbitkey Desk Pouch"} -->
+<h2 class="wp-block-wd-title title wd-dfb3f388">Orbitkey Desk Pouch</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"1a02557f-0eb4-46f2-a8fd-15c1a68fdb58","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-1a02557f">No more digging around in the depth of your pouch to find small items.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"40fea236-e3dd-4fd1-9e64-5359f01c93ce","blockVersion":"2"} -->
+<div class="wp-block-wd-carousel-item wd-carousel-item wd-40fea236"><!-- wp:wd/cover {"blockId":"d73e832b-0b67-46e2-bc75-7125a31ffd2e","blockVersion":"2","contentAlignVertical":"end","size":"aspectRatio","aspectRatio":"asImage","imageAspectRatio":"670/420","height":"","image":{"id":98,"url":"http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-3.jpg","width":670,"height":420},"bgColorCode":"#203e28","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div class="wp-block-wd-cover wd-hover-parent wd-d73e832b"><div class="wd-block-cover-img"><img src="http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-3.jpg" class="wp-image-98" alt="" /></div><!-- wp:wd/container {"blockId":"c9a70abb-8df9-4fa3-b3b3-3a3e40ae920f","blockVersion":"2","colorScheme":"light","metadata":{"name":"Banner content"}} -->
+<div class="wp-block-wd-container wd-dir-col color-scheme-light wd-c9a70abb"><!-- wp:wd/paragraph {"blockId":"4b203bd7-5850-419c-81b2-2cfb746b4d93","blockVersion":"2","colorCode":"#ffffff","tpFontSize":"14","tpFontVariant":"600","tpFontWeight":"600","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"2","paddingRight":"10","paddingBottom":"2","paddingLeft":"10","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","displayWidth":"fit-content"} -->
+<p class="wp-block-wd-paragraph wd-4b203bd7 wd-custom-width">$69.00</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"6758e585-935c-4c44-adad-e514cefc2e84","blockVersion":"2","content":"Nomad Card Wallet"} -->
+<h2 class="wp-block-wd-title title wd-6758e585">Nomad Card Wallet</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"76979ab2-4d50-4d06-8632-453a82474b93","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-76979ab2">The iconic knife for your EDC collection.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/cover --></div>
+<!-- /wp:wd/carousel-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/carousel -->]]></content:encoded>
+															<wp:post_id>17</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-28 11:42:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-28 11:42:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-29 06:09:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-29 06:09:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[collections]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-banner-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-banner-1/</link>
+					<pubDate>Wed, 29 Apr 2026 14:21:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-1.jpg</guid>
+															<wp:post_id>96</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:21:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:21:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:21:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:21:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-banner-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-banner-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-banner-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-banner-2/</link>
+					<pubDate>Wed, 29 Apr 2026 14:21:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-2.jpg</guid>
+															<wp:post_id>97</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:21:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:21:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:21:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:21:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-banner-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-banner-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-banner-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-banner-3/</link>
+					<pubDate>Wed, 29 Apr 2026 14:21:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-3.jpg</guid>
+															<wp:post_id>98</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:21:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:21:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:21:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:21:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-banner-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-banner-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-banner-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-collection-bicycle]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-collection-bicycle/</link>
+					<pubDate>Wed, 29 Apr 2026 14:22:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-bicycle.jpg</guid>
+															<wp:post_id>149</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:22:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:22:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:22:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:22:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-collection-bicycle]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-bicycle.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-collection-bicycle.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-collection-fishing]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-collection-fishing/</link>
+					<pubDate>Wed, 29 Apr 2026 14:22:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-fishing.jpg</guid>
+															<wp:post_id>150</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:22:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:22:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:22:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:22:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-collection-fishing]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-fishing.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-collection-fishing.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-collection-hiking]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-collection-hiking/</link>
+					<pubDate>Wed, 29 Apr 2026 14:22:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-hiking.jpg</guid>
+															<wp:post_id>151</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:22:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:22:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:22:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:22:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-collection-hiking]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-hiking.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-collection-hiking.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[edc-collection-worker]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/edc-collection-worker/</link>
+					<pubDate>Wed, 29 Apr 2026 14:22:37 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-worker.jpg</guid>
+															<wp:post_id>152</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-29 14:22:37]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-29 14:22:37]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:22:37]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:22:37]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[edc-collection-worker]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/edc-collection-worker.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/04/edc-collection-worker.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

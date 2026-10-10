@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>fashion-2-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/fashion-2-elementor</link>
+	<description></description>
+	<pubDate>Mon, 22 Dec 2025 12:05:00 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/fashion-2-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/fashion-2-elementor/wp-content/uploads/sites/69/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/fashion-2-elementor/contact-us/</link>
+					<pubDate>Mon, 22 Dec 2025 14:19:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/fashion-2-elementor/?page_id=965</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/fashion-2-elementor/wp-content/themes/woodmart/css/parts/el-section-title.css?ver=8.5.0" type="text/css" media="all" /> 					
+				<h4>GET IN TOUCH</h4> 
+								<link rel="stylesheet" id="wd-wpcf7-css" href="https://dummy.xtemos.com/woodmart2/fashion-2-elementor/wp-content/themes/woodmart/css/parts/int-wpcf7.css?ver=8.5.0" type="text/css" media="all" /> 			
+<p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
+<form action="/woodmart2/fashion-2-elementor/wp-admin/admin-ajax.php#wpcf7-f1133-o1" method="post" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset><input type="hidden" name="_wpcf7" value="1133" /><input type="hidden" name="_wpcf7_version" value="6.1.6" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1133-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</fieldset>
+			<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="First Name" value="" type="text" name="first-name" />
+			</p>
+			<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="Last Name" value="" type="text" name="last-name" />
+			</p>
+			<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="your-email" />
+			</p>
+			<p><input size="40" maxlength="400" aria-required="true" aria-invalid="false" placeholder="Order Number (Optional)" value="" type="text" name="Order-number" />
+			</p>
+		<p><textarea cols="40" rows="10" maxlength="2000" aria-invalid="false" placeholder="Your Message" name="your-message"></textarea>
+		</p>
+		<p><input type="submit" value="Send Message" />
+		</p>
+</form>
+				<h4>NEW YORK OFFICE</h4> 
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/fashion-2-elementor/wp-content/themes/woodmart/css/parts/el-text-block.css?ver=8.5.0" type="text/css" media="all" /> 					
+			<p>Address:</p>
+			<p>3131 94th St, East Elmhurst, NY, 11369</p>
+			<p>Tel:</p>
+			<p>(207) 555-01-19</p>
+			<p>Hours:</p>
+			<p>Monday to Friday from 08:00 to 17:00<br />Saturday from 09:00 to 15:00</p>
+				<h4>WASHINGTON OFFICE</h4> 
+			<p>Address:</p>
+			<p>2844 Wisconsin Ave NW, Washington, DC 20007</p>
+			<p>Tel:</p>
+			<p>(207) 555-01-19</p>
+			<p>Hours:</p>
+			<p>Monday to Friday from 08:00 to 17:00<br />Saturday from 09:00 to 15:00</p>
+								<link rel="stylesheet" id="wd-map-css" href="https://dummy.xtemos.com/woodmart2/fashion-2-elementor/wp-content/themes/woodmart/css/parts/el-map.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-el-open-street-map-css" href="https://dummy.xtemos.com/woodmart2/fashion-2-elementor/wp-content/themes/woodmart/css/parts/el-open-street-map.css?ver=8.5.0" type="text/css" media="all" />]]></content:encoded>
+															<wp:post_id>965</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-22 14:19:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-22 14:19:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 12:26:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 12:26:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.0.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"d27d977","elType":"container","settings":{"flex_direction":"column","boxed_width":{"unit":"px","size":690,"sizes":[]},"scroll_y":-80},"elements":[{"id":"4c9ed9c","elType":"widget","settings":{"subtitle":"","title":"GET IN TOUCH","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":23,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"d7fff49","elType":"widget","settings":{"form_id":"1133","scroll_y":-80},"elements":[],"widgetType":"wd_contact_form_7"},{"id":"0a9e7fc","elType":"container","settings":{"content_width":"full","flex_direction":"row","margin":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"40","right":"0","bottom":"20","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"1eaae79","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":50,"sizes":[]},"scroll_y":-80},"elements":[{"id":"69b12ec","elType":"widget","settings":{"subtitle":"","title":"NEW YORK OFFICE","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":18,"sizes":[]},"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":16,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"f542873","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"column":"5","row":"10","isLinked":false,"unit":"px","size":5},"flex_wrap":"nowrap","scroll_y":-80},"elements":[{"id":"3d9100f","elType":"widget","settings":{"text":"<p>Address:<\/p>","scroll_y":-80,"text_color":"title","_element_width":"initial","_element_custom_width":{"unit":"px","size":70,"sizes":[]},"_flex_size":"none"},"elements":[],"widgetType":"wd_text_block"},{"id":"3447bed","elType":"widget","settings":{"text":"<p>3131 94th St, East Elmhurst, NY, 11369<\/p>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":true},{"id":"6e71864","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"column":"5","row":"10","isLinked":false,"unit":"px","size":5},"flex_wrap":"nowrap","scroll_y":-80},"elements":[{"id":"e806a38","elType":"widget","settings":{"text":"<p>Tel:<\/p>","scroll_y":-80,"text_color":"title","_element_width":"initial","_element_custom_width":{"unit":"px","size":70,"sizes":[]},"_flex_size":"none"},"elements":[],"widgetType":"wd_text_block"},{"id":"e3429c8","elType":"widget","settings":{"text":"<p>(207) 555-01-19<\/p>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":true},{"id":"a92b058","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"column":"5","row":"10","isLinked":false,"unit":"px","size":5},"flex_wrap":"nowrap","scroll_y":-80},"elements":[{"id":"de37adb","elType":"widget","settings":{"text":"<p>Hours:<\/p>","scroll_y":-80,"text_color":"title","_element_width":"initial","_element_custom_width":{"unit":"px","size":70,"sizes":[]},"_flex_size":"none"},"elements":[],"widgetType":"wd_text_block"},{"id":"738e7f8","elType":"widget","settings":{"text":"<p>Monday to Friday from 08:00 to 17:00<br \/>Saturday from 09:00 to 15:00<\/p>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":true}],"isInner":true},{"id":"e9fd1de","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":50,"sizes":[]},"scroll_y":-80},"elements":[{"id":"0230d30","elType":"widget","settings":{"subtitle":"","title":"WASHINGTON OFFICE","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":18,"sizes":[]},"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":16,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"f7f2f24","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"column":"5","row":"10","isLinked":false,"unit":"px","size":5},"flex_wrap":"nowrap","scroll_y":-80},"elements":[{"id":"e46ebfe","elType":"widget","settings":{"text":"<p>Address:<\/p>","scroll_y":-80,"text_color":"title","_element_width":"initial","_element_custom_width":{"unit":"px","size":70,"sizes":[]},"_flex_size":"none"},"elements":[],"widgetType":"wd_text_block"},{"id":"16c5695","elType":"widget","settings":{"text":"<p>2844 Wisconsin Ave NW, Washington, DC 20007<\/p>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":true},{"id":"a86ca4f","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"column":"5","row":"10","isLinked":false,"unit":"px","size":5},"flex_wrap":"nowrap","scroll_y":-80},"elements":[{"id":"78fdf7d","elType":"widget","settings":{"text":"<p>Tel:<\/p>","scroll_y":-80,"text_color":"title","_element_width":"initial","_element_custom_width":{"unit":"px","size":70,"sizes":[]},"_flex_size":"none"},"elements":[],"widgetType":"wd_text_block"},{"id":"c54e57d","elType":"widget","settings":{"text":"<p>(207) 555-01-19<\/p>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":true},{"id":"d3a75ee","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"column":"5","row":"10","isLinked":false,"unit":"px","size":5},"flex_wrap":"nowrap","scroll_y":-80},"elements":[{"id":"107debf","elType":"widget","settings":{"text":"<p>Hours:<\/p>","scroll_y":-80,"text_color":"title","_element_width":"initial","_element_custom_width":{"unit":"px","size":70,"sizes":[]},"_flex_size":"none"},"elements":[],"widgetType":"wd_text_block"},{"id":"1c3724c","elType":"widget","settings":{"text":"<p>Monday to Friday from 08:00 to 17:00<br \/>Saturday from 09:00 to 15:00<\/p>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":true}],"isInner":true}],"isInner":true},{"id":"588137c","elType":"widget","settings":{"marker_list":[{"_id":"e55279e","marker_coords":"40.710403, -74.005644"},{"marker_coords":"38.915960, -77.009001","_id":"9296552"}],"zoom":{"unit":"px","size":6,"sizes":[]},"height":{"unit":"px","size":370,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_open_street_map"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:24:"wd__woodmart_main_layout";s:10:"full-width";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact form Fashion-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/fashion-2-elementor/?post_type=wpcf7_contact_form&#038;p=1133</link>
+					<pubDate>Tue, 23 Dec 2025 12:06:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/fashion-2-elementor/?post_type=wpcf7_contact_form&#038;p=1133</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* first-name placeholder ="First Name"]</div>
+<div class="wd-col">[text* last-name placeholder ="Last Name"]</div>
+</div>
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[email* your-email placeholder ="Email"]</div>
+<div class="wd-col">[text* Order-number placeholder ="Order Number (Optional)"]</div>
+</div>
+<div>[textarea your-message placeholder ="Your Message"]</div>
+<div>[submit "Send Message"]</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@dummy.xtemos.com>
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+1
+1
+
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@dummy.xtemos.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+1
+1
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>1133</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-23 12:06:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-23 12:06:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-23 12:06:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-23 12:06:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-fashion-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* first-name placeholder ="First Name"]</div>
+<div class="wd-col">[text* last-name placeholder ="Last Name"]</div>
+</div>
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[email* your-email placeholder ="Email"]</div>
+<div class="wd-col">[text* Order-number placeholder ="Order Number (Optional)"]</div>
+</div>
+<div>[textarea your-message placeholder ="Your Message"]</div>
+<div>[submit "Send Message"]</div>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:1;s:13:"exclude_blank";b:1;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:1;s:13:"exclude_blank";b:1;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0a5ff5814d9002f56408be0bcbbca24b1e011166f25102b6f93386ab6f04f854]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

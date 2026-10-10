@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>electronics-3-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/electronics-3-elementor</link>
+	<description></description>
+	<pubDate>Wed, 20 Aug 2025 12:05:42 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/electronics-3-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Electronics 3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/electronics-3-elementor/woodmart_layout/cart-electronics-3/</link>
+					<pubDate>Mon, 05 Jan 2026 12:40:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/electronics-3-elementor/?post_type=woodmart_layout&#038;p=1831</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-woo-mod-checkout-steps-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-mod-checkout-steps.min.css?ver=8.4.0" type="text/css" media="all" /> 						<ul>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/cart/">
+						Shopping cart
+					</a>
+				</li>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/checkout/">
+						Checkout
+					</a>
+				</li>
+				<li>
+					Order complete
+				</li>
+			</ul>
+							<form action="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/cart/" method="post">
+				<table>
+					<thead>
+					<tr>
+						<th>&nbsp;</th>
+						<th>&nbsp;</th>
+						<th scope="col">Product</th>
+						<th scope="col">Price</th>
+						<th scope="col">Quantity</th>
+						<th scope="col">Subtotal</th>
+					</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/cart/?remove_item=66368270ffd51418ec58bd793f2d9b1b&#038;_wpnonce=381308faf1" aria-label="Remove ACER ConceptD CT300 from cart" data-product_id="431" data-product_sku="30944">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/acer-conceptd-ct300/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1-300x300.jpg" alt="ACER ConceptD CT300" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1-150x150.jpg 150w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/acer-conceptd-ct300/">ACER ConceptD CT300</a>								</td>
+								<td data-title="Price">
+									<bdi>&#36;1,199.00</bdi>								</td>
+								<td data-title="Quantity">
+			<input type="button" value="-" aria-label="Decrease quantity" />
+	<label for="quantity_6994975c4bd43">ACER ConceptD CT300 quantity</label>
+	<input
+		type="number"
+				id="quantity_6994975c4bd43"
+		class="input-text qty text"
+		value="1"
+		aria-label="Product quantity"
+				min="0"
+				name="cart[66368270ffd51418ec58bd793f2d9b1b][qty]"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			>
+			<input type="button" value="+" aria-label="Increase quantity" />
+								</td>
+								<td data-title="Subtotal">
+									<bdi>&#36;1,199.00</bdi>								</td>
+							</tr>
+				<tr>
+					<td colspan="12">
+									<label for="coupon_code">
+										Coupon:									</label>
+									<input type="text" name="coupon_code" id="coupon_code" value="" placeholder="Coupon code" />
+									<button type="submit" name="apply_coupon" value="Apply coupon">
+										Apply coupon									</button>
+							<button type="submit" name="update_cart" value="Update cart">
+								Update cart							</button>
+							<input type="hidden" id="woocommerce-cart-nonce" name="woocommerce-cart-nonce" value="381308faf1" /><input type="hidden" name="_wp_http_referer" value="/woodmart2/electronics-3-elementor/wp-admin/admin-ajax.php" />						
+					</td>
+				</tr>
+								</tbody>
+			</table>
+					</form>
+	<h2>Cart totals</h2>
+	<table cellspacing="0">
+		<tr>
+			<th>Subtotal</th>
+			<td data-title="Subtotal"><bdi>&#36;1,199.00</bdi></td>
+		</tr>
+		<tr>
+			<th>Total</th>
+			<td data-title="Total"><strong><bdi>&#36;1,199.00</bdi></strong> </td>
+		</tr>
+	</table>
+<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/checkout/">
+	Proceed to checkout</a>
+								<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-el-base-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-el-base.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-predefined-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-predefined.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-base-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-base.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-loop-prod-add-btn-replace-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-mod-loop-prod-add-btn-replace.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-more-description-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/mod-more-description.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-loop-prod-hover-fade-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-mod-loop-prod-hover-fade.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-loop-prod-hover-fade-predefined-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-mod-loop-prod-hover-fade-predefined.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=8.4.0" type="text/css" media="all" /> 						
+									<h4>You may be interested in…</h4>							
+		<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/acer-conceptd-ct300/" tabindex="-1" aria-label="ACER ConceptD CT300">
+						<link rel="stylesheet" id="wd-woo-mod-product-labels-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-product-labels-round-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css?ver=8.4.0" type="text/css" media="all" /> 						
+				Hot			
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1-76x88.jpg 76w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-conceptd-ct300-1-65x74.jpg 65w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/ugreen-cell-phone-stand-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/ugreen-cell-phone-stand-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/ugreen-cell-phone-stand-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/ugreen-cell-phone-stand-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/ugreen-cell-phone-stand-1-150x171.jpg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="" data-id="431" rel="nofollow">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/acer-conceptd-ct300/">ACER ConceptD CT300</a></h3>				
+						<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product-category/laptops-tablets-pcs/pcs/office-pcs/" rel="tag">Office PCs</a>		
+	<bdi>&#36;1,199.00</bdi>
+					Completely Different — 15 Pro Max In September 2023, Apple released the new iPhone 15 Pro Max. Strong and lightweight titanium body with new contoured edges, new Action button, powerful updated cameras and A17 Pro processor for a new level of productivity and mobile gaming. The device received a large bright display. iPhone 15 Pro has a durable and lightweight aerospace titanium body and textured frosted glass back. It is equipped with a Ceramic Shield front panel, which is stronger than the glass of any smartphone. In addition, iPhone 15 Pro is protected against splashes, water and dust.¹ Updated Design				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="" data-key="763b24f897" data-product-id="431" rel="nofollow">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/electronics-3-elementor/wp-admin/admin-ajax.php?add-to-cart=431" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_431" data-quantity="1" data-product_id="431" data-product_sku="30944" aria-label="Add to cart: &ldquo;ACER ConceptD CT300&rdquo;" rel="nofollow" data-success_message="&ldquo;ACER ConceptD CT300&rdquo; has been added to your cart" role="button">Add to cart</a>	
+							<link rel="stylesheet" id="wd-mfp-popup-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-animations-transform-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform.min.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-transform-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/mod-transform.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<a
+				href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/acer-conceptd-ct300/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="431"
+				>
+						Quick view					
+			</a>
+		<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/acer-veriton-z2740g/" tabindex="-1" aria-label="ACER Veriton Z2740G">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-76x88.jpg 76w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-65x74.jpg 65w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-76x88.jpg 76w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/acer-veriton-z2740g-1-65x74.jpg 65w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="" data-id="442" rel="nofollow">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/acer-veriton-z2740g/">ACER Veriton Z2740G</a></h3>				
+						<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product-category/laptops-tablets-pcs/pcs/all-in-one/" rel="tag">All in one</a>		
+	<bdi>&#36;1,150.00</bdi>
+					Completely Different — 15 Pro Max In September 2023, Apple released the new iPhone 15 Pro Max. Strong and lightweight titanium body with new contoured edges, new Action button, powerful updated cameras and A17 Pro processor for a new level of productivity and mobile gaming. The device received a large bright display. iPhone 15 Pro has a durable and lightweight aerospace titanium body and textured frosted glass back. It is equipped with a Ceramic Shield front panel, which is stronger than the glass of any smartphone. In addition, iPhone 15 Pro is protected against splashes, water and dust.¹ Updated Design				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="" data-key="763b24f897" data-product-id="442" rel="nofollow">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/electronics-3-elementor/wp-admin/admin-ajax.php?add-to-cart=442" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_442" data-quantity="1" data-product_id="442" data-product_sku="30955" aria-label="Add to cart: &ldquo;ACER Veriton Z2740G&rdquo;" rel="nofollow" data-success_message="&ldquo;ACER Veriton Z2740G&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/acer-veriton-z2740g/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="442"
+				>
+						Quick view					
+			</a>
+		<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/alienware-aurora-r10/" tabindex="-1" aria-label="ALIENWARE Aurora R10">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/alienware-aurora-r10-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/alienware-aurora-r10-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/alienware-aurora-r10-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/alienware-aurora-r10-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/alienware-aurora-r10-1-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/alienware-aurora-r10-1-65x74.jpg 65w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/cygnett-magdesk-3-in-1-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/cygnett-magdesk-3-in-1-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/cygnett-magdesk-3-in-1-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/cygnett-magdesk-3-in-1-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/cygnett-magdesk-3-in-1-1-150x171.jpg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="" data-id="365" rel="nofollow">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/alienware-aurora-r10/">ALIENWARE Aurora R10</a></h3>				
+						<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product-category/laptops-tablets-pcs/pcs/gaming-pcs/" rel="tag">Gaming PCs</a>		
+	<bdi>&#36;2,100.00</bdi>
+					Completely Different — 15 Pro Max In September 2023, Apple released the new iPhone 15 Pro Max. Strong and lightweight titanium body with new contoured edges, new Action button, powerful updated cameras and A17 Pro processor for a new level of productivity and mobile gaming. The device received a large bright display. iPhone 15 Pro has a durable and lightweight aerospace titanium body and textured frosted glass back. It is equipped with a Ceramic Shield front panel, which is stronger than the glass of any smartphone. In addition, iPhone 15 Pro is protected against splashes, water and dust.¹ Updated Design				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="" data-key="763b24f897" data-product-id="365" rel="nofollow">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/electronics-3-elementor/wp-admin/admin-ajax.php?add-to-cart=365" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_365" data-quantity="1" data-product_id="365" data-product_sku="30939" aria-label="Add to cart: &ldquo;ALIENWARE Aurora R10&rdquo;" rel="nofollow" data-success_message="&ldquo;ALIENWARE Aurora R10&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/alienware-aurora-r10/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="365"
+				>
+						Quick view					
+			</a>
+		<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-finewoven-case/" tabindex="-1" aria-label="Apple FineWoven Case">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-1-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-1-65x74.jpg 65w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-3.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-3.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-3-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-3-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-finewoven-case-3-150x171.jpg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="" data-id="444" rel="nofollow">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-finewoven-case/">Apple FineWoven Case</a></h3>				
+						<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product-category/smartphones/covers-for-phones/" rel="tag">Covers for Phones</a>		
+	<bdi>&#36;59.00</bdi>
+					Completely Different — 15 Pro Max In September 2023, Apple released the new iPhone 15 Pro Max. Strong and lightweight titanium body with new contoured edges, new Action button, powerful updated cameras and A17 Pro processor for a new level of productivity and mobile gaming. The device received a large bright display. iPhone 15 Pro has a durable and lightweight aerospace titanium body and textured frosted glass back. It is equipped with a Ceramic Shield front panel, which is stronger than the glass of any smartphone. In addition, iPhone 15 Pro is protected against splashes, water and dust.¹ Updated Design				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="" data-key="763b24f897" data-product-id="444" rel="nofollow">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-finewoven-case/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_444" data-quantity="1" data-product_id="444" data-product_sku="320189" aria-label="Select options for &ldquo;Apple FineWoven Case&rdquo;" rel="nofollow">Select options</a>	
+		This product has multiple variants. The options may be chosen on the product page	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-finewoven-case/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="444"
+				>
+						Quick view					
+			</a>
+		<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-imac-24-m1/" tabindex="-1" aria-label="Apple iMac 24&#8243; M1">
+				Hot			
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-blue-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-blue-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-blue-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-blue-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-blue-1-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-blue-1-65x74.jpg 65w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-green-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-green-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-green-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-green-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-imac-24-M1-green-1-150x171.jpg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="" data-id="436" rel="nofollow">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-imac-24-m1/">Apple iMac 24&#8243; M1</a></h3>				
+						<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product-category/laptops-tablets-pcs/pcs/all-in-one/" rel="tag">All in one</a>		
+	<bdi>&#36;1,299.00</bdi>
+					Completely Different — 15 Pro Max In September 2023, Apple released the new iPhone 15 Pro Max. Strong and lightweight titanium body with new contoured edges, new Action button, powerful updated cameras and A17 Pro processor for a new level of productivity and mobile gaming. The device received a large bright display. iPhone 15 Pro has a durable and lightweight aerospace titanium body and textured frosted glass back. It is equipped with a Ceramic Shield front panel, which is stronger than the glass of any smartphone. In addition, iPhone 15 Pro is protected against splashes, water and dust.¹ Updated Design				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="" data-key="763b24f897" data-product-id="436" rel="nofollow">
+					Add to wishlist
+				</a>
+					<a href="/woodmart2/electronics-3-elementor/wp-admin/admin-ajax.php?add-to-cart=436" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_436" data-quantity="1" data-product_id="436" data-product_sku="30949" aria-label="Add to cart: &ldquo;Apple iMac 24&quot; M1&rdquo;" rel="nofollow" data-success_message="&ldquo;Apple iMac 24&quot; M1&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-imac-24-m1/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="436"
+				>
+						Quick view					
+			</a>
+		<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-ipad-air-wi-fi/" tabindex="-1" aria-label="Apple iPad Air Wi-Fi">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-air-blue-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-air-blue-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-air-blue-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-air-blue-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-air-blue-1-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-air-blue-1-65x74.jpg 65w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/samsung-galaxy-fold-5-3.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/samsung-galaxy-fold-5-3.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/samsung-galaxy-fold-5-3-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/samsung-galaxy-fold-5-3-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/samsung-galaxy-fold-5-3-150x171.jpg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="" data-id="116" rel="nofollow">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-ipad-air-wi-fi/">Apple iPad Air Wi-Fi</a></h3>				
+						<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product-category/laptops-tablets-pcs/tablets/apple-ipad/" rel="tag">Apple Ipad</a>		
+	<bdi>&#36;600.00</bdi> &ndash; <bdi>&#36;700.00</bdi>Price range: &#36;600.00 through &#36;700.00
+					Completely Different — 15 Pro Max In September 2023, Apple released the new iPhone 15 Pro Max. Strong and lightweight titanium body with new contoured edges, new Action button, powerful updated cameras and A17 Pro processor for a new level of productivity and mobile gaming. The device received a large bright display. iPhone 15 Pro has a durable and lightweight aerospace titanium body and textured frosted glass back. It is equipped with a Ceramic Shield front panel, which is stronger than the glass of any smartphone. In addition, iPhone 15 Pro is protected against splashes, water and dust.¹ Updated Design				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="" data-key="763b24f897" data-product-id="116" rel="nofollow">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-ipad-air-wi-fi/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_116" data-quantity="1" data-product_id="116" data-product_sku="30910" aria-label="Select options for &ldquo;Apple iPad Air Wi-Fi&rdquo;" rel="nofollow">Select options</a>	
+		This product has multiple variants. The options may be chosen on the product page	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-ipad-air-wi-fi/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="116"
+				>
+						Quick view					
+			</a>
+		<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-ipad-pro-wi-fi/" tabindex="-1" aria-label="Apple iPad Pro Wi-Fi">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-pro-space-gray-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-pro-space-gray-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-pro-space-gray-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-pro-space-gray-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-ipad-pro-space-gray-1-150x171.jpg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-macbook-air-13-m2-midnight-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-macbook-air-13-m2-midnight-1.jpg 700w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-macbook-air-13-m2-midnight-1-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-macbook-air-13-m2-midnight-1-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/uploads/sites/57/2025/12/apple-macbook-air-13-m2-midnight-1-150x171.jpg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="" data-id="114" rel="nofollow">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-ipad-pro-wi-fi/">Apple iPad Pro Wi-Fi</a></h3>				
+						<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product-category/laptops-tablets-pcs/tablets/apple-ipad/" rel="tag">Apple Ipad</a>		
+	<bdi>&#36;1,520.00</bdi> &ndash; <bdi>&#36;1,720.00</bdi>Price range: &#36;1,520.00 through &#36;1,720.00
+					Completely Different — 15 Pro Max In September 2023, Apple released the new iPhone 15 Pro Max. Strong and lightweight titanium body with new contoured edges, new Action button, powerful updated cameras and A17 Pro processor for a new level of productivity and mobile gaming. The device received a large bright display. iPhone 15 Pro has a durable and lightweight aerospace titanium body and textured frosted glass back. It is equipped with a Ceramic Shield front panel, which is stronger than the glass of any smartphone. In addition, iPhone 15 Pro is protected against splashes, water and dust.¹ Updated Design				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="" data-key="763b24f897" data-product-id="114" rel="nofollow">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-ipad-pro-wi-fi/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_114" data-quantity="1" data-product_id="114" data-product_sku="30908" aria-label="Select options for &ldquo;Apple iPad Pro Wi-Fi&rdquo;" rel="nofollow">Select options</a>	
+		This product has multiple variants. The options may be chosen on the product page	
+			<a
+				href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/product/apple-ipad-pro-wi-fi/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="114"
+				>
+						Quick view					
+			</a>
+					<link rel="stylesheet" id="wd-swiper-arrows-css" href="https://dummy.xtemos.com/woodmart2/electronics-3-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-arrows.min.css?ver=8.4.0" type="text/css" media="all" />]]></content:encoded>
+															<wp:post_id>1831</wp:post_id>
+					<wp:post_date><![CDATA[2026-01-05 12:40:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-01-05 12:40:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-17 16:29:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-17 16:29:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-electronics-3]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"389c223","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"-20","right":"0","bottom":"20","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"b7b1145","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_wc_checkout_steps"},{"id":"748dd8c","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_wc_notices"}],"isInner":false},{"id":"e085ac9","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"30","column":"30","row":"30","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"6d550b5","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"66"},"container_sticky_offset":"50","scroll_y":"-80","flex_gap":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30}},"elements":[{"id":"7aba9be","elType":"widget","settings":{"content_width":"full","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"252b566","elType":"widget","settings":{"content_width":"full","style":"default","scroll_y":"-80","_padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"_padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_background_background":"classic","_background_color":"#F4F4F4","_border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[],"widgetType":"wd_single_product_shipping_progress_bar"},{"id":"b7f0add","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_before_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"ca72d8b","elType":"widget","settings":{"content_width":"full","_padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":"1"},"scroll_y":"-80","_background_background":"classic","_background_color":"#F4F4F4","_border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":"1"},"_padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[],"widgetType":"wd_cart_table"}],"isInner":"1"},{"id":"95a911d","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"42"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"269f9ef","elType":"widget","settings":{"content_width":"full","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"24","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"22","sizes":[]},"title_typography_text_transform":"none","button_alignment":"full-width","_padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":"1"},"scroll_y":"-80","_background_background":"classic","_background_color":"#F4F4F4","_border_radius":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":"1"},"_padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[],"widgetType":"wd_cart_totals"},{"id":"0afd6b7","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"}],"isInner":false},{"id":"3fb367c","elType":"container","settings":{"flex_direction":"column","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"644f6b1","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_cart_collaterals","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"4340583","elType":"widget","settings":{"content_width":"full","element_title":"You may be interested in\u2026","layout":"carousel","items_per_page":"7","slides_per_view":{"unit":"px","size":"6","sizes":[]},"slides_per_view_tablet":{"unit":"px","size":"4","sizes":[]},"hide_pagination_control":"yes","sync_parent_id":"wd_6787d91d926be","products_with_background":"","products_background":"#FFFFFF","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":38,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"_margin":{"unit":"px","top":"80","right":"0","bottom":"0","left":"0","isLinked":""},"_margin_tablet":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":""},"_margin_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""},"scroll_y":"-80","products_bordered_grid":"","products_bordered_grid_style":"inside","title_typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]}},"elements":[],"widgetType":"wd_products"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

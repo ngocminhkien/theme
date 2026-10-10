@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Megamarket</title>
+	<link>https://dummy.xtemos.com/woodmart2/megamarket</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Fri, 20 May 2022 12:29:04 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/megamarket</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Payment and Delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket/payment-and-delivery/</link>
+					<pubDate>Thu, 02 Jun 2022 07:15:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket/?page_id=1039</guid>
+											<content:encoded><![CDATA[[vc_row css=".vc_custom_1653046130458{margin-bottom: 20px !important;}" woodmart_css_id="62877b6cc709b" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2Mjg3N2I2Y2M3MDliIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnsibWFyZ2luLXRvcCI6Ii0yMHB4In0sIm1vYmlsZSI6e319fQ==" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column css=".vc_custom_1651744709700{padding-top: 0px !important;}" woodmart_css_id="62739fbc25ff3" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" wd_column_role_offcanvas_desktop="no" wd_column_role_offcanvas_tablet="no" wd_column_role_offcanvas_mobile="no" wd_column_role_content_desktop="no" wd_column_role_content_tablet="no" wd_column_role_content_mobile="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjczOWZiYzI1ZmYzIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no"][woodmart_title align="left" size="large" font_weight="800" woodmart_css_id="62612836c3d3d" title="Delivery Information" title_custom_color="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgLndvb2RtYXJ0LXRpdGxlLWNvbnRhaW5lciJdfSwic2VsZWN0b3JfaWQiOiI2MjYxMjgzNmMzZDNkIiwiZGF0YSI6eyJkZXNrdG9wIjoiIzEyNDZhYiJ9fQ==" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjYxMjgzNmMzZDNkIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6eyJtYXJnaW4tYm90dG9tIjoiMjAifX19" title_font_size="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zaXplIiwiY3NzX2FyZ3MiOnsiZm9udC1zaXplIjpbIiAud29vZG1hcnQtdGl0bGUtY29udGFpbmVyIl19LCJzZWxlY3Rvcl9pZCI6IjYyNjEyODM2YzNkM2QiLCJkYXRhIjp7InRhYmxldCI6IjI2cHgiLCJtb2JpbGUiOiIyNHB4In19"][vc_row_inner][vc_column_inner width="1/2"][woodmart_title align="left" size="medium" woodmart_css_id="61d45d1d0adab" title="When will my order ship?" css=".vc_custom_1641307423202{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MWQ0NWQxZDBhZGFiIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][woodmart_text_block woodmart_css_id="625fa8d30fc30" woodmart_inline="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjVmYThkMzBmYzMwIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" parallax_scroll="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]There's lot of hate out there for a text that amounts to little more than garbled words in an old language. The villagers are out there with a vengeance to get that Frankenstein, wielding torches and pitchforks, wanting.[/woodmart_text_block][/vc_column_inner][vc_column_inner width="1/2"][woodmart_title align="left" size="medium" woodmart_css_id="61d45d20d1eb9" title="When will my order ship?" css=".vc_custom_1641307426468{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MWQ0NWQyMGQxZWI5Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][woodmart_text_block woodmart_css_id="625fa8f6c5d42" woodmart_inline="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjVmYThmNmM1ZDQyIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" parallax_scroll="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.[/woodmart_text_block][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1652099092870{margin-bottom: 30px !important;}" woodmart_css_id="62790810ac30b" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2Mjc5MDgxMGFjMzBiIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnsibWFyZ2luLWJvdHRvbSI6IjIwcHgifSwibW9iaWxlIjp7Im1hcmdpbi1ib3R0b20iOiIwcHgifX19" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column][woodmart_image img_align="center" woodmart_css_id="62a2fe51a55c8" img_id="1698" img_size="full" display_inline="no" parallax_scroll="no" css=".vc_custom_1654849123466{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MmEyZmU1MWE1NWM4Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfaW1hZ2UiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" woodmart_box_shadow="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"][woodmart_text_block woodmart_css_id="626948fa82a92" woodmart_inline="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjY5NDhmYTgyYTkyIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" parallax_scroll="no" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]
+<table>
+<tbody>
+<tr>
+<td width="214"><strong>Shipping Metods</strong></td>
+<td width="214"><strong>Rate</strong></td>
+<td width="214"><strong>Max Charge</strong></td>
+</tr>
+<tr>
+<td width="214">FedEx</td>
+<td width="214">10% of order value</td>
+<td width="214"><strong><span style="color: #1246ab;">$299</span></strong></td>
+</tr>
+<tr>
+<td width="214">FedEx, Signature Required</td>
+<td width="214">10% of order value + $20</td>
+<td width="214"><strong><span style="color: #1246ab;">$299 + $20</span></strong></td>
+</tr>
+<tr>
+<td width="214">In-Home Delivery</td>
+<td width="214">$299 per trip</td>
+<td width="214"><strong><span style="color: #1246ab;">$299</span></strong></td>
+</tr>
+<tr>
+<td width="214">In-Home Delivery, Time-Specific</td>
+<td width="214">$399 per trip</td>
+<td width="214"><strong><span style="color: #1246ab;">$299</span></strong></td>
+</tr>
+</tbody>
+</table>
+[/woodmart_text_block][/vc_column][/vc_row][vc_row woodmart_css_id="627904a7e9726" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2Mjc5MDRhN2U5NzI2Iiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column width="1/2" woodmart_css_id="62612a944dd9a" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" wd_column_role_offcanvas_desktop="no" wd_column_role_offcanvas_tablet="no" wd_column_role_offcanvas_mobile="no" wd_column_role_content_desktop="no" wd_column_role_content_tablet="no" wd_column_role_content_mobile="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjYxMmE5NDRkZDlhIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no" css=".vc_custom_1650535063529{padding-top: 0px !important;}"][woodmart_title align="left" size="medium" woodmart_css_id="61d45daac92ce" title="Delivery time" css=".vc_custom_1641307565371{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MWQ0NWRhYWM5MmNlIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][woodmart_text_block woodmart_css_id="62612ab1e0350" woodmart_inline="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjYxMmFiMWUwMzUwIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" parallax_scroll="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited for another time.[/woodmart_text_block][/vc_column][vc_column width="1/2" css=".vc_custom_1650535067615{padding-top: 0px !important;}" woodmart_css_id="62612a98a158c" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" wd_column_role_offcanvas_desktop="no" wd_column_role_offcanvas_tablet="no" wd_column_role_offcanvas_mobile="no" wd_column_role_content_desktop="no" wd_column_role_content_tablet="no" wd_column_role_content_mobile="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjYxMmE5OGExNThjIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no"][woodmart_title align="left" size="medium" woodmart_css_id="61d45db1c2ec4" title="Tracking" css=".vc_custom_1641307572676{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MWQ0NWRiMWMyZWM0Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][woodmart_text_block woodmart_css_id="625fa9cb35e3b" woodmart_inline="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MjVmYTljYjM1ZTNiIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" parallax_scroll="no" wd_hide_on_desktop="no" wd_hide_on_tablet_landscape="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"]To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can't quite tell right now, but they're unhappy, somehow.[/woodmart_text_block][/vc_column][/vc_row]]]></content:encoded>
+															<wp:post_id>1039</wp:post_id>
+					<wp:post_date><![CDATA[2022-06-02 07:15:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-06-02 07:15:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 13:20:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 13:20:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment-and-delivery]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[woodmart_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#wd-62612836c3d3d .woodmart-title-container{color:#1246ab;}@media (max-width: 1199.98px) {html .wd-rs-62877b6cc709b{margin-top:-20px !important;}html .wd-rs-62790810ac30b{margin-bottom:20px !important;}#wd-62612836c3d3d .woodmart-title-container{line-height:36px;font-size:26px;}}@media (max-width: 767.98px) {html .wd-rs-62790810ac30b{margin-bottom:0px !important;}#wd-62612836c3d3d .woodmart-title-container{line-height:34px;font-size:24px;}html .wd-rs-62612836c3d3d{margin-bottom:20px !important;}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1653046130458{margin-bottom: 20px !important;}.vc_custom_1652099092870{margin-bottom: 30px !important;}.vc_custom_1651744709700{padding-top: 0px !important;}.vc_custom_1641307423202{margin-bottom: 20px !important;}.vc_custom_1641307426468{margin-bottom: 20px !important;}.vc_custom_1654849123466{margin-bottom: 20px !important;}.vc_custom_1650535063529{padding-top: 0px !important;}.vc_custom_1650535067615{padding-top: 0px !important;}.vc_custom_1641307565371{margin-bottom: 20px !important;}.vc_custom_1641307572676{margin-bottom: 20px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[woodmart_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#wd-62612836c3d3d .woodmart-title-container{color:#1246ab;}@media (max-width: 1199.98px) {html .wd-rs-62877b6cc709b{margin-top:-20px !important;}html .wd-rs-62790810ac30b{margin-bottom:20px !important;}#wd-62612836c3d3d .woodmart-title-container{line-height:36px;font-size:26px;}}@media (max-width: 767.98px) {html .wd-rs-62790810ac30b{margin-bottom:0px !important;}#wd-62612836c3d3d .woodmart-title-container{line-height:34px;font-size:24px;}html .wd-rs-62612836c3d3d{margin-bottom:20px !important;}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1653046130458{margin-bottom: 20px !important;}.vc_custom_1652099092870{margin-bottom: 30px !important;}.vc_custom_1651744709700{padding-top: 0px !important;}.vc_custom_1641307423202{margin-bottom: 20px !important;}.vc_custom_1641307426468{margin-bottom: 20px !important;}.vc_custom_1654849123466{margin-bottom: 20px !important;}.vc_custom_1650535063529{padding-top: 0px !important;}.vc_custom_1650535067615{padding-top: 0px !important;}.vc_custom_1641307565371{margin-bottom: 20px !important;}.vc_custom_1641307572676{margin-bottom: 20px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[payment-and-delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket/payment-and-delivery/payment-and-delivery-2/</link>
+					<pubDate>Fri, 10 Jun 2022 08:18:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/payment-and-delivery.jpg</guid>
+															<wp:post_id>1698</wp:post_id>
+					<wp:post_date><![CDATA[2022-06-10 08:18:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-06-10 08:18:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 13:20:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 13:20:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment-and-delivery-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1039</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/payment-and-delivery.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/06/payment-and-delivery.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

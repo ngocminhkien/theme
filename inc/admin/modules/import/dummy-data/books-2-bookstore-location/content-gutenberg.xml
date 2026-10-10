@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Books 2 Gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 02 Jul 2026 06:34:14 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>259</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[pages-menu-books-2]]></wp:term_slug><wp:term_name><![CDATA[Pages menu Books 2]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[bk2-bookstore-location-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/bk2-bookstore-location-1/</link>
+					<pubDate>Mon, 13 Jul 2026 13:19:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-1.jpg</guid>
+															<wp:post_id>32</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-13 13:19:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-13 13:19:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 13:19:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 13:19:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-bookstore-location-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-bookstore-location-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[bk2-bookstore-location-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/bk2-bookstore-location-2/</link>
+					<pubDate>Mon, 13 Jul 2026 13:19:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-2.jpg</guid>
+															<wp:post_id>33</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-13 13:19:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-13 13:19:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 13:19:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 13:19:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[bk2-bookstore-location-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/07/bk2-bookstore-location-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Bookstore location]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/bookstore-location/</link>
+					<pubDate>Mon, 13 Jul 2026 13:42:13 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?page_id=183</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"2ffc38da-d154-412d-8eda-081a5adf3ea9","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginTopTablet":"-20"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-2ffc38da"><!-- wp:wd/page-heading {"blockId":"264ab20e-6459-4de8-9efd-dbb5a5756bfd","blockVersion":"2","tpFontSize":"38","htmlTag":"h1","tpFontSizeTablet":"28","tpFontSizeMobile":"22"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"839beb32-5bab-43a7-97a0-dd6b8144dc16","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"928a498c-08b8-48d4-b521-ace7075173f7","blockVersion":"2","marginBottom":"60","marginBottomTablet":"40"} -->
+<div class="wp-block-wd-row wd-928a498c"><!-- wp:wd/column {"blockId":"4e7e55a1-52eb-4cc2-875c-33b418261d6c","blockVersion":"2","adjacentCount":2,"colWidth":15,"sticky":true,"stickyOffset":"140","flexOrderMobile":"2","adjacentCountTablet":2,"colWidthTablet":30} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd_sticky_offset_140 wd-4e7e55a1"><!-- wp:wd/title {"blockId":"5ec57249-8f23-4590-94d2-99d91c6e8b06","blockVersion":"2","content":"Quick Links","tpFontSize":"28","hideOnDesktop":true,"hideOnTablet":true,"htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-hide-lg wd-hide-md-sm wd-5ec57249">Quick Links</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/menu {"blockId":"d62a6afe-3801-4742-8086-64ced7d9cb09","blockVersion":"2","nav_menu":"259","design":"vertical","dropdown_design":"simple","itemTpFontVariant":"500","itemTpFontWeight":"500","itemTpActiveFontVariant":"600","itemTpActiveFontWeight":"600","itemsColorCode":"#767676","itemsHoverColorCode":"#333333","className":"wd-active-font-weight"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"8f28470e-15be-4c9f-bd43-1600b73ea1e1","blockVersion":"2","adjacentCount":2,"colWidth":85,"adjacentCountTablet":2,"colWidthTablet":70} -->
+<div class="wp-block-wd-column wd-8f28470e"><!-- wp:wd/open-street-map {"blockId":"8f32e8f8-4bc0-4983-b7fd-65d7e5cea8d3","blockVersion":"2","marginBottom":"20","zoom":14,"panControl":false,"height":"560","locations":[{"title":"","lat":"40.7478","lon":"-73.9924","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"},{"title":"","lat":"40.7612","lon":"-73.9675","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"}],"heightTablet":"360"} -->
+<div class="wp-block-wd-open-street-map wd-map-container wd-osm-map-container wd-8f32e8f8"><div id="wd-osm-map-8f32e8f8-4bc0-4983-b7fd-65d7e5cea8d3" class="wd-osm-map-wrapper wd-map-wrapper" data-settings="{&quot;zoom&quot;:14,&quot;scrollWheelZoom&quot;:&quot;no&quot;,&quot;zoomControl&quot;:&quot;yes&quot;,&quot;dragging&quot;:&quot;no&quot;,&quot;init_type&quot;:&quot;page_load&quot;,&quot;init_offset&quot;:100,&quot;geoapify_tile&quot;:&quot;osm-carto&quot;,&quot;center&quot;:&quot;40.75450066891283,-73.97995125465403&quot;,&quot;markers&quot;:[{&quot;lat&quot;:&quot;40.7478&quot;,&quot;lng&quot;:&quot;-73.9924&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}},{&quot;lat&quot;:&quot;40.7612&quot;,&quot;lng&quot;:&quot;-73.9675&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}}]}"></div></div>
+<!-- /wp:wd/open-street-map -->
+
+<!-- wp:wd/container {"blockId":"718235ac-eae7-45eb-a6a8-85d0b5821fc3","blockVersion":"2","paddingBottom":"20","borderType":"solid","borderColorCode":"#0e0c0f","borderWidthBottom":"1","direction":"row","justify":"space-between","align":"center"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-718235ac"><!-- wp:wd/image {"blockId":"36370a63-5044-423f-a873-e74b3cde980b","blockVersion":"2","image":{"id":32,"url":"http://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-1.jpg","width":130,"height":150},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-1.jpg","width":130,"height":150},"flexSize":"grow","displayWidth":"","customWidth":""} -->
+<div class="wp-block-wd-image wd-block-image wd-36370a63"><img class="wp-image-32" src="http://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-1.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"2a23969a-8ef3-47a7-8fab-81c36149d33c","blockVersion":"2","displayWidth":"","direction":"row","justify":"space-between","align":"center","wrap":"wrap"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-2a23969a"><!-- wp:wd/paragraph {"blockId":"9f14fc48-64ad-4379-bd74-afc5f17cca6d","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-9f14fc48">729 6th Ave, New York, NY 10010</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"49ba754b-1dde-4f85-bc82-559725eec2c1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-49ba754b">686 492 1041</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"da6b63a5-270d-424b-a6ba-7b9381f57cd1","blockVersion":"2","paddingBottom":"20","borderType":"solid","borderColorCode":"#0e0c0f","borderWidthBottom":"1","direction":"row","justify":"space-between","align":"center"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-da6b63a5"><!-- wp:wd/image {"blockId":"282ea67d-ec2b-40c2-a0cd-853ed2a41891","blockVersion":"2","image":{"id":33,"url":"http://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-2.jpg","width":130,"height":150},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-2.jpg","width":130,"height":150},"flexSize":"grow"} -->
+<div class="wp-block-wd-image wd-block-image wd-282ea67d"><img class="wp-image-33" src="http://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/2026/07/bk2-bookstore-location-2.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"50251a46-079a-4193-ab19-9cc2e0560793","blockVersion":"2","displayWidth":"","direction":"row","justify":"space-between","align":"center","wrap":"wrap"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-50251a46"><!-- wp:wd/paragraph {"blockId":"b90c31ac-8738-434c-988a-dfd75ba7910d","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-b90c31ac">845 3rd Ave, New York, NY 10022</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"83e03458-efa1-4bbc-86eb-bc1502c88448","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-83e03458">686 492 1042</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>183</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-13 13:42:13]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-13 13:42:13]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-01 14:57:13]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-01 14:57:13]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[bookstore-location]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																			</item>
+								<item>
+					<title><![CDATA[About us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/about-us/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=434</guid>
+															<wp:post_id>434</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[434]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/about-us/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/contact-us/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=435</guid>
+															<wp:post_id>435</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[435]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/contact-us/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Bookstore location]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/bookstore-location/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=436</guid>
+															<wp:post_id>436</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[bookstore-location]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[436]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/bookstore-location/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Orders &amp; Shipping]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/orders-shipping/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=437</guid>
+															<wp:post_id>437</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[orders-shipping]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>4</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[437]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/orders-shipping/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Payment]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/payment/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=438</guid>
+															<wp:post_id>438</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>5</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[438]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/payment/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Returns]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/returns/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=439</guid>
+															<wp:post_id>439</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[returns]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>6</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[439]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/returns-2/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Megamarket elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/megamarket-elementor</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Fri, 20 May 2022 12:29:30 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/megamarket-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[product-delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-elementor/product-delivery/</link>
+					<pubDate>Mon, 23 May 2022 12:01:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-delivery.svg</guid>
+															<wp:post_id>433</wp:post_id>
+					<wp:post_date><![CDATA[2022-05-23 12:01:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-05-23 12:01:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-05-23 12:01:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-05-23 12:01:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[product-delivery]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-delivery.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/05/product-delivery.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[product-meny-products]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-elementor/product-meny-products/</link>
+					<pubDate>Mon, 23 May 2022 12:01:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-meny-products.svg</guid>
+															<wp:post_id>434</wp:post_id>
+					<wp:post_date><![CDATA[2022-05-23 12:01:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-05-23 12:01:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-05-23 12:01:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-05-23 12:01:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[product-meny-products]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-meny-products.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/05/product-meny-products.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[product-quality]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-elementor/product-quality/</link>
+					<pubDate>Mon, 23 May 2022 12:01:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-quality.svg</guid>
+															<wp:post_id>435</wp:post_id>
+					<wp:post_date><![CDATA[2022-05-23 12:01:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-05-23 12:01:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-05-23 12:01:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-05-23 12:01:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[product-quality]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-quality.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/05/product-quality.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[product-support]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-elementor/product-support/</link>
+					<pubDate>Mon, 23 May 2022 12:01:15 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-support.svg</guid>
+															<wp:post_id>436</wp:post_id>
+					<wp:post_date><![CDATA[2022-05-23 12:01:15]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-05-23 12:01:15]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-05-23 12:01:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-05-23 12:01:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[product-support]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-support.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2022/05/product-support.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Single product - Megamarket]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-elementor/woodmart_layout/single-product-megamarket/</link>
+					<pubDate>Mon, 30 May 2022 11:50:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-elementor/?post_type=woodmart_layout&#038;p=1330</guid>
+											<content:encoded><![CDATA[ 			<nav aria-label="Breadcrumb">				
+					Home				
+			</nav>		
+						 			
+			<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/product/exhterm-warm-floor/" aria-label="Previous product"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/product/exhterm-warm-floor/">
+					<img width="430" height="491" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/flooring-product-10-430x491.jpg" alt="" />				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/product/exhterm-warm-floor/">
+						Exhterm Warm Floor					</a>
+						&#036;118.32each					
+	<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/shop/">
+			Back to products		
+	</a>
+			<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/product/rectangular-sink/" aria-label="Next product"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/product/rectangular-sink/">
+					<img width="430" height="491" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/bathroom-product-2-430x491.jpg" alt="" />				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/product/rectangular-sink/">
+						Rectangular Sink					</a>
+						<del aria-hidden="true">&#036;235.00</del> Original price was: &#036;235.00.<ins aria-hidden="true">&#036;199.00</ins>Current price is: &#036;199.00.each					
+						 						 						 			
+		<figure style="--wd-col-lg:1;--wd-col-md:1;--wd-col-sm:1">
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/accessories-product-18-150x171.jpg"><a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/accessories-product-18.jpg"><img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/accessories-product-18.jpg" alt="" title="accessories-product-18" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/accessories-product-18.jpg" data-large_image="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/accessories-product-18.jpg" data-large_image_width="700" data-large_image_height="800" /></a></figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/flooring-product-10-150x171.jpg">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/flooring-product-10.jpg">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/flooring-product-10.jpg" alt="" title="flooring-product-10" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/flooring-product-10.jpg" data-large_image="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/flooring-product-10.jpg" data-large_image_width="700" data-large_image_height="800" />				</a>
+			</figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/lighting-product-6-150x171.jpg">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/lighting-product-6.jpg">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/lighting-product-6.jpg" alt="" title="lighting-product-6" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/lighting-product-6.jpg" data-large_image="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/lighting-product-6.jpg" data-large_image_width="700" data-large_image_height="800" />				</a>
+			</figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/plumbing-product-11-150x171.jpg">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/plumbing-product-11.jpg">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/plumbing-product-11.jpg" alt="" title="plumbing-product-11" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/plumbing-product-11.jpg" data-large_image="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/plumbing-product-11.jpg" data-large_image_width="700" data-large_image_height="800" />				</a>
+			</figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/thermal-product-12-150x171.jpg">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/thermal-product-12.jpg">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/thermal-product-12.jpg" alt="" title="thermal-product-12" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/thermal-product-12.jpg" data-large_image="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/thermal-product-12.jpg" data-large_image_width="700" data-large_image_height="800" />				</a>
+			</figure>
+				</figure>
+					 			
+									<img width="150" height="171" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/accessories-product-18-150x171.jpg" alt="" />								
+									<img width="150" height="171" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/flooring-product-10-150x171.jpg" alt="" />								
+									<img width="150" height="171" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/lighting-product-6-150x171.jpg" alt="" />								
+									<img width="150" height="171" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/plumbing-product-11-150x171.jpg" alt="" />								
+									<img width="150" height="171" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/thermal-product-12-150x171.jpg" alt="" />								
+<h1>
+	Wood Soap Dish
+	</h1>
+										<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/shop/?filter_brand=elemental">
+				<img src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/w-mm-brand-logo-3.png" title="Elemental" alt="Elemental">			</a>
+				SKU:			
+				321207			
+			<p>&#036;7.99each</p>
+			<p>8 in stock</p>
+	
+			
+	<label for="quantity_678507dcc3266">Wood Soap Dish quantity</label>
+	
+			
+		<button type="submit" name="add-to-cart" value="1101">Add to cart</button>
+			
+				<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/wishlist/" data-key="feb95f3cb4" data-product-id="1101" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/megamarket-elementor/compare/" data-id="1101" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+						 						 					
+			14
+			People watching this product now!
+						 					
+															<img src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-delivery.svg" title="product-delivery" width="32" height="32">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								Fast Shipping						</h4>
+					<p>Carrier information</p>
+															<img src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-meny-products.svg" title="product-meny-products" width="32" height="32">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								20k products						</h4>
+					<p>Payment methods</p>
+															<img src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-support.svg" title="product-support" width="32" height="32">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								24/7 Support						</h4>
+					<p>Unlimited help desk</p>
+															<img src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-quality.svg" title="product-quality" width="32" height="32">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								2-day Delivery						</h4>
+					<p>Track or off orders</p>
+						 						 						 						 								
+						Additional information					
+<table>
+		<tr>
+			<th>
+						Color					
+			</th>
+			<td>
+					<p>Brown</p>
+												</td>
+		</tr>
+		<tr>
+			<th>
+						Brand					
+			</th>
+			<td>
+					<p>Elemental</p>
+												</td>
+		</tr>
+		<tr>
+			<th>
+						Size					
+			</th>
+			<td>
+					<p>14 x 19in.</p>
+												</td>
+		</tr>
+	</table>
+						Reviews (0)					
+						 						 					
+				<h4>Description</h4> 
+			.elementor-1101 .elementor-element.elementor-element-07f842a{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:20px 30px;--background-transition:0.3s;--margin-top:0px;--margin-bottom:60px;--margin-left:0px;--margin-right:0px;}.elementor-1101 .elementor-element.elementor-element-2ae5e95{--display:flex;--background-transition:0.3s;}.elementor-1101 .elementor-element.elementor-element-db373a8{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--background-transition:0.3s;}.elementor-1101 .elementor-element.elementor-element-f1f7713{--display:flex;--background-transition:0.3s;}.elementor-1101 .elementor-element.elementor-element-f258f29{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--background-transition:0.3s;}.elementor-1101 .elementor-element.elementor-element-4902320{--display:flex;--gap:40px 40px;--background-transition:0.3s;}.elementor-1101 .elementor-element.elementor-element-402aaef{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--background-transition:0.3s;--padding-top:40px;--padding-bottom:40px;--padding-left:15px;--padding-right:15px;}.elementor-1101 .elementor-element.elementor-element-402aaef:not(.elementor-motion-effects-element-type-background), .elementor-1101 .elementor-element.elementor-element-402aaef &gt; .elementor-motion-effects-container &gt; .elementor-motion-effects-layer{background-color:#F8F8F8;background-image:url("http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-sink-banner.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1101 .elementor-element.elementor-element-402aaef, .elementor-1101 .elementor-element.elementor-element-402aaef::before{--border-transition:0.3s;}.elementor-1101 .elementor-element.elementor-element-8a63ab3{--display:flex;--gap:0px 0px;--background-transition:0.3s;--margin-top:0%;--margin-bottom:0%;--margin-left:50%;--margin-right:0%;}.elementor-1101 .elementor-element.elementor-element-14b41fb .title{font-size:32px;font-weight:800;}.elementor-1101 .elementor-element.elementor-element-14b41fb &gt; .elementor-widget-container{margin:0px 0px 30px 0px;}.elementor-1101 .elementor-element.elementor-element-14b41fb{width:auto;max-width:auto;}.elementor-1101 .elementor-element.elementor-element-4c26efa .wd-text-block{max-width:399px;}.elementor-1101 .elementor-element.elementor-element-4c26efa &gt; .elementor-widget-container{margin:0px 0px 20px 0px;}@media(min-width:768px){.elementor-1101 .elementor-element.elementor-element-2ae5e95{--width:58.3%;}.elementor-1101 .elementor-element.elementor-element-f1f7713{--width:58.3%;}.elementor-1101 .elementor-element.elementor-element-f258f29{--width:41.7%;}.elementor-1101 .elementor-element.elementor-element-4902320{--width:41.7%;}}@media(max-width:1024px) and (min-width:768px){.elementor-1101 .elementor-element.elementor-element-2ae5e95{--width:100%;}.elementor-1101 .elementor-element.elementor-element-4902320{--width:100%;}}@media(max-width:1024px){.elementor-1101 .elementor-element.elementor-element-07f842a{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:0px;--margin-bottom:40px;--margin-left:0px;--margin-right:0px;}.elementor-1101 .elementor-element.elementor-element-14b41fb .title{font-size:26px;}}@media(max-width:767px){.elementor-1101 .elementor-element.elementor-element-402aaef:not(.elementor-motion-effects-element-type-background), .elementor-1101 .elementor-element.elementor-element-402aaef &gt; .elementor-motion-effects-container &gt; .elementor-motion-effects-layer{background-position:-100% 0px;}.elementor-1101 .elementor-element.elementor-element-8a63ab3{--margin-top:0%;--margin-bottom:0%;--margin-left:0%;--margin-right:0%;}.elementor-1101 .elementor-element.elementor-element-14b41fb .title{font-size:18px;}}		
+						 					
+			<h5>Bathroom Sink Vox 2487 MSS</h5><p>Cubilia vestibulum interdum nisl a parturient a auctor vestibulum taciti vel bibendum tempor adipiscing suspendisse posuere libero penatibus lorem at interdum tristique iaculis redosan condimentum a ac rutrum mollis consectetur. Aenean nascetur vehicula egestas a adipiscing a est egestas suspendisse parturient diam adipiscing mattis elementum velit pulvinar.</p>
+								<img width="500" height="202" src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/product-sink-information.jpg" alt="" />					
+															<img src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/collection.svg" title="collection" width="20" height="20">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								Collection:						</h4>
+					<p>Vox</p>
+															<img src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/size.svg" title="size" width="20" height="20">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								Size:						</h4>
+					<p>584 W x 460 H x 203 D mm</p>
+															<img src="http://dummy.xtemos.com/woodmart2/megamarket-elementor/wp-content/uploads/sites/4/2022/05/materials.svg" title="materials" width="20" height="20">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								Materials:						</h4>
+					<p>Vitreous china</p>
+						 						 					
+													<a data-height="463" data-index="1" data-elementor-open-lightbox="no">
+						<img>
+													</a>
+													<a data-height="464" data-index="2" data-elementor-open-lightbox="no">
+						<img>
+													</a>
+			<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.</p>
+				<h4>Vox bathroom collection 2022</h4> 
+			<p>Himenaeos parturient nam a justo placerat lorem erat pretium a fusce pharetra pretium enim.</p>
+			<a href="#">
+					View Collection				
+							</a>
+						 						 						 						 						 						 						]]></content:encoded>
+															<wp:post_id>1330</wp:post_id>
+					<wp:post_date><![CDATA[2022-05-30 11:50:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-05-30 11:50:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-13 12:32:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-13 12:32:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-megamarket]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"7bf220a","elType":"container","settings":{"margin":{"unit":"px","top":"-25","right":"0","bottom":"20","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"-35","right":"0","bottom":"20","left":"0","isLinked":""},"flex_direction":"row","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"flex_justify_content":"space-between","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":""},"border_color":"#77777733","padding":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":""},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"97dd928","elType":"widget","settings":{"scroll_y":"-80","_element_width":"auto","_element_width_mobile":"inherit","nowrap_md":"md"},"elements":[],"widgetType":"wd_wc_breadcrumb"},{"id":"7bc8508","elType":"widget","settings":{"scroll_y":"-80","_element_width":"auto","_offset_orientation_h":"end","_offset_x_end":{"unit":"px","size":"10","sizes":[]},"_offset_y":{"unit":"px","size":"10","sizes":[]},"hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_single_product_nav"}],"isInner":""},{"id":"e5f7d04","elType":"container","settings":{"structure":"20","margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"flex_direction":"row","flex_gap":{"size":"60","column":"60","row":"20","unit":"px","isLinked":""},"flex_gap_tablet":{"column":"30","row":"20","isLinked":"","unit":"px","size":"30"},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"eb94c47","elType":"container","settings":{"_column_size":"50","width":{"size":"50","unit":"%"},"column_sticky_offset":"20","scroll_y":"-80","width_tablet":{"size":"50","unit":"%"},"content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"a3694b5","elType":"widget","settings":{"thumbnails_position":"left","scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_gallery"}],"isInner":"1"},{"id":"a360b9d","elType":"container","settings":{"_column_size":"50","width":{"size":"50","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"50","unit":"%"},"content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"7c4efd2","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"8fda471","elType":"container","settings":{"flex_gap":{"size":"10","column":"10","row":"20","unit":"px","isLinked":""},"reverse_order_tablet":"reverse-tablet","reverse_order_mobile":"reverse-mobile","flex_direction":"row","content_width":"full","flex_justify_content":"space-between","scroll_y":"-80","flex_direction_mobile":"column","flex_justify_content_mobile":"space-between","container_sticky_offset":"50","flex_wrap":"nowrap"},"elements":[{"id":"e406104","elType":"widget","settings":{"scroll_y":"-80","_element_custom_width":{"unit":"%","size":"70","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"","sizes":[]},"typography_typography":"custom","typography_font_weight":"800"},"elements":[],"widgetType":"wd_single_product_title"},{"id":"11fc917","elType":"widget","settings":{"style":"shadow","max_width":{"unit":"px","size":"80","sizes":[]},"scroll_y":"-80","max_width_tablet":{"unit":"px","size":"60","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"","sizes":[]},"show_label":"","label_text":"Brands:","_element_custom_width":{"unit":"%","size":"30","sizes":[]}},"elements":[],"widgetType":"wd_single_product_brands"}],"isInner":"1"},{"id":"7fc47b1","elType":"widget","settings":{"show_categories":"","show_tags":"","scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_meta"},{"id":"6480f41","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_rating"},{"id":"98fe1b0","elType":"widget","settings":{"main_price_typography_typography":"custom","main_price_typography_font_size":{"unit":"px","size":"28","sizes":[]},"main_price_typography_font_size_tablet":{"unit":"px","size":"18","sizes":[]},"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_price"},{"id":"c3b4e07","elType":"container","settings":{"content_position":"bottom","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":""},"border_color":"#1010101A","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"flex_direction":"column","content_width":"full","scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"0e32a65","elType":"widget","settings":{"scroll_y":"-80","swatch_layout":"inline","_element_width_mobile":"inherit","_element_custom_width":{"unit":"%","size":"80","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"100","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"","sizes":[]},"_element_width_tablet":"inherit","_padding":{"unit":"px","top":"20","right":"20","bottom":"0","left":"20","isLinked":""}},"elements":[],"widgetType":"wd_single_product_add_to_cart"},{"id":"2fd9118","elType":"container","settings":{"content_position":"bottom","border_border":"solid","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":""},"border_color":"#1010101A","flex_gap":{"size":"20","column":"20","row":"18","unit":"px","isLinked":""},"padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":""},"flex_direction":"row","content_width":"full","scroll_y":"-80","flex_wrap":"nowrap","container_sticky_offset":"50"},"elements":[{"id":"6ea9bd6","elType":"widget","settings":{"scroll_y":"-80","_padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":""},"_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":""},"_border_color":"#77777733"},"elements":[],"widgetType":"wd_single_product_wishlist_button"},{"id":"1b26bb0","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_compare_button"}],"isInner":"1"}],"isInner":"1"},{"id":"b2f0013","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_single_product_summary","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"88fc8bf","elType":"widget","settings":{"scroll_y":"-80","style":"with-bg"},"elements":[],"widgetType":"wd_single_product_visitor_counter"},{"id":"87dbc22","elType":"container","settings":{"flex_direction":"row","flex_gap":{"size":"15","column":"15","row":"20","unit":"px","isLinked":""},"content_width":"full","flex_direction_tablet":"column","scroll_y":"-80","flex_direction_mobile":"column","container_sticky_offset":"50"},"elements":[{"id":"608b9ee","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":"50","sizes":[]},"width_tablet":{"unit":"%","size":"100","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_direction":"row","flex_justify_content":"space-around","flex_gap":{"column":"15","row":"20","isLinked":"","unit":"px","size":"15"},"scroll_y":"-80","flex_wrap_mobile":"nowrap","container_sticky_offset":"50"},"elements":[{"id":"48421dc","elType":"widget","settings":{"icon_type":"icon","icon_text":"53","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/megamarket-elementor\/wp-content\/uploads\/sites\/4\/2022\/05\/product-delivery.svg","id":"433","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"32","height":"32"},"subtitle":"","title":"Fast Shipping","content":"<p>Carrier information<\/p>","btn_text":"","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"title_size":"small","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"_element_width":"initial","scroll_y":"-80","_element_custom_width":{"unit":"%","size":"50","sizes":[]}},"elements":[],"widgetType":"wd_infobox"},{"id":"94d1e7e","elType":"widget","settings":{"icon_type":"icon","icon_text":"53","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/megamarket-elementor\/wp-content\/uploads\/sites\/4\/2022\/05\/product-meny-products.svg","id":"434","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"32","height":"32"},"subtitle":"","title":"20k products","content":"<p>Payment methods<\/p>","btn_text":"","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"title_size":"small","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"_element_width":"initial","scroll_y":"-80","_element_custom_width":{"unit":"%","size":"50","sizes":[]}},"elements":[],"widgetType":"wd_infobox"}],"isInner":"1"},{"id":"2c08e24","elType":"container","settings":{"_column_size":"100","width":{"unit":"%","size":"50","sizes":[]},"align":"space-around","column_sticky_offset":"50","scroll_y":"-80","content_width":"full","width_tablet":{"unit":"%","size":"100","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_direction":"row","flex_justify_content":"space-around","flex_gap":{"column":"15","row":"20","isLinked":"","unit":"px","size":"15"},"flex_wrap_mobile":"nowrap","container_sticky_offset":"50"},"elements":[{"id":"d4d3781","elType":"widget","settings":{"icon_type":"icon","icon_text":"53","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/megamarket-elementor\/wp-content\/uploads\/sites\/4\/2022\/05\/product-support.svg","id":"436","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"32","height":"32"},"subtitle":"","title":"24\/7 Support","content":"<p>Unlimited help desk<\/p>","btn_text":"","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"title_size":"small","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"_element_width":"initial","scroll_y":"-80","_element_custom_width":{"unit":"%","size":"50","sizes":[]}},"elements":[],"widgetType":"wd_infobox"},{"id":"9ed9a7b","elType":"widget","settings":{"icon_type":"icon","icon_text":"53","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/megamarket-elementor\/wp-content\/uploads\/sites\/4\/2022\/05\/product-quality.svg","id":"435","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"32","height":"32"},"subtitle":"","title":"2-day Delivery","content":"<p>Track or off orders<\/p>","btn_text":"","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"title_size":"small","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"_element_width":"initial","scroll_y":"-80","_element_custom_width":{"unit":"%","size":"50","sizes":[]}},"elements":[],"widgetType":"wd_infobox"}],"isInner":"1"}],"isInner":"1"}],"isInner":"1"}],"isInner":""},{"id":"500fa32","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"flex_direction":"column","flex_gap":{"size":"0","column":"0","row":"0","unit":"px","isLinked":"1"},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"0203e6b","elType":"widget","settings":{"layout":"all-open","enable_description":"","all_open_style":"overline","additional_info_columns":{"unit":"px","size":"2","sizes":[]},"additional_info_columns_mobile":{"unit":"px","size":"1","sizes":[]},"reviews_layout":"two-column","_margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"scroll_y":"-80","additional_info_columns_tablet":{"unit":"px","size":"2","sizes":[]}},"elements":[],"widgetType":"wd_single_product_tabs"},{"id":"3c513e6","elType":"widget","settings":{"subtitle":"","title":"Description","after_title":"","style":"overlined","color":"primary","align":"left","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"d991abc","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_content"}],"isInner":""},{"id":"652d759","elType":"container","settings":{"flex_direction":"column","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"9e768c9","elType":"widget","settings":{"post_type":"recently_viewed","layout":"carousel","items_per_page":"6","slides_per_view":{"unit":"px","size":"5","sizes":[]},"hide_pagination_control":"yes","scroll_y":"-80","img_size":"custom","orderby":"post__in","product_hover":"small","img_size_custom":{"width":"80","height":"80"},"products_bordered_grid":"1","element_title":"Recently Viewed Products","slides_per_view_mobile":{"unit":"px","size":"1","sizes":[]},"slides_per_view_tablet":{"unit":"px","size":"3","sizes":[]},"_padding":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"sync_parent_id":"wd_6564a4cd1733d","grid_gallery":"no"},"elements":[],"widgetType":"wd_products"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.24.7]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

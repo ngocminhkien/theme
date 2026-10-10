@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>christmas-2-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/christmas-2-elementor</link>
+	<description></description>
+	<pubDate>Thu, 16 Oct 2025 13:52:55 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/christmas-2-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Products archive - Shop christmas 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-elementor/woodmart_layout/products-archive-shop-christmas-2/</link>
+					<pubDate>Sun, 19 Oct 2025 08:21:27 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/christmas-shop-elementor/?post_type=woodmart_layout&#038;p=741</guid>
+											<content:encoded><![CDATA[<nav aria-label="Breadcrumb">				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor">
+					Home				</a>
+					Shop				
+			</nav>				
+					<h2>Shop</h2>				
+								<link rel="stylesheet" id="wd-el-off-canvas-column-btn-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/el-off-canvas-column-btn.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-sticky-sidebar-opener-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/mod-sticky-sidebar-opener.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-off-canvas-sidebar-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/opt-off-canvas-sidebar.min.css?ver=8.3.3" type="text/css" media="all" /> 			
+			<a href="#" rel="nofollow">
+								Filters			</a>
+				<a href="#" rel="nofollow">
+									</a>
+								<link rel="stylesheet" id="wd-woo-shop-el-products-per-page-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-shop-el-products-per-page.min.css?ver=8.3.3" type="text/css" media="all" /> 			
+				Show			
+											<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/shop/?per_page=9">
+						9					
+				</a>
+											<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/shop/?per_page=12">
+						12					
+				</a>
+											<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/shop/?per_page=18">
+						18					
+				</a>
+											<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/shop/?per_page=24">
+						24					
+				</a>
+								<link rel="stylesheet" id="wd-woo-shop-el-products-view-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-shop-el-products-view.min.css?ver=8.3.3" type="text/css" media="all" /> 					
+										<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/shop/?shop_view=grid&#038;per_row=2" aria-label="Grid view 2"></a>
+										<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/shop/?shop_view=grid&#038;per_row=3" aria-label="Grid view 3"></a>
+										<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/shop/?shop_view=grid&#038;per_row=4" aria-label="Grid view 4"></a>
+								<link rel="stylesheet" id="wd-woo-shop-el-order-by-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-shop-el-order-by.min.css?ver=8.3.3" type="text/css" media="all" /> 			<form method="get">
+			<select name="orderby" aria-label="Shop order">
+							<option value="menu_order"  selected='selected'>Default sorting</option>
+							<option value="popularity" >Sort by popularity</option>
+							<option value="rating" >Sort by average rating</option>
+							<option value="date" >Sort by latest</option>
+							<option value="price" >Sort by price: low to high</option>
+							<option value="price-desc" >Sort by price: high to low</option>
+					</select>
+		<input type="hidden" name="paged" value="1" />
+			</form>
+								<link rel="stylesheet" id="wd-widget-slider-price-filter-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-widget-slider-price-filter.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-widget-wd-layered-nav-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-widget-wd-layered-nav.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-swatches-base-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-mod-swatches-base.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-swatches-filter-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-mod-swatches-filter.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-widget-product-cat-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-widget-product-cat.min.css?ver=8.3.3" type="text/css" media="all" /> 			<h5>Category</h5>
+				<ul>
+					<li><a href="?filter_category=christmas-tree">Christmas tree</a> 12</li>
+<li><a href="?filter_category=decorations">Decorations</a> 12</li>
+<li><a href="?filter_category=lights">Lights</a> 11</li>
+<li><a href="?filter_category=tableware">Tableware</a> 12</li>
+				</ul>
+								<link rel="stylesheet" id="wd-sticky-loader-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/mod-sticky-loader.min.css?ver=8.3.3" type="text/css" media="all" /> 					
+						<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-quick-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-quick.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-add-btn-replace-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-mod-add-btn-replace.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-categories-loop-default-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-categories-loop-default-old.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-categories-loop-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-categories-loop.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-categories-loop-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-categories-loop-old.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-opt-products-bg-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-opt-products-bg.min.css?ver=8.3.3" type="text/css" media="all" /> 			
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-porcelain-gold-mug/" tabindex="-1" aria-label="Premium Porcelain Gold Mug">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-gold-mug.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-gold-mug.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-gold-mug-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-gold-mug-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-gold-mug-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-light-set.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-light-set.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-light-set-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-light-set-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-light-set-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="192" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+								<link rel="stylesheet" id="wd-mfp-popup-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-animations-transform-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-transform-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/mod-transform.min.css?ver=8.3.3" type="text/css" media="all" /> 					
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-porcelain-gold-mug/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="192"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="192" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=192" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_192" data-quantity="1" data-product_id="192" data-product_sku="TBW08" aria-label="Add to cart: &ldquo;Premium Porcelain Gold Mug&rdquo;" rel="nofollow" data-success_message="&ldquo;Premium Porcelain Gold Mug&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-porcelain-gold-mug/">Premium Porcelain Gold Mug</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<bdi>&#36;56.00</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-bowl-for-cookies-and-treats/" tabindex="-1" aria-label="Premium Bowl for cookies and treats">
+						<link rel="stylesheet" id="wd-woo-mod-product-labels-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css?ver=8.3.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-product-labels-round-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css?ver=8.3.3" type="text/css" media="all" /> 			-23%<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-bowl-for-cookies-and-treats.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-bowl-for-cookies-and-treats.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-bowl-for-cookies-and-treats-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-bowl-for-cookies-and-treats-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-bowl-for-cookies-and-treats-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/vintage-style-t5-led-christmas-lights.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/vintage-style-t5-led-christmas-lights.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/vintage-style-t5-led-christmas-lights-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/vintage-style-t5-led-christmas-lights-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/vintage-style-t5-led-christmas-lights-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="189" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-bowl-for-cookies-and-treats/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="189"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="189" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=189" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_189" data-quantity="1" data-product_id="189" data-product_sku="TBW05" aria-label="Add to cart: &ldquo;Premium Bowl for cookies and treats&rdquo;" rel="nofollow" data-success_message="&ldquo;Premium Bowl for cookies and treats&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-bowl-for-cookies-and-treats/">Premium Bowl for cookies and treats</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<del aria-hidden="true"><bdi>&#36;550.00</bdi></del> Original price was: &#036;550.00.<ins aria-hidden="true"><bdi>&#36;424.99</bdi></ins>Current price is: &#036;424.99.
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/mug-with-a-christmas-tree-print/" tabindex="-1" aria-label="Mug with a Christmas tree print">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mug-with-a-christmas-tree-print.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mug-with-a-christmas-tree-print.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mug-with-a-christmas-tree-print-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mug-with-a-christmas-tree-print-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mug-with-a-christmas-tree-print-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolor-smart-christmas-lights.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolor-smart-christmas-lights.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolor-smart-christmas-lights-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolor-smart-christmas-lights-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolor-smart-christmas-lights-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="186" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/mug-with-a-christmas-tree-print/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="186"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="186" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=186" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_186" data-quantity="1" data-product_id="186" data-product_sku="TBW02" aria-label="Add to cart: &ldquo;Mug with a Christmas tree print&rdquo;" rel="nofollow" data-success_message="&ldquo;Mug with a Christmas tree print&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/mug-with-a-christmas-tree-print/">Mug with a Christmas tree print</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<bdi>&#36;56.00</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/villeroy-boch-toys-delight-dinnerware-set/" tabindex="-1" aria-label="Villeroy &amp; Boch Toy&#8217;s Delight dinnerware set">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/villeroy-boch-toys-delight-dinnerware-set.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/villeroy-boch-toys-delight-dinnerware-set.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/villeroy-boch-toys-delight-dinnerware-set-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/villeroy-boch-toys-delight-dinnerware-set-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/villeroy-boch-toys-delight-dinnerware-set-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-lights-clear.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-lights-clear.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-lights-clear-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-lights-clear-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/mini-christmas-lights-clear-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="185" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/villeroy-boch-toys-delight-dinnerware-set/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="185"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="185" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=185" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_185" data-quantity="1" data-product_id="185" data-product_sku="TBW01" aria-label="Add to cart: &ldquo;Villeroy &amp; Boch Toy&#039;s Delight dinnerware set&rdquo;" rel="nofollow" data-success_message="&ldquo;Villeroy &amp; Boch Toy&#039;s Delight dinnerware set&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/villeroy-boch-toys-delight-dinnerware-set/">Villeroy &amp; Boch Toy&#8217;s Delight dinnerware set</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<bdi>&#36;199.99</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/led-faceted-c9-christmas-lights/" tabindex="-1" aria-label="LED Faceted C9 Christmas Lights">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="183" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/led-faceted-c9-christmas-lights/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="183"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="183" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=183" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_183" data-quantity="1" data-product_id="183" data-product_sku="LGT11" aria-label="Add to cart: &ldquo;LED Faceted C9 Christmas Lights&rdquo;" rel="nofollow" data-success_message="&ldquo;LED Faceted C9 Christmas Lights&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/led-faceted-c9-christmas-lights/">LED Faceted C9 Christmas Lights</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/lights/" rel="tag">Lights</a>		
+	<bdi>&#36;29.99</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/bowl-in-the-shape-of-a-christmas-tree/" tabindex="-1" aria-label="Bowl In the Shape of a Christmas Tree">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/bowl-in-the-shape-of-a-christmas-tree.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/bowl-in-the-shape-of-a-christmas-tree.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/bowl-in-the-shape-of-a-christmas-tree-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/bowl-in-the-shape-of-a-christmas-tree-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/bowl-in-the-shape-of-a-christmas-tree-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="196" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/bowl-in-the-shape-of-a-christmas-tree/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="196"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="196" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=196" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_196" data-quantity="1" data-product_id="196" data-product_sku="TBW12" aria-label="Add to cart: &ldquo;Bowl In the Shape of a Christmas Tree&rdquo;" rel="nofollow" data-success_message="&ldquo;Bowl In the Shape of a Christmas Tree&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/bowl-in-the-shape-of-a-christmas-tree/">Bowl In the Shape of a Christmas Tree</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<bdi>&#36;82.48</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/12-piece-tableware-set/" tabindex="-1" aria-label="12-piece Tableware Set">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/12piece-tableware-set-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-50count-warm-white-led.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-50count-warm-white-led.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-50count-warm-white-led-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-50count-warm-white-led-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-50count-warm-white-led-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="191" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/12-piece-tableware-set/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="191"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="191" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=191" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_191" data-quantity="1" data-product_id="191" data-product_sku="TBW07" aria-label="Add to cart: &ldquo;12-piece Tableware Set&rdquo;" rel="nofollow" data-success_message="&ldquo;12-piece Tableware Set&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/12-piece-tableware-set/">12-piece Tableware Set</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<bdi>&#36;229.99</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/christmas-eve-plate-20-cm/" tabindex="-1" aria-label="Christmas Eve plate 20 cm">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/christmas-eve-plate-20-cm.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/christmas-eve-plate-20-cm.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/christmas-eve-plate-20-cm-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/christmas-eve-plate-20-cm-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/christmas-eve-plate-20-cm-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/led-faceted-c9-christmas-lights-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="188" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/christmas-eve-plate-20-cm/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="188"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="188" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=188" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_188" data-quantity="1" data-product_id="188" data-product_sku="TBW04" aria-label="Add to cart: &ldquo;Christmas Eve plate 20 cm&rdquo;" rel="nofollow" data-success_message="&ldquo;Christmas Eve plate 20 cm&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/christmas-eve-plate-20-cm/">Christmas Eve plate 20 cm</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<bdi>&#36;25.40</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/wide-angle-christmas-lights-warm-white/" tabindex="-1" aria-label="Wide Angle Christmas Lights Warm White">
+			-36%<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolored-premium-porcelain-bowl.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolored-premium-porcelain-bowl.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolored-premium-porcelain-bowl-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolored-premium-porcelain-bowl-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/multicolored-premium-porcelain-bowl-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="184" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/wide-angle-christmas-lights-warm-white/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="184"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="184" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=184" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_184" data-quantity="1" data-product_id="184" data-product_sku="LGT12" aria-label="Add to cart: &ldquo;Wide Angle Christmas Lights Warm White&rdquo;" rel="nofollow" data-success_message="&ldquo;Wide Angle Christmas Lights Warm White&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/wide-angle-christmas-lights-warm-white/">Wide Angle Christmas Lights Warm White</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/lights/" rel="tag">Lights</a>		
+	<del aria-hidden="true"><bdi>&#36;19.49</bdi></del> Original price was: &#036;19.49.<ins aria-hidden="true"><bdi>&#36;12.50</bdi></ins>Current price is: &#036;12.50.
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/dessert-bowl-with-pattern/" tabindex="-1" aria-label="Dessert Bowl With Pattern">
+			Hot<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/dessert-bowl-with-pattern.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/dessert-bowl-with-pattern.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/dessert-bowl-with-pattern-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/dessert-bowl-with-pattern-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/dessert-bowl-with-pattern-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wide-angle-christmas-lights-warm-white-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="193" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/dessert-bowl-with-pattern/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="193"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="193" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=193" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_193" data-quantity="1" data-product_id="193" data-product_sku="TBW09" aria-label="Add to cart: &ldquo;Dessert Bowl With Pattern&rdquo;" rel="nofollow" data-success_message="&ldquo;Dessert Bowl With Pattern&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/dessert-bowl-with-pattern/">Dessert Bowl With Pattern</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<bdi>&#36;43.99</bdi>
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-porcelain-serving-platter/" tabindex="-1" aria-label="Premium Porcelain Serving Platter">
+			-26%<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-serving-platter.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-serving-platter.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-serving-platter-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-serving-platter-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/premium-porcelain-serving-platter-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/battery-operated-led-lights.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/battery-operated-led-lights.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/battery-operated-led-lights-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/battery-operated-led-lights-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/battery-operated-led-lights-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="187" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-porcelain-serving-platter/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="187"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="187" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=187" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_187" data-quantity="1" data-product_id="187" data-product_sku="TBW03" aria-label="Add to cart: &ldquo;Premium Porcelain Serving Platter&rdquo;" rel="nofollow" data-success_message="&ldquo;Premium Porcelain Serving Platter&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/premium-porcelain-serving-platter/">Premium Porcelain Serving Platter</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<del aria-hidden="true"><bdi>&#36;159.99</bdi></del> Original price was: &#036;159.99.<ins aria-hidden="true"><bdi>&#36;118.45</bdi></ins>Current price is: &#036;118.45.
+		<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/classic-dinner-plate/" tabindex="-1" aria-label="Classic Dinner plate">
+			-25%<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/classic-dinner-plate.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/classic-dinner-plate.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/classic-dinner-plate-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/classic-dinner-plate-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/classic-dinner-plate-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-lighted-prancing-reindeer.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-lighted-prancing-reindeer.jpeg 700w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-lighted-prancing-reindeer-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-lighted-prancing-reindeer-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/northlight-lighted-prancing-reindeer-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/compare/" data-id="194" rel="nofollow" data-added-text="Compare products">
+				Add to compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/classic-dinner-plate/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="194"
+				>Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wishlist/" data-key="45d8285b84" data-product-id="194" rel="nofollow" data-added-text="Browse wishlist">
+					Add to wishlist
+				</a>
+				<a href="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php?add-to-cart=194" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_194" data-quantity="1" data-product_id="194" data-product_sku="TBW10" aria-label="Add to cart: &ldquo;Classic Dinner plate&rdquo;" rel="nofollow" data-success_message="&ldquo;Classic Dinner plate&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<h3><a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/classic-dinner-plate/">Classic Dinner plate</a></h3>
+			<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product-category/tableware/" rel="tag">Tableware</a>		
+	<del aria-hidden="true"><bdi>&#36;64.00</bdi></del> Original price was: &#036;64.00.<ins aria-hidden="true"><bdi>&#36;47.99</bdi></ins>Current price is: &#036;47.99.]]></content:encoded>
+															<wp:post_id>741</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-19 08:21:27]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-19 08:21:27]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-27 17:51:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-27 17:51:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-shop-christmas-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.28.0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"05cafc5","elType":"container","settings":{"flex_direction":"column","flex_gap":{"column":"10","row":"10","isLinked":true,"unit":"px","size":10},"wd_section_stretch":"stretch","background_background":"classic","background_color":"#E1EDEB","margin":{"unit":"px","top":"-40","right":"0","bottom":"30","left":"0","isLinked":false},"padding":{"unit":"px","top":"30","right":"15","bottom":"30","left":"15","isLinked":false},"scroll_y":-80,"margin_tablet":{"unit":"px","top":"-40","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"d722f20","elType":"widget","settings":{"alignment":"center","scroll_y":-80},"elements":[],"widgetType":"wd_wc_breadcrumb"},{"id":"9f258a8","elType":"widget","settings":{"text_alignment":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":58,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_page_heading"}],"isInner":false},{"id":"145ba4e","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":30,"column":"30","row":"20","isLinked":false},"flex_align_items":"center","flex_wrap":"wrap","margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"5f9ba99","elType":"widget","settings":{"button_text":"Filters","sticky":"yes","scroll_y":-80,"_margin":{"unit":"custom","top":"0px","right":"auto","bottom":"0px","left":"0px","isLinked":false},"_margin_tablet":{"unit":"custom","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"custom","top":"","right":"","bottom":"","left":"","isLinked":true},"_flex_size":"grow"},"elements":[],"widgetType":"wd_builder_off_canvas_column_btn"},{"id":"6ffcab2","elType":"widget","settings":{"per_page_options":"9,12,18,24","scroll_y":-80,"_flex_grow":"","_flex_shrink":"","hide_tablet":"hidden-tablet","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_shop_archive_per_page"},{"id":"0de8b56","elType":"widget","settings":{"scroll_y":-80,"hide_tablet":"hidden-tablet","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_shop_archive_view"},{"id":"2a9ace7","elType":"widget","settings":{"style":"underline","mobile_icon":"yes","scroll_y":-80},"elements":[],"widgetType":"wd_shop_archive_orderby"}],"isInner":false},{"id":"0058876","elType":"container","settings":{"flex_direction":"column","scroll_y":-80},"elements":[{"id":"de553e9","elType":"container","settings":{"content_width":"full","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"wd_column_role":"offcanvas","wd_column_role_offcanvas_desktop":"lg","wd_column_role_offcanvas_tablet":"md-sm","wd_column_role_offcanvas_mobile":"sm","scroll_y":-80},"elements":[{"id":"fb0cb6c","elType":"widget","settings":{"sidebar_name":"sidebar-shop","scroll_y":-80},"elements":[],"widgetType":"wd_sidebar"}],"isInner":true},{"id":"6fd5e2e","elType":"container","settings":{"content_width":"full","wd_column_role":"content","wd_column_role_offcanvas_desktop":"lg","wd_column_role_offcanvas_tablet":"md-sm","wd_column_role_offcanvas_mobile":"sm","scroll_y":-80,"flex_direction":"row","flex_wrap":"wrap"},"elements":[{"id":"60e3687","elType":"widget","settings":{"_padding":{"unit":"px","top":"5","right":"15","bottom":"5","left":"15","isLinked":false},"scroll_y":-80,"_border_border":"solid","_border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"_border_color":"#0000001C","_border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"_flex_order_tablet":"end","_flex_size_mobile":"shrink"},"elements":[],"widgetType":"wd_shop_archive_active_filters"},{"id":"f07c219","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_wc_notices"},{"id":"2e12eaf","elType":"widget","settings":{"scroll_y":-80,"_margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"wd_archive_products"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

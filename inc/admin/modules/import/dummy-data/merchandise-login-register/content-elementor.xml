@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>merchandise-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/merchandise-elementor</link>
+	<description></description>
+	<pubDate>Mon, 08 Dec 2025 13:36:26 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/merchandise-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/uploads/sites/64/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Login/Register - Merchandise]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/merchandise-elementor/woodmart_layout/login-register-merchandise/</link>
+					<pubDate>Wed, 10 Dec 2025 13:04:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/merchandise-elementor/?post_type=woodmart_layout&#038;p=1669</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-el-page-title-builder-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/el-page-title-builder.min.css?ver=8.3.4" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-page-title-css" href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/wp-content/themes/woodmart/css/parts/page-title.min.css?ver=8.3.4" type="text/css" media="all" /> 							
+																					<h1>
+									My account								</h1>
+															<nav><a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/">Home</a>Page</nav>																		
+					<h2>Login</h2>					<form id="customer_login" method="post" action="https://dummy.xtemos.com/woodmart2/merchandise-elementor/my-account/?action=login">
+				<p>
+					<label for="username">Username or email address&nbsp;*Required</label>
+					<input type="text" name="username" id="username" autocomplete="username" value="" />				</p>
+				<p>
+					<label for="password">Password&nbsp;*Required</label>
+					<input type="password" name="password" id="password" autocomplete="current-password" />
+				</p>
+				<p>
+					<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="5d4b785da5" /><input type="hidden" name="_wp_http_referer" value="/woodmart2/merchandise-elementor/wp-admin/admin-ajax.php" />										<button type="submit" name="login" value="Log in">Log in</button>
+				</p>
+				<p>
+					<a href="https://dummy.xtemos.com/woodmart2/merchandise-elementor/my-account/lost-password/">Lost your password?</a>
+					<label>
+						<input name="rememberme" type="checkbox" value="forever" title="Remember me" aria-label="Remember me" /> Remember me
+					</label>
+				</p>
+							</form>
+					<h2>Register</h2>]]></content:encoded>
+															<wp:post_id>1669</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-10 13:04:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-10 13:04:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-10 13:07:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-10 13:07:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[login-register-merchandise]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[my_account_auth]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"765a1103","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"-40","right":"0","bottom":"40","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"6c88ec5d","elType":"widget","settings":{"full_width":"yes","scroll_y":-80},"elements":[],"widgetType":"wd_page_title"}],"isInner":false},{"id":"5e39fd51","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":30,"column":"30","row":"30","isLinked":true},"border_border":"solid","scroll_y":-80,"boxed_width":{"unit":"px","size":1000,"sizes":[]}},"elements":[{"id":"13a5684a","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"15","bottom":"30","left":"15","isLinked":false},"scroll_y":-80,"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"margin":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"59751164","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_wc_notices"},{"id":"d9bc310","elType":"widget","settings":{"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":24,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_my_account_login"}],"isInner":true},{"id":"9e08570","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"scroll_y":-80,"background_background":"classic","background_color":"#F5F5F5","border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":true},"_flex_align_self":"flex-start"},"elements":[{"id":"370e0125","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_wc_notices"},{"id":"d1c7944","elType":"widget","settings":{"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":24,"sizes":[]},"title_alignment":"center","scroll_y":-80},"elements":[],"widgetType":"wd_my_account_register"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.3]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

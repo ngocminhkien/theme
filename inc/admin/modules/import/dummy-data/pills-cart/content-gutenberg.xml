@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Pills gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pills-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:28:12 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pills-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pills-gutenberg/wp-content/uploads/sites/33/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Pills]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pills-gutenberg/woodmart_layout/cart-pills/</link>
+					<pubDate>Thu, 08 Aug 2024 14:51:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pills-gutenberg/?post_type=woodmart_layout&#038;p=823</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-page-title {"blockId":"68dfc180-55d3-4049-8393-15094af18139","stretch":true,"marginTop":"-40","marginBottom":"40","marginTopTablet":"-40","marginBottomTablet":"20"} /-->
+
+<!-- wp:wd/row {"blockId":"849fd66e-5cf8-44a1-b6db-e423f90d7dd3","marginBottom":"0"} -->
+<div id="wd-849fd66e" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"36a71bc3-e7bf-48a3-a5aa-b9f64566cedf","adjacentCount":2,"colWidth":66.33,"blocksGap":30,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-36a71bc3" class="wp-block-wd-column"><!-- wp:wd/woo-notices {"blockId":"baf5a392-b745-43af-bf43-cc820c787554"} /-->
+
+<!-- wp:wd/woo-shipping-progress-bar {"blockId":"a702a083-2a4f-4782-949c-a16122eb1584"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"15446dbd-0603-4866-9723-9660ce2faca1","hook":"woocommerce_before_cart","cleanActions":true} /-->
+
+<!-- wp:wd/ct-table {"blockId":"937a339f-4049-4b01-8f68-dbea02537291"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"6f26b18f-ca53-4ca7-9f5f-955a081a9bdd","adjacentCount":2,"colWidth":33.33,"bgColorCode":"#f7f7f7","paddingTop":"25","paddingRight":"25","paddingBottom":"25","paddingLeft":"25","paddingLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","alignSelf":"start","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-6f26b18f" class="wp-block-wd-column wd-align-s-start"><!-- wp:wd/title {"blockId":"6ae9b4d2-8037-4378-8348-4e76a0871308","content":"Cart totals","tpFontSize":"22"} -->
+<h2 id="wd-6ae9b4d2" class="wp-block-wd-title title">Cart totals</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ct-totals {"blockId":"54721bb7-a945-432a-bdd5-961c88355b70","btnAlign":"stretch","paddingLock":true} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"476b73bd-5212-4185-920f-5655a8e7aa99","hook":"woocommerce_after_cart","cleanActions":true} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/woo-hook {"blockId":"800dfed5-dd74-4094-91df-66335340bcdd","hook":"woocommerce_cart_collaterals","cleanActions":true} /-->
+
+<!-- wp:wd/products {"blockId":"a5fccad8-3529-44ca-9334-3c7167c2e9cd","show_title":true,"layout":"carousel","custom_rounding_size":"16","products_with_background":true,"marginTop":"80","slides_per_view":"5","hide_pagination_control":true,"sync_parent_id":"wd_cdae8330","productsBackgroundCode":"#f7f7f7","marginTopTablet":"60","marginTopMobile":"40","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"a5cf9d4c-3935-48b8-bb53-84ec4f2ee2b9","content":"You May Be Interested In…","marginBottom":"30","tpFontSizeTablet":"22","tpFontSizeMobile":"24","marginBottomMobile":"20"} -->
+<h2 id="wd-a5cf9d4c" class="wp-block-wd-title title">You May Be Interested In…</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->]]></content:encoded>
+															<wp:post_id>823</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-08 14:51:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-08 14:51:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-13 13:17:32]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-13 13:17:32]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-pills]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

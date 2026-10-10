@@ -1,0 +1,1962 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Elementor 2.0 WoodMart dummy</title>
+	<link>https://dummy.xtemos.com/woodmart2/elementor</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Wed, 14 Jul 2021 12:07:27 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[tools-location]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-location/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-location.svg</guid>
+															<wp:post_id>7121</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-location]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-location.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-location.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-phone]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-phone/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-phone.svg</guid>
+															<wp:post_id>7125</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-phone]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-phone.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-phone.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-popup]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-popup/</link>
+					<pubDate>Sun, 24 Oct 2021 08:37:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-popup.jpg</guid>
+															<wp:post_id>7127</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:37:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:37:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:37:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:37:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-popup]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-popup.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-popup.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-page-title]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-page-title/</link>
+					<pubDate>Sun, 24 Oct 2021 08:38:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-page-title.jpg</guid>
+															<wp:post_id>7128</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:38:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:38:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:38:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:38:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-page-title]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-page-title.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-page-title.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-img-saw-product]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-img-saw-product/</link>
+					<pubDate>Sun, 24 Oct 2021 08:44:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-product.jpg</guid>
+															<wp:post_id>7145</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:44:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:44:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:44:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:44:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-img-saw-product]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-product.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-img-saw-product.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blue-dots-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-blue-dots-1/</link>
+					<pubDate>Sun, 24 Oct 2021 08:50:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blue-dots-1.png</guid>
+															<wp:post_id>7158</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:50:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:50:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:50:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:50:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blue-dots-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blue-dots-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blue-dots-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-1/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-1.jpg</guid>
+															<wp:post_id>7162</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-2/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-2.jpg</guid>
+															<wp:post_id>7163</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-3/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:32 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-3.jpg</guid>
+															<wp:post_id>7164</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:32]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:32]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:32]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:32]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-4/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:34 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-4.jpg</guid>
+															<wp:post_id>7165</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:34]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:34]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-5/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-5.jpg</guid>
+															<wp:post_id>7166</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:36]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:36]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-5]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-5.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-5.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-6]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-6/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:37 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-6.jpg</guid>
+															<wp:post_id>7167</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:37]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:37]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:37]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:37]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-6]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-6.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-6.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-7]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-7/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:38 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-7.jpg</guid>
+															<wp:post_id>7168</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:38]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:38]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:38]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:38]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-7]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-7.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-7.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-8]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-8/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-8.jpg</guid>
+															<wp:post_id>7169</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-8]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-8.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-8.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-9]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-9/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-9.jpg</guid>
+															<wp:post_id>7170</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-9]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-9.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-9.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-10]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-10/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-10.jpg</guid>
+															<wp:post_id>7171</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-10]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-10.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-10.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-11]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-11/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-11.jpg</guid>
+															<wp:post_id>7172</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-11]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-11.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-11.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-product-12]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-product-12/</link>
+					<pubDate>Sun, 24 Oct 2021 08:52:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-12.jpg</guid>
+															<wp:post_id>7173</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:52:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:52:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:52:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:52:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-product-12]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-product-12.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-product-12.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blog-img-8]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blog-img-8/</link>
+					<pubDate>Sun, 24 Oct 2021 08:53:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-8.jpg</guid>
+															<wp:post_id>7181</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:53:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:53:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:53:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:53:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blog-img-8]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-8.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blog-img-8.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blog-img-9]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blog-img-9/</link>
+					<pubDate>Sun, 24 Oct 2021 08:53:55 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-9.jpg</guid>
+															<wp:post_id>7182</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:53:55]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:53:55]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:53:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:53:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blog-img-9]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-9.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blog-img-9.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Home Tools]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/</link>
+					<pubDate>Sun, 24 Oct 2021 08:34:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?page_id=7113</guid>
+											<content:encoded><![CDATA[ 						 						 					
+																					<img width="530" height="660" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-1.jpg" alt="" />																		
+								SPECIAL OFFER							
+													<h4 data-elementor-setting-key="title">
+								<u>Garden</u> Care<br />
+Machines and Tools							</h4>
+								<p>To short sentences, to many headings, images too large for the proposed design.</p>
+			<a href="#">
+					Read more				
+							</a>
+									<a href="#" aria-label="Banner link"></a>
+																					<img width="420" height="320" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-2.jpg" alt="" />																		
+								PROTECTIVE SUITS							
+													<h4 data-elementor-setting-key="title">
+								Think About Your <u>Safety</u>							</h4>
+			<a href="#">
+					Shop now				
+							</a>
+									<a href="#" aria-label="Banner link"></a>
+																					<img width="420" height="320" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-3.jpg" alt="" />																		
+								NEW ITEMS							
+													<h4 data-elementor-setting-key="title">
+								Circular <u>Saw</u>							</h4>
+			<a href="#">
+					Shop now				
+							</a>
+									<a href="#" aria-label="Banner link"></a>
+						 					
+																					<img width="310" height="660" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-4.jpg" alt="" />																		
+								VACUUM CLEANERS							
+													<h4 data-elementor-setting-key="title">
+								<u>Clean</u> in the work area							</h4>
+								<p>It's like saying you're a bad designer, use less bold text, don't use italics in every.</p>
+									<a href="#" aria-label="Banner link"></a>
+						 						 					
+															<img src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-payment.svg" title="tools-payment" width="60" height="60">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Online Payment						</h4>
+					<p>Even if your less into design and more into content strategy.</p>
+									<a href="#" aria-label="Infobox link"></a>
+															<img src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-support.svg" title="tools-support" width="60" height="60">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Support 24/7						</h4>
+					<p>Find some redeeming value with, wait for it, dummy copy, no less.</p>
+									<a href="#" aria-label="Infobox link"></a>
+																					<img width="640" height="240" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-5.jpg" alt="" />																		
+								SPECIAL OFFER							
+													<h4 data-elementor-setting-key="title">
+								<u>Free</u> Delivery from $300							</h4>
+								<p>To sure calm much most long me mean. Able rent long in do we.</p>
+									<a href="#" aria-label="Banner link"></a>
+						 					
+				<h4><u>Bestseller</u> Product</h4> 
+					<p>A client that's unhappy for a reason is a problem, a client.</p>				
+			<a href="#">
+					Show All products				
+							</a>
+						 						 						 								
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/variable-product-example-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/variable-product-example-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/">Augue adipiscing euismod</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	&#036;199.00
+				<a href="?add-to-cart=372" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_372" data-quantity="1" data-product_id="372" data-product_sku="MNK-001" aria-label="Add to cart: &ldquo;Augue adipiscing euismod&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="372" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+								 					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/" class="open-quick-view quick-view-button" rel="nofollow" data-id="372">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-7.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-7-3.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/">Char with love</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/cooking/" rel="tag">Cooking</a>		
+	&#036;420.00
+			Rated <strong>5.00</strong> out of 5		
+				<a href="?add-to-cart=13510" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_13510" data-quantity="1" data-product_id="13510" data-product_sku="" aria-label="Add to cart: &ldquo;Char with love&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="13510" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/" class="open-quick-view quick-view-button" rel="nofollow" data-id="13510">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="13510" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/classic-wooden-chair/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/classic-wooden-chair-1-700x800.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/classic-wooden-chair/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/classic-wooden-chair-2-700x800.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/classic-wooden-chair/">Classic wooden chair</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	&#036;299.00
+				<a href="?add-to-cart=270" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_270" data-quantity="1" data-product_id="270" data-product_sku="" aria-label="Add to cart: &ldquo;Classic wooden chair&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="270" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/classic-wooden-chair/" class="open-quick-view quick-view-button" rel="nofollow" data-id="270">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/decoration-wooden-present/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/decoration-wooden-presen-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/decoration-wooden-present/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/decoration-wooden-presen-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/decoration-wooden-present/">Decoration wooden present</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/cooking/" rel="tag">Cooking</a>		
+	&#036;89.00
+			Rated <strong>5.00</strong> out of 5		
+				<a href="?add-to-cart=334" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_334" data-quantity="1" data-product_id="334" data-product_sku="" aria-label="Add to cart: &ldquo;Decoration wooden present&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="334" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/decoration-wooden-present/" class="open-quick-view quick-view-button" rel="nofollow" data-id="334">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-lounge-chair/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-lounge-chair-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-lounge-chair/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-lounge-chair-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-lounge-chair/">Eames lounge chair</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	&#036;399.00
+				<a href="?add-to-cart=232" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_232" data-quantity="1" data-product_id="232" data-product_sku="" aria-label="Add to cart: &ldquo;Eames lounge chair&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="232" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-lounge-chair/" class="open-quick-view quick-view-button" rel="nofollow" data-id="232">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/">
+						 						 			New<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-plastic-side-chair-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-plastic-side-chair-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/">Eames plastic side chair</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	&#036;99.00
+									 						 						
+					Blue				
+					Brown				
+					Yellow				
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_381" data-quantity="1" data-product_id="381" data-product_sku="" aria-label="Select options for &ldquo;Eames plastic side chair&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="381" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/" class="open-quick-view quick-view-button" rel="nofollow" data-id="381">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/">
+			-53%<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/furniture5-700x800.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/furniture5_3-700x800.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/">Euismod aliquam parturient</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	<del aria-hidden="true">&#036;599.00</del> Original price was: &#036;599.00.<ins aria-hidden="true">&#036;280.00</ins>Current price is: &#036;280.00.
+			Rated <strong>5.00</strong> out of 5		
+				<a href="?add-to-cart=13540" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_13540" data-quantity="1" data-product_id="13540" data-product_sku="MNK-001-1" aria-label="Add to cart: &ldquo;Euismod aliquam parturient&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="13540" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/" class="open-quick-view quick-view-button" rel="nofollow" data-id="13540">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="13540" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/senectus-tincidunt-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/senectus-tincidunt-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/">Henectus tincidunt</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/accessories/" rel="tag">Accessories</a>		
+	&#036;429.00
+				<a href="?add-to-cart=411" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_411" data-quantity="1" data-product_id="411" data-product_sku="" aria-label="Add to cart: &ldquo;Henectus tincidunt&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="411" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/" class="open-quick-view quick-view-button" rel="nofollow" data-id="411">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+								<img width="400" height="640" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/elementor/thumbs/tools-img-saw-1-pf11yomr1yblf04m863z818ktnjlt97l9wp182mwhs.jpg" alt="" />					
+					NEW CHAIN SAW				
+				<h4><u>Powerful</u> Saw X-700</h4> 
+					<p>Using dummy content or fake information in the Web design process can result in products with unrealistic.</p>				
+			<a href="#">
+					View more				
+							</a>
+						 						 					
+									<img width="650" height="347" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-product.jpg" alt="" />				
+									<a href="https://dummy.xtemos.com/woodmart2/elementor/product/iphone-dock/">
+										<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/iphone-dock-1-600x686.jpg" alt="" />									</a>
+								<h4>
+									<a href="https://dummy.xtemos.com/woodmart2/elementor/product/iphone-dock/">
+										iPhone dock									</a>
+								</h4>
+																	Rated <strong>4.00</strong> out of 5 based on 1 customer rating																
+									<del aria-hidden="true">&#036;399.00</del> Original price was: &#036;399.00.<ins aria-hidden="true">&#036;349.00</ins>Current price is: &#036;349.00.								
+										Consequat a scelerisque suspendisse vel et eget eu vitae adipiscing nibh scelerisque semper cum adipiscing facilisis adipiscing est accumsan lorem vestibulum.									
+									<a href="#" rel="nofollow" aria-label="Read more description button"></a>
+								<a href="?add-to-cart=361" data-product_id="361" rel="nofollow">
+									Add to cart								</a>
+									<a href="https://dummy.xtemos.com/woodmart2/elementor/product/ornare-auctor/">
+										<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/ornare-auctor-1-600x686.jpg" alt="" />									</a>
+								<h4>
+									<a href="https://dummy.xtemos.com/woodmart2/elementor/product/ornare-auctor/">
+										Ornare auctor									</a>
+								</h4>
+									&#036;429.00								
+										Consequat a scelerisque suspendisse vel et eget eu vitae adipiscing nibh scelerisque semper cum adipiscing facilisis adipiscing est accumsan lorem vestibulum. Aliquet mus a aptent ullam corper metus accumsan. Habitasse a purus nec ipsum a urna ac ullamcorper varius metus blandit posuere.									
+									<a href="#" rel="nofollow" aria-label="Read more description button"></a>
+								<a href="https://dummy.xtemos.com/woodmart2/elementor/product/ornare-auctor/" data-product_id="395" rel="nofollow">
+									Select options								</a>
+									<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/">
+										<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-plastic-side-chair-1-600x686.jpg" alt="" />									</a>
+								<h4>
+									<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/">
+										Eames plastic side chair									</a>
+								</h4>
+									&#036;99.00								
+										Consequat a scelerisque suspendisse vel et eget eu vitae adipiscing nibh scelerisque semper cum adipiscing facilisis adipiscing est accumsan lorem vestibulum. Aliquet mus a aptent ullam corper metus accumsan. Habitasse a purus nec ipsum a urna ac ullamcorper varius metus blandit posuere.									
+									<a href="#" rel="nofollow" aria-label="Read more description button"></a>
+								<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/" data-product_id="381" rel="nofollow">
+									Select options								</a>
+								<img width="400" height="640" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/elementor/thumbs/tools-img-saw-2-pf11yx3argn6bhsburrmch3q64dwqj56b2kejkacxs.jpg" alt="" />					
+				<h4><u>Related</u> Products</h4> 
+					<p>Accept that it’s sometimes okay to focus just on the content.</p>				
+			<a href="#">
+					Show All products				
+							</a>
+						 						
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/variable-product-example-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/variable-product-example-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/">Augue adipiscing euismod</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	&#036;199.00
+				<a href="?add-to-cart=372" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_372" data-quantity="1" data-product_id="372" data-product_sku="MNK-001" aria-label="Add to cart: &ldquo;Augue adipiscing euismod&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="372" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/augue-adipiscing-euismod/" class="open-quick-view quick-view-button" rel="nofollow" data-id="372">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="372" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-7.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/product-furniture-7-3.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/">Char with love</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/cooking/" rel="tag">Cooking</a>		
+	&#036;420.00
+			Rated <strong>5.00</strong> out of 5		
+				<a href="?add-to-cart=13510" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_13510" data-quantity="1" data-product_id="13510" data-product_sku="" aria-label="Add to cart: &ldquo;Char with love&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="13510" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/char-with-love/" class="open-quick-view quick-view-button" rel="nofollow" data-id="13510">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="13510" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/classic-wooden-chair/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/classic-wooden-chair-1-700x800.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/classic-wooden-chair/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/classic-wooden-chair-2-700x800.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/classic-wooden-chair/">Classic wooden chair</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	&#036;299.00
+				<a href="?add-to-cart=270" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_270" data-quantity="1" data-product_id="270" data-product_sku="" aria-label="Add to cart: &ldquo;Classic wooden chair&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="270" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/classic-wooden-chair/" class="open-quick-view quick-view-button" rel="nofollow" data-id="270">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="270" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/decoration-wooden-present/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/decoration-wooden-presen-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/decoration-wooden-present/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/decoration-wooden-presen-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/decoration-wooden-present/">Decoration wooden present</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/cooking/" rel="tag">Cooking</a>		
+	&#036;89.00
+			Rated <strong>5.00</strong> out of 5		
+				<a href="?add-to-cart=334" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_334" data-quantity="1" data-product_id="334" data-product_sku="" aria-label="Add to cart: &ldquo;Decoration wooden present&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="334" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/decoration-wooden-present/" class="open-quick-view quick-view-button" rel="nofollow" data-id="334">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="334" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-lounge-chair/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-lounge-chair-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-lounge-chair/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-lounge-chair-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-lounge-chair/">Eames lounge chair</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	&#036;399.00
+				<a href="?add-to-cart=232" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_232" data-quantity="1" data-product_id="232" data-product_sku="" aria-label="Add to cart: &ldquo;Eames lounge chair&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="232" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-lounge-chair/" class="open-quick-view quick-view-button" rel="nofollow" data-id="232">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="232" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/">
+			New<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-plastic-side-chair-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/eames-plastic-side-chair-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/">Eames plastic side chair</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	&#036;99.00
+					Blue				
+					Brown				
+					Yellow				
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_381" data-quantity="1" data-product_id="381" data-product_sku="" aria-label="Select options for &ldquo;Eames plastic side chair&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="381" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/eames-plastic-side-chair/" class="open-quick-view quick-view-button" rel="nofollow" data-id="381">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="381" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/">
+			-53%<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/furniture5-700x800.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2022/03/furniture5_3-700x800.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/">Euismod aliquam parturient</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/furniture/" rel="tag">Furniture</a>		
+	<del aria-hidden="true">&#036;599.00</del> Original price was: &#036;599.00.<ins aria-hidden="true">&#036;280.00</ins>Current price is: &#036;280.00.
+			Rated <strong>5.00</strong> out of 5		
+				<a href="?add-to-cart=13540" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_13540" data-quantity="1" data-product_id="13540" data-product_sku="MNK-001-1" aria-label="Add to cart: &ldquo;Euismod aliquam parturient&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="13540" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/euismod-aliquam-parturient/" class="open-quick-view quick-view-button" rel="nofollow" data-id="13540">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="13540" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/senectus-tincidunt-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/senectus-tincidunt-2.jpg" alt="" />				</a>
+			<h3><a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/">Henectus tincidunt</a></h3>					
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product-category/accessories/" rel="tag">Accessories</a>		
+	&#036;429.00
+				<a href="?add-to-cart=411" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_411" data-quantity="1" data-product_id="411" data-product_sku="" aria-label="Add to cart: &ldquo;Henectus tincidunt&rdquo;" rel="nofollow">Add to cart</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/compare/" data-id="411" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+			<a href="https://dummy.xtemos.com/woodmart2/elementor/product/henectus-tincidunt/" class="open-quick-view quick-view-button" rel="nofollow" data-id="411">Quick view</a>
+				<a href="https://dummy.xtemos.com/woodmart2/elementor/wishlist/" data-key="1f455867f5" data-product-id="411" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					 												
+											<!-- end #carousel-987 -->
+								<img width="610" height="540" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-construction.jpg" alt="" />					
+					TOOL &amp; EQUIPMENT				
+				<h4>How <u>Choose</u> Equipment &amp; Tool</h4> 
+					<p>Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template.</p>				
+															<img src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-measuring-tape.svg" title="tools-measuring-tape" width="48" height="48">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Parameters						</h4>
+					<p>This is quite solve.</p>
+									<a href="#" aria-label="Infobox link"></a>
+															<img src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-pencil.svg" title="tools-pencil" width="48" height="48">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Characteristics						</h4>
+					<p>Doing signals color.</p>
+									<a href="#" aria-label="Infobox link"></a>
+															<img src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blueprint.svg" title="tools-blueprint" width="48" height="48">													
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Device power						</h4>
+					<p>Content strategy.</p>
+									<a href="#" aria-label="Infobox link"></a>
+				<h4>Our <u>Articles</u></h4> 
+					<p>Assumptions and potentially serious design.</p>				
+			<a href="#">
+					Show All posts				
+							</a>
+						 						 						 						
+<article id="post-465">
+		<header>
+							<figure>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/">
+								<img width="307" height="435" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-9-307x435.jpg" alt="" />							</a>
+				</figure>
+					27				
+					Aug				
+				</header><!-- .entry-header -->
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/category/decoration/" rel="category tag">Decoration</a>
+							<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/" rel="bookmark">Exploring Atlanta’s modern homes</a>
+				</h3>
+								<ul>
+									<li>
+								
+			December 7, 2023		
+							</li>
+											<li>
+												Posted by
+					<img alt='author-avatar' src='https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=32&#038;d=mm&#038;r=g' class='avatar avatar-32 photo' height='32' width='32' />		
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/author/zakhar/" rel="author">
+				Mr. Mackay
+		</a>
+								</li>
+											<li>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/#respond">0 comments</a>						</li>
+												</ul>
+						<!-- .entry-meta -->
+										 			
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/" target="_blank" aria-label="Facebook social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/" target="_blank" aria-label="X social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/&amp;media=http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-9.jpg&amp;description=Exploring+Atlanta%E2%80%99s+modern+homes" target="_blank" aria-label="Pinterest social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/" target="_blank" aria-label="Linkedin social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/" target="_blank" aria-label="Telegram social link">
+											</a>
+					Vivamus enim sagittis aptent hac mi dui a per aptent suspendisse cras odio bibendum augue rhoncus laoreet dui praesent sodales sodales....				<!-- .entry-content -->
+												<p>
+						<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/exploring-atlantas-modern-homes/">Continue reading</a>					</p>
+</article><!-- #post -->
+<article id="post-456">
+		<header>
+							<figure>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/">
+								<img width="307" height="435" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-8-307x435.jpg" alt="" />							</a>
+				</figure>
+					27				
+					Aug				
+				</header><!-- .entry-header -->
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/category/inspiration/" rel="category tag">Inspiration</a>
+							<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/" rel="bookmark">Green interior design inspiration</a>
+				</h3>
+								<ul>
+									<li>
+								
+			December 7, 2023		
+							</li>
+											<li>
+												Posted by
+					<img alt='author-avatar' src='https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=32&#038;d=mm&#038;r=g' class='avatar avatar-32 photo' height='32' width='32' />		
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/author/zakhar/" rel="author">
+				Mr. Mackay
+		</a>
+								</li>
+											<li>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/#respond">0 comments</a>						</li>
+												</ul>
+						<!-- .entry-meta -->
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/" target="_blank" aria-label="Facebook social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/" target="_blank" aria-label="X social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/&amp;media=http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-8.jpg&amp;description=Green+interior+design+inspiration" target="_blank" aria-label="Pinterest social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/" target="_blank" aria-label="Linkedin social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/" target="_blank" aria-label="Telegram social link">
+											</a>
+					A sed a risusat luctus esta anibh rhoncus hendrerit blandit nam rutrum sitmiad hac. Cras a vestibulum a varius adipiscing ut dignissim ...				<!-- .entry-content -->
+												<p>
+						<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/green-interior-design-inspiration/">Continue reading</a>					</p>
+</article><!-- #post -->
+<article id="post-447">
+		<header>
+							<figure>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/">
+								<img width="307" height="435" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-7-307x435.jpg" alt="" />							</a>
+				</figure>
+					27				
+					Aug				
+				</header><!-- .entry-header -->
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/category/furniture/" rel="category tag">Furniture</a>
+							<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/" rel="bookmark">Collar brings back coffee brewing ritual</a>
+				</h3>
+								<ul>
+									<li>
+								
+			December 28, 2023		
+							</li>
+											<li>
+												Posted by
+					<img alt='author-avatar' src='https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=32&#038;d=mm&#038;r=g' class='avatar avatar-32 photo' height='32' width='32' />		
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/author/zakhar/" rel="author">
+				Mr. Mackay
+		</a>
+								</li>
+											<li>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/#respond">0 comments</a>						</li>
+												</ul>
+						<!-- .entry-meta -->
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/" target="_blank" aria-label="Facebook social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/" target="_blank" aria-label="X social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/&amp;media=http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-7.jpg&amp;description=Collar+brings+back+coffee+brewing+ritual" target="_blank" aria-label="Pinterest social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/" target="_blank" aria-label="Linkedin social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/" target="_blank" aria-label="Telegram social link">
+											</a>
+					<p>When it&#8217;s about controlling hundreds of articles, product pages for web shops, or user profiles in social networks, all</p>
+				<!-- .entry-content -->
+												<p>
+						<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/collar-brings-back-coffee-brewing-ritual/">Continue reading</a>					</p>
+</article><!-- #post -->
+<article id="post-438">
+		<header>
+							<figure>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/">
+								<img width="307" height="435" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-6-307x435.jpg" alt="" />							</a>
+				</figure>
+					27				
+					Aug				
+				</header><!-- .entry-header -->
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/category/design-trends/" rel="category tag">Design trends</a>
+							<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/" rel="bookmark">Reinterprets the classic bookshelf</a>
+				</h3>
+								<ul>
+									<li>
+								
+			December 7, 2023		
+							</li>
+											<li>
+												Posted by
+					<img alt='author-avatar' src='https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=32&#038;d=mm&#038;r=g' class='avatar avatar-32 photo' height='32' width='32' />		
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/author/zakhar/" rel="author">
+				Mr. Mackay
+		</a>
+								</li>
+											<li>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/#respond">0 comments</a>						</li>
+												</ul>
+						<!-- .entry-meta -->
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/" target="_blank" aria-label="Facebook social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/" target="_blank" aria-label="X social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/&amp;media=http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-6.jpg&amp;description=Reinterprets+the+classic+bookshelf" target="_blank" aria-label="Pinterest social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/" target="_blank" aria-label="Linkedin social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/" target="_blank" aria-label="Telegram social link">
+											</a>
+					Aliquet parturient scele risque scele risque nibh pretium parturient suspendisse platea sapien torquent feugiat parturient hac amet. Vo...				<!-- .entry-content -->
+												<p>
+						<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/reinterprets-the-classic-bookshelf/">Continue reading</a>					</p>
+</article><!-- #post -->
+<article id="post-429">
+		<header>
+							<figure>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/">
+								<img width="307" height="435" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-5-307x435.jpg" alt="" />							</a>
+				</figure>
+					27				
+					Aug				
+				</header><!-- .entry-header -->
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/category/decoration/" rel="category tag">Decoration</a>
+							<h3>
+					<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/" rel="bookmark">Creative water features and exterior</a>
+				</h3>
+								<ul>
+									<li>
+								
+			December 7, 2023		
+							</li>
+											<li>
+												Posted by
+					<img alt='author-avatar' src='https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=32&#038;d=mm&#038;r=g' class='avatar avatar-32 photo' height='32' width='32' />		
+		<a href="https://dummy.xtemos.com/woodmart2/elementor/author/zakhar/" rel="author">
+				Mr. Mackay
+		</a>
+								</li>
+											<li>
+							<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/#respond">0 comments</a>						</li>
+												</ul>
+						<!-- .entry-meta -->
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/" target="_blank" aria-label="Facebook social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/" target="_blank" aria-label="X social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/&amp;media=http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wd-blog-5.jpg&amp;description=Creative+water+features+and+exterior" target="_blank" aria-label="Pinterest social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/" target="_blank" aria-label="Linkedin social link">
+											</a>
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/" target="_blank" aria-label="Telegram social link">
+											</a>
+					Ac haca ullamcorper donec ante habi tasse donec imperdiet eturpis varius per a augue magna hac. Nec hac et vestibulum duis a tincidunt ...				<!-- .entry-content -->
+												<p>
+						<a href="https://dummy.xtemos.com/woodmart2/elementor/2021/08/27/creative-water-features-and-exterior/">Continue reading</a>					</p>
+</article><!-- #post -->
+											<!-- end #carousel-898 -->]]></content:encoded>
+															<wp:post_id>7113</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:34:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:34:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-08-13 15:26:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-08-13 15:26:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-tools]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.23.1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"863ca7f","elType":"container","settings":{"structure":"32","margin":{"unit":"px","top":"-10","right":"0","bottom":"20","left":"0","isLinked":""},"flex_direction":"row","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"flex_direction_mobile":"column","background_background":"classic","scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"279b2a7","elType":"container","settings":{"_column_size":"50","width":{"size":"41.6","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","hide_tablet":"hidden-tablet","content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"dd37a8f","elType":"widget","settings":{"image_type":"background","image_size":"full","image_height":{"unit":"px","size":"660","sizes":[]},"title":"<u>Garden<\/u> Care\nMachines and Tools","subtitle":"SPECIAL OFFER","content":"To short sentences, to many headings, images too large for the proposed design.","btn_text":"Read more","hover":"zoom","title_typography_typography":"custom","subtitle_typography_typography":"custom","subtitle_typography_font_size":{"unit":"px","size":"14","sizes":[]},"btn_position":"static","btn_color":"primary","btn_style":"link","width":{"unit":"px","size":"320","sizes":[]},"scroll_y":"-80","title_typography_font_size_mobile":{"unit":"px","size":"21","sizes":[]},"title_typography_line_height_mobile":{"unit":"em","size":"1.2","sizes":[]},"text_typography_typography":"custom","width_mobile":{"unit":"%","size":"100","sizes":[]},"title_size":"extra-large","title_decoration_style":"colored","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-grid-banner-1.jpg","id":"7135","alt":"","source":"library"},"custom_height":"Yes"},"elements":[],"widgetType":"wd_banner"}],"isInner":"1"},{"id":"c0e3e07","elType":"container","settings":{"_column_size":"25","width":{"size":"33.3","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"58","unit":"%"},"content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"d879858","elType":"widget","settings":{"image_type":"background","image_size":"full","image_height":{"unit":"px","size":"320","sizes":[]},"title":"Think About Your <u>Safety<\/u>","subtitle":"PROTECTIVE SUITS","content":"","btn_text":"Shop now","hover":"zoom","title_typography_typography":"custom","subtitle_typography_typography":"custom","subtitle_typography_font_size":{"unit":"px","size":"14","sizes":[]},"btn_position":"static","btn_color":"primary","btn_style":"link","width":{"unit":"%","size":"70","sizes":[]},"scroll_y":"-80","title_typography_font_size_tablet":{"unit":"px","size":"18","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"21","sizes":[]},"title_typography_line_height_tablet":{"unit":"em","size":"1.2","sizes":[]},"width_mobile":{"unit":"%","size":"100","sizes":[]},"title_size":"extra-large","title_decoration_style":"colored","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-grid-banner-2.jpg","id":"7136","alt":"","source":"library"},"custom_height":"Yes"},"elements":[],"widgetType":"wd_banner"},{"id":"3ec8644","elType":"widget","settings":{"image_type":"background","image_size":"full","image_height":{"unit":"px","size":"320","sizes":[]},"title":"Circular <u>Saw<\/u>","subtitle":"NEW ITEMS","content":"","btn_text":"Shop now","hover":"zoom","title_typography_typography":"custom","subtitle_typography_typography":"custom","subtitle_typography_font_size":{"unit":"px","size":"14","sizes":[]},"btn_position":"static","btn_color":"primary","btn_style":"link","width":{"unit":"%","size":"70","sizes":[]},"scroll_y":"-80","title_typography_font_size_tablet":{"unit":"px","size":"18","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"21","sizes":[]},"title_typography_line_height_tablet":{"unit":"em","size":"1.2","sizes":[]},"title_size":"extra-large","title_decoration_style":"colored","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-grid-banner-3.jpg","id":"7137","alt":"","source":"library"},"custom_height":"Yes"},"elements":[],"widgetType":"wd_banner"}],"isInner":"1"},{"id":"f0faf42","elType":"container","settings":{"_column_size":"25","width":{"size":"25.1","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"42","unit":"%"},"hide_mobile":"hidden-mobile","content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"3a95d3e","elType":"widget","settings":{"image_type":"background","image_size":"full","image_height":{"unit":"px","size":"660","sizes":[]},"title":"<u>Clean<\/u> in the work area","subtitle":"VACUUM CLEANERS","content":"It's like saying you're a bad designer, use less bold text, don't use italics in every.","btn_text":"","hover":"zoom","title_typography_typography":"custom","subtitle_typography_typography":"custom","scroll_y":"-80","title_typography_font_size_tablet":{"unit":"px","size":"18","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"21","sizes":[]},"title_typography_line_height_tablet":{"unit":"em","size":"1.2","sizes":[]},"subtitle_typography_line_height":{"unit":"px","size":"24","sizes":[]},"title_size":"extra-large","subtitle_typography_font_size":{"unit":"px","size":"14","sizes":[]},"title_decoration_style":"colored","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-grid-banner-4.jpg","id":"7138","alt":"","source":"library"},"custom_height":"Yes"},"elements":[],"widgetType":"wd_banner"}],"isInner":"1"}],"isInner":""},{"id":"67a3d68","elType":"container","settings":{"structure":"31","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"flex_direction":"row","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"scroll_y":"-80","flex_direction_mobile":"column","container_sticky_offset":"50"},"elements":[{"id":"5da7f2b","elType":"container","settings":{"content_width":"full","width_tablet":{"unit":"%","size":"66.6","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"boxed_width":{"unit":"%","size":"50","sizes":[]},"boxed_width_tablet":{"unit":"%","size":"","sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]},"flex_direction":"row","flex_direction_mobile":"column","scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"c1c2eca","elType":"widget","settings":{"subtitle":"","title":"Online Payment","content":"<p>Even if your less into design and more into content strategy.<\/p>","btn_text":"","icon_type":"icon","icon_text":"53","image":{"id":"7123","url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-payment.svg","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"60","height":"60"},"style":"bg-hover","bg_hover_color":"#FF5E2B","scroll_y":"-80","_background_background":"classic","_background_color":"#FFFFFF","box_bg_hover_color":"#FF5E2B","_element_width":"initial","_element_custom_width":{"unit":"%","size":"50","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"100","sizes":[]}},"elements":[],"widgetType":"wd_infobox"},{"id":"82c3082","elType":"widget","settings":{"subtitle":"","title":"Support 24\/7","content":"<p>Find some redeeming value with, wait for it, dummy copy, no less.<\/p>","btn_text":"","icon_type":"icon","icon_text":"53","image":{"id":"7126","url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-support.svg","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"60","height":"60"},"style":"bg-hover","bg_hover_color":"#FF5E2B","scroll_y":"-80","_background_background":"classic","_background_color":"#FFFFFF","box_bg_hover_color":"#FF5E2B","_element_width":"initial","_element_custom_width":{"unit":"%","size":"50","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"100","sizes":[]}},"elements":[],"widgetType":"wd_infobox"}],"isInner":"1"},{"id":"8cfd3f1","elType":"container","settings":{"content_width":"full","width_tablet":{"unit":"%","size":"33.4","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"boxed_width":{"unit":"%","size":"50","sizes":[]},"boxed_width_tablet":{"unit":"%","size":"","sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"8fa2fc5","elType":"widget","settings":{"image_type":"background","image_size":"full","image_height":{"unit":"px","size":"212","sizes":[]},"title":"<u>Free<\/u> Delivery from $300","subtitle":"SPECIAL OFFER","content":"To sure calm much most long me mean. Able rent long in do we.","btn_text":"","hover":"zoom","title_typography_typography":"custom","subtitle_typography_typography":"custom","subtitle_typography_font_size":{"unit":"px","size":"14","sizes":[]},"btn_position":"static","btn_color":"primary","btn_style":"link","vertical_alignment":"middle","width":{"unit":"%","size":"50","sizes":[]},"scroll_y":"-80","title_typography_font_size_tablet":{"unit":"px","size":"18","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"21","sizes":[]},"title_typography_line_height_tablet":{"unit":"em","size":"1.2","sizes":[]},"width_tablet":{"unit":"%","size":"70","sizes":[]},"title_size":"extra-large","title_decoration_style":"colored","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-grid-banner-5.jpg","id":"7142","alt":"","source":"library"},"custom_height":"Yes","custom_height_tablet":"Yes","_element_custom_width":{"unit":"%","size":"50","sizes":[]},"_element_custom_width_tablet":{"unit":"%","size":"33.3","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"100","sizes":[]}},"elements":[],"widgetType":"wd_banner"}],"isInner":"1"}],"isInner":""},{"id":"b15cf48","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"wd_section_stretch":"stretch","background_background":"classic","background_image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-blue-dots-1.png","id":"7158","alt":"","source":"library"},"background_position":"top right","background_repeat":"no-repeat","flex_direction":"column","flex_gap":{"size":"30","column":"30","row":"30","unit":"px","isLinked":"1"},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"d2befe9","elType":"container","settings":{"_column_size":"100","column_sticky_offset":"50","scroll_y":"-80","content_width":"full","flex_direction":"row","flex_justify_content":"space-between","flex_align_items":"flex-end","flex_gap":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"},"container_sticky_offset":"50"},"elements":[{"id":"6ede27e","elType":"widget","settings":{"subtitle":"","title":"<u>Bestseller<\/u> Product","after_title":"<p>A client that's unhappy for a reason is a problem, a client.<\/p>","size":"large","align":"left","scroll_y":"-80","_element_width":"auto","title_decoration_style":"colored"},"elements":[],"widgetType":"wd_title"},{"id":"f2b806e","elType":"widget","settings":{"text":"Show All products","size":"large","color":"primary","style":"link","scroll_y":"-80","_element_width":"auto","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_button"}],"isInner":"1"},{"id":"ef1168e","elType":"widget","settings":{"items_per_page":"8","product_hover":"info","scroll_y":"-80","columns_tablet":{"unit":"px","size":"4","sizes":[]},"columns_mobile":{"unit":"px","size":"2","sizes":[]},"sync_parent_id":"wd_66bb7af7f088c"},"elements":[],"widgetType":"wd_products"}],"isInner":""},{"id":"cd30ee1","elType":"container","settings":{"wd_section_stretch":"stretch-content","structure":"33","margin":{"unit":"px","top":"0","right":"0","bottom":"90","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"flex_direction":"row","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"boxed_width":{"unit":"custom","size":"unset","sizes":[]},"boxed_width_tablet":{"unit":"custom","size":"","sizes":[]},"boxed_width_mobile":{"unit":"custom","size":"","sizes":[]},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"91a7833","elType":"container","settings":{"_column_size":"25","column_sticky_offset":"50","scroll_y":"-80","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone","content_width":"full","width":{"unit":"%","size":"25","sizes":[]},"container_sticky_offset":"50"},"elements":[{"id":"eb3f41b","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-img-saw-1.jpg","id":"7143","size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"400","height":"640"},"scroll_y":"-80"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"},{"id":"f1f71c5","elType":"container","settings":{"_column_size":"50","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"padding":{"unit":"%","top":"0","right":"5","bottom":"0","left":"5","isLinked":""},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"padding_mobile":{"unit":"%","top":"0","right":"7","bottom":"0","left":"7","isLinked":""},"content_width":"full","width":{"unit":"%","size":"50","sizes":[]},"container_sticky_offset":"50"},"elements":[{"id":"2c44e52","elType":"widget","settings":{"subtitle":"NEW CHAIN SAW","title":"<u>Powerful<\/u> Saw X-700","after_title":"<p>Using dummy content or fake information in the Web design process can result in products with unrealistic.<\/p>","size":"extra-large","width":{"unit":"%","size":"60","sizes":[]},"subtitle_typography_typography":"custom","subtitle_typography_font_size":{"unit":"px","size":"14","sizes":[]},"scroll_y":"-80","width_tablet":{"unit":"%","size":"80","sizes":[]},"width_mobile":{"unit":"%","size":"100","sizes":[]},"title_decoration_style":"colored"},"elements":[],"widgetType":"wd_title"},{"id":"7139f75","elType":"widget","settings":{"text":"View more","color":"primary","style":"link","scroll_y":"-80"},"elements":[],"widgetType":"wd_button"},{"id":"e650777","elType":"widget","settings":{"image_size":"full","items":[{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","_id":"c1073e3","hotspot_dropdown_side":"right","title":"Title, click to edit.","link_text":"Button","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"product_id":"361","hotspot_position_horizontal":{"unit":"px","size":"12.5","sizes":[]},"hotspot_position_vertical":{"unit":"px","size":"56","sizes":[]}},{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","hotspot_dropdown_side":"right","title":"Title, click to edit.","link_text":"Button","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"product_id":"395","hotspot_position_horizontal":{"unit":"px","size":"56","sizes":[]},"hotspot_position_vertical":{"unit":"px","size":"47.7","sizes":[]},"_id":"a82ca31"},{"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","hotspot_dropdown_side":"right","title":"Title, click to edit.","link_text":"Button","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"product_id":"381","hotspot_position_horizontal":{"unit":"px","size":"65","sizes":[]},"hotspot_position_vertical":{"unit":"px","size":"74.2","sizes":[]},"_id":"9f9c127"}],"scroll_y":"-80","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-img-saw-product.jpg","id":"7145","alt":"","source":"library"}},"elements":[],"widgetType":"wd_image_hotspot"}],"isInner":"1"},{"id":"d973069","elType":"container","settings":{"_column_size":"25","column_sticky_offset":"50","scroll_y":"-80","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone","content_width":"full","width":{"unit":"%","size":"25","sizes":[]},"container_sticky_offset":"50"},"elements":[{"id":"736e9b3","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-img-saw-2.jpg","id":"7144","size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"400","height":"640"},"scroll_y":"-80","alignment":"right"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"}],"isInner":""},{"id":"1eb7c75","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"90","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"70","left":"0","isLinked":""},"flex_direction":"column","flex_gap":{"size":"30","column":"30","row":"30","unit":"px","isLinked":"1"},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"131b6d4","elType":"container","settings":{"_column_size":"100","flex_justify_content":"space-between","align":"space-between","column_sticky_offset":"50","scroll_y":"-80","content_width":"full","flex_direction":"row","flex_align_items":"flex-end","flex_gap":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"},"container_sticky_offset":"50"},"elements":[{"id":"56b3a7c","elType":"widget","settings":{"subtitle":"","title":"<u>Related<\/u> Products","after_title":"<p>Accept that it\u2019s sometimes okay to focus just on the content.<\/p>","size":"large","align":"left","scroll_y":"-80","_element_width":"auto","title_decoration_style":"colored"},"elements":[],"widgetType":"wd_title"},{"id":"394b94a","elType":"widget","settings":{"text":"Show All products","size":"large","color":"primary","style":"link","scroll_y":"-80","_element_width":"auto","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"wd_button"}],"isInner":"1"},{"id":"06263ad","elType":"widget","settings":{"items_per_page":"8","product_hover":"info","scroll_y":"-80","layout":"carousel","slides_per_view":{"unit":"px","size":"4","sizes":[]},"hide_pagination_control":"yes","slides_per_view_tablet":{"unit":"px","size":"4","sizes":[]},"slides_per_view_mobile":{"unit":"px","size":"2","sizes":[]},"sync_parent_id":"wd_66bb7af7f088c"},"elements":[],"widgetType":"wd_products"}],"isInner":""},{"id":"780d0cd","elType":"container","settings":{"flex_gap":{"size":"30","column":"30","row":"40","unit":"px","isLinked":""},"content_position":"middle","structure":"20","margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"flex_direction":"row","flex_align_items":"center","flex_direction_tablet":"column","scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"41d35be","elType":"container","settings":{"_column_size":"50","column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","width":{"unit":"%","size":"50","sizes":[]},"container_sticky_offset":"50"},"elements":[{"id":"a6b89f3","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-img-construction.jpg","id":"7146","alt":"","source":"library"},"scroll_y":"-80"},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":"1"},{"id":"22159b8","elType":"container","settings":{"_column_size":"50","column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","width":{"unit":"%","size":"50","sizes":[]},"flex_gap":{"column":"025","row":"025","isLinked":"1","unit":"px","size":"25"},"container_sticky_offset":"50"},"elements":[{"id":"1369372","elType":"widget","settings":{"subtitle":"TOOL &amp; EQUIPMENT","title":"How <u>Choose<\/u> Equipment &amp; Tool","after_title":"<p>Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show different text, different data using the same template.<\/p>","align":"left","width":{"unit":"%","size":"80","sizes":[]},"subtitle_typography_typography":"custom","subtitle_typography_font_size":{"unit":"px","size":"14","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"48","sizes":[]},"title_typography_line_height":{"unit":"px","size":"58","sizes":[]},"scroll_y":"-80","width_tablet":{"unit":"%","size":"80","sizes":[]},"width_mobile":{"unit":"%","size":"100","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"22","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"title_typography_line_height_tablet":{"unit":"em","size":"1.2","sizes":[]},"title_decoration_style":"colored"},"elements":[],"widgetType":"wd_title"},{"id":"3703080","elType":"container","settings":{"structure":"30","flex_direction":"row","flex_gap":{"size":"20","column":"20","row":"20","unit":"px","isLinked":"1"},"content_width":"full","scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"fac140f","elType":"widget","settings":{"subtitle":"","title":"Parameters","content":"<p>This is quite solve.<\/p>","btn_text":"","icon_type":"icon","icon_text":"53","image":{"id":"7122","url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-measuring-tape.svg","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"48","height":"48"},"style":"bg-hover","alignment":"left","bg_hover_color":"#FF5E2B","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16","sizes":[]},"scroll_y":"-80","_background_background":"classic","_background_color":"#FFFFFF","box_bg_hover_color":"#FF5E2B","_element_width":"initial","_element_custom_width":{"unit":"%","size":"33.3","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"100","sizes":[]}},"elements":[],"widgetType":"wd_infobox"},{"id":"48287ac","elType":"widget","settings":{"subtitle":"","title":"Characteristics","content":"<p>Doing signals color.<\/p>","btn_text":"","icon_type":"icon","icon_text":"53","image":{"id":"7124","url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-pencil.svg","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"48","height":"48"},"style":"bg-hover","alignment":"left","bg_hover_color":"#FF5E2B","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16","sizes":[]},"scroll_y":"-80","_background_background":"classic","_background_color":"#FFFFFF","box_bg_hover_color":"#FF5E2B","_element_width":"initial","_element_custom_width":{"unit":"%","size":"33.3","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"100","sizes":[]}},"elements":[],"widgetType":"wd_infobox"},{"id":"15da1dd","elType":"widget","settings":{"subtitle":"","title":"Device power","content":"<p>Content strategy.<\/p>","btn_text":"","icon_type":"icon","icon_text":"53","image":{"id":"7120","url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-blueprint.svg","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"48","height":"48"},"style":"bg-hover","alignment":"left","bg_hover_color":"#FF5E2B","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"16","sizes":[]},"scroll_y":"-80","_background_background":"classic","_background_color":"#FFFFFF","box_bg_hover_color":"#FF5E2B","_element_width":"initial","_element_custom_width":{"unit":"%","size":"33.3","sizes":[]},"_element_custom_width_mobile":{"unit":"%","size":"100","sizes":[]}},"elements":[],"widgetType":"wd_infobox"}],"isInner":"1"}],"isInner":"1"}],"isInner":""},{"id":"8c01795","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"flex_direction":"column","flex_gap":{"size":"30","column":"30","row":"30","unit":"px","isLinked":"1"},"scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"a268627","elType":"container","settings":{"flex_direction":"row","flex_align_items":"flex-end","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"content_width":"full","flex_justify_content":"space-between","scroll_y":"-80","container_sticky_offset":"50"},"elements":[{"id":"1ebf8d9","elType":"widget","settings":{"subtitle":"","title":"Our <u>Articles<\/u>","after_title":"<p>Assumptions and potentially serious design.<\/p>","size":"large","align":"left","scroll_y":"-80","_element_width":"auto","title_decoration_style":"colored"},"elements":[],"widgetType":"wd_title"},{"id":"ec60310","elType":"widget","settings":{"text":"Show All posts","size":"large","color":"primary","style":"link","scroll_y":"-80","_element_width":"auto","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"wd_button"}],"isInner":"1"},{"id":"991d3cd","elType":"widget","settings":{"blog_design":"carousel","blog_carousel_design":"mask","img_size":"custom","img_size_custom":{"width":"307","height":"435"},"blog_spacing":"20","items_per_page":"5","slides_per_view":{"unit":"px","size":"4","sizes":[]},"hide_pagination_control":"yes","scroll_y":"-80","slides_per_view_tablet":{"unit":"px","size":"3","sizes":[]},"slides_per_view_mobile":{"unit":"px","size":"1","sizes":[]},"sync_parent_id":"wd_66bb7af7ed04b"},"elements":[],"widgetType":"wd_blog"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:11:{s:9:"wd_banner";a:3:{s:5:"count";i:5;s:15:"control_percent";i:9;s:8:"controls";a:3:{s:7:"content";a:2:{s:21:"image_content_section";a:4:{s:10:"image_size";i:5;s:12:"image_height";i:5;s:5:"image";i:5;s:13:"custom_height";i:1;}s:15:"content_section";a:4:{s:5:"title";i:5;s:8:"subtitle";i:5;s:7:"content";i:5;s:8:"btn_text";i:4;}}s:5:"style";a:6:{s:21:"general_style_section";a:2:{s:5:"hover";i:5;s:10:"title_size";i:5;}s:19:"title_style_section";a:2:{s:27:"title_typography_typography";i:5;s:22:"title_decoration_style";i:5;}s:22:"subtitle_style_section";a:3:{s:30:"subtitle_typography_typography";i:5;s:29:"subtitle_typography_font_size";i:5;s:31:"subtitle_typography_line_height";i:1;}s:20:"button_style_section";a:3:{s:12:"btn_position";i:4;s:9:"btn_color";i:4;s:9:"btn_style";i:4;}s:20:"layout_style_section";a:2:{s:5:"width";i:4;s:18:"vertical_alignment";i:1;}s:21:"content_style_section";a:1:{s:26:"text_typography_typography";i:1;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:5;}}}}s:6:"column";a:3:{s:5:"count";i:20;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:3;s:16:"content_position";i:3;s:5:"align";i:3;s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:3:{s:8:"wd_extra";a:2:{s:20:"column_sticky_offset";i:20;s:8:"scroll_y";i:20;}s:19:"_section_responsive";a:2:{s:11:"hide_tablet";i:3;s:11:"hide_mobile";i:3;}s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:3:{s:17:"section_structure";a:1:{s:9:"structure";i:5;}s:15:"wd_extra_layout";a:1:{s:18:"wd_section_stretch";i:2;}s:14:"section_layout";a:2:{s:3:"gap";i:1;s:16:"content_position";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:9;s:7:"padding";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:4:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;}}}}s:10:"wd_infobox";a:3:{s:5:"count";i:5;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:2:{s:15:"content_section";a:4:{s:8:"subtitle";i:5;s:5:"title";i:5;s:7:"content";i:5;s:8:"btn_text";i:5;}s:20:"icon_content_section";a:4:{s:9:"icon_type";i:5;s:5:"image";i:5;s:10:"image_size";i:5;s:22:"image_custom_dimension";i:5;}}s:5:"style";a:3:{s:21:"general_style_section";a:2:{s:5:"style";i:5;s:9:"alignment";i:3;}s:19:"hover_style_section";a:1:{s:18:"box_bg_hover_color";i:5;}s:19:"title_style_section";a:2:{s:27:"title_typography_typography";i:3;s:26:"title_typography_font_size";i:3;}}s:8:"advanced";a:2:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:5;}s:19:"_section_background";a:2:{s:22:"_background_background";i:5;s:17:"_background_color";i:5;}}}}s:8:"wd_title";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"general_content_section";a:3:{s:8:"subtitle";i:5;s:5:"title";i:5;s:11:"after_title";i:5;}}s:5:"style";a:3:{s:21:"general_style_section";a:3:{s:4:"size";i:4;s:5:"align";i:4;s:5:"width";i:2;}s:19:"title_style_section";a:4:{s:22:"title_decoration_style";i:5;s:27:"title_typography_typography";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_line_height";i:1;}s:22:"subtitle_style_section";a:2:{s:30:"subtitle_typography_typography";i:2;s:29:"subtitle_typography_font_size";i:2;}}s:8:"advanced";a:2:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:5;}s:17:"_section_position";a:1:{s:14:"_element_width";i:3;}}}}s:9:"wd_button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:4:"text";i:4;}}s:5:"style";a:1:{s:21:"general_style_section";a:3:{s:4:"size";i:3;s:5:"color";i:4;s:5:"style";i:4;}}s:8:"advanced";a:3:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:4;}s:17:"_section_position";a:1:{s:14:"_element_width";i:3;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:3;}}}}s:11:"wd_products";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:5:"style";a:3:{s:20:"layout_style_section";a:2:{s:14:"items_per_page";i:2;s:6:"layout";i:1;}s:29:"products_design_style_section";a:1:{s:13:"product_hover";i:2;}s:22:"carousel_style_section";a:2:{s:15:"slides_per_view";i:1;s:23:"hide_pagination_control";i:1;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:4:{s:10:"image_size";i:2;s:22:"image_custom_dimension";i:2;s:5:"align";i:2;s:5:"image";i:2;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:2;}}}}s:16:"wd_image_hotspot";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:2:{s:23:"general_content_section";a:2:{s:10:"image_size";i:1;s:5:"image";i:1;}s:21:"items_content_section";a:1:{s:5:"items";i:1;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:1;}}}}s:15:"wd_image_or_svg";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:5:"image";i:1;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:1;}}}}s:7:"wd_blog";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:5:"style";a:2:{s:21:"general_style_section";a:6:{s:11:"blog_design";i:1;s:20:"blog_carousel_design";i:1;s:8:"img_size";i:1;s:15:"img_size_custom";i:1;s:12:"blog_spacing";i:1;s:14:"items_per_page";i:1;}s:22:"carousel_style_section";a:2:{s:15:"slides_per_view";i:1;s:23:"hide_pagination_control";i:1;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:1;}}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-location]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-location/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-location.svg</guid>
+															<wp:post_id>7121</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-location]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-location.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-location.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-payment]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-payment/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-payment.svg</guid>
+															<wp:post_id>7123</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-payment]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-payment.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-payment.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-phone]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-phone/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-phone.svg</guid>
+															<wp:post_id>7125</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-phone]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-phone.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-phone.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-support]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-support/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-support.svg</guid>
+															<wp:post_id>7126</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-support]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-support.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-support.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-popup]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-popup/</link>
+					<pubDate>Sun, 24 Oct 2021 08:37:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-popup.jpg</guid>
+															<wp:post_id>7127</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:37:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:37:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:37:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:37:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-popup]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-popup.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-popup.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-page-title]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-page-title/</link>
+					<pubDate>Sun, 24 Oct 2021 08:38:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-page-title.jpg</guid>
+															<wp:post_id>7128</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:38:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:38:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:38:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:38:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-page-title]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-page-title.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-page-title.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-grid-banner-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-grid-banner-1/</link>
+					<pubDate>Sun, 24 Oct 2021 08:41:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-1.jpg</guid>
+															<wp:post_id>7135</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:41:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:41:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:41:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:41:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-grid-banner-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-grid-banner-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-grid-banner-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-grid-banner-2/</link>
+					<pubDate>Sun, 24 Oct 2021 08:41:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-2.jpg</guid>
+															<wp:post_id>7136</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:41:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:41:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:41:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:41:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-grid-banner-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-grid-banner-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-grid-banner-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-grid-banner-3/</link>
+					<pubDate>Sun, 24 Oct 2021 08:41:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-3.jpg</guid>
+															<wp:post_id>7137</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:41:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:41:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:41:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:41:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-grid-banner-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-grid-banner-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-grid-banner-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-grid-banner-4/</link>
+					<pubDate>Sun, 24 Oct 2021 08:41:09 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-4.jpg</guid>
+															<wp:post_id>7138</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:41:09]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:41:09]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:41:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:41:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-grid-banner-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-grid-banner-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-grid-banner-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-grid-banner-5/</link>
+					<pubDate>Sun, 24 Oct 2021 08:42:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-5.jpg</guid>
+															<wp:post_id>7142</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:42:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:42:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:42:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:42:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-grid-banner-5]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-grid-banner-5.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-grid-banner-5.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blue-dots-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-blue-dots-1/</link>
+					<pubDate>Sun, 24 Oct 2021 08:50:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blue-dots-1.png</guid>
+															<wp:post_id>7158</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:50:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:50:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:50:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:50:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blue-dots-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blue-dots-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blue-dots-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blog-img-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blog-img-1/</link>
+					<pubDate>Sun, 24 Oct 2021 08:53:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-1.jpg</guid>
+															<wp:post_id>7174</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:53:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:53:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:53:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:53:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blog-img-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blog-img-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blog-img-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blog-img-3/</link>
+					<pubDate>Sun, 24 Oct 2021 08:53:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-3.jpg</guid>
+															<wp:post_id>7176</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:53:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:53:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:53:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:53:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blog-img-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blog-img-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blog-img-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blog-img-4/</link>
+					<pubDate>Sun, 24 Oct 2021 08:53:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-4.jpg</guid>
+															<wp:post_id>7177</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:53:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:53:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:53:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:53:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blog-img-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blog-img-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blog-img-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blog-img-5/</link>
+					<pubDate>Sun, 24 Oct 2021 08:53:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-5.jpg</guid>
+															<wp:post_id>7178</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:53:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:53:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:53:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:53:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blog-img-5]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-5.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blog-img-5.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blog-img-6]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blog-img-6/</link>
+					<pubDate>Sun, 24 Oct 2021 08:53:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-6.jpg</guid>
+															<wp:post_id>7179</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:53:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:53:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:53:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:53:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blog-img-6]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-6.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blog-img-6.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blog-img-7]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blog-img-7/</link>
+					<pubDate>Sun, 24 Oct 2021 08:53:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-7.jpg</guid>
+															<wp:post_id>7180</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:53:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:53:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:53:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:53:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blog-img-7]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blog-img-7.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blog-img-7.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wood-logo-white-reserve]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/wood-logo-white-reserve/</link>
+					<pubDate>Thu, 26 Aug 2021 12:45:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wood-logo-white-reserve.svg</guid>
+															<wp:post_id>114</wp:post_id>
+					<wp:post_date><![CDATA[2021-08-26 12:45:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-08-26 12:45:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-06-20 13:59:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-06-20 13:59:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wood-logo-white-reserve]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wood-logo-white-reserve.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/08/wood-logo-white-reserve.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Footer 1 column Light]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/?cms_block=footer-1-column-light</link>
+					<pubDate>Wed, 01 Sep 2021 13:44:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=cms_block&#038;p=1033</guid>
+											<content:encoded><![CDATA[<a  href="#">
+								<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/08/wood-logo-white-reserve.svg" title="wood-logo-white-reserve" width="220" height="30">							</a>
+						<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=7.3.0" type="text/css" media="all" /> 					
+			Condimentum adipiscing vel neque dis nam parturient orci at scelerisque neque dis nam parturient.
+						<link rel="stylesheet" id="wd-list-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-list.min.css?ver=7.3.0" type="text/css" media="all" /> 					<ul>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-cursor-light.svg" title="wd-cursor-light" width="14" height="14">					
+						451 Wall Street, UK, London					
+									</li>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-phone-light.svg" title="wd-phone-light" width="14" height="14">					
+						Phone: (064) 332-1233					
+						<a  href="tel:%20(064)%20332-1233" aria-label="List item link"></a>
+									</li>
+											<li>
+											<img  src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-envelope-light.svg" title="wd-envelope-light" width="14" height="14">					
+						Fax: (099) 453-1357					
+									</li>
+					</ul>]]></content:encoded>
+															<wp:post_id>1033</wp:post_id>
+					<wp:post_date><![CDATA[2021-09-01 13:44:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-09-01 13:44:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-12-07 15:02:15]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-12-07 15:02:15]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[footer-1-column-light]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.16.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"ef7a8d8","elType":"container","settings":{"flex_direction":"column","flex_gap":{"size":null,"column":"","row":"","unit":"px","isLinked":true},"scroll_y":-80,"container_sticky_offset":50},"elements":[{"id":"7341eac","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/08\/wood-logo-white-reserve.svg","id":114,"alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"220","height":"30"},"on_click_action":"link","link":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""},"scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"},{"id":"0259971","elType":"widget","settings":{"text":"Condimentum adipiscing vel neque dis nam parturient orci at scelerisque neque dis nam parturient.","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"},{"id":"25adf6a","elType":"widget","settings":{"list_items":[{"list_content":"451 Wall Street, UK, London","_id":"80be36b","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/09\/wd-cursor-light.svg","id":2035,"alt":"","source":"library"},"item_type":"image","image_size":"custom","image_custom_dimension":{"width":"14","height":"14"}},{"list_content":"Phone: (064) 332-1233","link":{"url":"tel: (064) 332-1233","is_external":false,"nofollow":false,"custom_attributes":""},"_id":"c383cf6","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/09\/wd-phone-light.svg","id":2037,"alt":"","source":"library"},"item_type":"image","image_size":"custom","image_custom_dimension":{"width":"14","height":"14"}},{"list_content":"Fax: (099) 453-1357","_id":"a511145","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/09\/wd-envelope-light.svg","id":2036,"alt":"","source":"library"},"item_type":"image","image_size":"custom","image_custom_dimension":{"width":"14","height":"14"}}],"list_type":"image","scroll_y":-80,"image_size":"custom","image_custom_dimension":{"width":"14","height":"14"},"list_items_gap":{"unit":"px","size":7,"sizes":[]}},"elements":[],"widgetType":"wd_list"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:5:{s:15:"wd_image_or_svg";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:1:{s:7:"content";a:1:{s:23:"general_content_section";a:5:{s:5:"image";i:1;s:10:"image_size";i:1;s:22:"image_custom_dimension";i:1;s:15:"on_click_action";i:1;s:4:"link";i:1;}}}}s:13:"wd_text_block";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:4:"text";i:1;}}}}s:7:"wd_list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:2:{s:23:"general_content_section";a:1:{s:10:"list_items";i:1;}s:20:"icon_content_section";a:3:{s:9:"list_type";i:1;s:10:"image_size";i:1;s:22:"image_custom_dimension";i:1;}}s:5:"style";a:1:{s:21:"general_style_section";a:1:{s:14:"list_items_gap";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-cursor-light]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/wd-cursor-light/</link>
+					<pubDate>Mon, 06 Sep 2021 15:58:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-cursor-light.svg</guid>
+															<wp:post_id>2035</wp:post_id>
+					<wp:post_date><![CDATA[2021-09-06 15:58:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-09-06 15:58:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-06-20 13:59:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-06-20 13:59:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-cursor-light]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-cursor-light.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/09/wd-cursor-light.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-envelope-light]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/wd-envelope-light/</link>
+					<pubDate>Mon, 06 Sep 2021 15:58:18 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-envelope-light.svg</guid>
+															<wp:post_id>2036</wp:post_id>
+					<wp:post_date><![CDATA[2021-09-06 15:58:18]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-09-06 15:58:18]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-06-20 13:59:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-06-20 13:59:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-envelope-light]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-envelope-light.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/09/wd-envelope-light.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-phone-light]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/wd-phone-light/</link>
+					<pubDate>Mon, 06 Sep 2021 15:58:19 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-phone-light.svg</guid>
+															<wp:post_id>2037</wp:post_id>
+					<wp:post_date><![CDATA[2021-09-06 15:58:19]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-09-06 15:58:19]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2022-06-20 13:59:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2022-06-20 13:59:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-phone-light]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/09/wd-phone-light.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/09/wd-phone-light.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-blueprint]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-blueprint/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blueprint.svg</guid>
+															<wp:post_id>7120</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-blueprint]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-blueprint.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-blueprint.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-measuring-tape]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-measuring-tape/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-measuring-tape.svg</guid>
+															<wp:post_id>7122</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-measuring-tape]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-measuring-tape.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-measuring-tape.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-pencil]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/tools-pencil/</link>
+					<pubDate>Sun, 24 Oct 2021 08:36:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-pencil.svg</guid>
+															<wp:post_id>7124</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:36:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:36:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:36:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:36:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-pencil]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-pencil.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-pencil.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Prefooter Tools]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/?cms_block=prefooter-tools</link>
+					<pubDate>Sun, 24 Oct 2021 08:39:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=cms_block&#038;p=7129</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-info-box-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=7.3.2" type="text/css" media="all" /> 					
+															<img width="115" height="90" src="http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-prefooter-115x90.jpg" alt="" decoding="async" loading="lazy" />													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Do you like the theme?<br />
+Share with your friends!						</h4>
+						<link rel="stylesheet" id="wd-mc4wp-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/int-mc4wp.min.css?ver=7.3.2" type="text/css" media="all" /> 			<!-- Mailchimp for WordPress v4.9.6 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" method="post" data-id="594" data-name="Newsletter form" >
+  <p>
+    <input type="email" name="EMAIL" placeholder="Your email address" required />
+  </p>
+  <p>
+     <input type="submit" value="Sign up"/>
+  </p>
+<label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1699537705" /><input type="hidden" name="_mc4wp_form_id" value="594" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></form><!-- / Mailchimp for WordPress Plugin -->		
+						<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=7.3.2" type="text/css" media="all" /> 					
+			Will be used in accordance with our <strong><a href="#">Privacy Policy</a></strong>]]></content:encoded>
+															<wp:post_id>7129</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:39:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:39:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-11-09 13:48:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-11-09 13:48:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[prefooter-tools]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.16.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"5cee101","elType":"container","settings":{"structure":"22","margin":{"unit":"px","top":"0","right":"0","bottom":"-40","left":"0","isLinked":""},"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":""},"flex_direction":"row","flex_align_items":"center","flex_gap":{"size":null,"column":"","row":"","unit":"px","isLinked":true},"flex_direction_tablet":"column","flex_justify_content":"space-between","scroll_y":-80},"elements":[{"id":"8179989","elType":"container","settings":{"_column_size":66,"width_tablet":{"size":"100","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width":{"size":50,"unit":"%"},"content_width":"full"},"elements":[{"id":"78df034","elType":"widget","settings":{"subtitle":"","title":"Do you like the theme?\nShare with your friends!","content":"","btn_text":"","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"icon_type":"icon","icon_text":"53","image":{"id":7133,"url":"http:\/\/dummy.xtemos.com\/woodmart2\/elementor\/wp-content\/uploads\/sites\/2\/2021\/10\/tools-img-prefooter.jpg","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"115","height":"90"},"alignment":"left","image_alignment":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"30","sizes":[]},"scroll_y":"-80","title_typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"wd_infobox"}],"isInner":true},{"id":"e3caac3","elType":"container","settings":{"_column_size":33,"width_tablet":{"size":"100","unit":"%"},"margin":{"unit":"%","top":"0","right":"0","bottom":"0","left":"13","isLinked":""},"margin_tablet":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":""},"column_sticky_offset":"50","scroll_y":"-80","width":{"size":30,"unit":"%"},"content_width":"full"},"elements":[{"id":"b1fc6a5","elType":"widget","settings":{"form_id":"594","alignment":"left","content_width":{"unit":"px","size":"380","sizes":[]},"scroll_y":"-80","_element_width":"initial","_element_custom_width":{"unit":"px","size":380,"sizes":[]}},"elements":[],"widgetType":"wd_mailchimp"},{"id":"f68e6d6","elType":"widget","settings":{"text":"Will be used in accordance with our <strong><a href=\"#\">Privacy Policy<\/a><\/strong>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:5:{s:10:"wd_infobox";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:2:{s:15:"content_section";a:5:{s:8:"subtitle";i:1;s:5:"title";i:1;s:7:"content";i:1;s:8:"btn_text";i:1;s:4:"link";i:1;}s:20:"icon_content_section";a:4:{s:9:"icon_type";i:1;s:5:"image";i:1;s:10:"image_size";i:1;s:22:"image_custom_dimension";i:1;}}s:5:"style";a:2:{s:21:"general_style_section";a:2:{s:9:"alignment";i:1;s:15:"image_alignment";i:1;}s:19:"title_style_section";a:2:{s:27:"title_typography_typography";i:1;s:26:"title_typography_font_size";i:1;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:8:"advanced";a:2:{s:8:"wd_extra";a:2:{s:20:"column_sticky_offset";i:2;s:8:"scroll_y";i:2;}s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}}}s:12:"wd_mailchimp";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"general_content_section";a:1:{s:7:"form_id";i:1;}}s:5:"style";a:1:{s:21:"general_style_section";a:2:{s:9:"alignment";i:1;s:13:"content_width";i:1;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:8:"advanced";a:1:{s:8:"wd_extra";a:1:{s:8:"scroll_y";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:1;s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-img-prefooter]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/?attachment_id=7133</link>
+					<pubDate>Sun, 24 Oct 2021 08:40:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-prefooter.jpg</guid>
+															<wp:post_id>7133</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:40:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:40:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:40:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:40:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-img-prefooter]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7129</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-prefooter.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-img-prefooter.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-img-saw-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-img-saw-1/</link>
+					<pubDate>Sun, 24 Oct 2021 08:43:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-1.jpg</guid>
+															<wp:post_id>7143</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:43:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:43:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:43:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:43:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-img-saw-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-img-saw-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-img-saw-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-img-saw-2/</link>
+					<pubDate>Sun, 24 Oct 2021 08:43:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-2.jpg</guid>
+															<wp:post_id>7144</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:43:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:43:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:43:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:43:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-img-saw-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-img-saw-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-img-saw-product]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-img-saw-product/</link>
+					<pubDate>Sun, 24 Oct 2021 08:44:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-product.jpg</guid>
+															<wp:post_id>7145</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:44:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:44:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:44:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:44:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-img-saw-product]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-saw-product.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-img-saw-product.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[tools-img-construction]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/elementor/home-tools/tools-img-construction/</link>
+					<pubDate>Sun, 24 Oct 2021 08:44:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-construction.jpg</guid>
+															<wp:post_id>7146</wp:post_id>
+					<wp:post_date><![CDATA[2021-10-24 08:44:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-10-24 08:44:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-10-24 08:44:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-10-24 08:44:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[tools-img-construction]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7113</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/elementor/wp-content/uploads/sites/2/2021/10/tools-img-construction.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/10/tools-img-construction.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

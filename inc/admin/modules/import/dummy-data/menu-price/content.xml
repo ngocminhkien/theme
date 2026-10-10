@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>admin</title>
+	<link>https://dummy.xtemos.com/woodmart2</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Wed, 14 Jul 2021 12:06:41 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/wp-content/uploads/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[team-member-elements-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/team-member/team-member-elements-bg/</link>
+					<pubDate>Thu, 11 Nov 2021 17:53:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/team-member-elements-bg.jpg</guid>
+															<wp:post_id>7654</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-11 17:53:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-11 17:53:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-11 17:53:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-11 17:53:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[team-member-elements-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7640</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/team-member-elements-bg.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/team-member-elements-bg.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Menu price]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/menu-price/</link>
+					<pubDate>Fri, 12 Nov 2021 12:13:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/?page_id=7705</guid>
+											<content:encoded><![CDATA[[vc_row css=".vc_custom_1636719958859{margin-bottom: 30px !important;}" woodmart_css_id="618e5d5358635" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MThlNWQ1MzU4NjM1Iiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column][woodmart_title style="bordered" color="primary" title="MENU PRICE" subtitle="XTEMOS ELEMENTS" css=".vc_custom_1637056559367{margin-bottom: 30px !important;}" woodmart_css_id="6193802d59d1b" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzODAyZDU5ZDFiIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][/vc_column][vc_column width="1/2"][woodmart_menu_price title="Weight Watchers General Tso's Chicken" description="In a medium bowl, whisk together broth, cornstarch, sugar, soy sauce, vinegar and ginger; set aside." price="$399.00" woodmart_css_id="6a4e45b741c8a" css=".vc_custom_1783514553663{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDViNzQxYzhhIiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price title="Weight Watchers 2 Point- Pumpkin Muffins" description="Mix all ingredients in mixer. Makes 24 muffins. Cook for 20-25 minutes at 350°F. They will be very moist." price="$29.00"][/vc_column][vc_column width="1/2"][woodmart_menu_price title="Weight Watchers Chicken Pot Pie" description="Preheat oven to 400. Spray 8x8 casserole dish with cooking spray. Mix together veggies, chicken and soup." price="$49.00" woodmart_css_id="6a4e45bb8c2ef" css=".vc_custom_1783514558214{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDViYjhjMmVmIiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price title="Weight Watchers Parmesan Chicken Cutlets" description="Preheat oven to 400 degrees. In resealable plastic bag, combine cheese, crumbs and all seasonings; shake well." price="$99.00"][/vc_column][/vc_row][vc_row css=".vc_custom_1636719963833{margin-bottom: 30px !important;}" woodmart_css_id="618e5d58eb10a" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MThlNWQ1OGViMTBhIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column][woodmart_title style="bordered" color="primary" title="MENU PRICE WITH IMAGE" subtitle="XTEMOS ELEMENTS" css=".vc_custom_1637056563862{margin-bottom: 30px !important;}" woodmart_css_id="61938031b4d3a" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzODAzMWI0ZDNhIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][/vc_column][vc_column width="1/2"][woodmart_menu_price img_id="7709" title="Lux Pinot Nior" description="ripe red fruit and earthy aromas" price="$49.69" link="http://#" woodmart_css_id="6a4e45a16dd72" css=".vc_custom_1783514532210{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDVhMTZkZDcyIiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price img_id="7710" title="Lux Chardonnay" description="full-bodied and well rounded" price="$19.00" link="http://#" woodmart_css_id="6a4e45a5dfc1e" css=".vc_custom_1783514536399{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDVhNWRmYzFlIiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price img_id="7711" title="Lux Sparkling" description="granny Smith apple, citrus" price="$39.99" link="http://#"][/vc_column][vc_column width="1/2"][woodmart_menu_price img_id="7712" title="Moscato" description="rich and well balanced" price="$99.00" link="http://#" woodmart_css_id="6a4e45aa25150" css=".vc_custom_1783514540934{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDVhYTI1MTUwIiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price img_id="7713" title="Sweet Sparkling" description="familiar aromas of grape jelly" price="$19.00" link="http://#" woodmart_css_id="6a4e45aeae275" css=".vc_custom_1783514545387{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDVhZWFlMjc1Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price img_id="7709" title="Cabarnet Zinfandel" description="delicious dark fruit and spice" price="$39.00" link="http://#"][/vc_column][/vc_row][vc_row css=".vc_custom_1636719969130{margin-bottom: 30px !important;}" woodmart_css_id="618e5d5e232dc" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MThlNWQ1ZTIzMmRjIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column][woodmart_title style="bordered" color="primary" title="MENU PRICE WITH LINK" subtitle="XTEMOS ELEMENTS" css=".vc_custom_1637056568956{margin-bottom: 30px !important;}" woodmart_css_id="61938036df8dc" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzODAzNmRmOGRjIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][/vc_column][vc_column width="1/2"][woodmart_menu_price title="Weight Watchers General Tso's Chicken" description="In a medium bowl, whisk together broth, cornstarch, sugar, soy sauce, vinegar and ginger; set aside." price="$399.00" link="#" woodmart_css_id="6a4e4595a2129" css=".vc_custom_1783514520199{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDU5NWEyMTI5Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price title="Weight Watchers 2 Point- Pumpkin Muffins" description="Mix all ingredients in mixer. Makes 24 muffins. Cook for 20-25 minutes at 350°F. They will be very moist." price="$29.00" link="#"][/vc_column][vc_column width="1/2"][woodmart_menu_price title="Weight Watchers Chicken Pot Pie" description="Preheat oven to 400. Spray 8x8 casserole dish with cooking spray. Mix together veggies, chicken and soup." price="$49.00" link="#" woodmart_css_id="6a4e459168865" css=".vc_custom_1783514516250{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDU5MTY4ODY1Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price title="Weight Watchers Parmesan Chicken Cutlets" description="Preheat oven to 400 degrees. In resealable plastic bag, combine cheese, crumbs and all seasonings; shake well." price="$99.00" link="#"][/vc_column][/vc_row][vc_section woodmart_stretch_content="section-stretch" css=".vc_custom_1783514494826{margin-bottom: -40px !important;padding-top: 60px !important;padding-bottom: 30px !important;background-image: url(http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/team-member-elements-bg.jpg?id=7654) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" woodmart_css_id="6a4e457a121e0" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDU3YTEyMWUwIiwic2hvcnRjb2RlIjoidmNfc2VjdGlvbiIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" wd_backdrop_filter=""][vc_row][vc_column][woodmart_title style="bordered" color="white" title="MENU PRICE COLOR SHEME LIGHT" subtitle="XTEMOS ELEMENTS" css=".vc_custom_1637056573910{margin-bottom: 30px !important;}" woodmart_css_id="6193803be6c64" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzODAzYmU2YzY0Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][/vc_column][vc_column width="1/2" woodmart_color_scheme="light" woodmart_css_id="618e5d934a5b3" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MThlNWQ5MzRhNWIzIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0="][woodmart_menu_price title="Weight Watchers General Tso's Chicken" description="In a medium bowl, whisk together broth, cornstarch, sugar, soy sauce, vinegar and ginger; set aside." price="$399.00" link="#" woodmart_css_id="6a4e45813e864" css=".vc_custom_1783514500847{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDU4MTNlODY0Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price title="Weight Watchers 2 Point- Pumpkin Muffins" description="Mix all ingredients in mixer. Makes 24 muffins. Cook for 20-25 minutes at 350°F. They will be very moist." price="$29.00" link="#"][/vc_column][vc_column width="1/2" woodmart_color_scheme="light" woodmart_css_id="618e5d974f929" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MThlNWQ5NzRmOTI5Iiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0="][woodmart_menu_price title="Weight Watchers Chicken Pot Pie" description="Preheat oven to 400. Spray 8x8 casserole dish with cooking spray. Mix together veggies, chicken and soup." price="$49.00" link="#" woodmart_css_id="6a4e4588eeff6" css=".vc_custom_1783514507424{margin-bottom: 20px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNDU4OGVlZmY2Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfbWVudV9wcmljZSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" wd_backdrop_filter=""][woodmart_menu_price title="Weight Watchers Parmesan Chicken Cutlets" description="Preheat oven to 400 degrees. In resealable plastic bag, combine cheese, crumbs and all seasonings; shake well." price="$99.00" link="#"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
+															<wp:post_id>7705</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-12 12:13:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-12 12:13:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-10 12:10:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-10 12:10:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[menu-price]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1636719958859{margin-bottom: 30px !important;}.vc_custom_1636719963833{margin-bottom: 30px !important;}.vc_custom_1636719969130{margin-bottom: 30px !important;}.vc_custom_1783514494826{margin-bottom: -40px !important;padding-top: 60px !important;padding-bottom: 30px !important;background-image: url(http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/team-member-elements-bg.jpg?id=7654) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1637056559367{margin-bottom: 30px !important;}.vc_custom_1783514553663{margin-bottom: 20px !important;}.vc_custom_1783514558214{margin-bottom: 20px !important;}.vc_custom_1637056563862{margin-bottom: 30px !important;}.vc_custom_1783514532210{margin-bottom: 20px !important;}.vc_custom_1783514536399{margin-bottom: 20px !important;}.vc_custom_1783514540934{margin-bottom: 20px !important;}.vc_custom_1783514545387{margin-bottom: 20px !important;}.vc_custom_1637056568956{margin-bottom: 30px !important;}.vc_custom_1783514520199{margin-bottom: 20px !important;}.vc_custom_1783514516250{margin-bottom: 20px !important;}.vc_custom_1637056573910{margin-bottom: 30px !important;}.vc_custom_1783514500847{margin-bottom: 20px !important;}.vc_custom_1783514507424{margin-bottom: 20px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_vc_editor_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[backend]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_post_custom_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[menu-price-elements-image-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/menu-price/menu-price-elements-image-1/</link>
+					<pubDate>Fri, 12 Nov 2021 12:19:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-1.png</guid>
+															<wp:post_id>7709</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-12 12:19:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-12 12:19:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-12 12:19:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-12 12:19:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[menu-price-elements-image-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7705</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-1.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/menu-price-elements-image-1.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[menu-price-elements-image-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/menu-price/menu-price-elements-image-2/</link>
+					<pubDate>Fri, 12 Nov 2021 12:19:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-2.png</guid>
+															<wp:post_id>7710</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-12 12:19:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-12 12:19:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-12 12:19:52]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-12 12:19:52]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[menu-price-elements-image-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7705</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-2.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/menu-price-elements-image-2.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[menu-price-elements-image-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/menu-price/menu-price-elements-image-3/</link>
+					<pubDate>Fri, 12 Nov 2021 12:19:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-3.png</guid>
+															<wp:post_id>7711</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-12 12:19:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-12 12:19:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-12 12:19:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-12 12:19:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[menu-price-elements-image-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7705</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-3.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/menu-price-elements-image-3.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[menu-price-elements-image-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/menu-price/menu-price-elements-image-4/</link>
+					<pubDate>Fri, 12 Nov 2021 12:19:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-4.png</guid>
+															<wp:post_id>7712</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-12 12:19:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-12 12:19:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-12 12:19:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-12 12:19:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[menu-price-elements-image-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7705</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-4.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/menu-price-elements-image-4.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[menu-price-elements-image-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/menu-price/menu-price-elements-image-5/</link>
+					<pubDate>Fri, 12 Nov 2021 12:19:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-5.png</guid>
+															<wp:post_id>7713</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-12 12:19:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-12 12:19:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-12 12:19:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-12 12:19:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[menu-price-elements-image-5]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7705</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/menu-price-elements-image-5.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/menu-price-elements-image-5.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

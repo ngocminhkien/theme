@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Farm gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:27:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/farm-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/farm-gutenberg/wp-content/uploads/sites/32/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Checkout form - Organic farm]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/farm-gutenberg/woodmart_layout/checkout-form-organic-farm/</link>
+					<pubDate>Mon, 12 Aug 2024 07:23:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/farm-gutenberg/?post_type=woodmart_layout&#038;p=379</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"bd58beb3-2489-4b1d-bb26-8ea890c4c720","textAlign":"center","marginTop":"-20","marginBottom":"60","marginBottomTablet":"40"} -->
+<div id="wd-bd58beb3" class="wp-block-wd-container wd-dir-col wd-align"><!-- wp:wd/woo-checkout-steps {"blockId":"283ea54a-1f4d-42a7-b6dd-a4d094645e24"} /-->
+
+<!-- wp:wd/woo-notices {"blockId":"56f77df4-4cbb-4e4c-bc0a-eed290795441"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"0ad211cf-e160-40b1-a4d4-89d07048deed","hook":"woocommerce_before_checkout_form"} /-->
+
+<!-- wp:wd/ch-login-form {"blockId":"eca3b13f-db46-40a7-9ab9-a831f1b69ec3","formBgColorCode":"#ffffff","formBorderType":"none","formBorderRadius":"10","formBorderRadiusTop":"10","formBorderRadiusRight":"10","formBorderRadiusBottom":"10","formBorderRadiusLeft":"10"} /-->
+
+<!-- wp:wd/ch-coupon-form {"blockId":"428d4c21-bb7b-4a16-8eb8-1c2e9f2bc05d","formBgColorCode":"#ffffff","formBorderType":"none","formBorderRadius":"10","formBorderRadiusTop":"10","formBorderRadiusRight":"10","formBorderRadiusBottom":"10","formBorderRadiusLeft":"10"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"16435237-2563-43e3-a106-a4c51e6a7149","hook":"woocommerce_checkout_before_customer_details"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/ch-form {"blockId":"c0a24b64-60c1-4eb8-a68e-365f67c21275","marginBottom":"30","marginBottomMobile":"0"} -->
+<!-- wp:wd/row {"blockId":"d8fec304-ceb0-45ef-b05e-5a29bda4c2db","columnsGap":40,"columnsGapTablet":30} -->
+<div id="wd-d8fec304" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"6327a7ef-0ca4-497a-8cad-c1c104157796"} -->
+<div id="wd-6327a7ef" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"6850fa0e-e96f-4390-aa51-119b882d0af0","content":"Billing details","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-6850fa0e" class="wp-block-wd-title title">Billing details</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ch-billing-details {"blockId":"7ebc4ea1-bd0f-4384-a8f4-f06e348a5d48"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"ea6ec7e1-8490-4db8-961e-670ce1445352","hook":"woocommerce_checkout_after_customer_details"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"6df1bda1-062b-4163-8b66-16c9a29ecfb4","hook":"woocommerce_checkout_billing"} /-->
+
+<!-- wp:wd/ch-shipping-details {"blockId":"ac7e8476-7cce-4630-a953-50af8b5c852c"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"5035a947-bb09-4e53-b29b-cd99a0e9c938","hook":"woocommerce_checkout_shipping"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"4a919ee2-e766-4ca7-976b-a0fdff42ae07"} -->
+<div id="wd-4a919ee2" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"0891766c-5e8c-439b-968c-109b7f7a7b9b","content":"Your order","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-0891766c" class="wp-block-wd-title title">Your order</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/woo-hook {"blockId":"cfcb9554-8971-473d-8235-c28df141ce42","hook":"woocommerce_checkout_before_order_review_heading"} /-->
+
+<!-- wp:wd/ch-order-review {"blockId":"525c6bee-6b71-4df3-87ad-d1ec170f23e6","bgColorCode":"#ffffff","paddingTop":"15","paddingRight":"15","paddingBottom":"15","paddingLeft":"15","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"b0f4196f-f263-4c13-842d-d1149211fc39","hook":"woocommerce_checkout_before_order_review"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"6eda0f44-0c84-49f1-9ee9-53327e2a0da2","hook":"woocommerce_checkout_order_review"} /-->
+
+<!-- wp:wd/ch-payment-methods {"blockId":"6c5ec4f5-d350-45d1-a358-fcec00406637","btnAlign":"stretch","btnAlignMobile":"stretch"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"43d67a41-c598-4d69-8efd-c43e18da3366","hook":"woocommerce_checkout_after_order_review"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"98477352-74c2-422a-b2e7-19d6bae4c5de","hook":"woocommerce_after_checkout_form"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+<!-- /wp:wd/ch-form -->]]></content:encoded>
+															<wp:post_id>379</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-12 07:23:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-12 07:23:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-20 15:42:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-20 15:42:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-form-organic-farm]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_form]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:13:"checkout_form";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

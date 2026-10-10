@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>christmas-2-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 16 Oct 2025 13:53:19 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[About Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/</link>
+					<pubDate>Wed, 22 Oct 2025 11:53:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/?page_id=171</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"10abd54c-e761-4556-a5f9-4a69810781ad","bgImage":{"id":245,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-bg-opt.jpg","width":1920,"height":399},"bgPosition":"top center","bgRepeat":"no-repeat","bgDisplaySize":"contain","paddingTop":"80","paddingBottom":"80","marginTop":"-40","marginBottom":"0","paddingTopTablet":"60","paddingTopMobile":"40","paddingBottomTablet":"60","paddingBottomMobile":"40"} -->
+<div id="wd-10abd54c" class="wp-block-wd-section"><!-- wp:wd/container {"blockId":"2da022d9-d8a8-40f6-b415-163815c6c019","textAlign":"center","displayWidth":"custom","customWidth":"807"} -->
+<div id="wd-2da022d9" class="wp-block-wd-container wd-dir-col wd-align wd-custom-width"><!-- wp:wd/breadcrumbs {"blockId":"488525e2-dbe7-424b-9022-8751b36aa78a"} /-->
+
+<!-- wp:wd/title {"blockId":"3a57c7b8-9543-46ea-93b4-bd983b89aab5","content":"We believe in the magic of Christmas all year round","tpFontSize":"58","tpLineHeight":"1.2","tpFontSizeTablet":"32","tpFontSizeMobile":"26","tpLineHeightUnits":"em"} -->
+<h2 id="wd-3a57c7b8" class="wp-block-wd-title title">We believe in the magic of Christmas all year round</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"326d0495-7f36-4bcf-8c0a-94bd6026c020"} -->
+<p id="wd-326d0495" class="wp-block-wd-paragraph">What started as a small family tradition has grown into a joyful destination for festive enthusiasts everywhere. Our store is dedicated to bringing you the very best in Christmas decorations — from timeless classics to unique finds that spark wonder.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"d5dcc1a4-94ae-441d-a108-8a95e944396c"} -->
+<p id="wd-d5dcc1a4" class="wp-block-wd-paragraph">Every ornament, garland, and twinkling light in our collection is handpicked to help you create unforgettable holiday memories. Whether you’re decorating your first tree or continuing cherished traditions, we’re here to make your season brighter.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/carousel {"blockId":"c31afc43-caba-414d-9d0f-c28f396357b3","currentSlide":2,"paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"marginBottom":"80","slidesPerViewTablet":"2","scrollbarTablet":true,"scrollbarMobile":true,"marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-c31afc43" class="wp-block-wd-carousel wd-carousel-container"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:3;--wd-col-md:2;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/carousel-item {"blockId":"7ea10850-4d8b-4a67-b3cd-ff2042442753"} -->
+<div id="wd-7ea10850" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/container {"blockId":"75639dad-80d2-48e3-a212-77f113d48340","bgImage":{"id":247,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-img-gifts-opt.jpg","width":508,"height":608},"bgPosition":"center center","bgRepeat":"no-repeat","bgDisplaySize":"cover","borderRadius":"4","borderRadiusTop":"4","borderRadiusRight":"4","borderRadiusBottom":"4","borderRadiusLeft":"4","minHeight":"596","minHeightTablet":"420"} -->
+<div id="wd-75639dad" class="wp-block-wd-container wd-dir-col"></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"3f4aa1bf-1f6f-475c-b247-f64e973a2836"} -->
+<div id="wd-3f4aa1bf" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/video {"blockId":"6f6a429e-dd6c-4d25-9f7e-62a8521a8aed","videoHosted":{"id":249,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-video-decorations.mp4"},"videoAutoplay":true,"videoMute":true,"videoLoop":true,"videoControls":false,"videoHeight":"596","videoAspectRatio":"custom","videoHeightTablet":"420"} -->
+<div id="wd-6f6a429e" class="wp-block-wd-video wd-el-video wd-action-without wd-video-hosted"><video playsinline loop muted autoplay src="http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-video-decorations.mp4"></video></div>
+<!-- /wp:wd/video --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"e2ee48f9-3276-4513-b87f-57395c94b193"} -->
+<div id="wd-e2ee48f9" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/container {"blockId":"b60cd374-bfb2-4044-b950-988d278a4a54","bgImage":{"id":248,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-img-christmas-tree-opt.jpg","width":508,"height":608},"bgPosition":"center center","bgRepeat":"no-repeat","bgDisplaySize":"cover","borderRadius":"4","borderRadiusTop":"4","borderRadiusRight":"4","borderRadiusBottom":"4","borderRadiusLeft":"4","minHeight":"596","minHeightTablet":"420"} -->
+<div id="wd-b60cd374" class="wp-block-wd-container wd-dir-col"></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/carousel-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div><div class="wd-nav-scroll wd-hide-lg"></div></div>
+<!-- /wp:wd/carousel -->
+
+<!-- wp:wd/section {"blockId":"5ffc34e2-56f0-4f99-a54c-ddc4adbe8c97","bgImage":{"id":250,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-row-opt.jpg","width":1920,"height":1180},"bgPosition":"center center","bgRepeat":"no-repeat","bgDisplaySize":"cover","marginBottom":"80","minHeight":"486","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-5ffc34e2" class="wp-block-wd-section"></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/container {"blockId":"4c9666df-12a2-41cb-8d8e-12f8cd79ea2b","align":"center","textAlign":"center","rowGap":"10","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-4c9666df" class="wp-block-wd-container wd-dir-col wd-align-is-lg-center wd-align"><!-- wp:wd/title {"blockId":"650b875c-072c-4d23-afd9-88d6a982bdff","content":"What people say?","tpFontSize":"38","tpLineHeight":"1.2","tpFontSizeTablet":"32","tpFontSizeMobile":"26","tpLineHeightUnits":"em"} -->
+<h2 id="wd-650b875c" class="wp-block-wd-title title">What people say?</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"1132ce4c-0bae-4a66-8dcd-28aa593cdd41","displayWidth":"custom","customWidth":"574"} -->
+<p id="wd-1132ce4c" class="wp-block-wd-paragraph wd-custom-width">Get this month’s curated collection of free design assets. Don't miss out on the latest high-quality resources available for download.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/carousel {"blockId":"7d6e877f-d51a-4679-aa02-ea876bf547ca","currentSlide":3,"paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"marginTop":"20","slidesPerViewTablet":"2"} -->
+<div id="wd-7d6e877f" class="wp-block-wd-carousel wd-carousel-container"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:3;--wd-col-md:2;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px;" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/carousel-item {"blockId":"29ae3f1f-5ea2-4ddd-95ef-c3ceee6c420d"} -->
+<div id="wd-29ae3f1f" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/testimonial {"blockId":"c83591b3-3546-43ec-bf48-f34300bb7be7","design":"2","bgColorCode":"#f5f5f5","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"boxShadowBlur":5} -->
+<div id="wd-c83591b3" class="wp-block-wd-testimonial wd-design-2"><!-- wp:wd/container {"blockId":"f2508a09-da08-4309-8fee-4c2ed49980d7","direction":"row","extraClass":"wd-testimonial-heading"} -->
+<div id="wd-f2508a09" class="wp-block-wd-container wd-dir-row wd-testimonial-heading"><!-- wp:wd/image {"blockId":"ba2aa1fe-54e0-477f-800e-1edf065b42e4","image":{"id":251,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-7.png","width":64,"height":64},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-7.png","width":64,"height":64},"displayWidth":"","customWidth":""} -->
+<div id="wd-ba2aa1fe" class="wp-block-wd-image wd-block-image"><img class="wp-image-251" src="http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-7.png" alt=""/></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"f56183ce-56a8-43e6-8e04-c97bd7ae4d0d","textAlign":"start"} -->
+<div id="wd-f56183ce" class="wp-block-wd-container wd-dir-col wd-align"><!-- wp:wd/star-rating {"blockId":"48fe301b-1f81-4969-ba65-03e14b0e7bce"} -->
+<div id="wd-48fe301b" class="wp-block-wd-star-rating"><span class="star-rating"><span style="width:100%"></span></span></div>
+<!-- /wp:wd/star-rating -->
+
+<!-- wp:wd/paragraph {"blockId":"4ec5b8b7-5b80-4d16-991e-e7db4c7ed0aa"} -->
+<p id="wd-4ec5b8b7" class="wp-block-wd-paragraph">Every item I ordered was even more beautiful in person. I’ll definitely be shopping here again next!</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"d939d32f-b4ee-47b0-bf64-f6ab6a43bcd9","markColorCode":"#242424"} -->
+<p id="wd-d939d32f" class="wp-block-wd-paragraph"><span class="wd-highlight"><strong>Linda M.</strong></span> - Vermont</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/testimonial --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"3253f1b6-d798-4f9c-8404-1f92005f89f5"} -->
+<div id="wd-3253f1b6" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/testimonial {"blockId":"359c1c93-b281-4842-93e7-3005e16e3cb2","design":"2","bgColorCode":"#f5f5f5","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"boxShadowBlur":5} -->
+<div id="wd-359c1c93" class="wp-block-wd-testimonial wd-design-2"><!-- wp:wd/container {"blockId":"6924fb35-d53a-4d98-a8a5-57c8df099571","direction":"row","extraClass":"wd-testimonial-heading"} -->
+<div id="wd-6924fb35" class="wp-block-wd-container wd-dir-row wd-testimonial-heading"><!-- wp:wd/image {"blockId":"01a5e126-292c-425b-acfc-c549065d75db","image":{"id":252,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-9.png","width":64,"height":64},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-9.png","width":64,"height":64},"displayWidth":"","customWidth":""} -->
+<div id="wd-01a5e126" class="wp-block-wd-image wd-block-image"><img class="wp-image-252" src="http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-9.png" alt=""/></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"e84a635b-afe4-4bb6-80a3-6ae4948d2fa2","textAlign":"start"} -->
+<div id="wd-e84a635b" class="wp-block-wd-container wd-dir-col wd-align"><!-- wp:wd/star-rating {"blockId":"3f4de1b6-cae9-4daf-8ca6-82cfd18669ad"} -->
+<div id="wd-3f4de1b6" class="wp-block-wd-star-rating"><span class="star-rating"><span style="width:100%"></span></span></div>
+<!-- /wp:wd/star-rating -->
+
+<!-- wp:wd/paragraph {"blockId":"ba610421-ef61-48d0-8908-aaaa96ae43c5"} -->
+<p id="wd-ba610421" class="wp-block-wd-paragraph">Their decorations are unlike anything I’ve found in stores. I love the mix of rustic and elegant styles.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"52355065-d36c-4b3b-9cc3-34f69c3c0bae","markColorCode":"#242424"} -->
+<p id="wd-52355065" class="wp-block-wd-paragraph"><span class="wd-highlight"><strong>Marcus B.</strong></span> - Illinois</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/testimonial --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"549bdfcf-281e-44ee-b608-c128886fd034"} -->
+<div id="wd-549bdfcf" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/testimonial {"blockId":"7ac1ab9d-0756-426c-aaa7-39210481ab89","design":"2","bgColorCode":"#f5f5f5","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"boxShadowBlur":5} -->
+<div id="wd-7ac1ab9d" class="wp-block-wd-testimonial wd-design-2"><!-- wp:wd/container {"blockId":"dc79fc00-31f6-49fb-8bc0-ca7c42ab107a","direction":"row","extraClass":"wd-testimonial-heading"} -->
+<div id="wd-dc79fc00" class="wp-block-wd-container wd-dir-row wd-testimonial-heading"><!-- wp:wd/image {"blockId":"7de85e7b-55c7-4f93-b6db-c6d28511ec64","image":{"id":253,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-2.png","width":64,"height":64},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-2.png","width":64,"height":64},"displayWidth":"","customWidth":""} -->
+<div id="wd-7de85e7b" class="wp-block-wd-image wd-block-image"><img class="wp-image-253" src="http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-2.png" alt=""/></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"3e0dcbff-0582-4c82-b296-4aedb2144a35","textAlign":"start"} -->
+<div id="wd-3e0dcbff" class="wp-block-wd-container wd-dir-col wd-align"><!-- wp:wd/star-rating {"blockId":"b5e9d068-30c2-4e92-b925-9f85a304659e"} -->
+<div id="wd-b5e9d068" class="wp-block-wd-star-rating"><span class="star-rating"><span style="width:100%"></span></span></div>
+<!-- /wp:wd/star-rating -->
+
+<!-- wp:wd/paragraph {"blockId":"d7943bc5-2d65-440d-9a2f-7365692e908c"} -->
+<p id="wd-d7943bc5" class="wp-block-wd-paragraph">I bought a wreath and a set of vintage-style ornaments, and I’m obsessed. The customer service was top-notch.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"be481ab1-6b74-4076-b6e0-cabc3542b5c1","markColorCode":"#242424"} -->
+<p id="wd-be481ab1" class="wp-block-wd-paragraph"><span class="wd-highlight"><strong>Tanya L.</strong></span> - Oregon</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/testimonial --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"de664981-5ceb-4ed8-bc13-59edd5c67031"} -->
+<div id="wd-de664981" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/testimonial {"blockId":"e8e11828-d03d-4442-b202-276de7a18a6d","design":"2","bgColorCode":"#f5f5f5","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"boxShadowBlur":5} -->
+<div id="wd-e8e11828" class="wp-block-wd-testimonial wd-design-2"><!-- wp:wd/container {"blockId":"641678db-cf51-406f-8844-9d8714dcceb8","direction":"row","extraClass":"wd-testimonial-heading"} -->
+<div id="wd-641678db" class="wp-block-wd-container wd-dir-row wd-testimonial-heading"><!-- wp:wd/image {"blockId":"14fa298c-2fb0-4b1f-95c7-fa2f2db751e1","image":{"id":254,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-5.png","width":64,"height":64},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-5.png","width":64,"height":64},"displayWidth":"","customWidth":""} -->
+<div id="wd-14fa298c" class="wp-block-wd-image wd-block-image"><img class="wp-image-254" src="http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-5.png" alt=""/></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"009fad5a-6349-46cb-954a-9b034cd71636","textAlign":"start"} -->
+<div id="wd-009fad5a" class="wp-block-wd-container wd-dir-col wd-align"><!-- wp:wd/star-rating {"blockId":"5975e336-9152-40f5-8aec-3ef10f0dd39c"} -->
+<div id="wd-5975e336" class="wp-block-wd-star-rating"><span class="star-rating"><span style="width:100%"></span></span></div>
+<!-- /wp:wd/star-rating -->
+
+<!-- wp:wd/paragraph {"blockId":"36f25e30-010f-472e-9149-fc5ed6539fba"} -->
+<p id="wd-36f25e30" class="wp-block-wd-paragraph">Every item I ordered was even more beautiful in person. I’ll definitely be shopping here again next!</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"526a8b4b-ade1-4d85-a08c-011ea40cdbd3","markColorCode":"#242424"} -->
+<p id="wd-526a8b4b" class="wp-block-wd-paragraph"><strong><span class="wd-highlight">Harleigh D.</span></strong> - Vermont</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/testimonial --></div>
+<!-- /wp:wd/carousel-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/carousel --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/paragraph {"blockId":"6a0d613e-3dc2-40e4-8eb2-2be6a7cd43a0","textAlign":"center","colorCode":"rgba(50,50,50,0.5)","tpFontVariant":"500","tpFontWeight":"500","marginBottom":"10"} -->
+<p id="wd-6a0d613e" class="wp-block-wd-paragraph wd-align">Show us your holiday coziness by adding #WoodMartChristmas on Instagram</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"921fcc8f-845a-4d96-a74c-19335d6a7b8a","textAlign":"center","content":"Share Your #WoodMartChristmas","tpFontSize":"38","tpLineHeight":"1.2","tpFontSizeTablet":"32","tpFontSizeMobile":"26","tpLineHeightUnits":"em"} -->
+<h2 id="wd-921fcc8f" class="wp-block-wd-title title wd-align">Share Your #WoodMartChristmas</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/instagram {"blockId":"9478435a-b59a-4054-9632-5323eee325ef","username":"xtemos.studio","images":[{"id":234,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-1-opt.jpg","width":244,"height":244},{"id":235,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-2-opt.jpg","width":244,"height":244},{"id":236,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-3-opt.jpg","width":244,"height":244},{"id":237,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-4-opt.jpg","width":244,"height":244},{"id":238,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-5-opt.jpg","width":244,"height":244},{"id":239,"url":"http://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-6-opt.jpg","width":244,"height":244}],"images_link":"https://www.instagram.com/xtemos.studio/","link":"","design":"slider","marginBottom":"20","slides_per_view":"6","hide_pagination_control":true,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"marginBottomMobile":"0","slides_per_viewTablet":"3","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/container {"blockId":"14f631b6-fff0-471d-ac11-59a690bfc811"} -->
+<div id="wd-14f631b6" class="wp-block-wd-container wd-dir-col"></div>
+<!-- /wp:wd/container -->
+<!-- /wp:wd/instagram -->]]></content:encoded>
+															<wp:post_id>171</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 11:53:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 11:53:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 13:42:19]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 13:42:19]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-instagram-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/home-christmas-shop/xms-instagram-1-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:27:23 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-1-opt.jpg</guid>
+															<wp:post_id>234</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:27:23]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:27:23]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:27:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:27:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-instagram-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>169</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-instagram-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-instagram-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/home-christmas-shop/xms-instagram-2-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:27:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-2-opt.jpg</guid>
+															<wp:post_id>235</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:27:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:27:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:27:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:27:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-instagram-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>169</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-instagram-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-instagram-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/home-christmas-shop/xms-instagram-3-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:27:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-3-opt.jpg</guid>
+															<wp:post_id>236</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:27:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:27:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:27:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:27:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-instagram-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>169</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-instagram-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-instagram-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/home-christmas-shop/xms-instagram-4-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:27:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-4-opt.jpg</guid>
+															<wp:post_id>237</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:27:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:27:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:27:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:27:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-instagram-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>169</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-instagram-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-instagram-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/home-christmas-shop/xms-instagram-5-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:27:28 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-5-opt.jpg</guid>
+															<wp:post_id>238</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:27:28]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:27:28]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:27:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:27:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-instagram-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>169</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-instagram-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-instagram-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/home-christmas-shop/xms-instagram-6-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:27:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-6-opt.jpg</guid>
+															<wp:post_id>239</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:27:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:27:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:27:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:27:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-instagram-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>169</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-instagram-6-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-instagram-6-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-about-us-bg-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/xms-about-us-bg-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:30:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-bg-opt.jpg</guid>
+															<wp:post_id>245</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:30:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:30:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:30:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:30:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-about-us-bg-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-bg-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-about-us-bg-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-about-us-img-gifts-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/xms-about-us-img-gifts-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:31:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-img-gifts-opt.jpg</guid>
+															<wp:post_id>247</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:31:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:31:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:31:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:31:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-about-us-img-gifts-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-img-gifts-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-about-us-img-gifts-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-about-us-img-christmas-tree-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/xms-about-us-img-christmas-tree-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:31:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-img-christmas-tree-opt.jpg</guid>
+															<wp:post_id>248</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:31:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:31:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:31:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:31:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-about-us-img-christmas-tree-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-img-christmas-tree-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-about-us-img-christmas-tree-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-about-us-video-decorations]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/xms-about-us-video-decorations/</link>
+					<pubDate>Wed, 22 Oct 2025 12:31:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-video-decorations.mp4</guid>
+															<wp:post_id>249</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:31:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:31:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:31:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:31:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-about-us-video-decorations]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-video-decorations.mp4]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-about-us-video-decorations.mp4]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[xms-about-us-row-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/xms-about-us-row-opt/</link>
+					<pubDate>Wed, 22 Oct 2025 12:31:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-row-opt.jpg</guid>
+															<wp:post_id>250</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:31:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:31:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:31:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:31:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[xms-about-us-row-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/xms-about-us-row-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/xms-about-us-row-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-7]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/c2-tm-p-7/</link>
+					<pubDate>Wed, 22 Oct 2025 12:31:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-7.png</guid>
+															<wp:post_id>251</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:31:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:31:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:31:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:31:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-7]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-7.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/c2-tm-p-7.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-9]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/c2-tm-p-9/</link>
+					<pubDate>Wed, 22 Oct 2025 12:32:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-9.png</guid>
+															<wp:post_id>252</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:32:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:32:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:32:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:32:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-9]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-9.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/c2-tm-p-9.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/c2-tm-p-2/</link>
+					<pubDate>Wed, 22 Oct 2025 12:32:12 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-2.png</guid>
+															<wp:post_id>253</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:32:12]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:32:12]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:32:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:32:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-2.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/c2-tm-p-2.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[c2-tm-p-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/about-us/c2-tm-p-5/</link>
+					<pubDate>Wed, 22 Oct 2025 12:32:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/christmas-shop-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-5.png</guid>
+															<wp:post_id>254</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 12:32:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 12:32:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-22 12:32:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-22 12:32:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[c2-tm-p-5]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/christmas-2-gutenberg/wp-content/uploads/sites/61/2025/10/c2-tm-p-5.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/10/c2-tm-p-5.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>keyboards-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor</link>
+	<description></description>
+	<pubDate>Fri, 10 Apr 2026 13:16:52 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/keyboards-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Keyboards]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-elementor/woodmart_layout/cart-keyboards/</link>
+					<pubDate>Wed, 15 Apr 2026 13:31:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-elementor/?post_type=woodmart_layout&#038;p=872</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-woo-mod-checkout-steps-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-mod-checkout-steps.css?ver=8.4.0" type="text/css" media="all" /> 						<ul>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/cart/">
+						Shopping cart
+					</a>
+				</li>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/checkout/">
+						Checkout
+					</a>
+				</li>
+				<li>
+					Order complete
+				</li>
+			</ul>
+								<link rel="stylesheet" id="wd-woo-el-notices-builder-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-el-notices-builder.css?ver=8.4.0" type="text/css" media="all" /> 							
+							<form action="https://dummy.xtemos.com/woodmart2/keyboards-elementor/cart/" method="post">
+				<table>
+					<thead>
+					<tr>
+						<th>&nbsp;</th>
+						<th>&nbsp;</th>
+						<th scope="col">Product</th>
+						<th scope="col">Price</th>
+						<th scope="col">Quantity</th>
+						<th scope="col">Subtotal</th>
+					</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/cart/?remove_item=ac627ab1ccbdb62ec96e702f07f6425b&#038;_wpnonce=c0e0b2c588" aria-label="Remove Akko Cinnamoroll Star 5108B Plus from cart" data-product_id="99" data-product_sku="25229">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-cinnamoroll-star-5108b-plus/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-300x300.jpeg" alt="Akko Cinnamoroll Star 5108B Plus" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-300x300.jpeg 300w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-150x150.jpeg 150w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-cinnamoroll-star-5108b-plus/">Akko Cinnamoroll Star 5108B Plus</a>		
+					Estimated delivery:				
+				April 17, 2026 – April 19, 2026			
+										</td>
+								<td data-title="Price">
+									<bdi>&#36;119.99</bdi>								</td>
+								<td data-title="Quantity">
+			<input type="button" value="-" aria-label="Decrease quantity" />
+	<label for="quantity_69df9445582b1">Akko Cinnamoroll Star 5108B Plus quantity</label>
+	<input
+		type="number"
+				id="quantity_69df9445582b1"
+		class="input-text qty text"
+		value="2"
+		aria-label="Product quantity"
+				min="0"
+				name="cart[ac627ab1ccbdb62ec96e702f07f6425b][qty]"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			>
+			<input type="button" value="+" aria-label="Increase quantity" />
+								</td>
+								<td data-title="Subtotal">
+									<bdi>&#36;239.98</bdi>								</td>
+							</tr>
+				<tr>
+					<td colspan="12">
+									<label for="coupon_code">
+										Coupon:									</label>
+									<input type="text" name="coupon_code" id="coupon_code" value="" placeholder="Coupon code" />
+									<button type="submit" name="apply_coupon" value="Apply coupon">
+										Apply coupon									</button>
+							<button type="submit" name="update_cart" value="Update cart">
+								Update cart							</button>
+							<input type="hidden" id="woocommerce-cart-nonce" name="woocommerce-cart-nonce" value="c0e0b2c588" /><input type="hidden" name="_wp_http_referer" value="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php" />						
+					</td>
+				</tr>
+								</tbody>
+			</table>
+					</form>
+	<h2>Cart totals</h2>
+	<table cellspacing="0">
+		<tr>
+			<th>Subtotal</th>
+			<td data-title="Subtotal"><bdi>&#36;239.98</bdi></td>
+		</tr>
+			<tr>
+	<th>Shipping</th>
+	<td data-title="Shipping">
+					<ul id="shipping_method">
+									<li>
+						<input type="radio" name="shipping_method[0]" data-index="0" id="shipping_method_0_free_shipping1" value="free_shipping:1"  checked='checked' /><label for="shipping_method_0_free_shipping1">Free shipping</label>					</li>
+									<li>
+						<input type="radio" name="shipping_method[0]" data-index="0" id="shipping_method_0_flat_rate2" value="flat_rate:2"  /><label for="shipping_method_0_flat_rate2">Flat rate: <bdi>&#36;20.00</bdi></label>					</li>
+									<li>
+						<input type="radio" name="shipping_method[0]" data-index="0" id="shipping_method_0_local_pickup3" value="local_pickup:3"  /><label for="shipping_method_0_local_pickup3">Local pickup: <bdi>&#36;25.00</bdi></label>					</li>
+							</ul>
+			</td>
+</tr>
+		<tr>
+			<th>Total</th>
+			<td data-title="Total"><strong><bdi>&#36;239.98</bdi></strong> </td>
+		</tr>
+				<tr>
+			<td colspan="100">
+					<strong>Overall estimated delivery:</strong> April 17, 2026 – April 19, 2026
+			</td>
+		</tr>
+	</table>
+<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/checkout/">
+	Proceed to checkout</a>
+								<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-el-base-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-el-base.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-predefined-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-predefined.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-info-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-info.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-opt-products-bg-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/woo-opt-products-bg.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/lib-swiper.css?ver=8.4.0" type="text/css" media="all" /> 						
+									<h4>You may be interested in…</h4>							
+		<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/4-prong-switch-stem-holder/" tabindex="-1" aria-label="4-Prong Switch Stem Holder">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-everest.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-everest.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-everest-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-everest-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-everest-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/4-prong-switch-stem-holder/">4-Prong Switch Stem Holder</a></h3>					
+						<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product-category/accessories/" rel="tag">Accessories</a>		
+	<bdi>&#36;4.50</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=235" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_235" data-quantity="1" data-product_id="235" data-product_sku="21193" aria-label="Add to cart: &ldquo;4-Prong Switch Stem Holder&rdquo;" rel="nofollow" data-success_message="&ldquo;4-Prong Switch Stem Holder&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/?attachment_id=265" data-id="235" rel="nofollow">
+				Compare
+			</a>
+								<link rel="stylesheet" id="wd-mfp-popup-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/lib-magnific-popup.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-animations-transform-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform.css?ver=8.4.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-transform-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/mod-transform.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<a
+				href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/4-prong-switch-stem-holder/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="235"
+				>
+						Quick view					
+			</a>
+				<a href="" data-key="26578dacfc" data-product-id="235" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/aeboards-staebies-v2-1-stabilizers/" tabindex="-1" aria-label="AEBoards Staebies V2.1 Stabilizers">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/aeboards-staebies-v21-stabilizers-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/glorious-coiled-keyboard-cable.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/glorious-coiled-keyboard-cable.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/glorious-coiled-keyboard-cable-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/glorious-coiled-keyboard-cable-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/glorious-coiled-keyboard-cable-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/aeboards-staebies-v2-1-stabilizers/">AEBoards Staebies V2.1 Stabilizers</a></h3>					
+						<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product-category/accessories/" rel="tag">Accessories</a>		
+	<bdi>&#36;22.00</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=236" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_236" data-quantity="1" data-product_id="236" data-product_sku="32562" aria-label="Add to cart: &ldquo;AEBoards Staebies V2.1 Stabilizers&rdquo;" rel="nofollow" data-success_message="&ldquo;AEBoards Staebies V2.1 Stabilizers&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/?attachment_id=265" data-id="236" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/aeboards-staebies-v2-1-stabilizers/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="236"
+				>
+						Quick view					
+			</a>
+				<a href="" data-key="26578dacfc" data-product-id="236" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-cinnamoroll-star-5108b-plus/" tabindex="-1" aria-label="Akko Cinnamoroll Star 5108B Plus">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-cinnamoroll-star-5108b-plus-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/tx-switch-puller.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/tx-switch-puller.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/tx-switch-puller-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/tx-switch-puller-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/tx-switch-puller-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-cinnamoroll-star-5108b-plus/">Akko Cinnamoroll Star 5108B Plus</a></h3>					
+						<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product-category/keyboards/" rel="tag">Keyboards</a>		
+	<bdi>&#36;119.99</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=99" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_99" data-quantity="1" data-product_id="99" data-product_sku="25229" aria-label="Add to cart: &ldquo;Akko Cinnamoroll Star 5108B Plus&rdquo;" rel="nofollow" data-success_message="&ldquo;Akko Cinnamoroll Star 5108B Plus&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/?attachment_id=265" data-id="99" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-cinnamoroll-star-5108b-plus/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="99"
+				>
+						Quick view					
+			</a>
+				<a href="" data-key="26578dacfc" data-product-id="99" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-v3-matcha-green-pro-linear-switches/" tabindex="-1" aria-label="Akko V3 Matcha Green Pro Linear Switches">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-v3-matcha-green-pro-linear-switches.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-v3-matcha-green-pro-linear-switches.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-v3-matcha-green-pro-linear-switches-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-v3-matcha-green-pro-linear-switches-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/akko-v3-matcha-green-pro-linear-switches-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/lofree-block.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/lofree-block.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/lofree-block-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/lofree-block-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/lofree-block-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-v3-matcha-green-pro-linear-switches/">Akko V3 Matcha Green Pro Linear Switches</a></h3>					
+						<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product-category/switches/" rel="tag">Switches</a>		
+	<bdi>&#36;9.90</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=222" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_222" data-quantity="1" data-product_id="222" data-product_sku="32879" aria-label="Add to cart: &ldquo;Akko V3 Matcha Green Pro Linear Switches&rdquo;" rel="nofollow" data-success_message="&ldquo;Akko V3 Matcha Green Pro Linear Switches&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/?attachment_id=265" data-id="222" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/akko-v3-matcha-green-pro-linear-switches/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="222"
+				>
+						Quick view					
+			</a>
+				<a href="" data-key="26578dacfc" data-product-id="222" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/durock-shrimp-silent-tactile-switches/" tabindex="-1" aria-label="Durock Shrimp Silent Tactile Switches">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-shrimp-silent-tactile-switches.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-shrimp-silent-tactile-switches.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-shrimp-silent-tactile-switches-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-shrimp-silent-tactile-switches-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-shrimp-silent-tactile-switches-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-air60.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-air60.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-air60-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-air60-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/nuphy-air60-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/durock-shrimp-silent-tactile-switches/">Durock Shrimp Silent Tactile Switches</a></h3>					
+						<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product-category/switches/" rel="tag">Switches</a>		
+	<bdi>&#36;9.90</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=230" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_230" data-quantity="1" data-product_id="230" data-product_sku="27677" aria-label="Add to cart: &ldquo;Durock Shrimp Silent Tactile Switches&rdquo;" rel="nofollow" data-success_message="&ldquo;Durock Shrimp Silent Tactile Switches&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/?attachment_id=265" data-id="230" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/durock-shrimp-silent-tactile-switches/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="230"
+				>
+						Quick view					
+			</a>
+				<a href="" data-key="26578dacfc" data-product-id="230" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/durock-v3-stabilizers-screw-in/" tabindex="-1" aria-label="Durock V3 Stabilizers Screw-in">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-v3-stabilizers-screwin.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-v3-stabilizers-screwin.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-v3-stabilizers-screwin-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-v3-stabilizers-screwin-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/durock-v3-stabilizers-screwin-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder.jpeg 700w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/uploads/sites/71/2026/04/4prong-switch-stem-holder-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/durock-v3-stabilizers-screw-in/">Durock V3 Stabilizers Screw-in</a></h3>					
+						<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product-category/accessories/" rel="tag">Accessories</a>		
+	<bdi>&#36;17.99</bdi>
+				<a href="/woodmart2/keyboards-elementor/wp-admin/admin-ajax.php?add-to-cart=233" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_233" data-quantity="1" data-product_id="233" data-product_sku="57595" aria-label="Add to cart: &ldquo;Durock V3 Stabilizers Screw-in&rdquo;" rel="nofollow" data-success_message="&ldquo;Durock V3 Stabilizers Screw-in&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/?attachment_id=265" data-id="233" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/product/durock-v3-stabilizers-screw-in/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="233"
+				>
+						Quick view					
+			</a>
+				<a href="" data-key="26578dacfc" data-product-id="233" rel="nofollow">
+					Add to wishlist
+				</a>
+														<link rel="stylesheet" id="wd-swiper-scrollbar-css" href="https://dummy.xtemos.com/woodmart2/keyboards-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-scrollbar.css?ver=8.4.0" type="text/css" media="all" />]]></content:encoded>
+															<wp:post_id>872</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-15 13:31:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-15 13:31:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-15 13:36:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-15 13:36:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-keyboards]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.0.1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"e87689e","elType":"container","settings":{"flex_direction":"column","flex_gap":{"column":"20","row":"10","isLinked":false,"unit":"px","size":20},"wd_section_stretch":"stretch","background_background":"classic","background_color":"#C1BDFB","wd_color_scheme":"light","border_border":"solid","border_width":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":true},"border_color":"#E9E9E9","border_radius":{"unit":"px","top":"31","right":"31","bottom":"31","left":"31","isLinked":true},"margin":{"unit":"px","top":"-35","right":"0","bottom":"10","left":"0","isLinked":false},"padding":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"padding_tablet":{"unit":"px","top":"30","right":"30","bottom":"0","left":"30","isLinked":false},"scroll_y":-80},"elements":[{"id":"ba25d50","elType":"widget","settings":{"alignment":"center","scroll_y":-80},"elements":[],"widgetType":"wd_wc_checkout_steps"}],"isInner":false},{"id":"be3e2d0","elType":"container","settings":{"flex_gap":{"size":null,"column":"","row":"","unit":"px","isLinked":true},"structure":"22","flex_direction":"row","flex_direction_tablet":"column","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"729f030","elType":"container","settings":{"_column_size":"66","width":{"size":"66.6","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"f93f41a","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"34712e9","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_before_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"3184662","elType":"widget","settings":{"style":"default","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_shipping_progress_bar"},{"id":"1753f3c","elType":"widget","settings":{"scroll_y":"-80","_padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"_background_background":"classic","_background_color":"#FFFFFF","_border_radius":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true}},"elements":[],"widgetType":"wd_cart_table"}],"isInner":"1"},{"id":"95c1965","elType":"container","settings":{"_column_size":"33","width":{"size":"33.4","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","container_sticky_offset":82,"background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"_flex_align_self":"flex-start","container_sticky":"yes"},"elements":[{"id":"ea9f2fb","elType":"widget","settings":{"button_alignment":"full-width","scroll_y":"-80","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":30,"sizes":[]},"title_typography_text_transform":"none","title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]}},"elements":[],"widgetType":"wd_cart_totals"},{"id":"abd5fae","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"}],"isInner":false},{"id":"3e0eff9","elType":"container","settings":{"reverse_order_mobile":"reverse-mobile","reverse_order_tablet":"reverse-tablet","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"e030a27","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_cart_collaterals","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"5918289","elType":"widget","settings":{"layout":"carousel","columns":{"unit":"px","size":"3","sizes":[]},"items_per_page":6,"hide_pagination_control":"yes","scroll_y":"-80","img_size":"medium_large","slides_per_view":{"unit":"px","size":5,"sizes":[]},"sync_parent_id":"wd_65982f4604762","slides_per_view_tablet":{"unit":"px","size":"3","sizes":[]},"element_title":"You may be interested in\u2026","hide_prev_next_buttons":"yes","hide_scrollbar":"","hide_scrollbar_tablet":"","hide_scrollbar_mobile":"","products_with_background":"1","products_background":"#FFFFFF","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":30,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]},"_margin":{"unit":"px","top":"80","right":"0","bottom":"30","left":"0","isLinked":false},"_margin_tablet":{"unit":"px","top":"30","right":"0","bottom":"30","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_products"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_migrations_state_d2a1]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.0.4:9fb84a4d2e603d44034b0c574ad7574d]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

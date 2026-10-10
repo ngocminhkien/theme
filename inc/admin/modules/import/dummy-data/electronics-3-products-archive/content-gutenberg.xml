@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>electronics-3-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/electronics-3-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 20 Aug 2025 12:06:14 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/electronics-3-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/electronics-3-gutenberg/wp-content/uploads/sites/58/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Products archive - Electronics 3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/electronics-3-gutenberg/woodmart_layout/products-archive-electronics-3/</link>
+					<pubDate>Tue, 17 Feb 2026 15:46:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/electronics-3-gutenberg/?post_type=woodmart_layout&#038;p=385</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-breadcrumbs {"blockId":"f9cbba45-7ab2-415d-a764-08b8a95e93bd","blockVersion":"2","nowrapMd":true,"marginTop":"-20","marginBottomTablet":"10"} /-->
+
+<!-- wp:wd/off-canvas {"blockId":"b2142900-bd15-42e3-9dfb-918829224e49","blockVersion":"2","columnsGap":40} -->
+<div class="wp-block-wd-off-canvas wd-b2142900"><!-- wp:wd/off-sidebar {"blockId":"644fe2e9-98b9-4187-a831-523ad241bd02","blockVersion":"2","sidebarWidth":25,"sticky":true,"bgColorCode":"#f4f4f4","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"20","borderRadiusTop":"20","borderRadiusRight":"20","borderRadiusBottom":"20","borderRadiusLeft":"20","alignSelf":"start","paddingTopTablet":"20","paddingRightTablet":"20","paddingBottomTablet":"20","paddingLeftTablet":"20","paddingLockTablet":true,"borderRadiusTablet":"0","borderRadiusTopTablet":"0","borderRadiusRightTablet":"0","borderRadiusBottomTablet":"0","borderRadiusLeftTablet":"0"} -->
+<div class="wp-block-wd-off-sidebar wd-left wd-hide-md-sm wd-hide-sm wd-sticky-on-lg wd-644fe2e9 wd-align-s-start"><div class="wd-heading"><div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener"><span class="wd-action-icon"></span><span class="wd-action-text">Close</span></a></div></div><div class="wd-content"><!-- wp:wd/sidebar {"blockId":"dd6b6bcc-2725-431c-9390-b0713ccecad1","blockVersion":"2","sidebar_id":"sidebar-shop","paddingLock":true} /--></div></div>
+<!-- /wp:wd/off-sidebar -->
+
+<!-- wp:wd/off-content {"blockId":"ccdbe72c-2ce2-41c9-a05d-5993384c4219","blockVersion":"2"} -->
+<div class="wp-block-wd-off-content wd-ccdbe72c"><!-- wp:wd/container {"blockId":"19853d2d-eac6-4792-b209-1ecb404c8ad7","blockVersion":"2","direction":"row","align":"center","wrap":"wrap","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-19853d2d"><!-- wp:wd/sa-archive-title {"blockId":"7980a576-243d-4767-ad61-4765f0720ff7","blockVersion":"2","marginRight":"auto","marginUnits":"custom","displayWidth":"fit-content","tpFontSize":"30","tpLineHeight":"1.2","tpTextTransform":"capitalize","displayWidthTablet":"full-width","tpFontSizeMobile":"24","tpLineHeightUnits":"em"} /-->
+
+<!-- wp:wd/container {"blockId":"17b97c72-9cda-4af1-aed7-52aa8b3f4dbf","blockVersion":"2","direction":"row","align":"center","displayWidth":"fit-content","justifyTablet":"space-between","displayWidthTablet":"full-width"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-17b97c72 wd-custom-width"><!-- wp:wd/off-canvas-button {"blockId":"cbf217d3-a365-444a-9585-a34b8da90cdc","blockVersion":"2","btnContent":"Filters","stickyBtn":false,"hideOnDesktop":true} -->
+<div class="wp-block-wd-off-canvas-button wd-off-canvas-btn wd-action-btn wd-style-text wd-burger-icon wd-hide-lg wd-cbf217d3"><a href="#" rel="nofollow"><span class="wd-action-icon"></span><span class="wd-action-text">Filters</span></a></div>
+<!-- /wp:wd/off-canvas-button -->
+
+<!-- wp:wd/sa-per-page {"blockId":"94c332cb-9234-4c39-bd7e-a5ee1d477627","blockVersion":"2","hideOnTablet":true,"hideOnMobile":true} /-->
+
+<!-- wp:wd/sa-view {"blockId":"dfd095f7-2cb7-4485-851b-6520bc295936","blockVersion":"2","products_columns_variations":"3,4","hideOnTablet":true,"hideOnMobile":true} /-->
+
+<!-- wp:wd/sa-orderby {"blockId":"44d90bfc-b458-426f-8769-7d2201e8b769","blockVersion":"2","mobileIcon":true} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sa-active-filters {"blockId":"bafe19da-4326-4164-8288-6777dab56a39","blockVersion":"2"} /-->
+
+<!-- wp:wd/woo-notices {"blockId":"6661d78a-898d-4039-b5d0-506280a5a230","blockVersion":"2"} /-->
+
+<!-- wp:wd/sa-archive-products {"blockId":"fed295c2-4d62-4c38-bced-c67d1a8552e9","blockVersion":"2"} /--></div>
+<!-- /wp:wd/off-content --></div>
+<!-- /wp:wd/off-canvas -->]]></content:encoded>
+															<wp:post_id>385</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-17 15:46:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-17 15:46:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-24 12:24:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-24 12:24:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-electronics-3]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

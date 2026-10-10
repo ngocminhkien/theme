@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Marketplace 2 gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg</link>
+	<description></description>
+	<pubDate>Fri, 03 Jan 2025 10:11:14 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/wp-content/uploads/sites/43/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>81</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[sidebar-menu-marketplace-2]]></wp:term_slug><wp:term_name><![CDATA[Sidebar menu Marketplace 2]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[FAQs]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/faqs/</link>
+					<pubDate>Thu, 16 Jan 2025 10:57:04 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/?page_id=22</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/off-canvas {"blockId":"7bb0f5fa-72ad-48b0-ab86-681a27155ff4","blockVersion":"2","marginTop":"-20"} -->
+<div class="wp-block-wd-off-canvas wd-7bb0f5fa"><!-- wp:wd/off-sidebar {"blockId":"886d5c94-d0f8-499a-9aa9-b371cbebe3af","blockVersion":"2","sidebarWidth":20,"sticky":true} -->
+<div class="wp-block-wd-off-sidebar wd-left wd-hide-md-sm wd-hide-sm wd-sticky-on-lg wd-886d5c94"><div class="wd-heading"><div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div></div><div class="wd-content"><!-- wp:wd/menu {"blockId":"7244032a-cc79-4fa0-b221-06abaaa75dc8","blockVersion":"2","nav_menu":"81","design":"vertical","dropdown_design":"simple","vertical_items_gap":"l","bgColorCode":"#ffffff","paddingTop":"10","paddingRight":"20","paddingBottom":"10","paddingLeft":"20","borderRadius":"20","borderRadiusTop":"20","borderRadiusRight":"20","borderRadiusBottom":"20","borderRadiusLeft":"20","itemTpFontSize":"16","paddingTopTablet":"0","paddingRightTablet":"0","paddingBottomTablet":"0","paddingLeftTablet":"0"} /--></div></div>
+<!-- /wp:wd/off-sidebar -->
+
+<!-- wp:wd/off-content {"blockId":"305a7b62-c464-444f-adff-25945c4762c4","blockVersion":"2"} -->
+<div class="wp-block-wd-off-content wd-305a7b62"><!-- wp:wd/off-canvas-button {"blockId":"b7b40a93-83a9-403e-bb90-7a0fd69e3e8b","blockVersion":"2","stickyBtn":true,"onlyStickyButton":true,"hideOnDesktop":true} -->
+<div class="wp-block-wd-off-canvas-button wd-off-canvas-btn wd-action-btn wd-style-text wd-burger-icon wd-action-hide-btn wd-hide-lg wd-b7b40a93"><a href="#" rel="nofollow"><span>Show sidebar</span></a><div class="wd-sidebar-opener wd-show-on-scroll wd-action-btn wd-style-icon wd-burger-icon"><a href="#" rel="nofollow"></a></div></div>
+<!-- /wp:wd/off-canvas-button -->
+
+<!-- wp:wd/title {"blockId":"7e0c8ddc-fa94-4486-bdb9-58050268a0d1","blockVersion":"2","content":"Awaiting Order Arrival","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-7e0c8ddc">Awaiting Order Arrival</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/accordion {"blockId":"dc0d3bcd-8d2f-474f-b7e6-5344c703b700","blockVersion":"2","design":"simple","allClosed":true,"paneSize":15,"titleTpFontSize":"18","titlesColorCode":"#242424","titlesHoverColorVariable":"\u002d\u002dwd-primary-color","titlesActiveColorVariable":"\u002d\u002dwd-primary-color","bgColorCode":"#ffffff","paddingTop":"15","paddingRight":"30","paddingBottom":"15","paddingLeft":"30","marginBottom":"40","borderRadius":"20","borderRadiusTop":"20","borderRadiusRight":"20","borderRadiusBottom":"20","borderRadiusLeft":"20"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-simple wd-titles-start wd-opener-style-arrow wd-opener-pos-end wd-dc0d3bcd" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"2c377971-4bde-478e-a43c-0e8c78260a23","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-2c377971"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>I received my order after getting a refund. What can I do?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"2cd8a34d-c5c7-4e24-9323-ac8cf104c0e7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-2cd8a34d">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"8e062d43-dd8f-4622-b01b-1bf99a945dc8","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-8e062d43"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>I haven't received my order. What should I do?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"50716d7f-5d1e-4134-97ab-d1bacbc367c1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-50716d7f">Check the email you received after placing your order. It should contain information about the status of your order and the expected delivery date.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"cf75e4ec-8ed1-4883-bced-16b298ef76b0","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-cf75e4ec"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>What if the package is held by customs?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"85319e45-d32f-4ad4-8408-5c65aefa7068","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-85319e45">If the contents of the parcel are suspicious to customs officers (for example, many identical goods), it may be further checked.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"6e2ad147-c3ff-4ece-90df-7fd0306e1295","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-6e2ad147"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>If the resolution time for the dispute is excessively prolonged, and you prefer not to wait, what actions should be taken?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"f8824bce-7916-4cf5-9b6b-ab0f36e0d7e8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f8824bce">If all other options fail, you may need to consider taking legal action. This can be a lengthy and costly process, so it's important to weigh the potential benefits against the risks and costs.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"f8a378e0-8d6e-47c7-8dda-aa281721e7e4","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-f8a378e0"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>When will I receive my order?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"d99f45cf-be3b-45d3-8cb7-d49a37626bf7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d99f45cf">Track the status of your order: Woodmart marketplace provides the ability to track the status of an order by tracking number.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion -->
+
+<!-- wp:wd/title {"blockId":"99df4369-687b-4c48-b53f-128f278edb18","blockVersion":"2","content":"Ordering \u0026amp; Payment","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-99df4369">Ordering &amp; Payment</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/accordion {"blockId":"1cf94c3e-58c7-4fec-817c-f0f8ccca66c8","blockVersion":"2","design":"simple","allClosed":true,"paneSize":15,"titleTpFontSize":"18","titlesColorCode":"#242424","titlesHoverColorVariable":"\u002d\u002dwd-primary-color","titlesActiveColorVariable":"\u002d\u002dwd-primary-color","bgColorCode":"#ffffff","paddingTop":"15","paddingRight":"30","paddingBottom":"15","paddingLeft":"30","marginBottom":"40","borderRadius":"20","borderRadiusTop":"20","borderRadiusRight":"20","borderRadiusBottom":"20","borderRadiusLeft":"20"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-simple wd-titles-start wd-opener-style-arrow wd-opener-pos-end wd-1cf94c3e" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"fe32098c-342e-44c9-b7b7-5cfe9b1f0d65","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-fe32098c"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>My order hasn't arrived yet. Where is it?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"2cd8a34d-c5c7-4e24-9323-ac8cf104c0e7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-2cd8a34d">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"bcb76807-195f-463d-9f87-e388e664427e","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-bcb76807"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do you deliver on public holidays?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"50716d7f-5d1e-4134-97ab-d1bacbc367c1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-50716d7f">Check the email you received after placing your order. It should contain information about the status of your order and the expected delivery date.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"022562f6-743e-47e8-b4e6-ab4580e76e08","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-022562f6"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do you deliver to my postcode?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"85319e45-d32f-4ad4-8408-5c65aefa7068","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-85319e45">If the contents of the parcel are suspicious to customs officers (for example, many identical goods), it may be further checked.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"3fdc57fb-58ef-4ad1-91bc-d1779f73140b","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-3fdc57fb"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Is next-day delivery available on all orders?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"f8824bce-7916-4cf5-9b6b-ab0f36e0d7e8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f8824bce">If all other options fail, you may need to consider taking legal action. This can be a lengthy and costly process, so it's important to weigh the potential benefits against the risks and costs.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"ca92662b-18fe-4c0d-800d-4ef97b791a38","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-ca92662b"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do I need to be there to sign for delivery?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"d99f45cf-be3b-45d3-8cb7-d49a37626bf7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d99f45cf">Track the status of your order: Woodmart marketplace provides the ability to track the status of an order by tracking number.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion -->
+
+<!-- wp:wd/title {"blockId":"c91851fc-059d-41f4-a77a-cf4843ad867d","blockVersion":"2","content":"After sales","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-c91851fc">After sales</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/accordion {"blockId":"5e63c388-88f3-441d-b039-40d5eb3227bb","blockVersion":"2","design":"simple","allClosed":true,"paneSize":15,"titleTpFontSize":"18","titlesColorCode":"#242424","titlesHoverColorVariable":"\u002d\u002dwd-primary-color","titlesActiveColorVariable":"\u002d\u002dwd-primary-color","bgColorCode":"#ffffff","paddingTop":"15","paddingRight":"30","paddingBottom":"15","paddingLeft":"30","marginBottom":"40","borderRadius":"20","borderRadiusTop":"20","borderRadiusRight":"20","borderRadiusBottom":"20","borderRadiusLeft":"20"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-simple wd-titles-start wd-opener-style-arrow wd-opener-pos-end wd-5e63c388" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"3ebf7b82-9ecc-4456-be76-0c1bf15c244f","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-3ebf7b82"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>I received my order after getting a refund. What can I do?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"2cd8a34d-c5c7-4e24-9323-ac8cf104c0e7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-2cd8a34d">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"f7b707d7-106d-4988-ae49-7cbf880c8c58","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-f7b707d7"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>I haven't received my order. What should I do?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"50716d7f-5d1e-4134-97ab-d1bacbc367c1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-50716d7f">Check the email you received after placing your order. It should contain information about the status of your order and the expected delivery date.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"cf5c0d95-da4b-46f9-82cd-ca9c550cd143","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-cf5c0d95"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>What if the package is held by customs?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"85319e45-d32f-4ad4-8408-5c65aefa7068","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-85319e45">If the contents of the parcel are suspicious to customs officers (for example, many identical goods), it may be further checked.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"84c7a7c6-72cf-4cbd-b662-29a0bdc7ac1f","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-84c7a7c6"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>If the resolution time for the dispute is excessively prolonged, and you prefer not to wait, what actions should be taken?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"f8824bce-7916-4cf5-9b6b-ab0f36e0d7e8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f8824bce">If all other options fail, you may need to consider taking legal action. This can be a lengthy and costly process, so it's important to weigh the potential benefits against the risks and costs.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"9bccc049-aac4-4f26-bfcc-df5d71b1375c","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-9bccc049"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>When will I receive my order?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"d99f45cf-be3b-45d3-8cb7-d49a37626bf7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d99f45cf">Track the status of your order: Woodmart marketplace provides the ability to track the status of an order by tracking number.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion -->
+
+<!-- wp:wd/title {"blockId":"1db97ec0-5cbf-4774-8b96-f0d24f193829","blockVersion":"2","content":"Refund","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-1db97ec0">Refund</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/accordion {"blockId":"6928f40c-ef4b-48bf-aba9-5e8839db41df","blockVersion":"2","design":"simple","allClosed":true,"paneSize":15,"titleTpFontSize":"18","titlesColorCode":"#242424","titlesHoverColorVariable":"\u002d\u002dwd-primary-color","titlesActiveColorVariable":"\u002d\u002dwd-primary-color","bgColorCode":"#ffffff","paddingTop":"15","paddingRight":"30","paddingBottom":"15","paddingLeft":"30","borderRadius":"20","borderRadiusTop":"20","borderRadiusRight":"20","borderRadiusBottom":"20","borderRadiusLeft":"20"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-simple wd-titles-start wd-opener-style-arrow wd-opener-pos-end wd-6928f40c" data-state="all"><!-- wp:wd/accordion-pane {"blockId":"f8982cd0-6c3d-497f-9d51-45d622a0163c","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-f8982cd0"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>My order hasn't arrived yet. Where is it?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"2cd8a34d-c5c7-4e24-9323-ac8cf104c0e7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-2cd8a34d">Keep the product in its original packaging along with all documents confirming the purchase and refund. You will need this for further communication with the seller and the payment system.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"db494923-c9fa-4acf-bb72-5654746d4f18","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-db494923"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do you deliver on public holidays?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"50716d7f-5d1e-4134-97ab-d1bacbc367c1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-50716d7f">Check the email you received after placing your order. It should contain information about the status of your order and the expected delivery date.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"825e810e-82f8-4c84-8ddd-34d952a31d61","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-825e810e"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do you deliver to my postcode?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"85319e45-d32f-4ad4-8408-5c65aefa7068","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-85319e45">If the contents of the parcel are suspicious to customs officers (for example, many identical goods), it may be further checked.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"8651f67d-acd7-4068-b775-d5f15d11be74","blockVersion":"2","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthBottom":"1"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-8651f67d"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Is next-day delivery available on all orders?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"f8824bce-7916-4cf5-9b6b-ab0f36e0d7e8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f8824bce">If all other options fail, you may need to consider taking legal action. This can be a lengthy and costly process, so it's important to weigh the potential benefits against the risks and costs.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"6982f1ec-c8bb-4e7c-955a-d1e8a6567c8b","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-6982f1ec"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Do I need to be there to sign for delivery?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"d99f45cf-be3b-45d3-8cb7-d49a37626bf7","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d99f45cf">Track the status of your order: Woodmart marketplace provides the ability to track the status of an order by tracking number.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/off-content --></div>
+<!-- /wp:wd/off-canvas -->]]></content:encoded>
+															<wp:post_id>22</wp:post_id>
+					<wp:post_date><![CDATA[2025-01-16 10:57:04]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-01-16 10:57:04]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-13 10:21:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-13 10:21:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[faqs]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/2025/01/16/265/</link>
+					<pubDate>Thu, 16 Jan 2025 12:24:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/?p=265</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>265</wp:post_id>
+					<wp:post_date><![CDATA[2025-01-16 12:24:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-16 12:24:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[265]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="sidebar-menu-marketplace-2"><![CDATA[Sidebar menu Marketplace 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[16]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/2025/01/16/266/</link>
+					<pubDate>Thu, 16 Jan 2025 12:24:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/?p=266</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>266</wp:post_id>
+					<wp:post_date><![CDATA[2025-01-16 12:24:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-16 12:24:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[266]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>6</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="sidebar-menu-marketplace-2"><![CDATA[Sidebar menu Marketplace 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[20]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/2025/01/16/267/</link>
+					<pubDate>Thu, 16 Jan 2025 12:24:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/?p=267</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>267</wp:post_id>
+					<wp:post_date><![CDATA[2025-01-16 12:24:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-16 12:24:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[267]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="sidebar-menu-marketplace-2"><![CDATA[Sidebar menu Marketplace 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[22]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/2025/01/16/268/</link>
+					<pubDate>Thu, 16 Jan 2025 12:24:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/?p=268</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>268</wp:post_id>
+					<wp:post_date><![CDATA[2025-01-16 12:24:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-16 12:24:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[268]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>4</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="sidebar-menu-marketplace-2"><![CDATA[Sidebar menu Marketplace 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[26]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/2025/01/16/269/</link>
+					<pubDate>Thu, 16 Jan 2025 12:24:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/?p=269</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>269</wp:post_id>
+					<wp:post_date><![CDATA[2025-01-16 12:24:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-16 12:24:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[269]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="sidebar-menu-marketplace-2"><![CDATA[Sidebar menu Marketplace 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[28]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/2025/01/16/270/</link>
+					<pubDate>Thu, 16 Jan 2025 12:24:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/marketplace2-gutenberg/?p=270</guid>
+											<content:encoded><![CDATA[ ]]></content:encoded>
+															<wp:post_id>270</wp:post_id>
+					<wp:post_date><![CDATA[2025-01-16 12:24:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-16 12:24:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-16 12:24:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[270]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>5</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="sidebar-menu-marketplace-2"><![CDATA[Sidebar menu Marketplace 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

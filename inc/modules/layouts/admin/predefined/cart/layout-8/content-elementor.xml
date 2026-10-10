@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>christmas-2-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/christmas-2-elementor</link>
+	<description></description>
+	<pubDate>Thu, 16 Oct 2025 13:52:55 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/christmas-2-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Christmas 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/christmas-2-elementor/woodmart_layout/cart-christmas-2/</link>
+					<pubDate>Wed, 22 Oct 2025 16:09:36 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/christmas-shop-elementor/?post_type=woodmart_layout&#038;p=1224</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=8.3.3" type="text/css" media="all" /> 					
+			<p>1</p>
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.3.3" type="text/css" media="all" /> 					
+				<h4>Check your selected products</h4> 
+							<form action="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/cart/" method="post">
+				<table>
+					<thead>
+					<tr>
+						<th>&nbsp;</th>
+						<th>&nbsp;</th>
+						<th scope="col">Product</th>
+						<th scope="col">Price</th>
+						<th scope="col">Quantity</th>
+						<th scope="col">Subtotal</th>
+					</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<a role="button" href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/cart/?remove_item=f0935e4cd5920aa6c7c996a5ee53a70f&#038;_wpnonce=db894cb8e9" aria-label="Remove Amanda paper star Christmas decoration 3-pack from cart" data-product_id="106" data-product_sku="CD009">&times;</a>							</td>
+							<td>
+								<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/amanda-paper-star-christmas-decoration-3-pack/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/amanda-paper-star-christmas-decoration-3pack-300x300.jpeg" alt="Amanda paper star Christmas decoration 3-pack" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/amanda-paper-star-christmas-decoration-3pack-300x300.jpeg 300w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/amanda-paper-star-christmas-decoration-3pack-150x150.jpeg 150w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>							</td>
+							<td data-title="Product">
+								<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/amanda-paper-star-christmas-decoration-3-pack/">Amanda paper star Christmas decoration 3-pack</a>								</td>
+								<td data-title="Price">
+									<bdi>&#36;8.99</bdi>								</td>
+								<td data-title="Quantity">
+			<input type="button" value="-" aria-label="Decrease quantity" />
+	<label for="quantity_6900be2e9b2a3">Amanda paper star Christmas decoration 3-pack quantity</label>
+	<input
+		type="number"
+				id="quantity_6900be2e9b2a3"
+		class="input-text qty text"
+		value="1"
+		aria-label="Product quantity"
+				min="0"
+				name="cart[f0935e4cd5920aa6c7c996a5ee53a70f][qty]"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			>
+			<input type="button" value="+" aria-label="Increase quantity" />
+								</td>
+								<td data-title="Subtotal">
+									<bdi>&#36;8.99</bdi>								</td>
+							</tr>
+				<tr>
+					<td colspan="12">
+									<label for="coupon_code">
+										Coupon:									</label>
+									<input type="text" name="coupon_code" id="coupon_code" value="" placeholder="Coupon code" />
+									<button type="submit" name="apply_coupon" value="Apply coupon">
+										Apply coupon									</button>
+							<button type="submit" name="update_cart" value="Update cart">
+								Update cart							</button>
+							<input type="hidden" id="woocommerce-cart-nonce" name="woocommerce-cart-nonce" value="db894cb8e9" /><input type="hidden" name="_wp_http_referer" value="/woodmart2/christmas-2-elementor/wp-admin/admin-ajax.php" />						
+					</td>
+				</tr>
+								</tbody>
+			</table>
+					</form>
+			<p>2</p>
+				<h4>Choose your free gift</h4> 
+			<p>To place your gifts here, you need to go to Dashboard -&gt; Products -&gt; Free gifts -&gt; Add new and create new gift products. You can find out more on the <a href="https://xtemos.com/docs-topic/free-gifts/">documentation page</a>.</p>
+	<h4>
+		Choose your gifts	</h4>
+<table>
+	<tbody>
+					<tr>
+			<td>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/wing-angels-natural/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wing-angels-natural-300x300.jpeg" alt="Wing Angels - Natural" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wing-angels-natural-300x300.jpeg 300w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/wing-angels-natural-150x150.jpeg 150w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>			</td>
+			<td data-title="Product">
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/wing-angels-natural/">Wing Angels - Natural</a>			</td>
+			<td>
+				<a data-product-id="109" data-security="462ddbc8fb" href="#">
+					Add to cart				</a>
+			</td>
+		</tr>
+					<tr>
+			<td>
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/nobili-tealight-holder-high/"><img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/nobili-tealight-holder-high-300x300.jpeg" alt="Nobili Tealight Holder High" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/nobili-tealight-holder-high-300x300.jpeg 300w, https://dummy.xtemos.com/woodmart2/christmas-2-elementor/wp-content/uploads/sites/60/2025/10/nobili-tealight-holder-high-150x150.jpeg 150w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a>			</td>
+			<td data-title="Product">
+				<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/product/nobili-tealight-holder-high/">Nobili Tealight Holder High</a>			</td>
+			<td>
+				<a data-product-id="104" data-security="e4aeaea8a9" href="#">
+					Add to cart				</a>
+			</td>
+		</tr>
+		</tbody>
+</table>
+	<h2>Cart totals</h2>
+	<table cellspacing="0">
+		<tr>
+			<th>Subtotal</th>
+			<td data-title="Subtotal"><bdi>&#36;8.99</bdi></td>
+		</tr>
+		<tr>
+			<th>Total</th>
+			<td data-title="Total"><strong><bdi>&#36;8.99</bdi></strong> </td>
+		</tr>
+	</table>
+<a href="https://dummy.xtemos.com/woodmart2/christmas-2-elementor/checkout/">
+	Proceed to checkout</a>]]></content:encoded>
+															<wp:post_id>1224</wp:post_id>
+					<wp:post_date><![CDATA[2025-10-22 16:09:36]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-10-22 16:09:36]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-10-28 12:59:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-10-28 12:59:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-christmas-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"4f0bcadc","elType":"container","settings":{"flex_gap":{"size":"40","column":"40","row":"30","unit":"px","isLinked":""},"structure":"22","flex_direction":"row","flex_direction_tablet":"column","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"1edce28b","elType":"container","settings":{"_column_size":"66","width":{"size":"66.6","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","container_sticky_offset":"50","flex_gap":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30}},"elements":[{"id":"69a38b31","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"64841a0b","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_before_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"2969ca0","elType":"container","settings":{"content_position":"middle","background_background":"classic","background_color":"#E1EDEB","border_radius":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":"1"},"padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":""},"flex_direction":"row","flex_align_items":"center","flex_gap":{"size":"15","column":"15","row":"15","unit":"px","isLinked":"1"},"content_width":"full","container_sticky_offset":"50","scroll_y":"-80","background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"background_gradient_position_tablet":"center center","background_gradient_position_mobile":"center center","background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"background_hover_gradient_position_tablet":"center center","background_hover_gradient_position_mobile":"center center","background_overlay_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_overlay_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_overlay_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"background_overlay_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"background_overlay_gradient_position_tablet":"center center","background_overlay_gradient_position_mobile":"center center","background_overlay_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_overlay_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_overlay_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"background_overlay_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"background_overlay_hover_gradient_position_tablet":"center center","background_overlay_hover_gradient_position_mobile":"center center"},"elements":[{"id":"1ab21d7","elType":"widget","settings":{"text":"<p>1<\/p>","typography_typography":"custom","typography_font_family":"Urbanist","typography_font_size":{"unit":"px","size":"16","sizes":[]},"text_color":"custom","custom_text_color":"#FFFFFF","_padding":{"unit":"px","top":"5","right":"15","bottom":"5","left":"15","isLinked":""},"_element_width":"auto","scroll_y":"-80","_background_background":"classic","_background_color":"#138670","_border_radius":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":"1"},"_border_radius_tablet":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":"1"},"_border_radius_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":"1"},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":"","sizes":[]},"typography_word_spacing":{"unit":"em","size":"","sizes":[]},"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_gradient_position_tablet":"center center","_background_gradient_position_mobile":"center center","_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_position_tablet":"center center","_background_hover_gradient_position_mobile":"center center"},"elements":[],"widgetType":"wd_text_block"},{"id":"f7c3258","elType":"widget","settings":{"subtitle":"","title":"Check your selected products","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"24","sizes":[]},"_element_width":"auto","scroll_y":"-80","title_typography_font_size_tablet":{"unit":"px","size":"22","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"color_gradient_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"color_gradient_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"color_gradient_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"color_gradient_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"color_gradient_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"color_gradient_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"color_gradient_gradient_position_tablet":"center center","color_gradient_gradient_position_mobile":"center center","subtitle_typography_line_height":{"unit":"em","size":"","sizes":[]},"subtitle_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"title_typography_line_height":{"unit":"em","size":"","sizes":[]},"title_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"text_typography_line_height":{"unit":"em","size":"","sizes":[]},"text_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_gradient_position_tablet":"center center","_background_gradient_position_mobile":"center center","_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_position_tablet":"center center","_background_hover_gradient_position_mobile":"center center"},"elements":[],"widgetType":"wd_title"}],"isInner":"1"},{"id":"33974b09","elType":"widget","settings":{"scroll_y":"-80","_margin":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_cart_table"},{"id":"0389302","elType":"container","settings":{"content_position":"middle","background_background":"classic","background_color":"#E1EDEB","border_radius":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":"1"},"padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":""},"flex_direction":"row","flex_align_items":"center","flex_gap":{"size":"15","column":"15","row":"15","unit":"px","isLinked":"1"},"content_width":"full","container_sticky_offset":"50","scroll_y":"-80","background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"background_gradient_position_tablet":"center center","background_gradient_position_mobile":"center center","background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"background_hover_gradient_position_tablet":"center center","background_hover_gradient_position_mobile":"center center","background_overlay_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_overlay_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_overlay_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"background_overlay_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"background_overlay_gradient_position_tablet":"center center","background_overlay_gradient_position_mobile":"center center","background_overlay_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_overlay_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"background_overlay_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"background_overlay_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"background_overlay_hover_gradient_position_tablet":"center center","background_overlay_hover_gradient_position_mobile":"center center"},"elements":[{"id":"eec13f3","elType":"widget","settings":{"text":"<p>2<\/p>","typography_typography":"custom","typography_font_family":"Urbanist","typography_font_size":{"unit":"px","size":"16","sizes":[]},"text_color":"custom","custom_text_color":"#FFFFFF","_padding":{"unit":"px","top":"5","right":"15","bottom":"5","left":"15","isLinked":""},"_element_width":"auto","scroll_y":"-80","_background_background":"classic","_background_color":"#138670","_border_radius":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":"1"},"_border_radius_tablet":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":"1"},"_border_radius_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":"1"},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":"","sizes":[]},"typography_word_spacing":{"unit":"em","size":"","sizes":[]},"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_gradient_position_tablet":"center center","_background_gradient_position_mobile":"center center","_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_position_tablet":"center center","_background_hover_gradient_position_mobile":"center center"},"elements":[],"widgetType":"wd_text_block"},{"id":"602fe51","elType":"widget","settings":{"subtitle":"","title":"Choose your free gift","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"24","sizes":[]},"_element_width":"auto","scroll_y":"-80","title_typography_font_size_tablet":{"unit":"px","size":"22","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"color_gradient_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"color_gradient_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"color_gradient_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"color_gradient_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"color_gradient_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"color_gradient_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"color_gradient_gradient_position_tablet":"center center","color_gradient_gradient_position_mobile":"center center","subtitle_typography_line_height":{"unit":"em","size":"","sizes":[]},"subtitle_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"title_typography_line_height":{"unit":"em","size":"","sizes":[]},"title_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"text_typography_line_height":{"unit":"em","size":"","sizes":[]},"text_typography_word_spacing":{"unit":"em","size":"","sizes":[]},"_background_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_gradient_position_tablet":"center center","_background_gradient_position_mobile":"center center","_background_hover_color_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_tablet":{"unit":"%","size":"","sizes":[]},"_background_hover_color_b_stop_mobile":{"unit":"%","size":"","sizes":[]},"_background_hover_gradient_angle_tablet":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_angle_mobile":{"unit":"deg","size":"","sizes":[]},"_background_hover_gradient_position_tablet":"center center","_background_hover_gradient_position_mobile":"center center"},"elements":[],"widgetType":"wd_title"}],"isInner":"1"},{"id":"826526b","elType":"widget","settings":{"text":"<p>To place your gifts here, you need to go to Dashboard -&gt; Products -&gt; Free gifts -&gt; Add new and create new gift products. You can find out more on the <a href=\"https:\/\/xtemos.com\/docs-topic\/free-gifts\/\">documentation page<\/a>.<\/p>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"},{"id":"713ca09","elType":"widget","settings":{"title_typography_typography":"custom","scroll_y":-80},"elements":[],"widgetType":"wd_cart_free_gifts"}],"isInner":"1"},{"id":"749e1340","elType":"container","settings":{"_column_size":"33","width":{"size":"33.4","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"1c7dc6e0","elType":"container","settings":{"border_width":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":"1"},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":"1"},"flex_direction":"row","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"content_width":"full","scroll_y":"-80","background_background":"classic","background_color":"#E1EDEB","border_radius":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":true},"container_sticky":"yes"},"elements":[{"id":"3bd648bd","elType":"container","settings":{"_column_size":"100","width":{"size":"","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"14502dd4","elType":"widget","settings":{"button_alignment":"full-width","scroll_y":"-80","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":24,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":22,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":20,"sizes":[]},"title_typography_text_transform":"none"},"elements":[],"widgetType":"wd_cart_totals"},{"id":"7b1c0281","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_cart","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"}],"isInner":"1"}],"isInner":"1"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.28.0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

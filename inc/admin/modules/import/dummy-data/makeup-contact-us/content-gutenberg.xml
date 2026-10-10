@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>makup-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 23 Oct 2024 13:23:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/makeup-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form alternative]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/?post_type=wpcf7_contact_form&#038;p=13</link>
+					<pubDate>Mon, 28 Oct 2024 14:48:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/makeup-gutenberg/?post_type=wpcf7_contact_form&#038;p=13</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* your-name placeholder ="Your name"]</div>
+<div class="wd-col">[email* your-email placeholder ="Your Email"]</div>
+</div>
+<div>[text* your-message placeholder ="Customer care"]</div>
+<div>[textarea your-message placeholder ="Your Message"]</div>
+<div>[submit "Ask a question"]</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+
+
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>13</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 14:48:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 14:48:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-24 12:02:14]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-24 12:02:14]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* your-name placeholder ="Your name"]</div>
+<div class="wd-col">[email* your-email placeholder ="Your Email"]</div>
+</div>
+<div>[text* your-message placeholder ="Customer care"]</div>
+<div>[textarea your-message placeholder ="Your Message"]</div>
+<div>[submit "Ask a question"]</div>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[10ed2774205d9ab24a865855938f49080a3da48a]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:3:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}s:13:"mail_2.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}s:16:"mail_2.recipient";a:1:{i:0;a:2:{s:4:"code";s:31:"unsafe_email_without_protection";s:4:"args";a:3:{s:7:"message";s:58:"Unsafe email config is used without sufficient protection.";s:6:"params";a:0:{}s:4:"link";s:77:"https://contactform7.com/configuration-errors/unsafe-email-without-protection";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/contact-us/</link>
+					<pubDate>Mon, 28 Oct 2024 14:50:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/makeup-gutenberg/?page_id=66</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/open-street-map {"blockId":"94f33f3a-915f-4fe3-a212-13f148ca8fce","blockVersion":"2","marginTop":"-20","marginBottom":"80","zoom":15,"height":"540","locations":[{"title":"","lat":"51.50735","lon":"-0.12776","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"}],"marginBottomTablet":"60","marginBottomMobile":"40","heightTablet":"420"} -->
+<div class="wp-block-wd-open-street-map wd-map-container wd-osm-map-container wd-94f33f3a"><div id="wd-osm-map-94f33f3a-915f-4fe3-a212-13f148ca8fce" class="wd-osm-map-wrapper wd-map-wrapper" data-settings="{&quot;zoom&quot;:15,&quot;scrollWheelZoom&quot;:&quot;no&quot;,&quot;zoomControl&quot;:&quot;yes&quot;,&quot;dragging&quot;:&quot;yes&quot;,&quot;init_type&quot;:&quot;page_load&quot;,&quot;init_offset&quot;:100,&quot;geoapify_tile&quot;:&quot;osm-carto&quot;,&quot;center&quot;:&quot;51.50735000000001,-0.12776&quot;,&quot;markers&quot;:[{&quot;lat&quot;:&quot;51.50735&quot;,&quot;lng&quot;:&quot;-0.12776&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}}]}"></div></div>
+<!-- /wp:wd/open-street-map -->
+
+<!-- wp:wd/row {"blockId":"88b2ed3a-8956-43bb-a209-fe97428e0981","blockVersion":"2","columnsGap":20,"marginBottom":"20"} -->
+<div class="wp-block-wd-row wd-88b2ed3a"><!-- wp:wd/column {"blockId":"00643248-bf8a-4f74-9f30-7598b82bd9d0","blockVersion":"2","adjacentCount":2,"colWidth":50,"colorScheme":"light","bgColorCode":"#a1cfde","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","adjacentCountTablet":1,"colWidthTablet":100,"paddingTopMobile":"20","paddingRightMobile":"20","paddingBottomMobile":"20","paddingLeftMobile":"20","paddingLockMobile":true} -->
+<div class="wp-block-wd-column color-scheme-light wd-00643248"><!-- wp:wd/title {"blockId":"769d8504-4a80-436b-939f-031c50deaf20","blockVersion":"2","content":"Address","tpFontSize":"28","tpLineHeight":"1.2","displayWidth":"","customWidth":"","tpFontSizeTablet":"24","tpFontSizeMobile":"22","tpLineHeightUnits":"em","customWidthTablet":"2000"} -->
+<h2 class="wp-block-wd-title title wd-769d8504">Address</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"fb60afd4-85da-45c2-88a3-ad99201b6794","blockVersion":"2","tpTextDecoration":"underline","tpTextDecorationThickness":"2","tpTextUnderlineOffset":"6"} -->
+<p class="wp-block-wd-paragraph wd-fb60afd4">2116 W McCormick St, Wichita, KS 67213, USA</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"da495c94-aea3-41d2-95e9-3caab72f5a52","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-da495c94">Monday - Tuesday 10.00am - 6.00pm (By Appointment Only)<br>Wednesday - Saturday, 11.00am – 5.00pm<br>Sunday, Closed</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/row {"blockId":"7851013d-f49e-4bff-a9d9-16a3ac49ff4c","blockVersion":"2","marginTop":"20","columnsGapMobile":40} -->
+<div class="wp-block-wd-row wd-7851013d"><!-- wp:wd/column {"blockId":"72048f8f-630a-4231-8274-cf1e6c3bc9ff","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-72048f8f"><!-- wp:wd/title {"blockId":"d7ed796a-6754-4036-a72f-66d49d7227f0","blockVersion":"2","content":"Phone","tpFontSize":"28","tpLineHeight":"1.2","displayWidth":"","customWidth":"","tpFontSizeTablet":"24","tpFontSizeMobile":"22","tpLineHeightUnits":"em","customWidthTablet":"2000"} -->
+<h2 class="wp-block-wd-title title wd-d7ed796a">Phone</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"62b5b562-b208-421d-bf58-ce6f59239626","blockVersion":"2","tpTextDecoration":"underline","tpTextDecorationThickness":"2","tpTextUnderlineOffset":"6"} -->
+<p class="wp-block-wd-paragraph wd-62b5b562">(316) 389-7041</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"602cd1c0-2b3b-4795-b898-60fc460ecc91","blockVersion":"2","adjacentCount":2} -->
+<div class="wp-block-wd-column wd-602cd1c0"><!-- wp:wd/title {"blockId":"af0a2cd3-e1cd-4102-84b1-42820ff16085","blockVersion":"2","content":"Email","tpFontSize":"28","tpLineHeight":"1.2","displayWidth":"","customWidth":"","tpFontSizeTablet":"24","tpFontSizeMobile":"22","tpLineHeightUnits":"em","customWidthTablet":"2000"} -->
+<h2 class="wp-block-wd-title title wd-af0a2cd3">Email</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"acec7836-846b-4685-8074-878b12818ece","blockVersion":"2","tpTextDecoration":"underline","tpTextDecorationThickness":"2","tpTextUnderlineOffset":"6"} -->
+<p class="wp-block-wd-paragraph wd-acec7836">studio@mail.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"0a2a7b27-4b25-4197-9a30-84bbb0e35b9e","blockVersion":"2","adjacentCount":2,"colWidth":50,"bgImage":{"id":"","url":""},"bgColorCode":"#ffffff","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","adjacentCountTablet":1,"colWidthTablet":100,"paddingTopMobile":"20","paddingRightMobile":"20","paddingBottomMobile":"20","paddingLeftMobile":"20","paddingLockMobile":true} -->
+<div class="wp-block-wd-column wd-0a2a7b27"><!-- wp:wd/title {"blockId":"ef0d8b21-e8f0-4e2e-8d6e-c64651a0a7ac","blockVersion":"2","content":"How We Start Our Business","tpFontSize":"28","tpLineHeight":"1.2","tpFontSizeTablet":"24","tpFontSizeMobile":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-ef0d8b21">How We Start Our Business</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"8c2bced7-83e2-4acd-938c-23ce7aecca5e","blockVersion":"2","form_id":"13"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/brands {"blockId":"5418e443-afb0-42fe-8278-23960675792f","blockVersion":"2","filter_in_current_category":false,"imagesHeight":"50","with_bg_color":true,"marginBottom":"80","slides_per_view":"7","hide_pagination_control":true,"sync_parent_id":"wd_fe1413fc","brandBgColorCode":"#fefefe","marginBottomTablet":"60","marginBottomMobile":"40","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/collapsible-content {"blockId":"371124f5-9be1-471d-b828-34427a5f3cc5","blockVersion":"2","contentHeight":"320"} -->
+<div class="wp-block-wd-collapsible-content wd-effect-fade wd-371124f5"><!-- wp:wd/container {"blockId":"a48c5291-93b8-4a80-a07e-0d9368049a39","blockVersion":"2","metadata":{"name":"Content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-a48c5291"><!-- wp:wd/title {"blockId":"f72e9bee-924a-4796-9cba-757f9ac1f54c","blockVersion":"2","content":"Makeup for special events: shine uniquely!","tpFontSize":"28","tpFontSizeTablet":"24","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-f72e9bee">Makeup for special events: shine uniquely!</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e05de1e5-27d5-4c67-ba2a-f5eda735a008","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e05de1e5">A special day requires a special look, and bright makeup will be its highlight. Regardless of whether it is a wedding, a corporate event, or a romantic dinner, the right makeup will help you feel confident and unforgettable. An effective skincare routine starts with an effective&nbsp;<em>cleansing</em>&nbsp;routine. Far from being the overly aggressive detergents of yesteryear, today’s cleansers often have gentle, mild formulas that work well with the specific needs of different skin types, removing impurities and make-up residue without stripping the skin of its natural oils.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"43f546cb-33df-4476-aaa9-364e1231fb35","blockVersion":"2","content":"Make-up should harmonize with your outfit, hairstyle and accessories.","tpFontSize":"24","htmlTag":"h4","tpFontSizeTablet":"22","tpFontSizeMobile":"20"} -->
+<h4 class="wp-block-wd-title title wd-43f546cb">Make-up should harmonize with your outfit, hairstyle and accessories.</h4>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"8ff8e446-084c-4f5d-8b4c-fbbf912d2dc1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-8ff8e446">If you’ve been following&nbsp;Care to Beauty&nbsp;for a while, you that our specialty is French pharmacy skincare. These were the first brands we worked with and we continue to identify with their ethos–for us, there’s nothing better than gentle skincare products that focus on resolving skin concerns without disrupting the skin barrier.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"6ad49683-a5b1-4f8a-a406-3427abea8c3b","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-6ad49683">If you’re looking to replenish your skincare stash with French pharmacy products at discounted prices, we have offers of up to 50%–time to stock up on iconic moisturizers like&nbsp;Avenge Tolerance Control Soothing Skin Recovery Cream, or rich lip balms like&nbsp;NUKE Rave de Miel Honey Lip Balm Ultra Nourishing and Repairing.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"20bd89db-35c5-45d3-afab-0ba74e43caf3","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-20bd89db">Here at&nbsp;Care to Beauty, we’re sunscreen evangelists: if you use nothing else in your daily skincare routine, use sunscreen. Sunscreen has multiple benefits, ranging from the cosmetic (it helps prevent photoaging and some forms of dark spots and hyperpigmentation) to the health-related (it’s our first line of defense against skin cancer). Between mineral and chemical sunscreens, tinted or untinted, in milky or creamy textures, or even gel-like consistencies, there’s a world of sunscreen options out there, so we know there’s one for you.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"64b4136d-8da9-4f8b-8071-d1260f73b90e","blockVersion":"2","predefinedColor":"white","shape":"round","icon":"right"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-default btn-shape-round btn-icon-pos-right wd-64b4136d"><span>Read more</span><!-- wp:wd/icon {"blockId":"1be247f9-5ba5-44dc-891c-7e506cddceab","blockVersion":"2","image":{"id":205,"url":"http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg"},"width":"15"} -->
+<div class="wp-block-wd-icon wd-1be247f9"><img class="wp-image-205" src="http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg" alt=""/></div>
+<!-- /wp:wd/icon --></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/collapsible-content -->]]></content:encoded>
+															<wp:post_id>66</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 14:50:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 14:50:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-06 11:44:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-06 11:44:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[chevron-down-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/chevron-down-black/</link>
+					<pubDate>Mon, 28 Oct 2024 14:59:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg</guid>
+															<wp:post_id>205</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 14:59:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 14:59:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-28 14:59:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-28 14:59:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[chevron-down-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/2024/10/chevron-down-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/10/chevron-down-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

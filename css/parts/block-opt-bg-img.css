@@ -1,0 +1,1 @@
+[class*=wd-bg-img] img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}.wd-bg-img-hover,.wd-bg-img-parent{opacity:0;visibility:hidden}[class*=wp-block-]:hover>.wd-bg-img-hover,.wd-hover-parent:hover .wd-bg-img-parent{opacity:1;visibility:visible}

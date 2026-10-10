@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>perfumes-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 15 Dec 2025 13:22:35 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/uploads/sites/67/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/contact-us/</link>
+					<pubDate>Mon, 22 Dec 2025 10:23:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?page_id=242</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"0b1b9340-d883-47fb-acea-da476be7f37c","blockVersion":"2","columnsGap":40,"marginBottom":"120","marginBottomTablet":"80","marginBottomMobile":"60"} -->
+<div class="wp-block-wd-row wd-0b1b9340"><!-- wp:wd/column {"blockId":"1050e76a-ec2f-4ec8-b3d4-2d9bcf5038e5","blockVersion":"2","adjacentCount":2,"blocksGap":30,"adjacentCountTablet":2,"colWidthTablet":40} -->
+<div class="wp-block-wd-column wd-1050e76a"><!-- wp:wd/title {"blockId":"7f9b86d5-cdfc-4991-9a19-57cb9d3e1459","blockVersion":"2","content":"Contact Us","tpFontSize":"44","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-7f9b86d5">Contact Us</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/container {"blockId":"06b88a4c-be51-46fd-b054-f703febbb102","blockVersion":"2","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-col wd-06b88a4c"><!-- wp:wd/title {"blockId":"dbaeebfc-8d69-4390-94fd-c9b8e59bde7e","blockVersion":"2","content":"Our Address","tpFontSize":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-dbaeebfc">Our Address</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"77a33b27-6e84-4d15-9512-e52617ba5e49","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-77a33b27">123 Perfume Lane, Paris, France</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"b427459d-e28a-4e45-9021-91922a7f6423","blockVersion":"2","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-col wd-b427459d"><!-- wp:wd/title {"blockId":"77942275-5ab2-4ca4-8dd9-33aad0bc44e5","blockVersion":"2","content":"Phone Number","tpFontSize":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-77942275">Phone Number</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"29a9d3f4-f9a7-4f7b-b775-246e818be1fb","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-29a9d3f4">+33 1 23 45 67 89</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"0d0ba18a-f221-489b-9c41-9a3f965f5107","blockVersion":"2","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-col wd-0d0ba18a"><!-- wp:wd/title {"blockId":"1a751a7f-1fa7-4d9f-89d2-5393193e1d14","blockVersion":"2","content":"Business Hours","tpFontSize":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-1a751a7f">Business Hours</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"ac935efc-b976-486a-85ae-e5a9fd723f14","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-ac935efc">Monday – Friday: 9 AM – 6 PM<br>Saturday–Sunday: Closed</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"23d95e11-437d-4a1c-b16d-60d93ae36289","blockVersion":"2","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-col wd-23d95e11"><!-- wp:wd/title {"blockId":"a7151927-ef29-47b9-8c60-ff80f07214c1","blockVersion":"2","content":"Follow Us","tpFontSize":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-a7151927">Follow Us</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/social-buttons {"blockId":"11aaf194-4e2f-45c4-9cdf-3b0cb70575c3","blockVersion":"2","type":"follow"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"9fc76c66-581f-4eca-bd7d-9a2155fd5a70","blockVersion":"2","adjacentCount":2,"adjacentCountTablet":2,"colWidthTablet":60} -->
+<div class="wp-block-wd-column wd-9fc76c66"><!-- wp:wd/title {"blockId":"a7ecf809-d70b-4a43-8b56-cda81f365020","blockVersion":"2","content":"Get In Touch","tpFontSize":"44","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-a7ecf809">Get In Touch</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"5b544a60-5784-4495-a0cd-1b40df73ad4b","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-5b544a60">We’d love to hear from you! Whether you have a question, need assistance, or simply want to learn more about our fragrances, reach out to us. Fill in the form below, and we’ll get back to you as soon as possible.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"b563c858-4e55-4493-b187-754e24d13b43","blockVersion":"2","form_id":"250"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"157af216-f55d-447c-b11e-cb1b753588cb","blockVersion":"2","columnsGap":40} -->
+<div class="wp-block-wd-row wd-157af216"><!-- wp:wd/column {"blockId":"8bd21fef-f0fd-4c6b-b2a9-107af984c15e","blockVersion":"2","adjacentCount":2,"colWidth":30,"blocksGap":30,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-8bd21fef"><!-- wp:wd/title {"blockId":"4784f257-500a-46c5-ac8f-9622383650d9","blockVersion":"2","content":"Our Branded Stores","tpFontSize":"44","tpLineHeight":"1.2","tpFontSizeTablet":"36","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-4784f257">Our Branded Stores</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/container {"blockId":"b30b6059-03cc-469a-a0aa-02e42076daa1","blockVersion":"2","rowGap":"10","paddingBottom":"20","borderType":"solid","borderColorCode":"#111211","borderWidthBottom":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-b30b6059"><!-- wp:wd/title {"blockId":"6308f944-0f6d-4b9c-9ab7-9860315570b2","blockVersion":"2","content":"Paris Store","tpFontSize":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-6308f944">Paris Store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"95ae1ce9-6b92-46d3-b79f-fc0f274d816f","blockVersion":"2","iconType":"without","blockGap":10} -->
+<ul class="wp-block-wd-list wd-list wd-type-without wd-95ae1ce9"><!-- wp:wd/list-item {"blockId":"fb741314-bb77-484b-9e80-7af1ad18af61","blockVersion":"2","iconType":"without","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-fb741314"><span class="wd-list-content">Call Us: +33 1 23 45 67 89</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"a001ea73-dda7-4f3f-ae93-1168d36048a6","blockVersion":"2","iconType":"without","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-a001ea73"><span class="wd-list-content">Address: 1 Bd Saint-Germain, 75005 Paris</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"0730a64c-55cd-410e-bdb0-4581e49fe942","blockVersion":"2","rowGap":"10","paddingBottom":"20","borderType":"solid","borderColorCode":"#111211","borderWidthBottom":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-0730a64c"><!-- wp:wd/title {"blockId":"82df9389-8b14-4316-b01d-d8044c8d6bdd","blockVersion":"2","content":"Brussels Store","tpFontSize":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-82df9389">Brussels Store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"ae1a76e3-c22b-4aa4-9b05-8cf09a9b4cac","blockVersion":"2","iconType":"without","blockGap":10} -->
+<ul class="wp-block-wd-list wd-list wd-type-without wd-ae1a76e3"><!-- wp:wd/list-item {"blockId":"c8e9e80f-fa6a-416a-8d88-a8fb060f0a98","blockVersion":"2","iconType":"without","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-c8e9e80f"><span class="wd-list-content">Call Us: +33 1 23 45 67 89</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"7286ed2f-4c6f-4612-bd93-4462226b9281","blockVersion":"2","iconType":"without","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-7286ed2f"><span class="wd-list-content">Address: Rue du Grand Cerf 2, 1000 Bruxelles, Belgium</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"1de24938-2b0e-4e0b-98e5-51f8812abcaf","blockVersion":"2","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-col wd-1de24938"><!-- wp:wd/title {"blockId":"a0b7b96b-fe80-4fc3-8bd1-8fc8f5371ed1","blockVersion":"2","content":"London Store","tpFontSize":"22","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-a0b7b96b">London Store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"b71e8702-a2de-4e48-bfb4-b6cbc630295e","blockVersion":"2","iconType":"without","blockGap":10} -->
+<ul class="wp-block-wd-list wd-list wd-type-without wd-b71e8702"><!-- wp:wd/list-item {"blockId":"a217c150-efc9-4040-a466-34c6e9672465","blockVersion":"2","iconType":"without","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-a217c150"><span class="wd-list-content">Call Us: +33 1 23 45 67 89</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"04a1afd4-497d-4ca7-91c0-bc9e87f08028","blockVersion":"2","iconType":"without","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-04a1afd4"><span class="wd-list-content">Address: 229-247 Regent St., London W1B 2EG, United Kingdom</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"33b8df85-ecfa-4507-915a-ca3e656ec2e2","blockVersion":"2","adjacentCount":2,"colWidth":70,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-33b8df85"><!-- wp:wd/open-street-map {"blockId":"574fc981-4600-4643-bf5b-9a24f87257b4","blockVersion":"2","zoom":6,"height":"620","locations":[{"title":"","lat":"51.50735","lon":"-0.12776","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"},{"title":"","lat":"48.90518","lon":"2.35554","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"},{"title":"","lat":"50.85226","lon":"4.33445","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"}],"heightTablet":"480"} -->
+<div class="wp-block-wd-open-street-map wd-map-container wd-osm-map-container wd-574fc981"><div id="wd-osm-map-574fc981-4600-4643-bf5b-9a24f87257b4" class="wd-osm-map-wrapper wd-map-wrapper" data-settings="{&quot;zoom&quot;:6,&quot;scrollWheelZoom&quot;:&quot;no&quot;,&quot;zoomControl&quot;:&quot;yes&quot;,&quot;dragging&quot;:&quot;yes&quot;,&quot;init_type&quot;:&quot;page_load&quot;,&quot;init_offset&quot;:100,&quot;geoapify_tile&quot;:&quot;osm-carto&quot;,&quot;center&quot;:&quot;50.43568190974699,2.2005334883640852&quot;,&quot;markers&quot;:[{&quot;lat&quot;:&quot;51.50735&quot;,&quot;lng&quot;:&quot;-0.12776&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}},{&quot;lat&quot;:&quot;48.90518&quot;,&quot;lng&quot;:&quot;2.35554&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}},{&quot;lat&quot;:&quot;50.85226&quot;,&quot;lng&quot;:&quot;4.33445&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}}]}"></div></div>
+<!-- /wp:wd/open-street-map --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>242</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-22 10:23:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-22 10:23:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 14:42:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 14:42:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact form Perfumes]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?post_type=wpcf7_contact_form&#038;p=250</link>
+					<pubDate>Mon, 22 Dec 2025 10:25:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-gutenberg/?post_type=wpcf7_contact_form&#038;p=250</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<p class="wd-col"><label>First name</label>[text* First name]</p>
+<p class="wd-col"><label>Last name</label>[text* Last name]</p>
+</div>
+<p class="wd-col"><label>Email</label>[text* Email]</p>
+<p class="wd-col"><label>Your Message</label>[textarea your-message]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@dummy.xtemos.com>
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+1
+1
+
+[_site_title] "[your-subject]"
+[_site_title] <wordpress@dummy.xtemos.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+1
+1
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>250</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-22 10:25:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-22 10:25:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-22 10:25:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-22 10:25:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-perfumes]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<p class="wd-col"><label>First name</label>[text* First name]</p>
+<p class="wd-col"><label>Last name</label>[text* Last name]</p>
+</div>
+<p class="wd-col"><label>Email</label>[text* Email]</p>
+<p class="wd-col"><label>Your Message</label>[textarea your-message]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:1;s:13:"exclude_blank";b:1;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:1;s:13:"exclude_blank";b:1;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100f233802e4d32f06b2dfc8cc1cd9234c15f569eeeadc3b43c6b9821910918f]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:23:"mail.additional_headers";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:51:"Invalid mailbox syntax is used in the %name% field.";s:6:"params";a:1:{s:4:"name";s:8:"Reply-To";}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

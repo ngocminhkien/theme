@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>makup-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 23 Oct 2024 13:23:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/makeup-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/wp-content/uploads/sites/40/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Products archive - Makeup]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/makeup-gutenberg/woodmart_layout/products-archive-makeup/</link>
+					<pubDate>Mon, 28 Oct 2024 15:48:38 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/makeup-gutenberg/?post_type=woodmart_layout&#038;p=275</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"19853d2d-eac6-4792-b209-1ecb404c8ad7","blockVersion":"2","marginBottom":"40","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginTopTablet":"-20","marginBottomTablet":"20"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-19853d2d"><!-- wp:wd/sa-archive-title {"blockId":"f4137b5f-183b-4a45-bb92-912c2faaa1c7","blockVersion":"2","tpFontSize":"28","tpFontSizeTablet":"24","tpFontSizeMobile":"22","tpLineHeightUnits":"em"} /-->
+
+<!-- wp:wd/woo-breadcrumbs {"blockId":"06bad62d-e841-41af-a829-bcbc28201fca","blockVersion":"2","marginRight":"auto","marginUnits":"custom"} /-->
+
+<!-- wp:wd/divider {"blockId":"fe91008b-9da9-41da-ba84-a6af2ae0ed3b","blockVersion":"2","hideOnDesktop":true,"displayWidth":"full-width"} -->
+<div class="wp-block-wd-divider wd-style-line wd-hide-lg wd-fe91008b wd-custom-width"></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/off-canvas-button {"blockId":"cbf217d3-a365-444a-9585-a34b8da90cdc","blockVersion":"2","btnContent":"Filters","stickyBtn":false,"hideOnDesktop":true} -->
+<div class="wp-block-wd-off-canvas-button wd-off-canvas-btn wd-action-btn wd-style-text wd-burger-icon wd-hide-lg wd-cbf217d3"><a href="#" rel="nofollow"><span class="wd-action-icon"></span><span class="wd-action-text">Filters</span></a></div>
+<!-- /wp:wd/off-canvas-button -->
+
+<!-- wp:wd/sa-per-page {"blockId":"94c332cb-9234-4c39-bd7e-a5ee1d477627","blockVersion":"2","hideOnTablet":true,"hideOnMobile":true} /-->
+
+<!-- wp:wd/sa-view {"blockId":"dfd095f7-2cb7-4485-851b-6520bc295936","blockVersion":"2","hideOnTablet":true,"hideOnMobile":true} /-->
+
+<!-- wp:wd/sa-orderby {"blockId":"44d90bfc-b458-426f-8769-7d2201e8b769","blockVersion":"2","mobileIcon":true} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/off-canvas {"blockId":"c04ce067-cb61-4c55-85cd-c7eb5f7de06e","blockVersion":"2","marginBottom":"40","marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div class="wp-block-wd-off-canvas wd-c04ce067"><!-- wp:wd/off-sidebar {"blockId":"feb65716-7b7c-45cc-ac55-2c4a293c2cfd","blockVersion":"2","sidebarWidth":20,"paddingLock":true,"alignSelf":"start"} -->
+<div class="wp-block-wd-off-sidebar wd-left wd-hide-md-sm wd-hide-sm wd-feb65716 wd-align-s-start"><div class="wd-heading"><div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener"><span class="wd-action-icon"></span><span class="wd-action-text">Close</span></a></div></div><div class="wd-content"><!-- wp:wd/sidebar {"blockId":"76a85aa2-920c-413f-8b12-be0d5681d4f5","blockVersion":"2","sidebar_id":"sidebar-shop","bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","paddingTopTablet":"0","paddingRightTablet":"0","paddingBottomTablet":"0","paddingLeftTablet":"0","paddingLockTablet":true} /--></div></div>
+<!-- /wp:wd/off-sidebar -->
+
+<!-- wp:wd/off-content {"blockId":"23431592-d7b6-44c0-903f-e41cdd9fa44e","blockVersion":"2"} -->
+<div class="wp-block-wd-off-content wd-23431592"><!-- wp:wd/sa-active-filters {"blockId":"bafe19da-4326-4164-8288-6777dab56a39","blockVersion":"2"} /-->
+
+<!-- wp:wd/woo-notices {"blockId":"6661d78a-898d-4039-b5d0-506280a5a230","blockVersion":"2"} /-->
+
+<!-- wp:wd/sa-archive-products {"blockId":"fed295c2-4d62-4c38-bced-c67d1a8552e9","blockVersion":"2"} /--></div>
+<!-- /wp:wd/off-content --></div>
+<!-- /wp:wd/off-canvas -->]]></content:encoded>
+															<wp:post_id>275</wp:post_id>
+					<wp:post_date><![CDATA[2024-10-28 15:48:38]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-10-28 15:48:38]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-11 06:29:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-11 06:29:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-makeup]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

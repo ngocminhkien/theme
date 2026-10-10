@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Books 2 Gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 02 Jul 2026 06:34:14 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Blog archive - Books 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/woodmart_layout/blog-archive-books-2/</link>
+					<pubDate>Mon, 13 Jul 2026 13:59:31 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?post_type=woodmart_layout&#038;p=227</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"48b04430-6c05-43ba-a3d1-1a6f0a951434","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginBottom":"40","marginTopTablet":"-20","marginBottomTablet":"20"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-48b04430"><!-- wp:wd/page-heading {"blockId":"d949120c-80ec-4d80-82f0-6d689938715e","blockVersion":"2","tpFontSize":"40","htmlTag":"h1","tpFontSizeTablet":"32","tpFontSizeMobile":"22"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"b4c1e2c2-a3ca-4aeb-9e22-bc46bdb91938","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"7209b09a-d2e1-4aa4-8f8a-a3bae3d6bbae","blockVersion":"2","marginBottom":"60","columnsGapTablet":40,"marginBottomTablet":"40"} -->
+<div class="wp-block-wd-row wd-7209b09a"><!-- wp:wd/column {"blockId":"5fa2e2c9-3253-4750-9f1a-7978177534d9","blockVersion":"2","adjacentCount":2,"colWidth":15,"sticky":true,"stickyOffset":"140","adjacentCountTablet":1,"colWidthTablet":100,"flexOrderTablet":"2"} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd_sticky_offset_140 wd-5fa2e2c9"><!-- wp:wd/title {"blockId":"5ec57249-8f23-4590-94d2-99d91c6e8b06","blockVersion":"2","content":"Quick Links","tpFontSize":"28","hideOnDesktop":true,"htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-hide-lg wd-5ec57249">Quick Links</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/sidebar {"blockId":"b8d71545-8bff-4765-b4e2-2e4902345f79","blockVersion":"2"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"bdd4d8a0-d008-4819-a47d-4880444fa8e2","blockVersion":"2","adjacentCount":2,"colWidth":85,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-bdd4d8a0"><!-- wp:wd/pa-blog {"blockId":"4a61162a-1cba-433c-ba2c-8802100dd6ae","blockVersion":"2","blog_design":"list","parts_meta":false,"parts_published_date":false} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>227</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-13 13:59:31]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-13 13:59:31]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-20 08:19:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-20 08:19:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[blog-archive-books-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[blog_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

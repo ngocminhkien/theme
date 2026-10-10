@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Pills elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/pills-elementor</link>
+	<description></description>
+	<pubDate>Mon, 11 Mar 2024 12:05:15 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pills-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[w-pas-banner-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pills-elementor/?attachment_id=746</link>
+					<pubDate>Tue, 26 Mar 2024 14:29:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-banner-1-opt.jpg</guid>
+															<wp:post_id>746</wp:post_id>
+					<wp:post_date><![CDATA[2024-03-26 14:29:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-03-26 14:29:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-03-26 14:29:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-03-26 14:29:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-pas-banner-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>338</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-banner-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/03/w-pas-banner-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Products archive - Pills]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pills-elementor/woodmart_layout/products-archive-pills/</link>
+					<pubDate>Tue, 26 Mar 2024 15:01:33 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pills-elementor/?post_type=woodmart_layout&#038;p=818</guid>
+											<content:encoded><![CDATA[<h1>
+			Shop		</h1>
+						 			<nav aria-label="Breadcrumb">				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor">
+					Home				</a>
+					Shop				
+			</nav>		
+						 						 						 															 			
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/hair/" aria-label="Category image">
+				<img width="120" height="120" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-hair-opt-120x120.jpg" alt="" />			</a>
+			<h3>
+				Hair			</h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/hair/">
+					0 products					</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/hair/" aria-label="Product category hair"></a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/allergy-relief/" aria-label="Category image">
+				<img width="120" height="120" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-category-allergy-opt-120x120.jpg" alt="" />			</a>
+			<h3>
+				Allergy Relief <mark>(12)</mark>			</h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/allergy-relief/">
+					12 products					</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/allergy-relief/" aria-label="Product category allergy-relief"></a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/anxiety/" aria-label="Category image">
+				<img width="120" height="120" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-anx-opt-120x120.jpg" alt="" />			</a>
+			<h3>
+				Anxiety <mark>(12)</mark>			</h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/anxiety/">
+					12 products					</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/anxiety/" aria-label="Product category anxiety"></a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/" aria-label="Category image">
+				<img width="120" height="120" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-depression-opt-120x120.jpg" alt="" />			</a>
+			<h3>
+				Depression <mark>(12)</mark>			</h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/">
+					12 products					</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/" aria-label="Product category depression"></a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/" aria-label="Category image">
+				<img width="120" height="120" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-eye-vision-opt-120x120.jpg" alt="" />			</a>
+			<h3>
+				Eye &amp; Vision <mark>(12)</mark>			</h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/">
+					12 products					</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/" aria-label="Product category eye-vision"></a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/pregnancy/" aria-label="Category image">
+				<img width="120" height="120" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-pregnancy-opt-120x120.jpg" alt="" />			</a>
+			<h3>
+				Pregnancy			</h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/pregnancy/">
+					0 products					</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/pregnancy/" aria-label="Product category pregnancy"></a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/skin/" aria-label="Category image">
+				<img width="120" height="120" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-skin-opt-120x120.jpg" alt="" />			</a>
+			<h3>
+				Skin			</h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/skin/">
+					0 products					</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/skin/" aria-label="Product category skin"></a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/sleep/" aria-label="Category image">
+				<img width="120" height="120" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-sleep-opt-120x120.jpg" alt="" />			</a>
+			<h3>
+				Sleep			</h3>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/sleep/">
+					0 products					</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/sleep/" aria-label="Product category sleep"></a>
+					 														
+													 					
+						 						 						 						 					
+																					<img width="623" height="456" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-banner-1-opt.jpg" alt="" />																		
+								Save 15%							
+													<h4 data-elementor-setting-key="title">
+								Bundles							</h4>
+									<a href="#" aria-label="Banner link"></a>
+			<p>
+	Showing 1&ndash;12 of 20 results</p>
+						 						 			
+			<a href="#" rel="nofollow">
+								Show sidebar			</a>
+						 			
+				Show			
+											<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/pills-elementor/shop/?per_page=9">
+						9					
+				</a>
+											<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/pills-elementor/shop/?per_page=12">
+						12					
+				</a>
+											<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/pills-elementor/shop/?per_page=18">
+						18					
+				</a>
+											<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/pills-elementor/shop/?per_page=24">
+						24					
+				</a>
+						 					
+										<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/pills-elementor/shop/?shop_view=grid&#038;per_row=2" aria-label="Grid view 2"></a>
+										<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/pills-elementor/shop/?shop_view=grid&#038;per_row=3" aria-label="Grid view 3"></a>
+										<a rel="nofollow noopener" href="https://dummy.xtemos.com/woodmart2/pills-elementor/shop/?shop_view=grid&#038;per_row=4" aria-label="Grid view 4"></a>
+						 			
+			
+							Default sorting
+							Sort by popularity
+							Sort by average rating
+							Sort by latest
+							Sort by price: low to high
+							Sort by price: high to low
+					
+		
+			
+						 					
+						 						 						 						 						 			
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-tablets/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-120-tablets-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-tablets/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-30-tablets-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="113" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-tablets/">Depression 120 Tablets</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/" rel="tag">Depression</a>		
+	&#036;60.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="113" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-tablets/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_113" data-quantity="1" data-product_id="113" data-product_sku="WP-042" aria-label="Select options for &ldquo;Depression 120 Tablets&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+							 					
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-tablets/" class="open-quick-view quick-view-button" rel="nofollow" data-id="113">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-60-tablets/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-60-tablets-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-60-tablets/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-tablets-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="121" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-60-tablets/">Eye &#038; Vision 60 Tablets</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/" rel="tag">Eye &amp; Vision</a>		
+	&#036;18.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="121" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-60-tablets/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_121" data-quantity="1" data-product_id="121" data-product_sku="WP-050" aria-label="Select options for &ldquo;Eye &amp; Vision 60 Tablets&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-60-tablets/" class="open-quick-view quick-view-button" rel="nofollow" data-id="121">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-capsules/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-capsules-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-capsules/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-capsules-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="118" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-capsules/">Eye &#038; Vision 30 Capsules</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/" rel="tag">Eye &amp; Vision</a>		
+	&#036;12.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="118" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-capsules/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_118" data-quantity="1" data-product_id="118" data-product_sku="WP-047" aria-label="Select options for &ldquo;Eye &amp; Vision 30 Capsules&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-capsules/" class="open-quick-view quick-view-button" rel="nofollow" data-id="118">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-tablets/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-tablets-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-tablets/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-tablets-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="117" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-tablets/">Eye &#038; Vision 30 Tablets</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/" rel="tag">Eye &amp; Vision</a>		
+	&#036;12.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="117" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-tablets/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_117" data-quantity="1" data-product_id="117" data-product_sku="WP-046" aria-label="Select options for &ldquo;Eye &amp; Vision 30 Tablets&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-tablets/" class="open-quick-view quick-view-button" rel="nofollow" data-id="117">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-softgels/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-120-softgels-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-softgels/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-30-softgel-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="115" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-softgels/">Depression 120 Softgels</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/" rel="tag">Depression</a>		
+	&#036;60.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="115" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-softgels/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_115" data-quantity="1" data-product_id="115" data-product_sku="WP-044" aria-label="Select options for &ldquo;Depression 120 Softgels&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-softgels/" class="open-quick-view quick-view-button" rel="nofollow" data-id="115">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-capsules/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-120-capsules-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-capsules/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-30-capsules-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="114" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-capsules/">Depression 120 Capsules</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/" rel="tag">Depression</a>		
+	&#036;60.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="114" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-capsules/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_114" data-quantity="1" data-product_id="114" data-product_sku="WP-043" aria-label="Select options for &ldquo;Depression 120 Capsules&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-capsules/" class="open-quick-view quick-view-button" rel="nofollow" data-id="114">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-120-gummies/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-120-gummies-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-120-gummies/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-gummies-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="128" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-120-gummies/">Eye &#038; Vision 120 Gummies</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/" rel="tag">Eye &amp; Vision</a>		
+	&#036;50.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="128" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-120-gummies/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_128" data-quantity="1" data-product_id="128" data-product_sku="WP-057" aria-label="Select options for &ldquo;Eye &amp; Vision 120 Gummies&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-120-gummies/" class="open-quick-view quick-view-button" rel="nofollow" data-id="128">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-softgels/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-60-softgel-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-softgels/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-30-softgel-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="111" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-softgels/">Depression 60 Softgels</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/" rel="tag">Depression</a>		
+	&#036;25.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="111" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-softgels/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_111" data-quantity="1" data-product_id="111" data-product_sku="WP-040" aria-label="Select options for &ldquo;Depression 60 Softgels&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-softgels/" class="open-quick-view quick-view-button" rel="nofollow" data-id="111">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-gummies/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-gummies-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-gummies/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-gummies-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="120" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-gummies/">Eye &#038; Vision 30 Gummies</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/" rel="tag">Eye &amp; Vision</a>		
+	&#036;12.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="120" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-gummies/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_120" data-quantity="1" data-product_id="120" data-product_sku="WP-049" aria-label="Select options for &ldquo;Eye &amp; Vision 30 Gummies&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-gummies/" class="open-quick-view quick-view-button" rel="nofollow" data-id="120">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-gummies/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-60-gummies-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-gummies/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-30-gummies-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="112" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-gummies/">Depression 60 Gummies</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/" rel="tag">Depression</a>		
+	&#036;25.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="112" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-gummies/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_112" data-quantity="1" data-product_id="112" data-product_sku="WP-041" aria-label="Select options for &ldquo;Depression 60 Gummies&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-60-gummies/" class="open-quick-view quick-view-button" rel="nofollow" data-id="112">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-softgels/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-softgel-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-softgels/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-ev-30-softgel-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="119" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-softgels/">Eye &#038; Vision 30 Softgels</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/eye-vision/" rel="tag">Eye &amp; Vision</a>		
+	&#036;12.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="119" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-softgels/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_119" data-quantity="1" data-product_id="119" data-product_sku="WP-048" aria-label="Select options for &ldquo;Eye &amp; Vision 30 Softgels&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/eye-vision-30-softgels/" class="open-quick-view quick-view-button" rel="nofollow" data-id="119">Quick view</a>
+		<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-gummies/">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-120-gummies-1.jpg" alt="" />		</a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-gummies/" aria-label="Product image">
+					<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/pills-elementor/wp-content/uploads/sites/23/2024/03/w-pas-dp-30-gummies-2.jpg" alt="" />				</a>
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/compare/" data-id="116" rel="nofollow" data-added-text="Compare products">
+				Compare
+			</a>
+		<h3><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-gummies/">Depression 120 Gummies</a></h3>				
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product-category/depression/" rel="tag">Depression</a>		
+	&#036;60.00
+					At worst the discussion is at least working towards the final goal of your site where questions about lorem ipsum don’t, commercial publishing platforms and content management systems.				
+				<a href="#" rel="nofollow" aria-label="Read more description"></a>
+				<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wishlist/" data-key="577968941d" data-product-id="116" rel="nofollow" data-added-text="Browse Wishlist">
+					Add to wishlist
+				</a>
+					<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-gummies/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_116" data-quantity="1" data-product_id="116" data-product_sku="WP-045" aria-label="Select options for &ldquo;Depression 120 Gummies&rdquo;" rel="nofollow">Select options</a>
+	This product has multiple variants. The options may be chosen on the product page
+			<a href="https://dummy.xtemos.com/woodmart2/pills-elementor/product/depression-120-gummies/" class="open-quick-view quick-view-button" rel="nofollow" data-id="116">Quick view</a>
+					<nav>
+				<ul class='page-numbers'>
+	<li>1</li>
+	<li><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wp-admin/admin-ajax.php?paged=2">2</a></li>
+	<li><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wp-admin/admin-ajax.php?paged=3">3</a></li>
+	<li><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wp-admin/admin-ajax.php?paged=4">4</a></li>
+	<li><a href="https://dummy.xtemos.com/woodmart2/pills-elementor/wp-admin/admin-ajax.php?paged=2">&rarr;</a></li>
+</ul>
+			</nav>]]></content:encoded>
+															<wp:post_id>818</wp:post_id>
+					<wp:post_date><![CDATA[2024-03-26 15:01:33]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-03-26 15:01:33]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-11-14 16:51:13]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-11-14 16:51:13]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-pills]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.24.7]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"36fcfea","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"","column":"","row":"","isLinked":"1"},"flex_align_items":"center","wd_section_stretch":"stretch","background_background":"classic","background_color":"#F7F7F7","margin":{"unit":"px","top":"-40","right":"0","bottom":"40","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"-40","right":"0","bottom":"10","left":"0","isLinked":""},"padding":{"unit":"px","top":"30","right":"15","bottom":"30","left":"15","isLinked":""},"padding_tablet":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80","flex_direction_tablet":"column"},"elements":[{"id":"aa078d1","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"17"},"flex_gap":{"column":"10","row":"10","isLinked":"1","unit":"px","size":"10"},"container_sticky_offset":"50","scroll_y":"-80","width_tablet":{"unit":"%","size":"100","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"6bb4e00","elType":"widget","settings":{"typography_typography":"custom","typography_font_size":{"unit":"px","size":"28","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"24","sizes":[]},"tag":"h1","scroll_y":"-80"},"elements":[],"widgetType":"wd_shop_archive_woocommerce_title"},{"id":"2542165","elType":"widget","settings":{"nowrap_md":"md","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_breadcrumb"}],"isInner":"1"},{"id":"4a6299a","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"83"},"container_sticky_offset":"50","scroll_y":"-80","width_tablet":{"unit":"%","size":"100","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"fc38c87","elType":"widget","settings":{"data_source":"wc_query","hide_empty":"","categories_design":"alt","img_size":"custom","img_size_custom":{"width":"120","height":"120"},"image_container_width":{"unit":"px","size":"100","sizes":[]},"image_container_width_tablet":{"unit":"%","size":"","sizes":[]},"image_container_width_mobile":{"unit":"%","size":"","sizes":[]},"categories_with_shadow":"disable","rounding_size":"custom","custom_rounding_size":{"unit":"%","size":"50","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"14","sizes":[]},"title_typography_text_transform":"capitalize","style":"carousel","spacing":"30","slides_per_view":{"unit":"px","size":"8","sizes":[]},"slides_per_view_tablet":{"unit":"px","size":"5","sizes":[]},"slides_per_view_mobile":{"unit":"px","size":"2","sizes":[]},"hide_pagination_control":"yes","sync_parent_id":"wd_6602e34f4167d","scroll_y":"-80","hide_scrollbar_mobile":""},"elements":[],"widgetType":"wd_product_categories"}],"isInner":"1"}],"isInner":""},{"id":"228d499","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":"30","column":"30","row":"30","isLinked":"1"},"flex_direction_tablet":"column","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"44c1559","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"25"},"wd_column_role":"offcanvas","wd_column_role_offcanvas_tablet":"md-sm","wd_column_role_offcanvas_mobile":"sm","container_sticky_offset":"50","scroll_y":"-80","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":""}},"elements":[{"id":"39de94f","elType":"widget","settings":{"sidebar_name":"sidebar-shop","_padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":"1"},"scroll_y":"-80","_background_background":"classic","_background_color":"#F7F7F7","_border_radius":{"unit":"px","top":"16","right":"16","bottom":"16","left":"16","isLinked":"1"},"_margin_tablet":{"unit":"px","top":"-20","right":"-15","bottom":"0","left":"-15","isLinked":""}},"elements":[],"widgetType":"wd_sidebar"},{"id":"3a99534","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/pills-elementor\/wp-content\/uploads\/sites\/23\/2024\/03\/w-pas-banner-1-opt.jpg","id":"746","size":"","alt":"","source":"library"},"image_size":"full","custom_height":"Yes","image_height":{"unit":"px","size":"460","sizes":[]},"subtitle":"Save 15%","title":"Bundles","content":"","btn_text":"","style":"mask","hover":"zoom","woodmart_color_scheme":"light","vertical_alignment":"bottom","scroll_y":"-80","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"wd_banner"}],"isInner":"1"},{"id":"84dc93c","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"76"},"width_tablet":{"unit":"%","size":"100","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":""},"wd_column_role":"content","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"d4acb37","elType":"container","settings":{"flex_direction":"row","flex_direction_tablet":"column","flex_align_items":"center","flex_align_items_tablet":"center","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"a36f449","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":"33","sizes":[]},"container_sticky_offset":"50","scroll_y":"-80","hide_tablet":"hidden-tablet","hide_mobile":"hidden-mobile"},"elements":[{"id":"e1f5c67","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_shop_archive_result_count"}],"isInner":"1"},{"id":"a638ab9","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":"67","sizes":[]},"width_tablet":{"unit":"%","size":"100","sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_direction":"row","flex_justify_content":"flex-end","flex_justify_content_tablet":"space-between","flex_align_items":"center","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"0a0d296","elType":"widget","settings":{"button_text":"Show sidebar","scroll_y":"-80","hide_desktop":"hidden-desktop"},"elements":[],"widgetType":"wd_builder_off_canvas_column_btn"},{"id":"d3c212c","elType":"widget","settings":{"per_page_options":"9,12,18,24","scroll_y":"-80","hide_tablet":"hidden-tablet","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_shop_archive_per_page"},{"id":"75ebf0a","elType":"widget","settings":{"scroll_y":"-80","hide_tablet":"hidden-tablet","hide_mobile":"hidden-mobile"},"elements":[],"widgetType":"wd_shop_archive_view"},{"id":"bf18896","elType":"widget","settings":{"scroll_y":"-80","mobile_icon":"yes"},"elements":[],"widgetType":"wd_shop_archive_orderby"}],"isInner":"1"}],"isInner":"1"},{"id":"a0fde69","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_shop_archive_active_filters"},{"id":"cf9a067","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"4e469c2","elType":"widget","settings":{"img_size":"full","scroll_y":"-80"},"elements":[],"widgetType":"wd_archive_products"}],"isInner":"1"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

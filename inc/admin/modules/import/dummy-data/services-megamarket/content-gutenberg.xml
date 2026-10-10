@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Megamarket gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Tue, 09 Jul 2024 08:31:10 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</wp:base_blog_url>
+
+				
+	<generator>https://wordpress.org/?v=6.7.5</generator>
+
+					<item>
+					<title><![CDATA[Services]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/</link>
+					<pubDate>Tue, 09 Jul 2024 09:03:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/?page_id=39</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"02f72d59-b1e2-477d-aad2-7a160674d46a","marginBottom":"60","marginTopTablet":"-20"} -->
+<div id="wd-02f72d59" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"ca91cdbb-b5cb-440a-a22b-d6a415cdc3e6","adjacentCount":2,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-ca91cdbb" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"f30eb026-9aeb-466b-9213-da7b886fcf0e","content":"All Home Services","tpFontSize":"36","tpFontVariant":"800","tpFontWeight":"800","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"28","tpFontSizeMobile":"24"} -->
+<h2 id="wd-f30eb026" class="wp-block-wd-title title">All Home Services</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"0ea42aa0-920e-4407-aab2-3bbe19da831f"} -->
+<p id="wd-0ea42aa0" class="wp-block-wd-paragraph">Cubilia vestibulum interdum nisl a parturient a auctor vestibulum taciti vel bibendum tempor adipiscing suspendisse posuere libero penatibus lorem at interdum tristique iaculis redosan condimentum a ac rutrum mollis consectetur.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"4a34e026-1eff-40f5-a291-5c824d46be82","marginBottom":"10"} -->
+<p id="wd-4a34e026" class="wp-block-wd-paragraph">Aenean nascetur vehicula egestas a adipiscing a est egestas suspendisse parturient diam adipiscing mattis elementum velit pulvinar.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/row {"blockId":"bfb7a6f0-1617-4041-883d-ba3934aa8076","columnsGap":20} -->
+<div id="wd-bfb7a6f0" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"4b1a2cde-853d-4053-b286-dd1011423834","adjacentCount":2} -->
+<div id="wd-4b1a2cde" class="wp-block-wd-column"><!-- wp:wd/infobox {"blockId":"fb4f79d1-5a4a-417d-93ef-1e91445d4b89","iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div id="wd-fb4f79d1" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"b9a73044-65c3-4862-aa51-dfe19f3806b5","image":{"id":378,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/ready-design.svg"},"width":"64"} -->
+<div id="wd-b9a73044" class="wp-block-wd-icon"><img class="wp-image-378" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/ready-design.svg" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"78b87340-db8e-4928-8f2e-4a0987f1768f","metadata":{"name":"Infobox content"}} -->
+<div id="wd-78b87340" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"0351e291-9193-4f85-91ad-89b0abc45671","content":"500+ Brands","tpFontSize":"18"} -->
+<h2 id="wd-0351e291" class="wp-block-wd-title title">500+ Brands</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"6479d154-a9ab-4c08-9390-7ab9b797ce79"} -->
+<p id="wd-6479d154" class="wp-block-wd-paragraph">View our benefits</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"8e45d9f1-5f87-4e24-80e3-f43aeb9a1bc7","adjacentCount":2} -->
+<div id="wd-8e45d9f1" class="wp-block-wd-column"><!-- wp:wd/infobox {"blockId":"6cc569ae-99ca-46fb-b60b-21d74dcb70e2","iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div id="wd-6cc569ae" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"69e623e8-4183-4e7b-8973-6a42f99279ea","image":{"id":375,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/delivery.svg"},"width":"64"} -->
+<div id="wd-69e623e8" class="wp-block-wd-icon"><img class="wp-image-375" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/delivery.svg" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"5ebedd2e-22b7-4ef0-a69a-806f0f3de96f","metadata":{"name":"Infobox content"}} -->
+<div id="wd-5ebedd2e" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"511c1e28-92cd-40a8-94b3-b3f81ff7e964","content":"Fast Shipping","tpFontSize":"18"} -->
+<h2 id="wd-511c1e28" class="wp-block-wd-title title">Fast Shipping</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"4b213b3e-a215-4a2d-85ce-ccec5798a833"} -->
+<p id="wd-4b213b3e" class="wp-block-wd-paragraph">Carrier information</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"faf918d8-fde9-45c4-9399-93d8f2ed270d","adjacentCount":2,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-faf918d8" class="wp-block-wd-column"><!-- wp:wd/gallery {"blockId":"1e3f4f11-0809-4b54-938d-4eb2046ff71b","columns":2,"columnsMobile":2} -->
+<div id="wd-1e3f4f11" class="wp-block-wd-gallery wd-grid-g wd-caption-mask" style="--wd-col-lg:2;--wd-col-md:2;--wd-col-sm:2;--wd-gap-lg:20px;--wd-gap-sm: 10px"><!-- wp:wd/gallery-item {"blockId":"64839a7c-814e-4572-8bc4-89efd1e8d313","image":{"id":579,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-1.jpg"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-1.jpg","width":510,"height":600}} -->
+<div id="wd-64839a7c" class="wp-block-wd-gallery-item wd-col"><div class="wd-block-image"><img class="wp-image-579" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-1.jpg" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"d304076c-9668-4569-b6ed-53633df1081c","image":{"id":580,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-2.jpg"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-2.jpg","width":510,"height":600}} -->
+<div id="wd-d304076c" class="wp-block-wd-gallery-item wd-col"><div class="wd-block-image"><img class="wp-image-580" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-2.jpg" /></div></div>
+<!-- /wp:wd/gallery-item --></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"50dc21c0-b408-4c07-9ec3-619213f3ad52","bgImage":{"id":593,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-banner.jpg"},"bgPosition":"center center","bgRepeat":"no-repeat","bgDisplaySize":"cover","bgColorCode":"#1246ab","paddingTop":"40","paddingRight":"40","paddingBottom":"40","paddingLeft":"40","paddingLock":true,"marginBottom":"80","bgDisplaySizeTablet":"custom","bgCustomDisplaySizeTablet":"0","marginBottomTablet":"60"} -->
+<div id="wd-50dc21c0" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"29bfb8bb-a3e6-449a-8b9a-d356f471989a","adjacentCount":2,"hideOnTablet":true,"hideOnMobile":true,"adjacentCountTablet":1,"colWidthTablet":50} -->
+<div id="wd-29bfb8bb" class="wp-block-wd-column wd-hide-md-sm wd-hide-sm"></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"ccd49721-b0e0-4de7-9be3-ea0eefb8e720","adjacentCount":2,"blocksGap":10,"colorScheme":"light","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-ccd49721" class="wp-block-wd-column color-scheme-light"><!-- wp:wd/title {"blockId":"b7a1999f-741c-40ab-b198-6bf1b335a0d3","content":"Entrust your home to a master","tpFontSize":"32","tpFontVariant":"800","tpFontWeight":"800","tpFontSizeTablet":"28","tpFontSizeMobile":"24"} -->
+<h2 id="wd-b7a1999f" class="wp-block-wd-title title">Entrust your home to a master</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"6853e39c-2029-4b97-a209-f450551c88e5","marginBottom":"10","displayWidth":"custom","customWidth":"390"} -->
+<p id="wd-6853e39c" class="wp-block-wd-paragraph wd-custom-width">Himenaeos parturient nam a justo placerat lorem erat pretium a fusce pharetra pretium enim.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"f5191c4a-584c-49e6-8b7d-0e04c39c5a3f","predefinedColor":"white","size":"large"} -->
+<a id="wd-f5191c4a" class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-large btn-shape-rectangle" href="tel:(406) 555-0120"><span>Call Now</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/title {"blockId":"06166708-9625-44da-9c59-afdf274ea8eb","content":"Our Services","tpFontSize":"36","tpFontVariant":"800","tpFontWeight":"800","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"28","tpFontSizeMobile":"24"} -->
+<h2 id="wd-06166708" class="wp-block-wd-title title">Our Services</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"01a0aaf5-4897-4a3c-b1e1-ce7488166f2d","columnsGap":40,"marginBottom":"40","marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div id="wd-01a0aaf5" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"51f03b9e-a63c-4609-b608-b3c1e8fe771a","adjacentCount":6,"blocksGap":40,"adjacentCountMobile":2,"colWidthMobile":50} -->
+<div id="wd-51f03b9e" class="wp-block-wd-column"><!-- wp:wd/infobox {"blockId":"b04d073f-d9ad-4c32-b7a5-8a65a78c3515","align":"center","displayWidth":"","customWidth":"","customWidthUnits":"%"} -->
+<div id="wd-b04d073f" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"16696df6-c165-4240-bd54-28996935b2e0","image":{"id":601,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Appliances.png"},"width":"128","height":"128"} -->
+<div id="wd-16696df6" class="wp-block-wd-icon"><img class="wp-image-601" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Appliances.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"13cce3c9-a559-4e55-938a-c1114f67aabe","metadata":{"name":"Infobox content"}} -->
+<div id="wd-13cce3c9" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"ca73802f-6128-4930-a581-e3dcaee9cfb5","content":"Installing Appliances","tpFontSize":"18"} -->
+<h2 id="wd-ca73802f" class="wp-block-wd-title title">Installing Appliances</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"9eab1932-c181-4440-9df0-4d3ace44c8f9","align":"center","displayWidth":"","customWidth":"","customWidthUnits":"%"} -->
+<div id="wd-9eab1932" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"2d9e468f-af97-4aeb-bee6-69013a901f47","image":{"id":606,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Water-Heaters.png"},"width":"128","height":"128"} -->
+<div id="wd-2d9e468f" class="wp-block-wd-icon"><img class="wp-image-606" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Water-Heaters.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"fffa9433-810c-416f-af3f-a8c9fddd3838","metadata":{"name":"Infobox content"}} -->
+<div id="wd-fffa9433" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"b459e7aa-1b96-4dc8-97f6-a89a610d6506","content":"Installing Water Heaters","tpFontSize":"18"} -->
+<h2 id="wd-b459e7aa" class="wp-block-wd-title title">Installing Water Heaters</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"47d987ec-cd00-4cec-bf86-b700cb78c8d0","adjacentCount":6,"blocksGap":40,"adjacentCountMobile":2,"colWidthMobile":50} -->
+<div id="wd-47d987ec" class="wp-block-wd-column"><!-- wp:wd/infobox {"blockId":"2d1f9e44-2d31-49bc-9e08-036828eef3d0","align":"center"} -->
+<div id="wd-2d1f9e44" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"11ef6249-9d63-47d5-b2ee-10a24ac17426","image":{"id":602,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Cabinets.png"},"width":"128","height":"128"} -->
+<div id="wd-11ef6249" class="wp-block-wd-icon"><img class="wp-image-602" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Cabinets.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"cd585ae7-9699-42d5-a2c8-4a1ad8baa868","metadata":{"name":"Infobox content"}} -->
+<div id="wd-cd585ae7" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"52dac7a8-1a6a-43a9-8739-41ae403e6a50","content":"Installing Cabinets","tpFontSize":"18"} -->
+<h2 id="wd-52dac7a8" class="wp-block-wd-title title">Installing Cabinets</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"c1091b16-abe3-4e7e-aff1-096145a6c5a4","align":"center"} -->
+<div id="wd-c1091b16" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"a21bbc53-e14b-4d07-9155-f617b90e8a61","image":{"id":607,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-backsplashes.png"},"width":"128","height":"128"} -->
+<div id="wd-a21bbc53" class="wp-block-wd-icon"><img class="wp-image-607" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-backsplashes.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"ef26ebd0-1c07-49e9-a3e5-d26f9d782ad1","metadata":{"name":"Infobox content"}} -->
+<div id="wd-ef26ebd0" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"a465e959-2fe5-4316-b84d-7f0cda6debef","content":"Installing Backsplashes","tpFontSize":"18"} -->
+<h2 id="wd-a465e959" class="wp-block-wd-title title">Installing Backsplashes</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"7e7517b3-9629-4308-ab1f-4ce3266e4aef","adjacentCount":6,"blocksGap":40,"adjacentCountMobile":2,"colWidthMobile":50} -->
+<div id="wd-7e7517b3" class="wp-block-wd-column"><!-- wp:wd/infobox {"blockId":"e493c825-24fa-4534-8932-dceda1641402","align":"center"} -->
+<div id="wd-e493c825" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"ba59161a-50a5-4989-beae-9693b657efb5","image":{"id":603,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Cutting-Carpet.png"},"width":"128","height":"128"} -->
+<div id="wd-ba59161a" class="wp-block-wd-icon"><img class="wp-image-603" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Cutting-Carpet.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"e783e076-d9a6-4d05-adf9-2c50283875d6","metadata":{"name":"Infobox content"}} -->
+<div id="wd-e783e076" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"d8256109-69e4-4142-b20c-7635ad454100","content":"Cutting Carpet","tpFontSize":"18"} -->
+<h2 id="wd-d8256109" class="wp-block-wd-title title">Cutting Carpet</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"8a117f5a-3c51-4533-96fe-1872b16cdb26","align":"center"} -->
+<div id="wd-8a117f5a" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"a91df1c6-fed7-40f0-94aa-2e05905ce03d","image":{"id":608,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-shower-doors.png"},"width":"128","height":"128"} -->
+<div id="wd-a91df1c6" class="wp-block-wd-icon"><img class="wp-image-608" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-shower-doors.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"9dea7f96-5c63-4b27-a28b-14c6a2f92c54","metadata":{"name":"Infobox content"}} -->
+<div id="wd-9dea7f96" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"4e27b182-9cc1-42dc-9f37-6a1c9af2158a","content":"Installing Shower Doors","tpFontSize":"18"} -->
+<h2 id="wd-4e27b182" class="wp-block-wd-title title">Installing Shower Doors</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"f29ad764-9701-40ba-bdac-6a9fba18c287","adjacentCount":6,"blocksGap":40,"adjacentCountMobile":2,"colWidthMobile":50} -->
+<div id="wd-f29ad764" class="wp-block-wd-column"><!-- wp:wd/infobox {"blockId":"1465dd9e-c579-4aeb-84f1-0863f9cf056d","align":"center"} -->
+<div id="wd-1465dd9e" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"ea36db50-b001-4bd2-8536-b79a78cec5e7","image":{"id":604,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Laying-Flooring.png"},"width":"128","height":"128"} -->
+<div id="wd-ea36db50" class="wp-block-wd-icon"><img class="wp-image-604" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Laying-Flooring.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"d58ab873-0b2e-4cdd-90cd-cf605b1d984a","metadata":{"name":"Infobox content"}} -->
+<div id="wd-d58ab873" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"96799bb2-e8ad-4ba8-9328-9b0875358b59","content":"Laying Flooring","tpFontSize":"18"} -->
+<h2 id="wd-96799bb2" class="wp-block-wd-title title">Laying Flooring</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"a9f4d582-196c-41a3-9059-bf0ce93cb93d","align":"center"} -->
+<div id="wd-a9f4d582" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"afdffb61-2512-433f-a013-36825491a72d","image":{"id":609,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Shipping.png"},"width":"128","height":"128"} -->
+<div id="wd-afdffb61" class="wp-block-wd-icon"><img class="wp-image-609" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Shipping.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"a9386b73-623b-47a1-811e-3c4e06ed4421","metadata":{"name":"Infobox content"}} -->
+<div id="wd-a9386b73" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"6d0ac2c1-980e-4b4d-82cf-ae74b2f08e97","content":"Shipping","tpFontSize":"18"} -->
+<h2 id="wd-6d0ac2c1" class="wp-block-wd-title title">Shipping</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"a11fd836-0fca-4161-bf17-f42b76553035","adjacentCount":6,"blocksGap":40,"adjacentCountMobile":1,"colWidthMobile":50} -->
+<div id="wd-a11fd836" class="wp-block-wd-column"><!-- wp:wd/infobox {"blockId":"2388afd3-19a3-4960-b9d1-dfa0b23a27a9","align":"center"} -->
+<div id="wd-2388afd3" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"16f23cb5-b8c1-4d7d-a507-2aef3bd5046d","image":{"id":605,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-doors.png"},"width":"128","height":"128"} -->
+<div id="wd-16f23cb5" class="wp-block-wd-icon"><img class="wp-image-605" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-doors.png" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"9777c73e-66e3-41fe-84e0-92bee103e7f9","metadata":{"name":"Infobox content"}} -->
+<div id="wd-9777c73e" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"7bc63f22-1d64-4041-977b-56e0725020ea","content":"Installing Doors","tpFontSize":"18"} -->
+<h2 id="wd-7bc63f22" class="wp-block-wd-title title">Installing Doors</h2>
+<!-- /wp:wd/title --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>39</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 09:03:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 09:03:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-10-23 12:15:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-10-23 12:15:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[services]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+												<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+												<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+												<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+												<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/delivery/</link>
+					<pubDate>Tue, 09 Jul 2024 14:00:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/delivery.svg</guid>
+															<wp:post_id>375</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 14:00:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 14:00:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-09 14:00:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-09 14:00:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[delivery]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/delivery.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/delivery.svg]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[ready-design]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/ready-design/</link>
+					<pubDate>Tue, 09 Jul 2024 14:00:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/ready-design.svg</guid>
+															<wp:post_id>378</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 14:00:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 14:00:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-09 14:00:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-09 14:00:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[ready-design]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/ready-design.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/ready-design.svg]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[services-img-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/services-img-1/</link>
+					<pubDate>Wed, 10 Jul 2024 12:58:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-1.jpg</guid>
+															<wp:post_id>579</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 12:58:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 12:58:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 12:58:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 12:58:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[services-img-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/services-img-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[services-img-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/services-img-2/</link>
+					<pubDate>Wed, 10 Jul 2024 12:58:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-2.jpg</guid>
+															<wp:post_id>580</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 12:58:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 12:58:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 12:58:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 12:58:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[services-img-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-img-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/services-img-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[services-banner]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/services-banner/</link>
+					<pubDate>Wed, 10 Jul 2024 13:23:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-banner.jpg</guid>
+															<wp:post_id>593</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:23:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:23:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:23:06]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:23:06]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[services-banner]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/services-banner.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/services-banner.jpg]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Installing-Appliances]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/installing-appliances/</link>
+					<pubDate>Wed, 10 Jul 2024 13:27:48 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Appliances.png</guid>
+															<wp:post_id>601</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:27:48]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:27:48]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:27:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:27:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[installing-appliances]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Appliances.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Installing-Appliances.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Installing-Cabinets]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/installing-cabinets/</link>
+					<pubDate>Wed, 10 Jul 2024 13:28:29 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Cabinets.png</guid>
+															<wp:post_id>602</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:28:29]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:28:29]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:28:29]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:28:29]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[installing-cabinets]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Cabinets.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Installing-Cabinets.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Cutting-Carpet]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/cutting-carpet/</link>
+					<pubDate>Wed, 10 Jul 2024 13:28:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Cutting-Carpet.png</guid>
+															<wp:post_id>603</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:28:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:28:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:28:50]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:28:50]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[cutting-carpet]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Cutting-Carpet.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Cutting-Carpet.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Laying-Flooring]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/laying-flooring/</link>
+					<pubDate>Wed, 10 Jul 2024 13:29:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Laying-Flooring.png</guid>
+															<wp:post_id>604</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:29:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:29:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:29:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:29:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[laying-flooring]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Laying-Flooring.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Laying-Flooring.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Installing-doors]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/installing-doors/</link>
+					<pubDate>Wed, 10 Jul 2024 13:29:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-doors.png</guid>
+															<wp:post_id>605</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:29:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:29:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:29:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:29:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[installing-doors]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-doors.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Installing-doors.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Installing-Water-Heaters]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/installing-water-heaters/</link>
+					<pubDate>Wed, 10 Jul 2024 13:31:32 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Water-Heaters.png</guid>
+															<wp:post_id>606</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:31:32]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:31:32]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:31:32]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:31:32]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[installing-water-heaters]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-Water-Heaters.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Installing-Water-Heaters.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Installing-backsplashes]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/installing-backsplashes/</link>
+					<pubDate>Wed, 10 Jul 2024 13:31:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-backsplashes.png</guid>
+															<wp:post_id>607</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:31:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:31:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:31:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:31:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[installing-backsplashes]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-backsplashes.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Installing-backsplashes.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Installing-shower-doors]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/installing-shower-doors/</link>
+					<pubDate>Wed, 10 Jul 2024 13:32:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-shower-doors.png</guid>
+															<wp:post_id>608</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:32:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:32:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:32:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:32:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[installing-shower-doors]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Installing-shower-doors.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Installing-shower-doors.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+								<item>
+					<title><![CDATA[Shipping]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/services/shipping/</link>
+					<pubDate>Wed, 10 Jul 2024 13:33:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Shipping.png</guid>
+															<wp:post_id>609</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-10 13:33:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-10 13:33:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-10 13:33:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-10 13:33:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[shipping]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>39</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/Shipping.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/Shipping.png]]></wp:meta_value>
+						</wp:postmeta>
+										</item>
+				</channel>
+</rss>
+	

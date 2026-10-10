@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>pets-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 04 Aug 2025 13:25:06 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Blog archive - Pets]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/woodmart_layout/blog-archive-pets/</link>
+					<pubDate>Mon, 18 Aug 2025 13:25:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pets-gutenberg/?post_type=woodmart_layout&#038;p=476</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"c42b004a-9f87-44b7-992a-e37a4c2ce591","blockVersion":"2","bgColorCode":"#f6ede4","paddingTop":"10","paddingBottom":"10","marginTop":"-40","marginBottom":"40","overlay":false} -->
+<div class="wp-block-wd-section wd-c42b004a"><!-- wp:wd/container {"blockId":"f36e509b-f1e5-498a-80a3-5f9a2971619a","blockVersion":"2","direction":"row","align":"center","wrap":"wrap","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-f36e509b"><!-- wp:wd/page-heading {"blockId":"1802dae2-8a12-4886-a40c-e32027917d38","blockVersion":"2","tpFontSize":"26"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"01af4ace-da32-4668-b7d4-61677f679246","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/off-canvas {"blockId":"ab874477-04c5-4cee-9b22-900ef4a89004","blockVersion":"2","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-off-canvas wd-ab874477"><!-- wp:wd/off-content {"blockId":"4f9ec288-5b95-4e7e-8f94-93d734bf01c2","blockVersion":"2"} -->
+<div class="wp-block-wd-off-content wd-4f9ec288"><!-- wp:wd/off-canvas-button {"blockId":"3803bae9-df3c-4efd-a4a4-b1addaeefc20","blockVersion":"2","stickyBtn":true,"onlyStickyButton":true,"hideOnDesktop":true} -->
+<div class="wp-block-wd-off-canvas-button wd-off-canvas-btn wd-action-btn wd-style-text wd-burger-icon wd-action-hide-btn wd-hide-lg wd-3803bae9"><a href="#" rel="nofollow"><span>Show sidebar</span></a><div class="wd-sidebar-opener wd-show-on-scroll wd-action-btn wd-style-icon wd-burger-icon"><a href="#" rel="nofollow"></a></div></div>
+<!-- /wp:wd/off-canvas-button -->
+
+<!-- wp:wd/pa-blog {"blockId":"7cfa44a9-cdc4-4053-b335-e9b81d09358e","blockVersion":"2"} /--></div>
+<!-- /wp:wd/off-content -->
+
+<!-- wp:wd/off-sidebar {"blockId":"d16575d1-cb2e-4e5f-9b43-a7bb0e7b37e8","blockVersion":"2","sticky":true,"stickyOffset":"82","bgColorCode":"#ffffff","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"25","borderRadiusTop":"25","borderRadiusRight":"25","borderRadiusBottom":"25","borderRadiusLeft":"25","borderRadiusTablet":"0","borderRadiusTopTablet":"0","borderRadiusRightTablet":"0","borderRadiusBottomTablet":"0","borderRadiusLeftTablet":"0"} -->
+<div class="wp-block-wd-off-sidebar wd-left wd-hide-md-sm wd-hide-sm wd-sticky-on-lg wd_sticky_offset_82 wd-d16575d1"><div class="wd-heading"><div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div></div><div class="wd-content">
+<!-- wp:wd/sidebar {"blockId":"3322e09a-0af7-43c4-842e-a22e556a230a","blockVersion":"2","paddingTopMobile":"0","paddingRightMobile":"0","paddingBottomMobile":"0","paddingLeftMobile":"0","paddingLockMobile":true} /-->
+</div></div>
+<!-- /wp:wd/off-sidebar --></div>
+<!-- /wp:wd/off-canvas -->
+
+<!-- wp:wd/collapsible-content {"blockId":"65a6c120-dc18-437d-b9c9-4016732d2528","blockVersion":"2","contentHeight":"160"} -->
+<div class="wp-block-wd-collapsible-content wd-effect-fade wd-65a6c120"><!-- wp:wd/container {"blockId":"65308120-6b92-4fe2-94d8-363dadd33f8b","blockVersion":"2","metadata":{"name":"Content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-65308120"><!-- wp:wd/title {"blockId":"6f0be31d-7733-43ba-9cf1-4c61c3aba264","blockVersion":"2","content":"Online store of household appliances and electronics","tpFontSize":"30","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeMobile":"22"} -->
+<h2 class="wp-block-wd-title title wd-6f0be31d">Online store of household appliances and electronics</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"921260b6-823b-466e-8d89-7b3c3076d94f","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-921260b6">Then the question arises: where’s the content? Not there yet? That’s not so bad, there’s dummy copy to the rescue. But worse, what if the fish doesn’t fit in the can, the foot’s to big for the boot? Or to small? To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"4b7b4cff-49fb-4841-ab18-08750888cbdc","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-4b7b4cff">A client that’s unhappy for a reason is a problem, a client that’s unhappy though he or her can’t quite put a finger on it is worse. Chances are there wasn’t collaboration, communication, and checkpoints, there wasn’t a process agreed upon or specified with the granularity required. It’s content strategy gone awry right from the start. If that’s what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional appeal to the reader.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"309a40e7-5a3d-4960-887e-0cad4851225a","blockVersion":"2","predefinedColor":"white","shape":"round","icon":"right"} -->
+<a class="wp-block-wd-button btn btn-style-default btn-color-white btn-size-default btn-shape-round btn-icon-pos-right wd-309a40e7"><span>Read more</span><!-- wp:wd/icon {"blockId":"2b530e04-d6af-4511-b689-9d32fbc1d75b","blockVersion":"2","image":{"id":666,"url":"http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2026/05/chevron-down-black.svg","width":24,"height":24},"width":"15"} -->
+<div class="wp-block-wd-icon wd-2b530e04"><img class="wp-image-666" src="http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2026/05/chevron-down-black.svg" alt=""/></div>
+<!-- /wp:wd/icon --></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/collapsible-content -->]]></content:encoded>
+															<wp:post_id>476</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 13:25:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 13:25:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-15 14:00:23]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-15 14:00:23]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[blog-archive-pets]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[blog_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[chevron-down-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/brands/chevron-down-black/</link>
+					<pubDate>Fri, 15 May 2026 13:59:47 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2026/05/chevron-down-black.svg</guid>
+															<wp:post_id>666</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-15 13:59:47]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-15 13:59:47]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-15 13:59:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-15 13:59:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[chevron-down-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>26</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/2026/05/chevron-down-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/chevron-down-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

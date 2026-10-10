@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>admin</title>
+	<link>https://dummy.xtemos.com/woodmart2</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Wed, 14 Jul 2021 12:06:41 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/wp-content/uploads/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[burger-promotion-pop-up-bg-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/burger-promotion-pop-up-bg-1/</link>
+					<pubDate>Mon, 24 Nov 2025 10:34:33 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2025/11/burger-promotion-pop-up-bg-1.jpg</guid>
+															<wp:post_id>10668</wp:post_id>
+					<wp:post_date><![CDATA[2025-11-24 10:34:33]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-11-24 10:34:33]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-11-24 10:34:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-11-24 10:34:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[burger-promotion-pop-up-bg-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2025/11/burger-promotion-pop-up-bg-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/11/burger-promotion-pop-up-bg-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Floating Banner 20 (Promotion Popup 7)]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/?post_type=wd_floating_block&#038;p=11211</link>
+					<pubDate>Tue, 04 Aug 2026 08:46:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/?post_type=wd_floating_block&#038;p=11211</guid>
+											<content:encoded><![CDATA[[vc_row][vc_column woodmart_color_scheme="light" woodmart_css_id="6924362e6861b" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" wd_column_role_offcanvas_desktop="no" wd_column_role_offcanvas_tablet="no" wd_column_role_offcanvas_mobile="no" wd_column_role_content_desktop="no" wd_column_role_content_tablet="no" wd_column_role_content_mobile="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2OTI0MzYyZTY4NjFiIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no"][woodmart_title woodmart_css_id="699c170d0761d" title_font_size="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zaXplIiwiY3NzX2FyZ3MiOnsiZm9udC1zaXplIjpbIiAud29vZG1hcnQtdGl0bGUtY29udGFpbmVyIl19LCJzZWxlY3Rvcl9pZCI6IjY5OWMxNzBkMDc2MWQiLCJkYXRhIjp7ImRlc2t0b3AiOiI4MHB4IiwidGFibGV0IjoiNjBweCIsIm1vYmlsZSI6IjM2cHgifX0=" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2OTljMTcwZDA3NjFkIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6eyJwYWRkaW5nLWJvdHRvbSI6IjI3MHB4In19fQ==" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" title="SPECIAL DISCOUNT!" css=".vc_custom_1771837203764{padding-bottom: 320px !important;}" title_line_height="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zaXplIiwiY3NzX2FyZ3MiOnsibGluZS1oZWlnaHQiOlsiIC53b29kbWFydC10aXRsZS1jb250YWluZXIiXX0sInNlbGVjdG9yX2lkIjoiNjk5YzE3MGQwNzYxZCIsImRhdGEiOnsiZGVza3RvcCI6IjgwcHgiLCJ0YWJsZXQiOiI2MHB4IiwibW9iaWxlIjoiMzZweCJ9fQ=="][woodmart_title title_width="custom" title_decoration_style="default" woodmart_css_id="6929b246a33e9" title="Get up to <u>20% off</u> on your favorite position!" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2OTI5YjI0NmEzM2U5Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" title_font_size="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zaXplIiwiY3NzX2FyZ3MiOnsiZm9udC1zaXplIjpbIiAud29vZG1hcnQtdGl0bGUtY29udGFpbmVyIl19LCJzZWxlY3Rvcl9pZCI6IjY5MjliMjQ2YTMzZTkiLCJkYXRhIjp7ImRlc2t0b3AiOiIyOHB4IiwibW9iaWxlIjoiMThweCJ9fQ==" css=".vc_custom_1764340300113{margin-bottom: 20px !important;}" title_desktop_width="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfc2xpZGVyIiwiY3NzX2FyZ3MiOnsiLS13ZC1tYXgtd2lkdGgiOlsiIl19LCJjc3NfcGFyYW1zIjp7ImRldmljZSI6ImRlc2t0b3AifSwic2VsZWN0b3JfaWQiOiI2OTI5YjI0NmEzM2U5IiwiZGF0YSI6eyJkZXNrdG9wIjoiMzIwIn19" title_tablet_width="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfc2xpZGVyIiwiY3NzX2FyZ3MiOnsiLS13ZC1tYXgtd2lkdGgiOlsiIl19LCJjc3NfcGFyYW1zIjp7ImRldmljZSI6InRhYmxldCJ9LCJzZWxlY3Rvcl9pZCI6IjY5MjliMjQ2YTMzZTkiLCJkYXRhIjp7InRhYmxldCI6IjMyMCJ9fQ==" title_mobile_width="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfc2xpZGVyIiwiY3NzX2FyZ3MiOnsiLS13ZC1tYXgtd2lkdGgiOlsiIl19LCJjc3NfcGFyYW1zIjp7ImRldmljZSI6Im1vYmlsZSJ9LCJzZWxlY3Rvcl9pZCI6IjY5MjliMjQ2YTMzZTkiLCJkYXRhIjp7Im1vYmlsZSI6IjIxMCJ9fQ=="][woodmart_text_block text_font_size="s" text_color="custom" text_align="center" content_width="custom" woodmart_css_id="6929b11bc49a4" woodmart_inline="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2OTI5YjExYmM0OWE0Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGV4dF9ibG9jayIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" parallax_scroll="no" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" content_desktop_width="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfc2xpZGVyIiwiY3NzX2FyZ3MiOnsiLS13ZC1tYXgtd2lkdGgiOlsiIl19LCJjc3NfcGFyYW1zIjp7ImRldmljZSI6ImRlc2t0b3AifSwic2VsZWN0b3JfaWQiOiI2OTI5YjExYmM0OWE0IiwiZGF0YSI6eyJkZXNrdG9wIjoiMjgwIn19" css=".vc_custom_1764340013419{margin-bottom: 0px !important;padding-top: 7px !important;padding-right: 15px !important;padding-bottom: 7px !important;padding-left: 15px !important;background-color: #FFFFFF !important;border-radius: 20px !important;}" text_color_custom="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIud2QtdGV4dC1ibG9jayJdfSwic2VsZWN0b3JfaWQiOiI2OTI5YjExYmM0OWE0IiwiZGF0YSI6eyJkZXNrdG9wIjoiI2E3MmM0OSJ9fQ==" content_tablet_width="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfc2xpZGVyIiwiY3NzX2FyZ3MiOnsiLS13ZC1tYXgtd2lkdGgiOlsiIl19LCJjc3NfcGFyYW1zIjp7ImRldmljZSI6InRhYmxldCJ9LCJzZWxlY3Rvcl9pZCI6IjY5MjliMTFiYzQ5YTQiLCJkYXRhIjp7InRhYmxldCI6IjIyMCJ9fQ=="]Coupon: <strong>TEASTY20OFF</strong>[/woodmart_text_block][/vc_column][/vc_row]]]></content:encoded>
+															<wp:post_id>11211</wp:post_id>
+					<wp:post_date><![CDATA[2026-08-04 08:46:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-08-04 08:46:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-21 11:12:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-21 11:12:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[floating-banner-20-promotion-popup-7]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wd_floating_block]]></wp:post_type>
+												<category domain="wd_floating_block_cat" nicename="banner"><![CDATA[Banner]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[animation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[left-flip-y]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[backdrop_filter_brightness]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[backdrop_filter_contrast]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[backdrop_filter_opacity]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[backdrop_filter_saturate]]></wp:meta_key>
+							<wp:meta_value><![CDATA[100]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[close_btn]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[persistent_close]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:2:{s:10:"comparison";s:7:"include";s:4:"type";s:3:"all";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[is_some_time_enabled]]></wp:meta_key>
+							<wp:meta_value><![CDATA[0]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[scroll_value]]></wp:meta_key>
+							<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidmFsdWUiOjUwLCJ1bml0IjoiJSJ9fX0=]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[inactivity_time]]></wp:meta_key>
+							<wp:meta_value><![CDATA[10000]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[click_times]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_vc_editor_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[backend]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[woodmart_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#wd-699c170d0761d .woodmart-title-container{font-size:80px;line-height:80px;}#wd-6929b246a33e9{--wd-max-width:320px;}#wd-6929b246a33e9 .woodmart-title-container{line-height:38px;font-size:28px;}#wd-6929b11bc49a4.wd-text-block{color:#a72c49;}#wd-6929b11bc49a4{--wd-max-width:280px;}@media (max-width: 1199.98px) {#wd-699c170d0761d .woodmart-title-container{font-size:60px;line-height:60px;}#wd-6929b246a33e9{--wd-max-width:320px;}#wd-6929b11bc49a4{--wd-max-width:220px;}}@media (max-width: 767.98px) {#wd-699c170d0761d .woodmart-title-container{font-size:36px;line-height:36px;}html .wd-rs-699c170d0761d{padding-bottom:270px !important;}#wd-6929b246a33e9{--wd-max-width:210px;}#wd-6929b246a33e9 .woodmart-title-container{line-height:28px;font-size:18px;}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1771837203764{padding-bottom: 320px !important;}.vc_custom_1764340300113{margin-bottom: 20px !important;}.vc_custom_1764340013419{margin-bottom: 0px !important;padding-top: 7px !important;padding-right: 15px !important;padding-bottom: 7px !important;padding-left: 15px !important;background-color: #FFFFFF !important;border-radius: 20px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[width]]></wp:meta_key>
+							<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOjUyMH0sInRhYmxldCI6eyJ1bml0IjoicHgiLCJ2YWx1ZSI6IiJ9LCJtb2JpbGUiOnsidW5pdCI6InB4IiwidmFsdWUiOiIifX19]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidG9wIjoiMzAiLCJyaWdodCI6IjMwIiwiYm90dG9tIjoiMzAiLCJsZWZ0IjoiMzAifSwidGFibGV0Ijp7InVuaXQiOiJweCJ9LCJtb2JpbGUiOnsidW5pdCI6InB4In19LCJpc19sb2NrIjp0cnVlfQ==]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[margin]]></wp:meta_key>
+							<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwicmlnaHQiOiIyMCIsImJvdHRvbSI6IjIwIiwibGVmdCI6IjIwIn0sInRhYmxldCI6eyJ1bml0IjoicHgiLCJib3R0b20iOiI2OCJ9LCJtb2JpbGUiOnsidW5pdCI6InB4In19LCJpc19sb2NrIjpmYWxzZX0=]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[vertical_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[end]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[horizontal_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[left]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[background_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:93:"http://dummy.xtemos.com/woodmart2/wp-content/uploads/2025/11/burger-promotion-pop-up-bg-1.jpg";s:2:"id";s:5:"10668";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[close_btn_offset_v]]></wp:meta_key>
+							<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOjB9LCJ0YWJsZXQiOnsidW5pdCI6InB4IiwidmFsdWUiOiIifSwibW9iaWxlIjp7InVuaXQiOiJweCIsInZhbHVlIjoiIn19fQ==]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[close_btn_offset_h]]></wp:meta_key>
+							<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOjB9LCJ0YWJsZXQiOnsidW5pdCI6InB4IiwidmFsdWUiOiIifSwibW9iaWxlIjp7InVuaXQiOiJweCIsInZhbHVlIjoiIn19fQ==]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[close_btn_icon_color]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:16:"rgb(255,255,255)";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[close_btn_icon_color_hover]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:4:"idle";s:21:"rgba(255,255,255,0.5)";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_post_custom_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

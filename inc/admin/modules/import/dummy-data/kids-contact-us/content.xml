@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Kids dummy</title>
+	<link>https://dummy.xtemos.com/woodmart2/kids</link>
+	<description></description>
+	<pubDate>Thu, 15 Jun 2023 11:05:57 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/kids</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form Kids]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/?post_type=wpcf7_contact_form&#038;p=11</link>
+					<pubDate>Mon, 19 Jun 2023 14:42:13 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/kids/?post_type=wpcf7_contact_form&#038;p=11</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<p class="wd-col">[text* First name placeholder ="First name"]</p>
+<p class="wd-col">[text* Last name placeholder ="Last name"]</p>
+</div>
+<p class="wd-col">[text* Last name placeholder ="Email" ]</p>
+<p class="wd-col">[textarea your-message placeholder ="Your Message"]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>11</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-19 14:42:13]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-19 14:42:13]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-24 13:50:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-24 13:50:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<p class="wd-col">[text* First name placeholder ="First name"]</p>
+<p class="wd-col">[text* Last name placeholder ="Last name"]</p>
+</div>
+<p class="wd-col">[text* Last name placeholder ="Email" ]</p>
+<p class="wd-col">[textarea your-message placeholder ="Your Message"]</p>
+<p class="wd-col">[submit class:btn class:btn-color-primary"Send Message"]</p>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:161:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[adaec8c5f9e2a7027d5ab71bf3bcacc29cc683d9]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}s:23:"mail.additional_headers";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:51:"Invalid mailbox syntax is used in the %name% field.";s:6:"params";a:1:{s:4:"name";s:8:"Reply-To";}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/contact-us/</link>
+					<pubDate>Mon, 19 Jun 2023 14:43:50 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/kids/?page_id=18</guid>
+											<content:encoded><![CDATA[[vc_row css=".vc_custom_1684161834689{margin-top: 40px !important;margin-bottom: 100px !important;}" woodmart_css_id="64624522765ce" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDYyNDUyMjc2NWNlIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnsibWFyZ2luLXRvcCI6IjBweCIsIm1hcmdpbi1ib3R0b20iOiI2MCJ9LCJtb2JpbGUiOnsibWFyZ2luLWJvdHRvbSI6IjQwIn19fQ==" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column width="1/2" woodmart_css_id="646246f48042d" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" wd_column_role_offcanvas_desktop="no" wd_column_role_offcanvas_tablet="no" wd_column_role_offcanvas_mobile="no" wd_column_role_content_desktop="no" wd_column_role_content_tablet="no" wd_column_role_content_mobile="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDYyNDZmNDgwNDJkIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnsibWFyZ2luLWJvdHRvbSI6IjQwIn19fQ==" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no"][woodmart_title align="left" title_width="custom" size="medium" woodmart_css_id="648b2ac6a2b8d" title_desktop_width="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfc2xpZGVyIiwiY3NzX2FyZ3MiOnsiLS13ZC1tYXgtd2lkdGgiOlsiIl19LCJjc3NfcGFyYW1zIjp7ImRldmljZSI6ImRlc2t0b3AifSwic2VsZWN0b3JfaWQiOiI2NDhiMmFjNmEyYjhkIiwiZGF0YSI6eyJkZXNrdG9wIjo0MjB9fQ==" title="913 Wyandotte St, Kansas City, MO 64105, United States" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDhiMmFjNmEyYjhkIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" title_font_size="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zaXplIiwiY3NzX2FyZ3MiOnsiZm9udC1zaXplIjpbIiAud29vZG1hcnQtdGl0bGUtY29udGFpbmVyIl19LCJzZWxlY3Rvcl9pZCI6IjY0OGIyYWM2YTJiOGQiLCJkYXRhIjp7ImRlc2t0b3AiOiIzMnB4IiwidGFibGV0IjoiMjZweCIsIm1vYmlsZSI6IjIycHgifX0="][woodmart_popup shape="semi-round" color="primary" align="left" icon_type="image" image="211" icon_position="left" width="800" woodmart_css_id="6a39401f3eb9a" title="Show on a map" full_width="no" button_inline="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTM5NDAxZjNlYjlhIiwic2hvcnRjb2RlIjoid29vZG1hcnRfcG9wdXAiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no" css=".vc_custom_1782136866546{margin-bottom: 40px !important;}" id="contact-us-map" img_size="16x16" padding="eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOiIwIn19fQ==" wd_backdrop_filter=""][html_block id="182"][/woodmart_popup][woodmart_list size="medium" color_scheme="custom" list_type="without" woodmart_css_id="6466296b6f932" list_items_gap="eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOiIxNSJ9LCJ0YWJsZXQiOnsidW5pdCI6InB4IiwidmFsdWUiOiIwIn0sIm1vYmlsZSI6eyJ1bml0IjoicHgiLCJ2YWx1ZSI6IjAifX19" list="%5B%7B%22link%22%3A%22url%3Atel%253A(064)%2520332-1233%22%2C%22list-content%22%3A%22Call%20Us%3A%20%3Cu%3E(064)%20332-1233%3C%2Fu%3E%22%2C%22item_type%22%3A%22inherit%22%7D%2C%7B%22list-content%22%3A%22Hours%3A%209%3A00am%20-%205%3A00pm%22%2C%22item_type%22%3A%22inherit%22%7D%2C%7B%22list-content%22%3A%22Monday%20-%20Friday%22%2C%22item_type%22%3A%22inherit%22%7D%5D" css=".vc_custom_1684416884347{margin-bottom: 15px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDY2Mjk2YjZmOTMyIiwic2hvcnRjb2RlIjoid29vZG1hcnRfbGlzdCIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19" text_color="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgbGkiXX0sInNlbGVjdG9yX2lkIjoiNjQ2NjI5NmI2ZjkzMiIsImRhdGEiOnsiZGVza3RvcCI6IiMzMzMzMzMifX0=" text_color_hover="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJjb2xvciI6WyIgbGk6aG92ZXIiXX0sInNlbGVjdG9yX2lkIjoiNjQ2NjI5NmI2ZjkzMiIsImRhdGEiOnsiZGVza3RvcCI6IiMzMzMzMzMifX0="][social_buttons align="left" style="bordered" size="small" color="dark" woodmart_css_id="646244be35a6f" show_label="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDYyNDRiZTM1YTZmIiwic2hvcnRjb2RlIjoic29jaWFsX2J1dHRvbnMiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" css=".vc_custom_1684161730204{margin-left: -6px !important;}"][/vc_column][vc_column width="1/2"][woodmart_title align="left" size="medium" woodmart_css_id="6462438f69121" title="Get in touch" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDYyNDM4ZjY5MTIxIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][woodmart_contact_form_7 form_id="11" woodmart_css_id="678e6b0f389cf" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NzhlNmIwZjM4OWNmIiwic2hvcnRjb2RlIjoid29vZG1hcnRfY29udGFjdF9mb3JtXzciLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ==" wd_hide_on_desktop="no" wd_hide_on_tablet="no" wd_hide_on_mobile="no"][/vc_column][/vc_row][vc_row woodmart_stretch_content="section-stretch-content" woodmart_css_id="6464e235f2c04" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDY0ZTIzNWYyYzA0Iiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column css=".vc_custom_1684161853514{padding-top: 0px !important;}" woodmart_css_id="646245395c3ee" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" wd_column_role_offcanvas_desktop="no" wd_column_role_offcanvas_tablet="no" wd_column_role_offcanvas_mobile="no" wd_column_role_content_desktop="no" wd_column_role_content_tablet="no" wd_column_role_content_mobile="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDYyNDUzOTVjM2VlIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no"][woodmart_gallery images="213,214,215,216,217" rounding_size="" view="carousel" spacing="30" speed="25000" sync_parent_id="wd_678e6ac9d332f" sync_group_id="group-1" slides_per_view="5" woodmart_css_id="64919151b195a" img_size="full" autoplay="yes" hide_pagination_control="yes" hide_prev_next_buttons="no" wrap="yes" center_mode="no" caption="0" lazy_loading="no" scroll_carousel_init="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDkxOTE1MWIxOTVhIiwic2hvcnRjb2RlIjoid29vZG1hcnRfZ2FsbGVyeSIsImRhdGEiOnsidGFibGV0Ijp7fSwibW9iaWxlIjp7fX19"][/vc_column][/vc_row]]]></content:encoded>
+															<wp:post_id>18</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-19 14:43:50]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-19 14:43:50]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-06-22 14:01:08]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-06-22 14:01:08]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[woodmart_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.wd-rs-6466296b6f932.wd-list{--wd-row-gap: 15px;}#wd-648b2ac6a2b8d{--wd-max-width:420px;}#wd-648b2ac6a2b8d .woodmart-title-container{line-height:42px;font-size:32px;}#wd-6466296b6f932 li:hover{color:#333333;}#wd-6466296b6f932 li{color:#333333;}@media (max-width: 1199.98px) {html .wd-rs-64624522765ce{margin-top:0px !important;margin-bottom:60px !important;}#wd-648b2ac6a2b8d .woodmart-title-container{line-height:36px;font-size:26px;}}@media (max-width: 767.98px) {html .wd-rs-64624522765ce{margin-bottom:40px !important;}html .wd-rs-646246f48042d > .vc_column-inner{margin-bottom:40px !important;}#wd-648b2ac6a2b8d .woodmart-title-container{line-height:32px;font-size:22px;}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1684161834689{margin-top: 40px !important;margin-bottom: 100px !important;}.vc_custom_1782136866546{margin-bottom: 40px !important;}.vc_custom_1684416884347{margin-bottom: 15px !important;}.vc_custom_1684161730204{margin-left: -6px !important;}.vc_custom_1684161853514{padding-top: 0px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_post_custom_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_vc_editor_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[backend]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us map]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/?cms_block=contact-us-map</link>
+					<pubDate>Tue, 20 Jun 2023 11:16:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/kids/?post_type=cms_block&#038;p=182</guid>
+											<content:encoded><![CDATA[[vc_row css=".vc_custom_1684162765423{margin-top: -30px !important;margin-right: -30px !important;margin-bottom: -30px !important;margin-left: -30px !important;}" woodmart_css_id="646248bf551e5" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDYyNDhiZjU1MWU1Iiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column css=".vc_custom_1684162782234{padding-right: 0px !important;padding-left: 0px !important;}" woodmart_css_id="646248da37240" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" wd_column_role_offcanvas_desktop="no" wd_column_role_offcanvas_tablet="no" wd_column_role_offcanvas_mobile="no" wd_column_role_content_desktop="no" wd_column_role_content_tablet="no" wd_column_role_content_mobile="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDYyNDhkYTM3MjQwIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no"][woodmart_open_street_map woodmart_css_id="646248f869d63" marker_list="%5B%7B%22marker_behavior%22%3A%22popup%22%2C%22show_button%22%3A%22no%22%2C%22button_url_target%22%3A%22_blank%22%2C%22image_size%22%3A%22full%22%7D%5D" zoom="eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6ImxldmVsIiwidmFsdWUiOiIxNSJ9fX0=" height="eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOiI0MDAifSwidGFibGV0Ijp7InVuaXQiOiJweCIsInZhbHVlIjoiMjAwIn0sIm1vYmlsZSI6eyJ1bml0IjoicHgiLCJ2YWx1ZSI6IjIwMCJ9fX0=" zoom_control="yes" scroll_zoom="yes" pan_control="yes" content_width="480" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2NDYyNDhmODY5ZDYzIiwic2hvcnRjb2RlIjoid29vZG1hcnRfb3Blbl9zdHJlZXRfbWFwIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0="][/woodmart_open_street_map][/vc_column][/vc_row]]]></content:encoded>
+															<wp:post_id>182</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-20 11:16:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-20 11:16:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-06-20 11:16:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-06-20 11:16:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us-map]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[woodmart_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.wd-rs-646248f869d63.wd-osm-map-container .wd-osm-map-wrapper{height: 400px;}@media (max-width: 1199px) { .wd-rs-646248f869d63.wd-osm-map-container .wd-osm-map-wrapper{height: 200px;} }@media (max-width: 767px) { .wd-rs-646248f869d63.wd-osm-map-container .wd-osm-map-wrapper{height: 200px;} }]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1684162765423{margin-top: -30px !important;margin-right: -30px !important;margin-bottom: -30px !important;margin-left: -30px !important;}.vc_custom_1684162782234{padding-right: 0px !important;padding-left: 0px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[pointer-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/contact-us/pointer-white/</link>
+					<pubDate>Tue, 20 Jun 2023 11:45:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/pointer-white.svg</guid>
+															<wp:post_id>211</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-20 11:45:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-20 11:45:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-06-20 11:45:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-06-20 11:45:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[pointer-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>18</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/pointer-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2023/06/pointer-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-contact-us-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/contact-us/w-bcs-contact-us-4-opt/</link>
+					<pubDate>Tue, 20 Jun 2023 11:45:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-4-opt.jpg</guid>
+															<wp:post_id>213</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-20 11:45:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-20 11:45:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-06-20 11:45:56]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-06-20 11:45:56]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-contact-us-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>18</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2023/06/w-bcs-contact-us-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-contact-us-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/contact-us/w-bcs-contact-us-5-opt/</link>
+					<pubDate>Tue, 20 Jun 2023 11:45:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-5-opt.jpg</guid>
+															<wp:post_id>214</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-20 11:45:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-20 11:45:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-06-20 11:45:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-06-20 11:45:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-contact-us-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>18</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2023/06/w-bcs-contact-us-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-contact-us-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/contact-us/w-bcs-contact-us-1-opt/</link>
+					<pubDate>Tue, 20 Jun 2023 11:45:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-1-opt.jpg</guid>
+															<wp:post_id>215</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-20 11:45:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-20 11:45:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-06-20 11:45:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-06-20 11:45:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-contact-us-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>18</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2023/06/w-bcs-contact-us-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-contact-us-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/contact-us/w-bcs-contact-us-2-opt/</link>
+					<pubDate>Tue, 20 Jun 2023 11:45:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-2-opt.jpg</guid>
+															<wp:post_id>216</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-20 11:45:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-20 11:45:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-06-20 11:45:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-06-20 11:45:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-contact-us-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>18</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2023/06/w-bcs-contact-us-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[w-bcs-contact-us-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/kids/contact-us/w-bcs-contact-us-3-opt/</link>
+					<pubDate>Tue, 20 Jun 2023 11:45:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-3-opt.jpg</guid>
+															<wp:post_id>217</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-20 11:45:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-20 11:45:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2023-06-20 11:45:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2023-06-20 11:45:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[w-bcs-contact-us-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>18</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/kids/wp-content/uploads/sites/13/2023/06/w-bcs-contact-us-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2023/06/w-bcs-contact-us-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

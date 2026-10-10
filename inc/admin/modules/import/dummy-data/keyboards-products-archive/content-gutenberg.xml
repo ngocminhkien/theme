@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>keyboards-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg</link>
+	<description></description>
+	<pubDate>Fri, 10 Apr 2026 13:17:46 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/wp-content/uploads/sites/73/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Products archive - Keyboards]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/woodmart_layout/products-archive-keyboards/</link>
+					<pubDate>Tue, 21 Apr 2026 11:46:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/keyboards-gutenberg/?post_type=woodmart_layout&#038;p=247</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"c0a1e3fa-2ec2-4adb-8167-8d5e30306ecd","blockVersion":"2","colorScheme":"light","bgColorCode":"#c1bdfb","paddingTop":"50","paddingRight":"30","paddingBottom":"50","paddingLeft":"30","marginTop":"-35","marginBottom":"10","borderType":"solid","borderColorCode":"#e9e9e9","borderWidth":"15","borderWidthTop":"15","borderWidthRight":"15","borderWidthBottom":"15","borderWidthLeft":"15","borderWidthLock":true,"borderRadius":"31","borderRadiusTop":"31","borderRadiusRight":"31","borderRadiusBottom":"31","borderRadiusLeft":"31","visibility":"","overflowX":"visible","overflowY":"visible","paddingTopTablet":"30","paddingBottomTablet":"30"} -->
+<div class="wp-block-wd-section color-scheme-light wd-c0a1e3fa"><!-- wp:wd/container {"blockId":"9cc24d48-c9c7-4d66-a925-6f0a069d4ced","blockVersion":"2","textAlign":"center","rowGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-col wd-align wd-9cc24d48"><!-- wp:wd/page-heading {"blockId":"a79a33c9-8d72-447d-840a-9061ff7daca9","blockVersion":"2","tpFontSize":"48","tpFontSizeTablet":"36","tpFontSizeMobile":"28"} /-->
+
+<!-- wp:wd/woo-breadcrumbs {"blockId":"5ce8ab3d-83d2-4ef2-ad6d-47f25c78766b","blockVersion":"2","textAlign":"center","nowrapMd":true} /-->
+
+<!-- wp:wd/sa-filters-area-btn {"blockId":"924c7f9a-9eb8-4cda-aaa4-0eaba902dbe0","blockVersion":"2","hideOnDesktop":true,"displayWidth":"fit-content"} /-->
+
+<!-- wp:wd/sa-filters-area {"blockId":"5fde413c-5b22-4f3f-ad3b-04b52d047560","blockVersion":"2","paddingTop":"20","paddingBottom":"0","borderType":"none","displayWidth":"","paddingBottomTablet":"0"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/woo-notices {"blockId":"5405c819-e5a3-421c-a975-10176449d2d7","blockVersion":"2"} /-->
+
+<!-- wp:wd/sa-archive-products {"blockId":"ee93f198-7a13-41fa-8e2b-85ee8ecae649","blockVersion":"2"} /-->]]></content:encoded>
+															<wp:post_id>247</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-21 11:46:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-21 11:46:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-21 11:36:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-21 11:36:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-keyboards]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

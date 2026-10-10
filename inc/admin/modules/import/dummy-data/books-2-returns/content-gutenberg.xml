@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Books 2 Gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 02 Jul 2026 06:34:14 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/wp-content/uploads/sites/88/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>259</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[pages-menu-books-2]]></wp:term_slug><wp:term_name><![CDATA[Pages menu Books 2]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[Returns]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/returns-2/</link>
+					<pubDate>Mon, 13 Jul 2026 13:43:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?page_id=194</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"48b04430-6c05-43ba-a3d1-1a6f0a951434","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","marginTopTablet":"-20"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-48b04430"><!-- wp:wd/page-heading {"blockId":"d949120c-80ec-4d80-82f0-6d689938715e","blockVersion":"2","tpFontSize":"38","tpFontSizeTablet":"28","tpFontSizeMobile":"22"} /-->
+
+<!-- wp:wd/breadcrumbs {"blockId":"b4c1e2c2-a3ca-4aeb-9e22-bc46bdb91938","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"928a498c-08b8-48d4-b521-ace7075173f7","blockVersion":"2","marginBottom":"60","columnsGap":null,"marginBottomTablet":"40","columnsGapTablet":null} -->
+<div class="wp-block-wd-row wd-928a498c"><!-- wp:wd/column {"blockId":"4e7e55a1-52eb-4cc2-875c-33b418261d6c","blockVersion":"2","adjacentCount":2,"colWidth":15,"sticky":true,"stickyOffset":"140","flexOrderMobile":"2","adjacentCountTablet":2,"colWidthTablet":30} -->
+<div class="wp-block-wd-column wd-sticky-on-lg wd_sticky_offset_140 wd-4e7e55a1"><!-- wp:wd/title {"blockId":"5ec57249-8f23-4590-94d2-99d91c6e8b06","blockVersion":"2","content":"Quick Links","tpFontSize":"28","hideOnDesktop":true,"hideOnTablet":true,"htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-hide-lg wd-hide-md-sm wd-5ec57249">Quick Links</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/menu {"blockId":"d62a6afe-3801-4742-8086-64ced7d9cb09","blockVersion":"2","nav_menu":"259","design":"vertical","dropdown_design":"simple","itemTpFontVariant":"500","itemTpFontWeight":"500","itemTpActiveFontVariant":"600","itemTpActiveFontWeight":"600","itemsColorCode":"#767676","itemsHoverColorCode":"#333333","className":"wd-active-font-weight"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"8f28470e-15be-4c9f-bd43-1600b73ea1e1","blockVersion":"2","adjacentCount":2,"colWidth":85,"adjacentCountTablet":2,"colWidthTablet":70} -->
+<div class="wp-block-wd-column wd-8f28470e"><!-- wp:wd/title {"blockId":"e79e102c-c5d9-4c09-8088-2a117c7ed108","blockVersion":"2","content":"Our Return Policy","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-e79e102c">Our Return Policy</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"7d45efa5-c331-4f61-8087-db60cd5b5eb9","blockVersion":"2","marginBottom":"20"} -->
+<p class="wp-block-wd-paragraph wd-7d45efa5">Your satisfaction is our top priority! If for any reason you are not fully satisfied with your purchase, we offer a hassle-free return policy. You can return any eligible items within 30 days from the date of delivery. Whether you prefer a full refund or an exchange, we are here to ensure that you have a positive shopping experience.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"f5b4783a-3364-4c7f-bf01-3775dd0a3cd5","blockVersion":"2","content":"Eligibility for Returns","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-f5b4783a">Eligibility for Returns</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"3ee46359-01d5-4fb9-9f23-405ce5405006","blockVersion":"2","iconType":"unordered-2","marginBottom":"20"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-3ee46359"><!-- wp:wd/list-item {"blockId":"62ecb730-236a-44b3-8b6a-cbf2f5c4cbc3","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-62ecb730"><div class="wd-icon"></div><span class="wd-list-content">Items must be in their original, unused, and resalable condition.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"a08be299-6ffc-47e8-a394-ce035da815b2","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-a08be299"><div class="wd-icon"></div><span class="wd-list-content">Books must have no visible signs of wear, torn pages, bent covers, or markings.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"ae4ac24b-e9cb-439f-b0ed-87b0972d1a64","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-ae4ac24b"><div class="wd-icon"></div><span class="wd-list-content">Items must be returned with all original packaging and accessories (if applicable).</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"6b498ec3-da6a-49e4-b4f4-912b7446a903","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-6b498ec3"><div class="wd-icon"></div><span class="wd-list-content">Please note: Digital products (eBooks, audiobooks) are generally non-refundable once downloaded or accessed.</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"b037fbff-82eb-4a34-892e-bd16e8950634","blockVersion":"2","content":"How to Initiate a Return","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-b037fbff">How to Initiate a Return</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"228c8350-3794-47ee-b6d4-cb3c40b07ab9","blockVersion":"2","iconType":"ordered"} -->
+<ul class="wp-block-wd-list wd-list wd-type-ordered wd-style-default wd-228c8350"><!-- wp:wd/list-item {"blockId":"a3ece2ca-16e3-467e-a8d2-1dc25dc7c521","blockVersion":"2","iconType":"ordered","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-a3ece2ca"><div class="wd-icon"></div><span class="wd-list-content"><strong>Contact Us:</strong> Please email our Customer Service team at <a href="mailto:books-store@mail.com">books-store@mail.com</a> or call us at <a href="tel:6864921040">686 492 1040</a> to request a Return Merchandise Authorization (RMA) number. Please include your order number and the reason for your return.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"b77f5505-2382-488e-9559-ad37926ebb6f","blockVersion":"2","iconType":"ordered","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-b77f5505"><div class="wd-icon"></div><span class="wd-list-content"><strong>Package Your Item(s):</strong> Securely package the item(s) you wish to return, including a copy of your original packing slip or order confirmation. Clearly write your RMA number on the outside of the package.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"a5c9362c-d911-4ee7-8d8c-fb1bc6a4f895","blockVersion":"2","iconType":"ordered","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-a5c9362c"><div class="wd-icon"></div><span class="wd-list-content"><strong>Ship Your Return:</strong> Send your package to the return address provided by our Customer Service team. We recommend using a trackable shipping method, as we are not responsible for returns lost in transit.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"61c8cea4-0778-4b2d-b441-da92157479ca","blockVersion":"2","iconType":"ordered","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-61c8cea4"><div class="wd-icon"></div><span class="wd-list-content"><strong>Return Shipping Costs:</strong></span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/list {"blockId":"bc047b26-f291-4ede-b42d-83ce488bf1e6","blockVersion":"2","iconType":"unordered-2","marginBottom":"20","marginLeft":"20"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-bc047b26"><!-- wp:wd/list-item {"blockId":"a8352499-482a-4789-9a88-28e2ab684cd4","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-a8352499"><div class="wd-icon"></div><span class="wd-list-content">If the return is due to our error (e.g., wrong item, damaged item), we will provide a prepaid return label.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"ffccd2d0-3f8d-415f-a721-25228a3b5293","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-ffccd2d0"><div class="wd-icon"></div><span class="wd-list-content">For all other returns (e.g., change of mind), the customer is responsible for return shipping costs.</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"e0df9254-de8e-4e89-beae-0fac62bb4987","blockVersion":"2","content":"Refunds","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-e0df9254">Refunds</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/list {"blockId":"ff542731-a0f7-4674-bb4f-ddc6289f31db","blockVersion":"2","iconType":"unordered-2","marginBottom":"20"} -->
+<ul class="wp-block-wd-list wd-list wd-type-unordered-2 wd-ff542731"><!-- wp:wd/list-item {"blockId":"9fd54504-f372-44e5-b121-9f58abc16901","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-9fd54504"><div class="wd-icon"></div><span class="wd-list-content">Once your return is received and inspected, we will notify you of the approval or rejection of your refund.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"f9703518-cb42-4de6-bf14-ebc16768c790","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-f9703518"><div class="wd-icon"></div><span class="wd-list-content">Approved refunds will be processed within 5-7 business days to your original payment method.</span></li>
+<!-- /wp:wd/list-item -->
+
+<!-- wp:wd/list-item {"blockId":"b66f2ae5-b851-476b-b9c2-c247e244b18f","blockVersion":"2","iconType":"unordered-2","svg":"","image":""} -->
+<li class="wp-block-wd-list-item wd-b66f2ae5"><div class="wd-icon"></div><span class="wd-list-content">Please note that it may take additional time for your bank or credit card company to post the refund to your account.</span></li>
+<!-- /wp:wd/list-item --></ul>
+<!-- /wp:wd/list -->
+
+<!-- wp:wd/title {"blockId":"88137835-23ea-444a-9cab-3a1cd0d8c951","blockVersion":"2","content":"Exchanges","tpFontSize":"28"} -->
+<h2 class="wp-block-wd-title title wd-88137835">Exchanges</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"f3c0fad3-a29e-4114-bd5a-850a103d7503","blockVersion":"2","marginBottom":"20"} -->
+<p class="wp-block-wd-paragraph wd-f3c0fad3">If you would like to exchange an item, please indicate this when requesting your RMA number. We will process your exchange once the original item is received and inspected.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"e3311b3e-270c-43cd-9f37-96b79a7d13f0","blockVersion":"2","content":"Damaged or Incorrect Items","tpFontSize":"28","htmlTag":"h2"} -->
+<h2 class="wp-block-wd-title title wd-e3311b3e">Damaged or Incorrect Items</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"0593b900-7503-4567-a26d-4ab544008a50","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-0593b900">If you receive a damaged, defective, or incorrect item, please contact us immediately (within 7 days of delivery) with your order number and photos of the item. We will arrange for a replacement or full refund and cover all associated shipping costs.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>194</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-13 13:43:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-13 13:43:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-24 11:23:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-24 11:23:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[returns-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[About us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/about-us/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=434</guid>
+															<wp:post_id>434</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[434]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/about-us/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/contact-us/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=435</guid>
+															<wp:post_id>435</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[435]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/contact-us/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Bookstore location]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/bookstore-location/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=436</guid>
+															<wp:post_id>436</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[bookstore-location]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[436]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/bookstore-location/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Orders &amp; Shipping]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/orders-shipping/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=437</guid>
+															<wp:post_id>437</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[orders-shipping]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>4</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[437]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/orders-shipping/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Payment]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/payment/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=438</guid>
+															<wp:post_id>438</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>5</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[438]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/payment/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Returns]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/books-2-gutenberg/2026/07/22/returns/</link>
+					<pubDate>Wed, 22 Jul 2026 08:56:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/books-2-gutenberg/?p=439</guid>
+															<wp:post_id>439</wp:post_id>
+					<wp:post_date><![CDATA[2026-07-22 08:56:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-22 08:56:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-22 08:56:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[returns]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>6</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="pages-menu-books-2"><![CDATA[Pages menu Books 2]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[439]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[https://dummy.xtemos.com/woodmart2/books-2-gutenberg/returns-2/]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

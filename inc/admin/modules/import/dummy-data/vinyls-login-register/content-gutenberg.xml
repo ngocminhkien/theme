@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Vinyls gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg</link>
+	<description></description>
+	<pubDate>Fri, 11 Jul 2025 11:47:37 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/wp-content/uploads/sites/52/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Login/Register - Vinyls]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/woodmart_layout/login-register-vinyls/</link>
+					<pubDate>Wed, 24 Sep 2025 12:20:28 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/vinyls-gutenberg/?post_type=woodmart_layout&#038;p=302</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"c152b9f0-2826-445b-a74c-5705cd06dbd4","columnsGap":0,"marginTop":"40","marginBottom":"40","displayWidth":"custom","customWidth":"1000","marginTopTablet":"20","marginTopMobile":"0","marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div id="wd-c152b9f0" class="wp-block-wd-row wd-custom-width"><!-- wp:wd/column {"blockId":"bd8e8bc9-39e7-4ca3-8e9d-212fbd43d459","adjacentCount":2,"paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"paddingTopMobile":"0"} -->
+<div id="wd-bd8e8bc9" class="wp-block-wd-column"><!-- wp:wd/woo-notices {"blockId":"4dc24519-7383-4de2-aedb-648a0b8b313e"} /-->
+
+<!-- wp:wd/title {"blockId":"2008f297-77af-407d-9737-f325940f0bf0","content":"Login","tpFontSize":"1.9","tpFontSizeUnits":"em"} -->
+<h2 id="wd-2008f297" class="wp-block-wd-title title">Login</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ma-login {"blockId":"d1aaccde-aaf2-43a0-b478-5f215c4c2860"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"9c72f564-bdfd-4447-b5dd-047720a18414","adjacentCount":2,"colorScheme":"light","bgType":"gradient","bgGradient":"linear-gradient(180deg,rgb(25,25,25) 0%,rgb(10,43,80) 100%)","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"3","borderRadiusTop":"3","borderRadiusRight":"3","borderRadiusBottom":"3","borderRadiusLeft":"3"} -->
+<div id="wd-9c72f564" class="wp-block-wd-column color-scheme-light"><!-- wp:wd/woo-notices {"blockId":"0634bc37-7e3f-4f6f-aade-5c9a471b5e2a"} /-->
+
+<!-- wp:wd/title {"blockId":"f008e3e0-2dd4-4820-9e24-0668665d7273","content":"Register","tpFontSize":"1.9","tpFontSizeUnits":"em"} -->
+<h2 id="wd-f008e3e0" class="wp-block-wd-title title">Register</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ma-register {"blockId":"7160eafd-b9fe-4763-8c39-647d3e21e9ba"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>302</wp:post_id>
+					<wp:post_date><![CDATA[2025-09-24 12:20:28]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-09-24 12:20:28]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-09-29 12:58:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-09-29 12:58:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[login-register-vinyls]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[my_account_auth]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

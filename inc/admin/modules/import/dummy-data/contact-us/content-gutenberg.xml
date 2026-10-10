@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Gutenberg base</title>
+	<link>https://dummy.xtemos.com/woodmart2/gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 21 Mar 2024 10:35:12 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/uploads/sites/24/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form alternative]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/?post_type=wpcf7_contact_form&#038;p=1938</link>
+					<pubDate>Tue, 03 Aug 2021 08:46:14 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/?post_type=wpcf7_contact_form&#038;p=1938</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col"><label>Your Name</label>[text* your-name]</div>
+<div class="wd-col"><label>Your Email</label>[email* your-email]</div>
+</div>
+<div class="wd-grid-f-stretch">
+<div class="wd-col"><label>Phone Number</label>[tel tel-767]</div>
+<div class="wd-col"><label>Company</label>[text text-1]</div>
+</div>
+<div><label>Your Message</label>[textarea your-message]</div>
+<div>[submit class:btn-color-black "ASK A QUESTION"]</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title]
+[_site_admin_email]
+From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title]
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
+															<wp:post_id>1938</wp:post_id>
+					<wp:post_date><![CDATA[2021-08-03 08:46:14]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-08-03 08:46:14]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-24 14:23:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-24 14:23:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-alternative]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+<div class="wd-grid-f-stretch">
+<div class="wd-col"><label>Your Name</label>[text* your-name]</div>
+<div class="wd-col"><label>Your Email</label>[email* your-email]</div>
+</div>
+<div class="wd-grid-f-stretch">
+<div class="wd-col"><label>Phone Number</label>[tel tel-767]</div>
+<div class="wd-col"><label>Company</label>[text text-1]</div>
+</div>
+<div><label>Your Message</label>[textarea your-message]</div>
+<div>[submit class:btn-color-black "ASK A QUESTION"]</div>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:149:"From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:13:"[_site_title]";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[8dd52baf65c8af52891ad34fd994b6c0e48493ef]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:31:"Invalid mailbox syntax is used.";s:6:"params";a:0:{}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/gutenberg/contact-us/</link>
+					<pubDate>Wed, 25 Aug 2021 09:00:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/?page_id=5288</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"2cbd3882-77a5-4818-a9b5-cfa5b1cf64da","blockVersion":"2","paddingRight":"0","paddingLeft":"0","marginTop":"-40","marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-section wd-2cbd3882"><!-- wp:wd/open-street-map {"blockId":"23bb778d-3659-4f33-8b4c-4c8477ecd236","blockVersion":"2","showContent":true,"zoom":15,"height":"500","locations":[{"title":"","lat":"51.50735","lon":"-0.12776","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"}],"contentAlignVertical":"center"} -->
+<div class="wp-block-wd-open-street-map wd-map-container wd-osm-map-container wd-23bb778d"><div id="wd-osm-map-23bb778d-3659-4f33-8b4c-4c8477ecd236" class="wd-osm-map-wrapper wd-map-wrapper" data-settings="{&quot;zoom&quot;:15,&quot;scrollWheelZoom&quot;:&quot;no&quot;,&quot;zoomControl&quot;:&quot;yes&quot;,&quot;dragging&quot;:&quot;yes&quot;,&quot;init_type&quot;:&quot;page_load&quot;,&quot;init_offset&quot;:100,&quot;geoapify_tile&quot;:&quot;osm-carto&quot;,&quot;center&quot;:&quot;51.50735,-0.12776&quot;,&quot;markers&quot;:[{&quot;lat&quot;:&quot;51.50735&quot;,&quot;lng&quot;:&quot;-0.12776&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}}]}"></div><div class="wd-osm-map-content-wrap wd-map-content-wrap wd-fill"><!-- wp:wd/container {"blockId":"cd8a38fe-3de6-4406-8c84-7de91b9c9bf3","blockVersion":"2","metadata":{"name":"Map content"}} -->
+<div class="wp-block-wd-container wd-dir-col wd-cd8a38fe"><!-- wp:wd/paragraph {"blockId":"d1829076-a86e-4d52-9c7e-a37b52ed1bcd","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d1829076">OUR STORES</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"78e644e2-cffb-409f-a461-2c56f9b7d056","blockVersion":"2","content":"VISIT OUR NEW STORE IN NEW YORK","tpFontSize":"18","displayWidth":"custom","customWidth":"190"} -->
+<h2 class="wp-block-wd-title title wd-78e644e2 wd-custom-width">VISIT OUR NEW STORE IN NEW YORK</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"07ab3e14-11e4-477b-a767-ba22b38b037d","blockVersion":"2","displayWidth":"custom","customWidth":"170"} -->
+<p class="wp-block-wd-paragraph wd-07ab3e14 wd-custom-width">294 Bay Meadows Ave. Bay Shore, NY 11706</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"ade31070-176e-4ed7-bcd7-cfcde15c6ca6","blockVersion":"2","design":"link"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-size-default wd-ade31070" href="#"><span>See More About</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/container --></div></div>
+<!-- /wp:wd/open-street-map --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"a3b789a2-5819-4952-b489-4a84183da3a5","blockVersion":"2","columnsGap":0,"columnsGapTablet":40} -->
+<div class="wp-block-wd-row wd-a3b789a2"><!-- wp:wd/column {"blockId":"5d530347-e590-4e06-9e6b-a67d2951f03a","blockVersion":"2","paddingTop":"15","paddingRight":"50","paddingBottom":"15","borderType":"solid","borderColorCode":"#e8e8e8","borderWidthRight":"1","borderWidthLock":false,"adjacentCount":2,"colWidth":50,"paddingTopTablet":"0","paddingRightTablet":"0","paddingBottomTablet":"0","borderWidthTablet":"0","borderWidthTopTablet":"0","borderWidthRightTablet":"0","borderWidthBottomTablet":"0","borderWidthLeftTablet":"0","flexOrderTablet":"1","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-5d530347"><!-- wp:wd/paragraph {"blockId":"36b48111-428d-4bcd-a86d-308cd63f6ba1","blockVersion":"2","colorCode":"#a5a5a5"} -->
+<p class="wp-block-wd-paragraph wd-36b48111">INFORMATION QUESTIONS</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"c9724383-312a-46dd-8920-41cab9645e33","blockVersion":"2","content":"FREQUENTLY ASKED QUESTIONS","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-c9724383">FREQUENTLY ASKED QUESTIONS</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/accordion {"blockId":"810b357c-08c8-4724-9133-c5e56b4b49d1","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion wd-accordion wd-style-default wd-titles-start wd-opener-style-arrow wd-opener-pos-end wd-810b357c" data-state="first"><!-- wp:wd/accordion-pane {"blockId":"c0cdcf1e-d886-4602-8adc-27102efa6ddc","blockVersion":"2","initiallyOpened":true} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-c0cdcf1e"><div class="wd-accordion-title wd-role-btn wd-active" tabindex="0"><div class="wd-accordion-title-text"><span>Will I receive the same product that I see in the picture?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content wd-active"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"18fa2221-3e1d-4091-b124-ab6adef3ad02","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-18fa2221">Consectetur cras scelerisque dis nec mi vestibulum ullamcorper turpis enim natoque tempus a malesuada suspendisse iaculis adipiscing himenaeos tincidunt.Tellus pharetra dis nostra urna a scelerisque id parturient ullamcorper ullamcorper class ad consectetur tristique et.<br>Hendrerit mollis facilisi odio a montes scelerisque a scelerisque justo a praesent conubia aenean mi tempor.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"eb8e0dfd-2304-48a1-9ca2-abf107edcc13","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-eb8e0dfd"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Where can I view my sales receipt?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"7199724e-e1d9-4dd5-be18-9a3f940080bb","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-7199724e">A vel dui a conubia vestibulum class varius vel nunc a gravida ut maecenas quisque a proin condimentum sagittis class at faucibus primis parturient dolor scelerisque himenaeos.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"29db17fa-dc47-4898-b2e2-b0ee6cb1674c","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-29db17fa"> A et ullamcorper vestibulum netus a mauris ac consectetur libero volutpat congue congue turpis a consectetur adipiscing sit.Suspendisse leo fringilla a congue tempus nisi conubia vestibulum a in posuere accumsan.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"96c78318-b6a7-46e6-b661-298f6574b3b6","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-96c78318"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>How can I return an item?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"d2fdc58a-3ef3-4bfe-9810-c2cb9e940a4e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d2fdc58a">Sit rhoncus aptent dis scelerisque penatibus a dis tempor accumsan suspendisse mollis a et odio ullamcorper magnis ullamcorper cum ullamcorper duis nulla egestas massa.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"d448dd5f-5afc-4cac-8b49-800516eca73c","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-d448dd5f">Vitae amet nostra est leo dignissim justo sodales et ac a conubia bibendum duis ad justo suspendisse a a tellus cubilia vestibulum a dictumst a duis risus.Sociosqu curae consequat nisl litora a eros est consectetur nulla rhoncus a a id felis praesent.Tempus dui integer a cursus id fames parturient.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"280ee6b8-2ba2-409b-b7ff-292db7c1bbb5","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-280ee6b8"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Will you restock items indicated as “out of stock?”</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"16ccb245-e5e3-400a-8e7e-bcfaa906f165","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-16ccb245">Ut bibendum a adipiscing purus massa a facilisi congue parturient condimentum urna donec per adipiscing cursus nisl nam tristique parturient id.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"e93cab9b-b5f3-49fb-8e1d-b6e6204ee11c","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e93cab9b">Aliquam quam at et in ipsum at venenatis a eget dignissim aliquam tincidunt ultrices lacus ad consectetur imperdiet sem suspendisse ante a dapibus potenti.Eu parturient parturient magnis tempus molestie augue quam vulputate hac facilisis est nisl pretium a cursus.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"403ef5e6-2a16-4e7d-b993-6e21084957ac","blockVersion":"2"} -->
+<div class="wp-block-wd-accordion-pane wd-accordion-item wd-403ef5e6"><div class="wd-accordion-title wd-role-btn" tabindex="0"><div class="wd-accordion-title-text"><span>Where can I ship my order?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"16ccb245-e5e3-400a-8e7e-bcfaa906f165","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-16ccb245">Scelerisque parturient sagittis nisi in aliquam dui scelerisque non consectetur aptent hac adipiscing ullamcorper pulvinar sit vestibulum purus facilisi hendrerit mus nisl massa ut parturient consectetur cum justo fames torquent.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"e93cab9b-b5f3-49fb-8e1d-b6e6204ee11c","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e93cab9b">Ac curae aliquet vivamus aptent duis congue urna venenatis ridiculus faucibus tincidunt a lorem rutrum nullam potenti adipiscing.Adipiscing.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"7f72411f-2000-4711-abe3-c72ea317313f","blockVersion":"2","paddingTop":"15","paddingBottom":"15","paddingLeft":"50","adjacentCount":2,"colWidth":50,"paddingTopTablet":"0","paddingBottomTablet":"0","paddingLeftTablet":"0","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-7f72411f"><!-- wp:wd/paragraph {"blockId":"1b058327-8e04-4a0f-8b7f-ec85dd0dcc73","blockVersion":"2","colorCode":"#a5a5a5"} -->
+<p class="wp-block-wd-paragraph wd-1b058327">INFORMATION ABOUT US</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"338b01a0-d0c5-4c90-8932-f306429a8745","blockVersion":"2","content":"CONTACT US FOR ANY QUESTIONS","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-338b01a0">CONTACT US FOR ANY QUESTIONS</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"1210f7f0-af5d-4a8a-9eea-8045ffad1729","blockVersion":"2","form_id":"1938"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>5288</wp:post_id>
+					<wp:post_date><![CDATA[2021-08-25 09:00:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-08-25 09:00:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-02 08:54:06]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-02 08:54:06]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

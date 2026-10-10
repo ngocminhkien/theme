@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Mega electronics gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/mega-electronics-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:22:40 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/mega-electronics-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/mega-electronics-gutenberg/wp-content/uploads/sites/27/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Mega electronics]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/mega-electronics-gutenberg/woodmart_layout/cart-mega-electronics/</link>
+					<pubDate>Wed, 07 Aug 2024 08:29:18 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/mega-electronics-gutenberg/?post_type=woodmart_layout&#038;p=1096</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-page-title {"blockId":"3f5a8d46-2134-4b20-8e19-f35815675e87","marginTop":"-20","marginBottom":"40","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} /-->
+
+<!-- wp:wd/row {"blockId":"9cb2ab3a-71bf-4972-858a-729e25296cc2","marginBottom":"30"} -->
+<div id="wd-9cb2ab3a" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"88421fc2-f4df-4e30-9413-90f53f67ae48","adjacentCount":2,"colWidth":66.33,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-88421fc2" class="wp-block-wd-column"><!-- wp:wd/woo-notices {"blockId":"8021c62f-eb5e-4969-81c4-4bcb5e54f158"} /-->
+
+<!-- wp:wd/woo-shipping-progress-bar {"blockId":"3e1295e9-82d0-4972-a365-fec033adaeb4","bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"d0eb8902-994a-44df-a8dc-c006c2363d09","hook":"woocommerce_before_cart","cleanActions":true} /-->
+
+<!-- wp:wd/ct-table {"blockId":"a9c9a90f-ff62-4aef-bcd9-82fb83442ea6","bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"19bc7035-a368-43b4-ae97-a890ae3a8b22","hook":"woocommerce_cart_collaterals","cleanActions":true} /-->
+
+<!-- wp:wd/products {"blockId":"403db3b2-3d57-4122-963d-d66c86589e46","show_title":true,"layout":"carousel","products_with_background":true,"marginTop":"10","hide_pagination_control":true,"sync_parent_id":"wd_13871b01","productsBackgroundCode":"#ffffff","slides_per_viewTablet":"4","slides_per_viewMobile":"2","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"ce9ce09f-ee93-42b4-a875-471f10d9fc47","content":"You May Be Interested In…","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-ce9ce09f" class="wp-block-wd-title title">You May Be Interested In…</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"b72d5e7c-1f95-4649-a21c-e5f8470c55bb","adjacentCount":2,"colWidth":33.33,"sticky":false,"positionType":"sticky","positionTop":"150","alignSelf":"start","adjacentCountTablet":1,"colWidthTablet":100,"positionTypeTablet":"relative","positionTopTablet":"0"} -->
+<div id="wd-b72d5e7c" class="wp-block-wd-column wd-align-s-start"><!-- wp:wd/container {"blockId":"2be3b7a2-0151-4f9a-bbfa-7e39e3bc8ccf","colGap":"10","rowGap":"10","bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div id="wd-2be3b7a2" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"809b8824-6d06-43db-aa51-3858dc5ef796","content":"Cart Totals","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-809b8824" class="wp-block-wd-title title">Cart Totals</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ct-totals {"blockId":"5fdce7c7-0ad5-4fe4-b807-1f48f7312917","btnAlign":"stretch","bgColorCode":"#ffffff","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"f1e19dda-ca3c-42c8-8e3a-2ad1dd231092","hook":"woocommerce_after_cart","cleanActions":true} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"48f153e5-ce09-48e0-bdbc-3f17b152171f","colGap":"","rowGap":"0","bgColorCode":"#ffffff","paddingTop":"20","paddingRight":"20","paddingBottom":"10","paddingLeft":"20","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div id="wd-48f153e5" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"8ccbe651-691c-45ce-8143-6036e90cfc82","content":"Delivery \u0026amp; Return","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 id="wd-8ccbe651" class="wp-block-wd-title title">Delivery &amp; Return</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/accordion {"blockId":"ae6d3029-c648-409c-8d5b-d7d2d507e268","titleTpFontFamily":"var(\u002d\u002dwd-title-font)","titleTpFontVariant":"500","titleTpFontWeight":"500"} -->
+<div id="wd-ae6d3029" class="wp-block-wd-accordion wd-accordion wd-style-default wd-titles-start wd-opener-style-arrow wd-opener-pos-end" data-state="first"><!-- wp:wd/accordion-pane {"blockId":"c2b85135-f5fb-427a-bbd4-2bc18c78a328","initiallyOpened":true,"borderType":"none"} -->
+<div id="wd-c2b85135" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title wd-active"><div class="wd-accordion-title-text"><span>My order hasn't arrived yet. Where is it?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content wd-active"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"be08ecb5-cdd2-459b-b4db-cb36e7325182"} -->
+<p id="wd-be08ecb5" class="wp-block-wd-paragraph">How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"b9959527-9deb-4036-9eff-c42f52755c99","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div id="wd-b9959527" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Do you deliver on public holidays?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"5ad1fe3c-33e3-4d1e-a868-bd22fbaf9de6"} -->
+<p id="wd-5ad1fe3c" class="wp-block-wd-paragraph">To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can’t quite tell right now, but they’re unhappy, somehow.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"404cf5d6-5abd-4ac7-8c9b-8b4eef4624c9","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div id="wd-404cf5d6" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Do you deliver to my postcode?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"2fbf0cb3-2953-43d1-9f3a-7a33f29ac9c5"} -->
+<p id="wd-2fbf0cb3" class="wp-block-wd-paragraph">How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"69ed4e93-80da-4386-82ce-24589368dd8b","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div id="wd-69ed4e93" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Is next-day delivery available on all orders?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"0e2838d2-c261-401c-a3fc-1fd826e24be5"} -->
+<p id="wd-0e2838d2" class="wp-block-wd-paragraph">To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can’t quite tell right now, but they’re unhappy, somehow.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane -->
+
+<!-- wp:wd/accordion-pane {"blockId":"7b9de0c6-c268-4d78-b4ed-a6cba01d5e79","borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidthTop":"1"} -->
+<div id="wd-7b9de0c6" class="wp-block-wd-accordion-pane wd-accordion-item"><div class="wd-accordion-title"><div class="wd-accordion-title-text"><span>Do I need to be there to sign for delivery?</span></div><span class="wd-accordion-opener"></span></div><div class="wd-accordion-content"><div class="wd-accordion-content-inner"><!-- wp:wd/paragraph {"blockId":"f2a31341-6c6d-4a6a-a203-4eedbe9dc325"} -->
+<p id="wd-f2a31341" class="wp-block-wd-paragraph">How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.</p>
+<!-- /wp:wd/paragraph --></div></div></div>
+<!-- /wp:wd/accordion-pane --></div>
+<!-- /wp:wd/accordion --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>1096</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-07 08:29:18]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-07 08:29:18]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-13 13:01:27]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-13 13:01:27]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-mega-electronics]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,55 @@
+{
+    "sidebar-1": {
+        "widgets": {
+            "block-12": {
+                "content": "<!-- wp:wd\/menu {\"blockId\":\"fa409a59-0d01-40ab-8820-d56b5381736d\",\"blockVersion\":\"2\",\"nav_menu\":\"299\",\"design\":\"vertical\",\"dropdown_design\":\"simple\",\"itemTpFontVariant\":\"500\",\"itemTpFontWeight\":\"500\",\"itemTpActiveFontVariant\":\"600\",\"itemTpActiveFontWeight\":\"600\",\"itemsColorCode\":\"#767676\",\"itemsHoverColorCode\":\"#333333\",\"className\":\"wd-active-font-weight\"} \/-->"
+            }
+        }
+    },
+    "sidebar-shop": {
+        "widgets": {
+            "woocommerce_product_categories-2": {
+                "title": "Categories",
+                "orderby": "order",
+                "dropdown": 0,
+                "count": 0,
+                "hierarchical": 0,
+                "show_children_only": 1,
+                "hide_empty": 1,
+                "max_depth": ""
+            },
+            "woodmart-woocommerce-layered-nav-3": {
+                "title": "Books format",
+                "attribute": "size",
+                "category": [
+                    "all"
+                ],
+                "query_type": "and",
+                "display": "list",
+                "size": "normal",
+                "style": "inherit",
+                "shape": "round",
+                "labels": "on",
+                "tooltips": "on",
+                "checkboxes": "off",
+                "search_by_filters": ""
+            },
+            "woodmart-woocommerce-layered-nav-2": {
+                "title": "Author",
+                "attribute": "color",
+                "category": [
+                    "all"
+                ],
+                "query_type": "or",
+                "display": "list",
+                "size": "normal",
+                "style": "inherit",
+                "shape": "round",
+                "labels": "off",
+                "tooltips": "on",
+                "checkboxes": "off",
+                "search_by_filters": ""
+            }
+        }
+    }
+}

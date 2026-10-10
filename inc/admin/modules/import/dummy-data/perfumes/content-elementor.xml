@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>perfumes-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor</link>
+	<description></description>
+	<pubDate>Mon, 15 Dec 2025 13:22:09 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/perfumes-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/</wp:base_uploads_url>
+
+							<wp:term>
+			<wp:term_id>54</wp:term_id>
+			<wp:term_taxonomy><![CDATA[woodmart_slider]]></wp:term_taxonomy>
+			<wp:term_slug><![CDATA[perfumes-slider]]></wp:term_slug>
+			<wp:term_parent><![CDATA[]]></wp:term_parent>
+			<wp:term_name><![CDATA[Perfumes slider]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[stretch_slider]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InZoIiwidmFsdWUiOjEwMH19fQ==]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[height_tablet]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOiIifX19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[navigation_color_scheme]]></wp:meta_key>
+			<wp:meta_value><![CDATA[light]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[pagination_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[light]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[autoplay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[autoplay_speed]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30000]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[height_mobile]]></wp:meta_key>
+			<wp:meta_value><![CDATA[eyJkZXZpY2VzIjp7ImRlc2t0b3AiOnsidW5pdCI6InB4IiwidmFsdWUiOiIifX19]]></wp:meta_value>
+		</wp:termmeta>
+		</wp:term>
+								<item>
+					<title><![CDATA[Home Perfumes]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/</link>
+					<pubDate>Mon, 15 Dec 2025 13:28:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-elementor/?page_id=14</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/lib-swiper.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-slider-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-slider.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-slider-dots-style-2-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-slider-dots-style-2.css?ver=8.5.0" type="text/css" media="all" /> 						<style id="wd-style-term-54-inline-css" data-type="wd-style-term-54">
+				#slider-54 .wd-slide {
+	min-height: 100vh;
+}
+#slider-54 .wd-nav-pagin-wrap {
+	--wd-autoplay-speed: 30000ms;
+}
+			</style>
+			<style>
+									#slide-281 .wd-slide-container {
+											--wd-align-items: flex-end;
+																--wd-justify-content: center;
+										}
+									#slide-281 .wd-slide-bg {
+						background-color:rgb(139,103,152);					}
+									@media (max-width: 1024px) {
+									}
+									@media (max-width: 767.98px) {
+									}
+									#slide-291 .wd-slide-container {
+											--wd-align-items: flex-end;
+																--wd-justify-content: center;
+										}
+									#slide-291 .wd-slide-bg {
+						background-color:rgb(115,69,46);					}
+									@media (max-width: 1024px) {
+									}
+									@media (max-width: 767.98px) {
+									}
+									#slide-315 .wd-slide-container {
+											--wd-align-items: flex-end;
+																--wd-justify-content: center;
+										}
+									#slide-315 .wd-slide-bg {
+						background-color:rgb(59,15,4);					}
+									@media (max-width: 1024px) {
+									}
+									@media (max-width: 767.98px) {
+									}
+								</style>
+																					<style>.elementor-281 .elementor-element.elementor-element-1ff1e63{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:120px;--padding-bottom:100px;--padding-left:40px;--padding-right:40px;}.elementor-281 .elementor-element.elementor-element-673a899 .title-after_title, .elementor-281 .elementor-element.elementor-element-673a899 .title-subtitle, .elementor-281 .elementor-element.elementor-element-673a899 .woodmart-title-container{max-width:660px;}.elementor-281 .elementor-element.elementor-element-673a899 .title{font-size:56px;line-height:1.2em;}.elementor-281 .elementor-element.elementor-element-673a899 > .elementor-widget-container{margin:0px 0px 10px 0px;}#slide-281 .wd-slide-container{--wd-align-items:flex-end;--wd-justify-content:center;}#slide-281 .wd-slide-bg{background-color:rgb(139,103,152);}@media(max-width:1024px){.elementor-281 .elementor-element.elementor-element-1ff1e63{--padding-top:100px;--padding-bottom:100px;--padding-left:40px;--padding-right:40px;}.elementor-281 .elementor-element.elementor-element-673a899 .title-after_title, .elementor-281 .elementor-element.elementor-element-673a899 .title-subtitle, .elementor-281 .elementor-element.elementor-element-673a899 .woodmart-title-container{max-width:506px;}.elementor-281 .elementor-element.elementor-element-673a899 .title{font-size:48px;}#slide-281 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}@media(max-width:767px){.elementor-281 .elementor-element.elementor-element-9768de0{width:var( --container-widget-width, 120px );max-width:120px;--container-widget-width:120px;--container-widget-flex-grow:0;}.elementor-281 .elementor-element.elementor-element-673a899 .title{font-size:32px;}#slide-281 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}</style>		
+					<link rel="stylesheet" id="wd-mod-animations-transform-base-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform-base.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-animations-transform-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-transform-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/mod-transform.css?ver=8.5.0" type="text/css" media="all" /> 					
+								<img width="140" height="350" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bottle-1-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bottle-1-opt.png 140w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bottle-1-opt-120x300.png 120w" sizes="auto, (max-width: 140px) 100vw, 140px" />					
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-section-title.css?ver=8.5.0" type="text/css" media="all" /> 					
+				<h4>New Fragrance in the Opus Essence</h4> 
+								<link rel="stylesheet" id="wd-button-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-button.css?ver=8.5.0" type="text/css" media="all" /> 					
+			<a  href="#">
+					Buy now				
+							</a>
+																			<img width="1920" height="1080" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov.jpg 1920w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov-300x169.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov-1024x576.jpg 1024w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov-768x432.jpg 768w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov-1536x864.jpg 1536w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov-600x338.jpg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov-150x84.jpg 150w" sizes="auto, (max-width: 1920px) 100vw, 1920px" />																	
+																					<style>.elementor-291 .elementor-element.elementor-element-1ff1e63{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:120px;--padding-bottom:100px;--padding-left:40px;--padding-right:40px;}.elementor-291 .elementor-element.elementor-element-673a899 .title-after_title, .elementor-291 .elementor-element.elementor-element-673a899 .title-subtitle, .elementor-291 .elementor-element.elementor-element-673a899 .woodmart-title-container{max-width:660px;}.elementor-291 .elementor-element.elementor-element-673a899 .title{font-size:56px;line-height:1.2em;}.elementor-291 .elementor-element.elementor-element-673a899 > .elementor-widget-container{margin:0px 0px 10px 0px;}#slide-291 .wd-slide-container{--wd-align-items:flex-end;--wd-justify-content:center;}#slide-291 .wd-slide-bg{background-color:rgb(115,69,46);}@media(max-width:1024px){.elementor-291 .elementor-element.elementor-element-1ff1e63{--padding-top:100px;--padding-bottom:100px;--padding-left:40px;--padding-right:40px;}.elementor-291 .elementor-element.elementor-element-673a899 .title-after_title, .elementor-291 .elementor-element.elementor-element-673a899 .title-subtitle, .elementor-291 .elementor-element.elementor-element-673a899 .woodmart-title-container{max-width:506px;}.elementor-291 .elementor-element.elementor-element-673a899 .title{font-size:48px;}#slide-291 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}@media(max-width:767px){.elementor-291 .elementor-element.elementor-element-9768de0{width:var( --container-widget-width, 120px );max-width:120px;--container-widget-width:120px;--container-widget-flex-grow:0;}.elementor-291 .elementor-element.elementor-element-673a899 .title{font-size:32px;}#slide-291 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}</style>		
+								<img width="140" height="350" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bottle-1-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bottle-1-opt.png 140w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bottle-1-opt-120x300.png 120w" sizes="auto, (max-width: 140px) 100vw, 140px" />					
+				<h4>Deep Fragrance With a Refined Intensity</h4> 
+			<a  href="#">
+					Buy now				
+							</a>
+																			<img width="1920" height="1080" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov.jpg 1920w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov-300x169.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov-1024x576.jpg 1024w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov-768x432.jpg 768w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov-1536x864.jpg 1536w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov-600x338.jpg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov-150x84.jpg 150w" sizes="auto, (max-width: 1920px) 100vw, 1920px" />																	
+																					<style>.elementor-315 .elementor-element.elementor-element-1ff1e63{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:120px;--padding-bottom:100px;--padding-left:40px;--padding-right:40px;}.elementor-315 .elementor-element.elementor-element-9768de0{width:initial;max-width:initial;}.elementor-315 .elementor-element.elementor-element-673a899 .title-after_title, .elementor-315 .elementor-element.elementor-element-673a899 .title-subtitle, .elementor-315 .elementor-element.elementor-element-673a899 .woodmart-title-container{max-width:660px;}.elementor-315 .elementor-element.elementor-element-673a899 .title{font-size:56px;line-height:1.2em;}.elementor-315 .elementor-element.elementor-element-673a899 > .elementor-widget-container{margin:0px 0px 10px 0px;}#slide-315 .wd-slide-container{--wd-align-items:flex-end;--wd-justify-content:center;}#slide-315 .wd-slide-bg{background-color:rgb(59,15,4);}@media(max-width:1024px){.elementor-315 .elementor-element.elementor-element-1ff1e63{--padding-top:100px;--padding-bottom:100px;--padding-left:40px;--padding-right:40px;}.elementor-315 .elementor-element.elementor-element-673a899 .title-after_title, .elementor-315 .elementor-element.elementor-element-673a899 .title-subtitle, .elementor-315 .elementor-element.elementor-element-673a899 .woodmart-title-container{max-width:506px;}.elementor-315 .elementor-element.elementor-element-673a899 .title{font-size:48px;}#slide-315 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}@media(max-width:767px){.elementor-315 .elementor-element.elementor-element-9768de0{--container-widget-width:120px;--container-widget-flex-grow:0;width:var( --container-widget-width, 120px );max-width:120px;}.elementor-315 .elementor-element.elementor-element-673a899 .title{font-size:32px;}#slide-315 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}</style>		
+								<img width="140" height="350" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bottle-1-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bottle-1-opt.png 140w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bottle-1-opt-120x300.png 120w" sizes="auto, (max-width: 140px) 100vw, 140px" />					
+				<h4>Light Fragrance with a Silky Touch</h4> 
+			<a  href="#">
+					Buy now				
+							</a>
+																			<img width="1920" height="1080" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov.jpg 1920w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov-300x169.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov-1024x576.jpg 1024w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov-768x432.jpg 768w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov-1536x864.jpg 1536w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov-600x338.jpg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov-150x84.jpg 150w" sizes="auto, (max-width: 1920px) 100vw, 1920px" />																	
+																	<link rel="stylesheet" id="wd-swiper-arrows-critical-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-arrows-critical.css?ver=8.5.0" type="text/css" media="all" /> 								
+														<link rel="stylesheet" id="wd-swiper-pagin-critical-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-pagin-critical.css?ver=8.5.0" type="text/css" media="all" /> 							
+					<ul></ul>
+				<h4>New In</h4> 
+								<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-el-base-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-el-base.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-predefined-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-predefined.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-info-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-info.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-bordered-product-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-opt-bordered-product.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-bordered-product-predefined-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-opt-bordered-product-predefined.css?ver=8.5.0" type="text/css" media="all" /> 						
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-100ml/" tabindex="-1" aria-label="Abyss Bleu 100ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-100ml/">Abyss Bleu 100ml</a></h3>					
+	<bdi>&#36;250.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=75"  data-quantity="1" data-product_id="75" data-product_sku="MPNE110" aria-label="Add to cart: &ldquo;Abyss Bleu 100ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Abyss Bleu 100ml&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="75" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-100ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="75"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="75" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-2ml-sample/" tabindex="-1" aria-label="Abyss Bleu 2ml Sample">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-3.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-3.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-3-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-2ml-sample/">Abyss Bleu 2ml Sample</a></h3>					
+	<bdi>&#36;20.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=225"  data-quantity="1" data-product_id="225" data-product_sku="MPNE110-2" aria-label="Add to cart: &ldquo;Abyss Bleu 2ml Sample&rdquo;" rel="nofollow" data-success_message="&ldquo;Abyss Bleu 2ml Sample&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="225" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-2ml-sample/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="225"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="225" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-50ml/" tabindex="-1" aria-label="Abyss Bleu 50ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-2.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-2.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-2-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-2-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-2-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-50ml/">Abyss Bleu 50ml</a></h3>					
+	<bdi>&#36;125.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=224"  data-quantity="1" data-product_id="224" data-product_sku="MPNE110-1" aria-label="Add to cart: &ldquo;Abyss Bleu 50ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Abyss Bleu 50ml&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="224" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-50ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="224"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="224" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-100ml/" tabindex="-1" aria-label="Amber Bloom 100ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-100ml/">Amber Bloom 100ml</a></h3>					
+	<bdi>&#36;250.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=62"  data-quantity="1" data-product_id="62" data-product_sku="WPE410" aria-label="Add to cart: &ldquo;Amber Bloom 100ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Amber Bloom 100ml&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="62" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-100ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="62"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="62" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-2ml-sample/" tabindex="-1" aria-label="Amber Bloom 2ml Sample">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-3.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-3.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-3-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-2ml-sample/">Amber Bloom 2ml Sample</a></h3>					
+	<bdi>&#36;20.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=183"  data-quantity="1" data-product_id="183" data-product_sku="WPE410-2" aria-label="Add to cart: &ldquo;Amber Bloom 2ml Sample&rdquo;" rel="nofollow" data-success_message="&ldquo;Amber Bloom 2ml Sample&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="183" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-2ml-sample/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="183"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="183" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-50ml/" tabindex="-1" aria-label="Amber Bloom 50ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-2.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-2.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-2-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-2-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-2-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/amber-bloom-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-50ml/">Amber Bloom 50ml</a></h3>					
+	<bdi>&#36;125.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=182"  data-quantity="1" data-product_id="182" data-product_sku="WPE410-1" aria-label="Add to cart: &ldquo;Amber Bloom 50ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Amber Bloom 50ml&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="182" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/amber-bloom-50ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="182"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="182" rel="nofollow">
+					Add to wishlist
+				</a>
+				<h4>Shop by Olfactory Family</h4> 
+			<a  href="#">
+					Floral				
+							</a>
+			<a  href="#">
+					Woody				
+							</a>
+			<a  href="#">
+					Amber				
+							</a>
+			<a  href="#">
+					Chypre				
+							</a>
+			<a  href="#">
+					Leather				
+							</a>
+			<a  href="#">
+					Aldehyde				
+							</a>
+			<a  href="#">
+					Spicy				
+							</a>
+			<a  href="#">
+					Fougere				
+							</a>
+								<link rel="stylesheet" id="wd-marquee-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-marquee.css?ver=8.5.0" type="text/css" media="all" /> 					
+									Ethereal				
+				<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-marquee-figure.svg" title="prf-marquee-figure" loading="lazy" width="64" height="64">
+									Sensory				
+				<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-marquee-figure.svg" title="prf-marquee-figure" loading="lazy" width="64" height="64">
+									Signature				
+				<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-marquee-figure.svg" title="prf-marquee-figure" loading="lazy" width="64" height="64">
+									Ethereal				
+				<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-marquee-figure.svg" title="prf-marquee-figure" loading="lazy" width="64" height="64">
+									Sensory				
+				<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-marquee-figure.svg" title="prf-marquee-figure" loading="lazy" width="64" height="64">
+									Signature				
+				<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-marquee-figure.svg" title="prf-marquee-figure" loading="lazy" width="64" height="64">
+																							<link rel="stylesheet" id="wd-banner-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-banner.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-banner-btn-hover-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-banner-btn-hover.css?ver=8.5.0" type="text/css" media="all" /> 					
+																					<img width="900" height="900" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-2-opt.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-2-opt.jpg 900w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-2-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-2-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-2-opt-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-2-opt-600x600.jpg 600w" sizes="auto, (max-width: 900px) 100vw, 900px" />																		
+													<h4 data-elementor-setting-key="title">
+								Ember Glow							</h4>
+								<p>Radiant blend of citrus, florals, and warm musks, evoking the magic of a starlit night in Los Angeles. Luminous, sensual, and endlessly captivating.</p>
+																					<img width="900" height="900" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-3-opt.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-3-opt.jpg 900w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-3-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-3-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-3-opt-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-3-opt-600x600.jpg 600w" sizes="auto, (max-width: 900px) 100vw, 900px" />																		
+													<h4 data-elementor-setting-key="title">
+								Golden Veil							</h4>
+								<p>Luxury fusion of rich rose and warm oud, inspired by the golden dunes at sunrise. Opulent, velvety, and timelessly elegant.</p>
+																					<img width="900" height="900" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-1-opt.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-1-opt.jpg 900w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-1-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-1-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-1-opt-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-1-opt-600x600.jpg 600w" sizes="auto, (max-width: 900px) 100vw, 900px" />																		
+													<h4 data-elementor-setting-key="title">
+								Midnight Azure							</h4>
+								<p>Refreshing burst of citrus and oceanic notes, capturing the feeling of a sunlit dip in crystal-clear waters—energizing, crisp, and effortlessly luxurious.</p>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/ember-glow-100ml/" tabindex="-1" aria-label="Ember Glow 100ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ember-glow-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/ember-glow-100ml/">Ember Glow 100ml</a></h3>					
+	<bdi>&#36;250.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=70"  data-quantity="1" data-product_id="70" data-product_sku="WPOE410" aria-label="Add to cart: &ldquo;Ember Glow 100ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Ember Glow 100ml&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="70" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/ember-glow-100ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="70"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="70" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/golden-veil-100ml/" tabindex="-1" aria-label="Golden Veil 100ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/golden-veil-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/golden-veil-100ml/">Golden Veil 100ml</a></h3>					
+	<bdi>&#36;250.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=60"  data-quantity="1" data-product_id="60" data-product_sku="WPE210" aria-label="Add to cart: &ldquo;Golden Veil 100ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Golden Veil 100ml&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="60" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/golden-veil-100ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="60"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="60" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-100ml/" tabindex="-1" aria-label="Midnight Azure 100ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-100ml/">Midnight Azure 100ml</a></h3>					
+	<bdi>&#36;250.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=71"  data-quantity="1" data-product_id="71" data-product_sku="MPVN110" aria-label="Add to cart: &ldquo;Midnight Azure 100ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Midnight Azure 100ml&rdquo; has been added to your cart" role="button">Add to cart</a>			
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="71" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-100ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="71"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="fa8b0e4ae1" data-product-id="71" rel="nofollow">
+					Add to wishlist
+				</a>
+								<link rel="stylesheet" id="wd-mod-nav-style-underline-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/mod-nav-style-underline.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-tabs-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-tabs.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-tabs-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-product-tabs.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-tabs-style-space-between-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-tabs-style-space-between.css?ver=8.5.0" type="text/css" media="all" /> 					
+							Promotional Offers						
+					<ul>
+							<li data-atts="{&quot;layout&quot;:&quot;carousel&quot;,&quot;pagination&quot;:null,&quot;pagination_arrows_position&quot;:null,&quot;items_per_page&quot;:8,&quot;spacing&quot;:&quot;0&quot;,&quot;spacing_tablet&quot;:&quot;&quot;,&quot;spacing_mobile&quot;:&quot;&quot;,&quot;list_spacing&quot;:null,&quot;list_spacing_tablet&quot;:&quot;&quot;,&quot;list_spacing_mobile&quot;:&quot;&quot;,&quot;columns&quot;:null,&quot;products_masonry&quot;:null,&quot;products_different_sizes&quot;:null,&quot;product_quantity&quot;:&quot;&quot;,&quot;product_hover&quot;:&quot;inherit&quot;,&quot;sale_countdown&quot;:&quot;0&quot;,&quot;stretch_product_tablet&quot;:0,&quot;stretch_product_mobile&quot;:0,&quot;stock_progress_bar&quot;:&quot;0&quot;,&quot;highlighted_products&quot;:0,&quot;products_divider&quot;:null,&quot;products_bordered_grid&quot;:&quot;1&quot;,&quot;products_bordered_grid_style&quot;:&quot;outside&quot;,&quot;products_with_background&quot;:&quot;0&quot;,&quot;products_shadow&quot;:&quot;0&quot;,&quot;products_color_scheme&quot;:&quot;default&quot;,&quot;img_size&quot;:&quot;large&quot;,&quot;elementor&quot;:true,&quot;slides_per_view&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;carousel_arrows_position&quot;:&quot;sep&quot;,&quot;hide_pagination_control&quot;:&quot;yes&quot;,&quot;sync_parent_id&quot;:null,&quot;slides_per_view_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;sync_group_id&quot;:null,&quot;scroll_per_page&quot;:&quot;yes&quot;,&quot;center_mode&quot;:null,&quot;wrap&quot;:&quot;no&quot;,&quot;autoheight&quot;:&quot;no&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;speed&quot;:null,&quot;scroll_carousel_init&quot;:&quot;no&quot;,&quot;disable_overflow_carousel&quot;:&quot;no&quot;,&quot;hide_prev_next_buttons&quot;:&quot;no&quot;,&quot;dynamic_pagination_control&quot;:&quot;no&quot;,&quot;hide_scrollbar&quot;:&quot;yes&quot;,&quot;carousel_sync&quot;:&quot;&quot;,&quot;sync_child_id&quot;:null,&quot;product_custom_hover&quot;:null,&quot;img_size_custom&quot;:null,&quot;stretch_product&quot;:null,&quot;grid_gallery&quot;:&quot;&quot;,&quot;grid_gallery_control&quot;:null,&quot;grid_gallery_enable_arrows&quot;:null,&quot;lazy_loading&quot;:&quot;no&quot;,&quot;post_type&quot;:&quot;product&quot;,&quot;ajax_recently_viewed&quot;:null,&quot;include&quot;:null,&quot;taxonomies&quot;:&quot;&quot;,&quot;orderby&quot;:&quot;&quot;,&quot;offset&quot;:&quot;&quot;,&quot;query_type&quot;:&quot;OR&quot;,&quot;order&quot;:&quot;&quot;,&quot;hide_out_of_stock&quot;:&quot;no&quot;,&quot;meta_key&quot;:null,&quot;exclude&quot;:&quot;&quot;}">
+								<a href="#">
+										All									
+								</a>
+							</li>
+							<li data-atts="{&quot;layout&quot;:&quot;carousel&quot;,&quot;pagination&quot;:null,&quot;pagination_arrows_position&quot;:null,&quot;items_per_page&quot;:8,&quot;spacing&quot;:&quot;0&quot;,&quot;spacing_tablet&quot;:&quot;&quot;,&quot;spacing_mobile&quot;:&quot;&quot;,&quot;list_spacing&quot;:null,&quot;list_spacing_tablet&quot;:&quot;&quot;,&quot;list_spacing_mobile&quot;:&quot;&quot;,&quot;columns&quot;:null,&quot;products_masonry&quot;:null,&quot;products_different_sizes&quot;:null,&quot;product_quantity&quot;:&quot;&quot;,&quot;product_hover&quot;:&quot;inherit&quot;,&quot;sale_countdown&quot;:&quot;0&quot;,&quot;stretch_product_tablet&quot;:0,&quot;stretch_product_mobile&quot;:0,&quot;stock_progress_bar&quot;:&quot;0&quot;,&quot;highlighted_products&quot;:0,&quot;products_divider&quot;:null,&quot;products_bordered_grid&quot;:&quot;1&quot;,&quot;products_bordered_grid_style&quot;:&quot;outside&quot;,&quot;products_with_background&quot;:&quot;0&quot;,&quot;products_shadow&quot;:&quot;0&quot;,&quot;products_color_scheme&quot;:&quot;default&quot;,&quot;img_size&quot;:&quot;large&quot;,&quot;elementor&quot;:true,&quot;slides_per_view&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;carousel_arrows_position&quot;:&quot;sep&quot;,&quot;hide_pagination_control&quot;:&quot;yes&quot;,&quot;sync_parent_id&quot;:null,&quot;slides_per_view_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;sync_group_id&quot;:null,&quot;scroll_per_page&quot;:&quot;yes&quot;,&quot;center_mode&quot;:null,&quot;wrap&quot;:&quot;no&quot;,&quot;autoheight&quot;:&quot;no&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;speed&quot;:null,&quot;scroll_carousel_init&quot;:&quot;no&quot;,&quot;disable_overflow_carousel&quot;:&quot;no&quot;,&quot;hide_prev_next_buttons&quot;:&quot;no&quot;,&quot;dynamic_pagination_control&quot;:&quot;no&quot;,&quot;hide_scrollbar&quot;:&quot;yes&quot;,&quot;carousel_sync&quot;:&quot;&quot;,&quot;sync_child_id&quot;:null,&quot;product_custom_hover&quot;:null,&quot;img_size_custom&quot;:null,&quot;stretch_product&quot;:null,&quot;grid_gallery&quot;:&quot;&quot;,&quot;grid_gallery_control&quot;:null,&quot;grid_gallery_enable_arrows&quot;:null,&quot;lazy_loading&quot;:&quot;no&quot;,&quot;taxonomies&quot;:[&quot;31&quot;],&quot;post_type&quot;:&quot;product&quot;,&quot;ajax_recently_viewed&quot;:null,&quot;include&quot;:null,&quot;orderby&quot;:&quot;&quot;,&quot;offset&quot;:&quot;&quot;,&quot;query_type&quot;:&quot;OR&quot;,&quot;order&quot;:&quot;&quot;,&quot;hide_out_of_stock&quot;:&quot;no&quot;,&quot;meta_key&quot;:null,&quot;exclude&quot;:&quot;&quot;}">
+								<a href="#">
+										For Her									
+								</a>
+							</li>
+							<li data-atts="{&quot;layout&quot;:&quot;carousel&quot;,&quot;pagination&quot;:null,&quot;pagination_arrows_position&quot;:null,&quot;items_per_page&quot;:8,&quot;spacing&quot;:&quot;0&quot;,&quot;spacing_tablet&quot;:&quot;&quot;,&quot;spacing_mobile&quot;:&quot;&quot;,&quot;list_spacing&quot;:null,&quot;list_spacing_tablet&quot;:&quot;&quot;,&quot;list_spacing_mobile&quot;:&quot;&quot;,&quot;columns&quot;:null,&quot;products_masonry&quot;:null,&quot;products_different_sizes&quot;:null,&quot;product_quantity&quot;:&quot;&quot;,&quot;product_hover&quot;:&quot;inherit&quot;,&quot;sale_countdown&quot;:&quot;0&quot;,&quot;stretch_product_tablet&quot;:0,&quot;stretch_product_mobile&quot;:0,&quot;stock_progress_bar&quot;:&quot;0&quot;,&quot;highlighted_products&quot;:0,&quot;products_divider&quot;:null,&quot;products_bordered_grid&quot;:&quot;1&quot;,&quot;products_bordered_grid_style&quot;:&quot;outside&quot;,&quot;products_with_background&quot;:&quot;0&quot;,&quot;products_shadow&quot;:&quot;0&quot;,&quot;products_color_scheme&quot;:&quot;default&quot;,&quot;img_size&quot;:&quot;large&quot;,&quot;elementor&quot;:true,&quot;slides_per_view&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;carousel_arrows_position&quot;:&quot;sep&quot;,&quot;hide_pagination_control&quot;:&quot;yes&quot;,&quot;sync_parent_id&quot;:null,&quot;slides_per_view_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;sync_group_id&quot;:null,&quot;scroll_per_page&quot;:&quot;yes&quot;,&quot;center_mode&quot;:null,&quot;wrap&quot;:&quot;no&quot;,&quot;autoheight&quot;:&quot;no&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;speed&quot;:null,&quot;scroll_carousel_init&quot;:&quot;no&quot;,&quot;disable_overflow_carousel&quot;:&quot;no&quot;,&quot;hide_prev_next_buttons&quot;:&quot;no&quot;,&quot;dynamic_pagination_control&quot;:&quot;no&quot;,&quot;hide_scrollbar&quot;:&quot;yes&quot;,&quot;carousel_sync&quot;:&quot;&quot;,&quot;sync_child_id&quot;:null,&quot;product_custom_hover&quot;:null,&quot;img_size_custom&quot;:null,&quot;stretch_product&quot;:null,&quot;grid_gallery&quot;:&quot;&quot;,&quot;grid_gallery_control&quot;:null,&quot;grid_gallery_enable_arrows&quot;:null,&quot;lazy_loading&quot;:&quot;no&quot;,&quot;taxonomies&quot;:[&quot;40&quot;],&quot;post_type&quot;:&quot;product&quot;,&quot;ajax_recently_viewed&quot;:null,&quot;include&quot;:null,&quot;orderby&quot;:&quot;&quot;,&quot;offset&quot;:&quot;&quot;,&quot;query_type&quot;:&quot;OR&quot;,&quot;order&quot;:&quot;&quot;,&quot;hide_out_of_stock&quot;:&quot;no&quot;,&quot;meta_key&quot;:null,&quot;exclude&quot;:&quot;&quot;}">
+								<a href="#">
+										For Him									
+								</a>
+							</li>
+											</ul>
+							Array					
+																							<link rel="stylesheet" id="wd-banner-hover-zoom-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-banner-hover-zoom.css?ver=8.5.0" type="text/css" media="all" /> 					
+																					<img width="900" height="900" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-1-opt-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-1-opt-1.jpg 900w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-1-opt-1-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-1-opt-1-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-1-opt-1-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-1-opt-1-600x600.jpg 600w" sizes="auto, (max-width: 900px) 100vw, 900px" />																		
+													<h4 data-elementor-setting-key="title">
+								Nocturne Essence							</h4>
+								<p>A collection of fresh, luminous scents inspired by the mystery of nightfall. Crisp citruses, airy florals, and cool musks evoke the serenity of moonlit skies and midnight breezes.</p>
+			<a  href="#">
+					View Collection				
+							</a>
+									<a href="#" aria-label="Banner link"></a>
+																					<img width="900" height="900" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-2-opt-1.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-2-opt-1.jpg 900w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-2-opt-1-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-2-opt-1-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-2-opt-1-768x768.jpg 768w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-2-opt-1-600x600.jpg 600w" sizes="auto, (max-width: 900px) 100vw, 900px" />																		
+													<h4 data-elementor-setting-key="title">
+								Étheria							</h4>
+								<p>A collection of delicate, weightless fragrances that capture the essence of air and light. Soft florals, sheer musks, and dewy accords evoke a dreamlike, ethereal elegance.</p>
+			<a  href="#">
+					View Collection				
+							</a>
+									<a href="#" aria-label="Banner link"></a>
+			<ul></ul>
+				<h4>Journal Articles</h4> 
+								<link rel="stylesheet" id="wd-blog-loop-base-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/blog-loop-base.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-post-types-mod-predefined-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/post-types-mod-predefined.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-blog-loop-design-meta-image-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/blog-loop-design-meta-image.css?ver=8.5.0" type="text/css" media="all" /> 						
+<article id="post-276">
+				<img width="588" height="598" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-blog-1-opt-588x598.jpg" alt="" decoding="async" loading="lazy" />			
+				<a tabindex="-1" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/10/28/scent-sensibility/" rel="bookmark" aria-label="Link on post Scent &amp; Sensibility"></a>
+					<time datetime="2025-10-28T14:52:56+00:00">
+						28 Oct 2025					</time>
+							<time datetime="2025-12-17T13:00:11+00:00">
+			December 17, 2025		</time>
+					<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/10/28/scent-sensibility/" rel="bookmark">
+					Scent &amp; Sensibility				</a>
+			</h3>
+	</article>
+<article id="post-273">
+				<img width="588" height="598" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-blog-2-opt-588x598.jpg" alt="" decoding="async" loading="lazy" />			
+				<a tabindex="-1" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/10/12/notes-of-elegance/" rel="bookmark" aria-label="Link on post Notes of Elegance"></a>
+					<time datetime="2025-10-12T14:52:31+00:00">
+						12 Oct 2025					</time>
+							<time datetime="2025-12-17T13:01:23+00:00">
+			December 17, 2025		</time>
+					<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/10/12/notes-of-elegance/" rel="bookmark">
+					Notes of Elegance				</a>
+			</h3>
+	</article>
+<article id="post-270">
+				<img width="588" height="598" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-blog-3-opt-588x598.jpg" alt="" decoding="async" loading="lazy" />			
+				<a tabindex="-1" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/10/08/the-perfume-journal/" rel="bookmark" aria-label="Link on post The Perfume Journal"></a>
+					<time datetime="2025-10-08T14:52:04+00:00">
+						08 Oct 2025					</time>
+							<time datetime="2025-12-17T13:01:27+00:00">
+			December 17, 2025		</time>
+					<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/10/08/the-perfume-journal/" rel="bookmark">
+					The Perfume Journal				</a>
+			</h3>
+	</article>
+<article id="post-267">
+				<img width="588" height="598" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-blog-4-opt-588x598.jpg" alt="" decoding="async" loading="lazy" />			
+				<a tabindex="-1" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/10/03/beyond-the-bottle/" rel="bookmark" aria-label="Link on post Beyond the Bottle"></a>
+					<time datetime="2025-10-03T14:51:34+00:00">
+						03 Oct 2025					</time>
+							<time datetime="2025-12-17T13:01:31+00:00">
+			December 17, 2025		</time>
+					<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/10/03/beyond-the-bottle/" rel="bookmark">
+					Beyond the Bottle				</a>
+			</h3>
+	</article>
+<article id="post-264">
+				<img width="588" height="598" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-blog-5-opt-588x598.jpg" alt="" decoding="async" loading="lazy" />			
+				<a tabindex="-1" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/09/28/aroma-diaries/" rel="bookmark" aria-label="Link on post Aroma Diaries"></a>
+					<time datetime="2025-09-28T14:51:06+00:00">
+						28 Sep 2025					</time>
+							<time datetime="2025-12-17T13:01:35+00:00">
+			December 17, 2025		</time>
+					<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/09/28/aroma-diaries/" rel="bookmark">
+					Aroma Diaries				</a>
+			</h3>
+	</article>
+<article id="post-261">
+				<img width="588" height="598" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-blog-6-opt-588x598.jpg" alt="" decoding="async" loading="lazy" />			
+				<a tabindex="-1" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/09/21/essence-allure/" rel="bookmark" aria-label="Link on post Essence &amp; Allure"></a>
+					<time datetime="2025-09-21T14:50:07+00:00">
+						21 Sep 2025					</time>
+							<time datetime="2025-12-17T13:01:38+00:00">
+			December 17, 2025		</time>
+					<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/2025/09/21/essence-allure/" rel="bookmark">
+					Essence &amp; Allure				</a>
+			</h3>
+	</article>
+				<h4>Connect to our Instagram</h4> 
+			<a  href="#">
+					@xtemos.studio				
+						<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/wd-merchandise-long-arrow-black.svg" title="wd-merchandise-long-arrow-black" loading="lazy" width="16" height="17">					
+							</a>
+								<link rel="stylesheet" id="wd-instagram-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-instagram.css?ver=8.5.0" type="text/css" media="all" /> 					
+							<a href="https://www.instagram.com/xtemos.studio/" target="_self" aria-label="Instagram picture"></a>
+							<img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-1-opt-300x300.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-1-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-1-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-1-opt.jpg 512w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+							<a href="https://www.instagram.com/xtemos.studio/" target="_self" aria-label="Instagram picture"></a>
+							<img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-2-opt-300x300.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-2-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-2-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-2-opt.jpg 512w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+							<a href="https://www.instagram.com/xtemos.studio/" target="_self" aria-label="Instagram picture"></a>
+							<img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-3-opt-300x300.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-3-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-3-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-3-opt.jpg 512w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+							<a href="https://www.instagram.com/xtemos.studio/" target="_self" aria-label="Instagram picture"></a>
+							<img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-4-opt-300x300.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-4-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-4-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-4-opt.jpg 512w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+							<a href="https://www.instagram.com/xtemos.studio/" target="_self" aria-label="Instagram picture"></a>
+							<img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-5-opt-300x300.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-5-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-5-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-5-opt.jpg 512w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+							<a href="https://www.instagram.com/xtemos.studio/" target="_self" aria-label="Instagram picture"></a>
+							<img width="300" height="300" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-6-opt-300x300.jpg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-6-opt-300x300.jpg 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-6-opt-150x150.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-6-opt.jpg 512w" sizes="auto, (max-width: 300px) 100vw, 300px" />]]></content:encoded>
+															<wp:post_id>14</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 13:28:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 13:28:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 12:31:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 12:31:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[home-perfumes]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[header_601721]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.0.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"f3205ae","elType":"container","settings":{"scroll_y":-80,"margin":{"unit":"px","top":"0","right":"0","bottom":"120","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[{"id":"d50c5eb","elType":"widget","settings":{"slider":"perfumes-slider","sync_parent_id":"wd_69402b3281f93","scroll_y":-80,"sync_group_id":"group-1"},"elements":[],"widgetType":"wd_slider"}],"isInner":false},{"id":"5540c7a","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"120","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"00d8589","elType":"widget","settings":{"subtitle":"","title":"New In","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"4f8e416","elType":"widget","settings":{"layout":"carousel","items_per_page":6,"hide_pagination_control":"yes","sync_parent_id":"wd_69402d0c0606c","img_size":"full","products_bordered_grid":"1","scroll_y":-80,"carousel_arrows_position":"together","sync_group_id":"group-1"},"elements":[],"widgetType":"wd_products"}],"isInner":false},{"id":"98cde74","elType":"container","settings":{"flex_direction":"column","scroll_y":-80,"margin":{"unit":"px","top":"0","right":"0","bottom":"120","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[{"id":"627d758","elType":"widget","settings":{"subtitle":"","title":"Shop by Olfactory Family","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"2a30304","elType":"container","settings":{"content_width":"full","flex_direction":"row","flex_gap":{"column":"10","row":"25","isLinked":false,"unit":"px","size":10},"scroll_y":-80},"elements":[{"id":"c571026","elType":"widget","settings":{"text":"Floral","style":"bordered","size":"large","scroll_y":-80,"_flex_size":"shrink"},"elements":[],"widgetType":"wd_button"},{"id":"a36f33e","elType":"widget","settings":{"text":"Woody","style":"bordered","size":"large","scroll_y":-80,"_flex_size":"shrink","_mask_shape":""},"elements":[],"widgetType":"wd_button"},{"id":"340f76c","elType":"widget","settings":{"text":"Amber","style":"bordered","size":"large","scroll_y":-80,"_flex_size":"shrink"},"elements":[],"widgetType":"wd_button"},{"id":"1e1f782","elType":"widget","settings":{"text":"Chypre","style":"bordered","size":"large","scroll_y":-80,"_flex_size":"shrink"},"elements":[],"widgetType":"wd_button"},{"id":"3f68ab5","elType":"widget","settings":{"text":"Leather","style":"bordered","size":"large","scroll_y":-80,"_flex_size":"shrink"},"elements":[],"widgetType":"wd_button"},{"id":"6e03493","elType":"widget","settings":{"text":"Aldehyde","style":"bordered","size":"large","scroll_y":-80,"_flex_size":"shrink"},"elements":[],"widgetType":"wd_button"},{"id":"a006b6f","elType":"widget","settings":{"text":"Spicy","style":"bordered","size":"large","scroll_y":-80,"_flex_size":"shrink"},"elements":[],"widgetType":"wd_button"},{"id":"d84d733","elType":"widget","settings":{"text":"Fougere","style":"bordered","size":"large","scroll_y":-80,"_flex_size":"shrink"},"elements":[],"widgetType":"wd_button"}],"isInner":true}],"isInner":false},{"id":"be9881d","elType":"container","settings":{"flex_direction":"column","wd_section_stretch":"stretch-content","margin":{"unit":"px","top":"0","right":"0","bottom":"120","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"70fdf02","elType":"widget","settings":{"speed":45,"marquee_contents":[{"_id":"41da811","text":"Ethereal"},{"text":"","icon_type":"image","_id":"d71d79c","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-marquee-figure.svg","id":343,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"64","height":"64"}},{"text":"Sensory","_id":"b1edfa4"},{"text":"","icon_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-marquee-figure.svg","id":343,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"64","height":"64"},"_id":"7d5c0ad"},{"text":"Signature","_id":"35f53d8"},{"text":"","icon_type":"image","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-marquee-figure.svg","id":343,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"64","height":"64"},"_id":"6906a84"}],"scroll_y":-80,"marquee_typography_typography":"custom","marquee_typography_font_size":{"unit":"px","size":84,"sizes":[]},"marquee_typography_font_size_tablet":{"unit":"px","size":48,"sizes":[]},"marquee_typography_font_size_mobile":{"unit":"px","size":36,"sizes":[]},"marquee_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"marquee_color":"#000000"},"elements":[],"widgetType":"wd_marquee"}],"isInner":false},{"id":"615896c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":30,"column":"30","row":"30","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"120","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"b0d8d42","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":55},"scroll_y":-80},"elements":[{"id":"eba29f7","elType":"widget","settings":{"content_repeater":[{"title":"Ember Glow","subtitle":"","_id":"c0e2c1a","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-slide-banner-bg-2-opt.jpg","id":356,"size":"","alt":"","source":"library"},"image_size":"full","content":"Radiant blend of citrus, florals, and warm musks, evoking the magic of a starlit night in Los Angeles. Luminous, sensual, and endlessly captivating.","btn_text":"","width":{"unit":"px","size":600,"sizes":[]}},{"title":"Golden Veil","subtitle":"","_id":"3a28e42","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-slide-banner-bg-3-opt.jpg","id":360,"size":"","alt":"","source":"library"},"image_size":"full","content":"Luxury fusion of rich rose and warm oud, inspired by the golden dunes at sunrise. Opulent, velvety, and timelessly elegant.","btn_text":"","width":{"unit":"px","size":600,"sizes":[]}},{"title":"Midnight Azure","subtitle":"","_id":"5877754","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-slide-banner-bg-1-opt.jpg","id":361,"size":"","alt":"","source":"library"},"image_size":"full","content":"Refreshing burst of citrus and oceanic notes, capturing the feeling of a sunlit dip in crystal-clear waters\u2014energizing, crisp, and effortlessly luxurious.","btn_text":"","width":{"unit":"px","size":600,"sizes":[]}}],"woodmart_color_scheme":"light","slides_per_view":{"unit":"px","size":1,"sizes":[]},"hide_pagination_control":"yes","sync_parent_id":"wd_69402f7b4e5e6","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":62,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"custom_text_color":"#FFFFFF","text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":25,"sizes":[]},"text_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"text_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"scroll_y":-80,"carousel_sync":"child","sync_child_id":"wd_69414a7a825d0","hide_prev_next_buttons":"","carousel_arrows_position_popover":"yes","carousel_arrows_position":"sep","slider_spacing":"0","sync_group_id":"group-1"},"elements":[],"widgetType":"wd_banner_carousel"}],"isInner":true},{"id":"ea0cc27","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":45},"scroll_y":-80,"flex_justify_content":"center","flex_align_items":"center"},"elements":[{"id":"5f6b514","elType":"widget","settings":{"post_type":"ids","include":["70","60","71"],"layout":"carousel","items_per_page":3,"slides_per_view":{"unit":"px","size":1,"sizes":[]},"hide_prev_next_buttons":"yes","hide_pagination_control":"yes","carousel_sync":"parent","sync_parent_id":"wd_69414a7a825d0","products_bordered_grid":"1","_element_width":"initial","_element_custom_width":{"unit":"px","size":553,"sizes":[]},"scroll_y":-80,"spacing":"0","sync_group_id":"group-1"},"elements":[],"widgetType":"wd_products"}],"isInner":true}],"isInner":false},{"id":"6b8a304","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"120","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"2d3782a","elType":"widget","settings":{"title":"Promotional Offers","tabs_items":[{"title":"All","_id":"fa92b60"},{"title":"For Her","_id":"8a35ceb","taxonomies":["31"]},{"title":"For Him","_id":"7c97be1","taxonomies":["40"]}],"design":"alt","tabs_heading_typography_typography":"custom","tabs_heading_typography_font_size":{"unit":"px","size":48,"sizes":[]},"tabs_heading_typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"tabs_heading_typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"tabs_heading_typography_text_transform":"none","tabs_heading_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"tabs_title_typography_typography":"custom","tabs_title_typography_font_size":{"unit":"px","size":18,"sizes":[]},"tabs_title_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"tabs_title_typography_text_transform":"capitalize","layout":"carousel","spacing":"0","items_per_page":8,"slides_per_view":{"unit":"px","size":4,"sizes":[]},"carousel_arrows_position_popover":"yes","carousel_arrows_position":"sep","hide_pagination_control":"yes","sync_parent_id":"wd_69414a7a82a2c","products_bordered_grid":"1","scroll_y":-80,"slides_per_view_tablet":{"unit":"px","size":3,"sizes":[]},"sync_group_id":"group-1"},"elements":[],"widgetType":"wd_products_tabs"}],"isInner":false},{"id":"19e6fa1","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"120","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"b3f55c5","elType":"widget","settings":{"content_repeater":[{"title":"Nocturne Essence","subtitle":"","_id":"9635b67","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-latest-collections-banner-1-opt-1.jpg","id":402,"size":"","alt":"","source":"library"},"image_size":"full","content":"A collection of fresh, luminous scents inspired by the mystery of nightfall. Crisp citruses, airy florals, and cool musks evoke the serenity of moonlit skies and midnight breezes.","btn_text":"View Collection","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","width":{"unit":"px","size":550,"sizes":[]}},{"title":"\u00c9theria","subtitle":"","_id":"c6b465c","image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-latest-collections-banner-2-opt-1.jpg","id":403,"size":"","alt":"","source":"library"},"image_size":"full","content":"A collection of delicate, weightless fragrances that capture the essence of air and light. Soft florals, sheer musks, and dewy accords evoke a dreamlike, ethereal elegance.","btn_text":"View Collection","horizontal_alignment":"center","vertical_alignment":"bottom","text_alignment":"center","width":{"unit":"px","size":550,"sizes":[]}}],"hover":"zoom","woodmart_color_scheme":"light","slides_per_view":{"unit":"px","size":2,"sizes":[]},"slider_spacing":"0","sync_parent_id":"wd_69414a7a80673","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":18,"sizes":[]},"text_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"btn_size":"large","btn_color":"black","scroll_y":-80,"hide_prev_next_buttons":"yes","hide_btn_tablet":"yes","hide_btn_mobile":"yes","sync_group_id":"group-1"},"elements":[],"widgetType":"wd_banner_carousel"}],"isInner":false},{"id":"499d38d","elType":"container","settings":{"flex_direction":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"de1e56f","elType":"widget","settings":{"subtitle":"","title":"Journal Articles","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"dc272c1","elType":"widget","settings":{"blog_design":"carousel","blog_carousel_design":"meta-image","img_size":"custom","img_size_custom":{"width":"588","height":"598"},"hide_pagination_control":"yes","sync_parent_id":"wd_69414a7a800dc","parts_meta":"","parts_text":"","parts_btn":"","scroll_y":-80,"carousel_arrows_position":"together","sync_group_id":"group-1"},"elements":[],"widgetType":"wd_blog"}],"isInner":false},{"id":"fe53d7c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":30,"column":"30","row":"30","isLinked":true},"scroll_y":-80,"border_border":"solid","border_width":{"unit":"px","top":"2","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#292724","padding":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"3399e8a","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":30},"scroll_y":-80,"width_tablet":{"unit":"%","size":40,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content":"center"},"elements":[{"id":"b590b5b","elType":"widget","settings":{"subtitle":"","title":"Connect to our Instagram","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"5a39aff","elType":"widget","settings":{"text":"@xtemos.studio","style":"link","color":"black","size":"extra-large","align":"left","icon_type":"image","scroll_y":-80,"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/wd-merchandise-long-arrow-black.svg","id":428,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"16","height":"17"}},"elements":[],"widgetType":"wd_button"}],"isInner":true},{"id":"354da9f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":70},"scroll_y":-80,"width_tablet":{"unit":"%","size":60,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content":"center"},"elements":[{"id":"fa5ae4d","elType":"widget","settings":{"size":"medium","images":[{"id":430,"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-inst-1-opt.jpg"},{"id":431,"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-inst-2-opt.jpg"},{"id":432,"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-inst-3-opt.jpg"},{"id":433,"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-inst-4-opt.jpg"},{"id":434,"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-inst-5-opt.jpg"},{"id":435,"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-inst-6-opt.jpg"}],"images_size":"medium","images_link":"https:\/\/www.instagram.com\/xtemos.studio\/","images_likes":"1000-10000","images_comments":"0-1000","username":"flickr","design":"slider","per_row":{"unit":"px","size":6,"sizes":[]},"per_row_tablet":{"unit":"px","size":3,"sizes":[]},"per_row_mobile":{"unit":"px","size":2,"sizes":[]},"spacing":"1","spacing_custom":"20","hide_mask":"1","hide_prev_next_buttons":"yes","hide_pagination_control":"yes","sync_parent_id":"wd_694150aca22f5","rounded":"","scroll_y":-80,"sync_group_id":"group-1"},"elements":[],"widgetType":"wd_instagram"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:24:"wd__woodmart_main_layout";s:10:"full-width";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Footer Perfumes]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/?cms_block=footer-perfumes</link>
+					<pubDate>Mon, 15 Dec 2025 13:30:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-elementor/?post_type=cms_block&#038;p=36</guid>
+											<content:encoded><![CDATA[<p>Based on <a href="http://woodmart.xtemos.com/" rel="nofollow"><strong>WoodMart</strong></a> theme © 2026 <a href="https://themeforest.net/item/woodmart-woocommerce-wordpress-theme/20264492" rel="nofollow"><strong>WooCommerce Themes</strong></a></p></p>
+								<img width="350" height="39" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ps-mtds.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ps-mtds.png 350w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ps-mtds-300x33.png 300w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ps-mtds-150x17.png 150w" sizes="auto, (max-width: 350px) 100vw, 350px" />]]></content:encoded>
+															<wp:post_id>36</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 13:30:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 13:30:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-19 15:22:48]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-19 15:22:48]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[footer-perfumes]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[cms_block]]></wp:post_type>
+												<category domain="cms_block_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"e09659a","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":30,"column":"30","row":"30","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"padding":{"unit":"px","top":"80","right":"0","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"ba6a550","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"scroll_y":-80},"elements":[{"id":"48dfcd8","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-logotype-white.svg","id":323,"size":"","alt":"","source":"library"},"image_size":"custom","image_custom_dimension":{"width":"276","height":"30"},"on_click_action":"link","link":{"url":"https:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/","is_external":false,"nofollow":false,"custom_attributes":""},"scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":true},{"id":"30bce6d","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"scroll_y":-80},"elements":[{"id":"3bbec82","elType":"widget","settings":{"subtitle":"","title":"At WoodMart Perfumery, we see perfume as more than just a scent \u2014 it is identity, memory and emotion captured in a bottle.","after_title":"","align":"left","width":{"unit":"px","size":594,"sizes":[]},"width_tablet":{"unit":"px","size":"","sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":30,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"title_typography_line_height_mobile":{"unit":"em","size":1.6,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"}],"isInner":true}],"isInner":false},{"id":"e6a06d8","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":30,"column":"30","row":"30","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"c5dd1ae","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"scroll_y":-80},"elements":[{"id":"4b5fab7","elType":"widget","settings":{"subtitle":"","title":"Insider Access","after_title":"<p>Receive exclusive content and be the first to know about product launches and special announcements.<\/p>","align":"left","width":{"unit":"px","size":373,"sizes":[]},"width_tablet":{"unit":"px","size":"","sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":30,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":24,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":18,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"text_typography_typography":"custom","text_typography_font_size":{"unit":"px","size":18,"sizes":[]},"text_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_title"},{"id":"92b07b8","elType":"widget","settings":{"alignment":"left","content_width":{"unit":"px","size":373,"sizes":[]},"content_width_tablet":{"unit":"px","size":"","sizes":[]},"content_width_mobile":{"unit":"px","size":"","sizes":[]},"button_text_color":"#333333","button_bg_color":"#FFFFFF","button_text_color_hover":"#333333","button_bg_color_hover":"#E6E6E6","scroll_y":-80},"elements":[],"widgetType":"wd_mailchimp"},{"id":"4bc00e3","elType":"widget","settings":{"label_text":"Share: ","type":"follow","fb_link":"#","twitter_link":"#","isntagram_link":"#","pinterest_link":"#","youtube_link":"#","align":"left","scroll_y":-80},"elements":[],"widgetType":"wd_social_buttons"}],"isInner":true},{"id":"73846ea","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":"50"},"flex_wrap":"nowrap","scroll_y":-80},"elements":[{"id":"90460c4","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":50,"sizes":[]},"scroll_y":-80},"elements":[{"id":"74e2abc","elType":"widget","settings":{"title":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"menu_items_repeater":[{"title":"About Us","link":{"url":"https:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/about-us\/","is_external":false,"nofollow":false},"_id":"4cc8c45"},{"title":"Contact Us","link":{"url":"https:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/contact-us\/","is_external":false,"nofollow":false},"_id":"0907dc6"},{"title":"F.A.Q.","link":{"url":"#","is_external":false,"nofollow":false},"_id":"68c25e6"},{"title":"Blog","link":{"url":"https:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/blog\/","is_external":false,"nofollow":false},"_id":"2c4b38c"}],"title_typography_font_size":{"unit":"px","size":18,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"item_typography_typography":"custom","item_typography_font_size":{"unit":"px","size":18,"sizes":[]},"item_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"item_typography_font_weight":"500","items_idle_color":"#FFFFFF","items_hover_color":"#FFFFFFCC","scroll_y":-80},"elements":[],"widgetType":"wd_extra_menu_list"}],"isInner":true},{"id":"e3d598c","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":50,"sizes":[]},"scroll_y":-80},"elements":[{"id":"c8fad01","elType":"widget","settings":{"title":"","link":{"url":"","is_external":false,"nofollow":false,"custom_attributes":""},"menu_items_repeater":[{"title":"Refund","link":{"url":"#","is_external":false,"nofollow":false},"_id":"4cc8c45"},{"title":"Cookies","link":{"url":"#","is_external":false,"nofollow":false},"_id":"0907dc6"},{"title":"Terms of use","link":{"url":"#","is_external":false,"nofollow":false},"_id":"68c25e6"},{"title":"Privacy","link":{"url":"#","is_external":false,"nofollow":false},"_id":"2c4b38c"}],"title_typography_font_size":{"unit":"px","size":18,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"item_typography_typography":"custom","item_typography_font_size":{"unit":"px","size":18,"sizes":[]},"item_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"item_typography_font_weight":"500","items_idle_color":"#FFFFFF","items_hover_color":"#FFFFFFCC","scroll_y":-80},"elements":[],"widgetType":"wd_extra_menu_list"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"c97e825","elType":"container","settings":{"flex_direction":"row","flex_justify_content":"space-between","flex_align_items":"center","border_border":"solid","border_width":{"unit":"px","top":"2","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#FFFFFF","padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"cebaa12","elType":"widget","settings":{"text":"<p>Based on <a href=\"http:\/\/woodmart.xtemos.com\/\" rel=\"nofollow\"><strong>WoodMart<\/strong><\/a> theme © 2026 <a href=\"https:\/\/themeforest.net\/item\/woodmart-woocommerce-wordpress-theme\/20264492\" rel=\"nofollow\"><strong>WooCommerce Themes<\/strong><\/a><\/p>","scroll_y":-80},"elements":[],"widgetType":"wd_text_block"},{"id":"6fc336d","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/ps-mtds.png","id":497,"size":"","alt":"","source":"library"},"scroll_y":-80},"elements":[],"widgetType":"wd_image_or_svg"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-logotype-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/prf-logotype-black/</link>
+					<pubDate>Mon, 15 Dec 2025 13:41:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-logotype-black.svg</guid>
+															<wp:post_id>229</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 13:41:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 13:41:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 13:41:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 13:41:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-logotype-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-logotype-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-logotype-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-logotype-white]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/prf-logotype-white/</link>
+					<pubDate>Mon, 15 Dec 2025 15:42:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-logotype-white.svg</guid>
+															<wp:post_id>323</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:42:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:42:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 15:42:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 15:42:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-logotype-white]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-logotype-white.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-logotype-white.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-marquee-figure]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/prf-marquee-figure/</link>
+					<pubDate>Mon, 15 Dec 2025 15:55:20 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-marquee-figure.svg</guid>
+															<wp:post_id>343</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:55:20]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:55:20]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 15:55:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 15:55:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-marquee-figure]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-marquee-figure.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-marquee-figure.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-banner-bg-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-slide-banner-bg-2-opt/</link>
+					<pubDate>Mon, 15 Dec 2025 16:00:00 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-2-opt.jpg</guid>
+															<wp:post_id>356</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 16:00:00]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 16:00:00]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 16:00:00]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 16:00:00]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-banner-bg-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-banner-bg-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-banner-bg-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-slide-banner-bg-3-opt/</link>
+					<pubDate>Mon, 15 Dec 2025 16:15:35 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-3-opt.jpg</guid>
+															<wp:post_id>360</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 16:15:35]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 16:15:35]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 16:15:35]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 16:15:35]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-banner-bg-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-banner-bg-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-banner-bg-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-slide-banner-bg-1-opt/</link>
+					<pubDate>Mon, 15 Dec 2025 16:16:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-1-opt.jpg</guid>
+															<wp:post_id>361</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 16:16:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 16:16:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 16:16:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 16:16:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-banner-bg-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-banner-bg-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-banner-bg-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-latest-collections-banner-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-latest-collections-banner-1-opt-2/</link>
+					<pubDate>Tue, 16 Dec 2025 12:21:32 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-1-opt-1.jpg</guid>
+															<wp:post_id>402</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:21:32]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:21:32]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:21:32]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:21:32]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-latest-collections-banner-1-opt-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-1-opt-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-latest-collections-banner-1-opt-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-latest-collections-banner-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-latest-collections-banner-2-opt-2/</link>
+					<pubDate>Tue, 16 Dec 2025 12:21:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-2-opt-1.jpg</guid>
+															<wp:post_id>403</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:21:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:21:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:21:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:21:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-latest-collections-banner-2-opt-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-latest-collections-banner-2-opt-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-latest-collections-banner-2-opt-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-merchandise-long-arrow-black]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/wd-merchandise-long-arrow-black/</link>
+					<pubDate>Tue, 16 Dec 2025 12:29:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/wd-merchandise-long-arrow-black.svg</guid>
+															<wp:post_id>428</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:29:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:29:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:29:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:29:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-merchandise-long-arrow-black]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/wd-merchandise-long-arrow-black.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/wd-merchandise-long-arrow-black.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-inst-1-opt/</link>
+					<pubDate>Tue, 16 Dec 2025 12:30:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-1-opt.jpg</guid>
+															<wp:post_id>430</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:30:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:30:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:30:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:30:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-1-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-inst-1-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-2-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-inst-2-opt/</link>
+					<pubDate>Tue, 16 Dec 2025 12:30:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-2-opt.jpg</guid>
+															<wp:post_id>431</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:30:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:30:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:30:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:30:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-2-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-2-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-inst-2-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-3-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-inst-3-opt/</link>
+					<pubDate>Tue, 16 Dec 2025 12:30:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-3-opt.jpg</guid>
+															<wp:post_id>432</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:30:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:30:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:30:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:30:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-3-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-3-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-inst-3-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-4-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-inst-4-opt/</link>
+					<pubDate>Tue, 16 Dec 2025 12:30:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-4-opt.jpg</guid>
+															<wp:post_id>433</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:30:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:30:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:30:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:30:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-4-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-4-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-inst-4-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[ps-mtds]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/?attachment_id=497</link>
+					<pubDate>Tue, 16 Dec 2025 13:14:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ps-mtds.png</guid>
+															<wp:post_id>497</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 13:14:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 13:14:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 13:14:24]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 13:14:24]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[ps-mtds]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>36</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/ps-mtds.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/ps-mtds.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Product loop item - Perfumes]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_layout/product-loop-item-perfumes/</link>
+					<pubDate>Wed, 18 Feb 2026 13:24:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_layout/product-loop-item-layout-perfumes/</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/woo-hook {"blockId":"0824ef91-3365-4b3d-95b8-a4e77564ff28","blockVersion":"2","hook":"woocommerce_before_shop_loop_item"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"a7a1303a-0075-40d8-8d0d-ee4ff6f450c0","blockVersion":"2","hook":"woocommerce_before_shop_loop_item_title"} /-->
+
+<!-- wp:wd/li-product-thumbnail {"blockId":"2eee00c3-b4c3-44be-a157-916dad4db09b","blockVersion":"2","image_on_hover":false,"product_gallery":true} -->
+<!-- wp:wd/woo-hook {"blockId":"f6477f7b-53a9-49b9-bf9c-98a4d741ad8a","blockVersion":"2","hook":"woocommerce_shop_loop_item_title"} /-->
+
+<!-- wp:wd/container {"blockId":"06832d7b-76ba-4117-96b2-d059ad661205","blockVersion":"2","justify":"space-between","positionTop":"0","positionRight":"0","positionBottom":"0","positionLeft":"0","positionLock":true,"paddingTop":"25","paddingRight":"60","paddingBottom":"25","paddingLeft":"25","pointerEvents":"none","paddingTopTablet":"15","paddingBottomTablet":"15","paddingLeftTablet":"15"} -->
+<div class="wp-block-wd-container wd-dir-col wd-06832d7b"><!-- wp:wd/container {"blockId":"34a257bd-fd09-407c-84ad-35917c391e0a","blockVersion":"2","pointerEvents":"auto"} -->
+<div class="wp-block-wd-container wd-dir-col wd-34a257bd"><!-- wp:wd/li-product-title {"blockId":"947bcea5-3e90-41fe-8bb8-53ebe2c729d9","blockVersion":"2"} /-->
+
+<!-- wp:wd/li-product-labels {"blockId":"d9ce47df-ba91-46ba-9cc9-5ef17ed03341","blockVersion":"2"} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"5340ca53-a5aa-4ac9-a9ca-9261f04f1eb5","blockVersion":"2","transformTranslateX":"","transformTranslateY":"calc(100% - 16px)","transformParentHoverTranslateY":"0","transitionTransform":0.3,"pointerEvents":"auto","transformTranslateYUnits":"custom","transformParentHoverTranslateYUnits":"%"} -->
+<div class="wp-block-wd-container wd-dir-col wd-5340ca53 wd-transform"><!-- wp:wd/li-product-price {"blockId":"2d36d2a1-2f0a-4009-bdf8-fa2327890d5e","blockVersion":"2","mainPriceTpFontSize":"16","mainPriceTpLineHeight":"16","mainPriceTpFontVariant":"500","mainPriceTpFontWeight":"500","oldPriceTpFontSize":"14","oldPriceTpLineHeight":"14","suffixTpFontSize":"13","suffixTpLineHeight":"13"} /-->
+
+<!-- wp:wd/li-product-rating {"blockId":"3b1c61c7-19e8-487d-b46c-69d48e56af96","blockVersion":"2","transitionOpacity":0.3,"opacity":0,"opacityParentHover":1} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/woo-hook {"blockId":"33c24817-f431-4071-881a-09be68c52359","blockVersion":"2","hook":"woocommerce_after_shop_loop_item_title"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"3d1f9cf6-9332-4c79-8e9d-7ffcaa8e96dc","blockVersion":"2","hook":"woocommerce_after_shop_loop_item"} /-->
+
+<!-- wp:wd/li-product-wishlist {"blockId":"afe315c9-6921-4fe2-8c36-64e549659c22","blockVersion":"2","linkPaddingTop":"15","linkPaddingRight":"15","linkPaddingBottom":"15","linkPaddingLeft":"15","linkPaddingLock":false,"iconSize":20,"tooltip_position":"start","positionTop":"10","positionRight":"10","transitionOpacity":0.3,"opacity":0,"opacityParentHover":1,"linkPaddingTopTablet":"10","linkPaddingRightTablet":"10","linkPaddingBottomTablet":"10","linkPaddingLeftTablet":"10","iconSizeTablet":16,"positionTopTablet":"7","positionRightTablet":"7","opacityTablet":1,"opacityMobile":null} /-->
+
+<!-- wp:wd/li-product-add-to-cart {"blockId":"86dc6384-9d61-4beb-b470-574924f12295","blockVersion":"2","linkPaddingTop":"15","linkPaddingRight":"15","linkPaddingBottom":"15","linkPaddingLeft":"15","style":"icon","iconSize":20,"tooltip_position":"start","positionRight":"10","positionBottom":"10","borderRadiusUnits":"%","transitionOpacity":0.3,"opacity":0,"opacityParentHover":1,"linkPaddingTopTablet":"10","linkPaddingRightTablet":"10","linkPaddingBottomTablet":"10","linkPaddingLeftTablet":"10","iconSizeTablet":16,"positionRightTablet":"7","positionBottomTablet":"7","opacityTablet":1,"opacityMobile":null} /-->
+<!-- /wp:wd/li-product-thumbnail -->]]></content:encoded>
+															<wp:post_id>1160</wp:post_id>
+					<wp:post_date><![CDATA[2026-02-18 13:24:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-02-18 13:24:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-03-12 12:25:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-03-12 12:25:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[product-loop-item-perfumes]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[product_loop_item]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Perfumes slide 1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1-2/</link>
+					<pubDate>Mon, 15 Dec 2025 15:28:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-elementor/?post_type=woodmart_slide&#038;p=281</guid>
+											<content:encoded><![CDATA[<img width="140" height="350" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bottle-1-opt.png" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bottle-1-opt.png 140w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bottle-1-opt-120x300.png 120w" sizes="auto, (max-width: 140px) 100vw, 140px" />					
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+				<h4>New Fragrance in the Opus Essence</h4> 
+								<link rel="stylesheet" id="wd-button-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-button.min.css?ver=8.4.0" type="text/css" media="all" /> 					
+			<a  href="#">
+					Buy now				
+							</a>]]></content:encoded>
+															<wp:post_id>281</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:28:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:28:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-19 15:16:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-19 15:16:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[perfumes-slide-1-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_slide]]></wp:post_type>
+												<category domain="woodmart_slider" nicename="perfumes-slider"><![CDATA[Perfumes slider]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[slide_animation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_color]]></wp:meta_key>
+							<wp:meta_value><![CDATA[rgb(139,103,152)]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:110:"http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov.jpg";s:2:"id";s:3:"282";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"1ff1e63","elType":"container","settings":{"flex_direction":"column","flex_align_items":"center","wd_color_scheme":"light","padding":{"unit":"px","top":"120","right":"40","bottom":"100","left":"40","isLinked":false},"padding_tablet":{"unit":"px","top":"100","right":"40","bottom":"100","left":"40","isLinked":false},"scroll_y":-80},"elements":[{"id":"9768de0","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-slide-1-bottle-1-opt.png","id":283,"size":"","alt":"","source":"library"},"scroll_y":-80,"wd_animation":"slide-from-top","wd_animation_delay":200,"_element_width_mobile":"initial","_element_custom_width_mobile":{"unit":"px","size":120,"sizes":[]}},"elements":[],"widgetType":"wd_image_or_svg"},{"id":"673a899","elType":"widget","settings":{"subtitle":"","title":"New Fragrance in the Opus Essence","after_title":"","width":{"unit":"px","size":660,"sizes":[]},"width_tablet":{"unit":"px","size":506,"sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"scroll_y":-80,"wd_animation":"slide-from-top","wd_animation_delay":150},"elements":[],"widgetType":"wd_title"},{"id":"890d091","elType":"widget","settings":{"text":"Buy now","color":"black","size":"large","scroll_y":-80,"wd_animation":"slide-from-top"},"elements":[],"widgetType":"wd_button"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[content_without_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[horizontal_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[center]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[vertical_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[bottom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:5:{s:10:"hide_title";s:0:"";s:8:"wd_image";a:5:{s:3:"url";s:110:"http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov.jpg";s:2:"id";i:282;s:4:"size";s:0:"";s:3:"alt";s:0:"";s:6:"source";s:7:"library";}s:6:"margin";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:7:"padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:21:"background_background";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-1-bg-ov]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1-2/prf-slide-1-bg-ov/</link>
+					<pubDate>Mon, 15 Dec 2025 15:28:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov.jpg</guid>
+															<wp:post_id>282</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:28:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:28:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 15:28:49]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 15:28:49]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-1-bg-ov]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>281</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bg-ov.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-1-bg-ov.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-1-bottle-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1-2/prf-slide-1-bottle-1-opt/</link>
+					<pubDate>Mon, 15 Dec 2025 15:30:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bottle-1-opt.png</guid>
+															<wp:post_id>283</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:30:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:30:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 15:30:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 15:30:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-1-bottle-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>281</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-1-bottle-1-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-1-bottle-1-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Perfumes slide 2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1/</link>
+					<pubDate>Mon, 15 Dec 2025 15:35:30 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-elementor/?post_type=woodmart_slide&#038;p=291</guid>
+											<content:encoded><![CDATA[<img src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bottle-1-opt.png" sizes="auto, (max-width: 140px) 100vw, 140px" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bottle-1-opt.png 140w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bottle-1-opt-120x300.png 120w" alt="" width="140" height="350" />
+<h4>Deep Fragrance With a Refined Intensity</h4>
+<a href="#">
+Buy now
+</a>]]></content:encoded>
+															<wp:post_id>291</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:35:30]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:35:30]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-30 14:36:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-30 14:36:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[perfumes-slide-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_slide]]></wp:post_type>
+												<category domain="woodmart_slider" nicename="perfumes-slider"><![CDATA[Perfumes slider]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[slide_animation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_color]]></wp:meta_key>
+							<wp:meta_value><![CDATA[rgb(115,69,46)]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:110:"http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov.jpg";s:2:"id";s:3:"295";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"1ff1e63","elType":"container","settings":{"flex_direction":"column","flex_align_items":"center","wd_color_scheme":"light","scroll_y":-80,"padding":{"unit":"px","top":"120","right":"40","bottom":"100","left":"40","isLinked":false},"padding_tablet":{"unit":"px","top":"100","right":"40","bottom":"100","left":"40","isLinked":false}},"elements":[{"id":"9768de0","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-slide-2-bottle-1-opt.png","id":300,"size":"","alt":"","source":"library"},"scroll_y":-80,"wd_animation":"slide-from-top","wd_animation_delay":200,"_element_width_mobile":"initial","_element_custom_width_mobile":{"unit":"px","size":120,"sizes":[]}},"elements":[],"widgetType":"wd_image_or_svg"},{"id":"673a899","elType":"widget","settings":{"subtitle":"","title":"Deep Fragrance With a Refined Intensity","after_title":"","width":{"unit":"px","size":660,"sizes":[]},"width_tablet":{"unit":"px","size":506,"sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80,"wd_animation":"slide-from-top","wd_animation_delay":150,"_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_title"},{"id":"890d091","elType":"widget","settings":{"text":"Buy now","color":"black","size":"large","scroll_y":-80,"wd_animation":"slide-from-top"},"elements":[],"widgetType":"wd_button"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[horizontal_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[center]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[vertical_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[bottom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:5:{s:10:"hide_title";s:0:"";s:8:"wd_image";a:5:{s:3:"url";s:110:"http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov.jpg";s:2:"id";i:295;s:4:"size";s:0:"";s:3:"alt";s:0:"";s:6:"source";s:7:"library";}s:6:"margin";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:7:"padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:21:"background_background";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-2-bg-ov]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1/prf-slide-2-bg-ov/</link>
+					<pubDate>Mon, 15 Dec 2025 15:35:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov.jpg</guid>
+															<wp:post_id>295</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:35:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:35:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 15:35:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 15:35:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-2-bg-ov]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>291</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bg-ov.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-2-bg-ov.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-2-bottle-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1/prf-slide-2-bottle-1-opt/</link>
+					<pubDate>Mon, 15 Dec 2025 15:36:11 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bottle-1-opt.png</guid>
+															<wp:post_id>300</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:36:11]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:36:11]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 15:36:11]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 15:36:11]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-2-bottle-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>291</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-2-bottle-1-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-2-bottle-1-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Perfumes slide 3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1-3/</link>
+					<pubDate>Mon, 15 Dec 2025 15:39:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-elementor/?post_type=woodmart_slide&#038;p=315</guid>
+											<content:encoded><![CDATA[<img src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bottle-1-opt.png" sizes="auto, (max-width: 140px) 100vw, 140px" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bottle-1-opt.png 140w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bottle-1-opt-120x300.png 120w" alt="" width="140" height="350" />
+<h4>Light Fragrance with a Silky Touch</h4>
+<a href="#">
+Buy now
+</a>]]></content:encoded>
+															<wp:post_id>315</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:39:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:39:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-30 14:36:28]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-30 14:36:28]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[perfumes-slide-1-3]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_slide]]></wp:post_type>
+												<category domain="woodmart_slider" nicename="perfumes-slider"><![CDATA[Perfumes slider]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[slide_animation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[bg_color]]></wp:meta_key>
+							<wp:meta_value><![CDATA[rgb(59,15,4)]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:110:"http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov.jpg";s:2:"id";s:3:"316";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.4]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"1ff1e63","elType":"container","settings":{"flex_direction":"column","flex_align_items":"center","wd_color_scheme":"light","scroll_y":-80,"padding":{"unit":"px","top":"120","right":"40","bottom":"100","left":"40","isLinked":false},"padding_tablet":{"unit":"px","top":"100","right":"40","bottom":"100","left":"40","isLinked":false}},"elements":[{"id":"9768de0","elType":"widget","settings":{"image":{"url":"http:\/\/dummy.xtemos.com\/woodmart2\/perfumes-elementor\/wp-content\/uploads\/sites\/66\/2025\/12\/prf-slide-3-bottle-1-opt.png","id":318,"size":"","alt":"","source":"library"},"scroll_y":-80,"wd_animation":"slide-from-top","wd_animation_delay":200,"_element_width":"initial","_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":120,"sizes":[]}},"elements":[],"widgetType":"wd_image_or_svg"},{"id":"673a899","elType":"widget","settings":{"subtitle":"","title":"Light Fragrance with a Silky Touch","after_title":"","width":{"unit":"px","size":660,"sizes":[]},"width_tablet":{"unit":"px","size":506,"sizes":[]},"width_mobile":{"unit":"px","size":"","sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":32,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80,"wd_animation":"slide-from-top","wd_animation_delay":150,"_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"wd_title"},{"id":"890d091","elType":"widget","settings":{"text":"Buy now","color":"black","size":"large","scroll_y":-80,"wd_animation":"slide-from-top"},"elements":[],"widgetType":"wd_button"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[horizontal_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[center]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[vertical_align]]></wp:meta_key>
+							<wp:meta_value><![CDATA[bottom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:5:{s:10:"hide_title";s:0:"";s:8:"wd_image";a:5:{s:3:"url";s:110:"http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov.jpg";s:2:"id";i:316;s:4:"size";s:0:"";s:3:"alt";s:0:"";s:6:"source";s:7:"library";}s:6:"margin";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:7:"padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:0:"";s:5:"right";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:8:"isLinked";b:1;}s:21:"background_background";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-3-bg-ov]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1-3/prf-slide-3-bg-ov/</link>
+					<pubDate>Mon, 15 Dec 2025 15:39:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov.jpg</guid>
+															<wp:post_id>316</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:39:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:39:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 15:39:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 15:39:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-3-bg-ov]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>315</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bg-ov.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-3-bg-ov.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-slide-3-bottle-1-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_slide/perfumes-slide-1-3/prf-slide-3-bottle-1-opt/</link>
+					<pubDate>Mon, 15 Dec 2025 15:40:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bottle-1-opt.png</guid>
+															<wp:post_id>318</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-15 15:40:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-15 15:40:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-15 15:40:16]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-15 15:40:16]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-slide-3-bottle-1-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>315</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-slide-3-bottle-1-opt.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-slide-3-bottle-1-opt.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-5-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-inst-5-opt/</link>
+					<pubDate>Tue, 16 Dec 2025 12:30:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-5-opt.jpg</guid>
+															<wp:post_id>434</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:30:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:30:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:30:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:30:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-5-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-5-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-inst-5-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[prf-inst-6-opt]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/home-perfumes/prf-inst-6-opt/</link>
+					<pubDate>Tue, 16 Dec 2025 12:30:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-6-opt.jpg</guid>
+															<wp:post_id>435</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 12:30:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 12:30:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-12-16 12:30:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-12-16 12:30:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[prf-inst-6-opt]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>14</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-inst-6-opt.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2025/12/prf-inst-6-opt.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

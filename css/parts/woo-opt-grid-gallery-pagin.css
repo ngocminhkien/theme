@@ -1,0 +1,1 @@
+.wd-product-grid-slider-pagin{position:absolute;bottom:var(--wd-prod-pagin-sp, 10px);inset-inline:0;display:flex;align-items:center;justify-content:center;gap:4px;transition:all .3s ease;opacity:0;visibility:hidden;pointer-events:none}.wd-loop-builder-off .wd-product-grid-slider-pagin{z-index:2}

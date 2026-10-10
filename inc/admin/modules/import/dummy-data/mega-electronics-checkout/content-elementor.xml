@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Mega electronics elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/mega-electronics-elementor</link>
+	<description>Multipurpose WooCommerce Electronics Theme</description>
+	<pubDate>Wed, 30 Nov 2022 13:49:31 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/mega-electronics-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Checkout top content - Mega electronics]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/woodmart_layout/checkout-top-content-mega-electronics/</link>
+					<pubDate>Mon, 12 Dec 2022 13:01:27 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/?post_type=woodmart_layout&#038;p=1646</guid>
+											<content:encoded><![CDATA[ 						 							
+																 						<ul>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/cart/">
+						Shopping cart
+					</a>
+				</li>
+				<li>
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/checkout/">
+						Checkout
+					</a>
+				</li>
+				<li>
+					Order complete
+				</li>
+			</ul>
+		Have a coupon? <a href="#">Click here to enter your code</a>	
+
+	<p>If you have a coupon code, please apply it below.</p>
+	<p>
+		<label for="coupon_code">Coupon:</label>
+		
+	</p>
+	<p>
+		<button type="submit" name="apply_coupon" value="Apply coupon">Apply coupon</button>
+	</p>
+]]></content:encoded>
+															<wp:post_id>1646</wp:post_id>
+					<wp:post_date><![CDATA[2022-12-12 13:01:27]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-12-12 13:01:27]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-13 13:52:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-13 13:52:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-top-content-mega-electronics]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_content]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:16:"checkout_content";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"42bb9b0","elType":"container","settings":{"margin":{"unit":"px","top":"-20","right":"0","bottom":"20","left":"0","isLinked":""},"flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"a7535de","elType":"widget","settings":{"scroll_y":"-80","_border_radius":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":"1"}},"elements":[],"widgetType":"wd_page_title"}],"isInner":""},{"id":"e7593fe","elType":"container","settings":{"flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80","margin":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":""}},"elements":[{"id":"53f4e4c","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"3102ca5","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_before_checkout_form","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"3a2b737","elType":"widget","settings":{"scroll_y":"-80","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":""},"form_bg_color":"#FFFFFF"},"elements":[],"widgetType":"wd_checkout_login_form"},{"id":"f7738d3","elType":"widget","settings":{"scroll_y":"-80","form_bg_color":"#FFFFFF"},"elements":[],"widgetType":"wd_checkout_coupon_form"},{"id":"64f25e8","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_before_customer_details","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.24.7]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Checkout form - Mega electronics]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/woodmart_layout/checkout-form-mega-electronics/</link>
+					<pubDate>Mon, 12 Dec 2022 13:03:52 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/?post_type=woodmart_layout&#038;p=1650</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/themes/woodmart/css/parts/el-section-title.css?ver=8.5.0" type="text/css" media="all" /> 					
+				<h4>Billing Details</h4> 
+		<h3>Billing details</h3>
+		<p id="billing_first_name_field" data-priority="10"><label for="billing_first_name">First name&nbsp;*</label><input type="text" name="billing_first_name" id="billing_first_name" placeholder=""  value="sds" aria-required="true" autocomplete="section-billing billing given-name" /></p><p id="billing_last_name_field" data-priority="20"><label for="billing_last_name">Last name&nbsp;*</label><input type="text" name="billing_last_name" id="billing_last_name" placeholder=""  value="scssc" aria-required="true" autocomplete="section-billing billing family-name" /></p><p id="billing_company_field" data-priority="30"><label for="billing_company">Company name&nbsp;(optional)</label><input type="text" name="billing_company" id="billing_company" placeholder=""  value="" autocomplete="section-billing billing organization" /></p><p id="billing_country_field" data-priority="40"><label for="billing_country">Country / Region&nbsp;*</label><select name="billing_country" id="billing_country" aria-required="true" autocomplete="section-billing billing country" data-placeholder="Select a country / region&hellip;" data-label="Country / Region"><option value="">Select a country / region&hellip;</option><option value="AF" >Afghanistan</option><option value="AX" >Åland Islands</option><option value="AL" >Albania</option><option value="DZ" >Algeria</option><option value="AS" >American Samoa</option><option value="AD" >Andorra</option><option value="AO" >Angola</option><option value="AI" >Anguilla</option><option value="AQ" >Antarctica</option><option value="AG" >Antigua and Barbuda</option><option value="AR" >Argentina</option><option value="AM" >Armenia</option><option value="AW" >Aruba</option><option value="AU" >Australia</option><option value="AT" >Austria</option><option value="AZ" >Azerbaijan</option><option value="BS" >Bahamas</option><option value="BH" >Bahrain</option><option value="BD" >Bangladesh</option><option value="BB" >Barbados</option><option value="BY" >Belarus</option><option value="PW" >Belau</option><option value="BE" >Belgium</option><option value="BZ" >Belize</option><option value="BJ" >Benin</option><option value="BM" >Bermuda</option><option value="BT" >Bhutan</option><option value="BO" >Bolivia</option><option value="BQ" >Bonaire, Saint Eustatius and Saba</option><option value="BA" >Bosnia and Herzegovina</option><option value="BW" >Botswana</option><option value="BV" >Bouvet Island</option><option value="BR" >Brazil</option><option value="IO" >British Indian Ocean Territory</option><option value="BN" >Brunei</option><option value="BG" >Bulgaria</option><option value="BF" >Burkina Faso</option><option value="BI" >Burundi</option><option value="KH" >Cambodia</option><option value="CM" >Cameroon</option><option value="CA" >Canada</option><option value="CV" >Cape Verde</option><option value="KY" >Cayman Islands</option><option value="CF" >Central African Republic</option><option value="TD" >Chad</option><option value="CL" >Chile</option><option value="CN" >China</option><option value="CX" >Christmas Island</option><option value="CC" >Cocos (Keeling) Islands</option><option value="CO" >Colombia</option><option value="KM" >Comoros</option><option value="CG" >Congo (Brazzaville)</option><option value="CD" >Congo (Kinshasa)</option><option value="CK" >Cook Islands</option><option value="CR" >Costa Rica</option><option value="HR" >Croatia</option><option value="CU" >Cuba</option><option value="CW" >Cura&ccedil;ao</option><option value="CY" >Cyprus</option><option value="CZ" >Czech Republic</option><option value="DK" >Denmark</option><option value="DJ" >Djibouti</option><option value="DM" >Dominica</option><option value="DO" >Dominican Republic</option><option value="EC" >Ecuador</option><option value="EG" >Egypt</option><option value="SV" >El Salvador</option><option value="GQ" >Equatorial Guinea</option><option value="ER" >Eritrea</option><option value="EE" >Estonia</option><option value="SZ" >Eswatini</option><option value="ET" >Ethiopia</option><option value="FK" >Falkland Islands</option><option value="FO" >Faroe Islands</option><option value="FJ" >Fiji</option><option value="FI" >Finland</option><option value="FR" >France</option><option value="GF" >French Guiana</option><option value="PF" >French Polynesia</option><option value="TF" >French Southern Territories</option><option value="GA" >Gabon</option><option value="GM" >Gambia</option><option value="GE" >Georgia</option><option value="DE" >Germany</option><option value="GH" >Ghana</option><option value="GI" >Gibraltar</option><option value="GR" >Greece</option><option value="GL" >Greenland</option><option value="GD" >Grenada</option><option value="GP" >Guadeloupe</option><option value="GU" >Guam</option><option value="GT" >Guatemala</option><option value="GG" >Guernsey</option><option value="GN" >Guinea</option><option value="GW" >Guinea-Bissau</option><option value="GY" >Guyana</option><option value="HT" >Haiti</option><option value="HM" >Heard Island and McDonald Islands</option><option value="HN" >Honduras</option><option value="HK" >Hong Kong</option><option value="HU" >Hungary</option><option value="IS" >Iceland</option><option value="IN" >India</option><option value="ID" >Indonesia</option><option value="IR" >Iran</option><option value="IQ" >Iraq</option><option value="IE" >Ireland</option><option value="IM" >Isle of Man</option><option value="IL" >Israel</option><option value="IT" >Italy</option><option value="CI" >Ivory Coast</option><option value="JM" >Jamaica</option><option value="JP" >Japan</option><option value="JE" >Jersey</option><option value="JO" >Jordan</option><option value="KZ" >Kazakhstan</option><option value="KE" >Kenya</option><option value="KI" >Kiribati</option><option value="XK" >Kosovo</option><option value="KW" >Kuwait</option><option value="KG" >Kyrgyzstan</option><option value="LA" >Laos</option><option value="LV" >Latvia</option><option value="LB" >Lebanon</option><option value="LS" >Lesotho</option><option value="LR" >Liberia</option><option value="LY" >Libya</option><option value="LI" >Liechtenstein</option><option value="LT" >Lithuania</option><option value="LU" >Luxembourg</option><option value="MO" >Macao</option><option value="MG" >Madagascar</option><option value="MW" >Malawi</option><option value="MY" >Malaysia</option><option value="MV" >Maldives</option><option value="ML" >Mali</option><option value="MT" >Malta</option><option value="MH" >Marshall Islands</option><option value="MQ" >Martinique</option><option value="MR" >Mauritania</option><option value="MU" >Mauritius</option><option value="YT" >Mayotte</option><option value="MX" >Mexico</option><option value="FM" >Micronesia</option><option value="MD" >Moldova</option><option value="MC" >Monaco</option><option value="MN" >Mongolia</option><option value="ME" >Montenegro</option><option value="MS" >Montserrat</option><option value="MA" >Morocco</option><option value="MZ" >Mozambique</option><option value="MM" >Myanmar</option><option value="NA" >Namibia</option><option value="NR" >Nauru</option><option value="NP" >Nepal</option><option value="NL" >Netherlands</option><option value="NC" >New Caledonia</option><option value="NZ" >New Zealand</option><option value="NI" >Nicaragua</option><option value="NE" >Niger</option><option value="NG" >Nigeria</option><option value="NU" >Niue</option><option value="NF" >Norfolk Island</option><option value="KP" >North Korea</option><option value="MK" >North Macedonia</option><option value="MP" >Northern Mariana Islands</option><option value="NO" >Norway</option><option value="OM" >Oman</option><option value="PK" >Pakistan</option><option value="PS" >Palestinian Territory</option><option value="PA" >Panama</option><option value="PG" >Papua New Guinea</option><option value="PY" >Paraguay</option><option value="PE" >Peru</option><option value="PH" >Philippines</option><option value="PN" >Pitcairn</option><option value="PL" >Poland</option><option value="PT" >Portugal</option><option value="PR" >Puerto Rico</option><option value="QA" >Qatar</option><option value="RE" >Reunion</option><option value="RO" >Romania</option><option value="RU" >Russia</option><option value="RW" >Rwanda</option><option value="ST" >S&atilde;o Tom&eacute; and Pr&iacute;ncipe</option><option value="BL" >Saint Barth&eacute;lemy</option><option value="SH" >Saint Helena</option><option value="KN" >Saint Kitts and Nevis</option><option value="LC" >Saint Lucia</option><option value="SX" >Saint Martin (Dutch part)</option><option value="MF" >Saint Martin (French part)</option><option value="PM" >Saint Pierre and Miquelon</option><option value="VC" >Saint Vincent and the Grenadines</option><option value="WS" >Samoa</option><option value="SM" >San Marino</option><option value="SA" >Saudi Arabia</option><option value="SN" >Senegal</option><option value="RS" >Serbia</option><option value="SC" >Seychelles</option><option value="SL" >Sierra Leone</option><option value="SG" >Singapore</option><option value="SK" >Slovakia</option><option value="SI" >Slovenia</option><option value="SB" >Solomon Islands</option><option value="SO" >Somalia</option><option value="ZA" >South Africa</option><option value="GS" >South Georgia/Sandwich Islands</option><option value="KR" >South Korea</option><option value="SS" >South Sudan</option><option value="ES" >Spain</option><option value="LK" >Sri Lanka</option><option value="SD" >Sudan</option><option value="SR" >Suriname</option><option value="SJ" >Svalbard and Jan Mayen</option><option value="SE" >Sweden</option><option value="CH" >Switzerland</option><option value="SY" >Syria</option><option value="TW" >Taiwan</option><option value="TJ" >Tajikistan</option><option value="TZ" >Tanzania</option><option value="TH" >Thailand</option><option value="TL" >Timor-Leste</option><option value="TG" >Togo</option><option value="TK" >Tokelau</option><option value="TO" >Tonga</option><option value="TT" >Trinidad and Tobago</option><option value="TN" >Tunisia</option><option value="TR" >Türkiye</option><option value="TM" >Turkmenistan</option><option value="TC" >Turks and Caicos Islands</option><option value="TV" >Tuvalu</option><option value="UG" >Uganda</option><option value="UA" >Ukraine</option><option value="AE" >United Arab Emirates</option><option value="GB"  selected='selected'>United Kingdom (UK)</option><option value="US" >United States (US)</option><option value="UM" >United States (US) Minor Outlying Islands</option><option value="UY" >Uruguay</option><option value="UZ" >Uzbekistan</option><option value="VU" >Vanuatu</option><option value="VA" >Vatican</option><option value="VE" >Venezuela</option><option value="VN" >Vietnam</option><option value="VG" >Virgin Islands (British)</option><option value="VI" >Virgin Islands (US)</option><option value="WF" >Wallis and Futuna</option><option value="EH" >Western Sahara</option><option value="YE" >Yemen</option><option value="ZM" >Zambia</option><option value="ZW" >Zimbabwe</option></select><noscript><button type="submit" name="woocommerce_checkout_update_totals" value="Update country / region">Update country / region</button></noscript></p><p id="billing_address_1_field" data-priority="50"><label for="billing_address_1">Street address&nbsp;*</label><input type="text" name="billing_address_1" id="billing_address_1" placeholder="House number and street name"  value="" aria-required="true" autocomplete="section-billing billing address-line1" /></p><p id="billing_address_2_field" data-priority="60"><label for="billing_address_2">Apartment, suite, unit, etc.&nbsp;(optional)</label><input type="text" name="billing_address_2" id="billing_address_2" placeholder="Apartment, suite, unit, etc. (optional)"  value="" autocomplete="section-billing billing address-line2" /></p><p id="billing_city_field" data-priority="70"><label for="billing_city">Town / City&nbsp;*</label><input type="text" name="billing_city" id="billing_city" placeholder=""  value="" aria-required="true" autocomplete="section-billing billing address-level2" /></p><p id="billing_state_field" data-priority="80"><label for="billing_state">County&nbsp;(optional)</label><input type="text" value=""  placeholder="" name="billing_state" id="billing_state" autocomplete="section-billing billing address-level1" data-input-classes=""/></p><p id="billing_postcode_field" data-priority="90"><label for="billing_postcode">Postcode&nbsp;*</label><input type="text" name="billing_postcode" id="billing_postcode" placeholder=""  value="" aria-required="true" autocomplete="section-billing billing postal-code" /></p><p id="billing_phone_field" data-priority="100"><label for="billing_phone">Phone&nbsp;*</label><input type="tel" name="billing_phone" id="billing_phone" placeholder=""  value="" aria-required="true" autocomplete="section-billing billing tel" /></p><p id="billing_email_field" data-priority="110"><label for="billing_email">Email address&nbsp;*</label><input type="email" name="billing_email" id="billing_email" placeholder=""  value="zak@asda.as" aria-required="true" autocomplete="section-billing billing email" /></p>	
+	<wc-order-attribution-inputs></wc-order-attribution-inputs>
+					<wc-order-attribution-inputs></wc-order-attribution-inputs>				
+					<wc-order-attribution-inputs></wc-order-attribution-inputs>				
+		<h3 id="ship-to-different-address">
+			<label>
+				<input id="ship-to-different-address-checkbox"  type="checkbox" name="ship_to_different_address" value="1" /> Ship to a different address?
+			</label>
+		</h3>
+				<p id="shipping_first_name_field" data-priority="10"><label for="shipping_first_name">First name&nbsp;*</label><input type="text" name="shipping_first_name" id="shipping_first_name" placeholder=""  value="" aria-required="true" autocomplete="section-shipping shipping given-name" /></p><p id="shipping_last_name_field" data-priority="20"><label for="shipping_last_name">Last name&nbsp;*</label><input type="text" name="shipping_last_name" id="shipping_last_name" placeholder=""  value="" aria-required="true" autocomplete="section-shipping shipping family-name" /></p><p id="shipping_company_field" data-priority="30"><label for="shipping_company">Company name&nbsp;(optional)</label><input type="text" name="shipping_company" id="shipping_company" placeholder=""  value="" autocomplete="section-shipping shipping organization" /></p><p id="shipping_country_field" data-priority="40"><label for="shipping_country">Country / Region&nbsp;*</label><select name="shipping_country" id="shipping_country" aria-required="true" autocomplete="section-shipping shipping country" data-placeholder="Select a country / region&hellip;" data-label="Country / Region"><option value="">Select a country / region&hellip;</option><option value="AF" >Afghanistan</option><option value="AX" >Åland Islands</option><option value="AL" >Albania</option><option value="DZ" >Algeria</option><option value="AS" >American Samoa</option><option value="AD" >Andorra</option><option value="AO" >Angola</option><option value="AI" >Anguilla</option><option value="AQ" >Antarctica</option><option value="AG" >Antigua and Barbuda</option><option value="AR" >Argentina</option><option value="AM" >Armenia</option><option value="AW" >Aruba</option><option value="AU" >Australia</option><option value="AT" >Austria</option><option value="AZ" >Azerbaijan</option><option value="BS" >Bahamas</option><option value="BH" >Bahrain</option><option value="BD" >Bangladesh</option><option value="BB" >Barbados</option><option value="BY" >Belarus</option><option value="PW" >Belau</option><option value="BE" >Belgium</option><option value="BZ" >Belize</option><option value="BJ" >Benin</option><option value="BM" >Bermuda</option><option value="BT" >Bhutan</option><option value="BO" >Bolivia</option><option value="BQ" >Bonaire, Saint Eustatius and Saba</option><option value="BA" >Bosnia and Herzegovina</option><option value="BW" >Botswana</option><option value="BV" >Bouvet Island</option><option value="BR" >Brazil</option><option value="IO" >British Indian Ocean Territory</option><option value="BN" >Brunei</option><option value="BG" >Bulgaria</option><option value="BF" >Burkina Faso</option><option value="BI" >Burundi</option><option value="KH" >Cambodia</option><option value="CM" >Cameroon</option><option value="CA" >Canada</option><option value="CV" >Cape Verde</option><option value="KY" >Cayman Islands</option><option value="CF" >Central African Republic</option><option value="TD" >Chad</option><option value="CL" >Chile</option><option value="CN" >China</option><option value="CX" >Christmas Island</option><option value="CC" >Cocos (Keeling) Islands</option><option value="CO" >Colombia</option><option value="KM" >Comoros</option><option value="CG" >Congo (Brazzaville)</option><option value="CD" >Congo (Kinshasa)</option><option value="CK" >Cook Islands</option><option value="CR" >Costa Rica</option><option value="HR" >Croatia</option><option value="CU" >Cuba</option><option value="CW" >Cura&ccedil;ao</option><option value="CY" >Cyprus</option><option value="CZ" >Czech Republic</option><option value="DK" >Denmark</option><option value="DJ" >Djibouti</option><option value="DM" >Dominica</option><option value="DO" >Dominican Republic</option><option value="EC" >Ecuador</option><option value="EG" >Egypt</option><option value="SV" >El Salvador</option><option value="GQ" >Equatorial Guinea</option><option value="ER" >Eritrea</option><option value="EE" >Estonia</option><option value="SZ" >Eswatini</option><option value="ET" >Ethiopia</option><option value="FK" >Falkland Islands</option><option value="FO" >Faroe Islands</option><option value="FJ" >Fiji</option><option value="FI" >Finland</option><option value="FR" >France</option><option value="GF" >French Guiana</option><option value="PF" >French Polynesia</option><option value="TF" >French Southern Territories</option><option value="GA" >Gabon</option><option value="GM" >Gambia</option><option value="GE" >Georgia</option><option value="DE" >Germany</option><option value="GH" >Ghana</option><option value="GI" >Gibraltar</option><option value="GR" >Greece</option><option value="GL" >Greenland</option><option value="GD" >Grenada</option><option value="GP" >Guadeloupe</option><option value="GU" >Guam</option><option value="GT" >Guatemala</option><option value="GG" >Guernsey</option><option value="GN" >Guinea</option><option value="GW" >Guinea-Bissau</option><option value="GY" >Guyana</option><option value="HT" >Haiti</option><option value="HM" >Heard Island and McDonald Islands</option><option value="HN" >Honduras</option><option value="HK" >Hong Kong</option><option value="HU" >Hungary</option><option value="IS" >Iceland</option><option value="IN" >India</option><option value="ID" >Indonesia</option><option value="IR" >Iran</option><option value="IQ" >Iraq</option><option value="IE" >Ireland</option><option value="IM" >Isle of Man</option><option value="IL" >Israel</option><option value="IT" >Italy</option><option value="CI" >Ivory Coast</option><option value="JM" >Jamaica</option><option value="JP" >Japan</option><option value="JE" >Jersey</option><option value="JO" >Jordan</option><option value="KZ" >Kazakhstan</option><option value="KE" >Kenya</option><option value="KI" >Kiribati</option><option value="XK" >Kosovo</option><option value="KW" >Kuwait</option><option value="KG" >Kyrgyzstan</option><option value="LA" >Laos</option><option value="LV" >Latvia</option><option value="LB" >Lebanon</option><option value="LS" >Lesotho</option><option value="LR" >Liberia</option><option value="LY" >Libya</option><option value="LI" >Liechtenstein</option><option value="LT" >Lithuania</option><option value="LU" >Luxembourg</option><option value="MO" >Macao</option><option value="MG" >Madagascar</option><option value="MW" >Malawi</option><option value="MY" >Malaysia</option><option value="MV" >Maldives</option><option value="ML" >Mali</option><option value="MT" >Malta</option><option value="MH" >Marshall Islands</option><option value="MQ" >Martinique</option><option value="MR" >Mauritania</option><option value="MU" >Mauritius</option><option value="YT" >Mayotte</option><option value="MX" >Mexico</option><option value="FM" >Micronesia</option><option value="MD" >Moldova</option><option value="MC" >Monaco</option><option value="MN" >Mongolia</option><option value="ME" >Montenegro</option><option value="MS" >Montserrat</option><option value="MA" >Morocco</option><option value="MZ" >Mozambique</option><option value="MM" >Myanmar</option><option value="NA" >Namibia</option><option value="NR" >Nauru</option><option value="NP" >Nepal</option><option value="NL" >Netherlands</option><option value="NC" >New Caledonia</option><option value="NZ" >New Zealand</option><option value="NI" >Nicaragua</option><option value="NE" >Niger</option><option value="NG" >Nigeria</option><option value="NU" >Niue</option><option value="NF" >Norfolk Island</option><option value="KP" >North Korea</option><option value="MK" >North Macedonia</option><option value="MP" >Northern Mariana Islands</option><option value="NO" >Norway</option><option value="OM" >Oman</option><option value="PK" >Pakistan</option><option value="PS" >Palestinian Territory</option><option value="PA" >Panama</option><option value="PG" >Papua New Guinea</option><option value="PY" >Paraguay</option><option value="PE" >Peru</option><option value="PH" >Philippines</option><option value="PN" >Pitcairn</option><option value="PL" >Poland</option><option value="PT" >Portugal</option><option value="PR" >Puerto Rico</option><option value="QA" >Qatar</option><option value="RE" >Reunion</option><option value="RO" >Romania</option><option value="RU" >Russia</option><option value="RW" >Rwanda</option><option value="ST" >S&atilde;o Tom&eacute; and Pr&iacute;ncipe</option><option value="BL" >Saint Barth&eacute;lemy</option><option value="SH" >Saint Helena</option><option value="KN" >Saint Kitts and Nevis</option><option value="LC" >Saint Lucia</option><option value="SX" >Saint Martin (Dutch part)</option><option value="MF" >Saint Martin (French part)</option><option value="PM" >Saint Pierre and Miquelon</option><option value="VC" >Saint Vincent and the Grenadines</option><option value="WS" >Samoa</option><option value="SM" >San Marino</option><option value="SA" >Saudi Arabia</option><option value="SN" >Senegal</option><option value="RS" >Serbia</option><option value="SC" >Seychelles</option><option value="SL" >Sierra Leone</option><option value="SG" >Singapore</option><option value="SK" >Slovakia</option><option value="SI" >Slovenia</option><option value="SB" >Solomon Islands</option><option value="SO" >Somalia</option><option value="ZA" >South Africa</option><option value="GS" >South Georgia/Sandwich Islands</option><option value="KR" >South Korea</option><option value="SS" >South Sudan</option><option value="ES" >Spain</option><option value="LK" >Sri Lanka</option><option value="SD" >Sudan</option><option value="SR" >Suriname</option><option value="SJ" >Svalbard and Jan Mayen</option><option value="SE" >Sweden</option><option value="CH" >Switzerland</option><option value="SY" >Syria</option><option value="TW" >Taiwan</option><option value="TJ" >Tajikistan</option><option value="TZ" >Tanzania</option><option value="TH" >Thailand</option><option value="TL" >Timor-Leste</option><option value="TG" >Togo</option><option value="TK" >Tokelau</option><option value="TO" >Tonga</option><option value="TT" >Trinidad and Tobago</option><option value="TN" >Tunisia</option><option value="TR" >Türkiye</option><option value="TM" >Turkmenistan</option><option value="TC" >Turks and Caicos Islands</option><option value="TV" >Tuvalu</option><option value="UG" >Uganda</option><option value="UA" >Ukraine</option><option value="AE" >United Arab Emirates</option><option value="GB"  selected='selected'>United Kingdom (UK)</option><option value="US" >United States (US)</option><option value="UM" >United States (US) Minor Outlying Islands</option><option value="UY" >Uruguay</option><option value="UZ" >Uzbekistan</option><option value="VU" >Vanuatu</option><option value="VA" >Vatican</option><option value="VE" >Venezuela</option><option value="VN" >Vietnam</option><option value="VG" >Virgin Islands (British)</option><option value="VI" >Virgin Islands (US)</option><option value="WF" >Wallis and Futuna</option><option value="EH" >Western Sahara</option><option value="YE" >Yemen</option><option value="ZM" >Zambia</option><option value="ZW" >Zimbabwe</option></select><noscript><button type="submit" name="woocommerce_checkout_update_totals" value="Update country / region">Update country / region</button></noscript></p><p id="shipping_address_1_field" data-priority="50"><label for="shipping_address_1">Street address&nbsp;*</label><input type="text" name="shipping_address_1" id="shipping_address_1" placeholder="House number and street name"  value="" aria-required="true" autocomplete="section-shipping shipping address-line1" /></p><p id="shipping_address_2_field" data-priority="60"><label for="shipping_address_2">Apartment, suite, unit, etc.&nbsp;(optional)</label><input type="text" name="shipping_address_2" id="shipping_address_2" placeholder="Apartment, suite, unit, etc. (optional)"  value="" autocomplete="section-shipping shipping address-line2" /></p><p id="shipping_city_field" data-priority="70"><label for="shipping_city">Town / City&nbsp;*</label><input type="text" name="shipping_city" id="shipping_city" placeholder=""  value="" aria-required="true" autocomplete="section-shipping shipping address-level2" /></p><p id="shipping_state_field" data-priority="80"><label for="shipping_state">County&nbsp;(optional)</label><input type="text" value=""  placeholder="" name="shipping_state" id="shipping_state" autocomplete="section-shipping shipping address-level1" data-input-classes=""/></p><p id="shipping_postcode_field" data-priority="90"><label for="shipping_postcode">Postcode&nbsp;*</label><input type="text" name="shipping_postcode" id="shipping_postcode" placeholder=""  value="" aria-required="true" autocomplete="section-shipping shipping postal-code" /></p><p id="shipping_phone_field" data-priority="100"><label for="shipping_phone">Phone&nbsp;*</label><input type="tel" name="shipping_phone" id="shipping_phone" placeholder=""  value="" aria-required="true" autocomplete="section-shipping shipping tel" /></p>			
+							<p id="order_comments_field" data-priority=""><label for="order_comments">Order notes&nbsp;(optional)</label><textarea name="order_comments" id="order_comments" placeholder="Notes about your order, e.g. special notes for delivery."  rows="2" cols="5"></textarea></p>					
+	<wc-order-attribution-inputs></wc-order-attribution-inputs>
+					<wc-order-attribution-inputs></wc-order-attribution-inputs>				
+				<h4>Payment Information</h4> 
+			<ul>
+			<li>
+	<input id="payment_method_bacs" type="radio" name="payment_method" value="bacs"  checked='checked' data-order_button_text="" />
+	<label for="payment_method_bacs">
+		Direct bank transfer 	</label>
+			<p>Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account.</p>
+	</li>
+<li>
+	<input id="payment_method_cheque" type="radio" name="payment_method" value="cheque"  data-order_button_text="" />
+	<label for="payment_method_cheque">
+		Check payments 	</label>
+			<p>Please send a check to Store Name, Store Street, Store Town, Store State / County, Store Postcode.</p>
+	</li>
+<li>
+	<input id="payment_method_cod" type="radio" name="payment_method" value="cod"  data-order_button_text="" />
+	<label for="payment_method_cod">
+		Cash on delivery 	</label>
+			<p>Pay with cash upon delivery.</p>
+	</li>
+		</ul>
+		<noscript>
+			Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so.			<br/><button type="submit" name="woocommerce_checkout_update_totals" value="Update totals">Update totals</button>
+		</noscript>
+		<br />
+<style>
+				#slider-31 .wd-slide {
+	min-height: 460px;
+}
+@media (max-width: 1024px) {
+	#slider-31 .wd-slide {
+		min-height: 460px;
+	}
+}
+@media (max-width: 767px) {
+	#slider-31 .wd-slide {
+		min-height: 460px;
+	}
+}
+			</style>
+<style>
+									#slide-169 .wd-slide-container {
+											--wd-align-items: flex-start;
+																--wd-justify-content: center;
+										}
+									#slide-169 .wd-slide-inner {
+						max-width:500px;					}
+									#slide-169.woodmart-loaded .wd-slide-bg {
+						background-image:url(http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/apple-shopping-event.jpg);					}
+									#slide-169 .wd-slide-bg {
+						background-color:rgb(106,37,96);background-size:cover;background-position:center center;					}
+									@media (max-width: 1024px) {
+									#slide-169 .wd-slide-inner {
+						max-width:500px;					}
+									}
+									@media (max-width: 767px) {
+									#slide-169 .wd-slide-inner {
+						max-width:500px;					}
+									}
+									#slide-189 .wd-slide-container {
+											--wd-align-items: flex-start;
+																--wd-justify-content: left;
+										}
+									#slide-189 .wd-slide-inner {
+						max-width:500px;					}
+									#slide-189.woodmart-loaded .wd-slide-bg {
+						background-image:url(http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/pre-order-g-pixel-7.jpg);					}
+									#slide-189 .wd-slide-bg {
+						background-color:rgb(46,45,43);background-size:cover;background-position:center center;					}
+									@media (max-width: 1024px) {
+									#slide-189 .wd-slide-inner {
+						max-width:500px;					}
+									}
+									@media (max-width: 767px) {
+									#slide-189 .wd-slide-inner {
+						max-width:500px;					}
+									}
+									#slide-184 .wd-slide-container {
+											--wd-align-items: flex-start;
+																--wd-justify-content: left;
+										}
+									#slide-184 .wd-slide-inner {
+						max-width:500px;					}
+									#slide-184.woodmart-loaded .wd-slide-bg {
+						background-image:url(http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/discount-on-all-smart-appliances.jpg);					}
+									#slide-184 .wd-slide-bg {
+						background-color:rgb(35,54,71);background-size:cover;background-position:center center;					}
+									@media (max-width: 1024px) {
+									#slide-184 .wd-slide-inner {
+						max-width:500px;					}
+									}
+									@media (max-width: 767px) {
+									#slide-184 .wd-slide-inner {
+						max-width:500px;					}
+									}
+								</style>
+<style>.elementor-169 .elementor-element.elementor-element-0fbad12{--display:flex;--gap:10px 10px;--row-gap:10px;--column-gap:10px;}#slide-169 .wd-slide-inner{max-width:500px;}#slide-169 .wd-slide-container{--wd-align-items:flex-start;--wd-justify-content:center;}#slide-169 .wd-slide-bg{background-color:rgb(106,37,96);}@media(max-width:1024px){#slide-169 .wd-slide-inner{max-width:500px;}#slide-169 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}@media(max-width:767px){#slide-169 .wd-slide-inner{max-width:500px;}#slide-169 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}</style>
+<h4>Apple Shopping Event</h4>
+<p>Shop great deals on MacBook, iPad, iPhone and more.</p>
+<p>			<a href="#"><br />
+					Shop Now<br />
+							</a></p>
+<style>.elementor-189 .elementor-element.elementor-element-8208481{--display:flex;--gap:10px 10px;--row-gap:10px;--column-gap:10px;}.elementor-189 .elementor-element.elementor-element-b87a7ba .title-after_title, .elementor-189 .elementor-element.elementor-element-b87a7ba .title-subtitle, .elementor-189 .elementor-element.elementor-element-b87a7ba .woodmart-title-container{max-width:554px;}#slide-189 .wd-slide-inner{max-width:500px;}#slide-189 .wd-slide-container{--wd-align-items:flex-start;--wd-justify-content:left;}#slide-189 .wd-slide-bg{background-color:rgb(46,45,43);}@media(max-width:1024px){#slide-189 .wd-slide-inner{max-width:500px;}#slide-189 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}@media(max-width:767px){#slide-189 .wd-slide-inner{max-width:500px;}#slide-189 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}</style>
+<h4>Discount on all Smart appliances up to 25%</h4>
+<p>Shop great deals on MacBook, iPad, iPhone and more.</p>
+<p>			<a href="#"><br />
+					Shop Now<br />
+							</a></p>
+<style>.elementor-184 .elementor-element.elementor-element-4221422{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:10px 10px;--row-gap:10px;--column-gap:10px;}#slide-184 .wd-slide-inner{max-width:500px;}#slide-184 .wd-slide-container{--wd-align-items:flex-start;--wd-justify-content:left;}#slide-184 .wd-slide-bg{background-color:rgb(35,54,71);}@media(max-width:1024px){#slide-184 .wd-slide-inner{max-width:500px;}#slide-184 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}@media(max-width:767px){#slide-184 .wd-slide-inner{max-width:500px;}#slide-184 .wd-slide-container{--wd-align-items:center;--wd-justify-content:left;}}</style>
+<h4>The new Google Pixel 7</h4>
+<p>Shop great deals on MacBook, iPad, iPhone and more.</p>
+<p>			<a href="#"><br />
+					Pre-Order Now<br />
+							</a></p>
+<ul></ul>
+<p>																					<img width="1050" height="420" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/logitech-aurora-headset-opt.jpg" alt="" loading="lazy" />																		</p>
+<h4 data-elementor-setting-key="title">
+								Aurora Headset							</h4>
+<p>											0<br />
+											days<br />
+											00<br />
+											hr<br />
+											00<br />
+											min<br />
+											00<br />
+											sc<br />
+			<a href="#"><br />
+					Buy Now<br />
+							</a><br />
+									<a href="#" aria-label="Banner link"></a><br />
+																					<img width="920" height="560" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/new-dualsense.jpg" alt="" loading="lazy" />																		</p>
+<h4 data-elementor-setting-key="title">
+								New Dual Sense							</h4>
+<p>For PlayStation 5</p>
+<p>			<a><br />
+					View Details<br />
+							</a><br />
+																					<img width="920" height="560" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/instant-cameras.jpg" alt="" loading="lazy" />																		</p>
+<h4 data-elementor-setting-key="title">
+								Instant Cameras							</h4>
+<p>Get photo paper as a gift</p>
+<p>			<a><br />
+					View Details<br />
+							</a></p>
+<h4>Popular Categories</h4>
+<p>			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/computer-office/input-devices/headsets/" aria-label="Headsets"><br />
+				<img width="200" height="200" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/headsets-200x200.jpg" alt="" loading="lazy" />			</a></p>
+<h3>
+				Headsets			</h3>
+<p>					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/computer-office/input-devices/headsets/"><br />
+					2 products					</a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/computer-office/input-devices/headsets/" aria-label="Product category headsets"></a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/pc-components/motherboards/" aria-label="Motherboards"><br />
+				<img width="200" height="200" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/motherboards-200x200.jpg" alt="" loading="lazy" />			</a></p>
+<h3>
+				Motherboards			</h3>
+<p>					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/pc-components/motherboards/"><br />
+					0 products					</a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/pc-components/motherboards/" aria-label="Product category motherboards"></a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/laptops/apple-macbook/" aria-label="Apple MacBook"><br />
+				<img width="200" height="200" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/laptops-Apple-MacBook-200x200.jpg" alt="" loading="lazy" />			</a></p>
+<h3>
+				Apple MacBook			</h3>
+<p>					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/laptops/apple-macbook/"><br />
+					2 products					</a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/laptops/apple-macbook/" aria-label="Product category apple-macbook"></a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/tablets/apple-ipad/" aria-label="Apple Ipad"><br />
+				<img width="200" height="200" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/tablets-Apple-Ipad-200x200.jpg" alt="" loading="lazy" />			</a></p>
+<h3>
+				Apple Ipad			</h3>
+<p>					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/tablets/apple-ipad/"><br />
+					2 products					</a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/tablets/apple-ipad/" aria-label="Product category apple-ipad"></a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/photo-video/cameras-drones/drones/" aria-label="Drones"><br />
+				<img width="200" height="200" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/drones-200x200.jpg" alt="" loading="lazy" />			</a></p>
+<h3>
+				Drones			</h3>
+<p>					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/photo-video/cameras-drones/drones/"><br />
+					0 products					</a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/photo-video/cameras-drones/drones/" aria-label="Product category drones"></a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/photo-video/cameras-drones/mirrorless/" aria-label="Mirrorless"><br />
+				<img width="200" height="200" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/photo-and-video-cameras-mirrorless-cameras-200x200.jpg" alt="" loading="lazy" />			</a></p>
+<h3>
+				Mirrorless			</h3>
+<p>					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/photo-video/cameras-drones/mirrorless/"><br />
+					0 products					</a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/photo-video/cameras-drones/mirrorless/" aria-label="Product category mirrorless"></a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/smartphones/mobile-phones/apple-iphone/" aria-label="Apple iPhone"><br />
+				<img width="200" height="200" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/mobile-phones-apple-iphone-200x200.jpg" alt="" loading="lazy" />			</a></p>
+<h3>
+				Apple iPhone			</h3>
+<p>					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/smartphones/mobile-phones/apple-iphone/"><br />
+					1 product					</a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/smartphones/mobile-phones/apple-iphone/" aria-label="Product category apple-iphone"></a></p>
+<h4>The Best Offers</h4>
+<p>			<a href="#"><br />
+					More Products<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/chevron-right-primary.svg" title="chevron-right-primary" loading="lazy" width="14" height="14"><br />
+							</a></p>
+<p>		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/" aria-label="Acer SA100 SATAIII"></p>
+<p>				Hot<br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-sa100-sataiii-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/amd-radeon-pro-w5500-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1451" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/">Acer SA100 SATAIII</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/pc-components/ssd-drive/" rel="tag">SSD Drive</a><br />
+	&pound;30.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then X2 Faster 4K Great performance The Big<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1451" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1451" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1451" data-quantity="1" data-product_id="1451" data-product_sku="5334126" aria-label="Add to cart: “Acer SA100 SATAIII”" rel="nofollow" data-success_message="“Acer SA100 SATAIII” has been added to your cart" role="button">Add to cart</a>	</p>
+<p>			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/" rel="nofollow" data-id="1451"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/alogic-ultra-mini-usb/" aria-label="Alogic Ultra Mini USB"><br />
+				Hot<br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/alogic-ultra-mini-usb-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/aoc-agon-ag493ucx-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1408" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/alogic-ultra-mini-usb/">Alogic Ultra Mini USB</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/computer-office/input-devices/card-readers/" rel="tag">Card Readers</a><br />
+	&pound;50.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					Logitech G735 Phenomenal performance for professionals A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Game-changing fit The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1408" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1408" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1408" data-quantity="1" data-product_id="1408" data-product_sku="397707" aria-label="Add to cart: “Alogic Ultra Mini USB”" rel="nofollow" data-success_message="“Alogic Ultra Mini USB” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/alogic-ultra-mini-usb/" rel="nofollow" data-id="1408"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/amd-ryzen-5-7600x/" aria-label="AMD Ryzen 5 7600X"><br />
+				Hot<br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/amd-ryzen-5-7600x-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-sa100-sataiii-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1529" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/amd-ryzen-5-7600x/">AMD Ryzen 5 7600X</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/pc-components/processors/" rel="tag">Processors</a><br />
+	&pound;299.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then X2 Faster 4K Great performance The Big<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1529" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1529" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1529" data-quantity="1" data-product_id="1529" data-product_sku="5001622" aria-label="Add to cart: “AMD Ryzen 5 7600X”" rel="nofollow" data-success_message="“AMD Ryzen 5 7600X” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/amd-ryzen-5-7600x/" rel="nofollow" data-id="1529"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-ipad-mini-6-wi-fi/" aria-label="Apple iPad Mini 6 Wi-Fi"><br />
+				Hot<br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/apple-ipad-mini-pink-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/aoc-cu34g2x-bk-1.jpg" alt="" loading="lazy" />			</p>
+<p>					Pink<br />
+					Space Gray<br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="977" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-ipad-mini-6-wi-fi/">Apple iPad Mini 6 Wi-Fi</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/tablets/apple-ipad/" rel="tag">Apple Ipad</a><br />
+	&pound;500.00 &ndash; &pound;600.00Price range: &pound;500.00 through &pound;600.00<br />
+					MacBook Pro M1 Pro Phenomenal performance for professionals Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. M1 Pro chip The new M1 Pro processor allows professionals to create what previously seemed impossible. It has more cores and more combined memory (up to 10 cores in the CPU and up to 16 in the graphics). Neural Engine system, dedicated media processors for encoding and decoding files with support for H.264, HEVC and ProRes codecs. This chip is designed for ambitious people and large-scale tasks that other specialists simply won&#8217;t take on.<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="977" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-ipad-mini-6-wi-fi/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_977" data-quantity="1" data-product_id="977" data-product_sku="30912" aria-label="Select options for “Apple iPad Mini 6 Wi-Fi”" rel="nofollow">Select options</a><br />
+		This product has multiple variants. The options may be chosen on the product page<br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-ipad-mini-6-wi-fi/" rel="nofollow" data-id="977"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-macbook-pro-16%e2%80%b3-m1-pro/" aria-label="Apple MacBook Pro 16″ M1 Pro"><br />
+				Hot New<br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/apple-macbook-pro-16-silver-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/apple-macbook-pro-16-silver-2.jpg" alt="" loading="lazy" /><br />
+					Silver<br />
+					Space Gray<br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="835" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-macbook-pro-16%e2%80%b3-m1-pro/">Apple MacBook Pro 16″ M1 Pro</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/laptops/apple-macbook/" rel="tag">Apple MacBook</a><br />
+	&pound;2,999.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					MacBook Pro M1 Pro Phenomenal performance for professionals Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. M1 Pro chip The new M1 Pro processor allows professionals to create what previously seemed impossible. It has more cores and more combined memory (up to 10 cores in the CPU and up to 16 in the graphics). Neural Engine system, dedicated media processors for encoding and decoding files with support for H.264, HEVC and ProRes codecs. This chip is designed for ambitious people and large-scale tasks that other specialists simply won&#8217;t take on.<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="835" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-macbook-pro-16%e2%80%b3-m1-pro/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_835" data-quantity="1" data-product_id="835" data-product_sku="30876" aria-label="Select options for “Apple MacBook Pro 16″ M1 Pro”" rel="nofollow">Select options</a><br />
+		This product has multiple variants. The options may be chosen on the product page<br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-macbook-pro-16%e2%80%b3-m1-pro/" rel="nofollow" data-id="835"><br />
+						Quick view<br />
+			</a><br />
+																					<img width="600" height="720" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/nothing-phone-1.jpg" alt="" loading="lazy" />																		</p>
+<p>								AT A GOOD PRICE							</p>
+<h4 data-elementor-setting-key="title">
+								Nothing Phone 1							</h4>
+<p>			<a><br />
+					Buy Now<br />
+							</a></p>
+<h4>New Goods</h4>
+<p>			<a href="#"><br />
+					More Products<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/chevron-right-primary.svg" title="chevron-right-primary" loading="lazy" width="14" height="14"><br />
+							</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/" aria-label="ACER ConceptD CT300"><br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-conceptd-ct300-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/hp-pavilion-24-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1037" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/">ACER ConceptD CT300</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/pcs/office-pcs/" rel="tag">Office PCs</a><br />
+	&pound;1,199.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					MacBook Pro M1 Pro Phenomenal performance for professionals Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. M1 Pro chip The new M1 Pro processor allows professionals to create what previously seemed impossible. It has more cores and more combined memory (up to 10 cores in the CPU and up to 16 in the graphics). Neural Engine system, dedicated media processors for encoding and decoding files with support for H.264, HEVC and ProRes codecs. This chip is designed for ambitious people and large-scale tasks that other specialists simply won&#8217;t take on.<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1037" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1037" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1037" data-quantity="1" data-product_id="1037" data-product_sku="30944" aria-label="Add to cart: “ACER ConceptD CT300”" rel="nofollow" data-success_message="“ACER ConceptD CT300” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/" rel="nofollow" data-id="1037"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/" aria-label="Acer ProDesigner PE320QK"><br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-prodesigner-pe320qk-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/canon-i-sensys-lbp722cdw-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1312" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/">Acer ProDesigner PE320QK</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/computer-office/monitors/4k-monitors/" rel="tag">4K Monitors</a><br />
+	&pound;750.00<br />
+					Logitech G735 Phenomenal performance for professionals A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Game-changing fit The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1312" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1312" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1312" data-quantity="1" data-product_id="1312" data-product_sku="2144207" aria-label="Add to cart: “Acer ProDesigner PE320QK”" rel="nofollow" data-success_message="“Acer ProDesigner PE320QK” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/" rel="nofollow" data-id="1312"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/" aria-label="Acer SA100 SATAIII"><br />
+				Hot<br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-sa100-sataiii-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/amd-radeon-pro-w5500-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1451" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/">Acer SA100 SATAIII</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/pc-components/ssd-drive/" rel="tag">SSD Drive</a><br />
+	&pound;30.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then X2 Faster 4K Great performance The Big<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1451" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1451" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1451" data-quantity="1" data-product_id="1451" data-product_sku="5334126" aria-label="Add to cart: “Acer SA100 SATAIII”" rel="nofollow" data-success_message="“Acer SA100 SATAIII” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/" rel="nofollow" data-id="1451"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/ailink-aluminium-connector/" aria-label="Ailink Aluminium Connector"><br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/ailink-aluminium-connector-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/amd-ryzen-5-5600x-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1567" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/ailink-aluminium-connector/">Ailink Aluminium Connector</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/hardware-other/cables-adapters/" rel="tag">Cables &amp; Adapters</a><br />
+	&pound;40.00<br />
+					The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then X2 Faster 4K Great performance The Big<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1567" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1567" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1567" data-quantity="1" data-product_id="1567" data-product_sku="544026" aria-label="Add to cart: “Ailink Aluminium Connector”" rel="nofollow" data-success_message="“Ailink Aluminium Connector” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/ailink-aluminium-connector/" rel="nofollow" data-id="1567"><br />
+						Quick view<br />
+			</a><br />
+								<img width="580" height="365" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/apple-shopping-event-full-img-opt-580x365.png" alt="" loading="lazy" />					</p>
+<h4>Apple Shopping Event</h4>
+<p>Hurry and get discounts on all Apple devices up to 20%</p>
+<p>						0<br />
+						days<br />
+						00<br />
+						hr<br />
+						00<br />
+						min<br />
+						00<br />
+						sc<br />
+			<a href="#"><br />
+					Go Shopping<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/chevron-right-white.svg" title="chevron-right-white" loading="lazy" width="16" height="15"><br />
+							</a></p>
+<p>		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/" aria-label="ACER ConceptD CT300"><br />
+			<img width="80" height="80" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-conceptd-ct300-1-80x80.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/">ACER ConceptD CT300</a></h3>
+<p>			Rated <strong>5.00</strong> out of 5<br />
+	&pound;1,199.00<br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/" aria-label="Acer ProDesigner PE320QK"><br />
+			<img width="80" height="80" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-prodesigner-pe320qk-1-80x80.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/">Acer ProDesigner PE320QK</a></h3>
+<p>	&pound;750.00<br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/" aria-label="Acer SA100 SATAIII"><br />
+			<img width="80" height="80" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-sa100-sataiii-1-80x80.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/">Acer SA100 SATAIII</a></h3>
+<p>			Rated <strong>5.00</strong> out of 5<br />
+	&pound;30.00<br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/ailink-aluminium-connector/" aria-label="Ailink Aluminium Connector"><br />
+			<img width="80" height="80" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/ailink-aluminium-connector-1-80x80.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/ailink-aluminium-connector/">Ailink Aluminium Connector</a></h3>
+<p>	&pound;40.00<br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/alogic-ultra-mini-usb/" aria-label="Alogic Ultra Mini USB"><br />
+			<img width="80" height="80" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/alogic-ultra-mini-usb-1-80x80.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/alogic-ultra-mini-usb/">Alogic Ultra Mini USB</a></h3>
+<p>			Rated <strong>5.00</strong> out of 5<br />
+	&pound;50.00</p>
+<h4>Home Appliance</h4>
+<p>			<a href="#"><br />
+					More Products<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/chevron-right-primary.svg" title="chevron-right-primary" loading="lazy" width="14" height="14"><br />
+							</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/" aria-label="ACER ConceptD CT300"><br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-conceptd-ct300-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/hp-pavilion-24-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1037" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/">ACER ConceptD CT300</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/pcs/office-pcs/" rel="tag">Office PCs</a><br />
+	&pound;1,199.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					MacBook Pro M1 Pro Phenomenal performance for professionals Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. M1 Pro chip The new M1 Pro processor allows professionals to create what previously seemed impossible. It has more cores and more combined memory (up to 10 cores in the CPU and up to 16 in the graphics). Neural Engine system, dedicated media processors for encoding and decoding files with support for H.264, HEVC and ProRes codecs. This chip is designed for ambitious people and large-scale tasks that other specialists simply won&#8217;t take on.<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1037" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1037" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1037" data-quantity="1" data-product_id="1037" data-product_sku="30944" aria-label="Add to cart: “ACER ConceptD CT300”" rel="nofollow" data-success_message="“ACER ConceptD CT300” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/" rel="nofollow" data-id="1037"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/" aria-label="Acer ProDesigner PE320QK"><br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-prodesigner-pe320qk-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/canon-i-sensys-lbp722cdw-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1312" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/">Acer ProDesigner PE320QK</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/computer-office/monitors/4k-monitors/" rel="tag">4K Monitors</a><br />
+	&pound;750.00<br />
+					Logitech G735 Phenomenal performance for professionals A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Game-changing fit The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1312" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1312" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1312" data-quantity="1" data-product_id="1312" data-product_sku="2144207" aria-label="Add to cart: “Acer ProDesigner PE320QK”" rel="nofollow" data-success_message="“Acer ProDesigner PE320QK” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/" rel="nofollow" data-id="1312"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/" aria-label="Acer SA100 SATAIII"><br />
+				Hot<br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-sa100-sataiii-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/amd-radeon-pro-w5500-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1451" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/">Acer SA100 SATAIII</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/pc-components/ssd-drive/" rel="tag">SSD Drive</a><br />
+	&pound;30.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then X2 Faster 4K Great performance The Big<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1451" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1451" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1451" data-quantity="1" data-product_id="1451" data-product_sku="5334126" aria-label="Add to cart: “Acer SA100 SATAIII”" rel="nofollow" data-success_message="“Acer SA100 SATAIII” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-sa100-sataiii/" rel="nofollow" data-id="1451"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/ailink-aluminium-connector/" aria-label="Ailink Aluminium Connector"><br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/ailink-aluminium-connector-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/amd-ryzen-5-5600x-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1567" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/ailink-aluminium-connector/">Ailink Aluminium Connector</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/hardware-components/hardware-other/cables-adapters/" rel="tag">Cables &amp; Adapters</a><br />
+	&pound;40.00<br />
+					The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then X2 Faster 4K Great performance The Big<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1567" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1567" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1567" data-quantity="1" data-product_id="1567" data-product_sku="544026" aria-label="Add to cart: “Ailink Aluminium Connector”" rel="nofollow" data-success_message="“Ailink Aluminium Connector” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/ailink-aluminium-connector/" rel="nofollow" data-id="1567"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/alogic-ultra-mini-usb/" aria-label="Alogic Ultra Mini USB"><br />
+				Hot<br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/alogic-ultra-mini-usb-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/aoc-agon-ag493ucx-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1408" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/alogic-ultra-mini-usb/">Alogic Ultra Mini USB</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/computer-office/input-devices/card-readers/" rel="tag">Card Readers</a><br />
+	&pound;50.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					Logitech G735 Phenomenal performance for professionals A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Game-changing fit The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1408" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1408" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1408" data-quantity="1" data-product_id="1408" data-product_sku="397707" aria-label="Add to cart: “Alogic Ultra Mini USB”" rel="nofollow" data-success_message="“Alogic Ultra Mini USB” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/alogic-ultra-mini-usb/" rel="nofollow" data-id="1408"><br />
+						Quick view<br />
+			</a><br />
+								<img width="440" height="255" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/microsoft-accessories.jpg" alt="" loading="lazy" />					</p>
+<h4>Microsoft Accessories</h4>
+<p>Personalize your Surface Pro with Microsoft branded accessories. In the presence of many colors for every taste.</p>
+<p>			<a href="#"><br />
+					Keyboards<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/keyboard.svg" title="keyboard" loading="lazy" width="14" height="14"><br />
+							</a><br />
+			<a href="#"><br />
+					Surface pen<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/pen.svg" title="pen" loading="lazy" width="14" height="14"><br />
+							</a><br />
+			<a href="#"><br />
+					Mices<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/wirelss-mouse.svg" title="wirelss-mouse" loading="lazy" width="14" height="14"><br />
+							</a><br />
+			<a href="#"><br />
+					Headphones<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/headphone.svg" title="headphone" loading="lazy" width="14" height="14"><br />
+							</a><br />
+																					<img width="920" height="560" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/xiaomi-mi-11.jpg" alt="" loading="lazy" />																		</p>
+<h4 data-elementor-setting-key="title">
+								Xiaomi MI 11							</h4>
+<p>Discount up to 30%</p>
+<p>			<a><br />
+					View Details<br />
+							</a><br />
+																					<img width="920" height="560" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/hp-laser-jet.jpg" alt="" loading="lazy" />																		</p>
+<h4 data-elementor-setting-key="title">
+								HP Laser Jet							</h4>
+<p>Personal printer</p>
+<p>			<a><br />
+					View Details<br />
+							</a><br />
+																					<img width="920" height="560" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/white-joy-cons.jpg" alt="" loading="lazy" />																		</p>
+<h4 data-elementor-setting-key="title">
+								White Joy Cons							</h4>
+<p>Long-awaited novelty</p>
+<p>			<a><br />
+					View Details<br />
+							</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/" aria-label="ACER ConceptD CT300"><br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-conceptd-ct300-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/hp-pavilion-24-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1037" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/">ACER ConceptD CT300</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/laptops-tablets-pcs/pcs/office-pcs/" rel="tag">Office PCs</a><br />
+	&pound;1,199.00<br />
+			Rated <strong>5.00</strong> out of 5<br />
+					MacBook Pro M1 Pro Phenomenal performance for professionals Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. M1 Pro chip The new M1 Pro processor allows professionals to create what previously seemed impossible. It has more cores and more combined memory (up to 10 cores in the CPU and up to 16 in the graphics). Neural Engine system, dedicated media processors for encoding and decoding files with support for H.264, HEVC and ProRes codecs. This chip is designed for ambitious people and large-scale tasks that other specialists simply won&#8217;t take on.<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1037" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1037" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1037" data-quantity="1" data-product_id="1037" data-product_sku="30944" aria-label="Add to cart: “ACER ConceptD CT300”" rel="nofollow" data-success_message="“ACER ConceptD CT300” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-conceptd-ct300/" rel="nofollow" data-id="1037"><br />
+						Quick view<br />
+			</a><br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/" aria-label="Acer ProDesigner PE320QK"><br />
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/acer-prodesigner-pe320qk-1.jpg" alt="" loading="lazy" />		</a><br />
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/canon-i-sensys-lbp722cdw-1.jpg" alt="" loading="lazy" /><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/compare/" data-id="1312" rel="nofollow" data-added-text="Compare products"><br />
+				Add to compare<br />
+			</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/">Acer ProDesigner PE320QK</a></h3>
+<p>						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product-category/computer-office/monitors/4k-monitors/" rel="tag">4K Monitors</a><br />
+	&pound;750.00<br />
+					Logitech G735 Phenomenal performance for professionals A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Game-changing fit The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view<br />
+				<a href="#" rel="nofollow" aria-label="Read more description"></a><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wishlist/" data-key="bd4121f937" data-product-id="1312" rel="nofollow" data-added-text="Browse wishlist"><br />
+					Add to wishlist<br />
+				</a><br />
+					<a href="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php?add-to-cart=1312" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_1312" data-quantity="1" data-product_id="1312" data-product_sku="2144207" aria-label="Add to cart: “Acer ProDesigner PE320QK”" rel="nofollow" data-success_message="“Acer ProDesigner PE320QK” has been added to your cart" role="button">Add to cart</a><br />
+			<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/acer-prodesigner-pe320qk/" rel="nofollow" data-id="1312"><br />
+						Quick view<br />
+			</a></p>
+<h4>Recently Viewed</h4>
+<p>		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-macbook-pro-16%e2%80%b3-m1-pro/" aria-label="Apple MacBook Pro 16″ M1 Pro"><br />
+			<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/apple-macbook-pro-16-silver-1-64x64.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-macbook-pro-16%e2%80%b3-m1-pro/">Apple MacBook Pro 16″ M1 Pro</a></h3>
+<p>			Rated <strong>5.00</strong> out of 5<br />
+	&pound;2,999.00<br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/amd-ryzen-5-7600x/" aria-label="AMD Ryzen 5 7600X"><br />
+			<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/amd-ryzen-5-7600x-1-64x64.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/amd-ryzen-5-7600x/">AMD Ryzen 5 7600X</a></h3>
+<p>			Rated <strong>5.00</strong> out of 5<br />
+	&pound;299.00<br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/asus-rog-delta-s/" aria-label="Asus ROG Delta S"><br />
+			<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/asus-rog-delta-s-1-64x64.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/asus-rog-delta-s/">Asus ROG Delta S</a></h3>
+<p>	&pound;240.00<br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-iphone-14-plus/" aria-label="Apple iPhone 14 Plus"><br />
+			<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/08/apple-iphone-14-blue-1-64x64.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/apple-iphone-14-plus/">Apple iPhone 14 Plus</a></h3>
+<p>	&pound;799.00<br />
+		<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/hp-envy-34/" aria-label="HP ENVY 34"><br />
+			<img width="64" height="64" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/hp-envy-34-1-64x64.jpg" alt="" loading="lazy" />		</a></p>
+<h3><a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/product/hp-envy-34/">HP ENVY 34</a></h3>
+<p>	<del aria-hidden="true">&pound;2,100.00</del> Original price was: &pound;2,100.00.<ins aria-hidden="true">&pound;1,899.00</ins>Current price is: &pound;1,899.00.</p>
+<h4>Our Articles</h4>
+<article id="post-2023">
+				<img width="768" height="475" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/best-gaming-laptop-model-entry-header-opt-768x475.jpg" alt="" loading="lazy" /><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/" rel="bookmark" aria-label="Link on post Best Gaming Laptop Models"></a></p>
+<p>					<img alt="author-avatar" src="https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=22&amp;d=mm&amp;r=g" height="22" width="22" loading="lazy" /><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/author/zakhar/" rel="author">Mr. Mackay</a></p>
+<p>									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/" target="_blank" aria-label="Facebook social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/" target="_blank" aria-label="X social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/&amp;media=http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/best-gaming-laptop-model-entry-header-opt.jpg&amp;description=Best%20Gaming%20Laptop%20Models" target="_blank" aria-label="Pinterest social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/" target="_blank" aria-label="Linkedin social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/" target="_blank" aria-label="Telegram social link"><br />
+											</a></p>
+<p>							<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/#respond">0</a><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/blog/category/gaming/" rel="category tag">Gaming</a>, <a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/blog/category/laptops/" rel="category tag">Laptops</a><br />
+					<time datetime="2022-12-13T15:15:11+00:00"><br />
+						13 Dec 2022					</time><br />
+							<time datetime="2023-12-05T13:24:25+00:00"><br />
+			December 5, 2023		</time></p>
+<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/" rel="bookmark"><br />
+					Best Gaming Laptop Models				</a><br />
+			</h3>
+<p>									At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles&#8230;<br />
+						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/best-gaming-laptop-models/">Continue reading</a><br />
+	</article>
+<article id="post-1979">
+				<img width="768" height="475" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/how-to-choose-a-hi-fi-stereo-system-entry-header-opt-768x475.jpg" alt="" loading="lazy" /><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/" rel="bookmark" aria-label="Link on post How to choose a HI-FI stereo system"></a><br />
+					<img alt="author-avatar" src="https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=22&amp;d=mm&amp;r=g" height="22" width="22" loading="lazy" /><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/author/zakhar/" rel="author">Mr. Mackay</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/" target="_blank" aria-label="Facebook social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/" target="_blank" aria-label="X social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/&amp;media=http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/how-to-choose-a-hi-fi-stereo-system-entry-header-opt.jpg&amp;description=How%20to%20choose%20a%20HI-FI%20stereo%20system" target="_blank" aria-label="Pinterest social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/" target="_blank" aria-label="Linkedin social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/" target="_blank" aria-label="Telegram social link"><br />
+											</a><br />
+							<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/#respond">0</a><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/blog/category/hi-fi/" rel="category tag">Hi-Fi</a>, <a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/blog/category/sound/" rel="category tag">Sound</a><br />
+					<time datetime="2022-12-13T14:55:19+00:00"><br />
+						13 Dec 2022					</time><br />
+							<time datetime="2023-12-05T13:10:57+00:00"><br />
+			December 5, 2023		</time></p>
+<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/" rel="bookmark"><br />
+					How to choose a HI-FI stereo system				</a><br />
+			</h3>
+<p>									Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi&#8230;<br />
+						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/how-to-choose-a-hi-fi-stereo-system/">Continue reading</a><br />
+	</article>
+<article id="post-1814">
+				<img width="768" height="475" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/logitech-pop-keys-entry-header-opt-768x475.jpg" alt="" loading="lazy" /><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/" rel="bookmark" aria-label="Link on post Logitech POP Keys"></a><br />
+					<img alt="author-avatar" src="https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=22&amp;d=mm&amp;r=g" height="22" width="22" loading="lazy" /><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/author/zakhar/" rel="author">Mr. Mackay</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/" target="_blank" aria-label="Facebook social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/" target="_blank" aria-label="X social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/&amp;media=http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/logitech-pop-keys-entry-header-opt.jpg&amp;description=Logitech%20POP%20Keys" target="_blank" aria-label="Pinterest social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/" target="_blank" aria-label="Linkedin social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/" target="_blank" aria-label="Telegram social link"><br />
+											</a><br />
+							<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/#respond">0</a><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/blog/category/keyboards/" rel="category tag">Keyboards</a><br />
+					<time datetime="2022-12-13T12:27:12+00:00"><br />
+						13 Dec 2022					</time><br />
+							<time datetime="2023-12-05T13:04:18+00:00"><br />
+			December 5, 2023		</time></p>
+<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/" rel="bookmark"><br />
+					Logitech POP Keys				</a><br />
+			</h3>
+<p>									Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci&#8230;<br />
+						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/logitech-pop-keys/">Continue reading</a><br />
+	</article>
+<article id="post-1780">
+				<img width="768" height="475" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/cameras-for-street-photography-entry-header-opt-768x475.jpg" alt="" loading="lazy" /><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/" rel="bookmark" aria-label="Link on post Cameras for Street Photography"></a><br />
+					<img alt="author-avatar" src="https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=22&amp;d=mm&amp;r=g" height="22" width="22" loading="lazy" /><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/author/zakhar/" rel="author">Mr. Mackay</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/" target="_blank" aria-label="Facebook social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/" target="_blank" aria-label="X social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/&amp;media=http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/cameras-for-street-photography-entry-header-opt.jpg&amp;description=Cameras%20for%20Street%20Photography" target="_blank" aria-label="Pinterest social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/" target="_blank" aria-label="Linkedin social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/" target="_blank" aria-label="Telegram social link"><br />
+											</a><br />
+							<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/#respond">0</a><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/blog/category/cameras/" rel="category tag">Cameras</a><br />
+					<time datetime="2022-12-13T12:11:30+00:00"><br />
+						13 Dec 2022					</time><br />
+							<time datetime="2023-12-05T12:46:04+00:00"><br />
+			December 5, 2023		</time></p>
+<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/" rel="bookmark"><br />
+					Cameras for Street Photography				</a><br />
+			</h3>
+<p>									At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del re&#8230;<br />
+						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/13/cameras-for-street-photography/">Continue reading</a><br />
+	</article>
+<article id="post-1717">
+				<img width="768" height="475" src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/3-minimalist-desk-setups-entry-header-opt-768x475.jpg" alt="" loading="lazy" /><br />
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/" rel="bookmark" aria-label="Link on post 3 Minimalist Desk Setups"></a><br />
+					<img alt="author-avatar" src="https://secure.gravatar.com/avatar/9e359315edba85ade63ec52186b21c7b?s=22&amp;d=mm&amp;r=g" height="22" width="22" loading="lazy" /><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/author/zakhar/" rel="author">Mr. Mackay</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/" target="_blank" aria-label="Facebook social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/" target="_blank" aria-label="X social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/&amp;media=http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2022/12/3-minimalist-desk-setups-entry-header-opt.jpg&amp;description=3%20Minimalist%20Desk%20Setups" target="_blank" aria-label="Pinterest social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/" target="_blank" aria-label="Linkedin social link"><br />
+											</a><br />
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/" target="_blank" aria-label="Telegram social link"><br />
+											</a><br />
+							<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/#respond">0</a><br />
+					<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/blog/category/desktop/" rel="category tag">Desktop</a><br />
+					<time datetime="2022-12-12T15:58:17+00:00"><br />
+						12 Dec 2022					</time><br />
+							<time datetime="2023-12-05T12:42:26+00:00"><br />
+			December 5, 2023		</time></p>
+<h3>
+				<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/" rel="bookmark"><br />
+					3 Minimalist Desk Setups				</a><br />
+			</h3>
+<p>									At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del re&#8230;<br />
+						<a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/2022/12/12/3-minimalist-desk-setups/">Continue reading</a><br />
+	</article>
+<h4>Online store of household appliances and electronics</h4>
+<p>Then the question arises: where’s the content? Not there yet? That’s not so bad, there’s dummy copy to the rescue. But worse, what if the fish doesn’t fit in the can, the foot’s to big for the boot? Or to small? To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons.</p>
+<p>A client that&#8217;s unhappy for a reason is a problem, a client that&#8217;s unhappy though he or her can&#8217;t quite put a finger on it is worse. Chances are there wasn&#8217;t collaboration, communication, and checkpoints, there wasn&#8217;t a process agreed upon or specified with the granularity required. It&#8217;s content strategy gone awry right from the start. If that&#8217;s what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional appeal to the reader.</p>
+<p>			<a href="#"><br />
+					Read More<br />
+						<img src="http://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/uploads/sites/8/2023/01/chevron-down-black.svg" title="chevron-down-black" loading="lazy" width="14" height="14"><br />
+							</a></p>
+					<p>
+				<label>
+				<input type="checkbox" name="terms"  id="terms" />
+					I have read and agree to the website <a href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/" target="_blank">terms and conditions</a>&nbsp;<abbr title="required">*</abbr>
+				</label>
+				<input type="hidden" name="terms-field" value="1" />
+			</p>
+		<button type="submit" name="woocommerce_checkout_place_order" id="place_order" value="Place order" data-value="Place order">Place order</button>
+		<input type="hidden" id="woocommerce-process-checkout-nonce" name="woocommerce-process-checkout-nonce" value="5134c26039" /><input type="hidden" name="_wp_http_referer" value="/woodmart2/mega-electronics-elementor/wp-admin/admin-ajax.php" />	
+				<h4>Your Order</h4> 
+					<table>
+	<thead>
+		<tr>
+			<th>Product</th>
+			<th>Subtotal</th>
+		</tr>
+	</thead>
+	<tbody>
+						<tr>
+					<td>
+						Apple MacBook Pro 16″ M1 Pro - Space Gray&nbsp;						 <strong>&times;&nbsp;1</strong>											</td>
+					<td>
+						<bdi>&pound;2,999.00</bdi>					</td>
+				</tr>
+					</tbody>
+	<tfoot>
+		<tr>
+			<th>Subtotal</th>
+			<td><bdi>&pound;2,999.00</bdi></td>
+		</tr>
+			<tr>
+	<th>Shipment</th>
+	<td data-title="Shipment">
+					<ul id="shipping_method">
+									<li>
+						<input type="radio" name="shipping_method[0]" data-index="0" id="shipping_method_0_flat_rate1" value="flat_rate:1"  checked='checked' /><label for="shipping_method_0_flat_rate1">Flat rate</label>					</li>
+									<li>
+						<input type="radio" name="shipping_method[0]" data-index="0" id="shipping_method_0_free_shipping2" value="free_shipping:2"  /><label for="shipping_method_0_free_shipping2">Free shipping</label>					</li>
+									<li>
+						<input type="radio" name="shipping_method[0]" data-index="0" id="shipping_method_0_local_pickup3" value="local_pickup:3"  /><label for="shipping_method_0_local_pickup3">Local pickup</label>					</li>
+							</ul>
+			</td>
+</tr>
+		<tr>
+			<th>Total</th>
+			<td><strong><bdi>&pound;2,999.00</bdi></strong> </td>
+		</tr>
+	</tfoot>
+</table>
+<wc-order-attribution-inputs></wc-order-attribution-inputs>				
+								<link rel="stylesheet" id="wd-woo-opt-free-progress-bar-css" href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/themes/woodmart/css/parts/woo-opt-free-progress-bar.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-progress-bar-css" href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/themes/woodmart/css/parts/woo-mod-progress-bar.css?ver=8.5.0" type="text/css" media="all" /> 					
+				Add <bdi>&pound;501.00</bdi> to cart and get free shipping!			
+				<h4>Delivery &amp; Return</h4> 
+								<link rel="stylesheet" id="wd-accordion-css" href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/themes/woodmart/css/parts/el-accordion.css?ver=8.5.0" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-accordion-elem-wpb-css" href="https://dummy.xtemos.com/woodmart2/mega-electronics-elementor/wp-content/themes/woodmart/css/parts/el-accordion-wpb-elem.css?ver=8.5.0" type="text/css" media="all" /> 			
+								My order hasn&#039;t arrived yet. Where is it?							
+							<p>How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.</p>
+								Do you deliver on public holidays?							
+							<p>To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can’t quite tell right now, but they’re unhappy, somehow.</p>
+								Do you deliver to my postcode?							
+							<p>How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.</p>
+								Is next-day delivery available on all orders?							
+							<p>To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can’t quite tell right now, but they’re unhappy, somehow.</p>
+								Do I need to be there to sign for delivery?							
+							<p>How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.</p>]]></content:encoded>
+															<wp:post_id>1650</wp:post_id>
+					<wp:post_date><![CDATA[2022-12-12 13:03:52]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2022-12-12 13:03:52]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-08-03 12:20:47]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-08-03 12:20:47]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-form-mega-electronics]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_form]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:13:"checkout_form";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[4.2.1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"f9211dc","elType":"container","settings":{"structure":"20","reverse_order_mobile":"reverse-mobile","flex_direction":"row","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"5b69235","elType":"container","settings":{"_column_size":"50","width":{"size":"58","unit":"%"},"width_tablet":{"size":"50","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"9d6f1a7","elType":"container","settings":{"background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":"1"},"padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":"1"},"flex_direction":"column","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"content_width":"full","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"540d883","elType":"widget","settings":{"subtitle":"","title":"Billing Details","after_title":"","align":"left","scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"0db8891","elType":"widget","settings":{"title":"","scroll_y":"-80"},"elements":[],"widgetType":"wd_checkout_billing_details_form"},{"id":"8f0c7b1","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_after_customer_details","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"a4c8017","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_billing","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"c73cb53","elType":"widget","settings":{"title":"","scroll_y":"-80"},"elements":[],"widgetType":"wd_checkout_shipping_details_from"},{"id":"9384cb8","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_shipping","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"},{"id":"695ea74","elType":"container","settings":{"background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":"1"},"padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":"1"},"flex_direction":"column","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"content_width":"full","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"a90d5fc","elType":"widget","settings":{"subtitle":"","title":"Payment Information","after_title":"","align":"left","scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"e21d0ad","elType":"widget","settings":{"button_alignment":"full-width","scroll_y":"-80","payment_description_background-color":"#F8F8F8"},"elements":[],"widgetType":"wd_checkout_payment_methods"},{"id":"2ab4f7b","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_after_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"a2d872a","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_checkout_form","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"}],"isInner":"1"},{"id":"bf9235e","elType":"container","settings":{"_column_size":"50","width":{"size":"42","unit":"%"},"width_tablet":{"size":"50","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"f57a155","elType":"container","settings":{"background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":"1"},"padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":"1"},"flex_direction":"column","flex_gap":{"size":"0","column":"0","row":"0","unit":"px","isLinked":"1"},"content_width":"full","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"5938f73","elType":"widget","settings":{"subtitle":"","title":"Your Order","after_title":"","align":"left","scroll_y":"-80","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"wd_title"},{"id":"dabbd26","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_before_order_review_heading","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"352618b","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_checkout_order_review"},{"id":"8a0ed38","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_before_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"0e19b81","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"995361e","elType":"widget","settings":{"style":"default","scroll_y":"-80","_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":""}},"elements":[],"widgetType":"wd_single_product_shipping_progress_bar"}],"isInner":"1"},{"id":"12f9097","elType":"container","settings":{"background_background":"classic","background_color":"#FFFFFF","border_radius":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":"1"},"padding":{"unit":"px","top":"20","right":"20","bottom":"10","left":"20","isLinked":""},"flex_direction":"column","flex_gap":{"size":"0","column":"0","row":"0","unit":"px","isLinked":"1"},"content_width":"full","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"f2de756","elType":"widget","settings":{"subtitle":"","title":"Delivery &amp; Return","after_title":"","align":"left","scroll_y":"-80"},"elements":[],"widgetType":"wd_title"},{"id":"c8b1e6d","elType":"widget","settings":{"items":[{"item_title":"My order hasn't arrived yet. Where is it?","item_content":"<p>How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.<\/p>","_id":"bcf6395"},{"item_title":"Do you deliver on public holidays?","item_content":"<p>To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can\u2019t quite tell right now, but they\u2019re unhappy, somehow.<\/p>","_id":"5f87e77"},{"item_title":"Do you deliver to my postcode?","item_content":"<p>How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.<\/p>","_id":"f2a8de2"},{"item_title":"Is next-day delivery available on all orders?","item_content":"<p>To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can\u2019t quite tell right now, but they\u2019re unhappy, somehow.<\/p>","_id":"5b21a20"},{"item_title":"Do I need to be there to sign for delivery?","item_content":"<p>How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight.<\/p>","_id":"caa1a8e"}],"title_typography_typography":"custom","title_typography_font_family":"Lexend Deca","title_typography_font_weight":"500","opener_alignment":"right","scroll_y":"-80","hide_top_bottom_border":"yes"},"elements":[],"widgetType":"wd_accordion"}],"isInner":"1"}],"isInner":"1"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

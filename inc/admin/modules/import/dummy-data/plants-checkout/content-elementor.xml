@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Plants elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/plants-elementor</link>
+	<description></description>
+	<pubDate>Tue, 30 May 2023 11:39:22 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/plants-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/plants-elementor/wp-content/uploads/sites/12/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Checkout top content - Plants]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/plants-elementor/woodmart_layout/checkout-top-content-plants/</link>
+					<pubDate>Tue, 13 Jun 2023 14:40:56 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/plants-elementor/?post_type=woodmart_layout&#038;p=921</guid>
+											<content:encoded><![CDATA[Have a coupon? <a href="#">Click here to enter your code</a>	
+
+	<p>If you have a coupon code, please apply it below.</p>
+	<p>
+		<label for="coupon_code">Coupon:</label>
+		
+	</p>
+	<p>
+		<button type="submit" name="apply_coupon" value="Apply coupon">Apply coupon</button>
+	</p>
+]]></content:encoded>
+															<wp:post_id>921</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-13 14:40:56]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-13 14:40:56]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-13 14:20:20]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-13 14:20:20]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-top-content-plants]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_content]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:16:"checkout_content";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"768fa70","elType":"container","settings":{"structure":"33","margin":{"unit":"px","top":"-30","right":"0","bottom":"80","left":"0","isLinked":""},"margin_tablet":{"unit":"px","top":"-30","right":"0","bottom":"60","left":"0","isLinked":""},"margin_mobile":{"unit":"px","top":"-30","right":"0","bottom":"40","left":"0","isLinked":""},"flex_align_items":"center","flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"boxed_width":{"unit":"px","size":"860","sizes":[]},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"f53b995","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_notices"},{"id":"541371b","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_before_checkout_form","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"7128147","elType":"widget","settings":{"scroll_y":"-80","form_bg_color":"#E7E5D9","form_border_border":"none"},"elements":[],"widgetType":"wd_checkout_login_form"},{"id":"8927661","elType":"widget","settings":{"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"_element_width":"auto","scroll_y":"-80","alignment":"center","form_bg_color":"#E7E5D9","form_border_border":"none"},"elements":[],"widgetType":"wd_checkout_coupon_form"},{"id":"17e0cdb","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_before_customer_details","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.24.7]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Checkout form - Plants]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/plants-elementor/woodmart_layout/checkout-form-plants/</link>
+					<pubDate>Tue, 13 Jun 2023 14:42:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/plants-elementor/?post_type=woodmart_layout&#038;p=926</guid>
+											<content:encoded><![CDATA[ 					
+				<h4>Billing details</h4> 
+		<h3>Billing details</h3>
+		<p id="billing_first_name_field" data-priority="10"><label for="billing_first_name">First name&nbsp;<abbr title="required">*</abbr></label></p><p id="billing_last_name_field" data-priority="20"><label for="billing_last_name">Last name&nbsp;<abbr title="required">*</abbr></label></p><p id="billing_company_field" data-priority="30"><label for="billing_company">Company name&nbsp;(optional)</label></p><p id="billing_country_field" data-priority="40"><label for="billing_country">Country / Region&nbsp;<abbr title="required">*</abbr></label>Select a country / region&hellip;AfghanistanÅland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelauBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Saint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongo (Brazzaville)Congo (Kinshasa)Cook IslandsCosta RicaCroatiaCubaCura&ccedil;aoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory CoastJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorth KoreaNorth MacedoniaNorthern Mariana IslandsNorwayOmanPakistanPalestinian TerritoryPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussiaRwandaS&atilde;o Tom&eacute; and Pr&iacute;ncipeSaint Barth&eacute;lemySaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (Dutch part)Saint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia/Sandwich IslandsSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited Kingdom (UK)United States (US)United States (US) Minor Outlying IslandsUruguayUzbekistanVanuatuVaticanVenezuelaVietnamVirgin Islands (British)Virgin Islands (US)Wallis and FutunaWestern SaharaYemenZambiaZimbabwe<button type="submit" name="woocommerce_checkout_update_totals" value="Update country / region">Update country / region</button></p><p id="billing_address_1_field" data-priority="50"><label for="billing_address_1">Street address&nbsp;<abbr title="required">*</abbr></label></p><p id="billing_address_2_field" data-priority="60"><label for="billing_address_2">Apartment, suite, unit, etc.&nbsp;(optional)</label></p><p id="billing_city_field" data-priority="70"><label for="billing_city">Town / City&nbsp;<abbr title="required">*</abbr></label></p><p id="billing_state_field" data-priority="80"><label for="billing_state">State&nbsp;<abbr title="required">*</abbr></label>
+						Select an option&hellip;AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict Of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingArmed Forces (AA)Armed Forces (AE)Armed Forces (AP)</p><p id="billing_postcode_field" data-priority="90"><label for="billing_postcode">ZIP Code&nbsp;<abbr title="required">*</abbr></label></p><p id="billing_phone_field" data-priority="100"><label for="billing_phone">Phone&nbsp;<abbr title="required">*</abbr></label></p><p id="billing_email_field" data-priority="110"><label for="billing_email">Email address&nbsp;<abbr title="required">*</abbr></label></p>	
+	
+			<h3>Additional information</h3>
+							<p id="order_comments_field" data-priority=""><label for="order_comments">Order notes&nbsp;(optional)</label><textarea name="order_comments" id="order_comments" rows="2" cols="5"></textarea></p>					
+				<h4>Your order</h4> 
+			<table>
+	<thead>
+		<tr>
+			<th>Product</th>
+			<th>Subtotal</th>
+		</tr>
+	</thead>
+	<tbody>
+						<tr>
+					<td>
+						Coco Coir Pole&nbsp;						 <strong>&times;&nbsp;3</strong>											</td>
+					<td>
+						&#036;30.00					</td>
+				</tr>
+					</tbody>
+	<tfoot>
+		<tr>
+			<th>Subtotal</th>
+			<td>&#036;30.00</td>
+		</tr>
+		<tr>
+			<th>Total</th>
+			<td><strong>&#036;30.00</strong> </td>
+		</tr>
+	</tfoot>
+</table>
+		
+				<h4>Payment information</h4> 
+			<ul>
+			<li>
+		Sorry, it seems that there are no available payment methods. Please contact us if you require assistance or wish to make alternate arrangements.	
+</li>		</ul>
+		
+			Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so.			<br /><button type="submit" name="woocommerce_checkout_update_totals" value="Update totals">Update totals</button>
+		
+		<button type="submit" name="woocommerce_checkout_place_order" id="place_order" value="Place order" data-value="Place order">Place order</button>
+		]]></content:encoded>
+															<wp:post_id>926</wp:post_id>
+					<wp:post_date><![CDATA[2023-06-13 14:42:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2023-06-13 14:42:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-01-20 15:23:18]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-01-20 15:23:18]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[checkout-form-plants]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[checkout_form]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:13:"checkout_form";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"37de0a0","elType":"container","settings":{"margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"flex_gap":{"size":"40","column":"40","row":"40","unit":"px","isLinked":"1"},"structure":"20","flex_direction":"row","flex_direction_mobile":"column","flex_gap_tablet":{"column":"30","row":"30","isLinked":"1","unit":"px","size":"30"},"container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"9e74a44","elType":"container","settings":{"_column_size":"50","width":{"size":"50","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"padding":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":""},"padding_tablet":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":""},"content_width":"full","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":""},"container_sticky_offset":"50"},"elements":[{"id":"42a3cbd","elType":"widget","settings":{"subtitle":"","title":"Billing details","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"24","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"22","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"_padding":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"scroll_y":"-80","_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"2","left":"0","isLinked":""},"_border_color":"#5E6821"},"elements":[],"widgetType":"wd_title"},{"id":"55d86f1","elType":"widget","settings":{"scroll_y":"-80","title":""},"elements":[],"widgetType":"wd_checkout_billing_details_form"},{"id":"b5ec5dc","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_after_customer_details","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"ff06246","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_billing","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"0a42263","elType":"widget","settings":{"scroll_y":"-80"},"elements":[],"widgetType":"wd_checkout_shipping_details_from"},{"id":"c03a10b","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_shipping","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"},{"id":"66ab3c7","elType":"container","settings":{"_column_size":"50","width":{"size":"50","unit":"%"},"column_sticky_offset":"50","scroll_y":"-80","width_tablet":{"size":"100","unit":"%"},"background_background":"classic","content_width":"full","container_sticky_offset":"50"},"elements":[{"id":"fd4f912","elType":"container","settings":{"background_background":"classic","background_color":"#E7E5D9","padding":{"unit":"px","top":"15","right":"30","bottom":"15","left":"30","isLinked":""},"flex_gap":{"size":"","column":"","row":"","unit":"px","isLinked":"1"},"content_width":"full","container_sticky_offset":"50","scroll_y":"-80"},"elements":[{"id":"9421bbc","elType":"widget","settings":{"subtitle":"","title":"Your order","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"24","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"22","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"_padding":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"scroll_y":"-80","_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"2","left":"0","isLinked":""},"_border_color":"#5E6821"},"elements":[],"widgetType":"wd_title"},{"id":"a67b563","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_before_order_review_heading","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"e1ba63f","elType":"widget","settings":{"scroll_y":"-80","_background_background":"classic"},"elements":[],"widgetType":"wd_checkout_order_review"},{"id":"b6913cf","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_before_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"d7f980e","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"911edbc","elType":"widget","settings":{"style":"default","_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":""},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":""},"scroll_y":"-80"},"elements":[],"widgetType":"wd_single_product_shipping_progress_bar"},{"id":"fe27f71","elType":"widget","settings":{"subtitle":"","title":"Payment information","after_title":"","align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":"24","sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":"22","sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":"20","sizes":[]},"_padding":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"scroll_y":"-80","_border_border":"solid","_border_width":{"unit":"px","top":"0","right":"0","bottom":"2","left":"0","isLinked":""},"_border_color":"#5E6821"},"elements":[],"widgetType":"wd_title"},{"id":"6debf60","elType":"widget","settings":{"scroll_y":"-80","button_alignment":"full-width","payment_description_padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":"1"},"terms_conditions_padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":"1"}},"elements":[],"widgetType":"wd_checkout_payment_methods"},{"id":"87f7d3b","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_checkout_after_order_review","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"},{"id":"a5f3a58","elType":"widget","settings":{"content_width":"full","hook":"woocommerce_after_checkout_form","scroll_y":"-80"},"elements":[],"widgetType":"wd_wc_hook"}],"isInner":"1"}],"isInner":"1"}],"isInner":""}]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.24.7]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

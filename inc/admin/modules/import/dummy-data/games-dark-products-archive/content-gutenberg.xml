@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Games gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/games-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 11 Jul 2024 13:26:52 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/games-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/games-gutenberg/wp-content/uploads/sites/31/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Products archive - Games]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/games-gutenberg/woodmart_layout/products-archive-games/</link>
+					<pubDate>Wed, 14 Aug 2024 11:06:49 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/games-gutenberg/?post_type=woodmart_layout&#038;p=941</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"f08ab7f5-c51f-47cf-a7c1-7d7eecbb766d","blockVersion":"2","bgColorCode":"rgba(151,151,151,0.11)","paddingTop":"20","paddingBottom":"40","marginTop":"-40","marginBottom":"40","paddingBottomTablet":"30","paddingBottomMobile":"20","marginBottomTablet":"30","marginBottomMobile":"20"} -->
+<div class="wp-block-wd-section wd-f08ab7f5"><!-- wp:wd/row {"blockId":"1b48e60c-83d5-46ef-a0b0-d84709bebfcd","blockVersion":"2"} -->
+<div class="wp-block-wd-row wd-1b48e60c"><!-- wp:wd/column {"blockId":"c6d2c784-6eec-430a-91ca-185c5360af5b","blockVersion":"2","adjacentCount":2,"adjacentCountMobile":2,"colWidthMobile":50} -->
+<div class="wp-block-wd-column wd-c6d2c784"><!-- wp:wd/woo-breadcrumbs {"blockId":"26fe0f90-ed00-4b65-8606-cc26011c4030","blockVersion":"2"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"be109194-50f0-47fe-b6fe-33daf74c8f99","blockVersion":"2","adjacentCount":2,"alignItems":"flex-end","adjacentCountMobile":2,"colWidthMobile":50} -->
+<div class="wp-block-wd-column wd-align-is-lg-flex-end wd-be109194"><!-- wp:wd/sa-result-count {"blockId":"77588918-ec47-46d5-834f-ea4b81e91fff","blockVersion":"2"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/container {"blockId":"42e064db-91c8-4635-8cdf-7df70eed89e8","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-42e064db"><!-- wp:wd/product-categories {"blockId":"f1108a4a-46d4-49a3-bb30-c7add0cb2b83","blockVersion":"2","hide_empty":false,"categories_design":"default","style":"carousel","spacing":"30","img_size":"custom","imgSizeCustomWidth":"230","imgSizeCustomHeight":"130","slides_per_view":"6","hide_pagination_control":true,"sync_parent_id":"wd_aee4a0c9","titleFontSize":"16","titleTextTransform":"none","hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/off-canvas {"blockId":"405c840f-dc7f-4e2b-a180-d6e0d33eaf31","blockVersion":"2","columnsGap":30,"marginBottom":"30","marginBottomMobile":"0"} -->
+<div class="wp-block-wd-off-canvas wd-405c840f"><!-- wp:wd/off-sidebar {"blockId":"3af98ea0-63ca-44ab-88d7-28c1c731a0a8","blockVersion":"2","sidebarWidth":25} -->
+<div class="wp-block-wd-off-sidebar wd-left wd-hide-md-sm wd-hide-sm wd-3af98ea0"><div class="wd-heading"><div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener"><span class="wd-action-icon"></span><span class="wd-action-text">Close</span></a></div></div><div class="wd-content"><!-- wp:wd/sidebar {"blockId":"8db623a7-81f6-40f9-a9af-3a9025e2c4bd","blockVersion":"2","sidebar_id":"sidebar-shop","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"paddingTopTablet":"0","paddingRightTablet":"0","paddingBottomTablet":"0","paddingLeftTablet":"0","paddingLockTablet":true} /--></div></div>
+<!-- /wp:wd/off-sidebar -->
+
+<!-- wp:wd/off-content {"blockId":"5e91f9b1-09f0-485c-b743-ad7a01dbe28e","blockVersion":"2"} -->
+<div class="wp-block-wd-off-content wd-5e91f9b1"><!-- wp:wd/container {"blockId":"02717a43-ad14-489d-baea-43be357f32b0","blockVersion":"2","direction":"row","justify":"space-between","align":"center","wrap":"wrap","alignTablet":"end"} -->
+<div class="wp-block-wd-container wd-dir-row wd-align-is-lg-center wd-align-is-md-end wd-02717a43"><!-- wp:wd/container {"blockId":"6cfd9c94-6eb0-4986-82e7-5393adfe7773","blockVersion":"2","marginRight":"auto","marginUnits":"custom","displayWidth":"fit-content"} -->
+<div class="wp-block-wd-container wd-dir-col wd-6cfd9c94 wd-custom-width"><!-- wp:wd/sa-archive-title {"blockId":"73e3bc54-1c32-46d7-9ef0-93a70f675851","blockVersion":"2","displayWidth":"","customWidth":"100","tpFontSize":"24","customWidthUnits":"%"} /-->
+
+<!-- wp:wd/off-canvas-button {"blockId":"95840536-9033-4c32-baaf-989de18f6471","blockVersion":"2","stickyBtn":false,"hideOnDesktop":true} -->
+<div class="wp-block-wd-off-canvas-button wd-off-canvas-btn wd-action-btn wd-style-text wd-burger-icon wd-hide-lg wd-95840536"><a href="#" rel="nofollow"><span class="wd-action-icon"></span><span class="wd-action-text">Show sidebar</span></a></div>
+<!-- /wp:wd/off-canvas-button --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sa-per-page {"blockId":"27203bd2-2065-4d9b-9061-9f74a97a75ff","blockVersion":"2","hideOnTablet":true,"hideOnMobile":true} /-->
+
+<!-- wp:wd/sa-view {"blockId":"d796c99c-e7e5-4ebc-b0e0-d5cefc7a2157","blockVersion":"2","products_columns_variations":"3,4,list","hideOnTablet":true,"hideOnMobile":true} /-->
+
+<!-- wp:wd/sa-orderby {"blockId":"190f00cf-208a-493e-9cc4-debdc0dff185","blockVersion":"2","mobileIcon":true} /--></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/sa-active-filters {"blockId":"81a91074-8246-4a40-b7e9-0fb84605c4fc","blockVersion":"2"} /-->
+
+<!-- wp:wd/woo-notices {"blockId":"58b15bcf-44e4-460b-81b6-6b60368aaadb","blockVersion":"2"} /-->
+
+<!-- wp:wd/sa-archive-products {"blockId":"e2442766-0d47-4c33-bdc6-4fa81c3ea061","blockVersion":"2","layout":"grid","columns":"","spacing":"","shopPagination":""} /--></div>
+<!-- /wp:wd/off-content --></div>
+<!-- /wp:wd/off-canvas -->]]></content:encoded>
+															<wp:post_id>941</wp:post_id>
+					<wp:post_date><![CDATA[2024-08-14 11:06:49]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-08-14 11:06:49]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-02-23 09:40:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-02-23 09:40:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[products-archive-games]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[shop_archive]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

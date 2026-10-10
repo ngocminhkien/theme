@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>EDC gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg</link>
+	<description></description>
+	<pubDate>Thu, 16 Apr 2026 15:13:20 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/edc-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form EDC]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/?post_type=wpcf7_contact_form&#038;p=11</link>
+					<pubDate>Thu, 16 Apr 2026 15:20:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/edc-gutenberg/?post_type=wpcf7_contact_form&#038;p=11</guid>
+											<content:encoded><![CDATA[<div class="wd-grid-g">
+
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* Name placeholder ="First Name"]</div>
+<div class="wd-col">[text* Email placeholder ="Email" ]</div>
+</div>
+
+<div class="wd-col">[textarea your-message placeholder ="Wright a message..."]</div>
+<div class="wd-col">[submit class:btn class:btn-color-primary"Send message"]</div>
+</div>
+1
+[_site_title] "[your-subject]"
+[_site_title] 
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+1
+1
+
+[_site_title] "[your-subject]"
+[_site_title] 
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+1
+1
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+															<wp:post_id>11</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-16 15:20:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-16 15:20:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-04-29 14:52:33]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-04-29 14:52:33]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<div class="wd-grid-g">
+
+<div class="wd-grid-f-stretch">
+<div class="wd-col">[text* Name placeholder ="First Name"]</div>
+<div class="wd-col">[text* Email placeholder ="Email" ]</div>
+</div>
+
+<div class="wd-col">[textarea your-message placeholder ="Wright a message..."]</div>
+<div class="wd-col">[submit class:btn class:btn-color-primary"Send message"]</div>
+</div>]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:1;s:13:"exclude_blank";b:1;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:1;s:13:"exclude_blank";b:1;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[9f51e93b3a593abb62782c1a3844ad84e93196e957e3f86629be169e2f7e86bb]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_config_validation]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{s:23:"mail.additional_headers";a:1:{i:0;a:2:{s:4:"code";s:22:"invalid_mailbox_syntax";s:4:"args";a:3:{s:7:"message";s:51:"Invalid mailbox syntax is used in the %name% field.";s:6:"params";a:1:{s:4:"name";s:8:"Reply-To";}s:4:"link";s:68:"https://contactform7.com/configuration-errors/invalid-mailbox-syntax";}}}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Contact Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/edc-gutenberg/contact-us/</link>
+					<pubDate>Tue, 28 Apr 2026 11:43:24 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/edc-gutenberg/?page_id=19</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"eb484879-5029-427a-afbf-e24270cad840","blockVersion":"2","marginBottom":"40"} -->
+<div class="wp-block-wd-row wd-eb484879"><!-- wp:wd/column {"blockId":"cbe67118-3f08-432d-b42d-4dcb715bb2bc","blockVersion":"2","adjacentCount":2,"colWidth":45,"blocksGap":5,"flexOrderMobile":"2"} -->
+<div class="wp-block-wd-column wd-cbe67118"><!-- wp:wd/title {"blockId":"5d778cba-628e-40e5-acf6-cd5a1a9a2dfe","blockVersion":"2","content":"Email:","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-5d778cba">Email:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"535c4d46-789d-4e5e-a441-0c9adb1cd5ef","blockVersion":"2","marginBottom":"25"} -->
+<p class="wp-block-wd-paragraph wd-535c4d46">mail@mail.com</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"24909fda-804c-499d-a487-35e5dafc85ea","blockVersion":"2","content":"Phone:","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-24909fda">Phone:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"12e6a85f-e10e-48f3-9877-3d0db51c7735","blockVersion":"2","marginBottom":"25"} -->
+<p class="wp-block-wd-paragraph wd-12e6a85f">(686) 492-1041</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"b0059fc3-498b-48a4-a4fa-6ad5003fd787","blockVersion":"2","content":"Social Links:","tpFontSize":"22","tpFontSizeMobile":"20"} -->
+<h2 class="wp-block-wd-title title wd-b0059fc3">Social Links:</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/social-buttons {"blockId":"0f47a402-903b-436d-a616-a2cb01c62864","blockVersion":"2","type":"follow","size":"small","social_links_source":"custom"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"eca41772-7f56-44c0-81e8-0451e8229dea","blockVersion":"2","adjacentCount":2,"colWidth":55,"flexOrderMobile":"1"} -->
+<div class="wp-block-wd-column wd-eca41772"><!-- wp:wd/title {"blockId":"be2e2847-c2ab-4a0f-93db-25696876273a","blockVersion":"2","content":"Get in Touch","tpFontSize":"40","tpLineHeight":"1.2","tpFontSizeTablet":"32","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-be2e2847">Get in Touch</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"959c971a-61f5-4557-a186-2745f6d703fc","blockVersion":"2","form_id":"11","formColorCode":"#333333","formPlaceholderColorCode":"#767676","formBrdColorCode":"#ffffff","formBrdColorFocusCode":"#ffffff","formBgCode":"#ffffff"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/section {"blockId":"3299d6a8-1a36-4884-85ed-53d8fdab0594","blockVersion":"2","bgColorCode":"#ffffff","paddingTop":"40","paddingBottom":"40","marginBottom":"-40"} -->
+<div class="wp-block-wd-section wd-3299d6a8"><!-- wp:wd/row {"blockId":"98de1db6-c291-4880-bc8f-c564a992c28c","blockVersion":"2","columnsGapMobile":20} -->
+<div class="wp-block-wd-row wd-98de1db6"><!-- wp:wd/column {"blockId":"d2db2be6-eabc-40b3-b994-a316ec724f15","blockVersion":"2","adjacentCount":2,"colWidth":45,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-d2db2be6"><!-- wp:wd/title {"blockId":"2e46bbef-adb7-457d-8128-1dd2e4310e36","blockVersion":"2","content":"Find a Stores","tpFontSize":"40","tpLineHeight":"1.2","tpFontSizeTablet":"32","tpFontSizeMobile":"28","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-2e46bbef">Find a Stores</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/row {"blockId":"4f24f1dd-aea9-4d0f-a5f2-2edb293ecda9","blockVersion":"2","columnsGap":20} -->
+<div class="wp-block-wd-row wd-4f24f1dd"><!-- wp:wd/column {"blockId":"96f7e1af-5d63-45de-ba3f-1e34d820ad3f","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.15)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","adjacentCount":2,"blocksGap":5} -->
+<div class="wp-block-wd-column wd-96f7e1af"><!-- wp:wd/title {"blockId":"e337516c-0631-43bc-952d-b618bd3d9170","blockVersion":"2","content":"Seattle Store","tpFontSize":"22","marginBottom":"10"} -->
+<h2 class="wp-block-wd-title title wd-e337516c">Seattle Store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/container {"blockId":"eb16c7f1-34ae-422d-9d1a-dc3de6a3d401","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-eb16c7f1"><!-- wp:wd/paragraph {"blockId":"bd73c587-a0f5-4819-abc5-64d8e9b52c47","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-bd73c587 wd-custom-width">Email:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"009d34b0-4c94-4331-b647-9c3a106fb2ac","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-009d34b0"><!-- wp:wd/paragraph {"blockId":"6222f6b9-f701-41bc-971b-d02309de8518","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-6222f6b9">mail@mail.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"afe9e722-9a4a-48b5-890e-c2f105827c2a","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-afe9e722"><!-- wp:wd/paragraph {"blockId":"0f87c7ef-19fb-4daa-b578-d6ed4ac703b2","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-0f87c7ef wd-custom-width">Call Us:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"71493752-691f-40d4-a755-76a741a93619","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-71493752"><!-- wp:wd/paragraph {"blockId":"7fc49e2b-2657-4284-bedf-92fbd954980e","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-7fc49e2b">(686) 492-1041</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"148fdbc0-9b2b-4d38-a6f1-cfadbd947ffd","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-148fdbc0"><!-- wp:wd/paragraph {"blockId":"9d8ff710-8a4b-453b-9e88-de13a7a0f420","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"75"} -->
+<p class="wp-block-wd-paragraph wd-9d8ff710 wd-custom-width">Address:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"bdfc830f-5025-4637-b67c-0169588340df","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-bdfc830f"><!-- wp:wd/paragraph {"blockId":"98ba71c6-5d04-4196-bd6f-bfcef2089bac","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-98ba71c6">4405 Rainier Ave S, Seattle, WA 98118</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"79b9c721-a1df-489c-b5dc-0405e41e7fad","blockVersion":"2","design":"link","predefinedColor":"","marginTop":"10"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-size-default wd-79b9c721" href="#"><span>Show on the map</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"f4e6f3dd-9d4b-4430-9275-a17d869cc772","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.15)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","adjacentCount":2,"blocksGap":5} -->
+<div class="wp-block-wd-column wd-f4e6f3dd"><!-- wp:wd/title {"blockId":"c76752fd-60ed-4446-9561-e6e39f4330d2","blockVersion":"2","content":"Hartford Store","tpFontSize":"22","marginBottom":"10"} -->
+<h2 class="wp-block-wd-title title wd-c76752fd">Hartford Store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/container {"blockId":"2357b0b6-3080-45fc-a6fa-63f517a3d6f9","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-2357b0b6"><!-- wp:wd/paragraph {"blockId":"59cf8715-75b6-4ec3-a180-587595c62210","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-59cf8715 wd-custom-width">Email:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"f10a59cf-efd1-412f-ba39-9356c82100c2","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-f10a59cf"><!-- wp:wd/paragraph {"blockId":"f4f184d9-eb47-4089-89ca-ba4fa6b2ab1c","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-f4f184d9">mail@mail.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"f8828eb5-11d1-48f4-8eb2-4cc0494d1724","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-f8828eb5"><!-- wp:wd/paragraph {"blockId":"b6d50031-41bf-4ddd-bb38-44cc6d511763","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-b6d50031 wd-custom-width">Call Us:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"3b6c4c33-b943-4383-b8f0-f9137817f4ab","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-3b6c4c33"><!-- wp:wd/paragraph {"blockId":"92bd4a2c-19c8-47ba-bb74-16cbdf2d4658","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-92bd4a2c">(686) 492-1041</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"bc9b3236-60bd-4e25-af86-86efd0270a1c","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-bc9b3236"><!-- wp:wd/paragraph {"blockId":"f288157d-4066-4687-84f3-09589bf2fc6e","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-f288157d wd-custom-width">Address:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"7d89ed51-24ce-4c9f-8183-2a2da0d42ba7","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-7d89ed51"><!-- wp:wd/paragraph {"blockId":"20a0f9cd-0657-4c6d-a415-682b35e825c4","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-20a0f9cd">162 Washington St, Hartford, CT 06106</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"90a61999-aab0-4ff0-9b3d-6221ad8cb743","blockVersion":"2","design":"link","predefinedColor":"","marginTop":"10"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-size-default wd-90a61999" href="#"><span>Show on the map</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/row {"blockId":"10ec1901-f02d-4881-b9cc-eafd13be2d13","blockVersion":"2","columnsGap":20} -->
+<div class="wp-block-wd-row wd-10ec1901"><!-- wp:wd/column {"blockId":"1612f5e9-b948-4e3d-b548-f3f831aa612d","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.15)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","adjacentCount":2,"blocksGap":5} -->
+<div class="wp-block-wd-column wd-1612f5e9"><!-- wp:wd/title {"blockId":"c48a5916-5afa-49a6-a100-c0c5ed99b434","blockVersion":"2","content":"London Store","tpFontSize":"22","marginBottom":"10"} -->
+<h2 class="wp-block-wd-title title wd-c48a5916">London Store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/container {"blockId":"d3e07747-1264-45cc-82c9-62d8c5f57fbc","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-d3e07747"><!-- wp:wd/paragraph {"blockId":"e2c1756a-9761-4572-b7bc-b16784d96e20","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-e2c1756a wd-custom-width">Email:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"6aa3ab77-d089-4fa3-b163-d3c157c8d66f","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-6aa3ab77"><!-- wp:wd/paragraph {"blockId":"19999ebd-5022-4674-99e8-c3701fa9416b","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-19999ebd">mail@mail.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"40efa6a7-fc4b-4c04-810e-d5eb57036796","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-40efa6a7"><!-- wp:wd/paragraph {"blockId":"54534680-2b8b-4962-a346-fce7e718576f","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-54534680 wd-custom-width">Call Us:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"4320de51-79e9-4ce1-9251-aaa962ab6d81","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-4320de51"><!-- wp:wd/paragraph {"blockId":"1864939e-6cfd-4c4a-b4a5-412e3c07b38a","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-1864939e">(686) 492-1041</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"c1b83ec9-4c3e-452f-9989-6ab58aee4d0f","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-c1b83ec9"><!-- wp:wd/paragraph {"blockId":"cae40ee5-b768-451e-826e-ca951ae30146","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-cae40ee5 wd-custom-width">Address:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"d41763e0-4f32-422d-b67d-75252d77ce47","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-d41763e0"><!-- wp:wd/paragraph {"blockId":"aa9f7959-5f6a-4a54-b773-131496ff04fc","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-aa9f7959">168 Borough High St, London SE1 1LB</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"8762e74a-0405-4b0f-89d7-46d1e8981fad","blockVersion":"2","design":"link","predefinedColor":"","marginTop":"10"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-size-default wd-8762e74a" href="#"><span>Show on the map</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"f7074fa8-2b70-4d43-b113-242a518bfec3","blockVersion":"2","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.15)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","borderWidthLock":true,"borderRadius":"16","borderRadiusTop":"16","borderRadiusRight":"16","borderRadiusBottom":"16","borderRadiusLeft":"16","adjacentCount":2,"blocksGap":5} -->
+<div class="wp-block-wd-column wd-f7074fa8"><!-- wp:wd/title {"blockId":"97f0ae05-3f83-476d-95b2-c5f6970c0f0d","blockVersion":"2","content":"Paris Store","tpFontSize":"22","marginBottom":"10"} -->
+<h2 class="wp-block-wd-title title wd-97f0ae05">Paris Store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/container {"blockId":"416d6eb9-f3a8-4b28-9230-785e1f8852c6","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-416d6eb9"><!-- wp:wd/paragraph {"blockId":"a04d5f6c-51ab-4d9a-abb6-f5de97d53455","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-a04d5f6c wd-custom-width">Email:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"1bfe55fe-0bc0-4998-8f99-83edaf19da53","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-1bfe55fe"><!-- wp:wd/paragraph {"blockId":"ab570fdb-de25-4276-9cc0-4415e6dcd2ce","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-ab570fdb">mail@mail.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"49b905ef-691d-4d46-8d28-f1ad53546da4","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-49b905ef"><!-- wp:wd/paragraph {"blockId":"a6bd4a96-3a94-45c4-915d-2e4ed44d8fe4","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-a6bd4a96 wd-custom-width">Call Us:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"57dc60a3-5638-4394-9afc-784f0d4c92c5","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-57dc60a3"><!-- wp:wd/paragraph {"blockId":"f5e6ad7c-e1cc-4ade-b9ac-a6aabb6f88c1","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-f5e6ad7c">(686) 492-1041</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"2793ce4b-834d-44cd-992b-d863c0240bfe","blockVersion":"2","direction":"row","colGap":"10"} -->
+<div class="wp-block-wd-container wd-dir-row wd-2793ce4b"><!-- wp:wd/paragraph {"blockId":"88567f12-ead2-42e4-a219-29e9a221327c","blockVersion":"2","tpFontSize":"12","displayWidth":"custom","customWidth":"72"} -->
+<p class="wp-block-wd-paragraph wd-88567f12 wd-custom-width">Address:</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"4cf3cb4a-f519-49f7-9f05-71a286c35ee4","blockVersion":"2"} -->
+<div class="wp-block-wd-container wd-dir-col wd-4cf3cb4a"><!-- wp:wd/paragraph {"blockId":"80b922dd-d08d-425d-8055-dff871b071cc","blockVersion":"2","colorCode":"#333333","tpFontSize":"12"} -->
+<p class="wp-block-wd-paragraph wd-80b922dd">1 Bd Saint-Germain, 75005 Paris</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/button {"blockId":"741c1f0f-c7a5-404d-9866-687cc520504f","blockVersion":"2","design":"link","predefinedColor":"","marginTop":"10"} -->
+<a class="wp-block-wd-button btn btn-style-link btn-size-default wd-741c1f0f" href="#"><span>Show on the map</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"1dcb850e-83e2-48d7-9ba2-6c1c6375034d","blockVersion":"2","adjacentCount":2,"colWidth":55,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div class="wp-block-wd-column wd-1dcb850e"><!-- wp:wd/open-street-map {"blockId":"57af38f6-a366-4702-83a7-554fa3efb475","blockVersion":"2","marker":{"id":"","url":""},"markerData":{"url":"https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/uploads/sites/76/2026/04/topo-designs-burrito-bag.jpg","width":700,"height":800},"zoom":2,"height":"520","locations":[{"title":"","lat":"47.564160","lon":"-122.288280","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"},{"title":"","lat":"41.758410","lon":"-79.684120","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"},{"title":"","lat":"51.502440","lon":"-0.091150","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"},{"title":"","lat":"48.849170","lon":"5.352410","description":"","showButton":false,"buttonText":"","buttonUrl":"","behavior":"popup","image":{"url":"","id":""},"imageSize":"full"}],"heightMobile":"320"} -->
+<div class="wp-block-wd-open-street-map wd-map-container wd-osm-map-container wd-57af38f6"><div id="wd-osm-map-57af38f6-a366-4702-83a7-554fa3efb475" class="wd-osm-map-wrapper wd-map-wrapper" data-settings="{&quot;zoom&quot;:2,&quot;scrollWheelZoom&quot;:&quot;no&quot;,&quot;zoomControl&quot;:&quot;yes&quot;,&quot;dragging&quot;:&quot;yes&quot;,&quot;init_type&quot;:&quot;page_load&quot;,&quot;init_offset&quot;:100,&quot;geoapify_tile&quot;:&quot;osm-carto&quot;,&quot;center&quot;:&quot;61.01661417106602,-49.81112775747717&quot;,&quot;markers&quot;:[{&quot;lat&quot;:&quot;47.564160&quot;,&quot;lng&quot;:&quot;-122.288280&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}},{&quot;lat&quot;:&quot;41.758410&quot;,&quot;lng&quot;:&quot;-79.684120&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}},{&quot;lat&quot;:&quot;51.502440&quot;,&quot;lng&quot;:&quot;-0.091150&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}},{&quot;lat&quot;:&quot;48.849170&quot;,&quot;lng&quot;:&quot;5.352410&quot;,&quot;marker&quot;:{&quot;image&quot;:&quot;https://dummy.xtemos.com/woodmart2/edc-gutenberg/wp-content/themes/woodmart/images/icons/marker-icon.png&quot;,&quot;image_size&quot;:[25,41],&quot;marker_behavior&quot;:&quot;popup&quot;,&quot;show_button&quot;:&quot;no&quot;}}]}"></div></div>
+<!-- /wp:wd/open-street-map --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/section -->]]></content:encoded>
+															<wp:post_id>19</wp:post_id>
+					<wp:post_date><![CDATA[2026-04-28 11:43:24]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-04-28 11:43:24]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-02 12:36:34]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-02 12:36:34]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

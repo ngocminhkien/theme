@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>admin</title>
+	<link>https://dummy.xtemos.com/woodmart2</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Wed, 14 Jul 2021 12:06:41 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/wp-content/uploads/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[fashion-testimon-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-fashion/fashion-testimon-1/</link>
+					<pubDate>Wed, 28 Jul 2021 11:05:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-1.jpg</guid>
+															<wp:post_id>1339</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-28 11:05:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-28 11:05:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-07-28 11:05:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-07-28 11:05:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[fashion-testimon-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1316</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/fashion-testimon-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[fashion-testimon-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-fashion/fashion-testimon-2/</link>
+					<pubDate>Wed, 28 Jul 2021 11:05:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-2.jpg</guid>
+															<wp:post_id>1340</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-28 11:05:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-28 11:05:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-07-28 11:05:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-07-28 11:05:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[fashion-testimon-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1316</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/fashion-testimon-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[fashion-testimon-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-fashion/fashion-testimon-3/</link>
+					<pubDate>Wed, 28 Jul 2021 11:06:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-3.jpg</guid>
+															<wp:post_id>1341</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-28 11:06:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-28 11:06:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-07-28 11:06:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-07-28 11:06:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[fashion-testimon-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1316</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/fashion-testimon-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[cars-testimon-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-cars/cars-testimon-1/</link>
+					<pubDate>Mon, 02 Aug 2021 11:42:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/08/cars-testimon-1.jpg</guid>
+															<wp:post_id>1663</wp:post_id>
+					<wp:post_date><![CDATA[2021-08-02 11:42:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-08-02 11:42:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-08-02 11:42:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-08-02 11:42:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[cars-testimon-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1602</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/08/cars-testimon-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/08/cars-testimon-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[cars-testimon-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-cars/cars-testimon-3/</link>
+					<pubDate>Mon, 02 Aug 2021 11:43:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/08/cars-testimon-3.jpg</guid>
+															<wp:post_id>1664</wp:post_id>
+					<wp:post_date><![CDATA[2021-08-02 11:43:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-08-02 11:43:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-08-02 11:43:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-08-02 11:43:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[cars-testimon-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1602</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/08/cars-testimon-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/08/cars-testimon-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Testimonials]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/testimonials/</link>
+					<pubDate>Thu, 11 Nov 2021 18:02:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/?page_id=7666</guid>
+											<content:encoded><![CDATA[[vc_row css=".vc_custom_1475586743184{margin-bottom: 60px !important;}"][vc_column][woodmart_title style="bordered" color="primary" title="USER'S OPINIONS STYLE DEFAULT" subtitle="XTEMOS ELEMENT" css=".vc_custom_1637056326208{margin-bottom: 30px !important;}" woodmart_css_id="61937f43db98e" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzN2Y0M2RiOThlIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][testimonials layout="grid" spacing="30" stars_rating="yes" woodmart_css_id="618d5da0627f5"][testimonial image="1663" name="Sergey Brin" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="1340" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="1664" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][/testimonials][/vc_column][/vc_row][vc_row woodmart_stretch_content="section-stretch" css=".vc_custom_1783516846518{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 60px !important;background-color: #f9f9f9 !important;}" woodmart_css_id="6a4e4ea9e143a" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNGVhOWUxNDNhIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnsibWFyZ2luLWJvdHRvbSI6IjYwcHgiLCJwYWRkaW5nLXRvcCI6IjYwcHgiLCJwYWRkaW5nLWJvdHRvbSI6IjQwcHgifSwibW9iaWxlIjp7fX19" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0" wd_backdrop_filter=""][vc_column css=".vc_custom_1475586737780{margin-bottom: 0px !important;padding-top: 0px !important;}"][woodmart_title style="bordered" color="primary" title="USER'S OPINIONS STYLE BOXED" subtitle="XTEMOS ELEMENT" css=".vc_custom_1637056330998{margin-bottom: 40px !important;}" woodmart_css_id="61937f48d1303" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzN2Y0OGQxMzAzIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][testimonials layout="grid" spacing="30" style="boxed" woodmart_css_id="6a4e4edbe34f4" stars_rating="no" css=".vc_custom_1783516894724{margin-bottom: 30px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNGVkYmUzNGY0Iiwic2hvcnRjb2RlIjoidGVzdGltb25pYWxzIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" wd_backdrop_filter=""][testimonial image="1339" name="Sergey Brin" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="7670" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="1341" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][/testimonials][woodmart_title style="bordered" color="primary" title="USER'S OPINIONS STYLE INFORMATION TOP" subtitle="XTEMOS ELEMENT" css=".vc_custom_1637056336052{margin-bottom: 30px !important;}" woodmart_css_id="61937f4e2e872" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzN2Y0ZTJlODcyIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][testimonials spacing="30" style="info-top" sync_parent_id="wd_6a4e4e2c55e0f" sync_group_id="group-1" stars_rating="no" woodmart_css_id="6a4e4ed3ec322" text_background_color_normal="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfY29sb3JwaWNrZXIiLCJjc3NfYXJncyI6eyJiYWNrZ3JvdW5kLWNvbG9yIjpbIiAud2QtdGVzdGltb24tdGV4dCJdLCJib3JkZXItYm90dG9tLWNvbG9yIjpbIiAud2QtdGVzdGltb24tdGV4dDpiZWZvcmUiXX0sInNlbGVjdG9yX2lkIjoiNmE0ZTRlZDNlYzMyMiIsImRhdGEiOnsiZGVza3RvcCI6IiNmZmZmZmYifX0=" slides_per_view="3" autoplay="no" hide_pagination_control="yes" hide_prev_next_buttons="no" center_mode="no" wrap="no" css=".vc_custom_1783516887152{margin-bottom: 30px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNGVkM2VjMzIyIiwic2hvcnRjb2RlIjoidGVzdGltb25pYWxzIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" wd_backdrop_filter="" slides_per_view_mobile="0" autoheight="no" scroll_carousel_init="no" disable_overflow_carousel="no" hide_pagination_control_tablet="yes" hide_pagination_control_mobile="yes" dynamic_pagination_control="no" hide_scrollbar="yes" hide_scrollbar_tablet="yes" hide_scrollbar_mobile="yes"][testimonial image="1663" name="Sergey Brin" title="Google Inc." img_size="80x80"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="1340" name="Sarah Connor" title="Google Inc." img_size="80x80"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="1664" name="Sarah Connor" title="Google Inc." img_size="80x80"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][/testimonials][woodmart_title style="bordered" color="primary" title="USER'S OPINIONS ALIGN LEFT" subtitle="XTEMOS ELEMENT" css=".vc_custom_1637056340700{margin-bottom: 40px !important;}" woodmart_css_id="61937f529a379" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzN2Y1MjlhMzc5Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][testimonials layout="grid" columns="2" spacing="30" style="boxed" align="left" woodmart_css_id="6a4e4ec8e5f5b" stars_rating="no" css=".vc_custom_1783516879947{margin-bottom: 30px !important;}" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNGVjOGU1ZjViIiwic2hvcnRjb2RlIjoidGVzdGltb25pYWxzIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" wd_backdrop_filter=""][testimonial image="1663" name="Sarah Connor" title="Google Inc." img_size="100x100"]Tempor etiam dignissim fermentum quis suspendisse consectetur diam imperdiet dapibus senectus mattis etiam velit pharetra nunc natoque accumsan morbi nunc.[/testimonial][testimonial image="1341" name="Sarah Connor" title="Google Inc." img_size="100x100"]Tempor etiam dignissim fermentum quis suspendisse consectetur diam imperdiet dapibus senectus mattis etiam velit pharetra nunc natoque accumsan morbi nunc.[/testimonial][/testimonials][woodmart_title style="bordered" color="primary" title="USER'S OPINIONS ALIGN RIGHT" subtitle="XTEMOS ELEMENT" css=".vc_custom_1637056345519{margin-bottom: 40px !important;}" woodmart_css_id="61937f57aee1e" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzN2Y1N2FlZTFlIiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][testimonials layout="grid" columns="2" spacing="30" style="boxed" align="right" woodmart_css_id="618d5c118ab59" stars_rating="no"][testimonial image="1340" name="Sarah Connor" title="Google Inc." img_size="100x100"]Tempor etiam dignissim fermentum quis suspendisse consectetur diam imperdiet dapibus senectus mattis etiam velit pharetra nunc natoque accumsan morbi nunc.[/testimonial][testimonial image="7670" name="Sarah Connor" title="Google Inc." img_size="100x100"]Tempor etiam dignissim fermentum quis suspendisse consectetur diam imperdiet dapibus senectus mattis etiam velit pharetra nunc natoque accumsan morbi nunc.[/testimonial][/testimonials][/vc_column][/vc_row][vc_row css=".vc_custom_1636654394683{margin-bottom: 30px !important;}" woodmart_css_id="618d5d38a4f2f" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MThkNWQzOGE0ZjJmIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_gradient_switch="no" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0"][vc_column css=".vc_custom_1492082802644{padding-top: 0px !important;}"][woodmart_title style="bordered" color="primary" title="USERS OPINIONS IN CAROUSEL" subtitle="XTEMOS ELEMENT" css=".vc_custom_1637056350076{margin-bottom: 30px !important;}" woodmart_css_id="61937f5c440e9" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzN2Y1YzQ0MGU5Iiwic2hvcnRjb2RlIjoid29vZG1hcnRfdGl0bGUiLCJkYXRhIjp7InRhYmxldCI6e30sIm1vYmlsZSI6e319fQ=="][testimonials spacing="30" sync_parent_id="wd_6a4e4e2c55e0f" sync_group_id="group-1" slides_per_view="3" autoplay="yes" woodmart_css_id="618d5daedd962" hide_pagination_control="no" hide_prev_next_buttons="no" center_mode="no" wrap="no" stars_rating="no"][testimonial image="1664" name="Sergey Brin" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum.[/testimonial][testimonial image="1339" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum.[/testimonial][testimonial image="1663" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum.[/testimonial][testimonial image="7670" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum.[/testimonial][/testimonials][/vc_column][/vc_row][vc_row css=".vc_custom_1475592307239{margin-bottom: 50px !important;}"][vc_column][testimonials spacing="30" style="boxed" align="left" sync_parent_id="wd_6a4e4e2c55e0f" sync_group_id="group-1" slides_per_view="2" autoplay="yes" woodmart_css_id="618d5c7c07a10" hide_pagination_control="no" hide_prev_next_buttons="no" center_mode="no" wrap="no" stars_rating="no"][testimonial image="1340" name="Sergey Brin" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="1341" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="7670" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][testimonial image="1664" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas vestibulum fermentum.[/testimonial][/testimonials][/vc_column][/vc_row][vc_row woodmart_stretch_content="section-stretch" woodmart_gradient_switch="yes" css=".vc_custom_1783516868453{margin-bottom: -40px !important;padding-top: 85px !important;padding-bottom: 85px !important;background-image: url(http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimonials-elements-bg.jpg?id=7671) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" woodmart_color_gradient="rgba(0, 0, 0, 0.494)-0/rgba(0, 0, 0, 0.498)-100/|linear-gradient(left , rgba(0, 0, 0, 0.494) , rgba(0, 0, 0, 0.498) 100%)|linear|left" woodmart_css_id="6a4e4ec11d63a" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2YTRlNGVjMTFkNjNhIiwic2hvcnRjb2RlIjoidmNfcm93IiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" wd_z_index="no" woodmart_disable_overflow="0" row_reverse_mobile="0" row_reverse_tablet="0" wd_backdrop_filter=""][vc_column width="2/3" offset="vc_col-sm-offset-2" woodmart_css_id="6193a8f30bf80" parallax_scroll="no" woodmart_sticky_column="false" wd_collapsible_content_switcher="no" mobile_bg_img_hidden="no" tablet_bg_img_hidden="no" woodmart_parallax="0" woodmart_box_shadow="no" mobile_reset_margin="no" tablet_reset_margin="no" wd_z_index="no" responsive_spacing="eyJwYXJhbV90eXBlIjoid29vZG1hcnRfcmVzcG9uc2l2ZV9zcGFjaW5nIiwic2VsZWN0b3JfaWQiOiI2MTkzYThmMzBiZjgwIiwic2hvcnRjb2RlIjoidmNfY29sdW1uIiwiZGF0YSI6eyJ0YWJsZXQiOnt9LCJtb2JpbGUiOnt9fX0=" css=".vc_custom_1637066999169{padding-top: 0px !important;}"][testimonials spacing="30" woodmart_color_scheme="light" sync_parent_id="wd_6a4e4e2c55e0f" sync_group_id="group-1" slides_per_view="1" autoplay="yes" stars_rating="yes" woodmart_css_id="618d5db56c6f2" hide_pagination_control="no" hide_prev_next_buttons="no" center_mode="no" wrap="no"][testimonial image="1663" name="Sergey Brin" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas fermentum. Lacus habitant mi ipsum pharetra etiam leo parturient suspendisse a hac inceptos posuere sed. Suscipit a suspendisse aliquam vestibulum sed nascetur id massa.[/testimonial][testimonial image="1340" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas fermentum. Lacus habitant mi ipsum pharetra etiam leo parturient suspendisse a hac inceptos posuere sed. Suscipit a suspendisse aliquam vestibulum sed nascetur id massa.[/testimonial][testimonial image="1664" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas fermentum. Lacus habitant mi ipsum pharetra etiam leo parturient suspendisse a hac inceptos posuere sed. Suscipit a suspendisse aliquam vestibulum sed nascetur id massa.[/testimonial][testimonial image="7670" name="Sarah Connor" title="Google Inc." img_size="100x100"]Suscipit a suspendisse aliquam vestibulum sed nascetur id massa dictum pulvinar a erat per parturient dui id justo maecenas fermentum. Lacus habitant mi ipsum pharetra etiam leo parturient suspendisse a hac inceptos posuere sed. Suscipit a suspendisse aliquam vestibulum sed nascetur id massa.[/testimonial][/testimonials][/vc_column][/vc_row]]]></content:encoded>
+															<wp:post_id>7666</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-11 18:02:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-11 18:02:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-09-10 12:31:55]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-09-10 12:31:55]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[testimonials]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[woodmart_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#wd-6a4e4ed3ec322 .wd-testimon-text{background-color:#ffffff;}#wd-6a4e4ed3ec322 .wd-testimon-text:before{border-bottom-color:#ffffff;}@media (max-width: 1199.98px) {html .wd-rs-6a4e4ea9e143a{margin-bottom:60px !important;padding-top:60px !important;padding-bottom:40px !important;}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+							<wp:meta_value><![CDATA[.vc_custom_1475586743184{margin-bottom: 60px !important;}.vc_custom_1783516846518{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 60px !important;background-color: #f9f9f9 !important;}.vc_custom_1636654394683{margin-bottom: 30px !important;}.vc_custom_1475592307239{margin-bottom: 50px !important;}.vc_custom_1783516868453{margin-bottom: -40px !important;padding-top: 85px !important;padding-bottom: 85px !important;background-image: url(http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimonials-elements-bg.jpg?id=7671) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1637056326208{margin-bottom: 30px !important;}.vc_custom_1475586737780{margin-bottom: 0px !important;padding-top: 0px !important;}.vc_custom_1637056330998{margin-bottom: 40px !important;}.vc_custom_1783516894724{margin-bottom: 30px !important;}.vc_custom_1637056336052{margin-bottom: 30px !important;}.vc_custom_1783516887152{margin-bottom: 30px !important;}.vc_custom_1637056340700{margin-bottom: 40px !important;}.vc_custom_1783516879947{margin-bottom: 30px !important;}.vc_custom_1637056345519{margin-bottom: 40px !important;}.vc_custom_1492082802644{padding-top: 0px !important;}.vc_custom_1637056350076{margin-bottom: 30px !important;}.vc_custom_1637066999169{padding-top: 0px !important;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+							<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_vc_editor_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[backend]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wpb_post_custom_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[testimon-6]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/testimonials/testimon-6/</link>
+					<pubDate>Thu, 11 Nov 2021 18:06:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimon-6.jpg</guid>
+															<wp:post_id>7670</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-11 18:06:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-11 18:06:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-11 18:06:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-11 18:06:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[testimon-6]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7666</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimon-6.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/testimon-6.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[testimonials-elements-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/testimonials/testimonials-elements-bg/</link>
+					<pubDate>Thu, 11 Nov 2021 18:11:27 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimonials-elements-bg.jpg</guid>
+															<wp:post_id>7671</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-11 18:11:27]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-11 18:11:27]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-11 18:11:27]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-11 18:11:27]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[testimonials-elements-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7666</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimonials-elements-bg.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/testimonials-elements-bg.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[fashion-testimon-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-fashion/fashion-testimon-2/</link>
+					<pubDate>Wed, 28 Jul 2021 11:05:51 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-2.jpg</guid>
+															<wp:post_id>1340</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-28 11:05:51]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-28 11:05:51]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-07-28 11:05:51]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-07-28 11:05:51]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[fashion-testimon-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1316</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/fashion-testimon-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[fashion-testimon-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-fashion/fashion-testimon-3/</link>
+					<pubDate>Wed, 28 Jul 2021 11:06:01 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-3.jpg</guid>
+															<wp:post_id>1341</wp:post_id>
+					<wp:post_date><![CDATA[2021-07-28 11:06:01]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-07-28 11:06:01]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-07-28 11:06:01]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-07-28 11:06:01]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[fashion-testimon-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1316</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/07/fashion-testimon-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/07/fashion-testimon-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[cars-testimon-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-cars/cars-testimon-1/</link>
+					<pubDate>Mon, 02 Aug 2021 11:42:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/08/cars-testimon-1.jpg</guid>
+															<wp:post_id>1663</wp:post_id>
+					<wp:post_date><![CDATA[2021-08-02 11:42:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-08-02 11:42:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-08-02 11:42:53]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-08-02 11:42:53]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[cars-testimon-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1602</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/08/cars-testimon-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/08/cars-testimon-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[cars-testimon-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/home-cars/cars-testimon-3/</link>
+					<pubDate>Mon, 02 Aug 2021 11:43:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/08/cars-testimon-3.jpg</guid>
+															<wp:post_id>1664</wp:post_id>
+					<wp:post_date><![CDATA[2021-08-02 11:43:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-08-02 11:43:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-08-02 11:43:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-08-02 11:43:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[cars-testimon-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>1602</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/08/cars-testimon-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/08/cars-testimon-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[testimon-6]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/testimonials/testimon-6/</link>
+					<pubDate>Thu, 11 Nov 2021 18:06:07 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimon-6.jpg</guid>
+															<wp:post_id>7670</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-11 18:06:07]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-11 18:06:07]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-11 18:06:07]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-11 18:06:07]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[testimon-6]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7666</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimon-6.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/testimon-6.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[testimonials-elements-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/testimonials/testimonials-elements-bg/</link>
+					<pubDate>Thu, 11 Nov 2021 18:11:27 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimonials-elements-bg.jpg</guid>
+															<wp:post_id>7671</wp:post_id>
+					<wp:post_date><![CDATA[2021-11-11 18:11:27]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2021-11-11 18:11:27]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2021-11-11 18:11:27]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2021-11-11 18:11:27]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[testimonials-elements-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>7666</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/wp-content/uploads/2021/11/testimonials-elements-bg.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2021/11/testimonials-elements-bg.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

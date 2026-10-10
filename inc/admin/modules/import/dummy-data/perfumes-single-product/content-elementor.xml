@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>perfumes-elementor</title>
+	<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor</link>
+	<description></description>
+	<pubDate>Mon, 15 Dec 2025 13:22:09 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/perfumes-elementor</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Single product - Perfumes]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/perfumes-elementor/woodmart_layout/single-product-perfumes/</link>
+					<pubDate>Tue, 16 Dec 2025 15:30:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/perfumes-elementor/?post_type=woodmart_layout&#038;p=700</guid>
+											<content:encoded><![CDATA[<link rel="stylesheet" id="wd-woo-single-prod-el-gallery-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-gallery.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-single-prod-el-gallery-opt-thumb-grid-lg-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-el-gallery-opt-thumb-grid.min.css?ver=8.4.1" type="text/css" media="(min-width: 1025px)" /> 						<link rel="stylesheet" id="wd-swiper-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=8.4.1" type="text/css" media="all" /> 			
+		<figure style="--wd-col-md:1;--wd-col-sm:1;">
+				<figure data-thumb="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3-150x171.jpeg" data-thumb-alt="Tidal Obscura 2ml Sample - Image 1"><a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3.jpeg"><img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3-600x686.jpeg" alt="Tidal Obscura 2ml Sample - Image 1" title="tidal-obscura-3.jpeg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3.jpeg" data-large_image="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3.jpeg" data-large_image_width="700" data-large_image_height="800" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3-150x171.jpeg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-3.jpeg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1-150x171.jpeg" data-thumb-alt="Tidal Obscura 2ml Sample - Image 2">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1.jpeg">
+					<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1-600x686.jpeg" alt="Tidal Obscura 2ml Sample - Image 2" title="tidal-obscura-1.jpeg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1.jpeg" data-large_image="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1.jpeg" data-large_image_width="700" data-large_image_height="800" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1-150x171.jpeg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-1.jpeg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" />				</a>
+			</figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2-150x171.jpeg" data-thumb-alt="Tidal Obscura 2ml Sample - Image 3">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2.jpeg">
+					<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2-600x686.jpeg" alt="Tidal Obscura 2ml Sample - Image 3" title="tidal-obscura-2.jpeg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2.jpeg" data-large_image="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2.jpeg" data-large_image_width="700" data-large_image_height="800" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2-150x171.jpeg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-2.jpeg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" />				</a>
+			</figure>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-150x171.jpeg" data-thumb-alt="Tidal Obscura 2ml Sample - Image 4">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura.jpeg">
+					<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-600x686.jpeg" alt="Tidal Obscura 2ml Sample - Image 4" title="tidal-obscura.jpeg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura.jpeg" data-large_image="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura.jpeg" data-large_image_width="700" data-large_image_height="800" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura-150x171.jpeg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/tidal-obscura.jpeg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" />				</a>
+			</figure>
+						<link rel="stylesheet" id="wd-woo-single-prod-opt-gallery-video-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-opt-gallery-video.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-single-prod-opt-gallery-video-pswp-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-single-prod-opt-gallery-video-pswp.min.css?ver=8.4.1" type="text/css" media="all" /> 					
+				<a href="#">
+				</a>
+			<figure data-thumb="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products-150x171.jpg">
+				<a data-elementor-open-lightbox="no" href="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products.jpg">
+					<img width="600" height="686" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products-600x686.jpg" alt="" title="perfumes-placeholder-products.jpg" data-caption="" data-src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products.jpg" data-large_image="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products.jpg" data-large_image_width="700" data-large_image_height="800" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products-600x686.jpg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products-263x300.jpg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products-150x171.jpg 150w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-placeholder-products.jpg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" />				</a>
+				<video loop playsinline autoplay muted src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/perfumes-product-video.webm"></video>
+						</figure>
+		</figure>
+					<link rel="stylesheet" id="wd-swiper-arrows-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/lib-swiper-arrows.min.css?ver=8.4.1" type="text/css" media="all" /> 			
+<h1>
+	Tidal Obscura 2ml Sample
+	</h1>
+	<p>A powerful, aquatic fragrance with an enigmatic edge.</p>
+								<link rel="stylesheet" id="wd-woo-mod-variation-form-single-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-mod-variation-form-single.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-variation-form-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-mod-variation-form.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-swatches-base-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-mod-swatches-base.min.css?ver=8.4.1" type="text/css" media="all" /> 					
+			<table>
+				<tbody>
+														<link rel="stylesheet" id="wd-woo-mod-swatches-style-1-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-mod-swatches-style-1.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-mod-swatches-dis-1-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-mod-swatches-dis-style-1.min.css?ver=8.4.1" type="text/css" media="all" /> 									<tr>
+							<th>
+								<label>
+									Size								</label>
+							</th>
+							<td>
+																													<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/tidal-obscura-100ml/">
+												100ml											
+										</a>
+																													<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/tidal-obscura-50ml/">
+												50ml											
+										</a>
+																													<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/tidal-obscura-2ml-sample/">
+												2ml Sample											
+										</a>
+							</td>
+						</tr>
+									</tbody>
+			</table>
+					<p><bdi>&#36;20.00</bdi></p>
+	<form action="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/tidal-obscura-2ml-sample/" method="post" enctype='multipart/form-data'>
+			<input type="button" value="-" aria-label="Decrease quantity" />
+	<label for="quantity_69b2bf3067a8b">Tidal Obscura 2ml Sample quantity</label>
+	<input
+		type="number"
+				id="quantity_69b2bf3067a8b"
+		class="input-text qty text"
+		value="1"
+		aria-label="Product quantity"
+				min="1"
+				name="quantity"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			>
+			<input type="button" value="+" aria-label="Increase quantity" />
+		<button type="submit" name="add-to-cart" value="227">Add to cart</button>
+			</form>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="227" rel="nofollow">
+					Add to wishlist
+				</a>
+								<link rel="stylesheet" id="wd-woo-mod-shop-attributes-builder-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-mod-shop-attributes-builder.min.css?ver=8.4.1" type="text/css" media="all" /> 			<table aria-label="Product Details"><tr><th scope="row">Size</th><td>2ml Sample</td></tr></table>				
+					<style>.elementor-227 .elementor-element.elementor-element-d76ab55{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-227 .elementor-element.elementor-element-36b25d5 .title{font-size:48px;line-height:1.2em;}.elementor-227 .elementor-element.elementor-element-39389fb .wd-el-video{height:840px;}.elementor-227 .elementor-element.elementor-element-2bd4884 > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-227 .elementor-element.elementor-element-78f8a4d{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:30px 30px;--row-gap:30px;--column-gap:30px;}.elementor-227 .elementor-element.elementor-element-9d24e39{--display:flex;}.elementor-227 .elementor-element.elementor-element-5d4b157 .info-box-title{font-size:22px;}.elementor-227 .elementor-element.elementor-element-5d4b157 > .elementor-widget-container{padding:0px 0px 20px 0px;border-style:solid;border-width:0px 0px 2px 0px;border-color:#000000;}.elementor-227 .elementor-element.elementor-element-7915417{--display:flex;}.elementor-227 .elementor-element.elementor-element-da1055f .info-box-title{font-size:22px;}.elementor-227 .elementor-element.elementor-element-da1055f > .elementor-widget-container{padding:0px 0px 20px 0px;border-style:solid;border-width:0px 0px 2px 0px;border-color:#000000;}.elementor-227 .elementor-element.elementor-element-10b2056{--display:flex;}.elementor-227 .elementor-element.elementor-element-6aae954 .info-box-title{font-size:22px;}.elementor-227 .elementor-element.elementor-element-6aae954 > .elementor-widget-container{padding:0px 0px 20px 0px;border-style:solid;border-width:0px 0px 2px 0px;border-color:#000000;}@media(min-width:768px){.elementor-227 .elementor-element.elementor-element-9d24e39{--width:33%;}.elementor-227 .elementor-element.elementor-element-7915417{--width:33%;}.elementor-227 .elementor-element.elementor-element-10b2056{--width:33%;}}@media(max-width:1024px){.elementor-227 .elementor-element.elementor-element-36b25d5 .title{font-size:36px;}.elementor-227 .elementor-element.elementor-element-39389fb .wd-el-video{height:420px;}.elementor-227 .elementor-element.elementor-element-5d4b157 .info-box-title{font-size:20px;}.elementor-227 .elementor-element.elementor-element-da1055f .info-box-title{font-size:20px;}.elementor-227 .elementor-element.elementor-element-6aae954 .info-box-title{font-size:20px;}}@media(max-width:767px){.elementor-227 .elementor-element.elementor-element-36b25d5 .title{font-size:28px;}}</style>		
+								<link rel="stylesheet" id="wd-section-title-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=8.4.1" type="text/css" media="all" /> 					
+				<h4>Étheria Collection</h4> 
+								<link rel="stylesheet" id="wd-el-video-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-video.min.css?ver=8.4.1" type="text/css" media="all" /> 			
+							<iframe data-lazy-load="https://www.youtube.com/embed/LXb3EKWsInQ?feature=oembed&loop=0&mute=0&controls=1" allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" width="100%" height="100%" loading="lazy" aria-label="Video player"></iframe>			
+					<img width="1920" height="1080" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-collection-etheria-opt.jpg" alt="" loading="lazy" />				
+				<a href="https://youtu.be/LXb3EKWsInQ" aria-label="Play video"></a>
+								<link rel="stylesheet" id="wd-text-block-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-text-block.min.css?ver=8.4.1" type="text/css" media="all" /> 					
+			<p>Aurora Haze is a luminous, ethereal fragrance that captures the serene beauty of dawn. Opening with delicate citrus and dewy florals, it unfolds into a heart of soft amber and blooming jasmine, evoking the first golden rays of sunlight. A warm base of creamy sandalwood and subtle musk lingers on the skin, wrapping you in a gentle, radiant embrace. Elegant and uplifting, Aurora Haze is a scent that whispers of new beginnings and endless possibilities.</p>
+								<link rel="stylesheet" id="wd-info-box-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=8.4.1" type="text/css" media="all" /> 					
+															<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-infobox-1.svg" title="prf-infobox-1" loading="lazy" width="24" height="24">													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Top Notes:						</h4>
+					<p>Bergamot, Pimento Berry, Oregano</p>
+															<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-infobox-2.svg" title="prf-infobox-2" loading="lazy" width="24" height="24">													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Heart Notes:						</h4>
+					<p>Amber, Citrus, Frankincense, Vanilla</p>
+															<img  src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/prf-infobox-3.svg" title="prf-infobox-3" loading="lazy" width="24" height="24">													
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								Base Notes:						</h4>
+					<p>Oud, Leather, Patchouli, Sandalwood</p>
+								<link rel="stylesheet" id="wd-product-loop-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-el-base-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-el-base.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-woo-loop-prod-predefined-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-loop-prod-predefined.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-product-loop-info-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-product-loop-info.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-bordered-product-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-opt-bordered-product.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-bordered-product-predefined-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/woo-opt-bordered-product-predefined.min.css?ver=8.4.1" type="text/css" media="all" /> 						
+									<h4>From Collection</h4>							
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-100ml/" tabindex="-1" aria-label="Abyss Bleu 100ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/abyss-bleu-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-100ml/">Abyss Bleu 100ml</a></h3>					
+	<bdi>&#36;250.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=75" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_75" data-quantity="1" data-product_id="75" data-product_sku="MPNE110" aria-label="Add to cart: &ldquo;Abyss Bleu 100ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Abyss Bleu 100ml&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="75" rel="nofollow">
+				Compare
+			</a>
+								<link rel="stylesheet" id="wd-mfp-popup-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-animations-transform-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/mod-animations-transform.min.css?ver=8.4.1" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-transform-css" href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/themes/woodmart/css/parts/mod-transform.min.css?ver=8.4.1" type="text/css" media="all" /> 					
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/abyss-bleu-100ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="75"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="75" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/arctic-dusk-2ml-sample/" tabindex="-1" aria-label="Arctic Dusk 2ml Sample">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-3.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-3.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-3-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/arctic-dusk-2ml-sample/">Arctic Dusk 2ml Sample</a></h3>					
+	<bdi>&#36;20.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=211" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_211" data-quantity="1" data-product_id="211" data-product_sku="MPEB210-2" aria-label="Add to cart: &ldquo;Arctic Dusk 2ml Sample&rdquo;" rel="nofollow" data-success_message="&ldquo;Arctic Dusk 2ml Sample&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="211" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/arctic-dusk-2ml-sample/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="211"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="211" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/arctic-dusk-50ml/" tabindex="-1" aria-label="Arctic Dusk 50ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-2.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-2.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-2-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-2-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-2-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/arctic-dusk-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/arctic-dusk-50ml/">Arctic Dusk 50ml</a></h3>					
+	<bdi>&#36;125.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=210" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_210" data-quantity="1" data-product_id="210" data-product_sku="MPEB210-1" aria-label="Add to cart: &ldquo;Arctic Dusk 50ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Arctic Dusk 50ml&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="210" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/arctic-dusk-50ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="210"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="210" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/celestial-frost-2ml-sample/" tabindex="-1" aria-label="Celestial Frost 2ml Sample">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-3.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-3.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-3-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-frost-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/celestial-frost-2ml-sample/">Celestial Frost 2ml Sample</a></h3>					
+	<bdi>&#36;20.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=213" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_213" data-quantity="1" data-product_id="213" data-product_sku="MPEB310-2" aria-label="Add to cart: &ldquo;Celestial Frost 2ml Sample&rdquo;" rel="nofollow" data-success_message="&ldquo;Celestial Frost 2ml Sample&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="213" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/celestial-frost-2ml-sample/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="213"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="213" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/celestial-surge-2ml-sample/" tabindex="-1" aria-label="Celestial Surge 2ml Sample">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-3.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-3.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-3-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/celestial-surge-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/celestial-surge-2ml-sample/">Celestial Surge 2ml Sample</a></h3>					
+	<bdi>&#36;20.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=205" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_205" data-quantity="1" data-product_id="205" data-product_sku="MPNE310-2" aria-label="Add to cart: &ldquo;Celestial Surge 2ml Sample&rdquo;" rel="nofollow" data-success_message="&ldquo;Celestial Surge 2ml Sample&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="205" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/celestial-surge-2ml-sample/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="205"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="205" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/eclipse-verde-2ml-sample/" tabindex="-1" aria-label="Eclipse Verde 2ml Sample">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-3.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-3.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-3-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/eclipse-verde-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/eclipse-verde-2ml-sample/">Eclipse Verde 2ml Sample</a></h3>					
+	<bdi>&#36;20.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=223" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_223" data-quantity="1" data-product_id="223" data-product_sku="MPVN410-2" aria-label="Add to cart: &ldquo;Eclipse Verde 2ml Sample&rdquo;" rel="nofollow" data-success_message="&ldquo;Eclipse Verde 2ml Sample&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="223" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/eclipse-verde-2ml-sample/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="223"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="223" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/glacier-bloom-50ml/" tabindex="-1" aria-label="Glacier Bloom 50ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-2.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-2.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-2-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-2-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-2-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/glacier-bloom-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/glacier-bloom-50ml/">Glacier Bloom 50ml</a></h3>					
+	<bdi>&#36;125.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=208" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_208" data-quantity="1" data-product_id="208" data-product_sku="MPEB110-1" aria-label="Add to cart: &ldquo;Glacier Bloom 50ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Glacier Bloom 50ml&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="208" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/glacier-bloom-50ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="208"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="208" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/lunar-mist-100ml/" tabindex="-1" aria-label="Lunar Mist 100ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/lunar-mist-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/lunar-mist-100ml/">Lunar Mist 100ml</a></h3>					
+	<bdi>&#36;250.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=82" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_82" data-quantity="1" data-product_id="82" data-product_sku="MPEB410" aria-label="Add to cart: &ldquo;Lunar Mist 100ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Lunar Mist 100ml&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="82" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/lunar-mist-100ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="82"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="82" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-2ml-sample/" tabindex="-1" aria-label="Midnight Azure 2ml Sample">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-3.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-3.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-3-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-2ml-sample/">Midnight Azure 2ml Sample</a></h3>					
+	<bdi>&#36;20.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=217" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_217" data-quantity="1" data-product_id="217" data-product_sku="MPVN110-2" aria-label="Add to cart: &ldquo;Midnight Azure 2ml Sample&rdquo;" rel="nofollow" data-success_message="&ldquo;Midnight Azure 2ml Sample&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="217" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-2ml-sample/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="217"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="217" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-50ml/" tabindex="-1" aria-label="Midnight Azure 50ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-2.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-2.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-2-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-2-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-2-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/midnight-azure-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-50ml/">Midnight Azure 50ml</a></h3>					
+	<bdi>&#36;125.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=216" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_216" data-quantity="1" data-product_id="216" data-product_sku="MPVN110-1" aria-label="Add to cart: &ldquo;Midnight Azure 50ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Midnight Azure 50ml&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="216" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/midnight-azure-50ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="216"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="216" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/obsidian-tide-2ml-sample/" tabindex="-1" aria-label="Obsidian Tide 2ml Sample">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-3.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-3.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-3-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-3-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-3-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/obsidian-tide-2ml-sample/">Obsidian Tide 2ml Sample</a></h3>					
+	<bdi>&#36;20.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=219" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_219" data-quantity="1" data-product_id="219" data-product_sku="MPVN210-2" aria-label="Add to cart: &ldquo;Obsidian Tide 2ml Sample&rdquo;" rel="nofollow" data-success_message="&ldquo;Obsidian Tide 2ml Sample&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="219" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/obsidian-tide-2ml-sample/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="219"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="219" rel="nofollow">
+					Add to wishlist
+				</a>
+		<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/obsidian-tide-50ml/" tabindex="-1" aria-label="Obsidian Tide 50ml">
+			<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-2.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-2.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-2-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-2-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-2-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />		</a>
+				<img width="700" height="800" src="http://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1.jpeg" alt="" decoding="async" loading="lazy" srcset="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1.jpeg 700w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1-263x300.jpeg 263w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1-600x686.jpeg 600w, https://dummy.xtemos.com/woodmart2/perfumes-elementor/wp-content/uploads/sites/66/2025/12/obsidian-tide-1-150x171.jpeg 150w" sizes="auto, (max-width: 700px) 100vw, 700px" />			
+			<h3><a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/obsidian-tide-50ml/">Obsidian Tide 50ml</a></h3>					
+	<bdi>&#36;125.00</bdi>
+				<a href="/woodmart2/perfumes-elementor/wp-admin/admin-ajax.php?add-to-cart=218" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_218" data-quantity="1" data-product_id="218" data-product_sku="MPVN210-1" aria-label="Add to cart: &ldquo;Obsidian Tide 50ml&rdquo;" rel="nofollow" data-success_message="&ldquo;Obsidian Tide 50ml&rdquo; has been added to your cart" role="button">Add to cart</a>	
+			<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/compare/" data-id="218" rel="nofollow">
+				Compare
+			</a>
+			<a
+				href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/product/obsidian-tide-50ml/"
+				class="open-quick-view"
+				rel="nofollow"
+				data-id="218"
+				>
+						Quick view					
+			</a>
+				<a href="https://dummy.xtemos.com/woodmart2/perfumes-elementor/wishlist/" data-key="5a291fec09" data-product-id="218" rel="nofollow">
+					Add to wishlist
+				</a>]]></content:encoded>
+															<wp:post_id>700</wp:post_id>
+					<wp:post_date><![CDATA[2025-12-16 15:30:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-12-16 15:30:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-03-12 13:27:12]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-03-12 13:27:12]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[single-product-perfumes]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[single_product]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:3:"all";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+							<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+							<wp:meta_value><![CDATA[3.33.6]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+							<wp:meta_value><![CDATA[[{"id":"85d8ab6","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":60,"column":"60","row":"30","isLinked":false},"flex_gap_tablet":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30},"margin":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"-20","right":"0","bottom":"40","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"25020af","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"scroll_y":-80},"elements":[{"id":"4f86fe7","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_gallery"}],"isInner":true},{"id":"512b73e","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"flex_gap":{"column":"30","row":"30","isLinked":true,"unit":"px","size":30},"margin":{"unit":"px","top":"100","right":"0","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"container_sticky":"yes","scroll_y":-80,"_transform_translateY_effect":{"unit":"px","size":100,"sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":0,"sizes":[]}},"elements":[{"id":"d21e5f7","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_wc_notices"},{"id":"268e0f8","elType":"widget","settings":{"typography_typography":"custom","typography_font_size":{"unit":"px","size":44,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_title"},{"id":"50e5c14","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_short_description"},{"id":"9770526","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_linked_variations"},{"id":"b4e3b4e","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_price"},{"id":"ba05473","elType":"container","settings":{"content_width":"full","width":{"unit":"px","size":640,"sizes":[]},"flex_direction":"row","flex_align_items":"flex-end","scroll_y":-80},"elements":[{"id":"041a8a1","elType":"widget","settings":{"button_design":"full","_element_width":"inherit","scroll_y":-80,"buy_now_design":"bordered","buy_now_border_border":"solid","buy_now_border_color":"#292724","buy_now_color_hover":"#FFFFFF","buy_now_bg_color_hover":"#292724","buy_now_border_hover_border":"solid","buy_now_border_hover_color":"#292724","buy_now_border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[],"widgetType":"wd_single_product_add_to_cart"},{"id":"6e3747a","elType":"widget","settings":{"style":"icon","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"_element_width":"auto","scroll_y":-80},"elements":[],"widgetType":"wd_single_product_wishlist_button"}],"isInner":true},{"id":"ff05b84","elType":"widget","settings":{"_element_width":"initial","_element_custom_width":{"unit":"px","size":640,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_additional_info_table"}],"isInner":true}],"isInner":false},{"id":"ad02022","elType":"container","settings":{"flex_direction":"column","flex_gap":{"column":"80","row":"80","isLinked":false,"unit":"px","size":80},"flex_gap_tablet":{"column":"60","row":"60","isLinked":true,"unit":"px","size":60},"flex_gap_mobile":{"column":"40","row":"40","isLinked":true,"unit":"px","size":40},"margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"scroll_y":-80},"elements":[{"id":"df2ddcb","elType":"widget","settings":{"scroll_y":-80},"elements":[],"widgetType":"wd_single_product_content"},{"id":"1459f2c","elType":"widget","settings":{"element_title":"From Collection","post_type":"related","layout":"carousel","slides_per_view":{"unit":"px","size":4,"sizes":[]},"hide_pagination_control":"yes","sync_parent_id":"wd_69417b03d2498","products_bordered_grid":"1","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":48,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":36,"sizes":[]},"title_typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1.2,"sizes":[]},"scroll_y":-80},"elements":[],"widgetType":"wd_products"}],"isInner":false}]]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

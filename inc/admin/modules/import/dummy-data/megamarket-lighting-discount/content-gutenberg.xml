@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Megamarket gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Tue, 09 Jul 2024 08:31:10 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Lighting Discount]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/lighting-discount-2/</link>
+					<pubDate>Thu, 11 Jul 2024 07:24:16 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/?page_id=619</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"2105137b-5e85-4036-aa00-5bbee11b8502","marginBottom":"80","marginBottomTablet":"60"} -->
+<div id="wd-2105137b" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"f0f56ef9-886a-49d3-80fc-7e60956e8341","adjacentCount":2,"colWidth":33.33,"blocksGap":10,"justifyContent":"center"} -->
+<div id="wd-f0f56ef9" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"7294601f-6391-46bc-b966-9a4038a9c5ef","content":"Lighting Discount","tpFontSize":"36","tpFontVariant":"800","tpFontWeight":"800","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"22"} -->
+<h2 id="wd-7294601f" class="wp-block-wd-title title">Lighting Discount</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"95d2444e-3307-4255-b5ee-6a2968245b5e"} -->
+<p id="wd-95d2444e" class="wp-block-wd-paragraph">10 Oct - 20 Nov</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/countdown-timer {"blockId":"16696137-f4b6-4c8c-bd0a-bd0f9aaec42c","date":"2026-01-01T10:28:00","timerBoxShadowColorCode":"rgba(0,0,0,0.1)","timerBoxShadowBlur":3,"marginTop":"20","marginBottom":"20","boxShadowBlur":5} -->
+<div id="wd-16696137" class="wp-block-wd-countdown-timer wd-countdown-timer"><div class="wd-timer wd-size-medium" data-end-date="2026-01-01T10:28:00" data-hide-on-finish="no"><span class="wd-timer-days"><span class="wd-timer-value">0</span><span class="wd-timer-text">days</span></span><span class="wd-timer-hours"><span class="wd-timer-value">00</span><span class="wd-timer-text">hr</span></span><span class="wd-timer-min"><span class="wd-timer-value">00</span><span class="wd-timer-text">min</span></span><span class="wd-timer-sec"><span class="wd-timer-value">00</span><span class="wd-timer-text">sc</span></span></div></div>
+<!-- /wp:wd/countdown-timer -->
+
+<!-- wp:wd/paragraph {"blockId":"1cee3f46-fd35-4ad5-af49-8e7e720a8f1b","displayWidth":"custom","customWidth":"355"} -->
+<p id="wd-1cee3f46" class="wp-block-wd-paragraph wd-custom-width">A seemingly elegant design can quickly begin to bloat with unexpected content or break under the weight of actual activity.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"aa5be218-2036-42b1-9340-5e43b1ead7b1","adjacentCount":2,"colWidth":66.33} -->
+<div id="wd-aa5be218" class="wp-block-wd-column"><!-- wp:wd/image {"blockId":"c46fb95c-b721-45c6-9826-e942a3de3b03","image":{"id":622,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/megamarket-promotion-image-1.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/megamarket-promotion-image-1.jpg","width":1200,"height":800}} -->
+<div id="wd-c46fb95c" class="wp-block-wd-image wd-block-image"><img class="wp-image-622" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/megamarket-promotion-image-1.jpg" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/products {"blockId":"b985d1d5-a761-4388-8724-01f325bd88e1","show_title":true,"post_type":"sale","columns":5,"spacing":"30","items_per_page":"10","products_bordered_grid":true,"marginBottom":"40","marginBottomTablet":"20"} -->
+<!-- wp:wd/title {"blockId":"4552cc5b-0e1c-401b-83c9-304b6afbdb62","content":"Special Offer from Megamarket","tpFontSize":"26","tpFontSizeTablet":"22"} -->
+<h2 id="wd-4552cc5b" class="wp-block-wd-title title">Special Offer from Megamarket</h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->]]></content:encoded>
+															<wp:post_id>619</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-11 07:24:16]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-11 07:24:16]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-09-27 12:17:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-09-27 12:17:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[lighting-discount-2]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[megamarket-promotion-image-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/lighting-discount-2/megamarket-promotion-image-1/</link>
+					<pubDate>Thu, 11 Jul 2024 07:25:10 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/megamarket-promotion-image-1.jpg</guid>
+															<wp:post_id>622</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-11 07:25:10]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-11 07:25:10]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-11 07:25:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-11 07:25:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[megamarket-promotion-image-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>619</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/megamarket-promotion-image-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/megamarket-promotion-image-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

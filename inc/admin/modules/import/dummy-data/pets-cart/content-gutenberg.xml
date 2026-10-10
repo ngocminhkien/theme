@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>pets-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg</link>
+	<description></description>
+	<pubDate>Mon, 04 Aug 2025 13:25:06 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/pets-gutenberg/wp-content/uploads/sites/55/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Cart - Pets]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/pets-gutenberg/woodmart_layout/cart-pets/</link>
+					<pubDate>Mon, 18 Aug 2025 13:22:02 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/pets-gutenberg/?post_type=woodmart_layout&#038;p=473</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"14f4608e-9391-4fb4-9d82-f67f31f3a43d","bgColorCode":"#f6ede4","paddingTop":"10","paddingBottom":"10","marginTop":"-40","marginBottom":"40","overlay":false,"overlayOpacity":null} -->
+<div id="wd-14f4608e" class="wp-block-wd-section"><!-- wp:wd/container {"blockId":"3469cf2b-45f8-4204-9c09-2712f7dea371"} -->
+<div id="wd-3469cf2b" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/woo-checkout-steps {"blockId":"2c3a2d14-833a-4807-bb1e-9620e3b79160"} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/woo-notices {"blockId":"6798c05c-4d43-46a6-9ad3-f5a592e6328a"} /-->
+
+<!-- wp:wd/row {"blockId":"f92e97fe-b7af-48ce-9647-edfb711aad70"} -->
+<div id="wd-f92e97fe" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"8cd705f9-3ae8-4a6a-8a64-622b422db07a","adjacentCount":2,"colWidth":66.666,"sticky":false,"adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-8cd705f9" class="wp-block-wd-column"><!-- wp:wd/woo-shipping-progress-bar {"blockId":"3b2076c1-8675-43d1-b8bb-69675db18fd5"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"791b9b85-f832-4064-ae13-67b471c76b60","hook":"woocommerce_before_cart"} /-->
+
+<!-- wp:wd/ct-table {"blockId":"1aaccbd2-a39c-467d-bc80-888a751d7add","bgColorCode":"#ffffff","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"25","borderRadiusTop":"25","borderRadiusRight":"25","borderRadiusBottom":"25","borderRadiusLeft":"25"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"cf37943d-edbc-4406-9dbd-789e87df8eb5","adjacentCount":2,"colWidth":33.33400000000002,"sticky":true,"stickyOffset":"82","bgColorCode":"#fefefe","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderRadius":"25","borderRadiusTop":"25","borderRadiusRight":"25","borderRadiusBottom":"25","borderRadiusLeft":"25","alignSelf":"start","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-cf37943d" class="wp-block-wd-column wd-sticky-on-lg wd_sticky_offset_82 wd-align-s-start"><!-- wp:wd/title {"blockId":"d1fef6ff-2f5b-456d-93ee-d22b28d441f7","content":"Cart totals","tpFontSize":"30","tpLineHeight":"1.2","tpFontSizeMobile":"22","tpLineHeightUnits":"em"} -->
+<h2 id="wd-d1fef6ff" class="wp-block-wd-title title">Cart totals</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/ct-totals {"blockId":"3a3adcd2-a0e7-4826-bd08-3601c61a1403","btnAlign":"stretch"} /-->
+
+<!-- wp:wd/woo-hook {"blockId":"886fcc8d-3b0f-4645-910f-994ae93ada77","hook":"woocommerce_after_cart"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/woo-hook {"blockId":"732873d5-59d1-46b6-b33d-946d9db40c58","hook":"woocommerce_cart_collaterals"} /-->
+
+<!-- wp:wd/products {"blockId":"73973e6a-4a7d-4372-b621-1e924cf6fb9b","show_title":true,"layout":"carousel","products_with_background":true,"marginTop":"80","marginBottom":"30","slides_per_view":"5","scroll_carousel_init":true,"hide_prev_next_buttons":true,"hide_pagination_control":true,"dynamic_pagination_control":true,"hide_scrollbar":false,"hide_scrollbarTablet":false,"hide_scrollbarMobile":false,"sync_parent_id":"wd_f2fc4c0f","productsBackgroundCode":"#ffffff","marginTopTablet":"30","marginBottomMobile":"0","slides_per_viewTablet":"3","hide_prev_next_buttonsTablet":true,"hide_prev_next_buttonsMobile":true,"hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} -->
+<!-- wp:wd/title {"blockId":"9bac4fa5-aa0d-42ca-966d-b36f1ebe6d69"} -->
+<h2 id="wd-9bac4fa5" class="wp-block-wd-title title"></h2>
+<!-- /wp:wd/title -->
+<!-- /wp:wd/products -->]]></content:encoded>
+															<wp:post_id>473</wp:post_id>
+					<wp:post_date><![CDATA[2025-08-18 13:22:02]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2025-08-18 13:22:02]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2025-09-29 11:22:10]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2025-09-29 11:22:10]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[cart-pets]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[woodmart_layout]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[wd_layout_conditions]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:20:"condition_comparison";s:7:"include";s:14:"condition_type";s:4:"cart";s:15:"condition_query";s:0:"";}}]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

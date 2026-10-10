@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Accessories gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg</link>
+	<description></description>
+	<pubDate>Tue, 09 Jul 2024 08:55:57 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/accessories-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/</wp:base_uploads_url>
+
+					<wp:term><wp:term_id>71</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu-about-us]]></wp:term_slug><wp:term_name><![CDATA[Menu About Us]]></wp:term_name>
+</wp:term>
+				<item>
+					<title><![CDATA[About Us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/</link>
+					<pubDate>Fri, 12 Jul 2024 11:21:08 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/accessories-gutenberg/?page_id=162</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/section {"blockId":"04c40f58-420b-4012-a960-469f46f901a0","bgColorCode":"#f9f9f9","paddingTop":"120","paddingBottom":"80","marginTop":"-40","marginBottom":"80","paddingTopTablet":"90","paddingTopMobile":"40","paddingBottomMobile":"40","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-04c40f58" class="wp-block-wd-section"><!-- wp:wd/row {"blockId":"31cb736a-f9f9-4b23-b8c8-8bfae4051f92","columnsGap":20,"columnsGapMobile":30} -->
+<div id="wd-31cb736a" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"59779be9-70aa-4230-be81-901c08b6d0c3","adjacentCount":3,"colWidth":50,"blocksGap":10,"justifyContent":"center","adjacentCountTablet":1,"colWidthTablet":100,"marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div id="wd-59779be9" class="wp-block-wd-column"><!-- wp:wd/paragraph {"blockId":"3a91d0ce-2183-44ae-a03b-a062338ebb1b","colorVariable":"\u002d\u002dwd-primary-color","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontVariant":"600","tpFontWeight":"600","tpFontSizeTablet":"14"} -->
+<p id="wd-3a91d0ce" class="wp-block-wd-paragraph">Some words about us</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"9dc217fa-8427-4f8e-bce7-169b86637b3f","content":"We Help Everyone Enjoy Amazing Products","tpFontSize":"56","tpLineHeight":"1.2","displayWidth":"custom","customWidth":"520","tpFontSizeTablet":"36","tpFontSizeMobile":"26","tpLineHeightUnits":"em","displayWidthTablet":"full-width"} -->
+<h2 id="wd-9dc217fa" class="wp-block-wd-title title wd-custom-width">We Help Everyone Enjoy Amazing Products</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"a2568d16-faaa-4525-b23d-10ef3a99d18e","displayWidth":"custom","customWidth":"520"} -->
+<p id="wd-a2568d16" class="wp-block-wd-paragraph wd-custom-width">If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"eae9d7e5-a6b1-471f-8fcf-6296451957ff","adjacentCount":3,"colWidth":25,"justifyContent":"flex-end","marginTop":"30","hideOnMobile":true,"adjacentCountTablet":2,"colWidthTablet":40,"alignItemsTablet":"flex-end","justifyContentTablet":"center"} -->
+<div id="wd-eae9d7e5" class="wp-block-wd-column wd-align-is-md-flex-end wd-hide-sm"><!-- wp:wd/gallery {"blockId":"bd182842-361a-48cd-a1d2-d4d1875789ae","columns":1,"columnsTablet":1} -->
+<div id="wd-bd182842" class="wp-block-wd-gallery wd-grid-g wd-caption-mask" style="--wd-col-lg:1;--wd-col-md:1;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm: 10px"><!-- wp:wd/gallery-item {"blockId":"7273bd02-4462-46fa-ac9c-a4bfe8de7d9b","image":{"id":483,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-1.jpg"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-1.jpg","width":398,"height":270}} -->
+<div id="wd-7273bd02" class="wp-block-wd-gallery-item wd-col"><div class="wd-block-image"><img class="wp-image-483" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-1.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"eee3d14e-6874-4b96-b410-6b6a447866a8","image":{"id":484,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-2.jpg"},"imageData":{"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-2.jpg","width":398,"height":420}} -->
+<div id="wd-eee3d14e" class="wp-block-wd-gallery-item wd-col"><div class="wd-block-image"><img class="wp-image-484" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-2.jpg" alt="" /></div></div>
+<!-- /wp:wd/gallery-item --></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"df5fa197-85a5-4f06-b259-5dabbed92ce8","adjacentCount":3,"colWidth":25.000000000000007,"adjacentCountTablet":2,"colWidthTablet":60} -->
+<div id="wd-df5fa197" class="wp-block-wd-column"><!-- wp:wd/container {"blockId":"f8bd0be2-fae5-495e-9392-2fafae1f3920","rowGap":"65","colorScheme":"light","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"20","paddingRight":"20","paddingBottom":"20","paddingLeft":"20","paddingLock":true,"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div id="wd-f8bd0be2" class="wp-block-wd-container wd-dir-col color-scheme-light"><!-- wp:wd/paragraph {"blockId":"a685e988-f8d0-4291-96ab-fa96d9b66696"} -->
+<p id="wd-a685e988" class="wp-block-wd-paragraph">Websites in professional use templating systems. Commercial publishing platforms and content management systems ensure that you can show.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/infobox {"blockId":"447c9ffe-b9eb-45ba-b780-4b228ea2d7e8","iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div id="wd-447c9ffe" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"c92d8b67-f57f-4dd2-8d18-d1644ae09b1f","image":{"id":287,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-avatar.png"},"width":"65","height":"65"} -->
+<div id="wd-c92d8b67" class="wp-block-wd-icon"><img class="wp-image-287" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-avatar.png" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"b61b8098-0cf7-4cee-8bfa-256bea216f00","metadata":{"name":"Infobox content"}} -->
+<div id="wd-b61b8098" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"c4154806-2462-465a-bde5-56363de0f4e2","content":"Brooklyn Simmons","tpFontSize":"18"} -->
+<h2 id="wd-c4154806" class="wp-block-wd-title title">Brooklyn Simmons</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"5c89c040-492b-498a-acc2-7687f0cb0542"} -->
+<p id="wd-5c89c040" class="wp-block-wd-paragraph">BARONE LLC</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/image {"blockId":"f772d80d-8f02-4630-80c0-433d9c422308","image":{"id":485,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-3.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-3.jpg","width":398,"height":270}} -->
+<div id="wd-f772d80d" class="wp-block-wd-image wd-block-image"><img class="wp-image-485" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-3.jpg" alt="" /></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/paragraph {"blockId":"50e9b006-2134-49c7-8855-84b8ba05aae6","textAlign":"center","colorVariable":"\u002d\u002dwd-primary-color","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontVariant":"600","tpFontWeight":"600","marginBottom":"10","alignSelf":"center","tpFontSizeTablet":"14"} -->
+<p id="wd-50e9b006" class="wp-block-wd-paragraph wd-align wd-align-s-center">Words about us​</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"e2750325-d57a-47b5-9952-da553fc7801f","textAlign":"center","content":"Our Team​","tpFontSize":"36","marginBottom":"10","alignSelf":"center","tpFontSizeTablet":"26"} -->
+<h2 id="wd-e2750325" class="wp-block-wd-title title wd-align wd-align-s-center">Our Team​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"39ef29d3-e996-418b-b01d-5d22f3ff5a34","textAlign":"center","marginBottom":"30"} -->
+<p id="wd-39ef29d3" class="wp-block-wd-paragraph wd-align">Convallis ullamcorper aliquet ultrices orci cum vestibulum lobortis erat​</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/row {"blockId":"6dc33628-ab51-4b4f-8017-699c218d5c61","columnsGap":20,"marginBottom":"80","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div id="wd-6dc33628" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"134381cc-646a-43bd-8925-217fdc2c7589","adjacentCount":4,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-134381cc" class="wp-block-wd-column"><!-- wp:wd/team-member {"blockId":"b7bacde6-e5c3-47b8-a023-d1771381cabc","alignment":"center","design":"1","paddingBottomTablet":"10"} -->
+<div id="wd-b7bacde6" class="wp-block-wd-team-member wd-align wd-design-1"><!-- wp:wd/image {"blockId":"2681377d-cab5-4d31-87f8-4b0db36fb6c4","image":{"id":506,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-1.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-1.jpg","width":400,"height":480},"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div id="wd-2681377d" class="wp-block-wd-image wd-block-image"><img class="wp-image-506" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-1.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"d558c2d8-31a4-49d7-8bb7-e3d5a0cf2b19"} -->
+<div id="wd-d558c2d8" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"b2260b4e-32f8-4b9f-9190-99a83e7e2a8f","content":"Jane Cooper","tpFontSize":"20"} -->
+<h2 id="wd-b2260b4e" class="wp-block-wd-title title">Jane Cooper</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"c806094b-6594-4287-9b60-489b92c13f7a"} -->
+<p id="wd-c806094b" class="wp-block-wd-paragraph">President of Sales</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/social-buttons {"blockId":"0d97a0f4-053d-4ae2-a03f-9416387c58e8","type":"follow","style":"colored","size":"small","social_links_source":"custom","fb_link":"","pinterest_link":"","youtube_link":"","linkedin_link":"#","tg_link":""} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/team-member --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"101140c5-d167-41b5-bb2b-87448197f3f1","adjacentCount":4,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-101140c5" class="wp-block-wd-column"><!-- wp:wd/team-member {"blockId":"f88e0dc3-8143-4dfc-ab21-923637a85de5","alignment":"center","design":"1","paddingBottomTablet":"10"} -->
+<div id="wd-f88e0dc3" class="wp-block-wd-team-member wd-align wd-design-1"><!-- wp:wd/image {"blockId":"242876dc-26b9-40d2-9dd0-27a85efaa17f","image":{"id":507,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-2.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-2.jpg","width":400,"height":480},"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div id="wd-242876dc" class="wp-block-wd-image wd-block-image"><img class="wp-image-507" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-2.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"e9be9809-8068-4cc4-b3d1-2db0c2c5bb04"} -->
+<div id="wd-e9be9809" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"c2198ff8-684a-4685-91bc-d0c42860f175","content":"Jacob Jones","tpFontSize":"20"} -->
+<h2 id="wd-c2198ff8" class="wp-block-wd-title title">Jacob Jones</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"52bc2571-1600-4bae-84e8-6b6b1ca96832"} -->
+<p id="wd-52bc2571" class="wp-block-wd-paragraph">Sales Analyst</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/social-buttons {"blockId":"d994ba8d-9861-418b-901f-ae3899fe30fc","type":"follow","style":"colored","size":"small","social_links_source":"custom","fb_link":"","pinterest_link":"","youtube_link":"","linkedin_link":"#","tg_link":""} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/team-member --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"3c224e80-213f-4fa7-8700-7f9a7ae0ced4","adjacentCount":4,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-3c224e80" class="wp-block-wd-column"><!-- wp:wd/team-member {"blockId":"f3dba665-8664-4277-bc7e-7ccc0be734f1","alignment":"center","design":"1","paddingBottomTablet":"10"} -->
+<div id="wd-f3dba665" class="wp-block-wd-team-member wd-align wd-design-1"><!-- wp:wd/image {"blockId":"eaeb8d2d-74bd-41e2-b217-9921b880af05","image":{"id":508,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-3.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-3.jpg","width":400,"height":480},"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div id="wd-eaeb8d2d" class="wp-block-wd-image wd-block-image"><img class="wp-image-508" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-3.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"6e50d135-2cf9-40b5-b417-a2738cb20441"} -->
+<div id="wd-6e50d135" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"ff7756e4-cf31-4204-ae69-17cb6477a5ec","content":"Kristin Watson","tpFontSize":"20"} -->
+<h2 id="wd-ff7756e4" class="wp-block-wd-title title">Kristin Watson</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"378a7f01-b0dd-487f-a572-56cdeafd9732"} -->
+<p id="wd-378a7f01" class="wp-block-wd-paragraph">Market Development</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/social-buttons {"blockId":"08fa5041-2d3b-4885-9dad-50d60f615d4c","type":"follow","style":"colored","size":"small","social_links_source":"custom","fb_link":"","pinterest_link":"","youtube_link":"","linkedin_link":"#","tg_link":""} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/team-member --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"70488e44-4784-4979-9b62-0c424edabfcc","adjacentCount":4,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-70488e44" class="wp-block-wd-column"><!-- wp:wd/team-member {"blockId":"dd7f6c70-7016-4c94-9383-d0cd5ec27bae","alignment":"center","design":"1","paddingBottomTablet":"10"} -->
+<div id="wd-dd7f6c70" class="wp-block-wd-team-member wd-align wd-design-1"><!-- wp:wd/image {"blockId":"f94c6ef1-6446-4983-af96-f9cacbbb2cc8","image":{"id":509,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-4.jpg"},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-4.jpg","width":400,"height":480},"borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10"} -->
+<div id="wd-f94c6ef1" class="wp-block-wd-image wd-block-image"><img class="wp-image-509" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-4.jpg" alt="" /></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/container {"blockId":"d3e0bd93-8fea-441d-8676-4a797f658c4e"} -->
+<div id="wd-d3e0bd93" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"32fdb328-2186-4433-b4bf-89ba9a8069c6","content":"Darlene Robertson","tpFontSize":"20"} -->
+<h2 id="wd-32fdb328" class="wp-block-wd-title title">Darlene Robertson</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"557299a9-9c15-4d2d-ab80-c263098308d9"} -->
+<p id="wd-557299a9" class="wp-block-wd-paragraph">Sales Analyst</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/social-buttons {"blockId":"5f66f87f-ab28-47aa-aee3-38afd81c3813","type":"follow","style":"colored","size":"small","social_links_source":"custom","fb_link":"","pinterest_link":"","youtube_link":"","linkedin_link":"#","tg_link":""} /--></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/team-member --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/section {"blockId":"a9553c8c-e876-4b0d-b48c-8273116e4aa5","blockGap":10,"bgImage":{"id":519,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-bg.jpg"},"bgPosition":"top center","bgRepeat":"no-repeat","bgDisplaySize":"contain","marginBottom":"110","bgPositionTablet":"custom","bgCustomPositionXTablet":"-2","bgDisplaySizeTablet":"custom","bgCustomDisplaySizeTablet":"0","marginBottomTablet":"30"} -->
+<div id="wd-a9553c8c" class="wp-block-wd-section"><!-- wp:wd/paragraph {"blockId":"838f7779-3db2-4004-8563-8789759084d8","textAlign":"center","colorVariable":"\u002d\u002dwd-primary-color","tpFontFamily":"var(\u002d\u002dwd-title-font)","tpFontVariant":"600","tpFontWeight":"600","tpFontSizeTablet":"14"} -->
+<p id="wd-838f7779" class="wp-block-wd-paragraph wd-align">Buyers trust us​</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/title {"blockId":"987d13b4-c8f4-4abd-8891-b050119fbe38","textAlign":"center","content":"Our Strategy Is To Provide Our Customers With Quality Products​","tpFontSize":"36","alignSelf":"center","displayWidth":"custom","customWidth":"600","tpFontSizeTablet":"26","displayWidthTablet":"custom","customWidthTablet":"404"} -->
+<h2 id="wd-987d13b4" class="wp-block-wd-title title wd-align wd-custom-width wd-align-s-center">Our Strategy Is To Provide Our Customers With Quality Products​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"0f1e9527-c913-46c5-bc25-4178aca5722d","textAlign":"center","marginBottom":"20","alignSelf":"center","displayWidth":"custom","customWidth":"740"} -->
+<p id="wd-0f1e9527" class="wp-block-wd-paragraph wd-align wd-custom-width wd-align-s-center">If the copy becomes distracting in the design then you are doing something wrong or they are discussing copy changes. It might be a bit annoying but you could tell them that that discussion would be best suited. You begin with a text, you sculpt information, you chisel away what’s not needed, you come.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"07506700-abfb-43ce-b321-77b882385f33","textAlign":"center","marginBottom":"52","alignSelf":"center","displayWidth":"custom","customWidth":"740"} -->
+<p id="wd-07506700" class="wp-block-wd-paragraph wd-align wd-custom-width wd-align-s-center">Then the question arises: where’s the content? Not there yet? That’s not so bad, there’s dummy copy to the rescue. But worse, what if the fish doesn’t fit in the can, the foot’s to big for the boot? Or to small? To short sentences, to many headings, images too large for the proposed design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can’t quite tell right now, but they’re unhappy, somehow. A client that’s unhappy for a reason is a problem, a client that’s unhappy though.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/container {"blockId":"8fab5ae0-f019-4f3a-babb-d9e7e959dadb"} -->
+<div id="wd-8fab5ae0" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/carousel {"blockId":"5c0690a1-13c6-44b5-ae94-6b91c1516d3f","currentSlide":2,"paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"syncParentId":"wd_5c0690a1","alignSelf":"center","displayWidth":"","customWidth":"","marginBottomTablet":"20","marginBottomMobile":"10"} -->
+<div id="wd-5c0690a1" class="wp-block-wd-carousel wd-carousel-container wd-align-s-center"><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:3;--wd-col-md:3;--wd-col-sm:1;--wd-gap-lg:20px;--wd-gap-sm:10px" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/carousel-item {"blockId":"e6271727-f636-4816-ac02-630f8ecf7dff"} -->
+<div id="wd-e6271727" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/infobox {"blockId":"826b530a-c00b-40a5-acf3-aaf6b2c0401d","align":"center"} -->
+<div id="wd-826b530a" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"1f244198-3c3b-4ff3-8f12-06d78cede473","image":{"id":357,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-1.svg"},"width":"60"} -->
+<div id="wd-1f244198" class="wp-block-wd-icon"><img class="wp-image-357" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-1.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"682b8a65-cf0e-4fdd-a7b8-594098e0f646","displayWidth":"custom","customWidth":"369","displayWidthMobile":"full-width","metadata":{"name":"Infobox content"}} -->
+<div id="wd-682b8a65" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"7320b2b1-4ac8-46ef-8ec2-1fff2adfed74","content":"Fast Delivery","tpFontSize":"24","tpFontSizeTablet":"20"} -->
+<h2 id="wd-7320b2b1" class="wp-block-wd-title title">Fast Delivery</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"7c1e7c4e-060f-4259-8781-516933fa38e4"} -->
+<p id="wd-7c1e7c4e" class="wp-block-wd-paragraph">Chances are there wasn’t collaboration and checkpoints, there wasn’t a process.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"8accd70b-5452-4e03-b945-a8c6293cc046"} -->
+<div id="wd-8accd70b" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/infobox {"blockId":"1646bbb2-7f92-4280-bbd0-a8b3ce000f8d","align":"center"} -->
+<div id="wd-1646bbb2" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"4dcd507b-eac7-4ab2-ba7f-ad65b5a91542","image":{"id":358,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-2.svg"},"width":"60"} -->
+<div id="wd-4dcd507b" class="wp-block-wd-icon"><img class="wp-image-358" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-2.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"893b7ee1-edd2-4eb9-b1af-06ffa50d6cc0","displayWidth":"custom","customWidth":"369","displayWidthMobile":"full-width","metadata":{"name":"Infobox content"}} -->
+<div id="wd-893b7ee1" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"2f538624-c9c4-45d7-ab94-d481f3e03d0b","content":"Best Quality","tpFontSize":"24","tpFontSizeTablet":"20"} -->
+<h2 id="wd-2f538624" class="wp-block-wd-title title">Best Quality</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"77a7e96c-7553-4174-a91a-27728530b524"} -->
+<p id="wd-77a7e96c" class="wp-block-wd-paragraph">It’s content strategy gone awry right from the start. Forswearing the use of Lorem Ipsum.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item -->
+
+<!-- wp:wd/carousel-item {"blockId":"7c28835f-d643-4b0e-9184-aab554ba60d1"} -->
+<div id="wd-7c28835f" class="wp-block-wd-carousel-item wd-carousel-item"><!-- wp:wd/infobox {"blockId":"2ce1928a-0c7f-4ea8-ba96-b8fb615c41a7","align":"center"} -->
+<div id="wd-2ce1928a" class="wp-block-wd-infobox wd-hover-parent wd-align wd-icon-top"><!-- wp:wd/icon {"blockId":"efc80550-21b9-4e9f-9591-7588393d9777","image":{"id":359,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-3.svg"},"width":"60"} -->
+<div id="wd-efc80550" class="wp-block-wd-icon"><img class="wp-image-359" src="http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-3.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"2be92a0e-e83a-4f68-9197-0362ce47a9aa","displayWidth":"custom","customWidth":"369","displayWidthMobile":"full-width","metadata":{"name":"Infobox content"}} -->
+<div id="wd-2be92a0e" class="wp-block-wd-container wd-dir-col wd-custom-width"><!-- wp:wd/title {"blockId":"7929be61-3b56-459b-96ee-6b50ff476707","content":"Free Return","tpFontSize":"24","tpFontSizeTablet":"20"} -->
+<h2 id="wd-7929be61" class="wp-block-wd-title title">Free Return</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"5b06fd88-000a-4039-b12a-ea0bfa8bf094"} -->
+<p id="wd-5b06fd88" class="wp-block-wd-paragraph">True enough, but that’s not all that it takes to get things back on track out there for a text.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/carousel-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/carousel --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/row {"blockId":"0022e6a9-55a9-4702-ac65-f757af3b9282","columnsGap":0,"bgColorVariable":"\u002d\u002dwd-primary-color","marginBottom":"30","borderRadius":"10","borderRadiusTop":"10","borderRadiusRight":"10","borderRadiusBottom":"10","borderRadiusLeft":"10","overflowY":"hidden","marginBottomMobile":"0"} -->
+<div id="wd-0022e6a9" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"484d0c68-6680-4497-9412-2f30d47e09ea","adjacentCount":2,"colWidth":67,"blocksGap":10,"colorScheme":"light","paddingTop":"60","paddingRight":"60","paddingBottom":"60","paddingLeft":"60","paddingLock":true,"adjacentCountTablet":2,"colWidthTablet":60,"paddingTopTablet":"40","paddingRightTablet":"40","paddingBottomTablet":"40","paddingLeftTablet":"40"} -->
+<div id="wd-484d0c68" class="wp-block-wd-column color-scheme-light"><!-- wp:wd/title {"blockId":"955925f2-200f-4f95-b747-a269e5ac4f7f","content":"Join Our Community​","tpFontSize":"36","tpFontSizeTablet":"26"} -->
+<h2 id="wd-955925f2" class="wp-block-wd-title title">Join Our Community​</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"e53e07c5-f862-4c94-b69f-c2d3acb31cfe","displayWidth":"custom","customWidth":"600"} -->
+<p id="wd-e53e07c5" class="wp-block-wd-paragraph wd-custom-width">Chances are there wasn’t collaboration, communication, and checkpoints, there wasn’t a process agreed upon or specified with the granularity required. It’s content strategy gone awry right from the start. Forswearing the use of Lorem Ipsum wouldn’t have helped won’t help now it’s like saying you’re a bad designer.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/menu {"blockId":"68e5b6c2-0d39-4744-9a78-2cf2ca65de9a","nav_menu":"71","style":"separated","marginTop":"10"} /-->
+
+<!-- wp:wd/button {"blockId":"d8611cc3-cbcd-4e5e-9c9c-8b82dc96d18a","shape":"semi-round"} -->
+<a id="wd-d8611cc3" class="wp-block-wd-button btn btn-style-default btn-size-default btn-shape-semi-round" href="#"><span>submit now</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c2dbb06c-9356-4bd1-84f6-e35211e318eb","adjacentCount":2,"colWidth":33,"bgImage":{"id":526,"url":"http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-community.jpg"},"bgRepeat":"no-repeat","bgDisplaySize":"cover","hideOnMobile":true,"adjacentCountTablet":2,"colWidthTablet":40} -->
+<div id="wd-c2dbb06c" class="wp-block-wd-column wd-hide-sm"></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>162</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-12 11:21:08]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-12 11:21:08]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-11-19 09:33:04]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-11-19 09:33:04]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-img-avatar]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/?attachment_id=287</link>
+					<pubDate>Fri, 12 Jul 2024 12:45:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-avatar.png</guid>
+															<wp:post_id>287</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-12 12:45:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-12 12:45:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-12 12:45:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-12 12:45:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-img-avatar]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>160</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-avatar.png]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-img-avatar.png]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[accessories-infobox-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/home-accessories/accessories-infobox-1/</link>
+					<pubDate>Mon, 15 Jul 2024 06:57:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-1.svg</guid>
+															<wp:post_id>357</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 06:57:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 06:57:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 06:57:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 06:57:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[accessories-infobox-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/accessories-infobox-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[accessories-infobox-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/home-accessories/accessories-infobox-2/</link>
+					<pubDate>Mon, 15 Jul 2024 06:57:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-2.svg</guid>
+															<wp:post_id>358</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 06:57:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 06:57:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 06:57:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 06:57:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[accessories-infobox-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-2.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/accessories-infobox-2.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[accessories-infobox-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/home-accessories/accessories-infobox-3/</link>
+					<pubDate>Mon, 15 Jul 2024 06:57:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-3.svg</guid>
+															<wp:post_id>359</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 06:57:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 06:57:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 06:57:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 06:57:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[accessories-infobox-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-3.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/accessories-infobox-3.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-img-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-img-1/</link>
+					<pubDate>Mon, 15 Jul 2024 09:50:45 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-1.jpg</guid>
+															<wp:post_id>483</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 09:50:45]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 09:50:45]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 09:50:45]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 09:50:45]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-img-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-img-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-img-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-img-2/</link>
+					<pubDate>Mon, 15 Jul 2024 09:50:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-2.jpg</guid>
+															<wp:post_id>484</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 09:50:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 09:50:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 09:50:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 09:50:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-img-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-img-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-img-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-img-3/</link>
+					<pubDate>Mon, 15 Jul 2024 09:51:13 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-3.jpg</guid>
+															<wp:post_id>485</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 09:51:13]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 09:51:13]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 09:51:13]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 09:51:13]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-img-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-img-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-img-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-team-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-team-1/</link>
+					<pubDate>Mon, 15 Jul 2024 11:04:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-1.jpg</guid>
+															<wp:post_id>506</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 11:04:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 11:04:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 11:04:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 11:04:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-team-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-team-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-team-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-team-2/</link>
+					<pubDate>Mon, 15 Jul 2024 11:04:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-2.jpg</guid>
+															<wp:post_id>507</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 11:04:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 11:04:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 11:04:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 11:04:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-team-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-team-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-team-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-team-3/</link>
+					<pubDate>Mon, 15 Jul 2024 11:04:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-3.jpg</guid>
+															<wp:post_id>508</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 11:04:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 11:04:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 11:04:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 11:04:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-team-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-team-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-team-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-team-4/</link>
+					<pubDate>Mon, 15 Jul 2024 11:04:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-4.jpg</guid>
+															<wp:post_id>509</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 11:04:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 11:04:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 11:04:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 11:04:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-team-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-team-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-bg]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-bg/</link>
+					<pubDate>Mon, 15 Jul 2024 11:21:17 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-bg.jpg</guid>
+															<wp:post_id>519</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 11:21:17]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 11:21:17]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 11:21:17]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 11:21:17]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-bg]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-bg.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-bg.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-community]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-community/</link>
+					<pubDate>Mon, 15 Jul 2024 11:26:37 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-community.jpg</guid>
+															<wp:post_id>526</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 11:26:37]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 11:26:37]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 11:26:37]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 11:26:37]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-community]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-community.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-community.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Web Designer]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/2024/07/12/web-designer/</link>
+					<pubDate>Fri, 12 Jul 2024 12:09:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/accessories-gutenberg/?p=227</guid>
+															<wp:post_id>227</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-12 12:09:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-12 12:09:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-12 12:09:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-12 12:09:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[web-designer]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>1</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="menu-about-us"><![CDATA[Menu About Us]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[227]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Administrator]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/2024/07/12/administrator/</link>
+					<pubDate>Fri, 12 Jul 2024 12:09:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/accessories-gutenberg/?p=228</guid>
+															<wp:post_id>228</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-12 12:09:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-12 12:09:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-12 12:09:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-12 12:09:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[administrator]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>2</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="menu-about-us"><![CDATA[Menu About Us]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[228]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Store Manager]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/2024/07/12/store-manager/</link>
+					<pubDate>Fri, 12 Jul 2024 12:09:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/accessories-gutenberg/?p=229</guid>
+															<wp:post_id>229</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-12 12:09:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-12 12:09:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-12 12:09:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-12 12:09:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[store-manager]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>3</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="menu-about-us"><![CDATA[Menu About Us]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[229]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[CEO]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/2024/07/12/ceo/</link>
+					<pubDate>Fri, 12 Jul 2024 12:09:46 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/accessories-gutenberg/?p=230</guid>
+															<wp:post_id>230</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-12 12:09:46]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-12 12:09:46]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-12 12:09:46]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-12 12:09:46]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[ceo]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>4</wp:menu_order>
+					<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+												<category domain="nav_menu" nicename="menu-about-us"><![CDATA[Menu About Us]]></category>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+							<wp:meta_value><![CDATA[230]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+							<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+							<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_design]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_padding]]></wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_image-type]]></wp:meta_key>
+							<wp:meta_value><![CDATA[image]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_style_aside]]></wp:meta_key>
+							<wp:meta_value><![CDATA[default]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_menu_item_scroll]]></wp:meta_key>
+							<wp:meta_value><![CDATA[no]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[accessories-infobox-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/home-accessories/accessories-infobox-1/</link>
+					<pubDate>Mon, 15 Jul 2024 06:57:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-1.svg</guid>
+															<wp:post_id>357</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 06:57:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 06:57:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 06:57:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 06:57:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[accessories-infobox-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-1.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/accessories-infobox-1.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[accessories-infobox-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/home-accessories/accessories-infobox-2/</link>
+					<pubDate>Mon, 15 Jul 2024 06:57:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-2.svg</guid>
+															<wp:post_id>358</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 06:57:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 06:57:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 06:57:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 06:57:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[accessories-infobox-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-2.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/accessories-infobox-2.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[accessories-infobox-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/home-accessories/accessories-infobox-3/</link>
+					<pubDate>Mon, 15 Jul 2024 06:57:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-3.svg</guid>
+															<wp:post_id>359</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 06:57:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 06:57:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 06:57:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 06:57:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[accessories-infobox-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>171</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/accessories-infobox-3.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/accessories-infobox-3.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-team-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-team-3/</link>
+					<pubDate>Mon, 15 Jul 2024 11:04:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-3.jpg</guid>
+															<wp:post_id>508</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 11:04:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 11:04:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 11:04:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 11:04:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-team-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-team-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[acs-ab-us-team-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/accessories-gutenberg/about-us/acs-ab-us-team-4/</link>
+					<pubDate>Mon, 15 Jul 2024 11:04:44 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-4.jpg</guid>
+															<wp:post_id>509</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-15 11:04:44]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-15 11:04:44]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-15 11:04:44]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-15 11:04:44]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[acs-ab-us-team-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>162</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/accessories-gutenberg/wp-content/uploads/sites/26/2024/07/acs-ab-us-team-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/acs-ab-us-team-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Megamarket gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</link>
+	<description>Just another WoodMart Dummy 2.0 Sites site</description>
+	<pubDate>Tue, 09 Jul 2024 08:31:10 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[Contact form 1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/?post_type=wpcf7_contact_form&#038;p=16</link>
+					<pubDate>Tue, 09 Jul 2024 08:50:25 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/?post_type=wpcf7_contact_form&#038;p=16</guid>
+											<content:encoded><![CDATA[<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]
+[_site_title] "[your-subject]"
+[_site_title] 
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+[_site_admin_email]
+Reply-To: [your-email]
+
+0
+0
+
+[_site_title] "[your-subject]"
+[_site_title] 
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+[your-email]
+Reply-To: [_site_admin_email]
+
+0
+0
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.]]></content:encoded>
+															<wp:post_id>16</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 08:50:25]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 08:50:25]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-09 08:50:25]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-09 08:50:25]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+							<wp:meta_value><![CDATA[<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:42:"[_site_title] <wordpress@dummy.xtemos.com>";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+							<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+							<wp:meta_value><![CDATA[83efcbd25d7cd9a9e5ca54292a4306f9a74ac45d]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[Track Order]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/track-order/</link>
+					<pubDate>Tue, 09 Jul 2024 09:03:03 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/?page_id=37</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/container {"blockId":"55b5dea8-92e6-4f33-8171-ebe486a6b0c2","textAlign":"center","marginTop":"40","marginBottom":"80","displayWidth":"custom","customWidth":"920","marginTopTablet":"0","marginBottomTablet":"60"} -->
+<div id="wd-55b5dea8" class="wp-block-wd-container wd-dir-col wd-align wd-custom-width"><!-- wp:wd/title {"blockId":"7edb58ad-27f8-4396-ad97-ba430534a07b","content":"Order Tracking","tpFontSize":"36","tpFontVariant":"800","tpFontWeight":"800","colorVariable":"\u002d\u002dwd-primary-color","tpFontSizeTablet":"28","tpFontSizeMobile":"24","marginTopTablet":"-20"} -->
+<h2 id="wd-7edb58ad" class="wp-block-wd-title title">Order Tracking</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:shortcode -->
+[woocommerce_order_tracking]
+<!-- /wp:shortcode --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/row {"blockId":"6f0690e9-dfe7-42cc-9459-1877aab4d73d","columnsGap":20,"marginBottom":"40","marginBottomTablet":"20","marginBottomMobile":"0"} -->
+<div id="wd-6f0690e9" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"d26bf47a-11c2-451f-859f-f52f6523cdcf","adjacentCount":3,"blocksGap":30,"paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-d26bf47a" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"ba42cc4c-861d-436f-876d-fa3bd0af049e","content":"Ship package","tpFontSize":"26","tpFontSizeTablet":"22"} -->
+<h2 id="wd-ba42cc4c" class="wp-block-wd-title title">Ship package</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/infobox {"blockId":"d0ad0e51-b7e6-4708-99da-2680ca611856","iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div id="wd-d0ad0e51" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"d3ce7d55-c64f-4d6f-9825-2a47b3a5c4da","image":{"id":378,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/ready-design.svg"},"width":"64"} -->
+<div id="wd-d3ce7d55" class="wp-block-wd-icon"><img class="wp-image-378" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/ready-design.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"74740de8-5868-43f7-a502-90d8be567977","metadata":{"name":"Infobox content"}} -->
+<div id="wd-74740de8" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"2262d0b1-3b29-4bd6-bb68-10d11cf3fe49","content":"14 Days Return Period","tpFontSize":"18"} -->
+<h2 id="wd-2262d0b1" class="wp-block-wd-title title">14 Days Return Period</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"2b40feb5-2eef-4578-9dcf-69775b29fa69"} -->
+<p id="wd-2b40feb5" class="wp-block-wd-paragraph">Etiam proin phasellus a hac sociis condimentum adipiscing tempor</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"28784d10-5e77-4c01-b26f-5f65c1a8faa0","iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div id="wd-28784d10" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"c1d4c134-3c0c-4294-99f4-22eb4aeca30a","image":{"id":375,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/delivery.svg"},"width":"64"} -->
+<div id="wd-c1d4c134" class="wp-block-wd-icon"><img class="wp-image-375" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/delivery.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"ad88c777-e1ac-4fce-a8b7-7aeb0d6f46c1","metadata":{"name":"Infobox content"}} -->
+<div id="wd-ad88c777" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"63ae2f26-2c39-4744-b685-2e5d370aebd9","content":"Flexible Shipping","tpFontSize":"18"} -->
+<h2 id="wd-63ae2f26" class="wp-block-wd-title title">Flexible Shipping</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"79b6f098-b4a1-41dc-bb11-96031dc38cf9"} -->
+<p id="wd-79b6f098" class="wp-block-wd-paragraph">Etiam proin phasellus a hac sociis condimentum adipiscing tempor</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"853c407a-f2ad-4613-9afd-1d7ec7d0972d","iconPositionHorizontal":"start","iconPositionVertical":"center"} -->
+<div id="wd-853c407a" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"5ae89063-a1e2-44a3-aebc-20a30f80e46b","image":{"id":377,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment.svg"},"width":"64"} -->
+<div id="wd-5ae89063" class="wp-block-wd-icon"><img class="wp-image-377" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"d3a7dad1-c8d9-4818-a7bb-2b60dd0ca44a","metadata":{"name":"Infobox content"}} -->
+<div id="wd-d3a7dad1" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/title {"blockId":"10700f57-f9eb-4fbd-aa91-c02e6724adf1","content":"Payment Methods","tpFontSize":"18"} -->
+<h2 id="wd-10700f57" class="wp-block-wd-title title">Payment Methods</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"fffc9d11-a464-4d53-afff-5e237663ce65"} -->
+<p id="wd-fffc9d11" class="wp-block-wd-paragraph">Etiam proin phasellus a hac sociis condimentum adipiscing tempor</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"eca995e6-4934-4b91-befb-4f211dc3c32e","adjacentCount":3,"colorScheme":"light","bgImage":{"id":666,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment-and-delivery.jpg"},"bgPosition":"center center","bgRepeat":"no-repeat","bgDisplaySize":"cover","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"overlayColorCode":"#000000","overlay":true,"overlayOpacity":0.2,"adjacentCountTablet":2,"colWidthTablet":50} -->
+<div id="wd-eca995e6" class="wp-block-wd-column color-scheme-light wd-bg-parent"><div class="wd-bg-overlay"></div><!-- wp:wd/title {"blockId":"8dd3db22-e162-496a-9076-748a09270400","content":"We Send and Track Your Order Quickly, Accuratelya","tpFontSize":"26","tpFontSizeTablet":"22"} -->
+<h2 id="wd-8dd3db22" class="wp-block-wd-title title">We Send and Track Your Order Quickly, Accuratelya</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"63b49f54-e65a-4ecb-a48e-d5ceec08fe59"} -->
+<p id="wd-63b49f54" class="wp-block-wd-paragraph">It’s content strategy gone awry right from the start. Forswearing the use of Lorem Ipsum wouldn’t have helped.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/button {"blockId":"f9cfc937-d2f7-4df6-95dc-abe1b1041537","predefinedColor":"primary"} -->
+<a id="wd-f9cfc937" class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-rectangle" href="#"><span>View more</span></a>
+<!-- /wp:wd/button --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"c266dd8e-8269-4444-8933-36673ef222dd","adjacentCount":3,"paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true,"borderType":"solid","borderColorCode":"rgba(0,0,0,0.11)","borderWidth":"1","borderWidthTop":"1","borderWidthRight":"1","borderWidthBottom":"1","borderWidthLeft":"1","adjacentCountTablet":1,"colWidthTablet":100} -->
+<div id="wd-c266dd8e" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"3efba1c1-6066-4c5b-9e58-7239db1f09ae","content":"Get answers to all your questions you might have","tpFontSize":"26","tpFontSizeTablet":"22"} -->
+<h2 id="wd-3efba1c1" class="wp-block-wd-title title">Get answers to all your questions you might have</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/paragraph {"blockId":"21e71933-a0da-41c2-a689-003b4e0ecc1f"} -->
+<p id="wd-21e71933" class="wp-block-wd-paragraph">We will answer any questions you may have about our online sales right here. Monday to Friday from 09:00 to 21:00 UTC +2</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/popup {"blockId":"be4390e4-ffcd-41db-b9be-bad38ce150a9"} -->
+<div id="wd-be4390e4" class="wp-block-wd-popup"><!-- wp:wd/button {"blockId":"a1f13f42-03fd-484c-ae8c-dfebd9266cba","predefinedColor":"primary"} -->
+<a id="wd-a1f13f42" class="wp-block-wd-button btn btn-style-default btn-color-primary btn-size-default btn-shape-rectangle"><span>Contact our company</span></a>
+<!-- /wp:wd/button -->
+
+<!-- wp:wd/popup-content {"blockId":"6ab4cefc-9fc2-41f4-9395-a827cfaf6f10","width":"900","paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","paddingLock":true} -->
+<div id="wd-6ab4cefc" class="wp-block-wd-popup-content wd-popup wd-popup-element mfp-hide"><div class="wd-popup-inner"><!-- wp:wd/row {"blockId":"5dd6df80-fbb5-4d76-8387-7a4cb04cc25e","columnsGap":0,"columnsGapMobile":0} -->
+<div id="wd-5dd6df80" class="wp-block-wd-row"><!-- wp:wd/column {"blockId":"85ef227a-81ec-4d75-bc60-96c1af0f5786","adjacentCount":2,"colWidth":67,"blocksGap":30,"paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div id="wd-85ef227a" class="wp-block-wd-column"><!-- wp:wd/title {"blockId":"2d97e8f8-e7d3-46f6-9f21-37bd87a26f19","content":"SEND US A MESSAGE","tpFontSize":"18","tpFontSizeMobile":"20"} -->
+<h2 id="wd-2d97e8f8" class="wp-block-wd-title title">SEND US A MESSAGE</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/contact-form-7 {"blockId":"dc5babca-5cb4-49f9-9fe6-fd384e000495","form_id":"16"} /--></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"59fe1ff8-eb9a-4a4c-9a84-610a97634f32","adjacentCount":2,"colWidth":33,"blocksGap":30,"colorScheme":"light","bgColorVariable":"\u002d\u002dwd-primary-color","paddingTop":"30","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","paddingLock":true} -->
+<div id="wd-59fe1ff8" class="wp-block-wd-column color-scheme-light"><!-- wp:wd/title {"blockId":"3ffc0058-d8ef-49de-8349-76d95fcb27f6","content":"CONTACT INFORMATION","tpFontSize":"18","marginBottom":"10","tpFontSizeMobile":"20"} -->
+<h2 id="wd-3ffc0058" class="wp-block-wd-title title">CONTACT INFORMATION</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/infobox {"blockId":"9f4b0ce2-ad85-4bd8-93e9-6bd83225cb5e","iconPositionHorizontal":"start","marginBottom":"10"} -->
+<div id="wd-9f4b0ce2" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"0005316b-41d9-4ff9-908c-cfcb5ceecd22","image":{"id":1339,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-pointer-light.svg"},"width":"30","height":"30"} -->
+<div id="wd-0005316b" class="wp-block-wd-icon"><img class="wp-image-1339" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-pointer-light.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"5c729d56-36a0-486f-b41f-530b477cb0ab","rowGap":"","metadata":{"name":"Infobox content"}} -->
+<div id="wd-5c729d56" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/paragraph {"blockId":"b9309848-8324-425b-8ced-60287a78a51e"} -->
+<p id="wd-b9309848" class="wp-block-wd-paragraph">50 East 52nd Street<br>Brooklyn, NY 10022<br>United States</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"7950a2dd-76fa-49d8-9bf0-7bb96f92fd8d","iconPositionHorizontal":"start","marginBottom":"10"} -->
+<div id="wd-7950a2dd" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"e3187bc8-7bab-4346-a871-ef051caf2f0b","image":{"id":1337,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-mobile-light.svg"},"width":"30","height":"30"} -->
+<div id="wd-e3187bc8" class="wp-block-wd-icon"><img class="wp-image-1337" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-mobile-light.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"772a9e6b-e89d-4be0-b738-d0c58e9695ba","rowGap":"","metadata":{"name":"Infobox content"}} -->
+<div id="wd-772a9e6b" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/paragraph {"blockId":"aa918205-d689-4f69-813e-a316aee32f97"} -->
+<p id="wd-aa918205" class="wp-block-wd-paragraph">+1322224332<br>+154623278</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/infobox {"blockId":"b549d62f-cac7-470a-b087-c1a1543d4bd9","iconPositionHorizontal":"start","marginBottom":"10"} -->
+<div id="wd-b549d62f" class="wp-block-wd-infobox wd-hover-parent wd-icon-start"><!-- wp:wd/icon {"blockId":"d444826c-9aeb-4103-947a-e373da04895b","image":{"id":1338,"url":"http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-paper-plane-light.svg"},"width":"30","height":"30"} -->
+<div id="wd-d444826c" class="wp-block-wd-icon"><img class="wp-image-1338" src="http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-paper-plane-light.svg" alt="" /></div>
+<!-- /wp:wd/icon -->
+
+<!-- wp:wd/container {"blockId":"2290b57b-e8b4-4bc8-8dee-d15115bd8c4c","rowGap":"","metadata":{"name":"Infobox content"}} -->
+<div id="wd-2290b57b" class="wp-block-wd-container wd-dir-col"><!-- wp:wd/paragraph {"blockId":"1ebee10a-420c-453c-926e-25ebc7b298b7"} -->
+<p id="wd-1ebee10a" class="wp-block-wd-paragraph">info@google.com<br>support@google.com</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container --></div>
+<!-- /wp:wd/infobox -->
+
+<!-- wp:wd/divider {"blockId":"3897da20-3261-40ea-b7ac-ec5bbc2a30b6","marginBottom":"10"} -->
+<div id="wd-3897da20" class="wp-block-wd-divider wd-style-line"></div>
+<!-- /wp:wd/divider -->
+
+<!-- wp:wd/paragraph {"blockId":"3bfd80bc-7dd5-4ede-9abd-243913dd26c0"} -->
+<p id="wd-3bfd80bc" class="wp-block-wd-paragraph">Do you have questions about how we can help your company? Send us an email and we’ll get in touch shortly.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/social-buttons {"blockId":"03a0c39d-b331-4f50-a45d-c0af3cbab125","style":"colored","size":"small"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row --></div></div>
+<!-- /wp:wd/popup-content --></div>
+<!-- /wp:wd/popup -->
+
+<!-- wp:wd/social-buttons {"blockId":"75450126-e915-4535-abfd-100e774e2f73","style":"colored","size":"small"} /--></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->]]></content:encoded>
+															<wp:post_id>37</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 09:03:03]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 09:03:03]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-11-18 13:33:03]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-11-18 13:33:03]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[track-order]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_whb_header]]></wp:meta_key>
+							<wp:meta_value><![CDATA[none]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_off]]></wp:meta_key>
+							<wp:meta_value><![CDATA[on]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_page-title-size]]></wp:meta_key>
+							<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_title_image]]></wp:meta_key>
+							<wp:meta_value><![CDATA[a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}]]></wp:meta_value>
+						</wp:postmeta>
+											<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/delivery/</link>
+					<pubDate>Tue, 09 Jul 2024 14:00:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/delivery.svg</guid>
+															<wp:post_id>375</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 14:00:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 14:00:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-09 14:00:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-09 14:00:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[delivery]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/delivery.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/delivery.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[payment]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/payment/</link>
+					<pubDate>Tue, 09 Jul 2024 14:00:06 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment.svg</guid>
+															<wp:post_id>377</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 14:00:06]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 14:00:06]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-09 14:00:06]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-09 14:00:06]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/payment.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[ready-design]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/ready-design/</link>
+					<pubDate>Tue, 09 Jul 2024 14:00:22 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/ready-design.svg</guid>
+															<wp:post_id>378</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-09 14:00:22]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-09 14:00:22]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-09 14:00:22]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-09 14:00:22]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[ready-design]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/ready-design.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/ready-design.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[payment-and-delivery]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/payment-and-delivery/payment-and-delivery-2/</link>
+					<pubDate>Thu, 11 Jul 2024 07:51:26 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment-and-delivery.jpg</guid>
+															<wp:post_id>666</wp:post_id>
+					<wp:post_date><![CDATA[2024-07-11 07:51:26]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-07-11 07:51:26]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-07-11 07:51:26]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-07-11 07:51:26]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[payment-and-delivery-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>43</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/07/payment-and-delivery.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/07/payment-and-delivery.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-mobile-light]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/track-order/wd-mobile-light/</link>
+					<pubDate>Mon, 18 Nov 2024 13:32:42 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-mobile-light.svg</guid>
+															<wp:post_id>1337</wp:post_id>
+					<wp:post_date><![CDATA[2024-11-18 13:32:42]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-11-18 13:32:42]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-11-18 13:32:42]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-11-18 13:32:42]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-mobile-light]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>37</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-mobile-light.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/11/wd-mobile-light.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-paper-plane-light]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/track-order/wd-paper-plane-light/</link>
+					<pubDate>Mon, 18 Nov 2024 13:32:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-paper-plane-light.svg</guid>
+															<wp:post_id>1338</wp:post_id>
+					<wp:post_date><![CDATA[2024-11-18 13:32:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-11-18 13:32:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-11-18 13:32:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-11-18 13:32:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-paper-plane-light]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>37</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-paper-plane-light.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/11/wd-paper-plane-light.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[wd-pointer-light]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/track-order/wd-pointer-light/</link>
+					<pubDate>Mon, 18 Nov 2024 13:32:43 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-pointer-light.svg</guid>
+															<wp:post_id>1339</wp:post_id>
+					<wp:post_date><![CDATA[2024-11-18 13:32:43]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2024-11-18 13:32:43]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2024-11-18 13:32:43]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2024-11-18 13:32:43]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[wd-pointer-light]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>37</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/megamarket-gutenberg/wp-content/uploads/sites/25/2024/11/wd-pointer-light.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2024/11/wd-pointer-light.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	

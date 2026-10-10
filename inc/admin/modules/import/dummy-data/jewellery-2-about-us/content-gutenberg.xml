@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>jewellery-2-gutenberg</title>
+	<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg</link>
+	<description></description>
+	<pubDate>Wed, 29 Apr 2026 11:46:50 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://dummy.xtemos.com/woodmart2/</wp:base_site_url>
+	<wp:base_blog_url>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg</wp:base_blog_url>
+	<wp:base_uploads_url>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/</wp:base_uploads_url>
+
+								<item>
+					<title><![CDATA[About us]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/about-us/</link>
+					<pubDate>Mon, 11 May 2026 11:03:53 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/?page_id=87</guid>
+											<content:encoded><![CDATA[<!-- wp:wd/row {"blockId":"450f2c5e-d0ed-444e-8511-ddbbe21eddfb","blockVersion":"2","columnsGap":60,"marginTop":"20","marginBottom":"60","columnsGapTablet":30,"marginTopTablet":"0","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-row wd-450f2c5e"><!-- wp:wd/column {"blockId":"92a75df0-5989-485d-94e8-21afffa6873e","blockVersion":"2","adjacentCount":2,"blocksGap":30} -->
+<div class="wp-block-wd-column wd-92a75df0"><!-- wp:wd/breadcrumbs {"blockId":"b19500c5-5098-4a0c-8095-1165b536438c","blockVersion":"2","nowrapMd":true} /-->
+
+<!-- wp:wd/title {"blockId":"740cfde7-f81b-47d3-abfc-484aaf1e65e0","blockVersion":"2","content":"Welcome to WoodMart Jewelry Store","tpFontSize":"60","tpLineHeight":"1.2","tpFontVariant":"300","tpFontWeight":"300","tpFontSizeTablet":"44","tpFontSizeMobile":"36","tpLineHeightUnits":"em"} -->
+<h2 class="wp-block-wd-title title wd-740cfde7">Welcome to WoodMart Jewelry Store</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/image {"blockId":"b06d2c67-b4cf-4cc0-83c4-6898236dfb92","blockVersion":"2","image":{"id":160,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-left.jpg","width":636,"height":680},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-left.jpg","width":636,"height":680}} -->
+<div class="wp-block-wd-image wd-block-image wd-b06d2c67"><img class="wp-image-160" src="http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-left.jpg" alt=""/></div>
+<!-- /wp:wd/image --></div>
+<!-- /wp:wd/column -->
+
+<!-- wp:wd/column {"blockId":"f3aeee61-c92c-4ee0-8412-739d94ad507d","blockVersion":"2","adjacentCount":2,"blocksGap":30,"marginTop":"30","marginTopTablet":"0"} -->
+<div class="wp-block-wd-column wd-f3aeee61"><!-- wp:wd/image {"blockId":"f637b27d-bbb3-4135-ad97-8d9c15214d7a","blockVersion":"2","image":{"id":161,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-right.jpg","width":636,"height":600},"imageData":{"url":"https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-right.jpg","width":636,"height":600}} -->
+<div class="wp-block-wd-image wd-block-image wd-f637b27d"><img class="wp-image-161" src="http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-right.jpg" alt=""/></div>
+<!-- /wp:wd/image -->
+
+<!-- wp:wd/paragraph {"blockId":"31ed5021-be7f-4506-9d1a-bf92758ad8ee","blockVersion":"2","colorCode":"#746d66","tpFontSize":"18","tpFontSizeTablet":"18","tpFontSizeMobile":"16"} -->
+<p class="wp-block-wd-paragraph wd-31ed5021">We are passionate about crafting timeless and elegant jewelry that celebrates life’s special moments. Our collections are designed with meticulous attention to detail and a commitment to quality, ensuring each piece is a work of art. Whether you’re looking for a statement piece or a subtle touch of sophistication, our jewelry is crafted to make every occasion memorable. Discover our range and experience the beauty of exquisite craftsmanship and thoughtful design.</p>
+<!-- /wp:wd/paragraph -->
+
+<!-- wp:wd/paragraph {"blockId":"7664b92d-17a0-42b6-8744-6c098818a8cf","blockVersion":"2","colorCode":"#746d66","tpFontSize":"18","tpFontSizeTablet":"18","tpFontSizeMobile":"16"} -->
+<p class="wp-block-wd-paragraph wd-7664b92d">Thank you for choosing us to be a part of your journey.</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/column --></div>
+<!-- /wp:wd/row -->
+
+<!-- wp:wd/section {"blockId":"66a6bdc6-8756-4588-9d29-027ac57e925b","blockVersion":"2","paddingTop":"10","paddingRight":"0","paddingBottom":"10","paddingLeft":"0","marginBottom":"80","borderType":"solid","borderColorCode":"#000000","borderWidthTop":"1","borderWidthBottom":"1","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-section wd-66a6bdc6"><!-- wp:wd/marquee {"blockId":"2884ea56-4ea5-447c-af54-be6ddae77324","blockVersion":"2","speed":"65","tpFontSize":"20","tpLineHeight":"1.2","colorCode":"#333333","tpLineHeightUnits":"em"} -->
+<!-- wp:wd/marquee-item {"blockId":"9a757027-7a14-4eb4-ba44-1e7fdb5a0027"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-9a757027"><!-- wp:wd/paragraph {"blockId":"6d730e40-fa71-4e6e-80e2-deebc795d7d6","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-6d730e40">Necklaces</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"ba38c248-65aa-4847-919c-3700560f694c"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-ba38c248"><!-- wp:wd/paragraph {"blockId":"976d9aad-94ad-4bfa-be99-211cfaa1d852","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-976d9aad">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"c4277023-d77c-4e76-b378-16c19a1e8c59"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-c4277023"><!-- wp:wd/paragraph {"blockId":"59adf9fa-5198-4233-aa00-b424d2ff3815","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-59adf9fa">Bracelets</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"07e11f96-dfb4-4676-988b-bd91b85d4a1f"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-07e11f96"><!-- wp:wd/paragraph {"blockId":"c0d53d92-a46a-4f6b-92fc-6367c566e8eb","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-c0d53d92">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"4d55e895-0c1a-448b-83b5-a75e3911f0f6"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-4d55e895"><!-- wp:wd/paragraph {"blockId":"dadc5f46-fac6-4427-a7a1-46ee77d96338","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-dadc5f46">Accessories</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"39a8ccba-b6cf-4624-ae73-84dd88881ec5"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-39a8ccba"><!-- wp:wd/paragraph {"blockId":"4e3d53b0-97e6-4557-b193-38d45261441f","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-4e3d53b0">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"56e76778-88ea-4392-be6a-94a3c50a8da0"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-56e76778"><!-- wp:wd/paragraph {"blockId":"fcc76258-12a6-4ccb-9cc4-48b11a99a178","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-fcc76258">Rings</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"5568c628-81ce-4df0-ad89-bbfd4ed23dd5"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-5568c628"><!-- wp:wd/paragraph {"blockId":"5abb33a3-46c5-496a-9265-ebe597d9a806","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-5abb33a3">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"f08dadba-76f4-4bc5-95f3-3163bc2489e1"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-f08dadba"><!-- wp:wd/paragraph {"blockId":"0d6007e8-ed5a-408e-825f-c1ebf12ada0a","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-0d6007e8">Sets</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"21e404ba-6362-483a-b904-b8cc875065f7"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-21e404ba"><!-- wp:wd/paragraph {"blockId":"e0bcd06f-4280-42b2-bea2-63575ae81cde","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e0bcd06f">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"bbb21c31-ca9a-4b24-bab9-d93ac635de5a"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-bbb21c31"><!-- wp:wd/paragraph {"blockId":"8b27e889-eba3-4ece-922a-39718538c32e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-8b27e889">Earrings</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"b6127903-b4d5-4b20-b0f3-a2fe73d66b21"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-b6127903"><!-- wp:wd/paragraph {"blockId":"c2e89610-326f-4446-a775-824cf393210e","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-c2e89610">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"c38c9bd0-1e46-40d9-a5ec-4908fdeb0492"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-c38c9bd0"><!-- wp:wd/paragraph {"blockId":"9fa20718-d045-4499-82bf-8386f3b2a83d","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-9fa20718">Necklaces</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"ec898973-f07b-4311-baa9-4db125884c02"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-ec898973"><!-- wp:wd/paragraph {"blockId":"2a438e8f-fcb7-41f1-8a91-fe184fde01c1","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-2a438e8f">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"ce23e45d-7739-41bd-b3f0-cdcde027b69f"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-ce23e45d"><!-- wp:wd/paragraph {"blockId":"1aef3b2b-e894-4625-987c-a43f6bd3dd56","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-1aef3b2b">Bracelets</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"1cc7e7fe-ad83-405a-8798-5fd16004af8d"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-1cc7e7fe"><!-- wp:wd/paragraph {"blockId":"6ab05f3c-86a3-4906-b007-2296b56a6e32","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-6ab05f3c">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"e221308f-1748-4f3d-b857-65e6b205818e"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-e221308f"><!-- wp:wd/paragraph {"blockId":"e3bb2617-899b-4f91-b8fc-88b7fabc7cd8","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e3bb2617">Accessories</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"c9204e19-778c-4b0a-af5f-f15dfe61c772"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-c9204e19"><!-- wp:wd/paragraph {"blockId":"f6b2fb4e-12d0-4332-a13a-302db9f5eda6","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-f6b2fb4e">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"6c09adda-9cbd-4c20-8091-d8878ff346f0"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-6c09adda"><!-- wp:wd/paragraph {"blockId":"e0c1e573-b3a0-4854-8120-ad5e29f94717","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-e0c1e573">Rings</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"7291408c-e0e1-42c1-b276-7d0be5286e1a"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-7291408c"><!-- wp:wd/paragraph {"blockId":"60f8e59d-b5c8-42c9-8b8e-613ab7437c99","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-60f8e59d">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"aa6569d6-de37-4dac-ae50-828e99a66290"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-aa6569d6"><!-- wp:wd/paragraph {"blockId":"1515c59f-d2cf-4ffd-93ca-0bbab8b143ae","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-1515c59f">Sets</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"b9286230-550f-4357-b2e0-0706d2f46b7f"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-b9286230"><!-- wp:wd/paragraph {"blockId":"162123d7-7b50-40d9-b1ca-431b51277a0a","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-162123d7">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"20c28cc1-f45b-4843-ab92-c2489f7808a5"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-20c28cc1"><!-- wp:wd/paragraph {"blockId":"0e85ba4a-6701-41a0-aa78-fe8e1387c586","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-0e85ba4a">Earrings</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+
+<!-- wp:wd/marquee-item {"blockId":"0e870842-054f-480c-8f7c-20bac0a3d7db"} -->
+<div class="wp-block-wd-marquee-item wd-marquee-item wd-0e870842"><!-- wp:wd/paragraph {"blockId":"cccea125-99c5-4481-aedb-1c44a0385208","blockVersion":"2"} -->
+<p class="wp-block-wd-paragraph wd-cccea125">/</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/marquee-item -->
+<!-- /wp:wd/marquee --></div>
+<!-- /wp:wd/section -->
+
+<!-- wp:wd/container {"blockId":"9d5b3881-8562-4017-a75a-243d82e96090","blockVersion":"2","justify":"center","textAlign":"center","marginBottom":"80","displayWidth":"custom","customWidth":"940","marginBottomTablet":"60","marginBottomMobile":"40"} -->
+<div class="wp-block-wd-container wd-dir-col wd-align wd-9d5b3881 wd-custom-width"><!-- wp:wd/title {"blockId":"13e3ddc4-e017-4643-ba22-84c6c9223772","blockVersion":"2","textAlign":"center","content":"“WoodMart Jewelry combines elegance and craftsmanship, offering timeless pieces that belong in every jewelry collection.”","tpFontSize":"26","displayWidth":"","customWidth":"","tpFontSizeTablet":"22"} -->
+<h2 class="wp-block-wd-title title wd-align wd-13e3ddc4">“WoodMart Jewelry combines elegance and craftsmanship, offering timeless pieces that belong in every jewelry collection.”</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/gallery {"blockId":"688258a9-d917-478e-aa38-6ee727fb1464","blockVersion":"2","contentAlignHorizontal":"center","contentAlignVertical":"center","layout":"carousel","slidesPerView":"4","paginationControl":false,"paginationControlTablet":false,"paginationControlMobile":false,"displayWidth":"custom","customWidth":"439","columnsMobile":2,"slidesPerViewMobile":"2"} -->
+<div class="wp-block-wd-gallery wd-carousel-container wd-caption-mask wd-688258a9 wd-custom-width" style=""><div class="wd-carousel-inner"><div class="wd-carousel wd-grid" style="--wd-col-lg:4;--wd-col-md:4;--wd-col-sm:2;--wd-gap-lg:20px;--wd-gap-sm:10px;" data-scroll_per_page="yes"><div class="wd-carousel-wrap"><!-- wp:wd/gallery-item {"blockId":"760814eb-267b-4343-a793-b49ad8954b70","blockVersion":"2","image":{"id":134,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-vitra.svg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-vitra.svg","width":94,"height":36}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-760814eb"><div class="wd-block-image"><img class="wp-image-134" src="http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-vitra.svg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"ed8316f0-2e44-4ef5-8f08-de709dcd0997","blockVersion":"2","image":{"id":136,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-minotti.svg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-minotti.svg","width":94,"height":36}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-ed8316f0"><div class="wd-block-image"><img class="wp-image-136" src="http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-minotti.svg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"d75ad859-3828-4075-8e7b-a6d27f16b39f","blockVersion":"2","image":{"id":135,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-poliform.svg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-poliform.svg","width":94,"height":36}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-d75ad859"><div class="wd-block-image"><img class="wp-image-135" src="http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-poliform.svg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item -->
+
+<!-- wp:wd/gallery-item {"blockId":"417d89d8-85ea-4d40-964f-676f79a0c3fd","blockVersion":"2","image":{"id":137,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-lladro.svg"},"layout":"carousel","imageData":{"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-lladro.svg","width":94,"height":36}} -->
+<div class="wp-block-wd-gallery-item wd-carousel-item wd-417d89d8"><div class="wd-block-image"><img class="wp-image-137" src="http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-lladro.svg" alt=""/></div></div>
+<!-- /wp:wd/gallery-item --></div></div><div class="wd-nav-arrows wd-pos-sep wd-hover-1 wd-icon-1"><div class="wd-btn-arrow wd-prev"><div class="wd-arrow-inner"></div></div><div class="wd-btn-arrow wd-next"><div class="wd-arrow-inner"></div></div></div></div></div>
+<!-- /wp:wd/gallery --></div>
+<!-- /wp:wd/container -->
+
+<!-- wp:wd/container {"blockId":"11779235-bfba-415d-a57a-512b76069d2c","blockVersion":"2","align":"center","textAlign":"center"} -->
+<div class="wp-block-wd-container wd-dir-col wd-align-is-lg-center wd-align wd-11779235"><!-- wp:wd/title {"blockId":"b430d193-cf5e-4b5d-b9d4-77f7ed752eec","blockVersion":"2","content":"#WDJEWELLERY"} -->
+<h2 class="wp-block-wd-title title wd-b430d193">#WDJEWELLERY</h2>
+<!-- /wp:wd/title -->
+
+<!-- wp:wd/instagram {"blockId":"788b1e5f-5b34-4fac-a1a1-aa257b7c0608","blockVersion":"2","images":[{"id":163,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-1.jpg","width":261,"height":261},{"id":164,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-2.jpg","width":261,"height":261},{"id":165,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-3.jpg","width":261,"height":261},{"id":166,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-4.jpg","width":261,"height":261},{"id":167,"url":"http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-5.jpg","width":261,"height":261}],"design":"slider","spacing_custom":"10","slides_per_view":"5","scroll_carousel_init":true,"hide_pagination_control":true,"hide_pagination_controlTablet":true,"hide_pagination_controlMobile":true} /-->
+
+<!-- wp:wd/paragraph {"blockId":"79446ddf-6495-4a6c-9553-b85d23d075f9","blockVersion":"2","displayWidth":"custom","customWidth":"345"} -->
+<p class="wp-block-wd-paragraph wd-79446ddf wd-custom-width">Show it to the world on Instagram #WDJEWELLERY&nbsp;@WOODMARTJEWELLERY</p>
+<!-- /wp:wd/paragraph --></div>
+<!-- /wp:wd/container -->]]></content:encoded>
+															<wp:post_id>87</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:03:53]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:03:53]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-07-13 12:28:09]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-07-13 12:28:09]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+					<wp:post_name><![CDATA[about-us]]></wp:post_name>
+					<wp:status><![CDATA[publish]]></wp:status>
+					<wp:post_parent>0</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[page]]></wp:post_type>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_woodmart_main_layout]]></wp:meta_key>
+							<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[j2-brand-vitra]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/home-jewellery-2/j2-brand-vitra/</link>
+					<pubDate>Mon, 11 May 2026 11:32:57 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-vitra.svg</guid>
+															<wp:post_id>134</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:32:57]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:32:57]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:32:57]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:32:57]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[j2-brand-vitra]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>81</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-vitra.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-brand-vitra.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[j2-brand-poliform]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/home-jewellery-2/j2-brand-poliform/</link>
+					<pubDate>Mon, 11 May 2026 11:32:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-poliform.svg</guid>
+															<wp:post_id>135</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:32:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:32:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:32:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:32:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[j2-brand-poliform]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>81</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-poliform.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-brand-poliform.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[j2-brand-minotti]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/home-jewellery-2/j2-brand-minotti/</link>
+					<pubDate>Mon, 11 May 2026 11:32:58 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-minotti.svg</guid>
+															<wp:post_id>136</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:32:58]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:32:58]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:32:58]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:32:58]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[j2-brand-minotti]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>81</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-minotti.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-brand-minotti.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[j2-brand-lladro]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/home-jewellery-2/j2-brand-lladro/</link>
+					<pubDate>Mon, 11 May 2026 11:32:59 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-lladro.svg</guid>
+															<wp:post_id>137</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:32:59]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:32:59]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:32:59]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:32:59]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[j2-brand-lladro]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>81</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-brand-lladro.svg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-brand-lladro.svg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[_j2-about-us-left]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/about-us/_j2-about-us-left/</link>
+					<pubDate>Mon, 11 May 2026 11:42:54 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-left.jpg</guid>
+															<wp:post_id>160</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:42:54]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:42:54]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:42:54]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:42:54]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[_j2-about-us-left]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>87</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-left.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-about-us-left.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[_j2-about-us-right]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/about-us/_j2-about-us-right/</link>
+					<pubDate>Mon, 11 May 2026 11:43:05 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-right.jpg</guid>
+															<wp:post_id>161</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:43:05]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:43:05]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:43:05]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:43:05]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[_j2-about-us-right]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>87</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-about-us-right.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-about-us-right.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[_j2-inst-1]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/about-us/_j2-inst-1/</link>
+					<pubDate>Mon, 11 May 2026 11:43:38 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-1.jpg</guid>
+															<wp:post_id>163</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:43:38]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:43:38]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:43:38]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:43:38]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[_j2-inst-1]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>87</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-1.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-inst-1.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[_j2-inst-2]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/about-us/_j2-inst-2/</link>
+					<pubDate>Mon, 11 May 2026 11:43:38 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-2.jpg</guid>
+															<wp:post_id>164</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:43:38]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:43:38]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:43:38]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:43:38]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[_j2-inst-2]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>87</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-2.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-inst-2.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[_j2-inst-3]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/about-us/_j2-inst-3/</link>
+					<pubDate>Mon, 11 May 2026 11:43:39 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-3.jpg</guid>
+															<wp:post_id>165</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:43:39]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:43:39]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:43:39]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:43:39]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[_j2-inst-3]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>87</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-3.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-inst-3.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[_j2-inst-4]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/about-us/_j2-inst-4/</link>
+					<pubDate>Mon, 11 May 2026 11:43:40 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-4.jpg</guid>
+															<wp:post_id>166</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:43:40]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:43:40]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:43:40]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:43:40]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[_j2-inst-4]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>87</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-4.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-inst-4.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+								<item>
+					<title><![CDATA[_j2-inst-5]]></title>
+					<link>https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/about-us/_j2-inst-5/</link>
+					<pubDate>Mon, 11 May 2026 11:43:41 +0000</pubDate>
+					<dc:creator><![CDATA[Mr. Mackay]]></dc:creator>
+					<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-5.jpg</guid>
+															<wp:post_id>167</wp:post_id>
+					<wp:post_date><![CDATA[2026-05-11 11:43:41]]></wp:post_date>
+					<wp:post_date_gmt><![CDATA[2026-05-11 11:43:41]]></wp:post_date_gmt>
+					<wp:post_modified><![CDATA[2026-05-11 11:43:41]]></wp:post_modified>
+					<wp:post_modified_gmt><![CDATA[2026-05-11 11:43:41]]></wp:post_modified_gmt>
+					<wp:comment_status><![CDATA[open]]></wp:comment_status>
+					<wp:post_name><![CDATA[_j2-inst-5]]></wp:post_name>
+					<wp:status><![CDATA[inherit]]></wp:status>
+					<wp:post_parent>87</wp:post_parent>
+					<wp:menu_order>0</wp:menu_order>
+					<wp:post_type><![CDATA[attachment]]></wp:post_type>
+											<wp:attachment_url><![CDATA[https://dummy.xtemos.com/woodmart2/jewellery-2-gutenberg/wp-content/uploads/sites/79/2026/05/j2-inst-5.jpg]]></wp:attachment_url>
+																					<wp:postmeta>
+							<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+							<wp:meta_value><![CDATA[2026/05/j2-inst-5.jpg]]></wp:meta_value>
+						</wp:postmeta>
+									</item>
+				</channel>
+</rss>
+	
