@@ -73,6 +73,7 @@ services:
     volumes:
       - ./backend:/app
       - /app/node_modules
+      - /app/dist
     networks:
       - app_network
 
@@ -83,6 +84,7 @@ services:
       dockerfile: Dockerfile
     container_name: theme_marketplace_frontend
     restart: unless-stopped
+    command: npm run dev
     depends_on:
       - backend
     env_file:
