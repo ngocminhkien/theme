@@ -44,7 +44,7 @@ export class ThemeController {
 
   static async getThemeBySlug(req: Request, res: Response) {
     try {
-      const { slug } = req.params;
+      const slug = req.params.slug as string;
       const theme = await ThemeModel.findBySlug(slug);
       if (!theme) {
         return ResponseView.notFound(res, 'Không tìm thấy theme này.');
