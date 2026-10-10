@@ -53,5 +53,8 @@
 
 - **Sửa lỗi CI/CD (Bug Fix):**
   - [`backend/package.json`](file:///e:/VietNamChampion/theme/theme/backend/package.json): Sửa script `lint` từ `eslint` sang `tsc --noEmit` và `test` sang node test runner chuẩn, khắc phục triệt để lỗi CI GitHub Actions `sh: 1: eslint: not found` (exit code 127).
-  - [`frontend/package.json`](file:///e:/VietNamChampion/theme/theme/frontend/package.json): Chuẩn hóa script `lint` để tránh prompt tương tác gây lỗi CI.
+  - [`backend/src/controllers/theme.controller.ts`](file:///e:/VietNamChampion/theme/theme/backend/src/controllers/theme.controller.ts): Typecast `req.params.slug as string` khắc phục lỗi `TS2345: Argument of type 'string | string[]' is not assignable to parameter of type 'string'`.
+  - [`frontend/Dockerfile`](file:///e:/VietNamChampion/theme/theme/frontend/Dockerfile): Loại bỏ cú pháp shell redirection không hợp lệ trong chỉ thị `COPY` (`2>/dev/null || true`), tạo thư mục `frontend/public/.gitkeep` để Docker builder COPY chuẩn xác.
+  - [`frontend/next.config.js`](file:///e:/VietNamChampion/theme/theme/frontend/next.config.js) & dynamic routes: Tối ưu hóa SSG static generation với `generateStaticParams` cho `theme/[slug]` và `preview/[slug]`, tách Server Component và Client Component để Next.js build trơn tru không bị cạn bộ nhớ (Zone Allocation OOM).
+
 
