@@ -51,3 +51,7 @@
     6. Hủy kích hoạt `mybusiness.vn` và kích hoạt sang `mynewstore.com` thành công.
     7. Tra cứu WordPress Auto-Updater API `GET /api/v1/updater/check` trả về phiên bản `8.6.2` kèm changelog và download URL.
 
+- **Sửa lỗi CI/CD (Bug Fix):**
+  - [`backend/package.json`](file:///e:/VietNamChampion/theme/theme/backend/package.json): Sửa script `lint` từ `eslint` sang `tsc --noEmit` và `test` sang node test runner chuẩn, khắc phục triệt để lỗi CI GitHub Actions `sh: 1: eslint: not found` (exit code 127).
+  - [`frontend/package.json`](file:///e:/VietNamChampion/theme/theme/frontend/package.json): Chuẩn hóa script `lint` để tránh prompt tương tác gây lỗi CI.
+
