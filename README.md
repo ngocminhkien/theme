@@ -180,6 +180,7 @@ docker compose logs -f
 
 ## 📚 7. BỘ TÀI LIỆU DỰ ÁN LIÊN QUAN
 
+* 🚀 [**`GIT_WORKFLOW_GUIDE.md`**](./GIT_WORKFLOW_GUIDE.md) - **Quy chuẩn Git & Đẩy code**: Hướng dẫn quy trình chuẩn chỉ khi thêm, sửa, xóa tính năng, quy ước đặt tên nhánh và tạo Pull Request.
 * 📖 [**`INSTALLATION_GUIDE.md`**](./INSTALLATION_GUIDE.md) - **Hướng dẫn cài đặt chi tiết**: Triển khai hạ tầng kỹ thuật (Docker, BE, FE, MySQL) & Hướng dẫn cài đặt/import demo theme Woodmart trên WordPress.
 * 📄 [**`CEO_STRATEGY.md`**](./CEO_STRATEGY.md) - Chiến lược kinh doanh, định vị thị trường, pháp lý và mô hình đa doanh thu.
 * 🗺️ [**`SITEMAP.md`**](./SITEMAP.md) - Bản đồ sitemap chi tiết, cấu trúc phân hệ và luồng trải nghiệm khách hàng.
