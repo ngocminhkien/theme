@@ -35,6 +35,8 @@ dist/
 build/
 .next/
 out/
+.turbo/
+next-env.d.ts
 
 # Database & Backups
 backups/
