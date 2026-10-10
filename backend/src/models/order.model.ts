@@ -34,6 +34,27 @@ const inMemoryOrders = new Map<string, Order>();
 
 export class OrderModel {
   /**
+   * Tạo đơn hàng đơn giản (alias tương thích với OrderController.checkout)
+   */
+  static async create(data: {
+    order_number: string;
+    customer_name: string;
+    customer_email: string;
+    total_amount: number;
+    currency?: 'VND' | 'USD';
+    payment_method: 'vietqr' | 'momo' | 'zalopay' | 'stripe' | 'paypal';
+    user_id?: number | null;
+    customer_phone?: string | null;
+    ip_address?: string | null;
+  }): Promise<number> {
+    const result = await this.createWithItems({
+      ...data,
+      currency: data.currency || 'VND',
+    });
+    return result.orderId;
+  }
+
+  /**
    * Tạo đơn hàng cùng chi tiết sản phẩm sử dụng Database Transaction (ACID)
    */
   static async createWithItems(data: {
@@ -57,10 +78,10 @@ export class OrderModel {
       connection = await dbPool.getConnection();
       await connection.beginTransaction();
 
-      // 1. Chèn đơn hàng vào bảng orders
+      // 1. Chèn đơn hàng vào bảng orders (9 tham số)
       const [orderResult] = await connection.query<ResultSetHeader>(
         `INSERT INTO orders (order_number, user_id, customer_email, customer_name, customer_phone, total_amount, currency, payment_method, ip_address)
-         VALUES (?, ?, ?, ?, ?, ?, ?)`,
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
         [
           data.order_number,
           data.user_id || null,
