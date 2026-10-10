@@ -19,7 +19,11 @@ export class SePayService {
    * Xác thực Webhook gửi từ SePAY
    */
   static verifyWebhook(apiKeyHeader: string | undefined): boolean {
-    if (!ENV.PAYMENTS.SEPAY_API_KEY) return true; // Chế độ dev cho phép bypass
-    return apiKeyHeader === `Apikey ${ENV.PAYMENTS.SEPAY_API_KEY}` || apiKeyHeader === ENV.PAYMENTS.SEPAY_API_KEY;
+    const configuredKey = ENV.PAYMENTS.SEPAY_API_KEY;
+    // Nếu chưa cấu hình key thật hoặc đang dùng placeholder trong môi trường dev
+    if (!configuredKey || configuredKey === 'your_sepay_api_key_here') {
+      return true;
+    }
+    return apiKeyHeader === `Apikey ${configuredKey}` || apiKeyHeader === configuredKey;
   }
 }
