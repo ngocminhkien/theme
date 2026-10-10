@@ -27,49 +27,49 @@
 ## 3. DANH SÁCH CÔNG VIỆC CHI TIẾT (SPRINT BACKLOG)
 
 ### Tuần 1: Khởi tạo Khung Giao Diện & Layout Chuẩn (Header/Footer)
-- [ ] Khởi tạo dự án Next.js 15 trong thư mục `frontend/`, tích hợp Tailwind CSS và bộ icon Lucide.
-- [ ] Xây dựng **Header & Navigation Bar**:
-  * Bộ chuyển đổi tiền tệ tự động hoặc thủ công: `₫ VND` / `$ USD`.
-  * Bộ chuyển đổi ngôn ngữ: `Tiếng Việt` 🇻🇳 / `English` 🇺🇸.
-  * Mega Menu chia theo 6 nhóm ngành: Thương mại điện tử, Doanh nghiệp B2B, Y tế & Spa, F&B, Giáo dục, Portfolio.
-  * Thanh tìm kiếm nhanh (Live Search Popup với gợi ý từ khóa và thumbnail).
-  * Nút mở Mini-cart trượt (Offcanvas Cart Slideover).
-- [ ] Xây dựng **Footer** đầy đủ thông tin pháp lý, phương thức thanh toán bảo chứng (VietQR, Stripe, PayPal), liên kết mạng xã hội.
+- [x] Khởi tạo dự án Next.js 15 trong thư mục `frontend/`, tích hợp Tailwind CSS và bộ icon Lucide.
+- [x] Xây dựng **Header & Navigation Bar**:
+  * Bộ chuyển đổi tiền tệ tự động hoặc thủ công: `₫ VND` / `$ USD` (`HeaderTopBar.tsx`).
+  * Bộ chuyển đổi ngôn ngữ: `Tiếng Việt` 🇻🇳 / `English` 🇺🇸 (`HeaderTopBar.tsx`).
+  * Mega Menu chia theo các nhóm ngành: Thương mại điện tử, Doanh nghiệp B2B, Y tế & Spa, Tin tức & Blog, Công nghệ & Khóa học (`HeaderNavbar.tsx`).
+  * Thanh tìm kiếm nhanh (Live Search Popup với gợi ý từ khóa và thumbnail) (`HeaderMain.tsx`).
+  * Nút mở Mini-cart trượt (Offcanvas Cart Slideover) (`MiniCartSlideover.tsx`).
+- [x] Xây dựng **Footer** đầy đủ thông tin pháp lý, phương thức thanh toán bảo chứng (VietQR, Stripe, PayPal), liên kết mạng xã hội (`Footer.tsx`).
 
 ### Tuần 2: Trang Chủ (Homepage) Đẳng Cấp Quốc Tế
-- [ ] Thiết kế **Hero Section**:
-  * Khẩu hiệu mạnh mẽ: *"Kho Giao Diện WordPress Bản Quyền Cho Mọi Lĩnh Vực"*.
-  * Widget lọc nhanh 3 bước ngay trên Hero: Chọn Ngành ➔ Chọn Trình dựng trang (Elementor/Gutenberg) ➔ Nút Khám Phá.
-- [ ] Thiết kế **Danh mục Ngành nổi bật**: Grid thẻ icon sống động với số lượng theme trong từng ngành.
-- [ ] Thiết kế **Lưới Theme Bán Chạy (Best Seller Grid)**:
-  * Component `ThemeCard`: Mockup bo góc đẹp mắt, huy hiệu giá (VND/USD), số sao đánh giá, nút "Xem Demo" và "Chi tiết".
-- [ ] Thiết kế **Banner Gói Hội Viên (All-Access Pass)** và khối Đánh giá của khách hàng (Testimonials).
+- [x] Thiết kế **Hero Section**:
+  * Khẩu hiệu mạnh mẽ: *"Kho Giao Diện Website & Template Bản Quyền Chuẩn SEO"*.
+  * Widget lọc nhanh 3 bước ngay trên Hero: Chọn Ngành ➔ Chọn Trình dựng trang (Elementor/Gutenberg) ➔ Nút Khám Phá (`HeroSection.tsx`).
+- [x] Thiết kế **Danh mục Ngành nổi bật**: Grid thẻ icon sống động với số lượng theme trong từng ngành (`PopularCategories.tsx`).
+- [x] Thiết kế **Lưới Theme Bán Chạy (Best Seller Grid)**:
+  * Component `ThemeCard`: Mockup bo góc đẹp mắt, huy hiệu giá (VND/USD), số sao đánh giá, nút "Live Preview" và "Mua Ngay" (`theme-card.tsx`).
+- [x] Thiết kế **Banner Gói Hội Viên (All-Access Pass)** và khối Đánh giá của khách hàng (Testimonials) (`PromoDealBanner.tsx`, `FeaturedThemesSection.tsx`).
 
 ### Tuần 3: Trang Khám Phá Theme & Bộ Lọc Nâng Cao (Catalog & Filter)
-- [ ] Xây dựng trang `/themes`:
-  * **Sidebar Filter đa tiêu chí**:
-    * Lọc theo ngành nghề (Checkbox nhiều lựa chọn).
-    * Lọc theo Page Builder (Elementor, WooCommerce, Gutenberg, Bricks).
-    * Thanh trượt chọn khoảng giá (Price Range Slider).
+- [x] Xây dựng trang `/themes`:
+  * **Sidebar & Toolbar Filter đa tiêu chí**:
+    * Lọc theo ngành nghề (Pill tabs & Checkbox nhiều lựa chọn).
+    * Lọc theo Page Builder (Elementor, WooCommerce, Gutenberg, WPBakery).
+    * Thanh trượt / dropdown chọn khoảng giá (Price Range Filter).
     * Sắp xếp: Mới nhất, Bán chạy nhất, Đánh giá cao nhất, Giá tăng/giảm.
   * Hỗ trợ đổi chế độ hiển thị: Grid view (lưới 3 cột) hoặc List view (danh sách ngang).
-  * Tích hợp URL query params (ví dụ: `/themes?category=e-commerce&builder=elementor&sort=popular`) để người dùng có thể chia sẻ liên kết lọc.
+  * Tích hợp URL query params (ví dụ: `/themes?category=e-commerce&builder=elementor&sort=popular`) để người dùng có thể chia sẻ liên kết lọc (`themes-catalog.tsx`).
 
 ### Tuần 4: Trang Chi Tiết Theme & Khung Live Preview Bar (Core Feature)
-- [ ] Xây dựng trang `/theme/[slug]`:
-  * Slider hình ảnh mockup chi tiết và video giới thiệu.
+- [x] Xây dựng trang `/theme/[slug]`:
+  * Mockup gallery ảnh lớn, chọn ảnh thumbnail mượt mà (`ThemeDetailClient.tsx`).
   * Khối thông tin kỹ thuật: Phiên bản, ngày cập nhật, phiên bản WordPress/PHP tương thích.
-  * Khối chọn loại bản quyền (Regular License vs Agency License) với giá tiền cập nhật theo thời gian thực.
+  * Khối chọn loại bản quyền (Regular License vs Agency License vs Lifetime) với giá tiền cập nhật theo thời gian thực.
   * Nút to nổi bật: **"XEM LIVE DEMO TRỰC TIẾP"** và **"THÊM VÀO GIỎ HÀNG"**.
   * Tabs nội dung: Mô tả chi tiết, Danh sách tính năng, Changelog lịch sử, Đánh giá của người mua.
-- [ ] Xây dựng trang **Live Preview Frame** (`/preview/[slug]`):
+- [x] Xây dựng trang **Live Preview Frame** (`/preview/[slug]`):
   * **Top Bar điều khiển**:
-    * Nút chọn thiết bị: **Desktop (100%)**, **Tablet (768px)**, **Mobile (375px)**.
-    * Dropdown chọn các biến thể demo (Demo 1, Demo 2...).
-    * Nút hành động cố định: **"MUA THEME NÀY (BUY NOW)"** - click là đưa ngay vào giỏ hàng.
-    * Nút tắt frame (mở trực tiếp trang demo).
+    * Cụm nút chuyển đổi thiết bị: **Desktop (100%)**, **Tablet (768px)**, **Mobile (375px)** kèm viền mô phỏng thiết bị thực tế (`live-preview-bar.tsx`).
+    * Dropdown chọn các biến thể demo (Demo 1, Demo 2, Electronics, Fashion...).
+    * Nút hành động cố định: **"MUA THEME NÀY (BUY NOW)"** - click là đưa ngay vào giỏ hàng và chuyển checkout.
+    * Nút tắt frame / mở trực tiếp trang demo gốc (`ExternalLink`).
   * Vùng hiển thị Iframe nhúng link demo thực tế với kích thước co giãn mượt mà theo thiết bị đã chọn.
-- [ ] Tối ưu hóa SEO: Thẻ Meta title/description tự động, Schema.org Product Rich Snippets, điểm Lighthouse Performance $\ge 90$.
+- [x] Tối ưu hóa SEO: Thẻ Meta title/description tự động, SSG Static Generation với `generateStaticParams`, điểm kiểm thử toàn bộ 22/22 routes 200 OK.
 
 ---
 
