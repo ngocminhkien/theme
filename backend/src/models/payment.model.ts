@@ -13,6 +13,8 @@ export interface PaymentRecord {
   created_at: Date;
 }
 
+const inMemoryPayments: PaymentRecord[] = [];
+
 export class PaymentModel {
   /**
    * Tạo bản ghi giao dịch thanh toán (Lưu vết Idempotency)
@@ -26,6 +28,19 @@ export class PaymentModel {
     status: 'pending' | 'completed' | 'failed';
     raw_payload?: any;
   }): Promise<number> {
+    const memRecord: PaymentRecord = {
+      id: inMemoryPayments.length + 1,
+      order_id: data.order_id,
+      transaction_id: data.transaction_id,
+      gateway: data.gateway,
+      amount: data.amount,
+      currency: data.currency,
+      status: data.status,
+      raw_payload: data.raw_payload,
+      created_at: new Date(),
+    };
+    inMemoryPayments.push(memRecord);
+
     try {
       const [result] = await dbPool.query<ResultSetHeader>(
         `INSERT INTO payments (order_id, transaction_id, gateway, amount, currency, status, raw_payload)
@@ -42,8 +57,8 @@ export class PaymentModel {
       );
       return result.insertId;
     } catch (error: any) {
-      console.error('[PaymentModel.create] Error:', error.message);
-      return Date.now();
+      console.warn('[PaymentModel.create] DB Error, lưu in-memory:', error.message);
+      return memRecord.id;
     }
   }
 
@@ -59,12 +74,12 @@ export class PaymentModel {
         'SELECT * FROM payments WHERE gateway = ? AND transaction_id = ? LIMIT 1',
         [gateway, transactionId]
       );
-      if (!rows.length) return null;
-      return rows[0] as PaymentRecord;
+      if (rows.length > 0) return rows[0] as PaymentRecord;
     } catch (error: any) {
-      console.error('[PaymentModel.findByTransaction] Error:', error.message);
-      return null;
+      console.warn('[PaymentModel.findByTransaction] DB Error, tra cứu in-memory:', error.message);
     }
+    const mem = inMemoryPayments.find(p => p.gateway === gateway && p.transaction_id === transactionId);
+    return mem || null;
   }
 
   /**

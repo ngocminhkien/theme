@@ -28,16 +28,16 @@
 ## 3. DANH SÁCH CÔNG VIỆC CHI TIẾT (SPRINT BACKLOG)
 
 ### Tuần 1: Module Đơn Hàng & Xử Lý Đa Tiền Tệ (VND & USD)
-- [ ] Xây dựng **OrdersModule**:
+- [x] Xây dựng **OrdersModule**:
   - `POST /api/v1/orders/create`: Nhận giỏ hàng, thông tin khách hàng (Họ tên, Email), tự động chuyển đổi số tiền theo loại tiền tệ (`VND` hoặc `USD`).
   - Hỗ trợ Mua hàng không cần đăng nhập trước (Guest Checkout) ➔ tự động tạo tài khoản hoặc gán vào email khách.
   - Sinh mã đơn hàng duy nhất: Định dạng `OD-YYYYMMDD-XXXX`.
-- [ ] Thiết lập bảng `orders` và `order_items` với giao dịch Database Transaction (`ACID`), đảm bảo không thất thoát dữ liệu.
+- [x] Thiết lập bảng `orders` và `order_items` với giao dịch Database Transaction (`ACID`), đảm bảo không thất thoát dữ liệu.
 
 ### Tuần 2: Cổng Thanh Toán Tự Động VietQR (SePAY) cho Thị Trường Việt Nam
-- [ ] Tích hợp API sinh dữ liệu VietQR:
+- [x] Tích hợp API sinh dữ liệu VietQR:
   - Trả về mã QR (VietQR dynamic format) chứa đúng số tài khoản, số tiền và nội dung chuyển khoản là mã đơn hàng.
-- [ ] Xây dựng **Webhook SePAY Receiver** (`POST /api/v1/webhooks/sepay`):
+- [x] Xây dựng **Webhook SePAY Receiver** (`POST /api/v1/webhooks/sepay`):
   - Xác thực bảo mật: Kiểm tra Header `Authorization: Apikey <SEPAY_API_KEY>` hoặc webhook secret.
   - Phân tích nội dung chuyển khoản để khớp với mã đơn hàng.
   - Kiểm tra số tiền chuyển thực tế $\ge$ số tiền đơn hàng.
@@ -45,18 +45,18 @@
   - Kích hoạt tiến trình sinh License Key tức thì (thời gian xử lý < 3 giây).
 
 ### Tuần 3: Cổng Thanh Toán Quốc Tế (Stripe & PayPal)
-- [ ] Tích hợp **Stripe Payment**:
+- [x] Tích hợp **Stripe Payment**:
   - `POST /api/v1/payments/stripe/create-session`: Tạo Stripe Checkout Session (hỗ trợ Thẻ quốc tế, Apple Pay, Google Pay).
   - Xây dựng Stripe Webhook: Lắng nghe sự kiện `checkout.session.completed` và `payment_intent.succeeded` có kiểm tra chữ ký `stripe-signature`.
-- [ ] Tích hợp **PayPal Webhook** lắng nghe sự kiện `PAYMENT.CAPTURE.COMPLETED`.
+- [x] Tích hợp **PayPal Webhook** lắng nghe sự kiện `PAYMENT.CAPTURE.COMPLETED`.
 
 ### Tuần 4: Hệ Thống Bản Quyền (License Engine) & WordPress Auto-Update API
-- [ ] Xây dựng **LicensesModule**:
+- [x] Xây dựng **LicensesModule**:
   - Thuật toán sinh License Key ngẫu nhiên bảo mật (Ví dụ: `WD-A7X9-B2C4-88EF-2026`).
   - Giới hạn số lượng domain: `regular` (1 domain), `agency` (5 domain), `lifetime` (không giới hạn).
   - `POST /api/v1/licenses/activate`: Domain gửi request lên kèm license key ➔ ghi nhận vào `license_activations`.
   - `POST /api/v1/licenses/deactivate`: Cho phép khách hủy liên kết domain cũ để chuyển sang domain mới.
-- [ ] Xây dựng **WordPress Auto-Updater Endpoints**:
+- [x] Xây dựng **WordPress Auto-Updater Endpoints**:
   - `GET /api/v1/updater/check?license_key=xxx&theme_slug=woodmart&version=8.6.2`:
     * Kiểm tra License Key còn hiệu lực không.
     * So sánh version: Nếu có bản mới (ví dụ v8.6.3), trả về JSON chứa changelog, URL tải, và thông số tương thích chuẩn WordPress.

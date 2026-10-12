@@ -138,6 +138,27 @@ export class LicenseModel {
   }
 
   /**
+   * Lấy danh sách license theo ID đơn hàng (phục vụ trả về kết quả khi polling hoàn tất)
+   */
+  static async findByOrderId(orderId: number): Promise<License[]> {
+    try {
+      const [rows] = await dbPool.query<RowDataPacket[]>(
+        `SELECT l.*, t.name as theme_name 
+         FROM licenses l
+         LEFT JOIN themes t ON l.theme_id = t.id
+         WHERE l.order_id = ?`,
+        [orderId]
+      );
+      if (rows.length > 0) return rows as License[];
+    } catch (error: any) {
+      console.warn('[LicenseModel.findByOrderId] DB Error, tra cứu in-memory:', error.message);
+    }
+    return Array.from(inMemoryLicenses.values()).filter(
+      (l) => l.order_id === orderId
+    );
+  }
+
+  /**
    * Kích hoạt Domain cho License
    */
   static async activateDomain(

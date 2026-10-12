@@ -53,10 +53,23 @@ export class OrderController {
       if (!order) {
         return ResponseView.notFound(res, 'Không tìm thấy đơn hàng.');
       }
+
+      let licenses: any[] = [];
+      if (order.payment_status === 'paid') {
+        const { LicenseModel } = await import('../models/license.model.js');
+        licenses = await LicenseModel.findByOrderId(order.id);
+      }
+
       return ResponseView.success(res, {
         orderNumber: order.order_number,
         payment_status: order.payment_status,
         order_status: order.order_status,
+        licenses: licenses.map(l => ({
+          license_key: l.license_key,
+          license_type: l.license_type,
+          max_domains: l.max_domains,
+          theme_name: l.theme_name || 'Woodmart Theme',
+        })),
       });
     } catch (error: any) {
       return ResponseView.error(res, error.message);

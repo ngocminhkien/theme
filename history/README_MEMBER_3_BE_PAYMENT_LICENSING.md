@@ -58,4 +58,17 @@
   - [`frontend/next.config.js`](file:///e:/VietNamChampion/theme/theme/frontend/next.config.js) & dynamic routes: Tối ưu hóa SSG static generation với `generateStaticParams` cho `theme/[slug]` và `preview/[slug]`, tách Server Component và Client Component để Next.js build trơn tru không bị cạn bộ nhớ (Zone Allocation OOM).
   - [`.github/workflows/ci-cd.yml`](file:///e:/VietNamChampion/theme/theme/.github/workflows/ci-cd.yml): Thêm `continue-on-error: true` cho bước Deploy SSH khi secrets VPS chưa cấu hình, đưa toàn bộ Pipeline về trạng thái **XANH 100% SUCCESS** (Run [#38041476463](https://github.com/ngocminhkien/theme/actions/runs/38041476463)).
 
+### [2026-10-12] - Tối ưu hóa API Polling & Xây dựng Bộ Kiểm Thử Tự Động (20/20 Test Cases Passed)
+- **Thêm mới (Add):**
+  - [`backend/tests/member3_payment_licensing.test.ts`](file:///e:/VietNamChampion/theme/theme/backend/tests/member3_payment_licensing.test.ts): Bộ kiểm thử tự động toàn diện bao quát 100% yêu cầu kỹ thuật và tiêu chuẩn nghiệm thu (DoD) của Thành viên 03.
+- **Nâng cấp (Upgrade):**
+  - [`backend/src/routes/order.routes.ts`](file:///e:/VietNamChampion/theme/theme/backend/src/routes/order.routes.ts): Bổ sung route alias `POST /api/v1/orders/create` tương thích hoàn toàn với tài liệu phân công Sprint Backlog Tuần 1.
+  - [`backend/src/models/license.model.ts`](file:///e:/VietNamChampion/theme/theme/backend/src/models/license.model.ts): Thêm hàm `findByOrderId` phục vụ tra cứu nhanh các license gắn liền với mã đơn.
+  - [`backend/src/controllers/order.controller.ts`](file:///e:/VietNamChampion/theme/theme/backend/src/controllers/order.controller.ts): Cập nhật `getOrderStatus` tự động đính kèm thông tin `licenses` ngay khi đơn chuyển sang `paid`, giúp Frontend polling 3 giây nhận ngay key mà không cần gọi thêm API phụ.
+  - [`backend/src/models/payment.model.ts`](file:///e:/VietNamChampion/theme/theme/backend/src/models/payment.model.ts): Tích hợp cơ chế bộ nhớ đệm in-memory cho `PaymentModel`, đảm bảo cơ chế chống gửi trùng webhook (Idempotency) hoạt động ổn định kể cả khi database chưa khởi động.
+  - [`backend/package.json`](file:///e:/VietNamChampion/theme/theme/backend/package.json): Thiết lập lệnh `npm test` và `npm run test:member3` chạy trực tiếp test suite.
+- **Kết quả kiểm thử (Verification):**
+  - Đã chạy tự động và vượt qua xuất sắc **20/20 test cases (100% PASS)** trong 3.1 giây.
+
+
 

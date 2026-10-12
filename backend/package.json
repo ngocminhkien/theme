@@ -9,7 +9,8 @@
     "start": "node dist/server.js",
     "dev": "tsx watch src/server.ts",
     "lint": "tsc --noEmit",
-    "test": "node -e \"console.log('Backend tests passed'); process.exit(0)\"",
+    "test": "tsx tests/member3_payment_licensing.test.ts",
+    "test:member3": "tsx tests/member3_payment_licensing.test.ts",
     "db:migrate": "node ../database/migrations/migrate.cjs"
   },
   "dependencies": {
