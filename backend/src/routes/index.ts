@@ -5,6 +5,7 @@ import { orderRouter } from './order.routes.js';
 import { paymentRouter } from './payment.routes.js';
 import { licenseRouter } from './license.routes.js';
 import { updaterRouter } from './updater.routes.js';
+import { adminRouter } from './admin.routes.js';
 
 export const apiRouter = Router();
 
@@ -15,3 +16,4 @@ apiRouter.use('/payments', paymentRouter);
 apiRouter.use('/webhooks', paymentRouter); // Hỗ trợ cả /webhooks/sepay và /payments/sepay
 apiRouter.use('/licenses', licenseRouter);
 apiRouter.use('/updater', updaterRouter);
+apiRouter.use('/admin', adminRouter);

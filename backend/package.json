@@ -11,6 +11,8 @@
     "lint": "tsc --noEmit",
     "test": "tsx tests/member3_payment_licensing.test.ts",
     "test:member3": "tsx tests/member3_payment_licensing.test.ts",
+    "test:admin": "npm run build && node tests/admin-bootstrap.test.mjs && node tests/admin-auth.test.mjs && node tests/admin.api.test.mjs",
+    "admin:create": "npm run build && node scripts/create-initial-admin.mjs",
     "db:migrate": "node ../database/migrations/migrate.cjs"
   },
   "dependencies": {

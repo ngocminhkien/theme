@@ -15,8 +15,11 @@ import {
   CheckCircle2,
   Lock,
 } from 'lucide-react';
+import { getAdminPortalUrl } from '@/shared/config/admin';
 
 export function Footer() {
+  const adminPortalUrl = getAdminPortalUrl();
+
   return (
     <footer className="bg-slate-950 text-slate-400 border-t border-slate-800 w-full">
       {/* Top Banner Ribbon: Gradient Strip */}
@@ -233,6 +236,12 @@ export function Footer() {
             <Link href="/themes" className="hover:text-slate-400 transition font-medium">Điều Khoản Dịch Vụ</Link>
             <Link href="/themes" className="hover:text-slate-400 transition font-medium">Chính Sách Bảo Mật</Link>
             <Link href="/checkout" className="hover:text-slate-400 transition font-medium">Kiểm Tra License</Link>
+            {adminPortalUrl && (
+              <a href={adminPortalUrl} className="hover:text-amber-400 transition font-medium inline-flex items-center gap-1.5">
+                <ShieldCheck className="w-3.5 h-3.5" />
+                Khu vực quản trị
+              </a>
+            )}
           </div>
         </div>
       </div>

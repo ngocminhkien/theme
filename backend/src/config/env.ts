@@ -1,10 +1,18 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
+const configuredOrigins = [
+  ...(process.env.FRONTEND_URL || 'http://localhost:3000').split(','),
+  ...(process.env.ADMIN_URL || 'http://localhost:3001').split(','),
+].map((origin) => origin.trim()).filter(Boolean);
+
 export const ENV = {
   NODE_ENV: process.env.NODE_ENV || 'development',
   PORT: parseInt(process.env.APP_PORT || '4000', 10),
-  CORS_ORIGIN: process.env.FRONTEND_URL || 'http://localhost:3000',
+  // Both the customer storefront and the separately-hosted admin application
+  // need to call this API in development. Values remain explicit rather than
+  // reflecting arbitrary browser origins.
+  CORS_ORIGINS: [...new Set(configuredOrigins)],
 
   DB: {
     HOST: process.env.DB_HOST || '127.0.0.1',

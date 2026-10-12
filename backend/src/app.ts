@@ -10,7 +10,7 @@ export const app = express();
 
 // Security Middlewares
 app.use(helmet());
-app.use(cors({ origin: ENV.CORS_ORIGIN, credentials: true }));
+app.use(cors({ origin: ENV.CORS_ORIGINS, credentials: true }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 

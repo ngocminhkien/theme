@@ -236,6 +236,15 @@
 
 ---
 
+### [2026-10-12] - Member 05 — Admin Dashboard, Bootstrap & Storefront Link
+
+- **Thêm mới (Add):** Ứng dụng Admin độc lập tại `admin/` với login, dashboard, theme, đơn hàng, khách hàng, license và report; thêm CLI/service tạo Admin đầu tiên cùng các test bootstrap, auth/RBAC và Admin API. CLI chỉ tạo khi chưa có Admin, bcrypt cost 12, transaction + row lock; không đổi mật khẩu Admin có sẵn hoặc tự nâng quyền customer trùng email.
+- **Sửa đổi (Modify / Fix):** Mount `/api/v1/admin` với JWT + `requireAdmin`, CORS allowlist cho `ADMIN_URL`, URL Admin công khai qua `NEXT_PUBLIC_ADMIN_URL`, link “Khu vực quản trị” tương thích giao diện Footer remote, Docker build arg và tài liệu vận hành. Không cấp quyền dựa trên frontend và không đưa secret vào cấu hình public.
+- **Xác minh (Verification):** backend lint/build PASS; `npm run test:admin` PASS (bootstrap 4/4, auth/RBAC 7/7, Admin API 3/3); storefront regression 28/28, type-check/build PASS; Admin type-check/build PASS; smoke storefront với link Admin HTTP 200; `git diff --check` PASS. Các test DB/login runtime thật vẫn chưa chạy.
+- **BLOCKED / NEXT:** Cần MySQL development cô lập và `DB_*`, `JWT_SECRET`, `ADMIN_URL` để chạy CLI/login E2E; không tạo/sửa dữ liệu production.
+
+---
+
 ## 📌 HƯỚNG DẪN CẬP NHẬT KHI CÓ THAY ĐỔI MỚI (MAINTENANCE RULE)
 Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người phụ trách/trợ lý AI **bắt buộc** phải tuân thủ:
 1. Thêm một mục mục con mới tương ứng ngày thực hiện `[YYYY-MM-DD] - Tiêu đề công việc`.
