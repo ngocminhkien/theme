@@ -65,3 +65,15 @@ test('frontend category counts are derived from the purchasable static catalog',
     assert.equal(category.count, expected, `incorrect count for ${category.id}`);
   }
 });
+
+test('catalog visuals never use the unresolved seed asset host and remain distinct per theme', () => {
+  const thumbnails = new Set();
+  for (const theme of THEMES_DATA) {
+    assert.doesNotMatch(theme.thumbnail_url, /assets\.thememarket\.local/i, `${theme.slug} cannot use the unconfigured seed host`);
+    assert.match(theme.thumbnail_url, /^https:\/\/images\.unsplash\.com\//, `${theme.slug} must use a catalog visual from the prior storefront source`);
+    assert.ok(Array.isArray(theme.gallery_urls) && theme.gallery_urls.length > 0, `${theme.slug} needs a gallery visual`);
+    theme.gallery_urls.forEach((image) => assert.match(image, /^https:\/\/images\.unsplash\.com\//, `${theme.slug} gallery must avoid the unresolved seed host`));
+    thumbnails.add(theme.thumbnail_url);
+  }
+  assert.equal(thumbnails.size, THEMES_DATA.length, 'themes must not collapse to one shared thumbnail');
+});

@@ -3,7 +3,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { Search, ShoppingBag, LayoutTemplate, ChevronDown, X, Sparkles, ArrowRight } from 'lucide-react';
+import { Search, ShoppingBag, LayoutTemplate, ChevronDown, X, Sparkles, ArrowRight, UserRound } from 'lucide-react';
 import { useCartStore } from '@/shared/stores/cart.store';
 import { THEMES_DATA, CATEGORIES_LIST } from '@/shared/data/themes-data';
 
@@ -201,6 +201,14 @@ export function HeaderMain() {
           >
             <Sparkles className="w-4 h-4 text-brand-500" />
             <span>Kho Theme</span>
+          </Link>
+
+          <Link
+            href="/my-account"
+            className="hidden lg:flex items-center gap-1.5 text-xs font-bold text-slate-700 hover:text-brand-600 px-3.5 py-2.5 rounded-xl hover:bg-slate-100 transition"
+          >
+            <UserRound className="w-4 h-4 text-brand-500" />
+            <span>Tài khoản</span>
           </Link>
 
           {/* Cart Button */}
