@@ -18,7 +18,9 @@ function response(): { res: any; result: () => Result } {
     result: () => result,
   };
 }
-function request(body: unknown) { return { body, ip: '127.0.0.1', headers: {} } as any; }
+function request(body: unknown, user: any = { id: 7, email: 'an@example.com', role: 'customer' }) {
+  return { body, ip: '127.0.0.1', headers: {}, ...(user ? { user } : {}) } as any;
+}
 async function run(name: string, fn: () => Promise<void>) {
   try { await fn(); results.push({ name, passed: true }); console.log('  PASS ' + name); }
   catch (error) { const details = error instanceof Error ? error.message : String(error); results.push({ name, passed: false, details }); console.error('  FAIL ' + name + ': ' + details); }
@@ -65,6 +67,14 @@ const writes: any[] = [];
   return { orderId: 41, orderNumber: data.order_number };
 };
 
+await run('unauthenticated checkout is rejected before pricing or order creation', async () => {
+  stored = null; writes.length = 0;
+  const { res, result } = response();
+  await OrderController.checkout(request(payload(), null), res);
+  expect(result().statusCode === 401 && result().body.error === 'UNAUTHORIZED', 'must require an authenticated owner');
+  expect(writes.length === 0, 'must not create an anonymous order');
+});
+
 await run('valid checkout saves complete server-priced Regular items', async () => {
   stored = null; writes.length = 0;
   const { res, result } = response();
@@ -72,6 +82,7 @@ await run('valid checkout saves complete server-priced Regular items', async () 
   const reply = result();
   expect(reply.statusCode === 201 && reply.body.success, 'must create a pending order');
   expect(writes.length === 1, 'must write exactly one order');
+  expect(writes[0].user_id === 7, 'must attach the authenticated owner instead of a client user id');
   expect(writes[0].items.length === 1 && writes[0].items[0].unit_price === 599000, 'must persist server price and item');
   expect(writes[0].items[0].license_type === 'regular', 'must persist Regular only');
   expect(reply.body.data.vietQrUrl.includes('addInfo=' + reply.body.data.orderNumber), 'must return server QR tied to order');
@@ -130,6 +141,20 @@ await run('USD/Stripe is not silently replaced by a demo QR order', async () => 
   await OrderController.checkout(request(payload({ currency: 'USD', payment_method: 'stripe', total_amount: 29 })), res);
   expect(result().statusCode === 503 && result().body.error === 'PAYMENT_UNAVAILABLE', 'must report unavailable gateway');
   expect(writes.length === 0, 'must not create a fallback order');
+});
+
+await run('missing VietQR configuration returns a clear error without creating an order', async () => {
+  stored = null; writes.length = 0;
+  const originalBankAccount = ENV.PAYMENTS.VIETQR_BANK_ACCOUNT;
+  try {
+    ENV.PAYMENTS.VIETQR_BANK_ACCOUNT = '';
+    const { res, result } = response();
+    await OrderController.checkout(request(payload()), res);
+    expect(result().statusCode === 503 && result().body.error === 'PAYMENT_NOT_CONFIGURED', 'must report missing QR configuration');
+    expect(writes.length === 0, 'must not create a pending order with no real QR');
+  } finally {
+    ENV.PAYMENTS.VIETQR_BANK_ACCOUNT = originalBankAccount;
+  }
 });
 
 await run('a verified SePAY webhook delegates only to the transactional fulfillment service', async () => {

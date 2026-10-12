@@ -2,6 +2,7 @@
 
 import React, { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { ArrowLeft, CheckCircle2, Lock, RefreshCw, ShoppingBag } from 'lucide-react';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
@@ -11,6 +12,7 @@ import { CheckoutRequest } from '@/features/checkout/checkout-request';
 import { buildCheckoutPayload, validateCheckout, type CheckoutErrors } from '@/features/checkout/checkout-schema';
 import type { CheckoutOrder } from '@/features/checkout/api-client';
 import type { CartItem } from '@/shared/types';
+import { getAuthToken } from '@/features/auth/auth-client';
 
 interface PendingCheckout {
   order: CheckoutOrder;
@@ -21,6 +23,7 @@ function formatMoney(total: number, currency: 'VND' | 'USD') {
 }
 
 export default function CheckoutPage() {
+  const router = useRouter();
   const { items, currency, getTotal, removeItem } = useCartStore();
   const [fullName, setFullName] = useState('');
   const [email, setEmail] = useState('');
@@ -29,6 +32,7 @@ export default function CheckoutPage() {
   const [submitError, setSubmitError] = useState('');
   const [loading, setLoading] = useState(false);
   const [hydrated, setHydrated] = useState(false);
+  const [hasSession, setHasSession] = useState(false);
   const [pending, setPending] = useState<PendingCheckout | null>(null);
   const [showQr, setShowQr] = useState(false);
   const request = useRef(new CheckoutRequest());
@@ -39,6 +43,7 @@ export default function CheckoutPage() {
     // a privacy-restricted browser has no usable localStorage implementation.
     hydrateCart();
     setHydrated(true);
+    setHasSession(Boolean(getAuthToken()));
   }, []);
 
   const total = getTotal();
@@ -53,6 +58,10 @@ export default function CheckoutPage() {
   async function handleSubmit(event: React.FormEvent) {
     event.preventDefault();
     if (loading || pending) return;
+    if (!getAuthToken()) {
+      setSubmitError('Vui lòng đăng nhập trước khi tạo đơn để bảo vệ lịch sử đơn hàng và license của bạn.');
+      return;
+    }
     const validation = updateErrors();
     if (Object.keys(validation).length) return;
 
@@ -64,7 +73,7 @@ export default function CheckoutPage() {
         // An API response may report an already-paid retried order. Remove only its
         // original items, never clear newer unrelated cart entries.
         items.forEach(item => removeItem(item.theme.id));
-        setPending({ order, items: [...items] });
+        router.replace('/checkout/order-received?order=' + encodeURIComponent(order.orderNumber));
         return;
       }
       setPending({ order, items: [...items] });
@@ -80,6 +89,7 @@ export default function CheckoutPage() {
     if (!pending) return;
     pending.items.forEach(item => removeItem(item.theme.id));
     setShowQr(false);
+    router.replace('/checkout/order-received?order=' + encodeURIComponent(pending.order.orderNumber));
   }
 
   const formDisabled = !hydrated || loading || Boolean(pending);
@@ -117,10 +127,15 @@ export default function CheckoutPage() {
                   </div>
                 </div>
                 {pending.order.payment_status === 'pending' && (
-                  <button type="button" onClick={() => setShowQr(true)}
-                    className="inline-flex items-center gap-2 rounded-xl bg-brand-600 px-4 py-2.5 text-xs font-extrabold text-white hover:bg-brand-500">
-                    <RefreshCw className="w-3.5 h-3.5" /> Mở mã VietQR / kiểm tra trạng thái
-                  </button>
+                  <div className="flex flex-wrap gap-2">
+                    <button type="button" onClick={() => setShowQr(true)}
+                      className="inline-flex items-center gap-2 rounded-xl bg-brand-600 px-4 py-2.5 text-xs font-extrabold text-white hover:bg-brand-500">
+                      <RefreshCw className="w-3.5 h-3.5" /> Mở mã VietQR / kiểm tra trạng thái
+                    </button>
+                    <Link href={'/checkout/order-received?order=' + encodeURIComponent(pending.order.orderNumber)} className="inline-flex items-center rounded-xl border border-brand-200 bg-white px-4 py-2.5 text-xs font-extrabold text-brand-700">
+                      Xem biên nhận
+                    </Link>
+                  </div>
                 )}
               </div>
             ) : (
@@ -173,6 +188,7 @@ export default function CheckoutPage() {
 
                 {errors.cart && <p className="text-xs text-red-600" role="alert">{errors.cart}</p>}
                 {submitError && <p className="rounded-xl bg-red-50 p-3 text-xs text-red-700" role="alert">{submitError}</p>}
+                {!hasSession && <Link href="/my-account?returnTo=/checkout" className="block text-center text-xs font-bold text-brand-600 hover:text-brand-700">Đăng nhập hoặc tạo tài khoản để thanh toán</Link>}
 
                 <div className="pt-4">
                   <button type="submit" disabled={formDisabled}

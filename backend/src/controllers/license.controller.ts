@@ -3,6 +3,7 @@ import { LicenseModel } from '../models/license.model.js';
 import { ResponseView } from '../views/response.view.js';
 import { LicenseActivateSchema } from '../validators/payment.validator.js';
 import { SecurityLogger } from '../middlewares/security.middleware.js';
+import { AuthRequest } from '../middlewares/auth.middleware.js';
 
 export class LicenseController {
   /**
@@ -67,15 +68,31 @@ export class LicenseController {
    * Lấy danh sách bản quyền của khách hàng (Cổng My Account)
    * Endpoint: GET /api/v1/licenses/my-licenses
    */
-  static async getMyLicenses(req: Request, res: Response) {
+  static async getMyLicenses(req: AuthRequest, res: Response) {
     try {
-      // Hỗ trợ lấy theo user_id hoặc demo user ID = 1
-      const userId = Number(req.query.userId || (req as any).user?.id || 1);
-      const licenses = await LicenseModel.findByUserId(userId);
+      if (!req.user) return ResponseView.unauthorized(res, 'Vui lòng đăng nhập để xem license.');
+      const licenses = await LicenseModel.findByUserId(req.user.id);
 
       return ResponseView.success(res, licenses, 'Lấy danh sách bản quyền thành công.');
     } catch (error: any) {
       return ResponseView.error(res, error.message);
+    }
+  }
+
+  /**
+   * Checks the JWT owner and the license before a future storage signer is used.
+   * Do not redirect to the old placeholder asset host: no trusted signed-download
+   * provider is configured in this repository yet.
+   */
+  static async downloadForOwner(req: AuthRequest, res: Response) {
+    try {
+      if (!req.user) return ResponseView.unauthorized(res, 'Vui lòng đăng nhập để tải theme.');
+      const license = await LicenseModel.findByKey(req.params.licenseKey as string);
+      if (!license || license.user_id !== req.user.id) return ResponseView.notFound(res, 'Không tìm thấy license thuộc tài khoản này.');
+      if (license.status !== 'active') return ResponseView.error(res, 'License không còn hiệu lực để tải theme.', 'LICENSE_NOT_ACTIVE', 403);
+      return ResponseView.error(res, 'Kho tệp tải bảo mật chưa được cấu hình. License của bạn vẫn hợp lệ; vui lòng thử lại sau.', 'DOWNLOAD_NOT_CONFIGURED', 503);
+    } catch {
+      return ResponseView.error(res, 'Chưa thể kiểm tra quyền tải theme. Vui lòng thử lại.', 'DOWNLOAD_UNAVAILABLE', 503);
     }
   }
 

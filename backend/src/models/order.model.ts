@@ -218,6 +218,33 @@ export class OrderModel {
   }
 
   /**
+   * Returns only persisted orders owned by one authenticated customer. Portal
+   * endpoints deliberately do not use the in-memory fallback or an email query.
+   */
+  static async findByUserId(userId: number): Promise<Order[]> {
+    const [rows] = await dbPool.query<RowDataPacket[]>(
+      `SELECT * FROM orders
+       WHERE user_id = ?
+       ORDER BY created_at DESC, id DESC`,
+      [userId]
+    );
+
+    const orders = rows as Order[];
+    for (const order of orders) {
+      const [itemRows] = await dbPool.query<RowDataPacket[]>(
+        `SELECT oi.*, t.name as theme_name
+         FROM order_items oi
+         LEFT JOIN themes t ON oi.theme_id = t.id
+         WHERE oi.order_id = ?
+         ORDER BY oi.id ASC`,
+        [order.id]
+      );
+      order.items = itemRows as OrderItem[];
+    }
+    return orders;
+  }
+
+  /**
    * Cập nhật trạng thái thanh toán thành công
    */
   static async markAsPaid(orderId: number): Promise<boolean> {

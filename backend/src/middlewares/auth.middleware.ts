@@ -26,3 +26,11 @@ export function authMiddleware(req: AuthRequest, res: Response, next: NextFuncti
     return ResponseView.unauthorized(res, 'Token không hợp lệ hoặc đã hết hạn.');
   }
 }
+
+export function requireAdmin(req: AuthRequest, res: Response, next: NextFunction) {
+  if (!req.user || req.user.role !== 'admin') {
+    return ResponseView.error(res, 'Bạn không có quyền truy cập khu vực quản trị.', 'FORBIDDEN', 403);
+  }
+  next();
+}
+

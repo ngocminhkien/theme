@@ -12,6 +12,7 @@ interface VietQrModalProps {
 }
 export function VietQrModal({ order, qrUrl, onPaid, onClose }: VietQrModalProps) {
   const [checking, setChecking] = useState(false);
+  const [imageError, setImageError] = useState(false);
   const [message, setMessage] = useState('Đang chờ máy chủ xác nhận thanh toán.');
   const paidRef = useRef(false);
 
@@ -51,7 +52,14 @@ export function VietQrModal({ order, qrUrl, onPaid, onClose }: VietQrModalProps)
         <h3 id="vietqr-title" className="text-xl font-bold text-gray-900 mb-1">Quét Mã VietQR Thanh Toán</h3>
         <p className="text-xs text-gray-500 mb-4">Quét bằng ứng dụng ngân hàng. Nội dung chuyển khoản đã chứa mã đơn.</p>
         <div className="bg-gray-50 p-4 rounded-xl border border-gray-100 mb-4 flex justify-center">
-          <img src={qrUrl} alt={'Mã VietQR cho đơn ' + order.orderNumber} className="w-56 h-auto object-contain rounded-lg shadow-sm" />
+          {imageError ? (
+            <p className="max-w-xs text-xs leading-relaxed text-red-700" role="alert">
+              Không tải được hình mã VietQR do máy chủ trả về. Đơn và giỏ hàng vẫn được giữ nguyên; vui lòng đóng cửa sổ, kiểm tra cấu hình thanh toán rồi thử lại.
+            </p>
+          ) : (
+            <img src={qrUrl} alt={'Mã VietQR cho đơn ' + order.orderNumber}
+              className="w-56 h-auto object-contain rounded-lg shadow-sm" onError={() => setImageError(true)} />
+          )}
         </div>
         <div className="text-left bg-blue-50/60 p-3 rounded-lg text-xs space-y-1 mb-4 text-gray-700">
           <div className="flex justify-between"><span>Mã đơn hàng:</span><span className="font-bold text-blue-800">{order.orderNumber}</span></div>

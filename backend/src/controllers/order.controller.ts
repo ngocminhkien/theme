@@ -2,10 +2,12 @@ import { Request, Response } from 'express';
 import crypto from 'crypto';
 import { Order, OrderModel } from '../models/order.model.js';
 import { ThemeModel } from '../models/theme.model.js';
+import { LicenseModel } from '../models/license.model.js';
 import { SePayService } from '../services/sepay.service.js';
 import { ResponseView } from '../views/response.view.js';
 import { CheckoutOrderSchema } from '../validators/payment.validator.js';
 import { ENV } from '../config/env.js';
+import { AuthRequest } from '../middlewares/auth.middleware.js';
 
 function checkoutResponse(order: Order) {
   return {
@@ -22,8 +24,9 @@ function checkoutResponse(order: Order) {
 }
 
 export class OrderController {
-  static async checkout(req: Request, res: Response) {
+  static async checkout(req: AuthRequest, res: Response) {
     try {
+      if (!req.user) return ResponseView.unauthorized(res, 'Vui lòng đăng nhập trước khi tạo đơn để bảo vệ lịch sử và license của bạn.');
       const parsed = CheckoutOrderSchema.safeParse(req.body);
       if (!parsed.success) {
         return ResponseView.error(res, parsed.error.errors.map(e => e.message).join(', '), 'VALIDATION_ERROR', 400);
@@ -33,7 +36,8 @@ export class OrderController {
       data.items.sort((a, b) => a.theme_id - b.theme_id);
       const fingerprint = crypto.createHash('sha256').update(JSON.stringify(data)).digest('hex');
 
-      // These integrations currently return test sessions, not real payment URLs.
+      // VietQR is the only configured payment path; never substitute another
+      // gateway or a demo QR when its server-side configuration is absent.
       if (data.payment_method !== 'vietqr' || data.currency !== 'VND') {
         return ResponseView.error(res, 'Hiện chỉ hỗ trợ VietQR bằng VND. Stripe/PayPal chưa sẵn sàng; không tự quy đổi tiền tệ.', 'PAYMENT_UNAVAILABLE', 503);
       }
@@ -84,6 +88,7 @@ export class OrderController {
       const orderNumber = 'OD-' + new Date().toISOString().slice(0, 10).replace(/-/g, '') + '-' + crypto.randomBytes(3).toString('hex').toUpperCase();
       await OrderModel.createWithItems({
         ...data,
+        user_id: req.user.id,
         order_number: orderNumber,
         total_amount: total,
         items: pricedItems,
@@ -102,13 +107,72 @@ export class OrderController {
     }
   }
 
-  static async getOrderStatus(req: Request, res: Response) {
+  static async getMyOrders(req: AuthRequest, res: Response) {
     try {
+      if (!req.user) return ResponseView.unauthorized(res, 'Vui lòng đăng nhập để xem đơn hàng.');
+      const orders = await OrderModel.findByUserId(req.user.id);
+      return ResponseView.success(res, orders.map(order => ({
+        orderNumber: order.order_number,
+        total_amount: Number(order.total_amount),
+        currency: order.currency,
+        payment_method: order.payment_method,
+        payment_status: order.payment_status,
+        order_status: order.order_status,
+        created_at: order.created_at,
+        items: (order.items || []).map(item => ({
+          theme_id: item.theme_id,
+          theme_name: item.theme_name || 'Theme',
+          license_type: item.license_type,
+          unit_price: Number(item.unit_price),
+        })),
+      })));
+    } catch {
+      return ResponseView.error(res, 'Chưa tải được lịch sử đơn hàng. Vui lòng thử lại.', 'ORDER_HISTORY_UNAVAILABLE', 503);
+    }
+  }
+
+  static async getReceipt(req: AuthRequest, res: Response) {
+    try {
+      if (!req.user) return ResponseView.unauthorized(res, 'Vui lòng đăng nhập để xem đơn hàng.');
       const order = await OrderModel.findByOrderNumber(req.params.orderNumber as string, true);
-      if (!order) return ResponseView.notFound(res, 'Không tìm thấy đơn hàng.');
+      // Return the same not-found response for an absent order and an order owned
+      // by another user, so an order number cannot be used for enumeration.
+      if (!order || order.user_id !== req.user.id) return ResponseView.notFound(res, 'Không tìm thấy đơn hàng của tài khoản này.');
+      const licenses = order.payment_status === 'paid' && order.order_status === 'completed'
+        ? await LicenseModel.findByOrderId(order.id) : [];
+      return ResponseView.success(res, {
+        orderNumber: order.order_number,
+        total_amount: Number(order.total_amount),
+        currency: order.currency,
+        payment_method: order.payment_method,
+        payment_status: order.payment_status,
+        order_status: order.order_status,
+        created_at: order.created_at,
+        items: (order.items || []).map(item => ({
+          theme_id: item.theme_id,
+          theme_name: item.theme_name || 'Theme',
+          license_type: item.license_type,
+          unit_price: Number(item.unit_price),
+        })),
+        licenses: licenses.map(license => ({
+          license_key: license.license_key,
+          license_type: license.license_type,
+          max_domains: license.max_domains,
+          theme_name: license.theme_name || 'Theme',
+        })),
+      });
+    } catch {
+      return ResponseView.error(res, 'Chưa tải được biên nhận đơn hàng. Vui lòng thử lại.', 'ORDER_RECEIPT_UNAVAILABLE', 503);
+    }
+  }
+
+  static async getOrderStatus(req: AuthRequest, res: Response) {
+    try {
+      if (!req.user) return ResponseView.unauthorized(res, 'Vui lòng đăng nhập để kiểm tra đơn hàng.');
+      const order = await OrderModel.findByOrderNumber(req.params.orderNumber as string, true);
+      if (!order || order.user_id !== req.user.id) return ResponseView.notFound(res, 'Không tìm thấy đơn hàng của tài khoản này.');
       let licenses: any[] = [];
       if (order.payment_status === 'paid') {
-        const { LicenseModel } = await import('../models/license.model.js');
         licenses = await LicenseModel.findByOrderId(order.id);
       }
       return ResponseView.success(res, {
