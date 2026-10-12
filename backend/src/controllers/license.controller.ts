@@ -1,6 +1,8 @@
 import { Request, Response } from 'express';
 import { LicenseModel } from '../models/license.model.js';
 import { ResponseView } from '../views/response.view.js';
+import { LicenseActivateSchema } from '../validators/payment.validator.js';
+import { SecurityLogger } from '../middlewares/security.middleware.js';
 
 export class LicenseController {
   /**
@@ -9,19 +11,28 @@ export class LicenseController {
    */
   static async activate(req: Request, res: Response) {
     try {
-      const { license_key, domain } = req.body;
-
-      if (!license_key || !domain) {
-        return ResponseView.error(res, 'Vui lòng cung cấp đầy đủ license_key và domain.');
+      const parseResult = LicenseActivateSchema.safeParse(req.body);
+      if (!parseResult.success) {
+        const errorMsg = parseResult.error.errors.map((e) => e.message).join(', ');
+        return ResponseView.error(res, errorMsg, 'VALIDATION_ERROR', 400);
       }
 
-      const clientIp = req.ip || (req.headers['x-forwarded-for'] as string);
+      const { license_key, domain } = parseResult.data;
+      const clientIp = (req.ip || (req.headers['x-forwarded-for'] as string) || '127.0.0.1').split(',')[0].trim();
+
       const result = await LicenseModel.activateDomain(license_key, domain, clientIp);
 
       if (!result.success) {
+        SecurityLogger.warn('LICENSE_ACTIVATION_REJECTED', {
+          ip: clientIp,
+          license_key,
+          domain,
+          reason: result.message,
+        });
         return ResponseView.error(res, result.message, undefined, 400);
       }
 
+      SecurityLogger.info('LICENSE_ACTIVATED', { ip: clientIp, license_key, domain });
       return ResponseView.success(res, result, result.message);
     } catch (error: any) {
       return ResponseView.error(res, error.message);

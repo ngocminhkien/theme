@@ -370,6 +370,48 @@ async function main() {
     assert(location && location.includes('.zip'), `Location header phải trỏ đến file zip, nhận: ${location}`);
   });
 
+  // -------------------------------------------------------------
+  // PHẦN 6: LÁ CHẮN BẢO MẬT & CHỐNG HACK GIAO DỊCH (BANK-GRADE SECURITY)
+  // -------------------------------------------------------------
+  console.log('\n🛡️ NHÓM 6: LÁ CHẮN BẢO MẬT TÀI CHÍNH (ANTI-TAMPERING & SCHEMA DEFENSE)');
+
+  await runTestCase('6.1 Chặn đứng tấn công can thiệp sửa giá tiền (Price Tampering Protection)', async () => {
+    // Hacker cố tình mua Theme ID 1 (giá niêm yết 890.000đ) nhưng sửa giá thành 10.000đ
+    const res = await fetch(`${baseUrl}/api/v1/orders/checkout`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        customer_name: 'Hacker Thử Nghiệm',
+        customer_email: 'hacker@example.com',
+        total_amount: 10000, // Sửa giá
+        currency: 'VND',
+        theme_id: 1,
+        license_type: 'regular',
+        payment_method: 'vietqr',
+      }),
+    });
+    const body = await res.json();
+    assert(res.status === 400, `Hệ thống phải chặn đứng HTTP 400 khi can thiệp giá, nhận: ${res.status}`);
+    assert(body.error === 'PRICE_TAMPERING_DETECTED', `Phải bắt đúng mã lỗi PRICE_TAMPERING_DETECTED, nhận: ${body.error}`);
+  });
+
+  await runTestCase('6.2 Chặn dữ liệu không hợp lệ bằng Zod Schema (Email rác, số tiền âm)', async () => {
+    const res = await fetch(`${baseUrl}/api/v1/orders/checkout`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        customer_name: 'A', // Quá ngắn (< 2 ký tự)
+        customer_email: 'not-an-email', // Email không hợp lệ
+        total_amount: -50000, // Số tiền âm
+        currency: 'VND',
+        payment_method: 'vietqr',
+      }),
+    });
+    const body = await res.json();
+    assert(res.status === 400, `Phải trả về HTTP 400 khi schema vi phạm, nhận: ${res.status}`);
+    assert(body.error === 'VALIDATION_ERROR', 'Phải trả về VALIDATION_ERROR');
+  });
+
   // Đóng server
   server.close();
 

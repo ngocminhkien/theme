@@ -5,17 +5,35 @@ import { LicenseService } from '../services/license.service.js';
 import { SePayService } from '../services/sepay.service.js';
 import { PaymentModel } from '../models/payment.model.js';
 import { ResponseView } from '../views/response.view.js';
+import { SepayWebhookSchema } from '../validators/payment.validator.js';
+import { SecurityLogger } from '../middlewares/security.middleware.js';
 import crypto from 'crypto';
+
+// Mutex Lock chống Race Condition / Double Spending
+const webhookProcessingLocks = new Set<string>();
 
 export class PaymentController {
   /**
    * Webhook tự động nhận thông báo từ SePAY (VietQR 3 giây)
+   * Tích hợp lớp phòng thủ chống tấn công Race Condition, Replay Attack & Giả mạo chữ ký
    */
   static async handleSepayWebhook(req: Request, res: Response) {
     try {
+      // 1. Xác thực bảo mật chữ ký Webhook (Constant-time timing safe)
       const apiKey = req.headers['authorization'];
       if (!SePayService.verifyWebhook(apiKey)) {
+        SecurityLogger.alert('INVALID_WEBHOOK_SIGNATURE', {
+          ip: req.ip || req.headers['x-forwarded-for'],
+          headers: req.headers,
+        });
         return res.status(401).json({ success: false, message: 'Invalid SePAY Authorization Key' });
+      }
+
+      // 2. Validate payload schema bằng Zod
+      const parseResult = SepayWebhookSchema.safeParse(req.body);
+      if (!parseResult.success) {
+        SecurityLogger.warn('MALFORMED_WEBHOOK_PAYLOAD', parseResult.error.errors);
+        return res.status(400).json({ success: false, message: 'Dữ liệu webhook không hợp lệ', errors: parseResult.error.errors });
       }
 
       const {
@@ -23,39 +41,52 @@ export class PaymentController {
         content,
         transferAmount,
         gateway = 'vietqr',
-      } = req.body;
+      } = parseResult.data;
 
-      console.log(`[SePAY Webhook] Nhận giao dịch #${transactionId || 'N/A'}: ${content}, Số tiền: ${transferAmount}đ`);
+      SecurityLogger.info('WEBHOOK_RECEIVED', { transactionId, content, transferAmount });
 
-      // 1. Phân tích nội dung chuyển khoản để lấy mã đơn hàng OD-YYYYMMDD-XXXX
+      // 3. Phân tích nội dung chuyển khoản để lấy mã đơn hàng OD-YYYYMMDD-XXXX
       const match = content ? content.match(/OD-\d{8}-[A-F0-9]{6}/i) : null;
       if (!match) {
-        console.warn('[SePAY Webhook] Nội dung chuyển khoản không chứa mã đơn hợp lệ.');
+        SecurityLogger.warn('WEBHOOK_NO_ORDER_MATCH', { content });
         return res.status(200).json({ success: true, message: 'Bỏ qua vì không khớp cú pháp mã đơn' });
       }
 
       const orderNumber = match[0].toUpperCase();
-      const order = await OrderModel.findByOrderNumber(orderNumber);
 
-      if (!order) {
-        console.warn(`[SePAY Webhook] Không tìm thấy đơn hàng: ${orderNumber}`);
-        return res.status(200).json({ success: true, message: 'Đơn hàng không tồn tại' });
+      // 4. Concurrency Mutex Lock: Ngăn chặn xử lý đồng thời 2 webhook cho cùng 1 đơn hàng
+      if (webhookProcessingLocks.has(orderNumber)) {
+        SecurityLogger.warn('CONCURRENT_WEBHOOK_LOCKED', { orderNumber });
+        return res.status(200).json({ success: true, message: 'Giao dịch đang được xử lý trong tiến trình song song an toàn' });
       }
+      webhookProcessingLocks.add(orderNumber);
 
-      // 2. Bảo vệ Idempotency: Kiểm tra giao dịch đã từng xử lý chưa
-      const uniqueTxId = String(transactionId || `TX-${orderNumber}-${Date.now()}`);
-      const existingPayment = await PaymentModel.findByTransaction('vietqr', uniqueTxId);
-      if (existingPayment || order.payment_status === 'paid') {
-        console.log(`[SePAY Webhook] Giao dịch ${uniqueTxId} của đơn ${orderNumber} đã hoàn tất trước đó.`);
-        return res.status(200).json({ success: true, message: 'Đơn hàng đã được xử lý trước đó' });
-      }
+      try {
+        const order = await OrderModel.findByOrderNumber(orderNumber);
 
-      // 3. Kiểm tra số tiền chuyển thực tế (phải >= tổng tiền đơn hàng)
-      const paidAmount = Number(transferAmount);
-      if (paidAmount < order.total_amount) {
-        console.warn(`[SePAY Webhook] Số tiền chuyển (${paidAmount}) nhỏ hơn giá trị đơn hàng (${order.total_amount})`);
-        return res.status(400).json({ success: false, message: 'Số tiền chuyển khoản chưa đủ' });
-      }
+        if (!order) {
+          SecurityLogger.warn('ORDER_NOT_FOUND', { orderNumber });
+          return res.status(200).json({ success: true, message: 'Đơn hàng không tồn tại' });
+        }
+
+        // 5. Bảo vệ Idempotency: Kiểm tra giao dịch đã từng xử lý chưa
+        const uniqueTxId = String(transactionId || `TX-${orderNumber}-${Date.now()}`);
+        const existingPayment = await PaymentModel.findByTransaction('vietqr', uniqueTxId);
+        if (existingPayment || order.payment_status === 'paid') {
+          SecurityLogger.info('WEBHOOK_ALREADY_PROCESSED', { uniqueTxId, orderNumber });
+          return res.status(200).json({ success: true, message: 'Đơn hàng đã được xử lý trước đó' });
+        }
+
+        // 6. Kiểm tra số tiền chuyển thực tế (phải >= tổng tiền đơn hàng)
+        const paidAmount = Number(transferAmount);
+        if (paidAmount < order.total_amount) {
+          SecurityLogger.alert('INSUFFICIENT_PAYMENT_DETECTED', {
+            orderNumber,
+            paidAmount,
+            orderTotal: order.total_amount,
+          });
+          return res.status(400).json({ success: false, message: 'Số tiền chuyển khoản chưa đủ' });
+        }
 
       // 4. Cập nhật trạng thái đơn hàng sang 'paid'
       await OrderModel.markAsPaid(order.id);
@@ -104,6 +135,9 @@ export class PaymentController {
           licenses: generatedLicenses,
         },
       });
+    } finally {
+      webhookProcessingLocks.delete(orderNumber);
+    }
     } catch (error: any) {
       console.error('[SePAY Webhook Error]:', error);
       return res.status(500).json({ success: false, error: error.message });
