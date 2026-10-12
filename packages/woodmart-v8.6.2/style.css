@@ -1,0 +1,16 @@
+/*
+Theme Name: Woodmart - Multipurpose WooCommerce Theme
+Theme URI: https://woodmart.xtemos.com/
+Author: XTemos
+Author URI: https://xtemos.com/
+Description: Premium Multipurpose WooCommerce & WordPress Theme optimized for performance, SEO and mobile devices.
+Version: 8.6.2
+License: Commercial License
+License URI: https://thememarket.local/licenses/terms
+Text Domain: woodmart
+Tags: e-commerce, elementor, woocommerce, responsive-layout, clean-code
+*/
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}

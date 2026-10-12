@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
+import { register } from '@/features/auth/auth-client';
 import {
   Layers,
   Mail,
@@ -54,6 +55,11 @@ export default function RegisterPage() {
       return;
     }
 
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      setErrorMsg('Định dạng email không hợp lệ.');
+      return;
+    }
+
     if (password.length < 6) {
       setErrorMsg('Mật khẩu phải có tối thiểu 6 ký tự.');
       return;
@@ -71,15 +77,24 @@ export default function RegisterPage() {
 
     setLoading(true);
 
-    // Simulate registration delay for smooth UX
-    setTimeout(() => {
-      setLoading(false);
-      setSuccessMsg('Đăng ký tài khoản thành công! Tặng bạn mã giảm giá 20%: THEMESTORE20. Đang chuyển về trang đăng nhập...');
+    try {
+      const session = await register({
+        full_name: fullName,
+        email,
+        password,
+        phone: phone.trim() ? phone.trim() : undefined,
+      });
+      setSuccessMsg(`Đăng ký tài khoản thành công! Xin chào ${session.user.full_name || session.user.email}. Tặng bạn mã THEMESTORE20. Đang chuyển hướng...`);
       setTimeout(() => {
-        router.push('/login');
-      }, 1500);
-    }, 1200);
+        router.push('/my-account');
+      }, 1200);
+    } catch (err: unknown) {
+      setErrorMsg(err instanceof Error ? err.message : 'Đăng ký tài khoản không thành công. Vui lòng kiểm tra lại.');
+    } finally {
+      setLoading(false);
+    }
   };
+
 
   const handleSocialRegister = (provider: string) => {
     setLoading(true);

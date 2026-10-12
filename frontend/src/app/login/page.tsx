@@ -1,8 +1,9 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { Suspense, useState } from 'react';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
+import { login } from '@/features/auth/auth-client';
 import {
   Layers,
   Mail,
@@ -19,8 +20,10 @@ import {
   Flame,
 } from 'lucide-react';
 
-export default function LoginPage() {
+function LoginContent() {
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const redirectTarget = searchParams.get('redirect') || '/my-account';
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
@@ -41,15 +44,19 @@ export default function LoginPage() {
 
     setLoading(true);
 
-    // Simulate authentication delay for smooth UX
-    setTimeout(() => {
-      setLoading(false);
-      setSuccessMsg('Đăng nhập thành công! Đang chuyển hướng về cửa hàng...');
+    try {
+      const session = await login(email, password);
+      setSuccessMsg(`Đăng nhập thành công! Xin chào ${session.user.full_name || session.user.email}. Đang chuyển hướng...`);
       setTimeout(() => {
-        router.push('/');
-      }, 1200);
-    }, 1000);
+        router.push(redirectTarget);
+      }, 1000);
+    } catch (err: unknown) {
+      setErrorMsg(err instanceof Error ? err.message : 'Đăng nhập không thành công. Vui lòng kiểm tra lại.');
+    } finally {
+      setLoading(false);
+    }
   };
+
 
   const handleSocialLogin = (provider: string) => {
     setLoading(true);
@@ -360,3 +367,18 @@ export default function LoginPage() {
     </div>
   );
 }
+
+export default function LoginPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen w-full flex items-center justify-center bg-slate-50">
+          <Loader2 className="w-8 h-8 text-brand-600 animate-spin" />
+        </div>
+      }
+    >
+      <LoginContent />
+    </Suspense>
+  );
+}
+

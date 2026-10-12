@@ -245,6 +245,114 @@
 
 ---
 
+### [2026-10-12] - Tiếp Nhận Vai Trò Member 02 — Hoàn Thiện Core Auth & User Profile
+
+- **Bối cảnh & Tiếp nhận:** Tiếp nhận toàn bộ phạm vi công việc của Thành viên 02 (BE Core, Auth, Categories & Catalog).
+- **Thêm mới (Add):**
+  - `backend/tests/member2_auth_catalog.test.ts`: Bộ kiểm thử tự động 10/10 test cases cho AuthController và UserService (kiểm tra định dạng email, độ dài mật khẩu, không rò rỉ password_hash, từ chối tài khoản banned, đăng nhập an toàn, getProfile từ DB, cập nhật profile họ tên/SĐT, đổi mật khẩu có xác thực mật khẩu cũ).
+- **Sửa đổi (Modify / Fix):**
+  - `backend/src/models/user.model.ts`: Thêm interface `SafeUser`, thêm method `findFullById` (để kiểm tra mật khẩu), `updateProfile` (cập nhật full_name, phone) và `updatePassword` (cập nhật hash mật khẩu mới).
+  - `backend/src/services/auth.service.ts`: Chuẩn hóa email lowercase/trim; loại bỏ triệt để `password_hash` trong kết quả đăng ký/đăng nhập; thêm chặn tài khoản `banned`; nâng cấp `getProfile` truy vấn dữ liệu thực từ MySQL; bổ sung `updateProfile` và `changePassword`.
+  - `backend/src/controllers/auth.controller.ts`: Xác thực email regex và độ dài mật khẩu; nâng cấp `getProfile` lấy thông tin chi tiết; thêm endpoint `updateProfile` và `changePassword`.
+  - `backend/src/routes/auth.routes.ts`: Bổ sung `PUT /api/v1/auth/profile` và `PUT /api/v1/auth/change-password` với `authMiddleware`.
+  - `backend/src/routes/index.ts` & `backend/src/app.ts`: Mount `adminRouter` (`/api/v1/admin`) và cập nhật danh mục Discovery endpoints.
+  - `frontend/src/features/auth/auth-client.ts`: Bổ sung các hàm client `updateProfile`, `changePassword`, `logout`.
+  - `frontend/src/app/login/page.tsx`: Gỡ bỏ mô phỏng giả lập `setTimeout`, nối trực tiếp hàm `login()` với backend API qua JWT Bearer token, hỗ trợ chuyển hướng `redirect` param hoặc `/my-account`, bọc Suspense boundary cho Next.js 15 prerender.
+  - `frontend/src/app/register/page.tsx`: Gỡ bỏ mô phỏng `setTimeout`, nối trực tiếp hàm `register()` với backend API, tự động lưu token và chuyển hướng đến trang `/my-account`.
+- **Xác minh (Verification) — kết quả thực tế:**
+  - Backend Type Check (`tsc --noEmit`): **PASS** (Exit code 0).
+  - Backend Build (`tsc`): **PASS** (Exit code 0).
+  - Backend Member 2 Unit Tests (`member2_auth_catalog.test.ts`): **10/10 PASS**.
+  - Backend Member 5 Tests (`member5_portal.test.ts` 6/6 PASS, `member5_checkout.test.ts` 11/11 PASS, `member5_payment_fulfillment.test.ts` 6/6 PASS).
+  - Frontend Node Tests (`tests/*.test.cjs`): **28/28 PASS**.
+  - Frontend Type Check (`npm run type-check`): **PASS** (Exit code 0).
+  - Frontend Production Build (`next build`): **PASS** (30/30 static & SSG pages tạo thành công).
+
+---
+
+### [2026-10-12] - Member 02 — Nâng Cấp Categories Module & Bộ Lọc Theme Đa Chiều (Faceted Search)
+
+- **Bối cảnh:** Triển khai Bước 2 theo Sprint Backlog của Thành viên 02: Quản lý danh mục ngành nghề có đếm theme và hệ thống bộ lọc nâng cao cho kho theme.
+- **Thêm mới (Add):**
+  - `backend/src/controllers/category.controller.ts`: Controller xử lý danh mục RESTful (`getAll`, `getBySlug`, `create`, `update` cho admin).
+  - `backend/src/routes/category.routes.ts`: Router định tuyến chuẩn cho `/api/v1/categories` (public đọc, admin ghi).
+- **Sửa đổi (Modify / Fix):**
+  - `backend/src/models/category.model.ts`: Thêm `themes_count` qua `LEFT JOIN` với bảng `themes` (đếm số lượng theme published theo từng danh mục), hỗ trợ `findById`, `findBySlug`, `create`, `update`.
+  - `backend/src/models/theme.model.ts`: Nâng cấp `ThemeModel.findAll` hỗ trợ bộ lọc đa chiều (Faceted Search):
+    * Lọc theo danh mục: `category_slug` hoặc `category_id`.
+    * Lọc theo trình dựng trang: `builder` (`Elementor`, `WPBakery`, `Gutenberg`, `Bricks`).
+    * Lọc theo khoảng giá: `min_price` và `max_price` (tự động điều hướng theo đơn vị tiền tệ `price_vnd` hoặc `price_usd`).
+    * Sắp xếp đa tiêu chí (`sort`): `sales` (bán chạy nhất), `newest` (mới nhất), `price_asc` (giá tăng dần), `price_desc` (giá giảm dần), `rating` (đánh giá cao nhất).
+    * Phân trang chuẩn hóa: `limit` và `offset`.
+  - `backend/src/controllers/theme.controller.ts`: Trích xuất đầy đủ query params và chuyển giao xuống `ThemeModel.findAll`.
+  - `backend/src/routes/index.ts` & `backend/src/app.ts`: Mount `apiRouter.use('/categories', categoryRouter)` và cập nhật discovery `categories_list`.
+  - `backend/tests/member2_auth_catalog.test.ts`: Bổ sung 7 test cases kiểm thử tự động cho Category Controller và Faceted Search.
+- **Xác minh (Verification) — kết quả thực tế:**
+  - Backend Lint (`tsc --noEmit`): **PASS** (Exit code 0).
+  - Backend Build (`tsc`): **PASS** (Exit code 0).
+  - Backend Member 2 Suite (`member2_auth_catalog.test.ts`): **17/17 PASS**.
+  - Frontend Node Tests: **28/28 PASS**.
+
+---
+
+### [2026-10-12] - Member 02 — Hoàn Thiện Storage Module & Presigned Download URLs Bảo Mật
+
+- **Bối cảnh:** Triển khai Bước 3 theo Sprint Backlog của Thành viên 02: Xây dựng dịch vụ quản lý lưu trữ (Cloudflare R2 / AWS S3 SDK), sinh presigned download URL có thời hạn TTL 30 phút chống giả mạo chữ ký số, và ghi nhận audit log vào bảng `download_logs`.
+- **Thêm mới (Add):**
+  - `backend/src/services/storage.service.ts`: Dịch vụ lưu trữ tệp tin đám mây:
+    * `isConfigured()`: Kiểm tra trạng thái cấu hình R2/S3.
+    * `generatePresignedDownloadUrl()`: Sinh liên kết tải tệp nén `.zip` có mã hóa chữ ký HMAC-SHA256 kèm tham số thời hạn `expires` (TTL 30 phút) và token bản quyền.
+    * `verifyPresignedUrl()`: Xác thực chữ ký URL với thuật toán an toàn `crypto.timingSafeEqual` (chống Timing Attack) và kiểm tra hạn sử dụng.
+    * `getLatestThemeVersion()`: Truy vấn bản phát hành theme ổn định từ bảng `theme_versions`.
+    * `recordDownloadLog()`: Ghi nhật ký bảo mật (IP, User-Agent, user_id, license_id, theme_id, version_id) vào bảng `download_logs`.
+- **Sửa đổi (Modify / Fix):**
+  - `backend/src/controllers/license.controller.ts`: Nâng cấp `downloadForOwner` tích hợp `StorageService`:
+    * Khi storage chưa cấu hình: trả về lỗi an toàn `503 DOWNLOAD_NOT_CONFIGURED` (bảo đảm giữ nguyên test suite của Member 5).
+    * Khi storage đã cấu hình: tự động tra cứu version mới nhất, ghi log vào `download_logs`, sinh Presigned URL 30 phút và trả về cho client.
+  - `backend/src/controllers/updater.controller.ts`: Sử dụng `StorageService.recordDownloadLog` và `StorageService.generatePresignedDownloadUrl` khi WordPress PUC updater tải gói cập nhật giao diện.
+  - `backend/tests/member2_auth_catalog.test.ts`: Bổ sung 3 test cases cho StorageService (kiểm tra trạng thái unconfigured, sinh URL có chữ ký hợp lệ, từ chối token hết hạn/chữ ký giả mạo).
+- **Xác minh (Verification) — kết quả thực tế:**
+  - Backend Lint (`tsc --noEmit`): **PASS** (Exit code 0).
+  - Backend Build (`tsc`): **PASS** (Exit code 0).
+  - Backend Member 2 Suite (`member2_auth_catalog.test.ts`): **20/20 PASS**.
+  - Backend Member 5 Suite (`member5_portal.test.ts`): **6/6 PASS**.
+  - Frontend Node Tests (`tests/*.test.cjs`): **28/28 PASS**.
+
+---
+
+### [2026-10-12] - Member 01 — Hoàn Thiện Toàn Diện 4 Hạng Mục DevOps, CI/CD Runner, MinIO Storage & Production VPS
+
+- **Bối cảnh & Quyết định:** Thực hiện toàn bộ 4 hạng mục trọng tâm của Lead DevOps & Database Architect theo yêu cầu: (1) Tối ưu hóa CI/CD Test Runner tổng hợp, (2) Tích hợp Local S3 Storage (MinIO) & Sample Package, (3) Xây dựng Công cụ Smoke Test / Health Check 1-click CLI, (4) Hoàn thiện Kịch bản VPS Production, Cron Backup & SSL Let's Encrypt.
+- **Thêm mới (Add):**
+  - `backend/tests/run_all_tests.ts`: Test runner tổng hợp tự động thực thi tuần tự cả 5 test suites (Member 2 Auth/Catalog, Member 3 Payment/Licensing, Member 5 Checkout, Member 5 Fulfillment, Member 5 Portal) kèm báo cáo ma trận trực quan và chuẩn hóa đường dẫn tương đối (chống lỗi ngắt path có dấu cách trên Windows).
+  - `scripts/health-check.cjs`: Tiện ích chẩn đoán hệ thống tự động kiểm tra đồng thời: MySQL port/ping, Redis PONG, Backend `/health`, `/api/v1/themes`, `/api/v1/categories`, Frontend Next.js `/`, `/preview/woodmart`, Nginx (:80) và MinIO (:9000).
+  - `docker/scripts/setup-production-vps.sh`: Script 1-lệnh tự động hóa khởi tạo VPS Ubuntu 22.04 LTS (Docker Engine, Compose, UFW Firewall khóa chặt các cổng nội bộ, Certbot Let's Encrypt SSL).
+  - `docker/scripts/cron-backup-setup.sh`: Script tự động đăng ký crontab chạy sao lưu MySQL nén gzip vào 02:00 AM mỗi ngày, tự động xóa bản sao lưu cũ > 7 ngày.
+  - `docker/nginx/conf.d/production-ssl.conf.template`: Mẫu cấu hình Nginx reverse proxy Production với SSL Let's Encrypt, HTTP/2, HSTS bảo mật A+, Rate Limiting và WebSocket forwarding.
+  - `packages/woodmart-v8.6.2/`: Gói mã nguồn theme mẫu chuẩn WordPress (`style.css`, `functions.php`) và file nén sẵn sàng phân phối `packages/woodmart-v8.6.2.zip`.
+  - `PRODUCTION_DEPLOYMENT_GUIDE.md`: Tài liệu hướng dẫn bàn giao chi tiết các bước triển khai VPS, cấu hình DNS, cấp SSL Certbot và thiết lập GitHub Actions Secrets (`SERVER_HOST`, `SERVER_USER`, `SSH_PRIVATE_KEY`).
+- **Sửa đổi (Modify / Fix):**
+  - `backend/package.json`: Cấu hình `"test": "tsx tests/run_all_tests.ts"` và `"test:all": "tsx tests/run_all_tests.ts"`, bổ sung các lệnh chạy riêng lẻ theo từng module.
+  - `backend/src/config/env.ts`: Nâng cấp cơ chế nạp biến môi trường tự động tra cứu cả thư mục hiện tại lẫn thư mục cha (`../.env`), khắc phục lỗi thiếu `SEPAY_API_KEY` khi chạy độc lập trong thư mục `backend/`.
+  - `backend/src/services/storage.service.ts`: Cải tiến `StorageService.isConfigured()` để phát hiện chính xác các credentials dạng placeholder (`your_...`) là `false`, giúp giữ nguyên chuẩn an toàn fail-closed và pass bài test của Member 5.
+  - `docker-compose.yml`: Tích hợp thêm dịch vụ `minio` (Local S3 Storage cổng 9000/9001) và `minio-init` (tự động tạo bucket `theme-dist-packages` khi khởi động).
+  - `.env.example`: Bổ sung cấu hình mẫu cho Local MinIO S3 song song với Cloudflare R2.
+- **Xác minh (Verification) — kết quả thực tế:**
+  - Backend Type Check (`tsc --noEmit`): **PASS** (Exit code 0).
+  - Backend Build (`tsc`): **PASS** (Exit code 0).
+  - Backend All Tests Suite (`npm run test` qua `run_all_tests.ts`): **5/5 SUITES PASS (100% THÀNH CÔNG)**:
+    * Member 02 Suite: **20/20 PASS**
+    * Member 03 Suite: **22/22 PASS**
+    * Member 05 Checkout Suite: **11/11 PASS**
+    * Member 05 Fulfillment Suite: **6/6 PASS**
+    * Member 05 Portal Suite: **6/6 PASS**
+  - Frontend Node Tests (`tests/*.test.cjs`): **28/28 PASS**.
+  - Frontend Type Check (`npm run type-check`): **PASS** (Exit code 0).
+  - Frontend Production Build (`npm run build`): **PASS** (30/30 pages tạo thành công).
+  - Health Check Diagnostic (`node scripts/health-check.cjs`): Chạy thành công, hiển thị ma trận trạng thái rõ ràng.
+
+---
+
 ## 📌 HƯỚNG DẪN CẬP NHẬT KHI CÓ THAY ĐỔI MỚI (MAINTENANCE RULE)
 Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người phụ trách/trợ lý AI **bắt buộc** phải tuân thủ:
 1. Thêm một mục mục con mới tương ứng ngày thực hiện `[YYYY-MM-DD] - Tiêu đề công việc`.
@@ -253,3 +361,4 @@ Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người ph�
    - **Sửa đổi (Modify / Fix):** Đường dẫn file + nguyên nhân sửa + kết quả sau sửa.
    - **Xác minh (Verification):** Lệnh kiểm thử đã chạy (Docker, cURL, Unit Test, Type-check) + kết quả đầu ra.
 3. Commit tài liệu này cùng với các file mã nguồn liên quan khi đẩy lên Git.
+

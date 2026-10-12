@@ -2,6 +2,7 @@ import { Request, Response } from 'express';
 import { LicenseModel } from '../models/license.model.js';
 import { ResponseView } from '../views/response.view.js';
 import { dbPool } from '../config/database.js';
+import { StorageService } from '../services/storage.service.js';
 
 export class UpdaterController {
   /**
@@ -71,25 +72,21 @@ export class UpdaterController {
       const userAgent = req.headers['user-agent'] || 'WordPress/PUC';
 
       // Ghi log vào bảng download_logs để kiểm soát và ngăn chặn hành vi tải hàng loạt
-      try {
-        await dbPool.query(
-          `INSERT INTO download_logs (user_id, license_id, theme_id, theme_version_id, ip_address, user_agent)
-           VALUES (?, ?, ?, ?, ?, ?)`,
-          [
-            license.user_id || null,
-            license.id,
-            license.theme_id || 1,
-            1, // Phiên bản mặc định
-            clientIp,
-            userAgent.substring(0, 255),
-          ]
-        );
-      } catch (err: any) {
-        console.warn('[UpdaterController.download] DB log error:', err.message);
-      }
+      await StorageService.recordDownloadLog({
+        userId: license.user_id,
+        licenseId: license.id,
+        themeId: license.theme_id || 1,
+        themeVersionId: 1,
+        ipAddress: clientIp,
+        userAgent,
+      });
 
-      // Mô phỏng link tải gói nén an toàn (Presigned URL 30 phút trên Cloudflare R2 / AWS S3)
-      const presignedDownloadUrl = `https://assets.thememarketplace.local/dist/woodmart-v8.6.2.zip?token=${Buffer.from(String(license_key)).toString('base64')}`;
+      // Sinh link tải gói nén an toàn (Presigned URL 30 phút trên Cloudflare R2 / AWS S3)
+      const presignedDownloadUrl = await StorageService.generatePresignedDownloadUrl(
+        'packages/woodmart/woodmart-8.6.2.zip',
+        1800,
+        license.license_key
+      );
 
       // Chuyển hướng 302 an toàn đến link tải trực tiếp
       return res.redirect(presignedDownloadUrl);

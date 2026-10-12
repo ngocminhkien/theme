@@ -4,6 +4,7 @@ import { ResponseView } from '../views/response.view.js';
 import { LicenseActivateSchema } from '../validators/payment.validator.js';
 import { SecurityLogger } from '../middlewares/security.middleware.js';
 import { AuthRequest } from '../middlewares/auth.middleware.js';
+import { StorageService } from '../services/storage.service.js';
 
 export class LicenseController {
   /**
@@ -91,7 +92,37 @@ export class LicenseController {
       const license = await LicenseModel.findByKey(req.params.licenseKey as string);
       if (!license || license.user_id !== req.user.id) return ResponseView.notFound(res, 'Không tìm thấy license thuộc tài khoản này.');
       if (license.status !== 'active') return ResponseView.error(res, 'License không còn hiệu lực để tải theme.', 'LICENSE_NOT_ACTIVE', 403);
-      return ResponseView.error(res, 'Kho tệp tải bảo mật chưa được cấu hình. License của bạn vẫn hợp lệ; vui lòng thử lại sau.', 'DOWNLOAD_NOT_CONFIGURED', 503);
+      if (!StorageService.isConfigured()) {
+        return ResponseView.error(res, 'Kho tệp tải bảo mật chưa được cấu hình. License của bạn vẫn hợp lệ; vui lòng thử lại sau.', 'DOWNLOAD_NOT_CONFIGURED', 503);
+      }
+
+      const version = await StorageService.getLatestThemeVersion(license.theme_id);
+      const filePath = version?.file_path || `packages/theme-${license.theme_id}.zip`;
+      const versionId = version?.id || 1;
+
+      const clientIp = req.ip || (req.headers['x-forwarded-for'] as string) || '127.0.0.1';
+      const userAgent = req.headers['user-agent'] || 'ThemeStore Browser';
+
+      await StorageService.recordDownloadLog({
+        userId: req.user.id,
+        licenseId: license.id,
+        themeId: license.theme_id,
+        themeVersionId: versionId,
+        ipAddress: clientIp,
+        userAgent,
+      });
+
+      const presignedUrl = await StorageService.generatePresignedDownloadUrl(
+        filePath,
+        1800,
+        license.license_key
+      );
+
+      return ResponseView.success(res, {
+        download_url: presignedUrl,
+        expires_in_seconds: 1800,
+        version: version?.version || 'latest',
+      }, 'Tạo liên kết tải về an toàn thành công.');
     } catch {
       return ResponseView.error(res, 'Chưa thể kiểm tra quyền tải theme. Vui lòng thử lại.', 'DOWNLOAD_UNAVAILABLE', 503);
     }

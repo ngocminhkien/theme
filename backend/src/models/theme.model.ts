@@ -27,8 +27,13 @@ export interface Theme {
 export class ThemeModel {
   static async findAll(params: {
     category_slug?: string;
+    category_id?: number;
     builder?: string;
     keyword?: string;
+    min_price?: number;
+    max_price?: number;
+    currency?: 'VND' | 'USD';
+    sort?: 'sales' | 'newest' | 'price_asc' | 'price_desc' | 'rating' | string;
     limit?: number;
     offset?: number;
   }): Promise<{ themes: Theme[]; total: number }> {
@@ -38,6 +43,9 @@ export class ThemeModel {
     if (params.category_slug) {
       whereClause += " AND category_id = (SELECT id FROM categories WHERE slug = ? LIMIT 1)";
       queryParams.push(params.category_slug);
+    } else if (params.category_id) {
+      whereClause += " AND category_id = ?";
+      queryParams.push(params.category_id);
     }
 
     if (params.builder) {
@@ -51,6 +59,38 @@ export class ThemeModel {
       queryParams.push(term, term, term);
     }
 
+    const priceCol = params.currency === 'USD' ? 'price_usd' : 'price_vnd';
+
+    if (params.min_price !== undefined && !isNaN(Number(params.min_price))) {
+      whereClause += ` AND ${priceCol} >= ?`;
+      queryParams.push(Number(params.min_price));
+    }
+
+    if (params.max_price !== undefined && !isNaN(Number(params.max_price))) {
+      whereClause += ` AND ${priceCol} <= ?`;
+      queryParams.push(Number(params.max_price));
+    }
+
+    let orderByClause = "ORDER BY total_sales DESC, id DESC";
+    switch (params.sort) {
+      case 'newest':
+        orderByClause = "ORDER BY created_at DESC, id DESC";
+        break;
+      case 'price_asc':
+        orderByClause = `ORDER BY ${priceCol} ASC, id DESC`;
+        break;
+      case 'price_desc':
+        orderByClause = `ORDER BY ${priceCol} DESC, id DESC`;
+        break;
+      case 'rating':
+        orderByClause = "ORDER BY rating_avg DESC, rating_count DESC, id DESC";
+        break;
+      case 'sales':
+      default:
+        orderByClause = "ORDER BY total_sales DESC, id DESC";
+        break;
+    }
+
     const limit = params.limit || 12;
     const offset = params.offset || 0;
 
@@ -61,7 +101,7 @@ export class ThemeModel {
     const total = countRows[0]?.total || 0;
 
     const [rows] = await dbPool.query<RowDataPacket[]>(
-      `SELECT * FROM themes ${whereClause} ORDER BY total_sales DESC, id DESC LIMIT ? OFFSET ?`,
+      `SELECT * FROM themes ${whereClause} ${orderByClause} LIMIT ? OFFSET ?`,
       [...queryParams, limit, offset]
     );
 

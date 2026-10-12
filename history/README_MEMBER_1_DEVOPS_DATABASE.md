@@ -37,3 +37,23 @@
 ### [2026-10-12] - Thiết lập Tài liệu Nhật ký Lịch sử Toàn diện
 - **Thêm mới (Add):**
   - [`history/WORK_HISTORY.md`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/history/WORK_HISTORY.md): Tạo tài liệu lưu trữ toàn bộ tiến độ, lịch sử thay đổi và quy tắc cập nhật bắt buộc cho mỗi lần làm việc tiếp theo.
+
+### [2026-10-12] - Hoàn Thiện Toàn Diện 4 Hạng Mục DevOps, CI/CD Runner, MinIO Storage & Production VPS
+- **Thêm mới (Add):**
+  - [`backend/tests/run_all_tests.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/tests/run_all_tests.ts): Test runner tự động chạy trọn gói cả 5 bộ kiểm thử Backend (Member 2, 3, 5) và báo cáo ma trận trạng thái trực quan.
+  - [`scripts/health-check.cjs`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/scripts/health-check.cjs): Tiện ích chẩn đoán hệ thống 1-click tự động kiểm tra toàn bộ 6 dịch vụ cụm (MySQL, Redis, Backend Health/Themes/Categories, Frontend Home/Preview, Nginx Proxy, MinIO).
+  - [`docker/scripts/setup-production-vps.sh`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/docker/scripts/setup-production-vps.sh): Script tự động cấu hình máy chủ Ubuntu 22.04 LTS (Docker, Compose, UFW Firewall an toàn, Certbot Let's Encrypt).
+  - [`docker/scripts/cron-backup-setup.sh`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/docker/scripts/cron-backup-setup.sh): Script cài đặt Cronjob tự động sao lưu CSDL hàng ngày lúc 02:00 AM.
+  - [`docker/nginx/conf.d/production-ssl.conf.template`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/docker/nginx/conf.d/production-ssl.conf.template): Mẫu cấu hình Nginx SSL HTTPS Let's Encrypt, HTTP/2, HSTS bảo mật A+ và Rate Limiting.
+  - [`packages/woodmart-v8.6.2/`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/packages/woodmart-v8.6.2): Theme package mẫu và file zip `packages/woodmart-v8.6.2.zip`.
+  - [`PRODUCTION_DEPLOYMENT_GUIDE.md`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/PRODUCTION_DEPLOYMENT_GUIDE.md): Tài liệu cẩm nang triển khai máy chủ thực tế và cấu hình GitHub Actions Secrets.
+- **Sửa đổi (Modify / Fix):**
+  - [`backend/package.json`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/package.json): Thiết lập lệnh `"test": "tsx tests/run_all_tests.ts"`.
+  - [`backend/src/config/env.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/src/config/env.ts): Nạp tự động file `.env` từ cả thư mục hiện tại lẫn thư mục cha.
+  - [`backend/src/services/storage.service.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/src/services/storage.service.ts): Xử lý chính xác placeholder credentials `your_...` tránh nhận nhầm là đã cấu hình lưu trữ cloud.
+  - [`docker-compose.yml`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/docker-compose.yml): Tích hợp service `minio` và `minio-init` tự động khởi tạo bucket `theme-dist-packages`.
+  - [`.env.example`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/.env.example): Bổ sung cấu hình mẫu MinIO S3 cho môi trường local.
+- **Xác minh (Verification):**
+  - Chạy `npm --prefix backend run test`: **5/5 SUITES PASS (100% THÀNH CÔNG)**.
+  - Chạy `node scripts/health-check.cjs`: Hiển thị ma trận chẩn đoán trạng thái chuẩn xác.
+

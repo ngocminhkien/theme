@@ -23,6 +23,7 @@ app.get('/', (_req, res) => {
     health: '/health',
     endpoints: {
       health: 'GET /health',
+      admin_stats: 'GET /api/v1/admin/stats',
       orders_checkout: 'POST /api/v1/orders/checkout',
       orders_status: 'GET /api/v1/orders/:orderNumber/status',
       sepay_webhook: 'POST /api/v1/webhooks/sepay',
@@ -30,6 +31,7 @@ app.get('/', (_req, res) => {
       licenses_verify: 'GET /api/v1/licenses/verify?key={key}',
       licenses_activate: 'POST /api/v1/licenses/activate',
       updater_check: 'GET /api/v1/updater/check?license_key={key}',
+      categories_list: 'GET /api/v1/categories',
       themes_list: 'GET /api/v1/themes',
     },
   }, 'Chào mừng bạn đến với Theme Marketplace Backend API!');

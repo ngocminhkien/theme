@@ -1,0 +1,123 @@
+# =====================================================================
+# NGINX PRODUCTION SSL HTTPS REVERSE PROXY CONFIGURATION TEMPLATE
+# Theme Marketplace Platform - Lead DevOps (Member 01)
+# =====================================================================
+# Hướng dẫn:
+# 1. Thay thế 'yourdomain.com' bằng tên miền chính thức của hệ thống.
+# 2. Cấp chứng chỉ SSL bằng lệnh:
+#    certbot certonly --standalone -d yourdomain.com -d api.yourdomain.com
+# 3. Đổi tên file này thành default.conf hoặc copy vào /etc/nginx/conf.d/
+# =====================================================================
+
+upstream backend_upstream {
+    server backend:4000;
+    keepalive 32;
+}
+
+upstream frontend_upstream {
+    server frontend:3000;
+    keepalive 32;
+}
+
+# 1. Chuyển hướng toàn bộ HTTP (Port 80) sang HTTPS (Port 443)
+server {
+    listen 80;
+    server_name yourdomain.com www.yourdomain.com;
+
+    location /.well-known/acme-challenge/ {
+        root /var/www/certbot;
+    }
+
+    location / {
+        return 301 https://$host$request_uri;
+    }
+}
+
+# 2. Máy chủ chính thức HTTPS (Port 443 SSL & HTTP/2)
+server {
+    listen 443 ssl http2;
+    server_name yourdomain.com www.yourdomain.com;
+
+    # SSL Certificates (Let's Encrypt)
+    ssl_certificate /etc/letsencrypt/live/yourdomain.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/yourdomain.com/privkey.pem;
+
+    # SSL Protocols & Ciphers Hiện đại (Chuẩn Mozilla Intermediate)
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers 'ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384';
+    ssl_prefer_server_ciphers on;
+    ssl_session_cache shared:SSL:10m;
+    ssl_session_timeout 1d;
+    ssl_session_tickets off;
+
+    # Security Headers (Chuẩn A+ SSL Labs)
+    add_header Strict-Transport-Security "max-age=63072000; includeSubDomains; preload" always;
+    add_header X-Content-Type-Options "nosniff" always;
+    add_header X-XSS-Protection "1; mode=block" always;
+    add_header Referrer-Policy "strict-origin-when-cross-origin" always;
+    add_header Content-Security-Policy "frame-ancestors 'self' https://yourdomain.com;" always;
+
+    # Gzip Compression
+    gzip on;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml image/svg+xml;
+
+    # A. API Checkout & Tạo mã VietQR (Rate Limit ngặt nghèo chống bot)
+    location /api/v1/orders/checkout {
+        limit_req zone=checkout_limit burst=5 nodelay;
+        proxy_pass http://backend_upstream;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto https;
+    }
+
+    # B. API Download Package & Presigned URL (Rate Limit bảo vệ file zip)
+    location ~* ^/api/v1/.*download.*$ {
+        limit_req zone=download_limit burst=10 nodelay;
+        proxy_pass http://backend_upstream;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto https;
+    }
+
+    # C. RESTful Backend API Chung
+    location /api/ {
+        limit_req zone=api_limit burst=20 nodelay;
+        proxy_pass http://backend_upstream;
+        proxy_http_version 1.1;
+        proxy_set_header Connection "";
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto https;
+        proxy_connect_timeout 60s;
+        proxy_send_timeout 60s;
+        proxy_read_timeout 60s;
+    }
+
+    # D. Next.js Static Cache Optimization
+    location /_next/static/ {
+        proxy_pass http://frontend_upstream;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        add_header Cache-Control "public, max-age=31536000, immutable";
+    }
+
+    # E. Frontend Next.js Storefront & Live Preview
+    location / {
+        proxy_pass http://frontend_upstream;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto https;
+    }
+}

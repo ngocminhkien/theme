@@ -67,6 +67,25 @@ export async function getCurrentUser(): Promise<AuthUser> {
   return api<AuthUser>('/auth/me', undefined, true);
 }
 
+export async function updateProfile(input: { full_name?: string; phone?: string }): Promise<AuthUser> {
+  return api<AuthUser>('/auth/profile', {
+    method: 'PUT',
+    body: JSON.stringify(input),
+  }, true);
+}
+
+export async function changePassword(input: { old_password: string; new_password: string }): Promise<{ changed: boolean }> {
+  return api<{ changed: boolean }>('/auth/change-password', {
+    method: 'PUT',
+    body: JSON.stringify(input),
+  }, true);
+}
+
+export function logout() {
+  clearAuthToken();
+}
+
 export async function authenticatedApi<T>(path: string, init?: RequestInit): Promise<T> {
   return api<T>(path, init, true);
 }
+
