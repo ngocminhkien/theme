@@ -12,16 +12,14 @@ import {
   Sparkles,
   ArrowRight,
   User,
-  ShieldCheck,
-  Star,
-  Zap,
+  UserRound,
 } from 'lucide-react';
 import { useCartStore } from '@/shared/stores/cart.store';
 import { THEMES_DATA, CATEGORIES_LIST } from '@/shared/data/themes-data';
 
 export function HeaderMain() {
   const router = useRouter();
-  const { items, currency, getTotal, openCart } = useCartStore();
+  const { items, currency, getTotal, openCart, isCartOpen } = useCartStore();
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [showSearchDropdown, setShowSearchDropdown] = useState(false);
@@ -248,9 +246,21 @@ export function HeaderMain() {
             </div>
           </Link>
 
+          <Link
+            href="/my-account"
+            className="hidden lg:flex items-center gap-1.5 text-xs font-bold text-slate-700 hover:text-brand-600 px-3.5 py-2.5 rounded-xl hover:bg-slate-100 transition"
+          >
+            <UserRound className="w-4 h-4 text-brand-500" />
+            <span>Tài khoản</span>
+          </Link>
+
           {/* Cart Button */}
           <button
             type="button"
+            aria-label="Mở giỏ hàng"
+            aria-haspopup="dialog"
+            aria-expanded={isCartOpen}
+            aria-controls="cart-drawer"
             onClick={openCart}
             className="flex items-center gap-3.5 px-5 py-2.5 bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 hover:from-brand-600 hover:to-indigo-600 text-white rounded-2xl shadow-sm hover:shadow-glow transition-all duration-200 cursor-pointer group shrink-0 min-w-[140px]"
             title="Mở giỏ hàng"

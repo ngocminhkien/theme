@@ -3,7 +3,6 @@
 import React from 'react';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
-import { MiniCartSlideover } from '@/components/layout/MiniCartSlideover';
 import { HeroSection } from '@/components/home/HeroSection';
 import { MarqueeFeatures } from '@/components/home/MarqueeFeatures';
 import { PopularCategories } from '@/components/home/PopularCategories';
@@ -37,8 +36,6 @@ export default function HomePage() {
       {/* SaaS Dark Footer */}
       <Footer />
 
-      {/* Offcanvas Slideover Mini Cart */}
-      <MiniCartSlideover />
     </div>
   );
 }

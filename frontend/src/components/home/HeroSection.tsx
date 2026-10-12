@@ -9,12 +9,10 @@ import {
   Zap,
   ShieldCheck,
   Search,
-  Flame,
   Layers,
   CheckCircle2,
   Star,
   PhoneCall,
-  DownloadCloud,
 } from 'lucide-react';
 
 export function HeroSection() {
@@ -76,7 +74,7 @@ export function HeroSection() {
               >
                 <option value="all">Mọi ngành nghề</option>
                 <option value="e-commerce">Bán Hàng & Shop</option>
-                <option value="corporate-agency">Doanh Nghiệp & B2B</option>
+                <option value="corporate-b2b">Doanh Nghiệp & B2B</option>
                 <option value="tech-education">Công Nghệ & SaaS</option>
                 <option value="real-estate">Bất Động Sản</option>
                 <option value="news-blog">Tin Tức & Blog</option>
@@ -114,7 +112,7 @@ export function HeroSection() {
               { label: 'Theme Bán Hàng', query: 'e-commerce' },
               { label: 'Flatsome Shop', search: 'Flatsome' },
               { label: 'WoodMart Siêu Tốc', search: 'WoodMart' },
-              { label: 'Doanh Nghiệp B2B', query: 'corporate-agency' },
+              { label: 'Doanh Nghiệp B2B', query: 'corporate-b2b' },
               { label: 'Elementor Pro', builder: 'elementor' },
               { label: 'Bất Động Sản', query: 'real-estate' },
             ].map((chip, idx) => (

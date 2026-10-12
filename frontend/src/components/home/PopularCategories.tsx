@@ -8,8 +8,6 @@ import {
   Building2,
   Home,
   Laptop,
-  Sparkles,
-  UtensilsCrossed,
   Newspaper,
   Layers,
 } from 'lucide-react';
@@ -26,7 +24,7 @@ const CATEGORY_ITEMS = [
     badge: 'Phổ biến nhất',
   },
   {
-    id: 'corporate-agency',
+    id: 'corporate-b2b',
     title: 'Doanh Nghiệp & Agency',
     desc: 'Tập đoàn, công ty tư vấn tài chính, luật & agency marketing',
     count: '52 Theme',
@@ -62,7 +60,7 @@ const CATEGORY_ITEMS = [
     count: '28 Theme',
     image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=500&q=80',
     icon: Newspaper,
-    subcategories: ['Tạp Chí Hiện Đại', 'Blog Cá Nhân', 'Tin Tức Đa Cột', 'Google Ads'],
+    subcategories: ['Tạp Chí Hiện Đại', 'Blog Cá Nhân', 'Tin Tức Đa Cột', 'Google Ads'],
     badge: 'Tải nhanh',
   },
   {

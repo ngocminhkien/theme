@@ -1,82 +1,100 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
-import { ShieldCheck, ArrowLeft, CheckCircle2, Lock, ShoppingBag, Sparkles } from 'lucide-react';
+import { useRouter } from 'next/navigation';
+import { ArrowLeft, CheckCircle2, Lock, RefreshCw, ShoppingBag } from 'lucide-react';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
-import { useCartStore } from '@/shared/stores/cart.store';
+import { hydrateCart, useCartStore } from '@/shared/stores/cart.store';
 import { VietQrModal } from '@/features/checkout/components/vietqr-modal';
+import { CheckoutRequest } from '@/features/checkout/checkout-request';
+import { buildCheckoutPayload, validateCheckout, type CheckoutErrors } from '@/features/checkout/checkout-schema';
+import type { CheckoutOrder } from '@/features/checkout/api-client';
+import type { CartItem } from '@/shared/types';
+import { getAuthToken } from '@/features/auth/auth-client';
+
+interface PendingCheckout {
+  order: CheckoutOrder;
+  items: CartItem[];
+}
+function formatMoney(total: number, currency: 'VND' | 'USD') {
+  return currency === 'VND' ? total.toLocaleString('vi-VN') + ' đ' : '$' + total;
+}
 
 export default function CheckoutPage() {
-  const { items, currency, getTotal, clearCart } = useCartStore();
+  const router = useRouter();
+  const { items, currency, getTotal, removeItem } = useCartStore();
   const [fullName, setFullName] = useState('');
   const [email, setEmail] = useState('');
   const [phone, setPhone] = useState('');
-  const [paymentMethod, setPaymentMethod] = useState<'vietqr' | 'stripe'>('vietqr');
+  const [errors, setErrors] = useState<CheckoutErrors>({});
+  const [submitError, setSubmitError] = useState('');
   const [loading, setLoading] = useState(false);
-  const [qrData, setQrData] = useState<{ orderNumber: string; qrUrl: string; amount: number } | null>(null);
+  const [hydrated, setHydrated] = useState(false);
+  const [hasSession, setHasSession] = useState(false);
+  const [pending, setPending] = useState<PendingCheckout | null>(null);
+  const [showQr, setShowQr] = useState(false);
+  const request = useRef(new CheckoutRequest());
 
-  const total = getTotal() || (currency === 'VND' ? 890000 : 49);
+  useEffect(() => {
+    // Cart storage is synchronous and already catches unavailable localStorage.
+    // Hydrate here as well as CartRoot so Checkout never remains disabled when
+    // a privacy-restricted browser has no usable localStorage implementation.
+    hydrateCart();
+    setHydrated(true);
+    setHasSession(Boolean(getAuthToken()));
+  }, []);
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!fullName || !email) {
-      alert('Vui lòng nhập họ tên và email nhận License.');
+  const total = getTotal();
+  const fields = { fullName, email, phone };
+
+  function updateErrors(nextFields = fields) {
+    const next = validateCheckout(nextFields, items, currency);
+    setErrors(next);
+    return next;
+  }
+
+  async function handleSubmit(event: React.FormEvent) {
+    event.preventDefault();
+    if (loading || pending) return;
+    if (!getAuthToken()) {
+      setSubmitError('Vui lòng đăng nhập trước khi tạo đơn để bảo vệ lịch sử đơn hàng và license của bạn.');
       return;
     }
+    const validation = updateErrors();
+    if (Object.keys(validation).length) return;
 
+    setSubmitError('');
     setLoading(true);
     try {
-      const res = await fetch('/api/v1/orders/checkout', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          customer_name: fullName,
-          customer_email: email,
-          customer_phone: phone,
-          total_amount: total,
-          currency,
-          payment_method: paymentMethod,
-        }),
-      });
-
-      const json = await res.json();
-      if (json.success && json.data?.vietQrUrl) {
-        setQrData({
-          orderNumber: json.data.orderNumber,
-          qrUrl: json.data.vietQrUrl,
-          amount: total,
-        });
-        clearCart();
-      } else {
-        // Fallback demo QR if backend server isn't running
-        const demoOrderNumber = `TS-${Date.now().toString().slice(-6)}`;
-        const demoQrUrl = `https://api.vietqr.io/image/970422-0987654321-compact.jpg?amount=${total}&addInfo=THANH+TOAN+${demoOrderNumber}&accountName=THEMESTORE+VN`;
-        setQrData({
-          orderNumber: demoOrderNumber,
-          qrUrl: demoQrUrl,
-          amount: total,
-        });
-        clearCart();
+      const order = await request.current.submit(buildCheckoutPayload(fields, items, currency));
+      if (order.payment_status === 'paid' && order.order_status === 'completed') {
+        // An API response may report an already-paid retried order. Remove only its
+        // original items, never clear newer unrelated cart entries.
+        items.forEach(item => removeItem(item.theme.id));
+        router.replace('/checkout/order-received?order=' + encodeURIComponent(order.orderNumber));
+        return;
       }
-    } catch {
-      // Fallback demo QR for client-side test
-      const demoOrderNumber = `TS-${Date.now().toString().slice(-6)}`;
-      const demoQrUrl = `https://api.vietqr.io/image/970422-0987654321-compact.jpg?amount=${total}&addInfo=THANH+TOAN+${demoOrderNumber}&accountName=THEMESTORE+VN`;
-      setQrData({
-        orderNumber: demoOrderNumber,
-        qrUrl: demoQrUrl,
-        amount: total,
-      });
-      clearCart();
+      setPending({ order, items: [...items] });
+      setShowQr(true);
+    } catch (error) {
+      setSubmitError(error instanceof Error ? error.message : 'Chưa tạo được đơn hàng. Vui lòng thử lại.');
     } finally {
       setLoading(false);
     }
-  };
+  }
 
-  const formattedTotal =
-    currency === 'VND' ? `${Number(total).toLocaleString('vi-VN')} đ` : `$${total}`;
+  function handlePaid() {
+    if (!pending) return;
+    pending.items.forEach(item => removeItem(item.theme.id));
+    setShowQr(false);
+    router.replace('/checkout/order-received?order=' + encodeURIComponent(pending.order.orderNumber));
+  }
+
+  const formDisabled = !hydrated || loading || Boolean(pending);
+  const visibleItems = pending?.items || items;
+  const visibleTotal = pending?.order.total_amount ?? total;
 
   return (
     <div className="min-h-screen flex flex-col bg-[#f8fafc] font-sans">
@@ -86,195 +104,152 @@ export default function CheckoutPage() {
         {/* Back Link */}
         <Link
           href="/"
-          className="inline-flex items-center gap-2 text-sm font-bold text-slate-600 hover:text-brand-600 transition mb-6"
+          className="inline-flex items-center gap-2 text-xs sm:text-sm font-bold text-slate-600 hover:text-brand-600 transition mb-6"
         >
           <ArrowLeft className="w-4 h-4" />
           <span>Quay lại cửa hàng</span>
         </Link>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
-          {/* Left: Customer Info Form */}
           <div className="lg:col-span-7 bg-white rounded-3xl border border-slate-200/80 p-6 sm:p-8 shadow-sm">
-            <h1 className="text-2xl sm:text-3xl font-black text-slate-900 mb-2">
+            <h1 className="text-xl sm:text-2xl lg:text-3xl font-black text-slate-900 mb-2">
               Thanh Toán Đơn Hàng & Nhận Key Bản Quyền
             </h1>
-            <p className="text-sm text-slate-500 mb-6">
-              License Key và file nén Theme sẽ được gửi tự động đến email của bạn ngay sau khi hoàn tất thanh toán.
+            <p className="text-xs sm:text-sm text-slate-500 mb-6">
+              License Key và file nén Theme chỉ được gửi sau khi hệ thống xác nhận thanh toán thành công.
             </p>
 
-            <form onSubmit={handleSubmit} className="space-y-4">
-              <div>
-                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
-                  Họ và tên của bạn <span className="text-accent-rose">*</span>
-                </label>
-                <input
-                  type="text"
-                  required
-                  placeholder="Ví dụ: Nguyễn Văn An"
-                  value={fullName}
-                  onChange={(e) => setFullName(e.target.value)}
-                  className="w-full px-4 py-3 text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
-                />
+            {pending ? (
+              <div className="rounded-2xl border border-brand-200 bg-brand-50/60 p-5 text-sm text-slate-700 space-y-3" role="status">
+                <div className="flex gap-3">
+                  <ShoppingBag className="w-5 h-5 text-brand-600 shrink-0" />
+                  <div>
+                    <p className="font-bold text-slate-900">Đơn {pending.order.orderNumber} đã được lưu.</p>
+                    <p className="text-xs sm:text-sm mt-1">
+                      {pending.order.payment_status === 'paid'
+                        ? 'Thanh toán đã được máy chủ xác nhận.'
+                        : 'Đơn đang chờ xác nhận thanh toán. Giỏ hàng chưa bị xóa.'}
+                    </p>
+                  </div>
+                </div>
+                {pending.order.payment_status === 'pending' && (
+                  <div className="flex flex-wrap gap-2">
+                    <button type="button" onClick={() => setShowQr(true)}
+                      className="inline-flex items-center gap-2 rounded-xl bg-brand-600 px-4 py-2.5 text-xs sm:text-sm font-extrabold text-white hover:bg-brand-500">
+                      <RefreshCw className="w-3.5 h-3.5" /> Mở mã VietQR / kiểm tra trạng thái
+                    </button>
+                    <Link href={'/checkout/order-received?order=' + encodeURIComponent(pending.order.orderNumber)} className="inline-flex items-center rounded-xl border border-brand-200 bg-white px-4 py-2.5 text-xs sm:text-sm font-extrabold text-brand-700">
+                      Xem biên nhận
+                    </Link>
+                  </div>
+                )}
               </div>
+            ) : (
+              <form onSubmit={handleSubmit} noValidate className="space-y-4">
+                <div>
+                  <label htmlFor="checkout-name" className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
+                    Họ và tên của bạn <span className="text-accent-rose">*</span>
+                  </label>
+                  <input id="checkout-name" type="text" autoComplete="name" aria-invalid={Boolean(errors.fullName)} aria-describedby={errors.fullName ? 'checkout-name-error' : undefined}
+                    placeholder="Ví dụ: Nguyễn Văn An" value={fullName}
+                    onChange={(e) => { setFullName(e.target.value); if (errors.fullName) updateErrors({ ...fields, fullName: e.target.value }); }}
+                    className="w-full px-4 py-3 text-xs sm:text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium" />
+                  {errors.fullName && <p id="checkout-name-error" className="mt-1.5 text-xs text-red-600">{errors.fullName}</p>}
+                </div>
 
-              <div>
-                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
-                  Email nhận License Key & Link Tải <span className="text-accent-rose">*</span>
-                </label>
-                <input
-                  type="email"
-                  required
-                  placeholder="example@gmail.com"
-                  value={email}
-                  onChange={(e) => setEmail(e.target.value)}
-                  className="w-full px-4 py-3 text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
-                />
-              </div>
+                <div>
+                  <label htmlFor="checkout-email" className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
+                    Email nhận License Key & Link Tải <span className="text-accent-rose">*</span>
+                  </label>
+                  <input id="checkout-email" type="email" autoComplete="email" aria-invalid={Boolean(errors.email)} aria-describedby={errors.email ? 'checkout-email-error' : undefined}
+                    placeholder="example@gmail.com" value={email}
+                    onChange={(e) => { setEmail(e.target.value); if (errors.email) updateErrors({ ...fields, email: e.target.value }); }}
+                    className="w-full px-4 py-3 text-xs sm:text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium" />
+                  {errors.email && <p id="checkout-email-error" className="mt-1.5 text-xs text-red-600">{errors.email}</p>}
+                </div>
 
-              <div>
-                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
-                  Số điện thoại Zalo (để hỗ trợ kỹ thuật nếu cần)
-                </label>
-                <input
-                  type="tel"
-                  placeholder="0912 345 678"
-                  value={phone}
-                  onChange={(e) => setPhone(e.target.value)}
-                  className="w-full px-4 py-3 text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
-                />
-              </div>
+                <div>
+                  <label htmlFor="checkout-phone" className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
+                    Số điện thoại Zalo (để hỗ trợ kỹ thuật nếu cần)
+                  </label>
+                  <input id="checkout-phone" type="tel" autoComplete="tel" aria-invalid={Boolean(errors.phone)} aria-describedby={errors.phone ? 'checkout-phone-error' : undefined}
+                    placeholder="0912 345 678" value={phone}
+                    onChange={(e) => { setPhone(e.target.value); if (errors.phone) updateErrors({ ...fields, phone: e.target.value }); }}
+                    className="w-full px-4 py-3 text-xs sm:text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium" />
+                  {errors.phone && <p id="checkout-phone-error" className="mt-1.5 text-xs text-red-600">{errors.phone}</p>}
+                </div>
 
-              {/* Payment Methods */}
-              <div className="pt-2">
-                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-2.5">
-                  Chọn Phương Thức Thanh Toán
-                </label>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                  <label
-                    onClick={() => setPaymentMethod('vietqr')}
-                    className={`flex items-start gap-3 p-4 rounded-2xl border cursor-pointer transition ${
-                      paymentMethod === 'vietqr'
-                        ? 'border-brand-600 bg-brand-50/60 ring-2 ring-brand-500/20'
-                        : 'border-slate-200 hover:border-slate-300'
-                    }`}
-                  >
-                    <input
-                      type="radio"
-                      name="payment"
-                      checked={paymentMethod === 'vietqr'}
-                      onChange={() => setPaymentMethod('vietqr')}
-                      className="mt-0.5 accent-brand-600"
-                    />
+                <div className="pt-2">
+                  <p className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-2.5">Phương Thức Thanh Toán</p>
+                  <div className="rounded-2xl border border-brand-600 bg-brand-50/60 p-4 flex items-start gap-3 ring-2 ring-brand-500/20">
+                    <input type="radio" checked readOnly aria-label="VietQR" className="mt-0.5 accent-brand-600" />
                     <div>
                       <span className="font-extrabold text-sm text-slate-900 block">Quét Mã VietQR (24/7)</span>
-                      <span className="text-xs text-slate-500">Xác nhận tức thì sau 3s, hỗ trợ mọi app ngân hàng.</span>
+                      <span className="text-xs text-slate-500">Chỉ hiển thị mã QR do máy chủ trả về sau khi đơn được lưu. Xác nhận tức thì sau khi quét.</span>
                     </div>
-                  </label>
-
-                  <label
-                    onClick={() => setPaymentMethod('stripe')}
-                    className={`flex items-start gap-3 p-4 rounded-2xl border cursor-pointer transition ${
-                      paymentMethod === 'stripe'
-                        ? 'border-brand-600 bg-brand-50/60 ring-2 ring-brand-500/20'
-                        : 'border-slate-200 hover:border-slate-300'
-                    }`}
-                  >
-                    <input
-                      type="radio"
-                      name="payment"
-                      checked={paymentMethod === 'stripe'}
-                      onChange={() => setPaymentMethod('stripe')}
-                      className="mt-0.5 accent-brand-600"
-                    />
-                    <div>
-                      <span className="font-extrabold text-sm text-slate-900 block">Thẻ Quốc Tế (Stripe)</span>
-                      <span className="text-xs text-slate-500">Visa, MasterCard, PayPal, bảo mật SSL.</span>
-                    </div>
-                  </label>
+                  </div>
+                  <p className="mt-2 text-xs text-slate-500">
+                    Stripe/PayPal và thanh toán USD chưa được kích hoạt ở môi trường này; vui lòng thanh toán trực tiếp qua mã VietQR chuẩn ngân hàng Việt Nam.
+                  </p>
+                  {errors.payment && <p className="mt-1.5 text-xs text-red-600">{errors.payment}</p>}
                 </div>
-              </div>
 
-              {/* Submit */}
-              <div className="pt-4">
-                <button
-                  type="submit"
-                  disabled={loading}
-                  className="w-full py-4 bg-brand-600 hover:bg-brand-500 text-white font-black text-sm sm:text-base uppercase tracking-wider rounded-xl transition shadow-glow flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
-                >
-                  <Lock className="w-5 h-5" />
-                  <span>{loading ? 'Đang Xử Lý Giao Dịch...' : 'Xác Nhận & Thanh Toán Ngay'}</span>
-                </button>
-              </div>
-            </form>
+                {errors.cart && <p className="text-xs text-red-600" role="alert">{errors.cart}</p>}
+                {submitError && <p className="rounded-xl bg-red-50 p-3 text-xs sm:text-sm text-red-700" role="alert">{submitError}</p>}
+                {!hasSession && <Link href="/my-account?returnTo=/checkout" className="block text-center text-xs sm:text-sm font-bold text-brand-600 hover:text-brand-700">Đăng nhập hoặc tạo tài khoản để thanh toán</Link>}
+
+                <div className="pt-4">
+                  <button type="submit" disabled={formDisabled}
+                    className="w-full py-4 bg-brand-600 hover:bg-brand-500 text-white font-black text-sm sm:text-base uppercase tracking-wider rounded-xl transition shadow-glow flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed">
+                    <Lock className="w-5 h-5" />
+                    <span>{!hydrated ? 'Đang Khôi Phục Giỏ Hàng...' : loading ? 'Đang Lưu Đơn Hàng...' : 'Tạo Đơn & Nhận Mã VietQR'}</span>
+                  </button>
+                </div>
+              </form>
+            )}
           </div>
 
-          {/* Right: Order Summary Sidebar */}
           <div className="lg:col-span-5 bg-white rounded-3xl border border-slate-200/80 p-6 sm:p-8 shadow-sm flex flex-col justify-between">
             <div>
-              <h3 className="font-black text-base uppercase tracking-wider text-slate-900 mb-4 pb-2 border-b border-slate-100">
-                Tóm Tắt Đơn Hàng ({items.length} Theme)
+              <h3 className="font-black text-sm sm:text-base uppercase tracking-wider text-slate-900 mb-4 pb-2 border-b border-slate-100">
+                Tóm Tắt Đơn Hàng ({visibleItems.length} Theme)
               </h3>
-
-              {items.length === 0 ? (
-                <div className="p-4 bg-slate-50 rounded-2xl text-sm text-slate-600 mb-6 border border-slate-200">
-                  Bạn đang thanh toán gói mẫu: <strong className="text-slate-900">WoodMart - Multipurpose WooCommerce Theme</strong>.
-                </div>
+              {!hydrated ? (
+                <p className="text-xs sm:text-sm text-slate-500 py-4">Đang khôi phục giỏ hàng…</p>
+              ) : visibleItems.length === 0 ? (
+                <div className="p-4 bg-slate-50 rounded-2xl text-xs sm:text-sm text-slate-600 mb-6 border border-slate-200">Giỏ hàng đang trống. Hãy quay lại cửa hàng để chọn theme.</div>
               ) : (
                 <div className="space-y-3 mb-6 divide-y divide-slate-100">
-                  {items.map((item) => (
-                    <div key={item.theme.id} className="pt-3 first:pt-0 flex items-center justify-between gap-3 text-sm">
+                  {visibleItems.map((item) => (
+                    <div key={item.theme.id} className="pt-3 first:pt-0 flex items-center justify-between gap-3 text-xs sm:text-sm">
                       <div>
                         <strong className="text-slate-900 block line-clamp-1">{item.theme.name}</strong>
-                        <span className="text-xs text-slate-500">Gói: {item.license_type}</span>
+                        <span className="text-xs text-slate-500">Gói: Regular License</span>
                       </div>
-                      <span className="font-extrabold text-brand-600 shrink-0">
-                        {currency === 'VND' ? `${item.price.toLocaleString('vi-VN')} đ` : `$${item.price}`}
-                      </span>
+                      <span className="font-extrabold text-brand-600 shrink-0">{formatMoney(item.price, currency)}</span>
                     </div>
                   ))}
                 </div>
               )}
 
-              <div className="space-y-3 pt-4 border-t border-slate-100 text-sm">
-                <div className="flex justify-between text-slate-500">
-                  <span>Phí dịch vụ:</span>
-                  <span className="text-emerald-600 font-semibold">Miễn phí (0 đ)</span>
-                </div>
-                <div className="flex justify-between text-slate-500">
-                  <span>Hỗ trợ cài đặt 1-1:</span>
-                  <span className="text-brand-600 font-semibold">Được tặng kèm</span>
-                </div>
+              <div className="space-y-2.5 pt-4 border-t border-slate-100 text-xs sm:text-sm">
+                <div className="flex justify-between text-slate-500"><span>Phí dịch vụ:</span><span className="text-emerald-600 font-semibold">Miễn phí (0 đ)</span></div>
+                <div className="flex justify-between text-slate-500"><span>Hỗ trợ cài đặt 1-1:</span><span className="text-brand-600 font-semibold">Được tặng kèm</span></div>
                 <div className="flex justify-between text-base font-black text-slate-900 pt-3 border-t border-slate-100">
-                  <span>Tổng tiền thanh toán:</span>
-                  <span className="text-2xl text-brand-600">{formattedTotal}</span>
+                  <span>Tổng tiền:</span><span className="text-xl sm:text-2xl text-brand-600">{formatMoney(visibleTotal, currency)}</span>
                 </div>
               </div>
             </div>
-
-            <div className="mt-8 pt-4 border-t border-slate-100 text-xs text-slate-500 space-y-2">
-              <div className="flex items-center gap-2">
-                <CheckCircle2 className="w-4 h-4 text-emerald-500" />
-                <span>Giao dịch bảo mật mã hóa SSL 256-bit</span>
-              </div>
-              <div className="flex items-center gap-2">
-                <CheckCircle2 className="w-4 h-4 text-emerald-500" />
-                <span>Cam kết hoàn tiền trong 7 ngày nếu lỗi kỹ thuật</span>
-              </div>
+            <div className="mt-6 pt-4 border-t border-slate-100 text-xs text-slate-500 space-y-2">
+              <div className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-emerald-500" /><span>Giao dịch bảo mật mã hóa SSL 256-bit</span></div>
+              <div className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-emerald-500" /><span>Chỉ xác nhận hoàn tất khi máy chủ báo thanh toán thành công</span></div>
             </div>
           </div>
         </div>
       </main>
-
       <Footer />
-
-      {/* VietQR Popup Modal */}
-      {qrData && (
-        <VietQrModal
-          orderNumber={qrData.orderNumber}
-          amountVnd={qrData.amount}
-          qrUrl={qrData.qrUrl}
-          onClose={() => setQrData(null)}
-        />
+      {showQr && pending?.order.vietQrUrl && (
+        <VietQrModal order={pending.order} qrUrl={pending.order.vietQrUrl} onPaid={handlePaid} onClose={() => setShowQr(false)} />
       )}
     </div>
   );

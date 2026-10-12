@@ -1,5 +1,8 @@
 import { create } from 'zustand';
-import { CartItem, Currency, ThemeItem } from '../types';
+import { persist } from 'zustand/middleware';
+import { THEMES_DATA } from '../data/themes-data';
+import type { CartItem, Currency, ThemeItem } from '../types';
+import { cartStorage, type SavedCart } from './cart-storage';
 
 interface CartState {
   items: CartItem[];
@@ -15,57 +18,113 @@ interface CartState {
   toggleCart: () => void;
 }
 
-export const useCartStore = create<CartState>((set, get) => ({
-  items: [],
-  currency: 'VND',
-  isCartOpen: false,
+function regularItem(theme: ThemeItem, currency: Currency): CartItem {
+  return {
+    theme,
+    license_type: 'regular',
+    currency,
+    price: currency === 'VND' ? theme.price_vnd : theme.price_usd,
+  };
+}
 
-  setCurrency: (currency) => {
-    // Khi đổi tiền tệ, tính lại giá cho các items trong giỏ
-    const currentItems = get().items;
-    const updatedItems = currentItems.map((item) => {
-      let basePrice = currency === 'VND' ? item.theme.price_vnd : item.theme.price_usd;
-      if (item.license_type === 'agency') basePrice = Math.round(basePrice * 1.8);
-      if (item.license_type === 'lifetime') basePrice = Math.round(basePrice * 2.5);
-      return {
-        ...item,
-        currency,
-        price: basePrice,
-      };
-    });
-    set({ currency, items: updatedItems });
-  },
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === 'object' && value !== null && !Array.isArray(value);
+}
 
-  addItem: (theme, license_type = 'regular') => {
-    const { items, currency } = get();
-    const existingIndex = items.findIndex((i) => i.theme.id === theme.id);
-    let basePrice = currency === 'VND' ? theme.price_vnd : theme.price_usd;
-    if (license_type === 'agency') basePrice = Math.round(basePrice * 1.8);
-    if (license_type === 'lifetime') basePrice = Math.round(basePrice * 2.5);
+function restoreCart(value: unknown): Pick<CartState, 'items' | 'currency'> {
+  const saved = isRecord(value) ? value : {};
+  const currency = saved.currency === 'USD' ? 'USD' : 'VND';
+  const items = new Map<number, CartItem>();
 
-    if (existingIndex > -1) {
-      // Nếu đã có, mở giỏ hàng để user thấy
-      set({ isCartOpen: true });
-      return;
+  if (Array.isArray(saved.items)) {
+    for (const entry of saved.items) {
+      if (!isRecord(entry) || entry.license_type !== 'regular') continue;
+      // Accept old full items, but never trust stored prices or product fields.
+      const themeId = entry.theme_id ?? (isRecord(entry.theme) ? entry.theme.id : undefined);
+      const theme = THEMES_DATA.find((candidate) => candidate.id === themeId);
+      if (!theme) continue;
+      const item = regularItem(theme, currency);
+      if (Number.isFinite(item.price) && item.price > 0) items.set(theme.id, item);
     }
+  }
 
-    set({
-      items: [...items, { theme, license_type, price: basePrice, currency }],
-      isCartOpen: true, // Tự động mở mini cart khi thêm sản phẩm
-    });
-  },
+  return { currency, items: [...items.values()] };
+}
 
-  removeItem: (themeId) => {
-    set({ items: get().items.filter((i) => i.theme.id !== themeId) });
-  },
+function saveCart(state: Pick<CartState, 'items' | 'currency'>): SavedCart {
+  return {
+    currency: state.currency,
+    items: state.items.map((item) => ({ theme_id: item.theme.id, license_type: item.license_type })),
+  };
+}
 
-  clearCart: () => set({ items: [] }),
+export const useCartStore = create<CartState>()(
+  persist<CartState, [], [], SavedCart>(
+    (set, get) => ({
+      items: [],
+      currency: 'VND',
+      isCartOpen: false,
 
-  getTotal: () => {
-    return get().items.reduce((sum, item) => sum + item.price, 0);
-  },
+      setCurrency: (currency) => {
+        hydrateCart();
+        if (currency !== 'VND' && currency !== 'USD') return;
+        set({ currency, items: get().items.map((item) => regularItem(item.theme, currency)) });
+      },
 
-  openCart: () => set({ isCartOpen: true }),
-  closeCart: () => set({ isCartOpen: false }),
-  toggleCart: () => set({ isCartOpen: !get().isCartOpen }),
-}));
+      addItem: (theme, license_type = 'regular') => {
+        hydrateCart();
+        // Agency/Lifetime await agreed product prices; do not guess a multiplier.
+        if (license_type !== 'regular') return;
+        const product = THEMES_DATA.find((candidate) => candidate.id === theme.id);
+        if (!product) return;
+        const { items, currency } = get();
+        const item = regularItem(product, currency);
+        if (!Number.isFinite(item.price) || item.price <= 0) return;
+        const exists = items.some((entry) => entry.theme.id === product.id);
+        set({
+          items: exists
+            ? items.map((entry) => entry.theme.id === product.id ? item : entry)
+            : [...items, item],
+          isCartOpen: true,
+        });
+      },
+
+      removeItem: (themeId) => {
+        hydrateCart();
+        set({ items: get().items.filter((item) => item.theme.id !== themeId) });
+      },
+      clearCart: () => {
+        hydrateCart();
+        set({ items: [] });
+      },
+      getTotal: () => get().items.reduce((sum, item) => sum + item.price, 0),
+      openCart: () => {
+        hydrateCart();
+        set({ isCartOpen: true });
+      },
+      closeCart: () => {
+        hydrateCart();
+        set({ isCartOpen: false });
+      },
+      toggleCart: () => {
+        hydrateCart();
+        set({ isCartOpen: !get().isCartOpen });
+      },
+    }),
+    {
+      name: 'themestore-cart',
+      version: 1,
+      storage: cartStorage,
+      partialize: saveCart,
+      skipHydration: true,
+      migrate: (saved) => saveCart(restoreCart(saved)),
+      merge: (saved, current) => ({ ...current, ...restoreCart(saved), isCartOpen: false }),
+    },
+  ),
+);
+
+export function hydrateCart() {
+  // Also handle interaction before CartRoot's effect: never overwrite a saved cart
+  // with initial empty state. The configured localStorage adapter is synchronous.
+  if (!useCartStore.persist.hasHydrated()) void useCartStore.persist.rehydrate();
+}

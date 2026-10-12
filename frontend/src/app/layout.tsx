@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import React from 'react';
+import { CartRoot } from '@/components/layout/CartRoot';
 import './globals.css';
 import { FloatingWidgets } from '@/components/layout/FloatingWidgets';
 
@@ -39,6 +40,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen bg-[#f8fafc] text-slate-900 antialiased selection:bg-brand-500/20 selection:text-brand-900 font-sans">
         {children}
+        <CartRoot />
         <FloatingWidgets />
       </body>
     </html>

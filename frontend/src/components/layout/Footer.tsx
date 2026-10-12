@@ -114,7 +114,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/themes?category=corporate-agency" className="hover:text-amber-400 transition flex items-center gap-2">
+                <Link href="/themes?category=corporate-b2b" className="hover:text-amber-400 transition flex items-center gap-2">
                   <span className="w-2 h-2 rounded-full bg-amber-400" />
                   Doanh Nghiệp, B2B & Agency
                 </Link>

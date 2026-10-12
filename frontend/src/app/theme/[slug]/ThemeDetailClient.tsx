@@ -13,7 +13,6 @@ import {
 import { THEMES_DATA } from '@/shared/data/themes-data';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
-import { MiniCartSlideover } from '@/components/layout/MiniCartSlideover';
 import { useCartStore } from '@/shared/stores/cart.store';
 import { ThemeCard } from '@/features/themes/components/theme-card';
 
@@ -29,14 +28,12 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
   }
 
   const { currency, addItem } = useCartStore();
-  const [selectedLicense, setSelectedLicense] = useState<'regular' | 'agency' | 'lifetime'>('regular');
+  const selectedLicense = 'regular' as const;
   const [selectedImage, setSelectedImage] = useState(theme.thumbnail_url);
   const [activeTab, setActiveTab] = useState<'desc' | 'specs' | 'changelog' | 'reviews'>('desc');
 
-  // License calculation
-  let price = currency === 'VND' ? theme.price_vnd : theme.price_usd;
-  if (selectedLicense === 'agency') price = Math.round(price * 1.8);
-  if (selectedLicense === 'lifetime') price = Math.round(price * 2.5);
+  // Only Regular has an agreed price in the current product data.
+  const price = currency === 'VND' ? theme.price_vnd : theme.price_usd;
 
   const formattedPrice =
     currency === 'VND' ? `${price.toLocaleString('vi-VN')} đ` : `$${price}`;
@@ -124,50 +121,29 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
                   Chọn Loại Giấy Phép Bản Quyền (License):
                 </label>
                 <div className="space-y-3">
-                  <label
-                    onClick={() => setSelectedLicense('regular')}
-                    className={`flex items-start justify-between p-4 rounded-2xl border cursor-pointer transition ${
-                      selectedLicense === 'regular'
-                        ? 'border-brand-600 bg-brand-50/50 ring-2 ring-brand-500/20'
-                        : 'border-slate-200 hover:border-slate-300'
-                    }`}
-                  >
+                  <div className="flex items-start justify-between p-4 rounded-2xl border border-brand-600 bg-brand-50/50 ring-2 ring-brand-500/20">
                     <div>
                       <span className="font-extrabold text-sm text-slate-900 block">Regular License</span>
                       <span className="text-xs text-slate-500">Dành cho 1 website đơn lẻ, kích hoạt tự động.</span>
                     </div>
                     <span className="font-black text-sm text-brand-600">Chuẩn</span>
-                  </label>
+                  </div>
 
-                  <label
-                    onClick={() => setSelectedLicense('agency')}
-                    className={`flex items-start justify-between p-4 rounded-2xl border cursor-pointer transition ${
-                      selectedLicense === 'agency'
-                        ? 'border-brand-600 bg-brand-50/50 ring-2 ring-brand-500/20'
-                        : 'border-slate-200 hover:border-slate-300'
-                    }`}
-                  >
+                  <button type="button" disabled className="w-full text-left flex items-start justify-between gap-3 p-4 rounded-2xl border border-slate-200 opacity-60 cursor-not-allowed">
                     <div>
                       <span className="font-extrabold text-sm text-slate-900 block">Agency License</span>
                       <span className="text-xs text-slate-500">Dành cho tối đa 5 website khách hàng.</span>
                     </div>
-                    <span className="font-black text-sm text-brand-600">+80%</span>
-                  </label>
+                    <span className="text-xs text-slate-500 shrink-0 font-medium">Tạm chưa mở bán</span>
+                  </button>
 
-                  <label
-                    onClick={() => setSelectedLicense('lifetime')}
-                    className={`flex items-start justify-between p-4 rounded-2xl border cursor-pointer transition ${
-                      selectedLicense === 'lifetime'
-                        ? 'border-brand-600 bg-brand-50/50 ring-2 ring-brand-500/20'
-                        : 'border-slate-200 hover:border-slate-300'
-                    }`}
-                  >
+                  <button type="button" disabled className="w-full text-left flex items-start justify-between gap-3 p-4 rounded-2xl border border-slate-200 opacity-60 cursor-not-allowed">
                     <div>
                       <span className="font-extrabold text-sm text-slate-900 block">Unlimited Lifetime Pass</span>
                       <span className="text-xs text-slate-500">Không giới hạn số lượng web + update trọn đời.</span>
                     </div>
-                    <span className="font-black text-sm text-brand-600">+150%</span>
-                  </label>
+                    <span className="text-xs text-slate-500 shrink-0 font-medium">Tạm chưa mở bán</span>
+                  </button>
                 </div>
               </div>
 
@@ -357,7 +333,6 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
       </main>
 
       <Footer />
-      <MiniCartSlideover />
     </div>
   );
 }

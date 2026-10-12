@@ -68,7 +68,7 @@ export function HeaderNavbar() {
             Theme Bán Hàng
           </Link>
           <Link
-            href="/themes?category=corporate-agency"
+            href="/themes?category=corporate-b2b"
             className="hover:text-brand-600 transition py-4 border-b-2 border-transparent"
           >
             Theme Doanh Nghiệp
@@ -92,7 +92,7 @@ export function HeaderNavbar() {
             Theme Chuẩn SEO
           </Link>
           <Link
-            href="/preview/woodmart-multipurpose"
+            href="/preview/woodmart"
             className="hover:text-brand-600 transition py-4 border-b-2 border-transparent flex items-center gap-2 text-emerald-600"
           >
             <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse" />

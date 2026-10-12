@@ -2,7 +2,6 @@ import React, { Suspense } from 'react';
 import type { Metadata } from 'next';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
-import { MiniCartSlideover } from '@/components/layout/MiniCartSlideover';
 import { ThemesCatalog } from '@/features/themes/components/themes-catalog';
 
 export const metadata: Metadata = {
@@ -26,7 +25,6 @@ export default function ThemesPage() {
         </Suspense>
       </main>
       <Footer />
-      <MiniCartSlideover />
     </div>
   );
 }

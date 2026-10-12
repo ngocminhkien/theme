@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Timer, ArrowRight, Zap, CheckCircle2, Sparkles, Gift, Flame, Phone } from 'lucide-react';
+import { ArrowRight, CheckCircle2, Gift, Flame, Phone } from 'lucide-react';
 
 export function PromoDealBanner() {
   const [timeLeft, setTimeLeft] = useState({
