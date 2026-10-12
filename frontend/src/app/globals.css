@@ -100,3 +100,52 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+/* Floating Widgets Animations */
+@keyframes gift-wiggle {
+  0%, 70%, 100% {
+    transform: rotate(0deg) scale(1);
+  }
+  75% {
+    transform: rotate(-10deg) scale(1.08);
+  }
+  80% {
+    transform: rotate(10deg) scale(1.08);
+  }
+  85% {
+    transform: rotate(-6deg) scale(1.04);
+  }
+  90% {
+    transform: rotate(6deg) scale(1.04);
+  }
+  95% {
+    transform: rotate(0deg) scale(1.02);
+  }
+}
+
+.animate-gift {
+  animation: gift-wiggle 3s ease-in-out infinite;
+}
+
+@keyframes hotline-ring {
+  0%, 75%, 100% {
+    transform: rotate(0deg);
+  }
+  80% {
+    transform: rotate(-18deg) scale(1.1);
+  }
+  85% {
+    transform: rotate(18deg) scale(1.1);
+  }
+  90% {
+    transform: rotate(-12deg) scale(1.05);
+  }
+  95% {
+    transform: rotate(12deg) scale(1.05);
+  }
+}
+
+.animate-hotline-ring {
+  animation: hotline-ring 2.8s ease-in-out infinite;
+}
+

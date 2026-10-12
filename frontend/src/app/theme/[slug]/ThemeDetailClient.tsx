@@ -9,7 +9,6 @@ import {
   ShoppingBag,
   ShieldCheck,
   CheckCircle2,
-  ChevronRight,
 } from 'lucide-react';
 import { THEMES_DATA } from '@/shared/data/themes-data';
 import { Header } from '@/components/layout/Header';
@@ -48,20 +47,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
     <div className="min-h-screen flex flex-col bg-[#f8fafc] font-sans">
       <Header />
 
-      <main className="flex-1 max-w-7xl mx-auto px-4 py-8 w-full">
-        {/* Breadcrumb */}
-        <div className="flex items-center gap-2 text-xs text-slate-500 mb-6">
-          <Link href="/" className="hover:text-brand-600 transition">Trang Chủ</Link>
-          <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
-          <Link href="/themes" className="hover:text-brand-600 transition">Kho Theme</Link>
-          <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
-          <Link href={`/themes?category=${theme.category}`} className="hover:text-brand-600 transition">
-            {theme.category_name_vi}
-          </Link>
-          <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
-          <span className="font-bold text-slate-800 truncate max-w-xs">{theme.name}</span>
-        </div>
-
+      <main className="flex-1 w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 py-8">
         {/* Top Product Hero: Left Gallery + Right Purchase Box */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-12">
           {/* Left Column: Gallery Mockups */}
@@ -108,77 +94,77 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
           {/* Right Column: Pricing & Purchase Card */}
           <div className="lg:col-span-5 bg-white rounded-3xl border border-slate-200/80 p-6 sm:p-8 shadow-sm flex flex-col justify-between">
             <div>
-              <div className="flex items-center justify-between mb-2">
-                <span className="text-xs font-bold text-brand-600 uppercase tracking-wider bg-brand-50 px-2 py-0.5 rounded-md">
+              <div className="flex items-center justify-between mb-2.5">
+                <span className="text-xs font-bold text-brand-600 uppercase tracking-wider bg-brand-50 px-3 py-1 rounded-md border border-brand-200/60">
                   {theme.category_name_vi}
                 </span>
-                <span className="text-xs text-slate-500 font-medium">Phiên bản: {theme.version}</span>
+                <span className="text-xs sm:text-sm text-slate-500 font-semibold">Phiên bản: {theme.version}</span>
               </div>
 
-              <h1 className="text-xl sm:text-2xl font-black text-slate-900 leading-snug mb-3">
+              <h1 className="text-2xl sm:text-3xl font-black text-slate-900 leading-snug mb-3.5">
                 {theme.name}
               </h1>
 
               {/* Rating & Sales */}
-              <div className="flex items-center gap-4 text-xs mb-5 pb-4 border-b border-slate-100">
-                <div className="flex items-center gap-1 text-amber-500 font-bold">
-                  <Star className="w-4 h-4 fill-amber-400 text-amber-400" />
-                  <span>{theme.rating_avg}</span>
+              <div className="flex items-center gap-4 text-sm mb-6 pb-4 border-b border-slate-100">
+                <div className="flex items-center gap-1.5 text-amber-500 font-bold">
+                  <Star className="w-4.5 h-4.5 fill-amber-400 text-amber-400" />
+                  <span className="font-extrabold">{theme.rating_avg}</span>
                   <span className="text-slate-500 font-normal">({theme.rating_count} đánh giá)</span>
                 </div>
-                <div className="h-3 w-px bg-slate-200" />
+                <div className="h-4 w-px bg-slate-200" />
                 <span className="text-slate-500">
-                  Đã bán: <strong className="text-slate-900">{theme.total_sales} lượt</strong>
+                  Đã bán: <strong className="text-slate-900 font-bold">{theme.total_sales} lượt</strong>
                 </span>
               </div>
 
               {/* License Option Selector */}
               <div className="mb-6">
-                <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-2.5">
+                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-3">
                   Chọn Loại Giấy Phép Bản Quyền (License):
                 </label>
-                <div className="space-y-2.5">
+                <div className="space-y-3">
                   <label
                     onClick={() => setSelectedLicense('regular')}
-                    className={`flex items-start justify-between p-3.5 rounded-2xl border cursor-pointer transition ${
+                    className={`flex items-start justify-between p-4 rounded-2xl border cursor-pointer transition ${
                       selectedLicense === 'regular'
                         ? 'border-brand-600 bg-brand-50/50 ring-2 ring-brand-500/20'
                         : 'border-slate-200 hover:border-slate-300'
                     }`}
                   >
                     <div>
-                      <span className="font-extrabold text-xs text-slate-900 block">Regular License</span>
-                      <span className="text-[11px] text-slate-500">Dành cho 1 website đơn lẻ, kích hoạt tự động.</span>
+                      <span className="font-extrabold text-sm text-slate-900 block">Regular License</span>
+                      <span className="text-xs text-slate-500">Dành cho 1 website đơn lẻ, kích hoạt tự động.</span>
                     </div>
                     <span className="font-black text-sm text-brand-600">Chuẩn</span>
                   </label>
 
                   <label
                     onClick={() => setSelectedLicense('agency')}
-                    className={`flex items-start justify-between p-3.5 rounded-2xl border cursor-pointer transition ${
+                    className={`flex items-start justify-between p-4 rounded-2xl border cursor-pointer transition ${
                       selectedLicense === 'agency'
                         ? 'border-brand-600 bg-brand-50/50 ring-2 ring-brand-500/20'
                         : 'border-slate-200 hover:border-slate-300'
                     }`}
                   >
                     <div>
-                      <span className="font-extrabold text-xs text-slate-900 block">Agency License</span>
-                      <span className="text-[11px] text-slate-500">Dành cho tối đa 5 website khách hàng.</span>
+                      <span className="font-extrabold text-sm text-slate-900 block">Agency License</span>
+                      <span className="text-xs text-slate-500">Dành cho tối đa 5 website khách hàng.</span>
                     </div>
                     <span className="font-black text-sm text-brand-600">+80%</span>
                   </label>
 
                   <label
                     onClick={() => setSelectedLicense('lifetime')}
-                    className={`flex items-start justify-between p-3.5 rounded-2xl border cursor-pointer transition ${
+                    className={`flex items-start justify-between p-4 rounded-2xl border cursor-pointer transition ${
                       selectedLicense === 'lifetime'
                         ? 'border-brand-600 bg-brand-50/50 ring-2 ring-brand-500/20'
                         : 'border-slate-200 hover:border-slate-300'
                     }`}
                   >
                     <div>
-                      <span className="font-extrabold text-xs text-slate-900 block">Unlimited Lifetime Pass</span>
-                      <span className="text-[11px] text-slate-500">Không giới hạn số lượng web + update trọn đời.</span>
+                      <span className="font-extrabold text-sm text-slate-900 block">Unlimited Lifetime Pass</span>
+                      <span className="text-xs text-slate-500">Không giới hạn số lượng web + update trọn đời.</span>
                     </div>
                     <span className="font-black text-sm text-brand-600">+150%</span>
                   </label>
@@ -186,33 +172,33 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
               </div>
 
               {/* Price Display */}
-              <div className="bg-slate-50 p-4 rounded-2xl border border-slate-200/80 mb-6 flex items-center justify-between">
-                <span className="text-xs font-semibold text-slate-500">Giá thanh toán:</span>
-                <span className="text-2xl font-black text-brand-600">{formattedPrice}</span>
+              <div className="bg-slate-50 p-4.5 rounded-2xl border border-slate-200/80 mb-6 flex items-center justify-between">
+                <span className="text-sm font-semibold text-slate-500">Giá thanh toán:</span>
+                <span className="text-3xl font-black text-brand-600">{formattedPrice}</span>
               </div>
             </div>
 
             {/* CTAs */}
-            <div className="space-y-3">
+            <div className="space-y-3.5">
               <Link
                 href={`/preview/${theme.slug}`}
-                className="w-full py-3.5 bg-white border-2 border-brand-600 hover:bg-brand-50 text-brand-600 font-extrabold text-xs uppercase tracking-wider rounded-xl transition flex items-center justify-center gap-2 shadow-2xs"
+                className="w-full py-4 bg-white border-2 border-brand-600 hover:bg-brand-50 text-brand-600 font-extrabold text-sm uppercase tracking-wider rounded-xl transition flex items-center justify-center gap-2 shadow-2xs"
               >
-                <Eye className="w-4 h-4" />
+                <Eye className="w-4.5 h-4.5" />
                 <span>Xem Live Demo Trực Tiếp</span>
               </Link>
 
               <button
                 onClick={() => addItem(theme, selectedLicense)}
-                className="w-full py-3.5 bg-brand-600 hover:bg-brand-500 text-white font-extrabold text-xs uppercase tracking-wider rounded-xl transition flex items-center justify-center gap-2 shadow-glow cursor-pointer"
+                className="w-full py-4 bg-brand-600 hover:bg-brand-500 text-white font-extrabold text-sm uppercase tracking-wider rounded-xl transition flex items-center justify-center gap-2 shadow-glow cursor-pointer"
               >
-                <ShoppingBag className="w-4 h-4" />
+                <ShoppingBag className="w-4.5 h-4.5" />
                 <span>Thêm Vào Giỏ Hàng (Mua Ngay)</span>
               </button>
 
-              <div className="pt-3 border-t border-slate-100 flex items-center justify-center gap-3 text-[11px] text-slate-500">
+              <div className="pt-3 border-t border-slate-100 flex items-center justify-center gap-3 text-xs text-slate-500 font-medium">
                 <span className="flex items-center gap-1">
-                  <ShieldCheck className="w-3.5 h-3.5 text-emerald-500" />
+                  <ShieldCheck className="w-4 h-4 text-emerald-500" />
                   Bảo hành 100%
                 </span>
                 <span>•</span>
@@ -227,10 +213,10 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
         {/* Detailed Tabs: Overview, Specs, Changelog, Reviews */}
         <div className="bg-white rounded-3xl border border-slate-200/80 p-6 sm:p-8 shadow-sm mb-12">
           {/* Tabs Navigation */}
-          <div className="flex flex-wrap items-center gap-4 pb-4 border-b border-slate-100 mb-6">
+          <div className="flex flex-wrap items-center gap-6 pb-4 border-b border-slate-100 mb-6">
             <button
               onClick={() => setActiveTab('desc')}
-              className={`text-xs font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
+              className={`text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
                 activeTab === 'desc'
                   ? 'border-brand-600 text-brand-600'
                   : 'border-transparent text-slate-500 hover:text-slate-800'
@@ -240,7 +226,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
             </button>
             <button
               onClick={() => setActiveTab('specs')}
-              className={`text-xs font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
+              className={`text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
                 activeTab === 'specs'
                   ? 'border-brand-600 text-brand-600'
                   : 'border-transparent text-slate-500 hover:text-slate-800'
@@ -250,7 +236,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
             </button>
             <button
               onClick={() => setActiveTab('changelog')}
-              className={`text-xs font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
+              className={`text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
                 activeTab === 'changelog'
                   ? 'border-brand-600 text-brand-600'
                   : 'border-transparent text-slate-500 hover:text-slate-800'
@@ -260,7 +246,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
             </button>
             <button
               onClick={() => setActiveTab('reviews')}
-              className={`text-xs font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
+              className={`text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
                 activeTab === 'reviews'
                   ? 'border-brand-600 text-brand-600'
                   : 'border-transparent text-slate-500 hover:text-slate-800'

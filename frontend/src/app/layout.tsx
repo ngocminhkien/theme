@@ -1,15 +1,26 @@
 import type { Metadata } from 'next';
 import React from 'react';
 import './globals.css';
+import { FloatingWidgets } from '@/components/layout/FloatingWidgets';
 
 export const metadata: Metadata = {
-  title: 'THEMESTORE | Sàn Giao Diện Website & Template Bản Quyền Chuẩn SEO',
-  description: 'Nền tảng thương mại điện tử chuyên cung cấp theme website, template WordPress & WooCommerce bản quyền chuẩn SEO, tốc độ siêu nhanh và kích hoạt tự động.',
-  keywords: ['ThemeStore', 'Theme WordPress', 'WooCommerce template', 'Giao diện website', 'Elementor theme', 'Theme bản quyền'],
-  authors: [{ name: 'THEMESTORE Engineering Team' }],
+  title: 'THEME STORE | Thế Giới Theme & Plugin WordPress Bản Quyền Giá Rẻ #1 Việt Nam',
+  description: 'Nền tảng thương mại điện tử chuyên cung cấp hơn 500+ Theme WordPress, WooCommerce & Plugin bản quyền giá rẻ chuẩn SEO, sạch 100% không mã độc, tối ưu tốc độ Google PageSpeed 99+ và kích hoạt tự động qua VietQR trong 30 giây.',
+  keywords: [
+    'Theme Store',
+    'themestore.vn',
+    'Theme WordPress giá rẻ',
+    'Plugin WordPress bản quyền',
+    'WooCommerce template',
+    'WoodMart bản quyền',
+    'Flatsome theme',
+    'Elementor Pro',
+    'Theme chuẩn SEO',
+  ],
+  authors: [{ name: 'THEMESTORE.VN Team' }],
   openGraph: {
-    title: 'THEMESTORE - Digital Theme Marketplace',
-    description: 'Kho Theme WordPress & WooCommerce Đa Ngành Chuẩn SEO, tốc độ siêu tốc.',
+    title: 'THEME STORE - Thế Giới Theme & Plugin WordPress Bản Quyền Giá Rẻ',
+    description: 'Kho 500+ Theme WordPress & Plugin bản quyền giá rẻ, chuẩn SEO, kích hoạt tự động 24/7.',
     type: 'website',
     locale: 'vi_VN',
   },
@@ -28,6 +39,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen bg-[#f8fafc] text-slate-900 antialiased selection:bg-brand-500/20 selection:text-brand-900 font-sans">
         {children}
+        <FloatingWidgets />
       </body>
     </html>
   );

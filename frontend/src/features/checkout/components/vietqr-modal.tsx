@@ -56,42 +56,42 @@ export function VietQrModal({ orderNumber, amountVnd, qrUrl, onClose }: VietQrMo
           ✕
         </button>
 
-        <h3 className="text-xl font-bold text-gray-900 mb-1">
+        <h3 className="text-2xl font-black text-slate-900 mb-1">
           Quét Mã VietQR Thanh Toán
         </h3>
-        <p className="text-xs text-gray-500 mb-4">
+        <p className="text-sm text-slate-500 mb-4">
           Mở App Ngân hàng bất kỳ (Vietcombank, MB, Techcombank, MoMo...) để quét
         </p>
 
         {/* QR Code Container */}
-        <div className="bg-gray-50 p-4 rounded-xl border border-gray-100 mb-4 flex justify-center">
+        <div className="bg-slate-50 p-4 rounded-2xl border border-slate-100 mb-4 flex justify-center">
           <img
             src={qrUrl}
             alt="Mã VietQR"
-            className="w-56 h-auto object-contain rounded-lg shadow-sm"
+            className="w-60 h-auto object-contain rounded-xl shadow-sm"
           />
         </div>
 
         {/* Payment Details */}
-        <div className="text-left bg-blue-50/60 p-3 rounded-lg text-xs space-y-1 mb-4 text-gray-700">
+        <div className="text-left bg-blue-50/70 p-3.5 rounded-xl text-sm space-y-1.5 mb-4 text-slate-700">
           <div className="flex justify-between">
             <span>Mã đơn hàng:</span>
             <span className="font-bold text-blue-800">{orderNumber}</span>
           </div>
           <div className="flex justify-between">
             <span>Số tiền:</span>
-            <span className="font-bold text-green-700 text-sm">
+            <span className="font-black text-emerald-700 text-base">
               {Number(amountVnd).toLocaleString('vi-VN')} đ
             </span>
           </div>
           <div className="flex justify-between">
             <span>Thời gian giữ mã:</span>
-            <span className="font-semibold text-red-600">{formatTime(countdown)}</span>
+            <span className="font-bold text-rose-600">{formatTime(countdown)}</span>
           </div>
         </div>
 
-        <div className="flex items-center justify-center gap-2 text-xs text-gray-500 animate-pulse">
-          <span className="w-2 h-2 rounded-full bg-green-500"></span>
+        <div className="flex items-center justify-center gap-2 text-xs sm:text-sm font-medium text-slate-500 animate-pulse">
+          <span className="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
           Đang chờ ngân hàng xác nhận giao dịch tự động trong 3s...
         </div>
       </div>

@@ -52,7 +52,7 @@ export default function CheckoutPage() {
       } else {
         // Fallback demo QR if backend server isn't running
         const demoOrderNumber = `TS-${Date.now().toString().slice(-6)}`;
-        const demoQrUrl = `https://api.vietqr.io/image/970422-0987654321-compact.jpg?amount=${total}&addInfo=THANH+TOAN+${demoOrderNumber}&accountName=THEMESTORE+PLATFORM`;
+        const demoQrUrl = `https://api.vietqr.io/image/970422-0987654321-compact.jpg?amount=${total}&addInfo=THANH+TOAN+${demoOrderNumber}&accountName=THEMESTORE+VN`;
         setQrData({
           orderNumber: demoOrderNumber,
           qrUrl: demoQrUrl,
@@ -63,7 +63,7 @@ export default function CheckoutPage() {
     } catch {
       // Fallback demo QR for client-side test
       const demoOrderNumber = `TS-${Date.now().toString().slice(-6)}`;
-      const demoQrUrl = `https://api.vietqr.io/image/970422-0987654321-compact.jpg?amount=${total}&addInfo=THANH+TOAN+${demoOrderNumber}&accountName=THEMESTORE+PLATFORM`;
+      const demoQrUrl = `https://api.vietqr.io/image/970422-0987654321-compact.jpg?amount=${total}&addInfo=THANH+TOAN+${demoOrderNumber}&accountName=THEMESTORE+VN`;
       setQrData({
         orderNumber: demoOrderNumber,
         qrUrl: demoQrUrl,
@@ -82,29 +82,29 @@ export default function CheckoutPage() {
     <div className="min-h-screen flex flex-col bg-[#f8fafc] font-sans">
       <Header />
 
-      <main className="flex-1 max-w-5xl mx-auto px-4 py-10 w-full">
+      <main className="flex-1 max-w-6xl mx-auto px-4 sm:px-6 py-10 w-full">
         {/* Back Link */}
         <Link
           href="/"
-          className="inline-flex items-center gap-2 text-xs font-bold text-slate-500 hover:text-brand-600 transition mb-6"
+          className="inline-flex items-center gap-2 text-sm font-bold text-slate-600 hover:text-brand-600 transition mb-6"
         >
-          <ArrowLeft className="w-3.5 h-3.5" />
+          <ArrowLeft className="w-4 h-4" />
           <span>Quay lại cửa hàng</span>
         </Link>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           {/* Left: Customer Info Form */}
           <div className="lg:col-span-7 bg-white rounded-3xl border border-slate-200/80 p-6 sm:p-8 shadow-sm">
-            <h1 className="text-xl sm:text-2xl font-black text-slate-900 mb-1">
+            <h1 className="text-2xl sm:text-3xl font-black text-slate-900 mb-2">
               Thanh Toán Đơn Hàng & Nhận Key Bản Quyền
             </h1>
-            <p className="text-xs text-slate-500 mb-6">
+            <p className="text-sm text-slate-500 mb-6">
               License Key và file nén Theme sẽ được gửi tự động đến email của bạn ngay sau khi hoàn tất thanh toán.
             </p>
 
             <form onSubmit={handleSubmit} className="space-y-4">
               <div>
-                <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-1.5">
+                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
                   Họ và tên của bạn <span className="text-accent-rose">*</span>
                 </label>
                 <input
@@ -113,12 +113,12 @@ export default function CheckoutPage() {
                   placeholder="Ví dụ: Nguyễn Văn An"
                   value={fullName}
                   onChange={(e) => setFullName(e.target.value)}
-                  className="w-full px-4 py-2.5 text-xs sm:text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
+                  className="w-full px-4 py-3 text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
                 />
               </div>
 
               <div>
-                <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-1.5">
+                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
                   Email nhận License Key & Link Tải <span className="text-accent-rose">*</span>
                 </label>
                 <input
@@ -127,12 +127,12 @@ export default function CheckoutPage() {
                   placeholder="example@gmail.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="w-full px-4 py-2.5 text-xs sm:text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
+                  className="w-full px-4 py-3 text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
                 />
               </div>
 
               <div>
-                <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-1.5">
+                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-1.5">
                   Số điện thoại Zalo (để hỗ trợ kỹ thuật nếu cần)
                 </label>
                 <input
@@ -140,19 +140,19 @@ export default function CheckoutPage() {
                   placeholder="0912 345 678"
                   value={phone}
                   onChange={(e) => setPhone(e.target.value)}
-                  className="w-full px-4 py-2.5 text-xs sm:text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
+                  className="w-full px-4 py-3 text-sm bg-slate-50 border border-slate-200/80 rounded-xl focus:bg-white focus:border-brand-500 outline-none transition font-medium"
                 />
               </div>
 
               {/* Payment Methods */}
               <div className="pt-2">
-                <label className="block text-xs font-bold text-slate-900 uppercase tracking-wider mb-2.5">
+                <label className="block text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider mb-2.5">
                   Chọn Phương Thức Thanh Toán
                 </label>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                   <label
                     onClick={() => setPaymentMethod('vietqr')}
-                    className={`flex items-start gap-3 p-3.5 rounded-2xl border cursor-pointer transition ${
+                    className={`flex items-start gap-3 p-4 rounded-2xl border cursor-pointer transition ${
                       paymentMethod === 'vietqr'
                         ? 'border-brand-600 bg-brand-50/60 ring-2 ring-brand-500/20'
                         : 'border-slate-200 hover:border-slate-300'
@@ -166,14 +166,14 @@ export default function CheckoutPage() {
                       className="mt-0.5 accent-brand-600"
                     />
                     <div>
-                      <span className="font-extrabold text-xs text-slate-900 block">Quét Mã VietQR (24/7)</span>
-                      <span className="text-[11px] text-slate-500">Xác nhận tức thì sau 3s, hỗ trợ mọi app ngân hàng.</span>
+                      <span className="font-extrabold text-sm text-slate-900 block">Quét Mã VietQR (24/7)</span>
+                      <span className="text-xs text-slate-500">Xác nhận tức thì sau 3s, hỗ trợ mọi app ngân hàng.</span>
                     </div>
                   </label>
 
                   <label
                     onClick={() => setPaymentMethod('stripe')}
-                    className={`flex items-start gap-3 p-3.5 rounded-2xl border cursor-pointer transition ${
+                    className={`flex items-start gap-3 p-4 rounded-2xl border cursor-pointer transition ${
                       paymentMethod === 'stripe'
                         ? 'border-brand-600 bg-brand-50/60 ring-2 ring-brand-500/20'
                         : 'border-slate-200 hover:border-slate-300'
@@ -187,8 +187,8 @@ export default function CheckoutPage() {
                       className="mt-0.5 accent-brand-600"
                     />
                     <div>
-                      <span className="font-extrabold text-xs text-slate-900 block">Thẻ Quốc Tế (Stripe)</span>
-                      <span className="text-[11px] text-slate-500">Visa, MasterCard, PayPal, bảo mật SSL.</span>
+                      <span className="font-extrabold text-sm text-slate-900 block">Thẻ Quốc Tế (Stripe)</span>
+                      <span className="text-xs text-slate-500">Visa, MasterCard, PayPal, bảo mật SSL.</span>
                     </div>
                   </label>
                 </div>
@@ -199,9 +199,9 @@ export default function CheckoutPage() {
                 <button
                   type="submit"
                   disabled={loading}
-                  className="w-full py-3.5 bg-brand-600 hover:bg-brand-500 text-white font-extrabold text-xs uppercase tracking-wider rounded-xl transition shadow-glow flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
+                  className="w-full py-4 bg-brand-600 hover:bg-brand-500 text-white font-black text-sm sm:text-base uppercase tracking-wider rounded-xl transition shadow-glow flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
                 >
-                  <Lock className="w-4 h-4" />
+                  <Lock className="w-5 h-5" />
                   <span>{loading ? 'Đang Xử Lý Giao Dịch...' : 'Xác Nhận & Thanh Toán Ngay'}</span>
                 </button>
               </div>
@@ -211,21 +211,21 @@ export default function CheckoutPage() {
           {/* Right: Order Summary Sidebar */}
           <div className="lg:col-span-5 bg-white rounded-3xl border border-slate-200/80 p-6 sm:p-8 shadow-sm flex flex-col justify-between">
             <div>
-              <h3 className="font-black text-sm uppercase tracking-wider text-slate-900 mb-4 pb-2 border-b border-slate-100">
+              <h3 className="font-black text-base uppercase tracking-wider text-slate-900 mb-4 pb-2 border-b border-slate-100">
                 Tóm Tắt Đơn Hàng ({items.length} Theme)
               </h3>
 
               {items.length === 0 ? (
-                <div className="p-4 bg-slate-50 rounded-2xl text-xs text-slate-600 mb-6 border border-slate-200">
+                <div className="p-4 bg-slate-50 rounded-2xl text-sm text-slate-600 mb-6 border border-slate-200">
                   Bạn đang thanh toán gói mẫu: <strong className="text-slate-900">WoodMart - Multipurpose WooCommerce Theme</strong>.
                 </div>
               ) : (
                 <div className="space-y-3 mb-6 divide-y divide-slate-100">
                   {items.map((item) => (
-                    <div key={item.theme.id} className="pt-3 first:pt-0 flex items-center justify-between gap-3 text-xs">
+                    <div key={item.theme.id} className="pt-3 first:pt-0 flex items-center justify-between gap-3 text-sm">
                       <div>
                         <strong className="text-slate-900 block line-clamp-1">{item.theme.name}</strong>
-                        <span className="text-[11px] text-slate-500">Gói: {item.license_type}</span>
+                        <span className="text-xs text-slate-500">Gói: {item.license_type}</span>
                       </div>
                       <span className="font-extrabold text-brand-600 shrink-0">
                         {currency === 'VND' ? `${item.price.toLocaleString('vi-VN')} đ` : `$${item.price}`}
@@ -235,7 +235,7 @@ export default function CheckoutPage() {
                 </div>
               )}
 
-              <div className="space-y-2.5 pt-4 border-t border-slate-100 text-xs">
+              <div className="space-y-3 pt-4 border-t border-slate-100 text-sm">
                 <div className="flex justify-between text-slate-500">
                   <span>Phí dịch vụ:</span>
                   <span className="text-emerald-600 font-semibold">Miễn phí (0 đ)</span>
@@ -246,18 +246,18 @@ export default function CheckoutPage() {
                 </div>
                 <div className="flex justify-between text-base font-black text-slate-900 pt-3 border-t border-slate-100">
                   <span>Tổng tiền thanh toán:</span>
-                  <span className="text-xl text-brand-600">{formattedTotal}</span>
+                  <span className="text-2xl text-brand-600">{formattedTotal}</span>
                 </div>
               </div>
             </div>
 
-            <div className="mt-6 pt-4 border-t border-slate-100 text-[11px] text-slate-500 space-y-2">
+            <div className="mt-8 pt-4 border-t border-slate-100 text-xs text-slate-500 space-y-2">
               <div className="flex items-center gap-2">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" />
+                <CheckCircle2 className="w-4 h-4 text-emerald-500" />
                 <span>Giao dịch bảo mật mã hóa SSL 256-bit</span>
               </div>
               <div className="flex items-center gap-2">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" />
+                <CheckCircle2 className="w-4 h-4 text-emerald-500" />
                 <span>Cam kết hoàn tiền trong 7 ngày nếu lỗi kỹ thuật</span>
               </div>
             </div>

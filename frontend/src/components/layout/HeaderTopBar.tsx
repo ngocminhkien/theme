@@ -1,71 +1,116 @@
 'use client';
 
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Phone, ShieldCheck, HelpCircle, User, Sparkles } from 'lucide-react';
+import { Phone, ShieldCheck, HelpCircle, User, Sparkles, Flame, Gift, ArrowRight } from 'lucide-react';
 import { useCartStore } from '@/shared/stores/cart.store';
+
+const TICKER_ANNOUNCEMENTS = [
+  '🔥 SIÊU SALE HÔM NAY: Giảm ngay 35% tất cả Theme & Plugin WordPress bản quyền • Nhập mã: THEMESTORE',
+  '⚡ KÍCH HOẠT TỰ ĐỘNG: Quét mã VietQR nhận link tải & License Key chính hãng sau 30 giây',
+  '🎁 QUÀ TẶNG KHỦNG: Tặng kèm trọn bộ Plugin Pro (Elementor Pro, Rank Math Pro, WP Rocket) cho mọi đơn hàng',
+  '🛡️ CAM KẾT BẢN QUYỀN: Tệp sạch 100% không mã độc • Quét sạch VirusTotal • Cập nhật trọn đời',
+];
 
 export function HeaderTopBar() {
   const { currency, setCurrency } = useCartStore();
+  const [currentTickerIndex, setCurrentTickerIndex] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentTickerIndex((prev) => (prev + 1) % TICKER_ANNOUNCEMENTS.length);
+    }, 4500);
+    return () => clearInterval(interval);
+  }, []);
 
   return (
-    <div className="bg-slate-900 text-slate-300 border-b border-slate-800 text-xs hidden md:block">
-      <div className="max-w-7xl mx-auto px-4 h-9 flex items-center justify-between">
-        {/* Left Information */}
-        <div className="flex items-center gap-6">
-          <div className="flex items-center gap-2">
-            <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-brand-500/20 text-brand-300 text-[11px] font-semibold">
-              <Sparkles className="w-3 h-3 text-brand-400" />
-              <span>All-Access Pass 2026</span>
-            </span>
-            <span className="text-slate-400">Tải không giới hạn 500+ Theme bản quyền</span>
-          </div>
+    <div className="bg-slate-950 text-slate-300 border-b border-slate-800/80 text-sm relative z-50 w-full">
+      <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 h-11 flex items-center justify-between gap-4">
+        {/* Left: Animated Ticker Announcement */}
+        <div className="flex items-center gap-3 overflow-hidden flex-1 max-w-3xl">
+          <span className="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full bg-gradient-to-r from-rose-500 to-amber-500 text-white text-xs font-black uppercase tracking-wider shrink-0 shadow-xs animate-pulse">
+            <Flame className="w-3.5 h-3.5" />
+            <span>HOT DEAL</span>
+          </span>
 
-          <div className="hidden lg:flex items-center gap-1.5 text-slate-400 hover:text-white transition">
-            <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-            <span>Kích hoạt tự động 100% License chính hãng</span>
+          <div className="relative h-6 flex-1 overflow-hidden">
+            <div
+              key={currentTickerIndex}
+              className="absolute inset-0 flex items-center text-slate-200 text-xs sm:text-sm font-medium truncate transition-all duration-500 animate-in fade-in slide-in-from-bottom-2"
+            >
+              <span className="truncate">{TICKER_ANNOUNCEMENTS[currentTickerIndex]}</span>
+            </div>
           </div>
         </div>
 
-        {/* Right Controls */}
-        <div className="flex items-center gap-5">
-          {/* Currency Switcher */}
-          <div className="flex items-center bg-slate-800 rounded-full p-0.5 border border-slate-700/60">
+        {/* Right Controls: Hotline, Currency Switcher, Auth & Support */}
+        <div className="flex items-center gap-4 shrink-0 text-xs sm:text-sm">
+          {/* Hotline / Zalo Support */}
+          <a
+            href="tel:0988666888"
+            className="hidden sm:flex items-center gap-1.5 text-slate-300 hover:text-amber-400 transition font-semibold"
+            title="Hotline & Zalo hỗ trợ kỹ thuật 24/7"
+          >
+            <Phone className="w-4 h-4 text-amber-400" />
+            <span>Hotline / Zalo: <strong className="text-white text-sm">0988.666.888</strong></span>
+          </a>
+
+          <div className="h-4 w-px bg-slate-800 hidden sm:block" />
+
+          {/* Currency Switcher (₫ VND / $ USD) */}
+          <div className="flex items-center bg-slate-900 rounded-full p-0.5 border border-slate-800">
             <button
               onClick={() => setCurrency('VND')}
-              className={`px-2.5 py-0.5 rounded-full font-medium transition text-[11px] ${
+              className={`px-3 py-1 rounded-full font-bold transition text-xs cursor-pointer ${
                 currency === 'VND'
                   ? 'bg-brand-600 text-white shadow-xs'
                   : 'text-slate-400 hover:text-white'
               }`}
-              title="Đổi sang tiền tệ Việt Nam Đồng"
+              title="Đổi sang tiền tệ Việt Nam Đồng (VND)"
             >
               ₫ VND
             </button>
             <button
               onClick={() => setCurrency('USD')}
-              className={`px-2.5 py-0.5 rounded-full font-medium transition text-[11px] ${
+              className={`px-3 py-1 rounded-full font-bold transition text-xs cursor-pointer ${
                 currency === 'USD'
                   ? 'bg-brand-600 text-white shadow-xs'
                   : 'text-slate-400 hover:text-white'
               }`}
-              title="Switch to US Dollar"
+              title="Đổi sang Đô la Mỹ (USD)"
             >
               $ USD
             </button>
           </div>
 
-          <div className="h-3 w-px bg-slate-800" />
+          <div className="h-4 w-px bg-slate-800 hidden md:block" />
 
-          {/* Quick links */}
-          <Link href="/themes" className="flex items-center gap-1.5 text-slate-400 hover:text-brand-300 transition">
-            <HelpCircle className="w-3.5 h-3.5" />
-            <span>Trợ giúp & Tài liệu</span>
+          {/* Quick links: Đăng nhập / Đăng ký */}
+          <Link
+            href="/login"
+            className="hidden md:flex items-center gap-1.5 text-slate-200 hover:text-amber-400 transition font-bold"
+            title="Đăng nhập tài khoản thành viên"
+          >
+            <User className="w-4 h-4 text-amber-400" />
+            <span>Đăng Nhập</span>
           </Link>
 
-          <Link href="/checkout" className="flex items-center gap-1.5 text-slate-400 hover:text-white transition">
-            <User className="w-3.5 h-3.5" />
-            <span>Tra Cứu License Key</span>
+          <Link
+            href="/register"
+            className="hidden lg:flex items-center gap-1.5 text-slate-300 hover:text-white transition font-medium"
+          >
+            <span>Đăng Ký</span>
+          </Link>
+
+          <div className="h-4 w-px bg-slate-800 hidden lg:block" />
+
+          <Link
+            href="/checkout"
+            className="hidden xl:flex items-center gap-1.5 text-slate-300 hover:text-white transition font-medium"
+            title="Tra cứu tình trạng đơn hàng và License Key"
+          >
+            <ShieldCheck className="w-4 h-4 text-emerald-400" />
+            <span>Tra Cứu License</span>
           </Link>
         </div>
       </div>

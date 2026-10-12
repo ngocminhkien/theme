@@ -1,61 +1,63 @@
 'use client';
 
 import React from 'react';
-import { Tag, ShieldCheck, Zap, CreditCard, Headphones, Sparkles, Code2 } from 'lucide-react';
+import { ShieldCheck, Zap, Code2, Gift, Headphones } from 'lucide-react';
 
 const FEATURES = [
   {
     icon: ShieldCheck,
-    title: '100% Bản Quyền Chính Hãng',
-    desc: 'Code sạch chuẩn Core Web Vitals, bảo mật',
-    color: 'text-brand-600 bg-brand-50 border-brand-100',
+    title: '100% Bản Quyền Sạch',
+    desc: 'Không virus, quét VirusTotal, chuẩn Core Web Vitals',
+    color: 'text-brand-600 bg-brand-50 border-brand-200',
   },
   {
     icon: Zap,
-    title: 'Kích Hoạt Tức Thì 24/7',
-    desc: 'Nhận License Key và source ZIP tự động',
-    color: 'text-amber-600 bg-amber-50 border-amber-100',
+    title: 'Kích Hoạt VietQR 30 Giây',
+    desc: 'Quét mã nhận link tải & License Key tự động 24/7',
+    color: 'text-amber-600 bg-amber-50 border-amber-200',
   },
   {
     icon: Code2,
-    title: 'Chuẩn SEO & Tốc Độ Siêu Nhanh',
-    desc: 'Điểm Google PageSpeed 99+ trên di động',
-    color: 'text-emerald-600 bg-emerald-50 border-emerald-100',
+    title: 'Tối Ưu SEO & Tốc Độ 99+',
+    desc: 'Tải trang dưới 0.8s, đạt chuẩn Google PageSpeed xanh',
+    color: 'text-emerald-600 bg-emerald-50 border-emerald-200',
   },
   {
-    icon: CreditCard,
-    title: 'Thanh Toán VietQR Tiện Lợi',
-    desc: 'Quét mã xác nhận tự động chỉ sau 3 giây',
-    color: 'text-cyan-600 bg-cyan-50 border-cyan-100',
+    icon: Gift,
+    title: 'Tặng Kèm Bộ Plugin Pro',
+    desc: 'Elementor Pro, Rank Math SEO, WP Rocket miễn phí',
+    color: 'text-rose-600 bg-rose-50 border-rose-200',
   },
   {
     icon: Headphones,
-    title: 'Hỗ Trợ Kỹ Thuật Chuyên Sâu',
-    desc: 'Đội ngũ WordPress Dev hỗ trợ trọn đời',
-    color: 'text-indigo-600 bg-indigo-50 border-indigo-100',
+    title: 'Cài Đặt Demo 1-Click 24/7',
+    desc: 'Hỗ trợ UltraViewer, AnyDesk & Zalo trọn đời',
+    color: 'text-indigo-600 bg-indigo-50 border-indigo-200',
   },
 ];
 
 export function MarqueeFeatures() {
   return (
-    <div className="py-4 px-4 mb-4">
-      <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+    <div className="py-4 px-2 sm:px-4 mb-4 w-full">
+      <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 xl:gap-6">
           {FEATURES.map((feat, idx) => {
             const Icon = feat.icon;
             return (
               <div
                 key={idx}
-                className="bg-white/80 backdrop-blur-md rounded-2xl border border-slate-200/80 p-5 shadow-xs hover:shadow-lg hover:border-brand-200 hover:-translate-y-1 transition-all duration-300 flex items-start gap-4 group"
+                className="bg-white rounded-2xl border border-slate-200 p-5 shadow-xs hover:shadow-xl hover:border-brand-300 hover:-translate-y-1 transition-all duration-300 flex items-start gap-4 group"
               >
-                <div className={`w-11 h-11 rounded-xl border flex items-center justify-center shrink-0 group-hover:scale-110 transition duration-300 ${feat.color}`}>
-                  <Icon className="w-5 h-5" />
+                <div
+                  className={`w-12 h-12 rounded-2xl border flex items-center justify-center shrink-0 group-hover:scale-110 transition duration-300 ${feat.color}`}
+                >
+                  <Icon className="w-6 h-6" />
                 </div>
                 <div>
-                  <h4 className="font-extrabold text-xs text-slate-900 group-hover:text-brand-600 transition leading-snug">
+                  <h4 className="font-black text-sm sm:text-base text-slate-900 group-hover:text-brand-600 transition leading-snug">
                     {feat.title}
                   </h4>
-                  <p className="text-[11px] text-slate-500 mt-1 leading-relaxed">
+                  <p className="text-xs sm:text-sm text-slate-500 mt-1 leading-relaxed font-medium">
                     {feat.desc}
                   </p>
                 </div>

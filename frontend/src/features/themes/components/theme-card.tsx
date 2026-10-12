@@ -3,7 +3,18 @@
 import React from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { Eye, ShoppingBag, Star, Sparkles, Check, Zap, ArrowUpRight } from 'lucide-react';
+import {
+  Eye,
+  ShoppingBag,
+  Star,
+  Sparkles,
+  Check,
+  Zap,
+  ArrowUpRight,
+  Flame,
+  ShieldCheck,
+  Download,
+} from 'lucide-react';
 import { ThemeItem, Currency } from '@/shared/types';
 import { useCartStore } from '@/shared/stores/cart.store';
 
@@ -21,13 +32,13 @@ export function ThemeCard({ theme, currency = 'VND' }: ThemeCardProps) {
   // Formatting price
   const currentPrice =
     currency === 'VND'
-      ? `${theme.price_vnd.toLocaleString('vi-VN')} đ`
+      ? `${theme.price_vnd.toLocaleString('vi-VN')} ₫`
       : `$${theme.price_usd}`;
 
   const originalPrice =
     theme.original_price_vnd && theme.original_price_usd
       ? currency === 'VND'
-        ? `${theme.original_price_vnd.toLocaleString('vi-VN')} đ`
+        ? `${theme.original_price_vnd.toLocaleString('vi-VN')} ₫`
         : `$${theme.original_price_usd}`
       : null;
 
@@ -45,31 +56,32 @@ export function ThemeCard({ theme, currency = 'VND' }: ThemeCardProps) {
   };
 
   return (
-    <div className="group bg-white rounded-2xl border border-slate-200/80 overflow-hidden shadow-sm hover:shadow-2xl hover:border-brand-300 hover:-translate-y-1.5 transition-all duration-300 flex flex-col justify-between relative">
+    <div className="group bg-white rounded-3xl border border-slate-200 overflow-hidden shadow-xs hover:shadow-2xl hover:border-brand-400 hover:-translate-y-2 transition-all duration-300 flex flex-col justify-between relative">
       {/* Thumbnail area with Badges & Glass Overlay */}
       <div className="relative aspect-16/10 overflow-hidden bg-slate-100">
         <img
           src={theme.thumbnail_url}
           alt={theme.name}
-          className="w-full h-full object-cover group-hover:scale-106 transition-transform duration-500"
+          className="w-full h-full object-cover group-hover:scale-108 transition-transform duration-500"
           loading="lazy"
         />
 
-        {/* Top Badges (Modern Glassmorphic Badges) */}
+        {/* Top Left Badges */}
         <div className="absolute top-3 left-3 flex flex-col gap-1.5 z-10 pointer-events-none">
           {theme.discount_percent && (
-            <span className="bg-rose-500/90 backdrop-blur-md text-white text-[10px] font-black px-2.5 py-0.5 rounded-full shadow-sm border border-white/20">
+            <span className="bg-rose-600/95 backdrop-blur-md text-white text-xs font-black px-3 py-1 rounded-full shadow-sm border border-white/20">
               GIẢM {theme.discount_percent}%
             </span>
           )}
           {theme.badge === 'HOT' && (
-            <span className="bg-amber-500/90 backdrop-blur-md text-white text-[10px] font-black px-2.5 py-0.5 rounded-full shadow-sm border border-white/20 flex items-center gap-1">
-              <Sparkles className="w-2.5 h-2.5" />
-              HOT
+            <span className="bg-amber-500/95 backdrop-blur-md text-slate-950 text-xs font-black px-3 py-1 rounded-full shadow-sm border border-white/20 flex items-center gap-1.5">
+              <Flame className="w-3.5 h-3.5 fill-slate-950" />
+              BÁN CHẠY
             </span>
           )}
           {theme.badge === 'NEW' && (
-            <span className="bg-emerald-500/90 backdrop-blur-md text-white text-[10px] font-black px-2.5 py-0.5 rounded-full shadow-sm border border-white/20">
+            <span className="bg-emerald-600/95 backdrop-blur-md text-white text-xs font-black px-3 py-1 rounded-full shadow-sm border border-white/20 flex items-center gap-1.5">
+              <Sparkles className="w-3 h-3" />
               MỚI 2026
             </span>
           )}
@@ -77,96 +89,107 @@ export function ThemeCard({ theme, currency = 'VND' }: ThemeCardProps) {
 
         {/* Top Right: Page Builder Pill */}
         <div className="absolute top-3 right-3 z-10 pointer-events-none">
-          <span className="bg-slate-900/80 backdrop-blur-md text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full shadow-sm border border-white/10">
+          <span className="bg-slate-900/85 backdrop-blur-md text-white text-xs font-bold px-3 py-1 rounded-full shadow-sm border border-white/10">
             {theme.page_builders.split(',')[0]}
           </span>
         </div>
 
         {/* Modern Glass Overlay on Hover with Quick Actions */}
-        <div className="absolute inset-0 bg-slate-950/50 backdrop-blur-[2px] opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-2.5 p-4 z-20">
+        <div className="absolute inset-0 bg-slate-950/60 backdrop-blur-[3px] opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-3 p-3 z-20">
           <Link
             href={`/preview/${theme.slug}`}
-            className="px-4 py-2.5 bg-white hover:bg-brand-600 text-slate-900 hover:text-white rounded-xl font-bold text-xs shadow-lg transition-all duration-200 flex items-center gap-1.5 hover:scale-105"
+            className="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-white hover:bg-brand-600 text-slate-900 hover:text-white rounded-xl font-bold text-sm shadow-lg transition-all duration-200 hover:scale-105 whitespace-nowrap shrink-0 leading-normal"
             title="Xem trước Live Demo trực tiếp"
           >
-            <Eye className="w-3.5 h-3.5" />
-            <span>Live Preview</span>
+            <Eye className="w-4 h-4 shrink-0" />
+            <span className="whitespace-nowrap">Xem Demo</span>
           </Link>
 
           <button
+            type="button"
             onClick={handleQuickBuy}
-            className="px-4 py-2.5 bg-brand-600 hover:bg-brand-500 text-white rounded-xl font-bold text-xs shadow-glow transition-all duration-200 flex items-center gap-1.5 hover:scale-105 cursor-pointer"
-            title="Mua ngay và thanh toán"
+            className="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-gradient-to-r from-amber-500 to-amber-400 hover:from-amber-400 hover:to-amber-500 text-slate-950 rounded-xl font-black text-sm shadow-glow transition-all duration-200 hover:scale-105 cursor-pointer whitespace-nowrap shrink-0 leading-normal"
+            title="Mua ngay và chuyển thẳng tới trang thanh toán"
           >
-            <Zap className="w-3.5 h-3.5" />
-            <span>Mua Ngay</span>
+            <Zap className="w-4 h-4 fill-slate-950 shrink-0" />
+            <span className="whitespace-nowrap">Mua Ngay</span>
           </button>
         </div>
       </div>
 
-      {/* Card Content */}
+      {/* Card Body */}
       <div className="p-5 flex-1 flex flex-col justify-between">
         <div>
-          {/* Category & Rating */}
-          <div className="flex items-center justify-between text-[11px] mb-2">
-            <span className="font-semibold text-brand-600 bg-brand-50 px-2 py-0.5 rounded-md">
+          {/* Category, Rating & Sales */}
+          <div className="flex items-center justify-between text-xs mb-2.5">
+            <span className="font-bold text-brand-700 bg-brand-50 px-3 py-1 rounded-lg border border-brand-200/60">
               {theme.category_name_vi}
             </span>
-            <div className="flex items-center gap-1 text-slate-500 font-semibold">
-              <Star className="w-3.5 h-3.5 text-amber-400 fill-amber-400" />
-              <span>{theme.rating_avg}</span>
-              <span className="text-slate-400">({theme.total_sales})</span>
+            <div className="flex items-center gap-2 text-slate-500 font-bold">
+              <div className="flex items-center gap-1">
+                <Star className="w-4 h-4 text-amber-400 fill-amber-400" />
+                <span className="text-slate-800 font-bold">{theme.rating_avg}</span>
+              </div>
+              <span className="text-slate-300">•</span>
+              <span className="text-slate-500 text-xs flex items-center gap-0.5">
+                <Download className="w-3.5 h-3.5 text-slate-400" />
+                {theme.total_sales}+
+              </span>
             </div>
           </div>
 
           {/* Theme Title */}
-          <h3 className="font-bold text-sm text-slate-900 hover:text-brand-600 transition line-clamp-1 mb-1.5">
+          <h3 className="font-black text-base text-slate-900 group-hover:text-brand-600 transition line-clamp-1 mb-2">
             <Link href={`/theme/${theme.slug}`}>
               {theme.name}
             </Link>
           </h3>
 
           {/* Short Description */}
-          <p className="text-xs text-slate-500 line-clamp-2 leading-relaxed mb-4">
+          <p className="text-sm text-slate-500 line-clamp-2 leading-relaxed mb-4 font-normal">
             {theme.short_desc_vi}
           </p>
         </div>
 
         {/* Footer Area: Price & Action Buttons */}
-        <div className="pt-3 border-t border-slate-100 flex items-center justify-between">
+        <div className="pt-3.5 border-t border-slate-100 flex items-center justify-between">
           <div className="flex flex-col">
             <div className="flex items-baseline gap-2">
-              <span className="text-base font-black text-brand-600">
+              <span className="text-xl sm:text-2xl font-black text-rose-600">
                 {currentPrice}
               </span>
               {originalPrice && (
-                <span className="text-[11px] text-slate-400 line-through font-medium">
+                <span className="text-sm text-slate-400 line-through font-medium">
                   {originalPrice}
                 </span>
               )}
             </div>
-            <span className="text-[10px] text-slate-500 font-medium">Bản quyền trọn đời</span>
+            <span className="text-xs text-emerald-600 font-bold flex items-center gap-1 mt-0.5">
+              <ShieldCheck className="w-3.5 h-3.5 text-emerald-500" />
+              Bản quyền trọn đời • Update 1-Click
+            </span>
           </div>
 
-          <div className="flex items-center gap-1.5">
+          <div className="flex items-center gap-2">
+            <Link
+              href={`/preview/${theme.slug}`}
+              className="p-3 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 transition"
+              title="Xem trước Live Demo"
+            >
+              <Eye className="w-4.5 h-4.5" />
+            </Link>
+
             <button
               onClick={handleAddToCart}
-              className={`p-2.5 rounded-xl transition duration-200 cursor-pointer ${
+              className={`p-3 rounded-xl transition duration-200 cursor-pointer ${
                 isInCart
                   ? 'bg-emerald-50 text-emerald-600 border border-emerald-200'
-                  : 'bg-slate-100 hover:bg-brand-600 text-slate-700 hover:text-white'
+                  : 'bg-gradient-to-r from-brand-600 to-indigo-600 hover:from-brand-500 hover:to-indigo-500 text-white shadow-xs'
               }`}
-              title={isInCart ? 'Đã có trong giỏ hàng' : 'Thêm vào giỏ hàng'}
+              title={isInCart ? 'Đã có trong giỏ hàng' : 'Thêm theme vào giỏ hàng'}
             >
-              {isInCart ? <Check className="w-4 h-4" /> : <ShoppingBag className="w-4 h-4" />}
+              {isInCart ? <Check className="w-4.5 h-4.5" /> : <ShoppingBag className="w-4.5 h-4.5" />}
             </button>
-            <Link
-              href={`/theme/${theme.slug}`}
-              className="p-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 transition"
-              title="Xem thông tin chi tiết"
-            >
-              <ArrowUpRight className="w-4 h-4" />
-            </Link>
           </div>
         </div>
       </div>
