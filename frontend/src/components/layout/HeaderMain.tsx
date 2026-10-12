@@ -9,7 +9,7 @@ import { THEMES_DATA, CATEGORIES_LIST } from '@/shared/data/themes-data';
 
 export function HeaderMain() {
   const router = useRouter();
-  const { items, currency, getTotal, openCart } = useCartStore();
+  const { items, currency, getTotal, openCart, isCartOpen } = useCartStore();
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [showSearchDropdown, setShowSearchDropdown] = useState(false);
@@ -205,6 +205,11 @@ export function HeaderMain() {
 
           {/* Cart Button */}
           <button
+            type="button"
+            aria-label="Mở giỏ hàng"
+            aria-haspopup="dialog"
+            aria-expanded={isCartOpen}
+            aria-controls="cart-drawer"
             onClick={openCart}
             className="flex items-center gap-3 px-4 py-2.5 bg-slate-900 hover:bg-brand-600 text-white rounded-2xl shadow-sm hover:shadow-glow transition-all duration-200 cursor-pointer group"
             title="Mở giỏ hàng"

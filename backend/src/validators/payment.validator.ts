@@ -9,6 +9,7 @@ export const CheckoutOrderSchema = z.object({
   customer_email: z
     .string()
     .trim()
+    .max(191, 'Email không quá 191 ký tự')
     .email('Định dạng email khách hàng không hợp lệ'),
   customer_phone: z
     .string()
@@ -29,18 +30,18 @@ export const CheckoutOrderSchema = z.object({
       errorMap: () => ({ message: 'Phương thức thanh toán chỉ hỗ trợ vietqr, stripe hoặc paypal' }),
     })
     .default('vietqr'),
-  theme_id: z.number().int().positive().optional(),
-  license_type: z.enum(['regular', 'agency', 'lifetime']).optional(),
+  idempotency_key: z.string().uuid('Mã yêu cầu đặt hàng không hợp lệ'),
   items: z
     .array(
       z.object({
         theme_id: z.number().int().positive(),
-        license_type: z.enum(['regular', 'agency', 'lifetime']).default('regular'),
-        unit_price: z.number().positive().optional(),
-      })
+        theme_slug: z.string().trim().min(1).max(191),
+        license_type: z.literal('regular', { errorMap: () => ({ message: 'Hiện chỉ mở bán Regular License' }) }),
+      }).strict()
     )
-    .optional(),
-});
+    .min(1, 'Giỏ hàng không được để trống')
+    .refine(items => new Set(items.map(item => item.theme_id)).size === items.length, 'Theme trong giỏ hàng bị trùng'),
+}).strict();
 
 export const SepayWebhookSchema = z.object({
   id: z.union([z.number(), z.string()], {

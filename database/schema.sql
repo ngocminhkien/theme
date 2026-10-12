@@ -144,7 +144,18 @@ CREATE TABLE `order_items` (
     CONSTRAINT `fk_order_items_theme` FOREIGN KEY (`theme_id`) REFERENCES `themes` (`id`) ON DELETE RESTRICT
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- 7. SOFTWARE LICENSES (HỆ THỐNG BẢN QUYỀN)
+-- 7. CHECKOUT REQUESTS (DURABLE IDEMPOTENCY; no customer/payment data here)
+CREATE TABLE `checkout_requests` (
+    `idempotency_key` CHAR(36) CHARACTER SET ascii COLLATE ascii_bin NOT NULL,
+    `fingerprint` CHAR(64) CHARACTER SET ascii COLLATE ascii_bin NOT NULL,
+    `order_id` BIGINT UNSIGNED DEFAULT NULL,
+    `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (`idempotency_key`),
+    UNIQUE KEY `uk_checkout_order` (`order_id`),
+    CONSTRAINT `fk_checkout_order` FOREIGN KEY (`order_id`) REFERENCES `orders` (`id`) ON DELETE RESTRICT
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- 8. SOFTWARE LICENSES (HỆ THỐNG BẢN QUYỀN)
 CREATE TABLE `licenses` (
     `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
     `license_key` VARCHAR(64) NOT NULL,

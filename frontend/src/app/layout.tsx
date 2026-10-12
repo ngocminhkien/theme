@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import React from 'react';
+import { CartRoot } from '@/components/layout/CartRoot';
 import './globals.css';
 
 export const metadata: Metadata = {
@@ -28,6 +29,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen bg-[#f8fafc] text-slate-900 antialiased selection:bg-brand-500/20 selection:text-brand-900 font-sans">
         {children}
+        <CartRoot />
       </body>
     </html>
   );

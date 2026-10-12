@@ -120,6 +120,23 @@
 
 ---
 
+### [2026-10-12] - Member 05 — Cart Drawer
+- **Thêm mới (Add):** `frontend/src/shared/stores/cart-storage.ts`, `frontend/src/components/layout/CartRoot.tsx`, `frontend/tests/cart.store.test.cjs` — persistence an toàn, Drawer tại root và bộ kiểm thử giỏ hàng.
+- **Sửa đổi (Modify / Fix):** `cart.store.ts`, `MiniCartSlideover.tsx`, `HeaderMain.tsx`, root layout, trang chủ, catalog và `ThemeDetailClient.tsx` — thêm/xóa không trùng, tổng theo giá catalog, giữ giỏ qua refresh, giỏ trống, responsive, điều hướng checkout và hỗ trợ bàn phím. Chỉ bật Regular theo xác nhận người dùng; không thêm quantity hoặc sửa backend.
+- **Xác minh (Verification):** Type-check PASS; 11/11 test giỏ hàng PASS; `npm run lint` exit 0 nhưng script chỉ echo; `git diff --check` PASS. Trình duyệt xác nhận thêm/xóa, tổng 1.680.000đ cho WoodMart + CorpPro, persistence items/currency, giỏ trống, catalog/detail/checkout, license bị khóa, desktop 1366×900 và mobile 375×667/320×568; không thấy lỗi hydration trong console.
+- **Còn tồn tại:** Agency/Lifetime chờ thống nhất giá FE/BE (trước đây ×1.8/×2.5 so với ×2/×3); các lỗi Checkout/Payment nằm ngoài phạm vi. Đã khôi phục dependencies từ lockfile để kiểm thử, không thêm package mới. Không commit/push.
+- Chi tiết file, chức năng và kiểm thử tại [history Member 05](./README_MEMBER_5_FE_CHECKOUT_PORTAL.md).
+
+---
+
+### [2026-10-12] - Member 05 — Checkout
+- **Thêm mới (Add):** `frontend/src/features/checkout/{checkout-schema,api-client,checkout-request}.ts`, `database/migrations/003_checkout_requests.sql`, test Checkout frontend/backend.
+- **Sửa đổi (Modify / Fix):** Form Checkout validate khách hàng/giỏ, loading và retry idempotent; payload gửi item Regular đầy đủ. API backend kiểm tra ID+slug theo catalog MySQL, tự tính giá server, lưu `order_items` atomically và không fallback đơn demo. QR demo bị loại bỏ; chỉ bỏ item giỏ khi status server là `paid` + `completed`; Stripe/USD không bị giả lập thành QR.
+- **Xác minh (Verification):** frontend type-check PASS; frontend build PASS (22/22); Checkout test 4/4 PASS; Cart test 11/11 PASS; backend build/lint PASS; controller Checkout test mock 5/5 PASS; `git diff --check` PASS. Frontend lint chỉ echo. Chưa chạy migration/E2E MySQL do Docker CLI môi trường không có `compose`/không đọc được config.
+- **Còn tồn tại:** Catalog frontend và seed MySQL khác ID/slug/giá; API trả `CATALOG_MISMATCH` và giữ giỏ cho tới khi catalog được thống nhất. Agency/Lifetime vẫn khóa do giá chưa thống nhất; Stripe/PayPal là stub. Không commit/push.
+
+---
+
 ## 📌 HƯỚNG DẪN CẬP NHẬT KHI CÓ THAY ĐỔI MỚI (MAINTENANCE RULE)
 Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người phụ trách/trợ lý AI **bắt buộc** phải tuân thủ:
 1. Thêm một mục mục con mới tương ứng ngày thực hiện `[YYYY-MM-DD] - Tiêu đề công việc`.

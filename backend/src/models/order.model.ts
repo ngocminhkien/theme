@@ -33,6 +33,15 @@ export interface Order {
 const inMemoryOrders = new Map<string, Order>();
 
 export class OrderModel {
+  /** Strict DB lookup: Checkout must never succeed using demo/in-memory orders. */
+  static async findByCheckoutKey(key: string): Promise<(Order & { fingerprint: string }) | null> {
+    const [rows] = await dbPool.query<RowDataPacket[]>(
+      `SELECT o.*, r.fingerprint FROM checkout_requests r
+       JOIN orders o ON o.id = r.order_id WHERE r.idempotency_key = ? LIMIT 1`, [key]
+    );
+    return rows.length ? rows[0] as Order & { fingerprint: string } : null;
+  }
+
   /**
    * Tạo đơn hàng đơn giản (alias tương thích với OrderController.checkout)
    */
@@ -58,6 +67,7 @@ export class OrderModel {
    * Tạo đơn hàng cùng chi tiết sản phẩm sử dụng Database Transaction (ACID)
    */
   static async createWithItems(data: {
+    checkout?: { key: string; fingerprint: string };
     order_number: string;
     user_id?: number | null;
     customer_email: string;
@@ -77,6 +87,15 @@ export class OrderModel {
     try {
       connection = await dbPool.getConnection();
       await connection.beginTransaction();
+
+      if (data.checkout) {
+        if (!data.items?.length) throw new Error('Checkout requires order items');
+        // A unique key serializes concurrent retries across all API instances.
+        await connection.query(
+          'INSERT INTO checkout_requests (idempotency_key, fingerprint) VALUES (?, ?)',
+          [data.checkout.key, data.checkout.fingerprint]
+        );
+      }
 
       // 1. Chèn đơn hàng vào bảng orders (9 tham số)
       const [orderResult] = await connection.query<ResultSetHeader>(
@@ -113,11 +132,28 @@ export class OrderModel {
         }
       }
 
+      if (data.checkout) {
+        await connection.query('UPDATE checkout_requests SET order_id = ? WHERE idempotency_key = ?',
+          [orderId, data.checkout.key]);
+      }
       await connection.commit();
       return { orderId, orderNumber: data.order_number };
     } catch (error: any) {
       if (connection) {
         try { await connection.rollback(); } catch (_) {}
+      }
+      if (data.checkout) {
+        // Release before another pooled query (also safe with a pool of size one).
+        connection?.release();
+        connection = undefined;
+        if (error.code === 'ER_DUP_ENTRY') {
+          const existing = await this.findByCheckoutKey(data.checkout.key);
+          if (existing?.fingerprint === data.checkout.fingerprint) {
+            return { orderId: existing.id, orderNumber: existing.order_number };
+          }
+          if (existing) throw new Error('IDEMPOTENCY_CONFLICT');
+        }
+        throw error; // Never fall back to simulated storage for Checkout.
       }
       console.warn('[OrderModel.createWithItems] DB Error, sử dụng in-memory lưu trữ tạm:', error.message);
 
@@ -155,7 +191,7 @@ export class OrderModel {
   /**
    * Tìm đơn hàng theo mã đơn
    */
-  static async findByOrderNumber(orderNumber: string): Promise<Order | null> {
+  static async findByOrderNumber(orderNumber: string, strict = false): Promise<Order | null> {
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT * FROM orders WHERE order_number = ? LIMIT 1',
@@ -175,9 +211,10 @@ export class OrderModel {
         return order;
       }
     } catch (error: any) {
+      if (strict) throw error;
       console.warn('[OrderModel.findByOrderNumber] DB Error, tra cứu in-memory:', error.message);
     }
-    return inMemoryOrders.get(orderNumber) || null;
+    return strict ? null : inMemoryOrders.get(orderNumber) || null;
   }
 
   /**
