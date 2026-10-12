@@ -176,6 +176,66 @@
 
 ---
 
+### [2026-10-12] - Member 05 — Part 4.3: Integration Test Preparation
+
+- **Mục tiêu:** Chuẩn bị môi trường development để kiểm thử Catalog API, Checkout và SePAY fulfillment thật mà không đụng dữ liệu production hoặc tạo giao dịch thanh toán.
+- **DONE:** Git sạch tại `3d417f3`; Node/npm và dependencies backend/frontend sẵn có. Frontend Next.js có sẵn phản hồi HTTP 200 tại `127.0.0.1:3000`; không restart process này.
+- **BLOCKED:** Không có file `.env` local; backend `:4000` không chạy nên `GET /health`/`GET /api/v1/themes` không thể gọi. Docker daemon/service không chạy, Compose không khả dụng, và cổng `3306` đã do MySQL cục bộ không xác định sở hữu.
+- **BLOCKED:** Query MySQL chỉ-đọc theo defaults development của backend bị `ER_ACCESS_DENIED_ERROR`; không xác nhận được database cô lập, schema runtime, trạng thái `_migrations` hay license trùng. Vì vậy không chạy migration 004 (runner hiện có còn ghi `_migrations` và áp mọi migration pending).
+- **NOT TESTED:** Catalog API thật; Checkout valid/invalid/idempotency; webhook sai key/sai amount/replay; rollback payment/license. Không gửi POST, không sửa dữ liệu và không gọi SePAY.
+- **Xác minh mã (không phải integration):** frontend tests **19/19 PASS**, frontend type-check PASS, backend lint/build PASS, controller Checkout/Webhook mock **9/9 PASS**, fulfillment fake-DB mock **6/6 PASS**. `git diff --check` sẽ được chạy lại sau khi cập nhật history.
+- **Bước tiếp theo:** DB owner cần cung cấp dev DB cô lập + `.env` local ngoài Git, xác nhận target, kiểm tra license duplicate và migration state bằng read-only query trước khi chạy migration 004; sau đó mới khởi động Docker/backend và chạy HTTP integration với test data nhận diện rõ. Không commit/push.
+
+---
+
+### [2026-10-12] - Member 05 — Regression Catalog Images & VietQR
+
+- **Nguyên nhân:** Catalog sync `3d417f3` đã copy URL seed `assets.thememarket.local` cho cả 10 thumbnail/gallery, nhưng host không phân giải, không có asset service/Docker mapping và không có bộ screenshot chính thức tương ứng trong repo. Luồng QR frontend/backend đều dùng đúng `vietQrUrl`; QR thiếu ở môi trường chưa cấu hình là do backend fail-closed `PAYMENT_NOT_CONFIGURED` trước khi tạo order khi thiếu thông tin ngân hàng hoặc SePAY API key.
+- **Sửa đổi (Modify / Fix):** Khôi phục 10 visual catalog riêng từ nguồn storefront đã có trước sync, không thay ID/slug/giá/live demo; thêm regression kiểm tra không quay lại host `.local`. API client chỉ nhận QR pending đúng host/order/amount; modal render URL backend và báo lỗi tải ảnh mà không xóa giỏ/không báo paid. Bổ sung test backend xác nhận cấu hình VietQR thiếu không ghi order. Không thay webhook, fulfillment, giá hoặc database.
+- **Xác minh (Verification):** frontend test **22/22 PASS**; frontend type-check PASS; backend lint PASS; controller Checkout/Webhook mock **10/10 PASS**; fulfillment fake-DB mock **6/6 PASS**; `git diff --check` PASS. Test QR dùng response mock và server-side render; không phải API thật, MySQL thật hay SePAY sandbox.
+- **Còn tồn tại:** Chưa có asset screenshot chính thức cho toàn bộ 10 theme trong repository; cần catalog owner cung cấp nếu yêu cầu ảnh sản phẩm chuẩn. Backend/DB `.env` development vẫn chưa sẵn sàng nên không GET catalog, không tạo order/QR hoặc thanh toán thật; không chạy migration, không commit/push.
+
+---
+
+### [2026-10-12] - Member 05 — Rà Soát Tiến Độ Hoàn Thiện
+
+- **DONE:** Cart Drawer/persistence/Regular-only; Checkout client validation, idempotency, server-priced order items và QR modal/polling ở mức code/mock test.
+- **PARTIAL:** Checkout chưa E2E do backend/DB/.env test chưa có; backend có status order và license sau paid nhưng frontend không có Order Received. VietQR fail-closed khi thiếu cấu hình; không có demo payment hợp lệ không cần API key. Stripe session mock không được frontend Checkout sử dụng.
+- **MISSING:** Không có frontend `/checkout/order-received`, `/my-account` hoặc `/admin`; không có UI lịch sử đơn, purchased themes, license/download hay CMS/RBAC admin. `GET /api/v1/licenses/my-licenses` hiện chưa yêu cầu JWT và fallback user ID 1, nên không đủ làm portal an toàn; download updater dùng placeholder asset URL và không có ownership UI.
+- **Xác minh:** frontend tests **22/22 PASS**, type-check PASS, backend lint PASS, controller mock **10/10 PASS**, fulfillment fake-DB mock **6/6 PASS**. Không gọi API, MySQL hay SePAY thật; không sửa code, database, migration hay Git state.
+- **Ưu tiên tiếp theo:** provision môi trường dev cô lập + config test, làm Order Received ownership-aware, sau đó Customer Portal JWT/API/Download và Admin RBAC/CMS. Tài liệu README tổng quan nêu portal/admin nhưng source hiện chưa hiện thực các route này.
+
+---
+
+### [2026-10-12] - Member 05 — Part 5: Order Received & Customer Portal
+
+- **Thêm mới (Add):**
+  - `frontend/src/app/checkout/order-received/page.tsx`: Route kết quả đơn hàng `/checkout/order-received` hiển thị theo query `?order=OD-...`. Kiểm tra hợp lệ regex mã đơn, bắt buộc JWT session, tải biên nhận từ server qua `getOrderReceipt`, hiển thị danh sách theme, tổng tiền, phương thức và trạng thái pending/paid/failed. Giới hạn polling tối đa 12 lần (mỗi 5s) và tự dừng ở trạng thái cuối. Chỉ hiển thị license khi đơn đã `paid` + `completed`. Nút điều hướng tới `/themes` và `/my-account`. Bọc `Suspense` boundary cho Next.js 15 prerender.
+  - `frontend/src/app/my-account/page.tsx`: Route Customer Portal `/my-account` với 4 tab (Tổng quan, Đơn hàng, Theme đã mua, License). Tích hợp form đăng nhập / đăng ký JWT theo API auth hiện có. Hiển thị lịch sử đơn từ `GET /api/v1/orders/my-orders`, theme đã mua từ đơn paid, và danh sách license từ `GET /api/v1/licenses/my-licenses`. Nút tải theme gọi `GET /api/v1/licenses/:licenseKey/download` và trả lỗi an toàn khi storage chưa cấu hình. Bọc `Suspense` boundary cho Next.js 15.
+  - `frontend/src/features/auth/auth-client.ts`: Token helper, login, register, getCurrentUser qua JWT Bearer với fallback an toàn cho trình duyệt.
+  - `frontend/src/features/account/api-client.ts`: API client cho portal (`getMyOrders`, `getMyLicenses`, `getOrderReceipt`, `requestThemeDownload`) tự động gửi Bearer token và chặn request khi chưa đăng nhập.
+  - `frontend/tests/portal.test.cjs`: Bộ kiểm thử frontend 5/5 PASS cho portal authentication, bearer injection, pending vs paid receipt, download fail-safe khi thiếu storage, và token persistence.
+  - `backend/tests/member5_portal.test.ts`: Bộ kiểm thử backend 6/6 PASS cho quyền sở hữu đơn hàng và license, chống enumeration bằng 404, bảo vệ download không redirect sang URL placeholder.
+- **Sửa đổi (Modify / Fix):**
+  - `backend/src/controllers/order.controller.ts`, `backend/src/models/order.model.ts`, `backend/src/routes/order.routes.ts`: Bắt buộc JWT session cho `checkout` (gán `user_id` từ token), thêm `GET /my-orders` và `GET /:orderNumber/receipt` (kiểm tra quyền sở hữu, 404 cho đơn người khác, chỉ kèm license khi paid+completed), bảo vệ `GET /:orderNumber/status` bằng JWT và ownership check.
+  - `backend/src/controllers/license.controller.ts`, `backend/src/routes/license.routes.ts`: Bắt buộc JWT cho `GET /my-licenses` (bỏ fallback cố định userId = 1), thêm `GET /:licenseKey/download` (kiểm tra quyền sở hữu, license active, trả 503 DOWNLOAD_NOT_CONFIGURED an toàn).
+  - `frontend/src/app/checkout/page.tsx`, `frontend/src/features/checkout/api-client.ts`, `frontend/src/components/layout/HeaderMain.tsx`: Checkout yêu cầu JWT, tự động đính kèm Bearer token, tự động chuyển sang `/checkout/order-received` sau khi thanh toán thành công; thêm link "Tài khoản" trên header.
+  - `frontend/tests/checkout.test.cjs`, `backend/tests/member5_checkout.test.ts`: Thêm test case cho unauthenticated checkout và JWT session.
+- **Xác minh (Verification) — kết quả thực tế:**
+  - Frontend: `node --test tests/api-rewrite.test.cjs tests/catalog-sync.test.cjs tests/cart.store.test.cjs tests/checkout.test.cjs tests/portal.test.cjs` — **28/28 PASS**.
+  - Frontend type-check: `npm run type-check -- --incremental false` — **PASS**.
+  - Frontend build: `npm run build` — **PASS** (Next.js 15 tạo 28/28 static pages bao gồm 2 route mới).
+  - Backend lint & build: `npm run lint` & `npm run build` — **PASS**.
+  - Backend unit tests: `tests/member5_checkout.test.ts` **11/11 PASS**, `tests/member5_portal.test.ts` **6/6 PASS**, `tests/member5_payment_fulfillment.test.ts` **6/6 PASS**.
+  - `git diff --check`: **PASS**.
+  - Phân biệt: toàn bộ kiểm thử là unit/mock tests isolative; chưa chạy integration runtime với MySQL hay SePAY thật.
+- **Trạng thái phân loại:**
+  - **DONE:** Route `/checkout/order-received`, Route `/my-account`, Backend ownership APIs & JWT, Polling có giới hạn dừng ở terminal state, Fail-safe download khi Cloud Storage chưa cấu hình.
+  - **PARTIAL / BLOCKED:** Integration runtime MySQL/SePAY do môi trường local thiếu `.env` và Docker daemon không chạy; Cloud Storage R2/S3 chưa được cấu hình.
+  - **REMAINING / NEXT:** Admin CMS (`/admin` với RBAC admin, quản lý danh mục, đơn hàng, khách hàng, license). Không commit hoặc push.
+
+---
+
 ## 📌 HƯỚNG DẪN CẬP NHẬT KHI CÓ THAY ĐỔI MỚI (MAINTENANCE RULE)
 Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người phụ trách/trợ lý AI **bắt buộc** phải tuân thủ:
 1. Thêm một mục mục con mới tương ứng ngày thực hiện `[YYYY-MM-DD] - Tiêu đề công việc`.
