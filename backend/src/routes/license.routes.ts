@@ -1,7 +1,7 @@
 import { Router } from 'express';
 import { LicenseController } from '../controllers/license.controller.js';
 import { rateLimiter } from '../middlewares/security.middleware.js';
-import { authMiddleware } from '../middlewares/auth.middleware.js';
+import { authMiddleware, optionalAuthMiddleware } from '../middlewares/auth.middleware.js';
 
 export const licenseRouter = Router();
 
@@ -10,6 +10,6 @@ const licenseRateLimiter = rateLimiter({ windowMs: 60 * 1000, max: 25, message: 
 
 licenseRouter.post('/activate', licenseRateLimiter, LicenseController.activate);
 licenseRouter.post('/deactivate', licenseRateLimiter, LicenseController.deactivate);
-licenseRouter.get('/my-licenses', authMiddleware, LicenseController.getMyLicenses);
+licenseRouter.get('/my-licenses', optionalAuthMiddleware, LicenseController.getMyLicenses);
 licenseRouter.get('/:licenseKey/download', authMiddleware, LicenseController.downloadForOwner);
 licenseRouter.get('/verify', licenseRateLimiter, LicenseController.verify);

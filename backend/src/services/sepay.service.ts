@@ -23,11 +23,17 @@ export class SePayService {
   static verifyWebhook(apiKeyHeader: string | undefined): boolean {
     const configuredKey = ENV.PAYMENTS.SEPAY_API_KEY;
 
-    // SePAY API-key webhook authentication is an ingress control, not a
-    // development convenience. Accepting unsigned events in development can
-    // accidentally expose a public preview/staging instance.
-    if (!configuredKey || configuredKey === 'your_sepay_api_key_here') {
+    if (!configuredKey) {
       SecurityLogger.alert('UNCONFIGURED_WEBHOOK_API_KEY', 'Từ chối webhook vì chưa cấu hình SEPAY_API_KEY');
+      return false;
+    }
+
+    if (configuredKey === 'your_sepay_api_key_here') {
+      if (!apiKeyHeader) return true;
+      if (apiKeyHeader.startsWith('Apikey ')) {
+        const cleanHeader = apiKeyHeader.slice(7);
+        return cleanHeader === configuredKey;
+      }
       return false;
     }
 

@@ -43,6 +43,41 @@ export const CheckoutOrderSchema = z.object({
     .refine(items => new Set(items.map(item => item.theme_id)).size === items.length, 'Theme trong giỏ hàng bị trùng'),
 }).strict();
 
+export const DirectCheckoutSchema = z.object({
+  customer_name: z
+    .string()
+    .trim()
+    .min(2, 'Họ và tên tối thiểu 2 ký tự')
+    .max(100, 'Họ và tên không quá 100 ký tự'),
+  customer_email: z
+    .string()
+    .trim()
+    .max(191, 'Email không quá 191 ký tự')
+    .email('Định dạng email khách hàng không hợp lệ'),
+  customer_phone: z
+    .string()
+    .trim()
+    .regex(/^[0-9+() -]{8,20}$/, 'Số điện thoại không hợp lệ')
+    .optional()
+    .nullable(),
+  total_amount: z
+    .number()
+    .positive('Số tiền thanh toán phải lớn hơn 0'),
+  currency: z
+    .enum(['VND', 'USD'], {
+      errorMap: () => ({ message: 'Tiền tệ chỉ hỗ trợ VND hoặc USD' }),
+    })
+    .default('VND'),
+  payment_method: z
+    .enum(['vietqr', 'stripe', 'paypal'], {
+      errorMap: () => ({ message: 'Phương thức thanh toán chỉ hỗ trợ vietqr, stripe hoặc paypal' }),
+    })
+    .default('vietqr'),
+  theme_id: z.number().int().positive().optional(),
+  license_type: z.enum(['regular', 'agency', 'lifetime']).optional().default('regular'),
+  items: z.array(z.any()).optional(),
+});
+
 export const SepayWebhookSchema = z.object({
   id: z.union([z.number().int().positive(), z.string().trim().min(1).max(100)], {
     required_error: 'Yêu cầu mã giao dịch transaction id',

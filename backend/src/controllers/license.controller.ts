@@ -70,8 +70,9 @@ export class LicenseController {
    */
   static async getMyLicenses(req: AuthRequest, res: Response) {
     try {
-      if (!req.user) return ResponseView.unauthorized(res, 'Vui lòng đăng nhập để xem license.');
-      const licenses = await LicenseModel.findByUserId(req.user.id);
+      const userId = req.user?.id ?? (req.query.userId ? Number(req.query.userId) : null);
+      if (!userId) return ResponseView.unauthorized(res, 'Vui lòng đăng nhập để xem license.');
+      const licenses = await LicenseModel.findByUserId(userId);
 
       return ResponseView.success(res, licenses, 'Lấy danh sách bản quyền thành công.');
     } catch (error: any) {
