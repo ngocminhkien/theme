@@ -44,15 +44,21 @@ export const CheckoutOrderSchema = z.object({
 }).strict();
 
 export const SepayWebhookSchema = z.object({
-  id: z.union([z.number(), z.string()], {
+  id: z.union([z.number().int().positive(), z.string().trim().min(1).max(100)], {
     required_error: 'Yêu cầu mã giao dịch transaction id',
   }),
-  gateway: z.string().optional().default('vietqr'),
+  // SePAY's `gateway` denotes the linked bank (for example Vietcombank),
+  // not this application's internal `vietqr` payment method.
+  gateway: z.string().trim().min(1).max(100).optional(),
   transferAmount: z.number().positive('Số tiền chuyển khoản phải lớn hơn 0'),
   content: z.string().min(1, 'Nội dung chuyển khoản không được để trống'),
   accumulated: z.number().optional(),
-  accountNumber: z.string().optional(),
-  transactionDate: z.string().optional(),
+  accountNumber: z.string().trim().regex(/^[0-9]{6,30}$/, 'Số tài khoản nhận không hợp lệ').optional(),
+  transactionDate: z.string().trim().max(64).optional(),
+  transferType: z.enum(['in']).optional(),
+  // SePAY bank-transfer webhook is VND. This stays optional because the
+  // documented payload does not always include a currency field.
+  currency: z.literal('VND').optional(),
 });
 
 export const LicenseActivateSchema = z.object({

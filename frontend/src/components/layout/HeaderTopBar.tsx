@@ -16,9 +16,9 @@ export function HeaderTopBar() {
           <div className="flex items-center gap-2">
             <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-brand-500/20 text-brand-300 text-[11px] font-semibold">
               <Sparkles className="w-3 h-3 text-brand-400" />
-              <span>All-Access Pass 2026</span>
+              <span>Catalog Theme 2026</span>
             </span>
-            <span className="text-slate-400">Tải không giới hạn 500+ Theme bản quyền</span>
+            <span className="text-slate-400">Khám phá theme bản quyền đang phát hành</span>
           </div>
 
           <div className="hidden lg:flex items-center gap-1.5 text-slate-400 hover:text-white transition">

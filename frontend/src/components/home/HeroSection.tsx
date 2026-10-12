@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { Sparkles, ArrowRight, Zap, ShieldCheck, Search, Flame, Layers, CheckCircle2, Star, TrendingUp } from 'lucide-react';
-import { CATEGORIES_LIST } from '@/shared/data/themes-data';
+import { THEMES_DATA } from '@/shared/data/themes-data';
 
 export function HeroSection() {
   const router = useRouter();
@@ -34,7 +34,7 @@ export function HeroSection() {
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-brand-500/10 border border-brand-500/20 text-brand-700 text-xs font-bold mb-6 hover:bg-brand-500/15 transition shadow-xs cursor-default">
             <span className="flex h-2 w-2 rounded-full bg-brand-600 animate-ping" />
             <Sparkles className="w-3.5 h-3.5 text-brand-600" />
-            <span>Cập Nhật Bản Quyền 2026 • 500+ Mẫu Theme Tối Ưu PageSpeed 99+</span>
+            <span>Catalog Theme Bản Quyền • {THEMES_DATA.length} mẫu đang phát hành</span>
           </div>
 
           {/* Main Headline */}
@@ -62,10 +62,8 @@ export function HeroSection() {
               >
                 <option value="all">Mọi ngành nghề</option>
                 <option value="e-commerce">Bán Hàng & Shop</option>
-                <option value="corporate-agency">Doanh Nghiệp</option>
-                <option value="tech-education">Công Nghệ & SaaS</option>
-                <option value="real-estate">Bất Động Sản</option>
-                <option value="news-blog">Tin Tức & Blog</option>
+                <option value="corporate-b2b">Doanh Nghiệp</option>
+                <option value="portfolio-agency">Portfolio & Sáng Tạo</option>
               </select>
             </div>
 
@@ -96,10 +94,10 @@ export function HeroSection() {
             <span className="text-slate-400">Từ khóa phổ biến:</span>
             {[
               { label: 'Theme Bán Hàng', query: 'e-commerce' },
-              { label: 'Doanh Nghiệp', query: 'corporate-agency' },
+              { label: 'Doanh Nghiệp', query: 'corporate-b2b' },
               { label: 'Elementor Pro', builder: 'elementor' },
               { label: 'Tối Ưu Tốc Độ', sort: 'featured' },
-              { label: 'Bất Động Sản', query: 'real-estate' },
+              { label: 'Portfolio & Sáng Tạo', query: 'portfolio-agency' },
             ].map((chip, idx) => (
               <Link
                 key={idx}
@@ -123,16 +121,16 @@ export function HeroSection() {
               href="/themes"
               className="px-6 py-3.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs uppercase tracking-wider shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5 flex items-center gap-2"
             >
-              <span>Khám Phá 500+ Themes</span>
+              <span>Khám Phá {THEMES_DATA.length} Theme</span>
               <ArrowRight className="w-4 h-4" />
             </Link>
 
             <Link
-              href="/themes?deals=weekly"
+              href="/themes?sort=featured"
               className="px-6 py-3.5 rounded-xl bg-white hover:bg-slate-50 text-slate-800 font-bold text-xs uppercase tracking-wider border border-slate-200/90 shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5 flex items-center gap-2"
             >
               <Sparkles className="w-4 h-4 text-brand-600" />
-              <span>Xem Gói VIP All-Access</span>
+              <span>Xem Theme Nổi Bật</span>
             </Link>
           </div>
         </div>
@@ -180,32 +178,32 @@ export function HeroSection() {
             </div>
           </div>
 
-          {/* Banner 2: VIP All-Access Pass */}
+          {/* Banner 2: Creative collection */}
           <div className="group rounded-3xl bg-gradient-to-br from-indigo-950 via-slate-900 to-brand-950 p-8 sm:p-10 text-white relative overflow-hidden shadow-xl border border-slate-800 flex flex-col justify-between">
             <div className="absolute top-0 right-0 w-64 h-64 bg-accent-cyan/20 rounded-full blur-3xl pointer-events-none group-hover:scale-125 transition-transform duration-700" />
 
             <div className="relative z-10">
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-accent-cyan/20 border border-accent-cyan/30 text-accent-cyan text-xs font-black uppercase tracking-wider mb-4">
                 <Sparkles className="w-3.5 h-3.5 text-accent-cyan" />
-                <span>Gói Thành Viên VIP / All-Access Pass</span>
+                <span>Bộ Sưu Tập Sáng Tạo</span>
               </div>
 
               <h3 className="text-2xl sm:text-3xl font-black tracking-tight mb-3">
-                Tải Không Giới Hạn 500+ Theme
+                Theme Cho Portfolio & Agency
               </h3>
 
               <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-6 max-w-md">
-                Chỉ một gói duy nhất cho Agency & Freelancer. Tự do tải toàn bộ theme thương mại, nhận update tự động và hỗ trợ kỹ thuật ưu tiên 24/7.
+                Khám phá các theme trực quan cho portfolio và website sáng tạo trong catalog đang phát hành.
               </p>
 
               <div className="flex items-center gap-4 text-xs font-semibold text-slate-300 mb-8">
                 <div className="flex items-center gap-1.5">
                   <CheckCircle2 className="w-4 h-4 text-accent-cyan" />
-                  <span>500+ Theme & Template</span>
+                  <span>Catalog có chọn lọc</span>
                 </div>
                 <div className="flex items-center gap-1.5">
                   <CheckCircle2 className="w-4 h-4 text-accent-cyan" />
-                  <span>Tiết kiệm 85% chi phí</span>
+                  <span>Giá Regular minh bạch</span>
                 </div>
               </div>
             </div>
@@ -215,7 +213,7 @@ export function HeroSection() {
                 href="/themes"
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-brand-500 to-accent-cyan text-white text-xs font-bold uppercase tracking-wider transition shadow-glow hover:scale-105"
               >
-                <span>Đăng Ký Gói VIP Pass</span>
+                <span>Khám Phá Theme</span>
                 <ArrowRight className="w-4 h-4" />
               </Link>
             </div>
@@ -229,7 +227,7 @@ export function HeroSection() {
               <Layers className="w-5 h-5" />
             </div>
             <div>
-              <div className="text-lg sm:text-xl font-black text-slate-900">500+ Themes</div>
+              <div className="text-lg sm:text-xl font-black text-slate-900">{THEMES_DATA.length} Themes</div>
               <div className="text-[11px] text-slate-500 font-medium">Bản quyền chính hãng</div>
             </div>
           </div>

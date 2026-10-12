@@ -111,7 +111,7 @@ export function MiniCartSlideover() {
                 </div>
                 <h4 className="font-bold text-slate-900 text-sm mb-1">Giỏ hàng đang trống</h4>
                 <p className="text-xs text-slate-500 max-w-xs mb-6">
-                  Khám phá hơn 500+ mẫu giao diện website tối ưu chuyển đổi và chuẩn SEO ngay hôm nay.
+                  Khám phá các mẫu giao diện website đang có trong catalog ngay hôm nay.
                 </p>
                 <Link
                   href="/themes"

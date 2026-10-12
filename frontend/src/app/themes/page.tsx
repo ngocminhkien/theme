@@ -6,7 +6,7 @@ import { ThemesCatalog } from '@/features/themes/components/themes-catalog';
 
 export const metadata: Metadata = {
   title: 'Kho Theme WordPress & WooCommerce Chuẩn SEO | THEMESTORE Marketplace',
-  description: 'Khám phá hơn 500+ mẫu theme bản quyền cho Elementor, WooCommerce, bán hàng, doanh nghiệp, công nghệ và bất động sản. Bộ lọc đa tiêu chí, tải trang thần tốc.',
+  description: 'Khám phá catalog theme bản quyền cho Elementor, WooCommerce, bán hàng và doanh nghiệp. Bộ lọc đa tiêu chí, tải trang thần tốc.',
 };
 
 export default function ThemesPage() {

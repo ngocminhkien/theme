@@ -137,6 +137,45 @@
 
 ---
 
+### [2026-10-12] - Member 05 — Catalog Sync Frontend & MySQL
+
+- **Nguồn chính thức / nguyên nhân:** MySQL `themes` (10 bản ghi `published`) là nguồn runtime cho `GET /api/v1/themes` và Checkout. Catalog tĩnh cũ chỉ có 8 theme marketing; WoodMart khác slug/giá và ID 2–8 không cùng theme, thiếu ID 9–10.
+- **Thêm mới (Add):** `frontend/tests/catalog-sync.test.cjs` đọc `database/seeds/01_seed_data.sql` để khóa đối chiếu ID, tên, slug, giá VND/USD, uniqueness và category count.
+- **Sửa đổi (Modify / Fix):** Đồng bộ `frontend/src/shared/data/themes-data.ts` theo đúng 10 theme seed; cập nhật link/filter/category/đếm catalog tại các component home/layout, bỏ promotion deal/All-Access không có dữ liệu; bỏ fallback WoodMart 890.000đ/$49 trong `backend/src/models/theme.model.ts`; cập nhật test Cart và thêm test API từ chối ID/slug giả (`CATALOG_MISMATCH`).
+- **Xác minh (Verification):** frontend type-check PASS; `node --test tests/catalog-sync.test.cjs tests/cart.store.test.cjs tests/checkout.test.cjs` **17/17 PASS**; controller Checkout mock **6/6 PASS**. Chưa chạy MySQL/API thật; không sửa seed, production, Agency/Lifetime, giá/tỷ giá; không commit/push.
+- **Còn tồn tại:** Cần đối chiếu API/MySQL runtime nếu production lệch seed; khi đó owner dữ liệu cần xác định nguồn giá và pipeline catalog chính thức.
+
+---
+
+### [2026-10-12] - Member 05 — Xác Minh Checkout Sau Catalog Sync
+
+- **Rà soát luồng:** Cart canonicalize product từ catalog tĩnh; Checkout gửi ID/slug/Regular + total chỉ để agreement; backend lookup MySQL, tự tính giá VND, transactionally lưu order/order_items/idempotency và retry không tạo đơn trùng. Giỏ chỉ bị xóa sau status cùng đơn `paid` + `completed`; QR/pending/lỗi không xóa.
+- **Sửa đổi (Modify / Fix):** `frontend/next.config.js` chuẩn hóa API base để cấu hình đã chứa `/api/v1` không bị rewrite thành prefix kép. Thêm `frontend/tests/api-rewrite.test.cjs`; mở rộng test checkout API-offline và test mock SePAY trong `backend/tests/member5_checkout.test.ts`.
+- **Xác minh (Verification):** 19/19 frontend tests PASS; backend Checkout/Webhook mock 7/7 PASS; frontend type-check, backend `tsc --noEmit`, frontend production build 26/26 PASS. Đây không phải E2E runtime.
+- **Runtime không chạy:** API :4000 không lắng nghe; `.env` không có; Docker daemon/Compose không dùng được. MySQL :3306 mở nhưng credential development bị `ER_ACCESS_DENIED_ERROR`; không GET catalog, không POST tạo đơn, không ghi DB.
+- **Còn tồn tại:** Frontend chưa có API catalog/fallback; cần E2E trên dev DB. SePAY thật/chữ ký chưa được xác minh; payment + license không atomic sau trạng thái paid. Stripe là stub và Checkout không dùng. Không commit/push.
+
+---
+
+### [2026-10-12] - Member 05 — Phần 4.1: Khảo Sát & Kế Hoạch VietQR/SePAY
+
+- **Phạm vi:** Chỉ đọc source và lập kế hoạch; không sửa nghiệp vụ/thanh toán/schema/secret, không gọi SePAY hay tạo thanh toán thật.
+- **Luồng xác nhận:** Checkout tạo order/order_items/idempotency transactionally, trả QR pending; modal polling status 5 giây và chỉ clear giỏ khi status cùng order là paid + completed. Webhook SePAY hiện kiểm tra key, order code, duplicate/amount rồi mark paid, ghi payment và cấp license. `/checkout/order-received` chưa tồn tại; state trang chưa nhận final order sau modal.
+- **Rủi ro:** Payment status, payment record và license chưa atomic; guard webhook đa-instance/unique fulfillment chưa đủ; gateway/currency/account đích/expiry chưa được kiểm tra đầy đủ; `SEPAY_WEBHOOK_SECRET` chưa dùng và logging có thể chứa header. Runtime SePAY/MySQL/API chưa được kiểm thử.
+- **Kế hoạch:** transaction + row lock/idempotency fulfillment; xác minh cơ chế chữ ký chính thức SePAY rồi fail-closed/redact log; TTL pending/QR; trang kết quả/status cuối; mock concurrency/failure và E2E sandbox/dev DB.
+- **Xác minh:** Đọc Checkout/modal/order/payment/license/routes/schema/migrations/env/Docker. Không chạy test/runtime mới trong khảo sát; không commit/push.
+
+---
+
+### [2026-10-12] - Member 05 — Phần 4.2: An Toàn Webhook & Cấp License SePAY
+
+- **Thêm mới (Add):** `backend/src/services/payment-fulfillment.service.ts` thực hiện fulfillment SePAY bằng InnoDB transaction + `SELECT ... FOR UPDATE`; `database/migrations/004_payment_fulfillment_idempotency.sql` thêm unique fulfillment license idempotent; `backend/tests/member5_payment_fulfillment.test.ts` là fake-DB test cho rollback/retry/replay/concurrency mô phỏng/DB unavailable.
+- **Sửa đổi (Modify / Fix):** Webhook chỉ settle order `vietqr`/`VND` pending, số tiền đúng bằng tổng và account nhận nếu payload có; ghi payment + tất cả license trước khi mark paid/completed, rollback khi lỗi và không fallback in-memory. Pending order có license tồn tại bị chặn để đối soát, không cấp bù theo phỏng đoán. Siết API Key đúng `Authorization: Apikey ...`, fail-closed mọi environment; không log header/raw body/content/account/PII. Schema bootstrap thêm `UNIQUE(order_id, theme_id, license_type)` cho licenses. Không thay HMAC/raw signature khi cấu hình hiện tại dùng API Key theo tài liệu SePAY.
+- **Xác minh (Verification):** backend lint/build PASS; controller Checkout/Webhook mock **9/9 PASS**; fulfillment fake-DB mock **6/6 PASS**; frontend Cart/Checkout/catalog/rewrite **19/19 PASS** và type-check PASS. Mock xác minh query `FOR UPDATE` và rollback logic, không phải MySQL/SePAY runtime.
+- **Còn tồn tại:** Không chạy migration/SePAY/API/MySQL thật vì môi trường local vẫn không khả dụng. Migration sẽ fail an toàn khi dữ liệu license cũ trùng và cần DB owner xử lý/review. Đơn lịch sử paid thiếu license không auto-repair; cần đối soát. QR expiry, Order Received, Stripe/PayPal không thuộc phần này. Không commit/push.
+
+---
+
 ## 📌 HƯỚNG DẪN CẬP NHẬT KHI CÓ THAY ĐỔI MỚI (MAINTENANCE RULE)
 Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người phụ trách/trợ lý AI **bắt buộc** phải tuân thủ:
 1. Thêm một mục mục con mới tương ứng ngày thực hiện `[YYYY-MM-DD] - Tiêu đề công việc`.

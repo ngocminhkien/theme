@@ -171,6 +171,7 @@ CREATE TABLE `licenses` (
     `updated_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     PRIMARY KEY (`id`),
     UNIQUE KEY `uk_licenses_key` (`license_key`),
+    UNIQUE KEY `uk_licenses_order_theme_type` (`order_id`, `theme_id`, `license_type`),
     KEY `idx_licenses_order` (`order_id`),
     KEY `idx_licenses_theme` (`theme_id`),
     KEY `idx_licenses_user` (`user_id`),

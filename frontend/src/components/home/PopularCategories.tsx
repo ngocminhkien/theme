@@ -7,39 +7,30 @@ import { ArrowRight, Sparkles, Layers, ArrowUpRight } from 'lucide-react';
 const CATEGORY_ITEMS = [
   {
     id: 'e-commerce',
-    title: 'Thương Mại Điện Tử & Bán Hàng',
+    title: 'Thương Mại Điện Tử & Bán Lẻ',
     desc: 'WooCommerce shop, siêu thị điện máy & sàn đa người bán',
-    count: '64 Theme',
+    count: '4 Theme',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=400&q=80',
     subcategories: ['Cửa Hàng Bán Lẻ', 'Siêu Thị Mega Store', 'Sàn Đa Người Bán', 'Thanh Toán VietQR'],
     tagColor: 'bg-brand-50 text-brand-600 border-brand-200',
   },
   {
-    id: 'corporate-agency',
+    id: 'corporate-b2b',
     title: 'Doanh Nghiệp & Dịch Vụ',
     desc: 'Tập đoàn, công ty tư vấn tài chính & agency sáng tạo',
-    count: '52 Theme',
+    count: '5 Theme',
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=400&q=80',
     subcategories: ['Hồ Sơ Năng Lực B2B', 'Tư Vấn Tài Chính', 'Agency Marketing', 'Hồ Sơ Dự Án'],
     tagColor: 'bg-indigo-50 text-indigo-600 border-indigo-200',
   },
   {
-    id: 'tech-education',
-    title: 'Công Nghệ, SaaS & Khóa Học',
-    desc: 'SaaS landing page, phần mềm ứng dụng & cổng học LMS',
-    count: '38 Theme',
-    image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80',
-    subcategories: ['Landing Page Phần Mềm', 'Bảng Giá Dịch Vụ SaaS', 'Khóa Học Trực Tuyến LMS', 'Ứng Dụng Di Động'],
+    id: 'portfolio-agency',
+    title: 'Portfolio & Sáng Tạo',
+    desc: 'Theme dựng portfolio, giới thiệu dịch vụ và website sáng tạo',
+    count: '1 Theme',
+    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=400&q=80',
+    subcategories: ['Portfolio Cá Nhân', 'Agency Sáng Tạo', 'Visual Builder'],
     tagColor: 'bg-cyan-50 text-cyan-600 border-cyan-200',
-  },
-  {
-    id: 'real-estate',
-    title: 'Bất Động Sản & Xây Dựng',
-    desc: 'Sàn môi giới nhà đất, dự án căn hộ & kiến trúc',
-    count: '32 Theme',
-    image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=400&q=80',
-    subcategories: ['Dự Án Chung Cư', 'Môi Giới Nhà Đất', 'Nhà Thầu Xây Dựng', 'Sơ Đồ Mặt Bằng'],
-    tagColor: 'bg-emerald-50 text-emerald-600 border-emerald-200',
   },
 ];
 
@@ -69,8 +60,8 @@ export function PopularCategories() {
           </Link>
         </div>
 
-        {/* 4 Category Cards Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        {/* Catalog-backed category cards */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {CATEGORY_ITEMS.map((cat) => (
             <div
               key={cat.id}

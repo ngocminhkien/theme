@@ -102,27 +102,15 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/themes?category=corporate-agency" className="hover:text-brand-400 transition flex items-center gap-2">
+                <Link href="/themes?category=corporate-b2b" className="hover:text-brand-400 transition flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-500" />
                   Doanh Nghiệp & Dịch Vụ
                 </Link>
               </li>
               <li>
-                <Link href="/themes?category=tech-education" className="hover:text-brand-400 transition flex items-center gap-2">
+                <Link href="/themes?category=portfolio-agency" className="hover:text-brand-400 transition flex items-center gap-2">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-500" />
-                  Công Nghệ, SaaS & Khóa Học
-                </Link>
-              </li>
-              <li>
-                <Link href="/themes?category=real-estate" className="hover:text-brand-400 transition flex items-center gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-brand-500" />
-                  Bất Động Sản & Xây Dựng
-                </Link>
-              </li>
-              <li>
-                <Link href="/themes?category=news-blog" className="hover:text-brand-400 transition flex items-center gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-brand-500" />
-                  Tin Tức, Tạp Chí & Blog
+                  Portfolio & Sáng Tạo
                 </Link>
               </li>
             </ul>

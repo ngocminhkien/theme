@@ -1,6 +1,11 @@
 import { OrderController } from '../src/controllers/order.controller.js';
+import { PaymentController } from '../src/controllers/payment.controller.js';
 import { OrderModel, type Order } from '../src/models/order.model.js';
 import { ThemeModel } from '../src/models/theme.model.js';
+import { PaymentModel } from '../src/models/payment.model.js';
+import { LicenseModel } from '../src/models/license.model.js';
+import { SePayService } from '../src/services/sepay.service.js';
+import { PaymentFulfillmentService } from '../src/services/payment-fulfillment.service.js';
 import { ENV } from '../src/config/env.js';
 
 interface Result { statusCode: number; body: any }
@@ -23,6 +28,13 @@ function expect(value: unknown, message: string): asserts value { if (!value) th
 const originalThemeLookup = ThemeModel.findBySlug;
 const originalFindKey = OrderModel.findByCheckoutKey;
 const originalCreate = OrderModel.createWithItems;
+const originalFindOrder = OrderModel.findByOrderNumber;
+const originalMarkPaid = OrderModel.markAsPaid;
+const originalFindPayment = PaymentModel.findByTransaction;
+const originalCreatePayment = PaymentModel.create;
+const originalCreateLicense = LicenseModel.create;
+const originalVerifyWebhook = SePayService.verifyWebhook;
+const originalFulfillVietQr = PaymentFulfillmentService.fulfillVietQr;
 
 ENV.PAYMENTS.VIETQR_BANK_BIN = '970422';
 ENV.PAYMENTS.VIETQR_BANK_ACCOUNT = '123456789';
@@ -73,6 +85,17 @@ await run('client amount mismatch does not write an order', async () => {
   expect(writes.length === 0, 'must not persist rejected order');
 });
 
+await run('unknown or mismatched catalog identity does not write an order', async () => {
+  stored = null; writes.length = 0;
+  const unknown = response();
+  await OrderController.checkout(request(payload({ items: [{ theme_id: 1, theme_slug: 'missing-theme', license_type: 'regular' }] })), unknown.res);
+  expect(unknown.result().statusCode === 409 && unknown.result().body.error === 'CATALOG_MISMATCH', 'unknown theme must be rejected');
+  const mismatched = response();
+  await OrderController.checkout(request(payload({ items: [{ theme_id: 2, theme_slug: 'woodmart', license_type: 'regular' }] })), mismatched.res);
+  expect(mismatched.result().statusCode === 409 && mismatched.result().body.error === 'CATALOG_MISMATCH', 'theme ID and slug must match');
+  expect(writes.length === 0, 'must not persist rejected catalog items');
+});
+
 await run('empty cart and non-Regular licenses are rejected by the API schema', async () => {
   stored = null; writes.length = 0;
   const { res, result } = response();
@@ -109,9 +132,70 @@ await run('USD/Stripe is not silently replaced by a demo QR order', async () => 
   expect(writes.length === 0, 'must not create a fallback order');
 });
 
+await run('a verified SePAY webhook delegates only to the transactional fulfillment service', async () => {
+  let received: any;
+  (SePayService as any).verifyWebhook = () => true;
+  (PaymentFulfillmentService as any).fulfillVietQr = async (input: any) => {
+    received = input;
+    return { status: 'fulfilled', code: 'FULFILLED', orderNumber: input.orderNumber, licenseCount: 2 };
+  };
+  const { res, result } = response();
+  await PaymentController.handleSepayWebhook(request({
+    id: 'sepay-verified-71', gateway: 'vietqr', transferAmount: 1198000,
+    content: 'Thanh toan OD-20261012-A1B2C3',
+  }), res);
+  expect(result().statusCode === 200 && result().body.success, 'verified webhook must succeed');
+  expect(received?.orderNumber === 'OD-20261012-A1B2C3', 'must pass the parsed order number');
+  expect(received?.transactionId === 'sepay-verified-71' && received?.paidAmount === 1198000, 'must pass the provider transaction and VND amount');
+});
+
+await run('the SePAY endpoint rejects alternate gateways and non-VND webhook payloads before fulfillment', async () => {
+  (SePayService as any).verifyWebhook = () => true;
+  const alternateGateway = response();
+  await PaymentController.handleSepayWebhook(request({
+    id: 'sepay-other-gateway', gateway: 'stripe', transferAmount: 1198000,
+    content: 'Thanh toan OD-20261012-A1B2C3',
+  }), alternateGateway.res);
+  expect(alternateGateway.result().statusCode === 200 && alternateGateway.result().body.success, 'alternate gateway must be acknowledged without fulfillment');
+
+  const foreignCurrency = response();
+  await PaymentController.handleSepayWebhook(request({
+    id: 'sepay-usd', gateway: 'Vietcombank', currency: 'USD', transferAmount: 1198000,
+    content: 'Thanh toan OD-20261012-A1B2C3',
+  }), foreignCurrency.res);
+  expect(foreignCurrency.result().statusCode === 400, 'foreign currency must fail schema validation');
+
+  let called = false;
+  (PaymentFulfillmentService as any).fulfillVietQr = async () => { called = true; throw new Error('must not be called'); };
+  const unknownOrderCode = response();
+  await PaymentController.handleSepayWebhook(request({
+    id: 'sepay-no-order', gateway: 'Vietcombank', transferAmount: 1198000,
+    content: 'Thanh toan khong co ma don hop le',
+  }), unknownOrderCode.res);
+  expect(unknownOrderCode.result().statusCode === 200 && unknownOrderCode.result().body.success && !called, 'invalid order code must be acknowledged without fulfillment');
+});
+
+await run('SePAY API-key authentication is fail-closed and requires the documented header prefix', async () => {
+  (SePayService as any).verifyWebhook = originalVerifyWebhook;
+  ENV.PAYMENTS.SEPAY_API_KEY = 'test-sepay-key';
+  expect(SePayService.verifyWebhook('Apikey test-sepay-key'), 'documented API-key header must pass');
+  expect(!SePayService.verifyWebhook('test-sepay-key'), 'unprefixed authorization must fail');
+  expect(!SePayService.verifyWebhook(undefined), 'missing authorization must fail');
+  ENV.PAYMENTS.SEPAY_API_KEY = '';
+  expect(!SePayService.verifyWebhook('Apikey anything'), 'unconfigured API key must fail in every environment');
+  ENV.PAYMENTS.SEPAY_API_KEY = 'test-sepay-key';
+});
+
 (ThemeModel as any).findBySlug = originalThemeLookup;
 (OrderModel as any).findByCheckoutKey = originalFindKey;
 (OrderModel as any).createWithItems = originalCreate;
+(OrderModel as any).findByOrderNumber = originalFindOrder;
+(OrderModel as any).markAsPaid = originalMarkPaid;
+(PaymentModel as any).findByTransaction = originalFindPayment;
+(PaymentModel as any).create = originalCreatePayment;
+(LicenseModel as any).create = originalCreateLicense;
+(SePayService as any).verifyWebhook = originalVerifyWebhook;
+(PaymentFulfillmentService as any).fulfillVietQr = originalFulfillVietQr;
 
 const failures = results.filter(result => !result.passed);
 console.log('Checkout controller tests: ' + (results.length - failures.length) + '/' + results.length + ' passed');

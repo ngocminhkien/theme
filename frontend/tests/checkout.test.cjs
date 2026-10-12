@@ -81,6 +81,15 @@ test('one submit promise prevents duplicate requests and retries reuse a random 
   assert.equal([...storage.values()][0], key);
 });
 
+test('an unavailable checkout API keeps the retry idempotency key and reports a safe error', async () => {
+  global.fetch = async () => { throw new TypeError('offline'); };
+  const request = new CheckoutRequest();
+  await assert.rejects(request.submit(buildCheckoutPayload(fields, [regularItem], 'VND')), /Mất kết nối hoặc hết thời gian chờ/);
+  const keys = [...storage.values()];
+  assert.equal(keys.length, 1);
+  assert.match(keys[0], /^[a-f0-9-]{36}$/i);
+});
+
 test('a cart is cleared only for the same order with paid and completed server status', () => {
   const order = { orderNumber: 'OD-20261012-A1B2C3', total_amount: 599000, currency: 'VND' };
   assert.equal(isConfirmedPaid({ ...order, payment_status: 'paid', order_status: 'completed' }, order), true);

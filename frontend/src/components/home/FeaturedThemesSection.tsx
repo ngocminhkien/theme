@@ -2,12 +2,12 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { ArrowRight, Flame, Sparkles, Zap, Layers } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { THEMES_DATA } from '@/shared/data/themes-data';
 import { ThemeCard } from '@/features/themes/components/theme-card';
 import { useCartStore } from '@/shared/stores/cart.store';
 
-type TabType = 'all' | 'ecommerce' | 'corporate' | 'deals' | 'elementor';
+type TabType = 'all' | 'ecommerce' | 'corporate' | 'elementor';
 
 export function FeaturedThemesSection() {
   const [activeTab, setActiveTab] = useState<TabType>('all');
@@ -15,8 +15,7 @@ export function FeaturedThemesSection() {
 
   const filteredThemes = THEMES_DATA.filter((theme) => {
     if (activeTab === 'ecommerce') return theme.category === 'e-commerce';
-    if (activeTab === 'corporate') return theme.category === 'corporate-agency';
-    if (activeTab === 'deals') return Boolean(theme.is_weekly_deal);
+    if (activeTab === 'corporate') return theme.category === 'corporate-b2b';
     if (activeTab === 'elementor') return theme.page_builders.includes('Elementor');
     return true;
   });
@@ -45,7 +44,6 @@ export function FeaturedThemesSection() {
               { id: 'all', label: `Tất Cả (${THEMES_DATA.length})` },
               { id: 'ecommerce', label: 'Theme Bán Hàng' },
               { id: 'corporate', label: 'Doanh Nghiệp' },
-              { id: 'deals', label: 'Flash Deals -35%' },
               { id: 'elementor', label: 'Elementor Pro' },
             ].map((tab) => (
               <button
@@ -76,7 +74,7 @@ export function FeaturedThemesSection() {
             href="/themes"
             className="inline-flex items-center gap-2.5 px-8 py-4 bg-slate-900 hover:bg-brand-600 text-white font-bold text-xs uppercase tracking-wider rounded-2xl shadow-lg hover:shadow-glow transition-all duration-300 hover:-translate-y-0.5"
           >
-            <span>Khám Phá Toàn Bộ 500+ Themes Bản Quyền</span>
+            <span>Khám Phá Toàn Bộ Catalog Theme</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
         </div>

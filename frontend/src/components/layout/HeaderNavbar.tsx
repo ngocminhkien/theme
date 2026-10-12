@@ -57,7 +57,7 @@ export function HeaderNavbar() {
           <Link href="/themes?category=e-commerce" className="hover:text-brand-600 transition py-3.5 border-b-2 border-transparent">
             Theme Bán Hàng
           </Link>
-          <Link href="/themes?category=corporate-agency" className="hover:text-brand-600 transition py-3.5 border-b-2 border-transparent">
+          <Link href="/themes?category=corporate-b2b" className="hover:text-brand-600 transition py-3.5 border-b-2 border-transparent">
             Theme Doanh Nghiệp
           </Link>
           <Link href="/themes?builder=elementor" className="hover:text-brand-600 transition py-3.5 border-b-2 border-transparent">
@@ -66,20 +66,20 @@ export function HeaderNavbar() {
           <Link href="/themes?sort=featured" className="hover:text-brand-600 transition py-3.5 border-b-2 border-transparent">
             Theme Chuẩn SEO
           </Link>
-          <Link href="/preview/woodmart-multipurpose" className="hover:text-brand-600 transition py-3.5 border-b-2 border-transparent flex items-center gap-1.5 text-slate-600">
+          <Link href="/preview/woodmart" className="hover:text-brand-600 transition py-3.5 border-b-2 border-transparent flex items-center gap-1.5 text-slate-600">
             <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
             <span>Live Demo</span>
           </Link>
         </nav>
 
-        {/* Right: VIP Pass / Deal Promotion */}
+        {/* Right: Catalog promotion */}
         <div className="flex items-center gap-2 text-xs font-bold">
           <Link
-            href="/themes?deals=weekly"
+            href="/themes?sort=featured"
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-accent-rose/10 text-accent-rose hover:bg-accent-rose/20 transition text-[11px]"
           >
             <Zap className="w-3.5 h-3.5" />
-            <span>Deal Giảm 35% Tuần Này</span>
+            <span>Theme Nổi Bật</span>
           </Link>
         </div>
       </div>
