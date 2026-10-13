@@ -98,7 +98,7 @@ function MyAccountContent() {
   }
 
   return (
-    <div className="min-h-screen flex flex-col bg-slate-50">
+    <div className="min-h-screen flex flex-col bg-transparent relative z-10">
       <Header />
       <main className="w-full max-w-6xl mx-auto px-4 py-10 flex-1">
         {!user && !loading && <section className="max-w-md mx-auto bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm">

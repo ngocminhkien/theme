@@ -405,6 +405,22 @@
 
 ---
 
+### [2026-10-13] - Tái Cấu Trúc Background Đa Tầng, Hệ Thống Đa Theme, Hiệu Ứng Chuyển Trang & Hiệu Ứng Cuộn Xuống (Scroll Reveal)
+- **Thêm mới (Add):**
+  - [`frontend/src/components/layout/AmbientBackground.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/layout/AmbientBackground.tsx): Hệ thống Background đa tầng tương tác thời gian thực gồm 6 lớp (Base Mesh Gradient, Floating Aurora Orbs có Scroll Parallax, Architectural Grid & Dot Matrix với Radial Vignette Mask, Sweeping Light Beams ngang/dọc, Interactive Cursor Spotlight bám theo chuột mượt mà bằng `requestAnimationFrame`, và Film Grain Noise), kèm thanh tiến trình cuộn trang (`Top Scroll Progress Bar`) và bộ chuyển đổi giao diện `ThemeSwitcherPill` hỗ trợ 3 chế độ chủ đề (`aurora`, `midnight`, `emerald`) lưu vào `localStorage`.
+  - [`frontend/src/components/motion/ScrollReveal.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/motion/ScrollReveal.tsx): Component `<ScrollReveal>` và `<GlobalScrollObserver>` sử dụng `IntersectionObserver` + `MutationObserver` kích hoạt hiệu ứng xuất hiện khi cuộn xuống (`fade-up`, `fade-down`, `fade-left`, `fade-right`, `zoom-in`, `tilt-up`) với độ trễ xếp tầng (staggered cascade) và tôn trọng `prefers-reduced-motion`.
+  - [`frontend/src/components/motion/PageTransition.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/motion/PageTransition.tsx) & [`frontend/src/app/template.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/app/template.tsx): Hiệu ứng chuyển trang mượt mà (Smooth Route Morph + Top Laser Shimmer Bar) tự động chạy mỗi khi điều hướng giữa các trang trong Next.js App Router.
+- **Sửa đổi (Modify / Fix):**
+  - [`frontend/src/app/globals.css`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/app/globals.css): Thiết lập hệ thống CSS Custom Properties cho 3 chủ đề (`data-site-theme="aurora" | "midnight" | "emerald"`), tự động thích ứng bề mặt thẻ kính mờ (`.wm-surface-card`, `.wm-glass-panel`), tích hợp `@view-transition { navigation: auto; }`, keyframes cho các khối cầu Aurora, tia sáng lưới kiến trúc và hiệu ứng cuộn xuống.
+  - [`frontend/src/app/layout.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/app/layout.tsx), [`frontend/src/components/layout/HeaderTopBar.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/layout/HeaderTopBar.tsx), [`frontend/src/components/layout/HeaderMain.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/layout/HeaderMain.tsx): Tích hợp `<AmbientBackground />`, `<GlobalScrollObserver />` ở RootLayout và nút chuyển đổi Theme trực tiếp trên thanh TopBar cùng menu di động.
+  - [`frontend/package.json`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/package.json), [`admin/package.json`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/admin/package.json), [`.gitignore`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/.gitignore): Nâng cấp Next.js từ phiên bản dính lỗ hổng bảo mật `15.1.7` (CVE-2025-66478 bị Vercel chặn triển khai) lên phiên bản vá chính thức `15.5.27` và `postcss@^8.5.30`, bổ sung script `test` cho frontend và bỏ qua `*.tsbuildinfo` trong git.
+- **Xác minh (Verification):**
+  - `npm --prefix frontend run type-check` & `npm --prefix admin run type-check`: **PASS** (0 lỗi TypeScript).
+  - `npm --prefix frontend run test`: **PASS** toàn bộ 28/28 unit tests.
+  - `npm --prefix frontend run build`: **PASS** biên dịch thành công toàn bộ 30/30 trang tĩnh SSG với Next.js 15.5.27 mà không còn cảnh báo bảo mật hay bị Vercel chặn.
+
+---
+
 ## 📌 HƯỚNG DẪN CẬP NHẬT KHI CÓ THAY ĐỔI MỚI (MAINTENANCE RULE)
 Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người phụ trách/trợ lý AI **bắt buộc** phải tuân thủ:
 1. Thêm một mục mục con mới tương ứng ngày thực hiện `[YYYY-MM-DD] - Tiêu đề công việc`.

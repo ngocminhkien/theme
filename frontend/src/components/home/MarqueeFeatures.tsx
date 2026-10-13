@@ -46,7 +46,9 @@ export function MarqueeFeatures() {
             return (
               <div
                 key={idx}
-                className="bg-white rounded-2xl border border-slate-200 p-5 shadow-xs hover:shadow-xl hover:border-brand-300 hover:-translate-y-1 transition-all duration-300 flex items-start gap-4 group"
+                data-reveal="fade-up"
+                style={{ transitionDelay: `${idx * 70}ms` }}
+                className="wm-surface-card rounded-2xl p-5 hover:-translate-y-1.5 transition-all duration-300 flex items-start gap-4 group"
               >
                 <div
                   className={`w-12 h-12 rounded-2xl border flex items-center justify-center shrink-0 group-hover:scale-110 transition duration-300 ${feat.color}`}
@@ -54,7 +56,7 @@ export function MarqueeFeatures() {
                   <Icon className="w-6 h-6" />
                 </div>
                 <div>
-                  <h4 className="font-black text-sm sm:text-base text-slate-900 group-hover:text-brand-600 transition leading-snug">
+                  <h4 className="font-black text-sm sm:text-base text-slate-900 group-hover:text-indigo-600 transition leading-snug">
                     {feat.title}
                   </h4>
                   <p className="text-xs sm:text-sm text-slate-500 mt-1 leading-relaxed font-medium">

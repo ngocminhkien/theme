@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function ThemesPage() {
   return (
-    <div className="min-h-screen flex flex-col bg-[#f8fafc]">
+    <div className="min-h-screen flex flex-col bg-transparent relative z-10">
       <Header />
       <main className="flex-1">
         <Suspense

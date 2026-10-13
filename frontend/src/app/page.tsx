@@ -8,34 +8,46 @@ import { MarqueeFeatures } from '@/components/home/MarqueeFeatures';
 import { PopularCategories } from '@/components/home/PopularCategories';
 import { FeaturedThemesSection } from '@/components/home/FeaturedThemesSection';
 import { PromoDealBanner } from '@/components/home/PromoDealBanner';
+import ScrollReveal from '@/components/motion/ScrollReveal';
 
 export default function HomePage() {
   return (
-    <div className="min-h-screen flex flex-col bg-[#f8fafc]">
+    <div className="min-h-screen flex flex-col bg-transparent relative z-10">
       {/* SaaS Glassmorphic Header */}
       <Header />
 
       {/* Main Content Area */}
       <main className="flex-1">
         {/* Hero Section: Centered Big Search, Glow Grid & Highlight Banners */}
-        <HeroSection />
+        <ScrollReveal variant="fade-up" durationMs={650}>
+          <HeroSection />
+        </ScrollReveal>
 
         {/* Feature Grid Trust Strip */}
-        <MarqueeFeatures />
+        <ScrollReveal variant="fade-up" delayMs={60}>
+          <MarqueeFeatures />
+        </ScrollReveal>
 
         {/* Popular Categories Grid */}
-        <PopularCategories />
+        <ScrollReveal variant="fade-up" delayMs={80}>
+          <PopularCategories />
+        </ScrollReveal>
 
         {/* Featured Themes Grid with Filter Tabs */}
-        <FeaturedThemesSection />
+        <ScrollReveal variant="fade-up" delayMs={80}>
+          <FeaturedThemesSection />
+        </ScrollReveal>
 
         {/* Promotional Countdown Deal Banner */}
-        <PromoDealBanner />
+        <ScrollReveal variant="tilt-up" delayMs={90}>
+          <PromoDealBanner />
+        </ScrollReveal>
       </main>
 
       {/* SaaS Dark Footer */}
-      <Footer />
-
+      <ScrollReveal variant="fade-up" delayMs={50}>
+        <Footer />
+      </ScrollReveal>
     </div>
   );
 }

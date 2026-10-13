@@ -97,7 +97,7 @@ export default function CheckoutPage() {
   const visibleTotal = pending?.order.total_amount ?? total;
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#f8fafc] font-sans">
+    <div className="min-h-screen flex flex-col bg-transparent relative z-10 font-sans">
       <Header />
 
       <main className="flex-1 max-w-6xl mx-auto px-4 sm:px-6 py-10 w-full">

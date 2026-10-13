@@ -20,6 +20,7 @@ import {
 } from 'lucide-react';
 import { useCartStore } from '@/shared/stores/cart.store';
 import { THEMES_DATA, CATEGORIES_LIST } from '@/shared/data/themes-data';
+import { ThemeSwitcherPill } from '@/components/layout/AmbientBackground';
 
 export function HeaderMain() {
   const router = useRouter();
@@ -369,6 +370,12 @@ export function HeaderMain() {
             onClick={(e) => e.stopPropagation()}
             className="bg-white border-b border-slate-200 shadow-2xl max-h-[calc(100vh-104px)] overflow-y-auto px-4 py-5 space-y-5 animate-in slide-in-from-top-2 duration-200"
           >
+            {/* Theme Atmosphere Selector Row on Mobile */}
+            <div className="flex items-center justify-between p-3 rounded-2xl bg-slate-50 border border-slate-200/80">
+              <span className="text-xs font-bold text-slate-700">Giao diện (Theme):</span>
+              <ThemeSwitcherPill />
+            </div>
+
             {/* Quick Account Actions */}
             <div className="grid grid-cols-2 gap-2.5">
               <Link

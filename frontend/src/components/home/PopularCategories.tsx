@@ -105,12 +105,14 @@ export function PopularCategories() {
 
         {/* 6 Category Cards Grid: 1 col on mobile, 2 on sm, 3 on lg, 6 on 2xl */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-6 gap-4 sm:gap-6">
-          {CATEGORY_ITEMS.map((cat) => {
+          {CATEGORY_ITEMS.map((cat, idx) => {
             const Icon = cat.icon;
             return (
               <div
                 key={cat.id}
-                className="bg-white rounded-3xl border border-slate-200 overflow-hidden shadow-xs hover:shadow-2xl hover:border-brand-300 hover:-translate-y-1.5 transition-all duration-300 flex flex-col justify-between group"
+                data-reveal="fade-up"
+                style={{ transitionDelay: `${idx * 75}ms` }}
+                className="wm-surface-card rounded-3xl overflow-hidden hover:-translate-y-2 transition-all duration-300 flex flex-col justify-between group"
               >
                 <div>
                   {/* Image Banner with Overlay */}

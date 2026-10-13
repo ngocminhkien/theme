@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Phone, ShieldCheck, HelpCircle, User, Sparkles, Flame, Gift, ArrowRight } from 'lucide-react';
 import { useCartStore } from '@/shared/stores/cart.store';
+import { ThemeSwitcherPill } from '@/components/layout/AmbientBackground';
 
 const TICKER_ANNOUNCEMENTS = [
   '🔥 SIÊU SALE HÔM NAY: Giảm ngay 35% tất cả Theme & Plugin WordPress bản quyền • Nhập mã: THEMESTORE',
@@ -24,11 +25,11 @@ export function HeaderTopBar() {
   }, []);
 
   return (
-    <div className="bg-slate-950 text-slate-300 border-b border-slate-800/80 text-sm relative z-50 w-full">
+    <div className="bg-slate-950/95 backdrop-blur-md text-slate-300 border-b border-slate-800/80 text-sm relative z-50 w-full">
       <div className="w-full max-w-[1720px] mx-auto px-3 sm:px-6 lg:px-8 xl:px-12 h-10 sm:h-11 flex items-center justify-between gap-2 sm:gap-4">
         {/* Left: Animated Ticker Announcement */}
         <div className="flex items-center gap-2 sm:gap-3 overflow-hidden flex-1 min-w-0 max-w-3xl">
-          <span className="inline-flex items-center gap-1 px-2 sm:px-3 py-0.5 rounded-full bg-gradient-to-r from-rose-500 to-amber-500 text-white text-[10px] sm:text-xs font-black uppercase tracking-wider shrink-0 shadow-xs animate-pulse">
+          <span className="inline-flex items-center gap-1 px-2 sm:px-3 py-0.5 rounded-full bg-gradient-to-r from-indigo-500 via-purple-500 to-rose-500 text-white text-[10px] sm:text-xs font-black uppercase tracking-wider shrink-0 shadow-xs animate-pulse">
             <Flame className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
             <span className="hidden xs:inline">HOT DEAL</span>
           </span>
@@ -43,27 +44,32 @@ export function HeaderTopBar() {
           </div>
         </div>
 
-        {/* Right Controls: Hotline, Currency Switcher, Auth & Support */}
-        <div className="flex items-center gap-2 sm:gap-4 shrink-0 text-xs sm:text-sm">
+        {/* Right Controls: Hotline, Theme Switcher, Currency Switcher, Auth & Support */}
+        <div className="flex items-center gap-2 sm:gap-3.5 shrink-0 text-xs sm:text-sm">
+          {/* Live Site Theme Switcher (Aurora / Midnight / Emerald) */}
+          <ThemeSwitcherPill />
+
+          <div className="h-4 w-px bg-slate-800 hidden sm:block" />
+
           {/* Hotline / Zalo Support */}
           <a
             href="tel:0988666888"
-            className="hidden sm:flex items-center gap-1.5 text-slate-300 hover:text-amber-400 transition font-semibold"
+            className="hidden lg:flex items-center gap-1.5 text-slate-300 hover:text-amber-400 transition font-semibold"
             title="Hotline & Zalo hỗ trợ kỹ thuật 24/7"
           >
             <Phone className="w-4 h-4 text-amber-400" />
-            <span>Hotline / Zalo: <strong className="text-white text-sm">0988.666.888</strong></span>
+            <span>Hotline: <strong className="text-white text-sm">0988.666.888</strong></span>
           </a>
 
-          <div className="h-4 w-px bg-slate-800 hidden sm:block" />
+          <div className="h-4 w-px bg-slate-800 hidden lg:block" />
 
           {/* Currency Switcher (₫ VND / $ USD) */}
           <div className="flex items-center bg-slate-900 rounded-full p-0.5 border border-slate-800">
             <button
               onClick={() => setCurrency('VND')}
-              className={`px-2 sm:px-3 py-0.5 sm:py-1 rounded-full font-bold transition text-[11px] sm:text-xs cursor-pointer ${
+              className={`px-2 sm:px-2.5 py-0.5 sm:py-1 rounded-full font-bold transition text-[11px] sm:text-xs cursor-pointer ${
                 currency === 'VND'
-                  ? 'bg-brand-600 text-white shadow-xs'
+                  ? 'bg-indigo-600 text-white shadow-xs'
                   : 'text-slate-400 hover:text-white'
               }`}
               title="Đổi sang tiền tệ Việt Nam Đồng (VND)"
@@ -72,9 +78,9 @@ export function HeaderTopBar() {
             </button>
             <button
               onClick={() => setCurrency('USD')}
-              className={`px-2 sm:px-3 py-0.5 sm:py-1 rounded-full font-bold transition text-[11px] sm:text-xs cursor-pointer ${
+              className={`px-2 sm:px-2.5 py-0.5 sm:py-1 rounded-full font-bold transition text-[11px] sm:text-xs cursor-pointer ${
                 currency === 'USD'
-                  ? 'bg-brand-600 text-white shadow-xs'
+                  ? 'bg-indigo-600 text-white shadow-xs'
                   : 'text-slate-400 hover:text-white'
               }`}
               title="Đổi sang Đô la Mỹ (USD)"

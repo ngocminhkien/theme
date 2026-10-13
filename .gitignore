@@ -37,6 +37,7 @@ build/
 out/
 .turbo/
 next-env.d.ts
+*.tsbuildinfo
 
 # Database & Backups
 backups/

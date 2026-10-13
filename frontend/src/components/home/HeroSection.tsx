@@ -165,7 +165,10 @@ export function HeroSection() {
         {/* Feature Cards Grid (Two Highlight Banners Side by Side) */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 sm:gap-8 mt-2 sm:mt-4">
           {/* Banner 1: Multipurpose & High Performance */}
-          <div className="group rounded-3xl bg-gradient-to-br from-slate-950 via-brand-950 to-slate-900 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-slate-800 flex flex-col justify-between">
+          <div
+            data-reveal="fade-left"
+            className="group rounded-3xl bg-gradient-to-br from-slate-950 via-indigo-950 to-slate-900 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-indigo-500/30 flex flex-col justify-between transition-transform duration-500 hover:-translate-y-1.5"
+          >
             <div className="absolute top-0 right-0 w-80 h-80 bg-brand-500/20 rounded-full blur-3xl pointer-events-none group-hover:scale-125 transition-transform duration-700" />
 
             <div className="relative z-10">
@@ -206,7 +209,10 @@ export function HeroSection() {
           </div>
 
           {/* Banner 2: VIP All-Access Pass */}
-          <div className="group rounded-3xl bg-gradient-to-br from-indigo-950 via-slate-900 to-amber-950 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-slate-800 flex flex-col justify-between">
+          <div
+            data-reveal="fade-right"
+            className="group rounded-3xl bg-gradient-to-br from-indigo-950 via-purple-950 to-slate-950 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-purple-500/30 flex flex-col justify-between transition-transform duration-500 hover:-translate-y-1.5"
+          >
             <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/20 rounded-full blur-3xl pointer-events-none group-hover:scale-125 transition-transform duration-700" />
 
             <div className="relative z-10">
@@ -248,7 +254,10 @@ export function HeroSection() {
         </div>
 
         {/* Trust Stats Bar */}
-        <div className="mt-6 sm:mt-8 grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 p-5 sm:p-8 rounded-3xl bg-white border border-slate-200 shadow-sm">
+        <div
+          data-reveal="zoom-in"
+          className="mt-6 sm:mt-8 grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 p-5 sm:p-8 rounded-3xl wm-glass-panel"
+        >
           <div className="flex items-center gap-3.5 sm:gap-4">
             <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-brand-50 text-brand-600 flex items-center justify-center shrink-0">
               <Layers className="w-6 h-6 sm:w-7 sm:h-7" />

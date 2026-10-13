@@ -3,6 +3,8 @@ import React from 'react';
 import { CartRoot } from '@/components/layout/CartRoot';
 import './globals.css';
 import { FloatingWidgets } from '@/components/layout/FloatingWidgets';
+import AmbientBackground from '@/components/layout/AmbientBackground';
+import { GlobalScrollObserver } from '@/components/motion/ScrollReveal';
 
 export const metadata: Metadata = {
   title: 'THEME STORE | Thế Giới Theme & Plugin WordPress Bản Quyền Giá Rẻ #1 Việt Nam',
@@ -33,13 +35,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="vi" className="scroll-smooth">
+    <html lang="vi" data-site-theme="aurora" className="scroll-smooth">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
-      <body className="min-h-screen bg-[#f8fafc] text-slate-900 antialiased selection:bg-brand-500/20 selection:text-brand-900 font-sans">
-        {children}
+      <body className="min-h-screen text-slate-900 antialiased selection:bg-indigo-600/20 selection:text-indigo-900 font-sans relative overflow-x-hidden">
+        <AmbientBackground />
+        <GlobalScrollObserver />
+        <div className="relative z-10 flex flex-col min-h-screen">
+          {children}
+        </div>
         <CartRoot />
         <FloatingWidgets />
       </body>

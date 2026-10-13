@@ -41,7 +41,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
   const relatedThemes = THEMES_DATA.filter((t) => t.id !== theme.id).slice(0, 4);
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#f8fafc] font-sans">
+    <div className="min-h-screen flex flex-col bg-transparent relative z-10 font-sans">
       <Header />
 
       <main className="flex-1 w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 py-8">

@@ -1,167 +1,599 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --font-heading: 'Plus Jakarta Sans', sans-serif;
-  --font-body: 'Plus Jakarta Sans', 'Inter', sans-serif;
+/* ============================================================================
+   1. DESIGN TOKENS & MULTI-THEME ATMOSPHERE SYSTEM
+   Supports:
+   - data-site-theme="aurora"   (Default: Luminous Indigo-Violet-Cyan Studio)
+   - data-site-theme="midnight" (Dark Cyber Glass: Obsidian + Neon Indigo/Cyan)
+   - data-site-theme="emerald"  (Emerald Royal: Mint-Teal-Gold Botanical Luxe)
+   ============================================================================ */
+:root,
+html[data-site-theme='aurora'] {
+  --foreground-rgb: 15, 23, 42;
+  --background-start-rgb: 246, 248, 255;
+  --background-end-rgb: 255, 255, 255;
+
+  --wm-bg-primary: #f6f8ff;
+  --wm-bg-secondary: #eef2ff;
+  --wm-surface: rgba(255, 255, 255, 0.82);
+  --wm-surface-elevated: rgba(255, 255, 255, 0.94);
+  --wm-border: rgba(99, 102, 241, 0.14);
+  --wm-border-strong: rgba(79, 70, 229, 0.28);
+
+  --wm-primary: #4f46e5;
+  --wm-primary-glow: rgba(79, 70, 229, 0.32);
+  --wm-accent: #7c3aed;
+  --wm-cyan: #06b6d4;
+
+  --wm-orb-1: rgba(99, 102, 241, 0.24);
+  --wm-orb-2: rgba(168, 85, 247, 0.20);
+  --wm-orb-3: rgba(6, 182, 212, 0.18);
+  --wm-orb-4: rgba(236, 72, 153, 0.14);
+  --wm-spotlight-color: rgba(99, 102, 241, 0.11);
+
+  --wm-grid-color: rgba(79, 70, 229, 0.065);
+  --wm-dot-color: rgba(99, 102, 241, 0.16);
+  --wm-beam-color: rgba(99, 102, 241, 0.55);
+
+  /* Fluid Container Padding & Spacing */
+  --container-px: clamp(1rem, 3vw, 2.5rem);
+  --section-py: clamp(2.5rem, 6vw, 5.5rem);
 }
 
+html[data-site-theme='emerald'] {
+  --foreground-rgb: 6, 38, 29;
+  --background-start-rgb: 242, 253, 249;
+  --background-end-rgb: 255, 255, 255;
+
+  --wm-bg-primary: #f2fdf9;
+  --wm-bg-secondary: #e6faef;
+  --wm-surface: rgba(255, 255, 255, 0.84);
+  --wm-surface-elevated: rgba(255, 255, 255, 0.95);
+  --wm-border: rgba(16, 185, 129, 0.16);
+  --wm-border-strong: rgba(5, 150, 105, 0.3);
+
+  --wm-primary: #059669;
+  --wm-primary-glow: rgba(16, 185, 129, 0.32);
+  --wm-accent: #0d9488;
+  --wm-cyan: #eab308;
+
+  --wm-orb-1: rgba(16, 185, 129, 0.24);
+  --wm-orb-2: rgba(20, 184, 166, 0.20);
+  --wm-orb-3: rgba(234, 179, 8, 0.15);
+  --wm-orb-4: rgba(59, 130, 246, 0.14);
+  --wm-spotlight-color: rgba(16, 185, 129, 0.12);
+
+  --wm-grid-color: rgba(5, 150, 105, 0.065);
+  --wm-dot-color: rgba(16, 185, 129, 0.18);
+  --wm-beam-color: rgba(16, 185, 129, 0.55);
+}
+
+html[data-site-theme='midnight'] {
+  --foreground-rgb: 241, 245, 249;
+  --background-start-rgb: 7, 11, 25;
+  --background-end-rgb: 15, 23, 42;
+
+  --wm-bg-primary: #070b19;
+  --wm-bg-secondary: #0f172a;
+  --wm-surface: rgba(15, 23, 42, 0.78);
+  --wm-surface-elevated: rgba(30, 41, 59, 0.88);
+  --wm-border: rgba(99, 102, 241, 0.24);
+  --wm-border-strong: rgba(56, 189, 248, 0.42);
+
+  --wm-primary: #6366f1;
+  --wm-primary-glow: rgba(99, 102, 241, 0.45);
+  --wm-accent: #a855f7;
+  --wm-cyan: #22d3ee;
+
+  --wm-orb-1: rgba(79, 70, 229, 0.34);
+  --wm-orb-2: rgba(168, 85, 247, 0.28);
+  --wm-orb-3: rgba(6, 182, 212, 0.24);
+  --wm-orb-4: rgba(236, 72, 153, 0.18);
+  --wm-spotlight-color: rgba(56, 189, 248, 0.14);
+
+  --wm-grid-color: rgba(148, 163, 184, 0.08);
+  --wm-dot-color: rgba(99, 102, 241, 0.25);
+  --wm-beam-color: rgba(56, 189, 248, 0.7);
+  color-scheme: dark;
+}
+
+/* ============================================================================
+   2. BASE DOCUMENT & ADAPTIVE THEME OVERRIDES
+   ============================================================================ */
 html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
   scroll-behavior: smooth;
-  overflow-x: hidden;
+}
+
+/* Native View Transitions API support when supported by the browser */
+@view-transition {
+  navigation: auto;
+}
+
+::view-transition-old(root) {
+  animation: wmViewFadeOut 220ms cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+
+::view-transition-new(root) {
+  animation: wmViewFadeIn 340ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes wmViewFadeOut {
+  from {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-8px) scale(0.992);
+  }
+}
+
+@keyframes wmViewFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.992);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
 }
 
 body {
-  font-family: var(--font-body);
-  color: #0f172a;
-  background-color: #f8fafc;
+  color: rgb(var(--foreground-rgb));
+  background-color: var(--wm-bg-primary);
+  overflow-x: hidden;
+  min-height: 100dvh;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-x: hidden;
-  min-width: 320px;
+  transition: background-color 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+    color 0.35s ease;
 }
 
-/* Hide scrollbar for horizontal scrollable nav/tabs on mobile & tablet */
-.no-scrollbar::-webkit-scrollbar {
-  display: none;
-}
-.no-scrollbar {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
+/* Midnight Cyber Dark Mode automatic surface adaptation */
+html[data-site-theme='midnight'] body {
+  color: #f1f5f9;
 }
 
-/* Modern Minimalist Scrollbar */
-::-webkit-scrollbar {
-  width: 7px;
-  height: 7px;
+html[data-site-theme='midnight'] header,
+html[data-site-theme='midnight'] .wm-surface-card,
+html[data-site-theme='midnight'] .bg-white,
+html[data-site-theme='midnight'] .bg-white\/95,
+html[data-site-theme='midnight'] .bg-white\/90,
+html[data-site-theme='midnight'] .bg-white\/85,
+html[data-site-theme='midnight'] .bg-white\/80 {
+  background-color: rgba(15, 23, 42, 0.82) !important;
+  border-color: rgba(99, 102, 241, 0.22) !important;
+  color: #f1f5f9;
 }
 
-::-webkit-scrollbar-track {
-  background: #f1f5f9;
+html[data-site-theme='midnight'] .bg-slate-50,
+html[data-site-theme='midnight'] .bg-slate-50\/80,
+html[data-site-theme='midnight'] .bg-slate-100,
+html[data-site-theme='midnight'] .bg-\[\#f8fafc\] {
+  background-color: rgba(30, 41, 59, 0.55) !important;
+  border-color: rgba(148, 163, 184, 0.16) !important;
 }
 
-::-webkit-scrollbar-thumb {
-  background: #cbd5e1;
+html[data-site-theme='midnight'] .text-slate-900,
+html[data-site-theme='midnight'] .text-slate-800 {
+  color: #f8fafc !important;
+}
+
+html[data-site-theme='midnight'] .text-slate-700,
+html[data-site-theme='midnight'] .text-slate-600 {
+  color: #cbd5e1 !important;
+}
+
+html[data-site-theme='midnight'] .text-slate-500 {
+  color: #94a3b8 !important;
+}
+
+html[data-site-theme='midnight'] .border-slate-200,
+html[data-site-theme='midnight'] .border-slate-200\/80,
+html[data-site-theme='midnight'] .border-slate-100 {
+  border-color: rgba(99, 102, 241, 0.2) !important;
+}
+
+/* Emerald Royal subtle accent tinting */
+html[data-site-theme='emerald'] .bg-indigo-600 {
+  background-color: #059669 !important;
+}
+html[data-site-theme='emerald'] .hover\:bg-indigo-700:hover {
+  background-color: #047857 !important;
+}
+html[data-site-theme='emerald'] .text-indigo-600 {
+  color: #059669 !important;
+}
+html[data-site-theme='emerald'] .border-indigo-500 {
+  border-color: #10b981 !important;
+}
+
+/* ============================================================================
+   3. MULTI-LAYER AMBIENT BACKGROUND ARCHITECTURE
+   ============================================================================ */
+.wm-bg-base,
+.ambient-base-layer {
+  background:
+    radial-gradient(120% 90% at 15% 5%, var(--wm-orb-1) 0%, transparent 55%),
+    radial-gradient(100% 80% at 88% 12%, var(--wm-orb-2) 0%, transparent 52%),
+    radial-gradient(95% 85% at 50% 92%, var(--wm-orb-3) 0%, transparent 58%),
+    linear-gradient(180deg, var(--wm-bg-primary) 0%, var(--wm-bg-secondary) 52%, var(--wm-bg-primary) 100%);
+  transition: background 0.6s ease;
+}
+
+/* Architectural Grid Mesh with Radial Vignette Mask */
+.wm-grid-mesh,
+.ambient-grid-mesh {
+  background-image:
+    linear-gradient(to right, var(--wm-grid-color) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--wm-grid-color) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(ellipse 85% 75% at 50% 35%, #000 35%, transparent 100%);
+  -webkit-mask-image: radial-gradient(ellipse 85% 75% at 50% 35%, #000 35%, transparent 100%);
+}
+
+/* Subtle Dot Matrix Overlay */
+.wm-dot-matrix {
+  background-image: radial-gradient(var(--wm-dot-color) 1px, transparent 1px);
+  background-size: 28px 28px;
+  mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 0.55) 10%, transparent 80%);
+  -webkit-mask-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 0.55) 10%, transparent 80%);
+}
+
+/* Floating Aurora Mesh Orbs */
+.wm-orb {
+  position: absolute;
   border-radius: 9999px;
+  filter: blur(80px);
+  will-change: transform;
+  pointer-events: none;
+  transition: background 0.6s ease;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: #6366f1;
+.wm-orb-primary,
+.ambient-orb-primary {
+  background: radial-gradient(circle, var(--wm-orb-1) 0%, transparent 72%);
+  animation: wmOrbFloatA 22s ease-in-out infinite alternate;
 }
 
-/* Glassmorphism Classes */
-.glass-panel {
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255, 255, 255, 0.7);
+.wm-orb-secondary,
+.ambient-orb-secondary {
+  background: radial-gradient(circle, var(--wm-orb-2) 0%, transparent 72%);
+  animation: wmOrbFloatB 26s ease-in-out infinite alternate;
 }
 
-.glass-card {
-  background: rgba(255, 255, 255, 0.9);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(226, 232, 240, 0.8);
+.wm-orb-tertiary,
+.ambient-orb-tertiary {
+  background: radial-gradient(circle, var(--wm-orb-3) 0%, transparent 72%);
+  animation: wmOrbFloatA 28s ease-in-out infinite alternate-reverse;
 }
 
-.glass-card-dark {
-  background: rgba(15, 23, 42, 0.85);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+.wm-orb-accent,
+.ambient-orb-accent {
+  background: radial-gradient(circle, var(--wm-orb-4) 0%, transparent 72%);
+  animation: wmOrbFloatB 20s ease-in-out infinite alternate-reverse;
 }
 
-/* Modern SaaS Grid Background */
-.bg-grid-pattern {
-  background-size: 36px 36px;
-  background-image: 
-    linear-gradient(to right, rgba(99, 102, 241, 0.05) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(99, 102, 241, 0.05) 1px, transparent 1px);
-}
-
-.bg-dot-pattern {
-  background-image: radial-gradient(rgba(99, 102, 241, 0.15) 1px, transparent 1px);
-  background-size: 20px 20px;
-}
-
-/* Gradient Text Utilities */
-.text-gradient-brand {
-  background: linear-gradient(135deg, #4f46e5 0%, #06b6d4 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.text-gradient-purple {
-  background: linear-gradient(135deg, #6366f1 0%, #ec4899 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-/* Smooth zoom on card */
-.hover-zoom-img {
-  transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-}
-.group:hover .hover-zoom-img {
-  transform: scale(1.06);
-}
-
-/* Hide scrollbar for clean horizontal scrolling */
-.no-scrollbar::-webkit-scrollbar {
-  display: none;
-}
-.no-scrollbar {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
-/* Floating Widgets Animations */
-@keyframes gift-wiggle {
-  0%, 70%, 100% {
-    transform: rotate(0deg) scale(1);
+@keyframes wmOrbFloatA {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
   }
-  75% {
-    transform: rotate(-10deg) scale(1.08);
+  50% {
+    transform: translate3d(38px, 24px, 0) scale(1.08);
   }
-  80% {
-    transform: rotate(10deg) scale(1.08);
-  }
-  85% {
-    transform: rotate(-6deg) scale(1.04);
-  }
-  90% {
-    transform: rotate(6deg) scale(1.04);
-  }
-  95% {
-    transform: rotate(0deg) scale(1.02);
+  100% {
+    transform: translate3d(-24px, 42px, 0) scale(0.95);
   }
 }
 
-.animate-gift {
-  animation: gift-wiggle 3s ease-in-out infinite;
+@keyframes wmOrbFloatB {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(-42px, 30px, 0) scale(1.06);
+  }
+  100% {
+    transform: translate3d(28px, -32px, 0) scale(0.94);
+  }
 }
 
-@keyframes hotline-ring {
-  0%, 75%, 100% {
-    transform: rotate(0deg);
+/* Sweeping Architectural Light Beams */
+.wm-beam-h,
+.ambient-beam-horizontal {
+  position: absolute;
+  top: 224px;
+  left: -20%;
+  width: 35%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--wm-beam-color), transparent);
+  box-shadow: 0 0 12px var(--wm-beam-color);
+  opacity: 0.55;
+  animation: wmBeamSweepH 14s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+.wm-beam-h-2 {
+  top: 616px;
+  animation: wmBeamSweepH 19s cubic-bezier(0.4, 0, 0.2, 1) 4s infinite;
+}
+
+.wm-beam-v,
+.ambient-beam-vertical {
+  position: absolute;
+  top: -25%;
+  left: 24%;
+  width: 1px;
+  height: 35%;
+  background: linear-gradient(180deg, transparent, var(--wm-beam-color), transparent);
+  box-shadow: 0 0 12px var(--wm-beam-color);
+  opacity: 0.45;
+  animation: wmBeamSweepV 16s cubic-bezier(0.4, 0, 0.2, 1) 2s infinite;
+}
+
+.wm-beam-v-2 {
+  right: 22%;
+  animation: wmBeamSweepV 21s cubic-bezier(0.4, 0, 0.2, 1) 7s infinite;
+}
+
+@keyframes wmBeamSweepH {
+  0% {
+    transform: translateX(0);
+    opacity: 0;
   }
-  80% {
-    transform: rotate(-18deg) scale(1.1);
+  15% {
+    opacity: 0.75;
   }
   85% {
-    transform: rotate(18deg) scale(1.1);
+    opacity: 0.75;
   }
-  90% {
-    transform: rotate(-12deg) scale(1.05);
-  }
-  95% {
-    transform: rotate(12deg) scale(1.05);
+  100% {
+    transform: translateX(420%);
+    opacity: 0;
   }
 }
 
-.animate-hotline-ring {
-  animation: hotline-ring 2.8s ease-in-out infinite;
+@keyframes wmBeamSweepV {
+  0% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.65;
+  }
+  85% {
+    opacity: 0.65;
+  }
+  100% {
+    transform: translateY(420%);
+    opacity: 0;
+  }
 }
 
+/* Interactive Cursor Spotlight */
+.wm-cursor-spotlight,
+.ambient-cursor-spotlight {
+  background: radial-gradient(
+    650px circle at var(--spotlight-x, var(--wm-cursor-x, 50vw)) var(--spotlight-y, var(--wm-cursor-y, 30vh)),
+    var(--wm-spotlight-color),
+    transparent 65%
+  );
+  will-change: background;
+}
+
+/* Subtle Film Noise Texture */
+.wm-noise-overlay,
+.ambient-noise-overlay {
+  opacity: 0.025;
+  background-image: radial-gradient(rgba(15, 23, 42, 0.75) 0.65px, transparent 0.65px);
+  background-size: 4px 4px;
+}
+
+/* Top Scroll Progress Indicator Bar */
+.wm-scroll-progress-bar {
+  background: linear-gradient(90deg, var(--wm-primary) 0%, var(--wm-accent) 50%, var(--wm-cyan) 100%);
+  box-shadow: 0 0 14px var(--wm-primary-glow);
+  transition: transform 80ms linear;
+}
+
+/* ============================================================================
+   4. PAGE TRANSITION EFFECTS (Route Navigation Morph & Laser Bar)
+   ============================================================================ */
+.wm-page-transition {
+  position: relative;
+  will-change: opacity, transform, filter;
+}
+
+.wm-page-entering {
+  opacity: 0;
+  transform: translate3d(0, 14px, 0) scale(0.994);
+  filter: blur(4px);
+}
+
+.wm-page-entered {
+  opacity: 1;
+  transform: translate3d(0, 0, 0) scale(1);
+  filter: blur(0px);
+  transition:
+    opacity 460ms cubic-bezier(0.22, 1, 0.36, 1),
+    transform 520ms cubic-bezier(0.22, 1, 0.36, 1),
+    filter 420ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.wm-route-laser {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2.5px;
+  z-index: 120;
+  pointer-events: none;
+  background: linear-gradient(90deg, transparent, var(--wm-primary), var(--wm-accent), var(--wm-cyan), transparent);
+  box-shadow: 0 0 16px var(--wm-primary);
+  transform-origin: left center;
+}
+
+.wm-route-laser-active {
+  opacity: 1;
+  transform: scaleX(0.65);
+  transition: transform 260ms cubic-bezier(0.22, 1, 0.36, 1), opacity 150ms ease;
+}
+
+.wm-route-laser-done {
+  opacity: 0;
+  transform: scaleX(1);
+  transition: transform 320ms cubic-bezier(0.22, 1, 0.36, 1), opacity 380ms ease 140ms;
+}
+
+/* ============================================================================
+   5. SCROLL-DOWN REVEAL ANIMATIONS (IntersectionObserver Driven)
+   ============================================================================ */
+.wm-scroll-reveal,
+[data-reveal] {
+  will-change: opacity, transform, filter;
+  transition-property: opacity, transform, filter;
+  transition-duration: 720ms;
+  transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.wm-reveal-hidden.wm-reveal-fade-up,
+[data-reveal='fade-up']:not(.wm-reveal-visible) {
+  opacity: 0;
+  transform: translate3d(0, 36px, 0) scale(0.985);
+  filter: blur(3px);
+}
+
+.wm-reveal-hidden.wm-reveal-fade-down,
+[data-reveal='fade-down']:not(.wm-reveal-visible) {
+  opacity: 0;
+  transform: translate3d(0, -28px, 0) scale(0.985);
+  filter: blur(3px);
+}
+
+.wm-reveal-hidden.wm-reveal-fade-left,
+[data-reveal='fade-left']:not(.wm-reveal-visible) {
+  opacity: 0;
+  transform: translate3d(-38px, 0, 0) scale(0.985);
+  filter: blur(3px);
+}
+
+.wm-reveal-hidden.wm-reveal-fade-right,
+[data-reveal='fade-right']:not(.wm-reveal-visible) {
+  opacity: 0;
+  transform: translate3d(38px, 0, 0) scale(0.985);
+  filter: blur(3px);
+}
+
+.wm-reveal-hidden.wm-reveal-zoom-in,
+[data-reveal='zoom-in']:not(.wm-reveal-visible) {
+  opacity: 0;
+  transform: translate3d(0, 20px, 0) scale(0.92);
+  filter: blur(4px);
+}
+
+.wm-reveal-hidden.wm-reveal-tilt-up,
+[data-reveal='tilt-up']:not(.wm-reveal-visible) {
+  opacity: 0;
+  transform: perspective(900px) rotateX(8deg) translate3d(0, 38px, 0) scale(0.97);
+  filter: blur(3px);
+}
+
+.wm-reveal-visible,
+[data-reveal].wm-reveal-visible {
+  opacity: 1 !important;
+  transform: perspective(900px) rotateX(0deg) translate3d(0, 0, 0) scale(1) !important;
+  filter: blur(0px) !important;
+}
+
+/* ============================================================================
+   6. GLASSMORPHIC THEME SURFACES & HOVER MICRO-INTERACTIONS
+   ============================================================================ */
+.wm-glass-panel {
+  background: var(--wm-surface);
+  backdrop-filter: blur(18px) saturate(160%);
+  -webkit-backdrop-filter: blur(18px) saturate(160%);
+  border: 1px solid var(--wm-border);
+  box-shadow:
+    0 10px 30px -10px rgba(15, 23, 42, 0.06),
+    inset 0 1px 0 0 rgba(255, 255, 255, 0.65);
+}
+
+.wm-surface-card {
+  background: var(--wm-surface-elevated);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--wm-border);
+  transition:
+    transform 380ms cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 380ms cubic-bezier(0.22, 1, 0.36, 1),
+    border-color 300ms ease;
+}
+
+.wm-surface-card:hover {
+  transform: translate3d(0, -6px, 0);
+  border-color: var(--wm-border-strong);
+  box-shadow:
+    0 22px 44px -14px var(--wm-primary-glow),
+    0 8px 20px -8px rgba(15, 23, 42, 0.08);
+}
+
+/* Accessibility: Reduce motion when requested by OS */
+@media (prefers-reduced-motion: reduce) {
+  .wm-orb,
+  .wm-beam-h,
+  .wm-beam-v {
+    animation: none !important;
+  }
+  .wm-scroll-reveal,
+  [data-reveal],
+  .wm-page-entering,
+  .wm-page-entered {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+    transition: none !important;
+  }
+}
+
+/* Custom Responsive Utilities for Multi-Screen Support */
+@layer utilities {
+  .container-fluid {
+    width: 100%;
+    max-width: 90rem; /* 1440px */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--container-px);
+    padding-right: var(--container-px);
+  }
+
+  .pb-safe {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  .pt-safe {
+    padding-top: max(0.5rem, env(safe-area-inset-top));
+  }
+
+  /* Hide scrollbar for horizontal pill/tab strips on mobile & tablet */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+/* Prevent iOS zoom on input focus when font-size < 16px on small screens */
+@media screen and (max-width: 640px) {
+  input,
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}

@@ -56,7 +56,10 @@ export function ThemeCard({ theme, currency = 'VND' }: ThemeCardProps) {
   };
 
   return (
-    <div className="group bg-white rounded-3xl border border-slate-200 overflow-hidden shadow-xs hover:shadow-2xl hover:border-brand-400 hover:-translate-y-2 transition-all duration-300 flex flex-col justify-between relative">
+    <div
+      data-reveal="fade-up"
+      className="group wm-surface-card rounded-3xl overflow-hidden flex flex-col justify-between relative"
+    >
       {/* Thumbnail area with Badges & Glass Overlay */}
       <div className="relative aspect-16/10 overflow-hidden bg-slate-100">
         <img
