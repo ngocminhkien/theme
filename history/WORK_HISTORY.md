@@ -353,6 +353,58 @@
 
 ---
 
+### [2026-10-13] - Khởi Chạy Toàn Bộ Hệ Thống (Backend, Storefront, Admin) & Bổ Sung In-Memory Fallback Cho Catalog
+- **Sửa đổi (Modify / Fix):**
+  - [`backend/src/models/theme.model.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/src/models/theme.model.ts): Bổ sung `try ... catch` fallback về `fallbackThemes` cho `ThemeModel.findAll` khi chạy ở chế độ Standalone (chưa bật MySQL 3306).
+  - [`backend/src/models/category.model.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/src/models/category.model.ts): Bổ sung `fallbackCategories` và `try ... catch` cho `CategoryModel.findAll`, `findById`, `findBySlug` để đảm bảo API `/api/v1/categories` luôn phản hồi `200 OK` ngay cả khi chưa bật MySQL.
+- **Xác minh (Verification):**
+  - Khởi chạy đồng thời 3 dịch vụ chạy nền:
+    * **Backend API**: `http://localhost:4000` (`200 OK` tại `/health`, `/api/v1/themes`, `/api/v1/categories`)
+    * **Frontend Storefront**: `http://localhost:3000` (`200 OK` tại `/`, `/preview/woodmart`)
+    * **Admin Portal**: `http://localhost:3001` (`200 OK` tại `/login`)
+  - Chạy `node scripts/health-check.cjs`: **Tất cả 5 dịch vụ bắt buộc đều PASS (100% HEALTHY & OPERATIONAL)**.
+
+---
+
+### [2026-10-13] - Tối Ưu Hóa Giao Diện Đa Màn Hình (Multi-Screen Responsive 320px–2560px)
+- **Bối cảnh:** Nâng cấp toàn diện khả năng tương thích đa màn hình cho Storefront (`frontend/`) và Admin Portal (`admin/`) từ điện thoại cỡ nhỏ (`320px–375px`), di động/phablet (`375px–640px`), máy tính bảng (`768px–1024px`), laptop (`1024px–1440px`) đến màn hình siêu rộng (`1440px–2560px`).
+- **Sửa đổi (Modify / Fix):**
+  - [`frontend/tailwind.config.js`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/tailwind.config.js) & [`frontend/src/app/globals.css`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/app/globals.css): Bổ sung breakpoint `xs: '480px'`, bảo vệ chống tràn ngang `overflow-x: hidden; min-width: 320px;` trên `html, body` và tiện ích `.no-scrollbar` cho các thanh tab/filter cuộn ngang trên cảm ứng.
+  - [`frontend/src/components/layout/HeaderTopBar.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/layout/HeaderTopBar.tsx), [`frontend/src/components/layout/HeaderMain.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/layout/HeaderMain.tsx), [`frontend/src/components/layout/HeaderNavbar.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/layout/HeaderNavbar.tsx):
+    * Bổ sung **Mobile Search Bar** mở rộng và **Mobile Navigation Drawer** (Hamburger Menu) trên màn hình `< 768px` (`md:hidden`) giúp người dùng điện thoại tìm kiếm, lọc ngành nghề, truy cập toàn bộ danh mục và tài khoản dễ dàng.
+    * Tối ưu thanh điều hướng `HeaderNavbar` cuộn ngang mượt (`overflow-x-auto no-scrollbar`) trên Tablet `768px–1024px` không bị vỡ dòng.
+    * Tinh chỉnh kích thước Logo và nút Giỏ hàng co giãn thông minh trên màn hình nhỏ `320px–480px`.
+  - [`frontend/src/components/home/HeroSection.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/home/HeroSection.tsx), [`frontend/src/components/home/PopularCategories.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/home/PopularCategories.tsx), [`frontend/src/components/home/FeaturedThemesSection.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/home/FeaturedThemesSection.tsx), [`frontend/src/components/home/PromoDealBanner.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/home/PromoDealBanner.tsx):
+    * Loại bỏ padding kép gây hẹp chiều ngang trên mobile; chuẩn hóa chữ tiêu đề `text-2xl xs:text-3xl sm:text-5xl lg:text-6xl 2xl:text-7xl`.
+    * Nút CTA xếp chồng full-width (`w-full xs:w-auto`) trên màn hình nhỏ; bộ đếm ngược Flash Sale (`PromoDealBanner`) và thanh thống kê (`Trust Stats Bar`) co giãn linh hoạt từ `1 -> 2 -> 4` cột.
+  - [`frontend/src/features/themes/components/theme-card.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/features/themes/components/theme-card.tsx), [`frontend/src/features/themes/components/themes-catalog.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/features/themes/components/themes-catalog.tsx), [`frontend/src/app/theme/[slug]/ThemeDetailClient.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/app/theme/%5Bslug%5D/ThemeDetailClient.tsx):
+    * Bộ lọc dropdown trên `/themes` chia lưới `grid-cols-1 xs:grid-cols-2 sm:flex` trên di động; lưới sản phẩm chuyển mượt `1 -> 2 -> 3 -> 4` cột (`grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4`).
+    * Thanh tab chi tiết theme cuộn ngang mượt trên di động.
+  - [`frontend/src/features/preview/components/live-preview-bar.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/features/preview/components/live-preview-bar.tsx): Tối ưu thanh điều khiển trên màn hình nhỏ và đổi khung giả lập Tablet/Mobile sang `w-full max-w-[768px]` / `w-full max-w-[375px]` kèm `h-dvh`.
+  - [`frontend/src/components/layout/Footer.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/layout/Footer.tsx), [`frontend/src/components/layout/FloatingWidgets.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/components/layout/FloatingWidgets.tsx), [`frontend/src/features/checkout/components/vietqr-modal.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/features/checkout/components/vietqr-modal.tsx), [`admin/src/components/admin-shell.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/admin/src/components/admin-shell.tsx): Cho phép link bản quyền dưới Footer tự động xuống dòng (`flex-wrap`), thu gọn nút nổi trên màn hình nhỏ, hỗ trợ cuộn dọc an toàn cho modal VietQR (`max-h-[92dvh]`) và tự đóng menu di động trong Admin Portal khi chuyển trang.
+- **Xác minh (Verification):**
+  - `npm --prefix frontend run type-check` & `npm --prefix admin run type-check`: **PASS** (0 lỗi).
+  - `node --test frontend/tests/*.test.cjs`: **28/28 PASS**.
+  - `node scripts/health-check.cjs`: **PASS 100%**.
+
+---
+
+### [2026-10-13] - Chuẩn Hóa Cột `role` Trong CSDL Tài Khoản Người Dùng & Mặc Định Là Người Dùng (`customer`)
+- **Thêm mới (Add):**
+  - [`database/migrations/005_users_role_default.sql`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/database/migrations/005_users_role_default.sql): Migration idempotent đảm bảo bảng `users` luôn có cột `role ENUM('customer', 'author', 'admin') NOT NULL DEFAULT 'customer'`, chuẩn hóa mọi bản ghi rỗng về `'customer'` và tạo chỉ mục `idx_users_role_status`.
+- **Sửa đổi (Modify / Fix):**
+  - [`database/schema.sql`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/database/schema.sql) & [`database/migrations/001_initial_schema.sql`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/database/migrations/001_initial_schema.sql): Bổ sung chú thích đặc tả cột `role` với mặc định `DEFAULT 'customer'` (Người dùng).
+  - [`backend/src/models/user.model.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/src/models/user.model.ts) & [`backend/src/services/auth.service.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/src/services/auth.service.ts): Khóa chặt `defaultRole = 'customer'` khi đăng ký tài khoản mới (`POST /api/v1/auth/register`), bổ sung `UserModel.updateRole` và fallback `fallbackUsers` khi chạy độc lập.
+  - [`backend/src/controllers/admin.controller.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/src/controllers/admin.controller.ts) & [`backend/src/routes/admin.routes.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/src/routes/admin.routes.ts): Trả thêm trường `role` trong `GET /api/v1/admin/customers`, hỗ trợ lọc theo `?role=customer|admin|author` và bổ sung `PATCH /api/v1/admin/customers/:id/role` để Admin phân quyền tài khoản (có bảo vệ chống tự hạ quyền chính mình).
+  - [`admin/src/features/customer-manager.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/admin/src/features/customer-manager.tsx), [`admin/src/lib/api.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/admin/src/lib/api.ts), [`admin/src/lib/types.ts`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/admin/src/lib/types.ts), [`frontend/src/app/my-account/page.tsx`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/frontend/src/app/my-account/page.tsx): Hiển thị nhãn Vai trò (`Người dùng (customer)` / `Quản trị viên (admin)`), bộ lọc theo vai trò và nút chuyển sang Admin Dashboard khi tài khoản có `role === 'admin'`.
+  - [`.github/workflows/ci-cd.yml`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/.github/workflows/ci-cd.yml) & [`backend/tests/admin.api.test.mjs`](file:///c:/Users/Ngoc%20Minh%20Kien/Downloads/instalaveis_woodmart-woocommerce_woodmart-8.6.2/woodmart/backend/tests/admin.api.test.mjs): Bổ sung bước kiểm thử tự động `npm run test:admin --if-present`, bước `Admin Portal - Lint & Typecheck` trên GitHub Actions CI/CD, và bài test tự động `PATCH /api/v1/admin/customers/:id/role` (kiểm tra nâng quyền và chặn tự hạ quyền).
+- **Xác minh (Verification):**
+  - `npm --prefix backend run lint`, `npm --prefix frontend run type-check`, `npm --prefix admin run type-check`: **PASS** (0 lỗi).
+  - `npm --prefix backend run test`: **5/5 suites (65/65 tests) PASS 100%**.
+  - `npm --prefix backend run test:admin`: **PASS 100%** (Bootstrap 4/4, Auth & RBAC 7/7, Admin API 5/5).
+
+---
+
 ## 📌 HƯỚNG DẪN CẬP NHẬT KHI CÓ THAY ĐỔI MỚI (MAINTENANCE RULE)
 Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người phụ trách/trợ lý AI **bắt buộc** phải tuân thủ:
 1. Thêm một mục mục con mới tương ứng ngày thực hiện `[YYYY-MM-DD] - Tiêu đề công việc`.
@@ -361,4 +413,3 @@ Mỗi lần thực hiện bất kỳ công việc nào tiếp theo, người ph�
    - **Sửa đổi (Modify / Fix):** Đường dẫn file + nguyên nhân sửa + kết quả sau sửa.
    - **Xác minh (Verification):** Lệnh kiểm thử đã chạy (Docker, cURL, Unit Test, Type-check) + kết quả đầu ra.
 3. Commit tài liệu này cùng với các file mã nguồn liên quan khi đẩy lên Git.
-

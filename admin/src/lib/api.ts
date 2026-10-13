@@ -43,7 +43,8 @@ export const adminApi = {
   updateTheme: (id: number, input: Partial<ThemeInput>) => request<{ id: number }>(`/themes/${id}`, { method: 'PUT', body: JSON.stringify(input) }),
   orders: (params: { page?: number; search?: string; status?: string; date_from?: string; date_to?: string }) => request<{ orders: Order[]; pagination: Pagination }>(`/orders${query(params)}`),
   order: (number: string) => request<OrderDetail>(`/orders/${encodeURIComponent(number)}`),
-  customers: (params: { page?: number; search?: string }) => request<{ customers: Customer[]; pagination: Pagination }>(`/customers${query(params)}`),
+  customers: (params: { page?: number; search?: string; role?: string }) => request<{ customers: Customer[]; pagination: Pagination }>(`/customers${query(params)}`),
   customer: (id: number) => request<{ customer: Customer; orders: Order[]; licenses: License[] }>(`/customers/${id}`),
+  updateCustomerRole: (id: number, role: Customer['role']) => request<{ user: Customer }>(`/customers/${id}/role`, { method: 'PATCH', body: JSON.stringify({ role }) }),
   licenses: (params: { page?: number; search?: string; status?: string }) => request<{ licenses: License[]; pagination: Pagination }>(`/licenses${query(params)}`),
 };

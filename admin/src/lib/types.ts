@@ -83,6 +83,7 @@ export type Customer = {
   email: string;
   full_name: string;
   phone?: string | null;
+  role: 'customer' | 'author' | 'admin';
   status: 'active' | 'inactive' | 'banned';
   country_code?: string | null;
   created_at: string;

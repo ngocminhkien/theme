@@ -25,18 +25,18 @@ export function HeaderTopBar() {
 
   return (
     <div className="bg-slate-950 text-slate-300 border-b border-slate-800/80 text-sm relative z-50 w-full">
-      <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 h-11 flex items-center justify-between gap-4">
+      <div className="w-full max-w-[1720px] mx-auto px-3 sm:px-6 lg:px-8 xl:px-12 h-10 sm:h-11 flex items-center justify-between gap-2 sm:gap-4">
         {/* Left: Animated Ticker Announcement */}
-        <div className="flex items-center gap-3 overflow-hidden flex-1 max-w-3xl">
-          <span className="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full bg-gradient-to-r from-rose-500 to-amber-500 text-white text-xs font-black uppercase tracking-wider shrink-0 shadow-xs animate-pulse">
-            <Flame className="w-3.5 h-3.5" />
-            <span>HOT DEAL</span>
+        <div className="flex items-center gap-2 sm:gap-3 overflow-hidden flex-1 min-w-0 max-w-3xl">
+          <span className="inline-flex items-center gap-1 px-2 sm:px-3 py-0.5 rounded-full bg-gradient-to-r from-rose-500 to-amber-500 text-white text-[10px] sm:text-xs font-black uppercase tracking-wider shrink-0 shadow-xs animate-pulse">
+            <Flame className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
+            <span className="hidden xs:inline">HOT DEAL</span>
           </span>
 
-          <div className="relative h-6 flex-1 overflow-hidden">
+          <div className="relative h-6 flex-1 min-w-0 overflow-hidden">
             <div
               key={currentTickerIndex}
-              className="absolute inset-0 flex items-center text-slate-200 text-xs sm:text-sm font-medium truncate transition-all duration-500 animate-in fade-in slide-in-from-bottom-2"
+              className="absolute inset-0 flex items-center text-slate-200 text-[11px] sm:text-sm font-medium truncate transition-all duration-500 animate-in fade-in slide-in-from-bottom-2"
             >
               <span className="truncate">{TICKER_ANNOUNCEMENTS[currentTickerIndex]}</span>
             </div>
@@ -44,7 +44,7 @@ export function HeaderTopBar() {
         </div>
 
         {/* Right Controls: Hotline, Currency Switcher, Auth & Support */}
-        <div className="flex items-center gap-4 shrink-0 text-xs sm:text-sm">
+        <div className="flex items-center gap-2 sm:gap-4 shrink-0 text-xs sm:text-sm">
           {/* Hotline / Zalo Support */}
           <a
             href="tel:0988666888"
@@ -61,7 +61,7 @@ export function HeaderTopBar() {
           <div className="flex items-center bg-slate-900 rounded-full p-0.5 border border-slate-800">
             <button
               onClick={() => setCurrency('VND')}
-              className={`px-3 py-1 rounded-full font-bold transition text-xs cursor-pointer ${
+              className={`px-2 sm:px-3 py-0.5 sm:py-1 rounded-full font-bold transition text-[11px] sm:text-xs cursor-pointer ${
                 currency === 'VND'
                   ? 'bg-brand-600 text-white shadow-xs'
                   : 'text-slate-400 hover:text-white'
@@ -72,7 +72,7 @@ export function HeaderTopBar() {
             </button>
             <button
               onClick={() => setCurrency('USD')}
-              className={`px-3 py-1 rounded-full font-bold transition text-xs cursor-pointer ${
+              className={`px-2 sm:px-3 py-0.5 sm:py-1 rounded-full font-bold transition text-[11px] sm:text-xs cursor-pointer ${
                 currency === 'USD'
                   ? 'bg-brand-600 text-white shadow-xs'
                   : 'text-slate-400 hover:text-white'

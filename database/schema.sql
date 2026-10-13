@@ -24,7 +24,7 @@ CREATE TABLE `users` (
     `password_hash` VARCHAR(255) NOT NULL,
     `full_name` VARCHAR(150) NOT NULL,
     `phone` VARCHAR(20) DEFAULT NULL,
-    `role` ENUM('customer', 'author', 'admin') NOT NULL DEFAULT 'customer',
+    `role` ENUM('customer', 'author', 'admin') NOT NULL DEFAULT 'customer' COMMENT 'Vai trò: customer (Người dùng - Mặc định), author (Tác giả), admin (Quản trị viên)',
     `status` ENUM('active', 'inactive', 'banned') NOT NULL DEFAULT 'active',
     `avatar_url` VARCHAR(255) DEFAULT NULL,
     `country_code` VARCHAR(5) DEFAULT 'VN',

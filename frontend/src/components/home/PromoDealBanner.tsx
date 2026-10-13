@@ -26,22 +26,22 @@ export function PromoDealBanner() {
   }, []);
 
   return (
-    <section className="py-10 px-2 sm:px-4 w-full">
-      <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12">
-        <div className="rounded-3xl bg-gradient-to-r from-slate-950 via-brand-950 to-slate-900 text-white p-8 sm:p-12 xl:p-16 relative overflow-hidden shadow-2xl border border-slate-800">
+    <section className="py-8 sm:py-10 w-full">
+      <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12">
+        <div className="rounded-3xl bg-gradient-to-r from-slate-950 via-brand-950 to-slate-900 text-white p-5 sm:p-10 lg:p-12 xl:p-16 relative overflow-hidden shadow-2xl border border-slate-800">
           {/* Glow Effects */}
           <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-rose-500/15 rounded-full blur-3xl pointer-events-none" />
           <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-amber-500/15 rounded-full blur-3xl pointer-events-none" />
 
-          <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-10 xl:gap-14 items-center">
+          <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 xl:gap-14 items-center">
             {/* Left Text & Countdown */}
             <div className="lg:col-span-7">
-              <div className="inline-flex items-center gap-2 px-4.5 py-2 rounded-full bg-rose-500/20 text-rose-300 border border-rose-500/30 text-xs sm:text-sm font-black uppercase tracking-wider mb-4">
-                <Flame className="w-4.5 h-4.5 text-rose-400 animate-pulse" />
+              <div className="inline-flex items-center gap-2 px-3.5 sm:px-4.5 py-1.5 sm:py-2 rounded-full bg-rose-500/20 text-rose-300 border border-rose-500/30 text-xs sm:text-sm font-black uppercase tracking-wider mb-4">
+                <Flame className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-rose-400 animate-pulse shrink-0" />
                 <span>SIÊU SALE HÔM NAY • GIẢM ĐẾN 50%</span>
               </div>
 
-              <h2 className="text-2xl sm:text-3xl xl:text-5xl font-black tracking-tight leading-tight mb-4">
+              <h2 className="text-xl xs:text-2xl sm:text-3xl xl:text-5xl font-black tracking-tight leading-tight mb-4">
                 Trọn Bộ Theme WordPress Bản Quyền & Bộ Plugin Siêu Tốc Độ
               </h2>
 
@@ -50,46 +50,46 @@ export function PromoDealBanner() {
               </p>
 
               {/* Countdown Glass Boxes */}
-              <div className="flex items-center gap-2.5 sm:gap-4 mb-6">
-                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-4 sm:px-5 py-3.5 text-center min-w-16 sm:min-w-20 border border-white/10 shadow-lg">
-                  <span className="block text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
+              <div className="flex items-center gap-1.5 xs:gap-2.5 sm:gap-4 mb-6">
+                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-white/10 shadow-lg flex-1 xs:flex-initial">
+                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
                     {String(timeLeft.days).padStart(2, '0')}
                   </span>
-                  <span className="text-xs uppercase font-bold text-slate-300">Ngày</span>
+                  <span className="text-[10px] sm:text-xs uppercase font-bold text-slate-300">Ngày</span>
                 </div>
-                <span className="text-2xl font-bold text-slate-400">:</span>
-                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-4 sm:px-5 py-3.5 text-center min-w-16 sm:min-w-20 border border-white/10 shadow-lg">
-                  <span className="block text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
+                <span className="text-lg sm:text-2xl font-bold text-slate-400">:</span>
+                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-white/10 shadow-lg flex-1 xs:flex-initial">
+                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
                     {String(timeLeft.hours).padStart(2, '0')}
                   </span>
-                  <span className="text-xs uppercase font-bold text-slate-300">Giờ</span>
+                  <span className="text-[10px] sm:text-xs uppercase font-bold text-slate-300">Giờ</span>
                 </div>
-                <span className="text-2xl font-bold text-slate-400">:</span>
-                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-4 sm:px-5 py-3.5 text-center min-w-16 sm:min-w-20 border border-white/10 shadow-lg">
-                  <span className="block text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
+                <span className="text-lg sm:text-2xl font-bold text-slate-400">:</span>
+                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-white/10 shadow-lg flex-1 xs:flex-initial">
+                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
                     {String(timeLeft.minutes).padStart(2, '0')}
                   </span>
-                  <span className="text-xs uppercase font-bold text-slate-300">Phút</span>
+                  <span className="text-[10px] sm:text-xs uppercase font-bold text-slate-300">Phút</span>
                 </div>
-                <span className="text-2xl font-bold text-slate-400">:</span>
-                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-4 sm:px-5 py-3.5 text-center min-w-16 sm:min-w-20 border border-white/10 shadow-lg">
-                  <span className="block text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
+                <span className="text-lg sm:text-2xl font-bold text-slate-400">:</span>
+                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-white/10 shadow-lg flex-1 xs:flex-initial">
+                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
                     {String(timeLeft.seconds).padStart(2, '0')}
                   </span>
-                  <span className="text-xs uppercase font-bold text-slate-300">Giây</span>
+                  <span className="text-[10px] sm:text-xs uppercase font-bold text-slate-300">Giây</span>
                 </div>
               </div>
 
               {/* Flash Sale Progress Bar */}
-              <div className="mb-8 max-w-lg">
-                <div className="flex items-center justify-between text-sm sm:text-base font-bold text-slate-300 mb-2">
+              <div className="mb-6 sm:mb-8 max-w-lg">
+                <div className="flex flex-wrap items-center justify-between gap-2 text-xs sm:text-base font-bold text-slate-300 mb-2">
                   <span className="flex items-center gap-1.5 text-rose-400">
-                    <Flame className="w-4.5 h-4.5 fill-rose-400" />
+                    <Flame className="w-4 h-4 sm:w-4.5 sm:h-4.5 fill-rose-400 shrink-0" />
                     <span>Đã bán: 86 / 100 suất ưu đãi</span>
                   </span>
                   <span className="text-amber-400 font-extrabold">Chỉ còn 14 suất</span>
                 </div>
-                <div className="w-full h-3.5 rounded-full bg-slate-800 overflow-hidden border border-slate-700/80 p-0.5">
+                <div className="w-full h-3 sm:h-3.5 rounded-full bg-slate-800 overflow-hidden border border-slate-700/80 p-0.5">
                   <div
                     className="h-full rounded-full bg-gradient-to-r from-amber-500 via-rose-500 to-rose-600 transition-all duration-500 shadow-sm"
                     style={{ width: '86%' }}
@@ -98,29 +98,29 @@ export function PromoDealBanner() {
               </div>
 
               {/* CTAs */}
-              <div className="flex flex-wrap items-center gap-4">
+              <div className="flex flex-col xs:flex-row flex-wrap items-stretch xs:items-center gap-3 sm:gap-4">
                 <Link
                   href="/themes?deals=weekly"
-                  className="px-9 py-4.5 rounded-xl bg-gradient-to-r from-amber-500 to-amber-400 hover:from-amber-400 hover:to-amber-500 text-slate-950 text-sm font-black uppercase tracking-wider shadow-glow transition hover:scale-105 flex items-center gap-2"
+                  className="w-full xs:w-auto justify-center px-6 sm:px-9 py-3.5 sm:py-4.5 rounded-xl bg-gradient-to-r from-amber-500 to-amber-400 hover:from-amber-400 hover:to-amber-500 text-slate-950 text-xs sm:text-sm font-black uppercase tracking-wider shadow-glow transition sm:hover:scale-105 flex items-center gap-2"
                 >
                   <span>Săn Deal Ngay - Giảm 50%</span>
-                  <ArrowRight className="w-4.5 h-4.5" />
+                  <ArrowRight className="w-4 h-4 sm:w-4.5 sm:h-4.5" />
                 </Link>
 
                 <a
                   href="https://zalo.me/0988666888"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-8 py-4.5 rounded-xl bg-white/10 hover:bg-white/20 text-white text-sm font-bold uppercase tracking-wider border border-white/15 transition backdrop-blur-md flex items-center gap-2"
+                  className="w-full xs:w-auto justify-center px-6 sm:px-8 py-3.5 sm:py-4.5 rounded-xl bg-white/10 hover:bg-white/20 text-white text-xs sm:text-sm font-bold uppercase tracking-wider border border-white/15 transition backdrop-blur-md flex items-center gap-2"
                 >
-                  <Phone className="w-4.5 h-4.5 text-emerald-400" />
+                  <Phone className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-emerald-400" />
                   <span>Nhận Tư Vấn Zalo</span>
                 </a>
               </div>
             </div>
 
             {/* Right Highlights & Value Propositions */}
-            <div className="lg:col-span-5 bg-white/5 backdrop-blur-xl rounded-3xl border border-white/10 p-6 sm:p-10 space-y-4">
+            <div className="lg:col-span-5 bg-white/5 backdrop-blur-xl rounded-3xl border border-white/10 p-5 sm:p-10 space-y-4">
               <h4 className="font-black text-lg sm:text-xl text-white tracking-tight flex items-center gap-2.5">
                 <Gift className="w-5.5 h-5.5 text-amber-400" />
                 <span>Quà Tặng Kèm Trị Giá 2.500.000₫</span>

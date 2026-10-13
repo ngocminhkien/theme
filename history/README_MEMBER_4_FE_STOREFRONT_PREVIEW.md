@@ -354,3 +354,19 @@
    - Hai nút `"Xem Demo"` (nền trắng) và `"Mua Ngay"` (nền vàng cam) hiển thị với chữ được căn giữa cân đối, padding trái phải đều đặn, không bị dính sát viền hay đè lên icon.
 4. Kiểm tra hàng tags `"Từ khóa hot:"` dưới ô tìm kiếm Hero Banner:
    - Các khung tag bầu dục có khoảng thở trên/dưới/trái/phải đều tăm tắp và chữ hiển thị thanh thoát.
+
+---
+
+## 11. 📱 TỐI ƯU HÓA ĐA MÀN HÌNH (MULTI-SCREEN RESPONSIVE 320PX – 2560PX) [2026-10-13]
+
+### 11.1. Các Hạng Mục Đã Nâng Cấp
+1. **Hệ Thống Breakpoint & Chống Tràn Ngang (`tailwind.config.js`, `globals.css`):**
+   - Bổ sung breakpoint `xs: '480px'` hỗ trợ tinh chỉnh chi tiết từ điện thoại nhỏ (`320px–375px`) đến phablet (`480px–640px`).
+   - Thiết lập `overflow-x: hidden; min-width: 320px;` trên `html, body` và tiện ích `.no-scrollbar` cho các dải pill/tab cuộn ngang.
+2. **Header, Tìm Kiếm Di Động & Menu Drawer (`HeaderTopBar.tsx`, `HeaderMain.tsx`, `HeaderNavbar.tsx`):**
+   - Tích hợp nút bật/tắt **Thanh Tìm Kiếm Di Động** và **Menu Điều Hướng Di Động (Mobile Drawer)** trên màn hình `< 768px` (`md:hidden`), hiển thị đầy đủ danh mục ngành nghề, liên kết nhanh, cổng khách hàng VIP và Hotline.
+   - Tối ưu thanh `HeaderNavbar` cuộn ngang mượt trên Tablet (`768px–1024px`).
+3. **Trang Chủ, Kho Theme, Chi Tiết Theme & Live Preview (`HeroSection.tsx`, `PopularCategories.tsx`, `FeaturedThemesSection.tsx`, `PromoDealBanner.tsx`, `themes-catalog.tsx`, `ThemeDetailClient.tsx`, `live-preview-bar.tsx`):**
+   - Căn chỉnh lưới sản phẩm đa cấp `grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4`.
+   - Khung giả lập thiết bị trong `LivePreviewBar` tự động thích ứng (`w-full max-w-[768px]` và `w-full max-w-[375px]`, `h-dvh`) không gây tràn ngang trên màn hình nhỏ.
+   - Đồng hồ đếm ngược `PromoDealBanner`, thẻ thống kê `HeroSection`, bộ lọc `ThemesCatalog`, liên kết `Footer` và cụm `FloatingWidgets` đều tự động co giãn chuẩn xác trên mọi thiết bị.

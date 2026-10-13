@@ -31,23 +31,23 @@ export function HeroSection() {
   };
 
   return (
-    <section className="relative pt-6 pb-12 px-2 sm:px-4 overflow-hidden w-full">
+    <section className="relative pt-4 sm:pt-6 pb-8 sm:pb-12 overflow-hidden w-full">
       {/* Background Decorative Grid & Glows */}
       <div className="absolute inset-0 bg-grid-pattern opacity-60 pointer-events-none" />
       <div className="absolute -top-24 left-1/2 -translate-x-1/2 w-[1000px] h-[500px] bg-gradient-to-tr from-brand-500/20 via-amber-500/15 to-transparent rounded-full blur-3xl pointer-events-none" />
 
-      <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 relative z-10">
+      <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12 relative z-10">
         {/* Main Hero Container */}
-        <div className="text-center max-w-5xl mx-auto pt-4 pb-10">
+        <div className="text-center max-w-5xl mx-auto pt-2 sm:pt-4 pb-6 sm:pb-10">
           {/* Badge: Slogan #1 VN */}
-          <div className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full bg-gradient-to-r from-brand-50 via-amber-50 to-brand-50 border border-brand-200 text-slate-800 text-sm font-black mb-6 shadow-xs cursor-default">
-            <span className="flex h-2.5 w-2.5 rounded-full bg-rose-500 animate-ping" />
-            <Sparkles className="w-4 h-4 text-amber-500" />
-            <span>THẾ GIỚI THEME & PLUGIN WORDPRESS BẢN QUYỀN GIÁ RẺ #1 VIỆT NAM</span>
+          <div className="inline-flex items-center gap-1.5 sm:gap-2 px-3.5 sm:px-6 py-2 sm:py-2.5 rounded-full bg-gradient-to-r from-brand-50 via-amber-50 to-brand-50 border border-brand-200 text-slate-800 text-[11px] sm:text-sm font-black mb-5 sm:mb-6 shadow-xs cursor-default max-w-full">
+            <span className="flex h-2 w-2 sm:h-2.5 sm:w-2.5 rounded-full bg-rose-500 animate-ping shrink-0" />
+            <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-500 shrink-0" />
+            <span className="truncate sm:whitespace-normal">THẾ GIỚI THEME & PLUGIN WORDPRESS BẢN QUYỀN GIÁ RẺ #1 VIỆT NAM</span>
           </div>
 
           {/* Main Headline */}
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl 2xl:text-7xl font-black text-slate-900 tracking-tight leading-[1.12] mb-6">
+          <h1 className="text-2xl xs:text-3xl sm:text-5xl lg:text-6xl 2xl:text-7xl font-black text-slate-900 tracking-tight leading-[1.15] sm:leading-[1.12] mb-4 sm:mb-6">
             Kho Giao Diện Website & Plugin WordPress{' '}
             <span className="bg-gradient-to-r from-brand-600 via-indigo-600 to-amber-500 bg-clip-text text-transparent">
               Bản Quyền Giá Rẻ Chuẩn SEO
@@ -55,22 +55,22 @@ export function HeroSection() {
           </h1>
 
           {/* Subtitle */}
-          <p className="text-base sm:text-lg md:text-xl 2xl:text-2xl text-slate-600 max-w-4xl mx-auto leading-relaxed mb-8 font-normal">
+          <p className="text-sm sm:text-lg md:text-xl 2xl:text-2xl text-slate-600 max-w-4xl mx-auto leading-relaxed mb-6 sm:mb-8 font-normal">
             Hơn <strong>500+ Theme WordPress, WooCommerce & Landing Page</strong> chuẩn SEO, tối ưu Google PageSpeed 99+, sạch 100% không mã độc, cập nhật trọn đời và kích hoạt bản quyền tự động 24/7 sau 30 giây qua VietQR.
           </p>
 
           {/* Centered Large Search Bar (Fluid max-w-3xl) */}
           <form
             onSubmit={handleHeroSearch}
-            className="max-w-3xl mx-auto bg-white p-2 sm:p-2.5 rounded-2xl sm:rounded-full border-2 border-slate-200 shadow-2xl flex flex-col sm:flex-row items-center gap-2 mb-6 focus-within:ring-4 focus-within:ring-brand-500/15 focus-within:border-brand-500 transition-all duration-300"
+            className="max-w-3xl mx-auto bg-white p-2 sm:p-2.5 rounded-2xl sm:rounded-full border-2 border-slate-200 shadow-2xl flex flex-col sm:flex-row items-center gap-2 mb-5 sm:mb-6 focus-within:ring-4 focus-within:ring-brand-500/15 focus-within:border-brand-500 transition-all duration-300"
           >
             {/* Quick Category Selector */}
-            <div className="w-full sm:w-auto sm:border-r border-slate-200 sm:pr-4 pl-4 py-1.5">
+            <div className="w-full sm:w-auto sm:border-r border-slate-200 border-b sm:border-b-0 pb-2 sm:pb-0 sm:pr-4 px-3 sm:pl-4 py-1.5">
               <select
                 value={selectedCat}
                 onChange={(e) => setSelectedCat(e.target.value)}
                 aria-label="Chọn nhóm ngành giao diện"
-                className="w-full sm:w-auto bg-transparent text-sm font-bold text-slate-700 outline-none cursor-pointer"
+                className="w-full sm:w-auto bg-transparent text-xs sm:text-sm font-bold text-slate-700 outline-none cursor-pointer"
               >
                 <option value="all">Mọi ngành nghề</option>
                 <option value="e-commerce">Bán Hàng & Shop</option>
@@ -82,29 +82,29 @@ export function HeroSection() {
             </div>
 
             {/* Input */}
-            <div className="flex-1 w-full flex items-center px-3 py-1.5">
-              <Search className="w-5 h-5 text-slate-400 mr-2.5 shrink-0" />
+            <div className="flex-1 w-full flex items-center px-3 py-1.5 min-w-0">
+              <Search className="w-4.5 h-4.5 sm:w-5 sm:h-5 text-slate-400 mr-2.5 shrink-0" />
               <input
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
                 placeholder="Tìm theme theo từ khóa, ngành nghề, builder (WoodMart, Flatsome, Bán hàng...)"
-                className="w-full bg-transparent text-sm sm:text-base text-slate-800 placeholder:text-slate-400 outline-none font-semibold"
+                className="w-full bg-transparent text-xs sm:text-base text-slate-800 placeholder:text-slate-400 outline-none font-semibold min-w-0"
               />
             </div>
 
             {/* CTA Button */}
             <button
               type="submit"
-              className="w-full sm:w-auto px-10 py-4 bg-gradient-to-r from-brand-600 via-indigo-600 to-amber-500 hover:from-brand-500 hover:to-amber-600 text-white font-black text-sm uppercase tracking-wider rounded-xl sm:rounded-full shadow-glow flex items-center justify-center gap-2 transition-all duration-200 hover:scale-[1.02] cursor-pointer"
+              className="w-full sm:w-auto px-8 sm:px-10 py-3.5 sm:py-4 bg-gradient-to-r from-brand-600 via-indigo-600 to-amber-500 hover:from-brand-500 hover:to-amber-600 text-white font-black text-xs sm:text-sm uppercase tracking-wider rounded-xl sm:rounded-full shadow-glow flex items-center justify-center gap-2 transition-all duration-200 hover:scale-[1.02] cursor-pointer shrink-0"
             >
               <span>Tìm Kiếm</span>
-              <ArrowRight className="w-4.5 h-4.5" />
+              <ArrowRight className="w-4 h-4 sm:w-4.5 sm:h-4.5" />
             </button>
           </form>
 
           {/* Quick Filter Tags / Chips */}
-          <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-2.5 text-sm font-semibold text-slate-500 mb-10 max-w-4xl mx-auto px-2">
+          <div className="flex flex-wrap items-center justify-center gap-1.5 sm:gap-2.5 text-sm font-semibold text-slate-500 mb-7 sm:mb-10 max-w-4xl mx-auto">
             <span className="text-slate-400 font-bold text-xs sm:text-sm shrink-0 mr-1">
               Từ khóa hot:
             </span>
@@ -125,7 +125,7 @@ export function HeroSection() {
                     ? `/themes?category=${chip.query}`
                     : `/themes?builder=${chip.builder}`
                 }
-                className="inline-flex items-center justify-center px-4 py-2 sm:px-4.5 sm:py-2 rounded-full bg-white hover:bg-brand-50 hover:text-brand-600 hover:border-brand-300 border border-slate-200/90 text-slate-700 shadow-2xs hover:shadow-sm text-xs sm:text-sm font-bold transition-all duration-200 leading-normal whitespace-nowrap"
+                className="inline-flex items-center justify-center px-3 py-1.5 sm:px-4.5 sm:py-2 rounded-full bg-white hover:bg-brand-50 hover:text-brand-600 hover:border-brand-300 border border-slate-200/90 text-slate-700 shadow-2xs hover:shadow-sm text-xs sm:text-sm font-bold transition-all duration-200 leading-normal whitespace-nowrap"
               >
                 {chip.label}
               </Link>
@@ -133,20 +133,20 @@ export function HeroSection() {
           </div>
 
           {/* Action CTAs */}
-          <div className="flex flex-wrap items-center justify-center gap-4">
+          <div className="flex flex-col xs:flex-row flex-wrap items-stretch xs:items-center justify-center gap-3 sm:gap-4">
             <Link
               href="/themes"
-              className="px-9 py-4.5 rounded-2xl bg-slate-900 hover:bg-brand-600 text-white font-black text-sm uppercase tracking-wider shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5 flex items-center gap-2.5"
+              className="w-full xs:w-auto justify-center px-6 sm:px-9 py-3.5 sm:py-4.5 rounded-2xl bg-slate-900 hover:bg-brand-600 text-white font-black text-xs sm:text-sm uppercase tracking-wider shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5 flex items-center gap-2.5"
             >
               <span>Khám Phá 500+ Themes</span>
-              <ArrowRight className="w-4.5 h-4.5" />
+              <ArrowRight className="w-4 h-4 sm:w-4.5 sm:h-4.5" />
             </Link>
 
             <Link
               href="/themes?deals=weekly"
-              className="px-9 py-4.5 rounded-2xl bg-amber-500 hover:bg-amber-600 text-slate-950 font-black text-sm uppercase tracking-wider shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5 flex items-center gap-2.5"
+              className="w-full xs:w-auto justify-center px-6 sm:px-9 py-3.5 sm:py-4.5 rounded-2xl bg-amber-500 hover:bg-amber-600 text-slate-950 font-black text-xs sm:text-sm uppercase tracking-wider shadow-lg hover:shadow-xl transition-all duration-200 hover:-translate-y-0.5 flex items-center gap-2.5"
             >
-              <Sparkles className="w-4.5 h-4.5 text-slate-950" />
+              <Sparkles className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-slate-950" />
               <span>Gói VIP All-Access</span>
             </Link>
 
@@ -154,41 +154,41 @@ export function HeroSection() {
               href="https://zalo.me/0988666888"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-8 py-4.5 rounded-2xl bg-white hover:bg-slate-50 text-slate-800 font-bold text-sm uppercase tracking-wider border border-slate-200 shadow-sm transition-all duration-200 flex items-center gap-2.5"
+              className="w-full xs:w-auto justify-center px-6 sm:px-8 py-3.5 sm:py-4.5 rounded-2xl bg-white hover:bg-slate-50 text-slate-800 font-bold text-xs sm:text-sm uppercase tracking-wider border border-slate-200 shadow-sm transition-all duration-200 flex items-center gap-2.5"
             >
-              <PhoneCall className="w-4.5 h-4.5 text-emerald-600" />
+              <PhoneCall className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-emerald-600" />
               <span>Tư Vấn Zalo 24/7</span>
             </a>
           </div>
         </div>
 
         {/* Feature Cards Grid (Two Highlight Banners Side by Side) */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-4">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 sm:gap-8 mt-2 sm:mt-4">
           {/* Banner 1: Multipurpose & High Performance */}
-          <div className="group rounded-3xl bg-gradient-to-br from-slate-950 via-brand-950 to-slate-900 p-8 sm:p-12 text-white relative overflow-hidden shadow-2xl border border-slate-800 flex flex-col justify-between">
+          <div className="group rounded-3xl bg-gradient-to-br from-slate-950 via-brand-950 to-slate-900 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-slate-800 flex flex-col justify-between">
             <div className="absolute top-0 right-0 w-80 h-80 bg-brand-500/20 rounded-full blur-3xl pointer-events-none group-hover:scale-125 transition-transform duration-700" />
 
             <div className="relative z-10">
-              <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-brand-500/30 border border-brand-400/40 text-brand-300 text-xs sm:text-sm font-black uppercase tracking-wider mb-4">
-                <Zap className="w-4 h-4 text-brand-400" />
+              <div className="inline-flex items-center gap-2 px-3.5 sm:px-4 py-1.5 rounded-full bg-brand-500/30 border border-brand-400/40 text-brand-300 text-xs sm:text-sm font-black uppercase tracking-wider mb-4">
+                <Zap className="w-4 h-4 text-brand-400 shrink-0" />
                 <span>Theme Bán Hàng Siêu Tốc Độ</span>
               </div>
 
-              <h3 className="text-2xl sm:text-3xl xl:text-4xl font-black tracking-tight mb-3">
+              <h3 className="text-xl sm:text-3xl xl:text-4xl font-black tracking-tight mb-3">
                 WooCommerce Chuẩn Core Web Vitals
               </h3>
 
-              <p className="text-slate-300 text-sm sm:text-base xl:text-lg leading-relaxed mb-6 max-w-xl">
+              <p className="text-slate-300 text-sm sm:text-base xl:text-lg leading-relaxed mb-5 sm:mb-6 max-w-xl">
                 Tối ưu Core Web Vitals xanh tuyệt đối, tải trang dưới 0.8 giây, tích hợp sẵn bộ lọc Ajax, cổng thanh toán VietQR quét mã tự động và tương thích Elementor Pro.
               </p>
 
-              <div className="flex flex-wrap items-center gap-6 text-sm font-bold text-slate-300 mb-8">
+              <div className="flex flex-wrap items-center gap-3 sm:gap-6 text-xs sm:text-sm font-bold text-slate-300 mb-6 sm:mb-8">
                 <div className="flex items-center gap-2">
-                  <CheckCircle2 className="w-4.5 h-4.5 text-emerald-400" />
+                  <CheckCircle2 className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-emerald-400 shrink-0" />
                   <span>PageSpeed 99/100 Xanh</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <CheckCircle2 className="w-4.5 h-4.5 text-emerald-400" />
+                  <CheckCircle2 className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-emerald-400 shrink-0" />
                   <span>Kích hoạt tự động VietQR</span>
                 </div>
               </div>
@@ -197,39 +197,39 @@ export function HeroSection() {
             <div className="relative z-10">
               <Link
                 href="/themes?category=e-commerce"
-                className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white hover:bg-amber-400 text-slate-950 text-sm font-black uppercase tracking-wider transition shadow-md hover:scale-105"
+                className="w-full sm:w-auto justify-center inline-flex items-center gap-2 px-6 sm:px-8 py-3.5 sm:py-4 rounded-xl bg-white hover:bg-amber-400 text-slate-950 text-xs sm:text-sm font-black uppercase tracking-wider transition shadow-md sm:hover:scale-105"
               >
                 <span>Xem Theme Bán Hàng Ngay</span>
-                <ArrowRight className="w-4.5 h-4.5" />
+                <ArrowRight className="w-4 h-4 sm:w-4.5 sm:h-4.5" />
               </Link>
             </div>
           </div>
 
           {/* Banner 2: VIP All-Access Pass */}
-          <div className="group rounded-3xl bg-gradient-to-br from-indigo-950 via-slate-900 to-amber-950 p-8 sm:p-12 text-white relative overflow-hidden shadow-2xl border border-slate-800 flex flex-col justify-between">
+          <div className="group rounded-3xl bg-gradient-to-br from-indigo-950 via-slate-900 to-amber-950 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-slate-800 flex flex-col justify-between">
             <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/20 rounded-full blur-3xl pointer-events-none group-hover:scale-125 transition-transform duration-700" />
 
             <div className="relative z-10">
-              <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/20 border border-amber-400/30 text-amber-300 text-xs sm:text-sm font-black uppercase tracking-wider mb-4">
-                <Sparkles className="w-4 h-4 text-amber-400" />
+              <div className="inline-flex items-center gap-2 px-3.5 sm:px-4 py-1.5 rounded-full bg-amber-500/20 border border-amber-400/30 text-amber-300 text-xs sm:text-sm font-black uppercase tracking-wider mb-4">
+                <Sparkles className="w-4 h-4 text-amber-400 shrink-0" />
                 <span>Gói Thành Viên VIP / All-Access Pass</span>
               </div>
 
-              <h3 className="text-2xl sm:text-3xl xl:text-4xl font-black tracking-tight mb-3">
+              <h3 className="text-xl sm:text-3xl xl:text-4xl font-black tracking-tight mb-3">
                 Tải Không Giới Hạn 500+ Theme & Plugin
               </h3>
 
-              <p className="text-slate-300 text-sm sm:text-base xl:text-lg leading-relaxed mb-6 max-w-xl">
+              <p className="text-slate-300 text-sm sm:text-base xl:text-lg leading-relaxed mb-5 sm:mb-6 max-w-xl">
                 Giải pháp trọn gói siêu tiết kiệm cho Agency & Freelancer. Tự do tải toàn bộ theme bản quyền, nhận update tự động trọn đời và hỗ trợ kỹ thuật cài đặt ưu tiên 24/7.
               </p>
 
-              <div className="flex flex-wrap items-center gap-6 text-sm font-bold text-slate-300 mb-8">
+              <div className="flex flex-wrap items-center gap-3 sm:gap-6 text-xs sm:text-sm font-bold text-slate-300 mb-6 sm:mb-8">
                 <div className="flex items-center gap-2">
-                  <CheckCircle2 className="w-4.5 h-4.5 text-amber-400" />
+                  <CheckCircle2 className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-amber-400 shrink-0" />
                   <span>500+ Theme & Plugin Pro</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <CheckCircle2 className="w-4.5 h-4.5 text-amber-400" />
+                  <CheckCircle2 className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-amber-400 shrink-0" />
                   <span>Tiết kiệm 85% ngân sách</span>
                 </div>
               </div>
@@ -238,54 +238,54 @@ export function HeroSection() {
             <div className="relative z-10">
               <Link
                 href="/themes?deals=weekly"
-                className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-gradient-to-r from-amber-500 to-amber-400 text-slate-950 text-sm font-black uppercase tracking-wider transition shadow-glow hover:scale-105"
+                className="w-full sm:w-auto justify-center inline-flex items-center gap-2 px-6 sm:px-8 py-3.5 sm:py-4 rounded-xl bg-gradient-to-r from-amber-500 to-amber-400 text-slate-950 text-xs sm:text-sm font-black uppercase tracking-wider transition shadow-glow sm:hover:scale-105"
               >
                 <span>Đăng Ký Gói VIP Pass</span>
-                <ArrowRight className="w-4.5 h-4.5" />
+                <ArrowRight className="w-4 h-4 sm:w-4.5 sm:h-4.5" />
               </Link>
             </div>
           </div>
         </div>
 
         {/* Trust Stats Bar */}
-        <div className="mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 p-6 sm:p-8 rounded-3xl bg-white border border-slate-200 shadow-sm">
-          <div className="flex items-center gap-4">
-            <div className="w-14 h-14 rounded-2xl bg-brand-50 text-brand-600 flex items-center justify-center shrink-0">
-              <Layers className="w-7 h-7" />
+        <div className="mt-6 sm:mt-8 grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 p-5 sm:p-8 rounded-3xl bg-white border border-slate-200 shadow-sm">
+          <div className="flex items-center gap-3.5 sm:gap-4">
+            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-brand-50 text-brand-600 flex items-center justify-center shrink-0">
+              <Layers className="w-6 h-6 sm:w-7 sm:h-7" />
             </div>
-            <div>
-              <div className="text-2xl sm:text-3xl xl:text-4xl font-black text-slate-900">500+ Themes</div>
-              <div className="text-sm text-slate-500 font-semibold">Bản quyền 100% sạch</div>
-            </div>
-          </div>
-
-          <div className="flex items-center gap-4">
-            <div className="w-14 h-14 rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center shrink-0">
-              <ShieldCheck className="w-7 h-7" />
-            </div>
-            <div>
-              <div className="text-2xl sm:text-3xl xl:text-4xl font-black text-slate-900">15.000+</div>
-              <div className="text-sm text-slate-500 font-semibold">Khách hàng tin cậy</div>
+            <div className="min-w-0">
+              <div className="text-xl sm:text-3xl xl:text-4xl font-black text-slate-900 truncate">500+ Themes</div>
+              <div className="text-xs sm:text-sm text-slate-500 font-semibold">Bản quyền 100% sạch</div>
             </div>
           </div>
 
-          <div className="flex items-center gap-4">
-            <div className="w-14 h-14 rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center shrink-0">
-              <Zap className="w-7 h-7" />
+          <div className="flex items-center gap-3.5 sm:gap-4">
+            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center shrink-0">
+              <ShieldCheck className="w-6 h-6 sm:w-7 sm:h-7" />
             </div>
-            <div>
-              <div className="text-2xl sm:text-3xl xl:text-4xl font-black text-slate-900">99/100</div>
-              <div className="text-sm text-slate-500 font-semibold">PageSpeed xanh mướt</div>
+            <div className="min-w-0">
+              <div className="text-xl sm:text-3xl xl:text-4xl font-black text-slate-900 truncate">15.000+</div>
+              <div className="text-xs sm:text-sm text-slate-500 font-semibold">Khách hàng tin cậy</div>
             </div>
           </div>
 
-          <div className="flex items-center gap-4">
-            <div className="w-14 h-14 rounded-2xl bg-rose-50 text-rose-600 flex items-center justify-center shrink-0">
-              <Star className="w-7 h-7 text-amber-400 fill-amber-400" />
+          <div className="flex items-center gap-3.5 sm:gap-4">
+            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center shrink-0">
+              <Zap className="w-6 h-6 sm:w-7 sm:h-7" />
             </div>
-            <div>
-              <div className="text-2xl sm:text-3xl xl:text-4xl font-black text-slate-900">4.9 / 5.0</div>
-              <div className="text-sm text-slate-500 font-semibold">Đánh giá 5 sao uy tín</div>
+            <div className="min-w-0">
+              <div className="text-xl sm:text-3xl xl:text-4xl font-black text-slate-900 truncate">99/100</div>
+              <div className="text-xs sm:text-sm text-slate-500 font-semibold">PageSpeed xanh mướt</div>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-3.5 sm:gap-4">
+            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-rose-50 text-rose-600 flex items-center justify-center shrink-0">
+              <Star className="w-6 h-6 sm:w-7 sm:h-7 text-amber-400 fill-amber-400" />
+            </div>
+            <div className="min-w-0">
+              <div className="text-xl sm:text-3xl xl:text-4xl font-black text-slate-900 truncate">4.9 / 5.0</div>
+              <div className="text-xs sm:text-sm text-slate-500 font-semibold">Đánh giá 5 sao uy tín</div>
             </div>
           </div>
         </div>

@@ -31,6 +31,7 @@ const badge: Record<string, string> = {
   paid: 'bg-emerald-50 text-emerald-700 ring-emerald-100', completed: 'bg-emerald-50 text-emerald-700 ring-emerald-100', active: 'bg-emerald-50 text-emerald-700 ring-emerald-100', published: 'bg-emerald-50 text-emerald-700 ring-emerald-100',
   pending: 'bg-amber-50 text-amber-700 ring-amber-100', processing: 'bg-amber-50 text-amber-700 ring-amber-100', draft: 'bg-slate-100 text-slate-600 ring-slate-200',
   failed: 'bg-rose-50 text-rose-700 ring-rose-100', cancelled: 'bg-rose-50 text-rose-700 ring-rose-100', revoked: 'bg-rose-50 text-rose-700 ring-rose-100', banned: 'bg-rose-50 text-rose-700 ring-rose-100', archived: 'bg-slate-100 text-slate-600 ring-slate-200', expired: 'bg-slate-100 text-slate-600 ring-slate-200', inactive: 'bg-slate-100 text-slate-600 ring-slate-200', refunded: 'bg-purple-50 text-purple-700 ring-purple-100',
+  admin: 'bg-blue-50 text-blue-700 ring-blue-200', author: 'bg-indigo-50 text-indigo-700 ring-indigo-200', customer: 'bg-slate-100 text-slate-700 ring-slate-200',
 };
 export function StatusBadge({ value }: { value: string }) { return <span className={`inline-flex rounded-full px-2.5 py-1 text-xs font-bold capitalize ring-1 ring-inset ${badge[value] || 'bg-slate-100 text-slate-600 ring-slate-200'}`}>{value}</span>; }
 

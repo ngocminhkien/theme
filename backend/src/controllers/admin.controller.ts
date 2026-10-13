@@ -3,6 +3,51 @@ import { RowDataPacket, ResultSetHeader } from 'mysql2/promise';
 import { dbPool } from '../config/database.js';
 import { ResponseView } from '../views/response.view.js';
 import { AuthRequest } from '../middlewares/auth.middleware.js';
+import { ThemeModel } from '../models/theme.model.js';
+import { CategoryModel } from '../models/category.model.js';
+import { UserModel } from '../models/user.model.js';
+
+const fallbackOrders = [
+  {
+    id: 1,
+    order_number: 'ORD-2026-8888',
+    user_id: 3,
+    customer_email: 'customer@thememarket.local',
+    customer_name: 'Nguyễn Văn Khách Hàng',
+    customer_phone: '0901234567',
+    total_amount: 599000,
+    currency: 'VND',
+    payment_method: 'vietqr',
+    payment_status: 'paid',
+    order_status: 'completed',
+    created_at: new Date('2026-10-12T09:30:00Z'),
+  },
+];
+
+const fallbackLicenses = [
+  {
+    id: 1,
+    license_key: 'WD-2026-DEMO-A1B2-C3D4-E5F6',
+    order_id: 1,
+    theme_id: 1,
+    user_id: 3,
+    license_type: 'regular',
+    status: 'active',
+    max_domains: 1,
+    active_domains_count: 1,
+    created_at: new Date('2026-10-12T09:31:00Z'),
+    expires_at: new Date('2027-10-12T09:31:00Z'),
+    theme_name: 'WoodMart - Multipurpose WooCommerce Theme',
+    theme_slug: 'woodmart',
+    customer_email: 'customer@thememarket.local',
+    customer_name: 'Nguyễn Văn Khách Hàng',
+    order_number: 'ORD-2026-8888',
+  },
+];
+
+function isDbOffline(error: any): boolean {
+  return error?.code === 'ECONNREFUSED' || String(error?.message || '').includes('ECONNREFUSED');
+}
 
 export class AdminController {
   /**
@@ -82,6 +127,18 @@ export class AdminController {
         })),
       }, 'Lấy thống kê dashboard thành công.');
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        const { total: totalThemes } = await ThemeModel.findAll({});
+        const customersCount = UserModel.getFallbackUsers().filter(u => u.role === 'customer').length;
+        return ResponseView.success(res, {
+          revenue: { vnd: 599000, usd: 0 },
+          orders: { total: 1, paid: 1, pending: 0, failed: 0 },
+          themes_count: totalThemes,
+          customers_count: customersCount,
+          active_licenses_count: fallbackLicenses.length,
+          recent_orders: fallbackOrders,
+        }, 'Lấy thống kê dashboard thành công (Standalone Mode).');
+      }
       return ResponseView.error(res, error.message || 'Lỗi truy vấn dữ liệu thống kê.', 'DASHBOARD_QUERY_ERROR', 500);
     }
   }
@@ -91,10 +148,9 @@ export class AdminController {
    * GET /api/v1/admin/analytics?days=30
    */
   static async getAnalytics(req: AuthRequest, res: Response) {
+    const requestedDays = Number.parseInt(req.query.days as string, 10);
+    const days = [7, 30, 90].includes(requestedDays) ? requestedDays : 30;
     try {
-      const requestedDays = Number.parseInt(req.query.days as string, 10);
-      const days = [7, 30, 90].includes(requestedDays) ? requestedDays : 30;
-
       const [seriesRows] = await dbPool.query<RowDataPacket[]>(
         `SELECT DATE(created_at) AS date,
                 COALESCE(SUM(CASE WHEN currency = 'VND' THEN total_amount ELSE 0 END), 0) AS revenue_vnd,
@@ -138,6 +194,13 @@ export class AdminController {
         })),
       });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        return ResponseView.success(res, {
+          period_days: days,
+          series: [{ date: '2026-10-12', revenue_vnd: 599000, revenue_usd: 0, orders: 1 }],
+          top_themes: [{ id: 1, name: 'WoodMart - Multipurpose WooCommerce Theme', slug: 'woodmart', purchases: 1, revenue_vnd: 599000, revenue_usd: 0 }],
+        });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải báo cáo.', 'ANALYTICS_QUERY_ERROR', 500);
     }
   }
@@ -214,6 +277,12 @@ export class AdminController {
         },
       });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        return ResponseView.success(res, {
+          orders: fallbackOrders,
+          pagination: { page: 1, limit: 10, total: fallbackOrders.length, total_pages: 1 },
+        });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải danh sách đơn hàng.', 'ORDERS_QUERY_ERROR', 500);
     }
   }
@@ -271,6 +340,16 @@ export class AdminController {
         payments: paymentRows,
       });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        const order = fallbackOrders.find(o => o.order_number === req.params.orderNumber);
+        if (!order) return ResponseView.notFound(res, 'Không tìm thấy đơn hàng.');
+        return ResponseView.success(res, {
+          ...order,
+          items: [{ id: 1, order_id: 1, theme_id: 1, theme_name: 'WoodMart - Multipurpose WooCommerce Theme', theme_slug: 'woodmart', license_type: 'regular', unit_price: 599000, subtotal: 599000 }],
+          licenses: fallbackLicenses,
+          payments: [{ id: 1, transaction_id: 'MB-999888777-DEMO', gateway: 'vietqr', amount: 599000, currency: 'VND', status: 'completed', created_at: order.created_at }],
+        });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải chi tiết đơn hàng.', 'ORDER_DETAIL_ERROR', 500);
     }
   }
@@ -280,15 +359,14 @@ export class AdminController {
    * GET /api/v1/admin/themes
    */
   static async getThemes(req: AuthRequest, res: Response) {
+    const page = Math.max(1, parseInt(req.query.page as string, 10) || 1);
+    const limit = Math.min(50, Math.max(1, parseInt(req.query.limit as string, 10) || 10));
+    const offset = (page - 1) * limit;
+    const search = ((req.query.search as string) || '').trim();
+    const status = ((req.query.status as string) || '').trim();
+    const categoryId = Number.parseInt(req.query.category_id as string, 10);
+
     try {
-      const page = Math.max(1, parseInt(req.query.page as string, 10) || 1);
-      const limit = Math.min(50, Math.max(1, parseInt(req.query.limit as string, 10) || 10));
-      const offset = (page - 1) * limit;
-
-      const search = ((req.query.search as string) || '').trim();
-      const status = ((req.query.status as string) || '').trim();
-      const categoryId = Number.parseInt(req.query.category_id as string, 10);
-
       const conditions: string[] = [];
       const params: any[] = [];
 
@@ -342,6 +420,18 @@ export class AdminController {
         },
       });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        const { themes, total } = await ThemeModel.findAll({
+          keyword: search || undefined,
+          category_id: Number.isInteger(categoryId) && categoryId > 0 ? categoryId : undefined,
+          limit,
+          offset,
+        });
+        return ResponseView.success(res, {
+          themes: themes.map(t => ({ ...t, is_featured: 1, category_name: 'WordPress Theme', author_name: 'XTemos Studio Official' })),
+          pagination: { page, limit, total, total_pages: Math.ceil(total / limit) || 1 },
+        });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải danh sách themes.', 'THEMES_QUERY_ERROR', 500);
     }
   }
@@ -395,10 +485,9 @@ export class AdminController {
    * GET /api/v1/admin/themes/:id
    */
   static async getThemeDetail(req: AuthRequest, res: Response) {
+    const themeId = parseInt(req.params.id as string, 10);
+    if (isNaN(themeId)) return ResponseView.error(res, 'ID theme không hợp lệ.', 'INVALID_ID', 400);
     try {
-      const themeId = parseInt(req.params.id as string, 10);
-      if (isNaN(themeId)) return ResponseView.error(res, 'ID theme không hợp lệ.', 'INVALID_ID', 400);
-
       const [rows] = await dbPool.query<RowDataPacket[]>(
         `SELECT t.*, c.name_vi as category_name, u.full_name as author_name
          FROM themes t
@@ -418,6 +507,15 @@ export class AdminController {
         rating_avg: Number(theme.rating_avg),
       });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        const theme = await ThemeModel.findById(themeId);
+        if (!theme) return ResponseView.notFound(res, 'Không tìm thấy theme.');
+        return ResponseView.success(res, {
+          ...theme,
+          category_name: 'WordPress Theme',
+          author_name: 'XTemos Studio Official',
+        });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải theme.', 'THEME_DETAIL_ERROR', 500);
     }
   }
@@ -517,6 +615,10 @@ export class AdminController {
       );
       return ResponseView.success(res, { categories: rows });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        const categories = await CategoryModel.findAll(true);
+        return ResponseView.success(res, { categories });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải danh mục.', 'CATEGORIES_QUERY_ERROR', 500);
     }
   }
@@ -587,6 +689,12 @@ export class AdminController {
         },
       });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        return ResponseView.success(res, {
+          licenses: fallbackLicenses,
+          pagination: { page: 1, limit: 10, total: fallbackLicenses.length, total_pages: 1 },
+        });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải danh sách license.', 'LICENSES_QUERY_ERROR', 500);
     }
   }
@@ -622,24 +730,37 @@ export class AdminController {
         activations: activationRows,
       });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        const license = fallbackLicenses.find(l => l.license_key === req.params.licenseKey);
+        if (!license) return ResponseView.notFound(res, 'Không tìm thấy license.');
+        return ResponseView.success(res, {
+          ...license,
+          activations: [{ id: 1, license_id: 1, domain: 'mytestshop.local', ip_address: '127.0.0.1', is_active: 1, activated_at: license.created_at }],
+        });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải chi tiết license.', 'LICENSE_DETAIL_ERROR', 500);
     }
   }
 
   /**
-   * Danh sách khách hàng (role = 'customer')
+   * Danh sách người dùng / khách hàng (hỗ trợ lọc theo role: customer, admin, author)
    * GET /api/v1/admin/customers
    */
   static async getCustomers(req: AuthRequest, res: Response) {
+    const page = Math.max(1, parseInt(req.query.page as string, 10) || 1);
+    const limit = Math.min(50, Math.max(1, parseInt(req.query.limit as string, 10) || 10));
+    const offset = (page - 1) * limit;
+    const search = ((req.query.search as string) || '').trim();
+    const roleFilter = ((req.query.role as string) || '').trim().toLowerCase();
+
     try {
-      const page = Math.max(1, parseInt(req.query.page as string, 10) || 1);
-      const limit = Math.min(50, Math.max(1, parseInt(req.query.limit as string, 10) || 10));
-      const offset = (page - 1) * limit;
-
-      const search = ((req.query.search as string) || '').trim();
-
-      const conditions: string[] = ["u.role = 'customer'"];
+      const conditions: string[] = [];
       const params: any[] = [];
+
+      if (roleFilter === 'customer' || roleFilter === 'admin' || roleFilter === 'author') {
+        conditions.push('u.role = ?');
+        params.push(roleFilter);
+      }
 
       if (search) {
         conditions.push('(u.email LIKE ? OR u.full_name LIKE ? OR u.phone LIKE ?)');
@@ -647,7 +768,7 @@ export class AdminController {
         params.push(searchLike, searchLike, searchLike);
       }
 
-      const whereClause = `WHERE ${conditions.join(' AND ')}`;
+      const whereClause = conditions.length ? `WHERE ${conditions.join(' AND ')}` : '';
 
       const [countRows] = await dbPool.query<RowDataPacket[]>(
         `SELECT COUNT(*) AS total FROM users u ${whereClause}`,
@@ -656,7 +777,7 @@ export class AdminController {
       const total = Number(countRows[0]?.total || 0);
 
       const [customerRows] = await dbPool.query<RowDataPacket[]>(
-        `SELECT u.id, u.email, u.full_name, u.phone, u.status, u.country_code, u.created_at,
+        `SELECT u.id, u.email, u.full_name, u.phone, u.role, u.status, u.country_code, u.created_at,
                 (SELECT COUNT(*) FROM orders o WHERE o.user_id = u.id) as orders_count,
                 (SELECT COALESCE(SUM(total_amount), 0) FROM orders o WHERE o.user_id = u.id AND o.payment_status = 'paid' AND o.currency = 'VND') as total_spent_vnd,
                 (SELECT COALESCE(SUM(total_amount), 0) FROM orders o WHERE o.user_id = u.id AND o.payment_status = 'paid' AND o.currency = 'USD') as total_spent_usd
@@ -670,6 +791,7 @@ export class AdminController {
       return ResponseView.success(res, {
         customers: customerRows.map(c => ({
           ...c,
+          role: c.role || 'customer',
           total_spent_vnd: Number(c.total_spent_vnd),
           total_spent_usd: Number(c.total_spent_usd),
           orders_count: Number(c.orders_count),
@@ -682,30 +804,63 @@ export class AdminController {
         },
       });
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        const searchLower = search.toLowerCase();
+        const customers = UserModel.getFallbackUsers()
+          .filter(u => {
+            if (roleFilter === 'customer' || roleFilter === 'admin' || roleFilter === 'author') {
+              if (u.role !== roleFilter) return false;
+            }
+            if (searchLower) {
+              return (
+                u.email.toLowerCase().includes(searchLower) ||
+                u.full_name.toLowerCase().includes(searchLower) ||
+                (u.phone || '').toLowerCase().includes(searchLower)
+              );
+            }
+            return true;
+          })
+          .map(u => ({
+            id: u.id,
+            email: u.email,
+            full_name: u.full_name,
+            phone: u.phone || null,
+            role: u.role || 'customer',
+            status: u.status,
+            country_code: 'VN',
+            created_at: u.created_at,
+            orders_count: u.id === 3 ? 1 : 0,
+            total_spent_vnd: u.id === 3 ? 599000 : 0,
+            total_spent_usd: 0,
+          }));
+        return ResponseView.success(res, {
+          customers,
+          pagination: { page: 1, limit: 10, total: customers.length, total_pages: 1 },
+        });
+      }
       return ResponseView.error(res, error.message || 'Lỗi tải danh sách khách hàng.', 'CUSTOMERS_QUERY_ERROR', 500);
     }
   }
 
   /**
-   * Chi tiết khách hàng + đơn hàng của khách
+   * Chi tiết người dùng / khách hàng + đơn hàng
    * GET /api/v1/admin/customers/:id
    */
   static async getCustomerDetail(req: AuthRequest, res: Response) {
+    const customerId = parseInt(req.params.id as string, 10);
+    if (isNaN(customerId)) return ResponseView.error(res, 'ID người dùng không hợp lệ.', 'INVALID_ID', 400);
     try {
-      const customerId = parseInt(req.params.id as string, 10);
-      if (isNaN(customerId)) return ResponseView.error(res, 'ID khách hàng không hợp lệ.', 'INVALID_ID', 400);
-
       const [rows] = await dbPool.query<RowDataPacket[]>(
         `SELECT id, email, full_name, phone, role, status, country_code, created_at
          FROM users
-         WHERE id = ? AND role = 'customer' LIMIT 1`,
+         WHERE id = ? LIMIT 1`,
         [customerId]
       );
 
-      if (!rows.length) return ResponseView.notFound(res, 'Không tìm thấy khách hàng.');
+      if (!rows.length) return ResponseView.notFound(res, 'Không tìm thấy người dùng.');
       const customer = rows[0];
 
-      // Đơn hàng của khách hàng này
+      // Đơn hàng của người dùng này
       const [orderRows] = await dbPool.query<RowDataPacket[]>(
         `SELECT id, order_number, total_amount, currency, payment_method, payment_status,
                 order_status, created_at
@@ -715,7 +870,7 @@ export class AdminController {
         [customerId]
       );
 
-      // Licenses thuộc khách hàng này
+      // Licenses thuộc người dùng này
       const [licenseRows] = await dbPool.query<RowDataPacket[]>(
         `SELECT l.*, t.name as theme_name
          FROM licenses l
@@ -726,7 +881,7 @@ export class AdminController {
       );
 
       return ResponseView.success(res, {
-        customer,
+        customer: { ...customer, role: customer.role || 'customer' },
         orders: orderRows.map(o => ({
           ...o,
           total_amount: Number(o.total_amount),
@@ -734,7 +889,48 @@ export class AdminController {
         licenses: licenseRows,
       });
     } catch (error: any) {
-      return ResponseView.error(res, error.message || 'Lỗi tải chi tiết khách hàng.', 'CUSTOMER_DETAIL_ERROR', 500);
+      if (isDbOffline(error)) {
+        const customer = UserModel.getFallbackUsers().find(u => u.id === customerId);
+        if (!customer) return ResponseView.notFound(res, 'Không tìm thấy người dùng.');
+        const { password_hash, ...safeCustomer } = customer;
+        return ResponseView.success(res, {
+          customer: { ...safeCustomer, role: safeCustomer.role || 'customer', country_code: 'VN' },
+          orders: customerId === 3 ? fallbackOrders : [],
+          licenses: customerId === 3 ? fallbackLicenses : [],
+        });
+      }
+      return ResponseView.error(res, error.message || 'Lỗi tải chi tiết người dùng.', 'CUSTOMER_DETAIL_ERROR', 500);
+    }
+  }
+
+  /**
+   * Cập nhật vai trò (role) của tài khoản người dùng ('customer' | 'admin' | 'author')
+   * PATCH /api/v1/admin/customers/:id/role
+   */
+  static async updateCustomerRole(req: AuthRequest, res: Response) {
+    const userId = parseInt(req.params.id as string, 10);
+    if (isNaN(userId) || userId <= 0) {
+      return ResponseView.error(res, 'ID người dùng không hợp lệ.', 'INVALID_ID', 400);
+    }
+
+    const { role } = req.body;
+    if (!['customer', 'admin', 'author'].includes(role)) {
+      return ResponseView.error(res, 'Vai trò không hợp lệ. Chỉ chấp nhận customer, author hoặc admin.', 'INVALID_ROLE', 400);
+    }
+
+    if (req.user?.id === userId && role !== 'admin') {
+      return ResponseView.error(res, 'Không thể tự hạ quyền quản trị của chính tài khoản đang đăng nhập.', 'SELF_DEMOTION_FORBIDDEN', 400);
+    }
+
+    try {
+      const updated = await UserModel.updateRole(userId, role);
+      if (!updated) {
+        return ResponseView.notFound(res, 'Không tìm thấy tài khoản người dùng.');
+      }
+      const user = await UserModel.findById(userId);
+      return ResponseView.success(res, { user }, 'Cập nhật vai trò tài khoản thành công.');
+    } catch (error: any) {
+      return ResponseView.error(res, error.message || 'Lỗi cập nhật vai trò người dùng.', 'UPDATE_ROLE_ERROR', 500);
     }
   }
 

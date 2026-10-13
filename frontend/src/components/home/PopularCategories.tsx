@@ -77,9 +77,9 @@ const CATEGORY_ITEMS = [
 
 export function PopularCategories() {
   return (
-    <section className="py-10 px-2 sm:px-4 w-full">
-      <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12">
-        <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-8">
+    <section className="py-8 sm:py-10 w-full">
+      <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12">
+        <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-6 sm:mb-8">
           <div>
             <div className="flex items-center gap-2 mb-1.5">
               <span className="w-2.5 h-2.5 rounded-full bg-amber-500 animate-pulse" />
@@ -96,15 +96,15 @@ export function PopularCategories() {
           </div>
           <Link
             href="/themes"
-            className="flex items-center gap-2 text-sm font-black text-brand-600 hover:text-brand-700 transition group self-start sm:self-auto bg-brand-50 px-4.5 py-2.5 rounded-xl border border-brand-200"
+            className="flex items-center justify-center sm:justify-start gap-2 text-xs sm:text-sm font-black text-brand-600 hover:text-brand-700 transition group w-full sm:w-auto bg-brand-50 px-4.5 py-2.5 rounded-xl border border-brand-200"
           >
             <span>Xem Tất Cả 500+ Theme</span>
-            <ArrowRight className="w-4.5 h-4.5 group-hover:translate-x-1 transition" />
+            <ArrowRight className="w-4 h-4 sm:w-4.5 sm:h-4.5 group-hover:translate-x-1 transition" />
           </Link>
         </div>
 
         {/* 6 Category Cards Grid: 1 col on mobile, 2 on sm, 3 on lg, 6 on 2xl */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-6 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-6 gap-4 sm:gap-6">
           {CATEGORY_ITEMS.map((cat) => {
             const Icon = cat.icon;
             return (

@@ -116,7 +116,32 @@ function MyAccountContent() {
 
         {loading && <p className="text-center text-sm text-slate-500">Đang tải Customer Portal…</p>}
         {user && !loading && <section>
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-7"><div><h1 className="text-2xl font-black text-slate-900">Customer Portal</h1><p className="text-sm text-slate-500 mt-1">Xin chào {user.full_name}. Quản lý đơn hàng và license của chính bạn.</p></div><button type="button" onClick={logout} className="inline-flex items-center justify-center gap-2 rounded-xl border border-slate-200 bg-white px-4 py-2.5 text-xs font-bold text-slate-700"><LogOut className="w-4 h-4" />Đăng xuất</button></div>
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-7">
+            <div>
+              <div className="flex flex-wrap items-center gap-2.5">
+                <h1 className="text-2xl font-black text-slate-900">Customer Portal</h1>
+                <span className={`inline-flex items-center px-3 py-1 rounded-full text-xs font-bold ${user.role === 'admin' ? 'bg-blue-100 text-blue-700 border border-blue-200' : 'bg-emerald-50 text-emerald-700 border border-emerald-200'}`}>
+                  {user.role === 'admin' ? 'Quản trị viên (Admin)' : user.role === 'author' ? 'Tác giả (Author)' : 'Người dùng (Customer)'}
+                </span>
+              </div>
+              <p className="text-sm text-slate-500 mt-1">
+                Xin chào <strong>{user.full_name}</strong> ({user.email}). Vai trò tài khoản: <code className="bg-slate-100 px-1.5 py-0.5 rounded text-xs font-bold text-slate-700">{user.role || 'customer'}</code>.
+              </p>
+            </div>
+            <div className="flex flex-wrap items-center gap-2.5">
+              {user.role === 'admin' && (
+                <a
+                  href="http://localhost:3001/dashboard"
+                  className="inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 hover:bg-blue-700 px-4 py-2.5 text-xs font-bold text-white transition shadow-xs"
+                >
+                  Vào Trang Quản Trị (Admin)
+                </a>
+              )}
+              <button type="button" onClick={logout} className="inline-flex items-center justify-center gap-2 rounded-xl border border-slate-200 bg-white px-4 py-2.5 text-xs font-bold text-slate-700">
+                <LogOut className="w-4 h-4" />Đăng xuất
+              </button>
+            </div>
+          </div>
           <div className="flex overflow-x-auto gap-2 border-b border-slate-200 mb-6">{([['overview', 'Tổng quan'], ['orders', 'Đơn hàng'], ['themes', 'Theme đã mua'], ['licenses', 'License']] as const).map(([id, label]) => <button key={id} type="button" onClick={() => setTab(id)} className={`shrink-0 px-4 py-3 text-xs font-bold border-b-2 ${tab === id ? 'border-brand-600 text-brand-600' : 'border-transparent text-slate-500'}`}>{label}</button>)}</div>
           {message && <p className="mb-5 rounded-xl bg-amber-50 p-3 text-xs text-amber-800" role="status">{message}</p>}
           {tab === 'overview' && <div className="grid sm:grid-cols-3 gap-4"><Metric label="Tổng đơn" value={String(orders.length)} icon={ReceiptText} /><Metric label="Đã thanh toán" value={String(paidOrders.length)} icon={PackageCheck} /><Metric label="License đang có" value={String(licenses.filter(license => license.status === 'active').length)} icon={KeyRound} /></div>}

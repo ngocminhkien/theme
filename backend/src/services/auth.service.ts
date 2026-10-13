@@ -29,8 +29,12 @@ export class AuthService {
     if (!user) {
       throw new Error('Lỗi tạo tài khoản người dùng.');
     }
-    const token = this.generateToken(user);
-    return { user, token };
+    const normalizedUser: SafeUser = {
+      ...user,
+      role: user.role || 'customer',
+    };
+    const token = this.generateToken(normalizedUser);
+    return { user: normalizedUser, token };
   }
 
   static async login(emailInput: string, passwordInput: string) {
@@ -54,7 +58,7 @@ export class AuthService {
       email: user.email,
       full_name: user.full_name,
       phone: user.phone,
-      role: user.role,
+      role: user.role || 'customer',
       status: user.status,
       created_at: user.created_at,
     };

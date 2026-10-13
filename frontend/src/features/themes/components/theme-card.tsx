@@ -152,28 +152,28 @@ export function ThemeCard({ theme, currency = 'VND' }: ThemeCardProps) {
         </div>
 
         {/* Footer Area: Price & Action Buttons */}
-        <div className="pt-3.5 border-t border-slate-100 flex items-center justify-between">
-          <div className="flex flex-col">
-            <div className="flex items-baseline gap-2">
-              <span className="text-xl sm:text-2xl font-black text-rose-600">
+        <div className="pt-3.5 border-t border-slate-100 flex items-center justify-between gap-2">
+          <div className="flex flex-col min-w-0 flex-1">
+            <div className="flex items-baseline gap-1.5 sm:gap-2 flex-wrap">
+              <span className="text-lg xs:text-xl sm:text-2xl font-black text-rose-600 whitespace-nowrap">
                 {currentPrice}
               </span>
               {originalPrice && (
-                <span className="text-sm text-slate-400 line-through font-medium">
+                <span className="text-xs sm:text-sm text-slate-400 line-through font-medium whitespace-nowrap">
                   {originalPrice}
                 </span>
               )}
             </div>
-            <span className="text-xs text-emerald-600 font-bold flex items-center gap-1 mt-0.5">
-              <ShieldCheck className="w-3.5 h-3.5 text-emerald-500" />
-              Bản quyền trọn đời • Update 1-Click
+            <span className="text-[11px] sm:text-xs text-emerald-600 font-bold flex items-center gap-1 mt-0.5 truncate">
+              <ShieldCheck className="w-3.5 h-3.5 text-emerald-500 shrink-0" />
+              <span className="truncate">Bản quyền trọn đời • Update 1-Click</span>
             </span>
           </div>
 
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
             <Link
               href={`/preview/${theme.slug}`}
-              className="p-3 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 transition"
+              className="p-2.5 sm:p-3 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1"
               title="Xem trước Live Demo"
             >
               <Eye className="w-4.5 h-4.5" />
@@ -181,7 +181,7 @@ export function ThemeCard({ theme, currency = 'VND' }: ThemeCardProps) {
 
             <button
               onClick={handleAddToCart}
-              className={`p-3 rounded-xl transition duration-200 cursor-pointer ${
+              className={`p-2.5 sm:p-3 rounded-xl transition duration-200 cursor-pointer ${
                 isInCart
                   ? 'bg-emerald-50 text-emerald-600 border border-emerald-200'
                   : 'bg-gradient-to-r from-brand-600 to-indigo-600 hover:from-brand-500 hover:to-indigo-500 text-white shadow-xs'

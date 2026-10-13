@@ -21,10 +21,10 @@ export function FeaturedThemesSection() {
   });
 
   return (
-    <section className="py-10 px-2 sm:px-4 w-full">
-      <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12">
+    <section className="py-8 sm:py-10 w-full">
+      <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12">
         {/* Section Header with Tabs */}
-        <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6 mb-8 pb-6 border-b border-slate-200">
+        <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-5 sm:gap-6 mb-6 sm:mb-8 pb-5 sm:pb-6 border-b border-slate-200">
           <div>
             <div className="flex items-center gap-2 mb-1.5">
               <span className="w-2.5 h-2.5 rounded-full bg-rose-500 animate-ping" />
@@ -42,7 +42,7 @@ export function FeaturedThemesSection() {
           </div>
 
           {/* Theme Category Horizontal Pill Tabs */}
-          <div className="flex flex-wrap items-center gap-2.5">
+          <div className="flex items-center gap-2 sm:gap-2.5 overflow-x-auto no-scrollbar pb-1 sm:pb-0 sm:flex-wrap">
             {[
               { id: 'all', label: `Tất Cả (${THEMES_DATA.length})` },
               { id: 'ecommerce', label: 'Theme Bán Hàng' },
@@ -52,9 +52,9 @@ export function FeaturedThemesSection() {
               <button
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id as TabType)}
-                className={`px-5 py-3 rounded-full text-sm font-bold transition-all duration-200 cursor-pointer ${
+                className={`shrink-0 px-4 sm:px-5 py-2.5 sm:py-3 rounded-full text-xs sm:text-sm font-bold transition-all duration-200 cursor-pointer whitespace-nowrap ${
                   activeTab === tab.id
-                    ? 'bg-gradient-to-r from-brand-600 to-indigo-600 text-white shadow-glow scale-102 font-black'
+                    ? 'bg-gradient-to-r from-brand-600 to-indigo-600 text-white shadow-glow font-black'
                     : 'bg-white text-slate-600 hover:text-slate-900 hover:bg-slate-100 border border-slate-200 shadow-2xs'
                 }`}
               >
@@ -65,20 +65,20 @@ export function FeaturedThemesSection() {
         </div>
 
         {/* 4-Columns Grid filling the wide screen */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 xl:gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 sm:gap-6 xl:gap-8">
           {filteredThemes.map((theme) => (
             <ThemeCard key={theme.id} theme={theme} currency={currency} />
           ))}
         </div>
 
         {/* Bottom CTA Button */}
-        <div className="mt-12 text-center">
+        <div className="mt-8 sm:mt-12 text-center">
           <Link
             href="/themes"
-            className="inline-flex items-center gap-3 px-9 py-4.5 bg-gradient-to-r from-slate-900 via-brand-900 to-slate-900 hover:from-brand-600 hover:to-indigo-600 text-white font-black text-sm uppercase tracking-wider rounded-2xl shadow-xl hover:shadow-glow transition-all duration-300 hover:-translate-y-0.5"
+            className="w-full sm:w-auto justify-center inline-flex items-center gap-2.5 sm:gap-3 px-5 sm:px-9 py-4 sm:py-4.5 bg-gradient-to-r from-slate-900 via-brand-900 to-slate-900 hover:from-brand-600 hover:to-indigo-600 text-white font-black text-xs sm:text-sm uppercase tracking-wider rounded-2xl shadow-xl hover:shadow-glow transition-all duration-300 hover:-translate-y-0.5"
           >
             <span>Khám Phá Toàn Bộ 500+ Themes Bản Quyền Giá Rẻ</span>
-            <ArrowRight className="w-4.5 h-4.5" />
+            <ArrowRight className="w-4 h-4 sm:w-4.5 sm:h-4.5 shrink-0" />
           </Link>
         </div>
       </div>

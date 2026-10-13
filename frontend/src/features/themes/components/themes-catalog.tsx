@@ -142,16 +142,16 @@ export function ThemesCatalog() {
     selectedPrice !== 'all';
 
   return (
-    <div className="py-8 px-2 sm:px-4 w-full">
-      <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12">
+    <div className="py-6 sm:py-8 w-full">
+      <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12">
         {/* Header (No Breadcrumb for Clean & Airy Storefront) */}
-        <div className="mb-8">
+        <div className="mb-6 sm:mb-8">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
             <div>
-              <h1 className="text-3xl sm:text-4xl xl:text-5xl font-black text-slate-900 tracking-tight">
+              <h1 className="text-2xl xs:text-3xl sm:text-4xl xl:text-5xl font-black text-slate-900 tracking-tight">
                 Kho Giao Diện Website & Plugin WordPress Bản Quyền
               </h1>
-              <p className="text-sm sm:text-base text-slate-500 mt-2 font-medium">
+              <p className="text-xs sm:text-base text-slate-500 mt-2 font-medium">
                 Hiển thị <strong>{filteredThemes.length} / {THEMES_DATA.length}</strong> mẫu theme bản quyền sạch 100%, chuẩn SEO, tải siêu tốc và tương thích hoàn hảo Elementor Pro.
               </p>
             </div>
@@ -159,7 +159,7 @@ export function ThemesCatalog() {
         </div>
 
         {/* 1. Horizontal Scrollable Category Pills Bar */}
-        <div className="mb-6">
+        <div className="mb-5 sm:mb-6">
           <div className="flex items-center gap-2 overflow-x-auto pb-2 no-scrollbar">
             {CATEGORIES_LIST.map((cat) => {
               const isActive = selectedCategory === cat.id;
@@ -170,7 +170,7 @@ export function ThemesCatalog() {
                     setSelectedCategory(cat.id);
                     updateQueryParams({ category: cat.id });
                   }}
-                  className={`px-5 py-3 rounded-full text-sm font-bold whitespace-nowrap transition-all duration-200 shrink-0 cursor-pointer flex items-center gap-2.5 ${
+                  className={`px-4 sm:px-5 py-2.5 sm:py-3 rounded-full text-xs sm:text-sm font-bold whitespace-nowrap transition-all duration-200 shrink-0 cursor-pointer flex items-center gap-2 ${
                     isActive
                       ? 'bg-gradient-to-r from-brand-600 to-indigo-600 text-white shadow-glow'
                       : 'bg-white text-slate-600 hover:text-slate-900 hover:bg-slate-100 border border-slate-200 shadow-2xs'
@@ -178,7 +178,7 @@ export function ThemesCatalog() {
                 >
                   <span>{cat.name_vi}</span>
                   <span
-                    className={`text-xs px-2.5 py-0.5 rounded-full font-black ${
+                    className={`text-[11px] sm:text-xs px-2 sm:px-2.5 py-0.5 rounded-full font-black ${
                       isActive ? 'bg-white/20 text-white' : 'bg-slate-100 text-slate-500'
                     }`}
                   >
@@ -191,9 +191,9 @@ export function ThemesCatalog() {
         </div>
 
         {/* 2. Sleek Filter Toolbar (Search + Builder + Price + Sort + View) */}
-        <div className="bg-white rounded-2xl border border-slate-200 p-4 shadow-sm mb-6 flex flex-col lg:flex-row items-stretch lg:items-center justify-between gap-4">
+        <div className="bg-white rounded-2xl border border-slate-200 p-3.5 sm:p-4 shadow-sm mb-6 flex flex-col lg:flex-row items-stretch lg:items-center justify-between gap-3.5 sm:gap-4">
           {/* Search Box */}
-          <div className="relative flex-1 max-w-md">
+          <div className="relative flex-1 lg:max-w-md">
             <Search className="w-4.5 h-4.5 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
             <input
               type="text"
@@ -203,7 +203,7 @@ export function ThemesCatalog() {
                 updateQueryParams({ search: e.target.value });
               }}
               placeholder="Lọc nhanh theo tên theme, builder..."
-              className="w-full bg-slate-50 border border-slate-200 rounded-xl pl-10 pr-8 py-3 text-sm text-slate-800 placeholder:text-slate-400 outline-none focus:bg-white focus:border-brand-500 transition font-semibold"
+              className="w-full bg-slate-50 border border-slate-200 rounded-xl pl-10 pr-8 py-2.5 sm:py-3 text-xs sm:text-sm text-slate-800 placeholder:text-slate-400 outline-none focus:bg-white focus:border-brand-500 transition font-semibold"
             />
             {searchTerm && (
               <button
@@ -219,7 +219,7 @@ export function ThemesCatalog() {
           </div>
 
           {/* Dropdown Filters Group */}
-          <div className="flex flex-wrap items-center gap-3">
+          <div className="grid grid-cols-1 xs:grid-cols-2 sm:flex sm:flex-wrap items-center gap-2.5 sm:gap-3">
             {/* Page Builder Selector */}
             <div className="relative">
               <select
@@ -229,7 +229,7 @@ export function ThemesCatalog() {
                   updateQueryParams({ builder: e.target.value });
                 }}
                 aria-label="Chọn Page Builder"
-                className="appearance-none bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 pr-8 text-sm font-bold text-slate-700 outline-none hover:bg-slate-100 focus:border-brand-500 transition cursor-pointer"
+                className="w-full sm:w-auto appearance-none bg-slate-50 border border-slate-200 rounded-xl px-3.5 sm:px-4 py-2.5 sm:py-3 pr-8 text-xs sm:text-sm font-bold text-slate-700 outline-none hover:bg-slate-100 focus:border-brand-500 transition cursor-pointer"
               >
                 <option value="all">Mọi Page Builder</option>
                 {BUILDERS_LIST.filter(b => b.id !== 'all').map((b) => (
@@ -249,7 +249,7 @@ export function ThemesCatalog() {
                   updateQueryParams({ price: e.target.value });
                 }}
                 aria-label="Chọn khoảng giá"
-                className="appearance-none bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 pr-8 text-sm font-bold text-slate-700 outline-none hover:bg-slate-100 focus:border-brand-500 transition cursor-pointer"
+                className="w-full sm:w-auto appearance-none bg-slate-50 border border-slate-200 rounded-xl px-3.5 sm:px-4 py-2.5 sm:py-3 pr-8 text-xs sm:text-sm font-bold text-slate-700 outline-none hover:bg-slate-100 focus:border-brand-500 transition cursor-pointer"
               >
                 <option value="all">Mọi mức giá</option>
                 {PRICE_RANGES.filter(p => p.id !== 'all').map((p) => (
@@ -269,7 +269,7 @@ export function ThemesCatalog() {
                   updateQueryParams({ sort: e.target.value });
                 }}
                 aria-label="Sắp xếp kết quả"
-                className="appearance-none bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 pr-8 text-sm font-bold text-slate-700 outline-none hover:bg-slate-100 focus:border-brand-500 transition cursor-pointer"
+                className="w-full sm:w-auto appearance-none bg-slate-50 border border-slate-200 rounded-xl px-3.5 sm:px-4 py-2.5 sm:py-3 pr-8 text-xs sm:text-sm font-bold text-slate-700 outline-none hover:bg-slate-100 focus:border-brand-500 transition cursor-pointer"
               >
                 <option value="featured">Nổi bật nhất</option>
                 <option value="rating">Đánh giá cao nhất</option>
@@ -279,49 +279,51 @@ export function ThemesCatalog() {
               </select>
             </div>
 
-            {/* View Mode Toggle (Grid / List) */}
-            <div className="flex items-center bg-slate-100 p-1 rounded-xl border border-slate-200">
-              <button
-                onClick={() => {
-                  setViewMode('grid');
-                  updateQueryParams({ view: 'grid' });
-                }}
-                className={`p-1.5 rounded-lg transition cursor-pointer ${
-                  viewMode === 'grid'
-                    ? 'bg-white text-brand-600 shadow-xs'
-                    : 'text-slate-400 hover:text-slate-700'
-                }`}
-                title="Hiển thị dạng lưới"
-              >
-                <Grid className="w-4 h-4" />
-              </button>
-              <button
-                onClick={() => {
-                  setViewMode('list');
-                  updateQueryParams({ view: 'list' });
-                }}
-                className={`p-1.5 rounded-lg transition cursor-pointer ${
-                  viewMode === 'list'
-                    ? 'bg-white text-brand-600 shadow-xs'
-                    : 'text-slate-400 hover:text-slate-700'
-                }`}
-                title="Hiển thị dạng danh sách"
-              >
-                <List className="w-4 h-4" />
-              </button>
-            </div>
+            <div className="flex items-center justify-between xs:justify-end gap-2">
+              {/* View Mode Toggle (Grid / List) */}
+              <div className="flex items-center bg-slate-100 p-1 rounded-xl border border-slate-200">
+                <button
+                  onClick={() => {
+                    setViewMode('grid');
+                    updateQueryParams({ view: 'grid' });
+                  }}
+                  className={`p-1.5 rounded-lg transition cursor-pointer ${
+                    viewMode === 'grid'
+                      ? 'bg-white text-brand-600 shadow-xs'
+                      : 'text-slate-400 hover:text-slate-700'
+                  }`}
+                  title="Hiển thị dạng lưới"
+                >
+                  <Grid className="w-4 h-4" />
+                </button>
+                <button
+                  onClick={() => {
+                    setViewMode('list');
+                    updateQueryParams({ view: 'list' });
+                  }}
+                  className={`p-1.5 rounded-lg transition cursor-pointer ${
+                    viewMode === 'list'
+                      ? 'bg-white text-brand-600 shadow-xs'
+                      : 'text-slate-400 hover:text-slate-700'
+                  }`}
+                  title="Hiển thị dạng danh sách"
+                >
+                  <List className="w-4 h-4" />
+                </button>
+              </div>
 
-            {/* Reset Button */}
-            {hasActiveFilters && (
-              <button
-                onClick={handleResetFilters}
-                className="flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-bold text-rose-600 hover:bg-rose-50 transition border border-rose-200 cursor-pointer"
-                title="Đặt lại bộ lọc"
-              >
-                <RotateCcw className="w-3.5 h-3.5" />
-                <span>Đặt Lại</span>
-              </button>
-            )}
+              {/* Reset Button */}
+              {hasActiveFilters && (
+                <button
+                  onClick={handleResetFilters}
+                  className="flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-bold text-rose-600 hover:bg-rose-50 transition border border-rose-200 cursor-pointer"
+                  title="Đặt lại bộ lọc"
+                >
+                  <RotateCcw className="w-3.5 h-3.5" />
+                  <span>Đặt Lại</span>
+                </button>
+              )}
+            </div>
           </div>
         </div>
 
@@ -376,7 +378,7 @@ export function ThemesCatalog() {
 
         {/* 4. Results List / Grid */}
         {filteredThemes.length === 0 ? (
-          <div className="bg-white rounded-3xl border border-slate-200 p-12 text-center max-w-lg mx-auto shadow-xs">
+          <div className="bg-white rounded-3xl border border-slate-200 p-8 sm:p-12 text-center max-w-lg mx-auto shadow-xs">
             <div className="w-16 h-16 rounded-2xl bg-brand-50 text-brand-600 flex items-center justify-center mx-auto mb-4">
               <Search className="w-8 h-8" />
             </div>
@@ -392,7 +394,7 @@ export function ThemesCatalog() {
             </button>
           </div>
         ) : viewMode === 'grid' ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 sm:gap-6">
             {filteredThemes.map((theme) => (
               <ThemeCard key={theme.id} theme={theme} currency={currency} />
             ))}
@@ -416,7 +418,7 @@ export function ThemesCatalog() {
               return (
                 <div
                   key={theme.id}
-                  className="bg-white rounded-3xl border border-slate-200 p-5 sm:p-6 shadow-xs hover:shadow-xl hover:border-brand-400 transition-all duration-300 flex flex-col md:flex-row items-center gap-6 group"
+                  className="bg-white rounded-3xl border border-slate-200 p-4 sm:p-6 shadow-xs hover:shadow-xl hover:border-brand-400 transition-all duration-300 flex flex-col md:flex-row items-stretch md:items-center gap-4 sm:gap-6 group"
                 >
                   <div className="relative w-full md:w-72 h-44 rounded-2xl overflow-hidden bg-slate-100 shrink-0">
                     <img
@@ -434,7 +436,7 @@ export function ThemesCatalog() {
                   </div>
 
                   <div className="flex-1 min-w-0">
-                    <div className="flex items-center gap-3 text-xs mb-2">
+                    <div className="flex flex-wrap items-center gap-2 sm:gap-3 text-xs mb-2">
                       <span className="font-bold text-brand-700 bg-brand-50 px-3 py-1 rounded-lg border border-brand-200/60">
                         {theme.category_name_vi}
                       </span>
@@ -443,7 +445,7 @@ export function ThemesCatalog() {
                         <span className="text-slate-800">{theme.rating_avg}</span>
                         <span className="text-slate-400">({theme.total_sales} đã bán)</span>
                       </div>
-                      <span className="text-slate-300">•</span>
+                      <span className="text-slate-300 hidden sm:inline">•</span>
                       <span className="text-slate-600 font-bold">{theme.page_builders}</span>
                     </div>
 
@@ -463,12 +465,12 @@ export function ThemesCatalog() {
                     </div>
                   </div>
 
-                  <div className="w-full md:w-auto shrink-0 flex md:flex-col items-center md:items-end justify-between gap-4 pt-4 md:pt-0 border-t md:border-t-0 border-slate-100">
+                  <div className="w-full md:w-auto shrink-0 flex flex-col xs:flex-row md:flex-col items-stretch xs:items-center md:items-end justify-between gap-3 sm:gap-4 pt-4 md:pt-0 border-t md:border-t-0 border-slate-100">
                     <div className="text-left md:text-right">
                       <div className="flex items-baseline gap-2">
-                        <span className="text-2xl font-black text-rose-600">{currentPrice}</span>
+                        <span className="text-xl sm:text-2xl font-black text-rose-600">{currentPrice}</span>
                         {originalPrice && (
-                          <span className="text-sm text-slate-400 line-through font-medium">
+                          <span className="text-xs sm:text-sm text-slate-400 line-through font-medium">
                             {originalPrice}
                           </span>
                         )}
@@ -476,10 +478,10 @@ export function ThemesCatalog() {
                       <span className="block text-xs text-emerald-600 font-bold mt-0.5">Bản quyền trọn đời</span>
                     </div>
 
-                    <div className="flex items-center gap-2.5">
+                    <div className="flex items-center gap-2">
                       <Link
                         href={`/preview/${theme.slug}`}
-                        className="inline-flex items-center justify-center gap-2 px-4.5 py-2.5 rounded-xl bg-slate-100 hover:bg-brand-50 hover:text-brand-600 text-slate-700 text-sm font-bold transition whitespace-nowrap leading-normal"
+                        className="flex-1 xs:flex-initial inline-flex items-center justify-center gap-1.5 sm:gap-2 px-3.5 sm:px-4.5 py-2.5 rounded-xl bg-slate-100 hover:bg-brand-50 hover:text-brand-600 text-slate-700 text-xs sm:text-sm font-bold transition whitespace-nowrap leading-normal"
                       >
                         <Eye className="w-4 h-4 shrink-0" />
                         <span>Xem Demo</span>
@@ -487,7 +489,7 @@ export function ThemesCatalog() {
                       <button
                         type="button"
                         onClick={() => addItem(theme)}
-                        className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-brand-600 to-indigo-600 hover:from-brand-500 hover:to-indigo-500 text-white text-sm font-bold transition shadow-xs cursor-pointer whitespace-nowrap leading-normal"
+                        className="flex-1 xs:flex-initial inline-flex items-center justify-center gap-1.5 sm:gap-2 px-4 sm:px-5 py-2.5 rounded-xl bg-gradient-to-r from-brand-600 to-indigo-600 hover:from-brand-500 hover:to-indigo-500 text-white text-xs sm:text-sm font-bold transition shadow-xs cursor-pointer whitespace-nowrap leading-normal"
                       >
                         <ShoppingBag className="w-4 h-4 shrink-0" />
                         <span>Thêm Giỏ</span>

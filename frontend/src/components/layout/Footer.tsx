@@ -23,18 +23,18 @@ export function Footer() {
   return (
     <footer className="bg-slate-950 text-slate-400 border-t border-slate-800 w-full">
       {/* Top Banner Ribbon: Gradient Strip */}
-      <div className="bg-gradient-to-r from-brand-700 via-indigo-700 to-slate-900 text-white py-12 px-4 relative overflow-hidden w-full">
+      <div className="bg-gradient-to-r from-brand-700 via-indigo-700 to-slate-900 text-white py-8 sm:py-12 px-0 relative overflow-hidden w-full">
         <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-amber-500/15 rounded-full blur-3xl pointer-events-none" />
-        <div className="w-full max-w-[1720px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 flex flex-col lg:flex-row items-center justify-between gap-8 relative z-10">
-          <div className="flex items-center gap-5 text-center lg:text-left">
-            <div className="w-14 h-14 rounded-2xl bg-white/10 backdrop-blur-md flex items-center justify-center shrink-0 border border-white/20">
-              <Sparkles className="w-7 h-7 text-amber-300" />
+        <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12 flex flex-col lg:flex-row items-center justify-between gap-6 sm:gap-8 relative z-10">
+          <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-5 text-center sm:text-left">
+            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-white/10 backdrop-blur-md flex items-center justify-center shrink-0 border border-white/20">
+              <Sparkles className="w-6 h-6 sm:w-7 sm:h-7 text-amber-300" />
             </div>
             <div>
               <div className="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full bg-white/20 text-white text-[11px] font-black uppercase tracking-wider mb-1">
                 <span>ƯU ĐÃI THÀNH VIÊN MỚI</span>
               </div>
-              <h3 className="text-xl md:text-2xl xl:text-3xl font-black tracking-tight">
+              <h3 className="text-lg sm:text-xl md:text-2xl xl:text-3xl font-black tracking-tight">
                 Nhận Mã Giảm Thêm 20% & Bộ Plugin Pro Miễn Phí
               </h3>
               <p className="text-white/80 text-xs md:text-sm mt-1">
@@ -48,17 +48,17 @@ export function Footer() {
               e.preventDefault();
               alert('Cảm ơn bạn đã đăng ký nhận bản tin khuyến mãi của THEME STORE!');
             }}
-            className="flex w-full lg:w-auto max-w-md bg-white/10 backdrop-blur-md p-1.5 rounded-2xl border border-white/20 shadow-2xl"
+            className="flex flex-col xs:flex-row w-full lg:w-auto max-w-md bg-white/10 backdrop-blur-md p-1.5 rounded-2xl border border-white/20 shadow-2xl gap-1.5 xs:gap-0"
           >
             <input
               type="email"
               required
               placeholder="Nhập địa chỉ email của bạn..."
-              className="px-4 py-3 text-sm md:text-base text-white outline-none flex-1 bg-transparent placeholder:text-white/60 font-medium"
+              className="px-3.5 sm:px-4 py-2.5 sm:py-3 text-sm md:text-base text-white outline-none flex-1 min-w-0 bg-transparent placeholder:text-white/60 font-medium"
             />
             <button
               type="submit"
-              className="px-7 py-3 bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-sm uppercase tracking-wider rounded-xl transition shadow-md flex items-center gap-2 cursor-pointer"
+              className="px-5 sm:px-7 py-2.5 sm:py-3 bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs sm:text-sm uppercase tracking-wider rounded-xl transition shadow-md flex items-center justify-center gap-2 cursor-pointer shrink-0"
             >
               <span>Đăng Ký</span>
               <Send className="w-4 h-4" />
@@ -226,11 +226,11 @@ export function Footer() {
         </div>
 
         {/* Bottom Copyright */}
-        <div className="mt-12 pt-8 border-t border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs sm:text-sm text-slate-500">
+        <div className="mt-10 sm:mt-12 pt-6 sm:pt-8 border-t border-slate-800/80 flex flex-col lg:flex-row items-center justify-between gap-4 text-xs sm:text-sm text-slate-500 text-center lg:text-left">
           <p>
             © 2026 <strong>THEMESTORE.VN</strong> - Thế giới Theme & Plugin WordPress bản quyền giá rẻ #1 Việt Nam. All rights reserved.
           </p>
-          <div className="flex items-center gap-6">
+          <div className="flex flex-wrap items-center justify-center lg:justify-end gap-x-4 sm:gap-x-6 gap-y-2">
             <Link href="/login" className="hover:text-slate-300 transition font-medium">Đăng Nhập</Link>
             <Link href="/register" className="hover:text-slate-300 transition font-medium">Đăng Ký</Link>
             <Link href="/themes" className="hover:text-slate-400 transition font-medium">Điều Khoản Dịch Vụ</Link>

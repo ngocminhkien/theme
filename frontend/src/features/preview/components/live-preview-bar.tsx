@@ -48,20 +48,21 @@ export function LivePreviewBar({ theme }: LivePreviewBarProps) {
   };
 
   return (
-    <div className="flex flex-col h-screen w-screen overflow-hidden bg-slate-950 font-sans">
+    <div className="flex flex-col h-dvh w-screen overflow-hidden bg-slate-950 font-sans">
       {/* Top Controller Bar (Ultra-sleek Dark Glassmorphism) */}
-      <header className="h-16 bg-slate-950/95 backdrop-blur-xl border-b border-slate-800 text-white flex items-center justify-between px-4 sm:px-6 z-50 shrink-0 shadow-2xl">
+      <header className="min-h-14 sm:h-16 py-1.5 sm:py-0 bg-slate-950/95 backdrop-blur-xl border-b border-slate-800 text-white flex items-center justify-between gap-2 sm:gap-4 px-2.5 sm:px-6 z-50 shrink-0 shadow-2xl">
         {/* Left: Back to Marketplace & Theme Info */}
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-2 sm:gap-4 shrink-0">
           <Link
             href="/"
-            className="flex items-center gap-2 text-sm font-bold text-slate-300 hover:text-white transition bg-slate-900 hover:bg-slate-800 px-4 py-2.5 rounded-xl border border-slate-800 shadow-xs"
+            className="flex items-center gap-1.5 sm:gap-2 text-xs sm:text-sm font-bold text-slate-300 hover:text-white transition bg-slate-900 hover:bg-slate-800 px-2.5 sm:px-4 py-2 sm:py-2.5 rounded-xl border border-slate-800 shadow-xs"
+            title="Về Theme Store"
           >
             <ArrowLeft className="w-4 h-4" />
-            <span className="hidden sm:inline">Về Theme Store</span>
+            <span className="hidden md:inline">Về Theme Store</span>
           </Link>
 
-          <div className="h-4 w-px bg-slate-800 hidden md:block" />
+          <div className="h-4 w-px bg-slate-800 hidden lg:block" />
 
           {/* Theme Title & Meta */}
           <div className="hidden lg:flex flex-col">
@@ -94,10 +95,10 @@ export function LivePreviewBar({ theme }: LivePreviewBarProps) {
         </div>
 
         {/* Center: Device Switcher Segmented Control */}
-        <div className="flex items-center bg-slate-900/90 p-1.5 rounded-2xl border border-slate-800 shadow-inner">
+        <div className="flex items-center bg-slate-900/90 p-1 sm:p-1.5 rounded-xl sm:rounded-2xl border border-slate-800 shadow-inner shrink-0">
           <button
             onClick={() => setDevice('desktop')}
-            className={`flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-bold transition-all duration-200 cursor-pointer ${
+            className={`flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-4 py-1.5 sm:py-2 rounded-lg sm:rounded-xl text-xs sm:text-sm font-bold transition-all duration-200 cursor-pointer ${
               device === 'desktop'
                 ? 'bg-brand-600 text-white shadow-glow'
                 : 'text-slate-400 hover:text-white hover:bg-slate-800/60'
@@ -106,12 +107,12 @@ export function LivePreviewBar({ theme }: LivePreviewBarProps) {
           >
             <Monitor className="w-4 h-4" />
             <span className="hidden sm:inline">Desktop</span>
-            <span className="text-xs opacity-70 hidden md:inline">(100%)</span>
+            <span className="text-xs opacity-70 hidden xl:inline">(100%)</span>
           </button>
 
           <button
             onClick={() => setDevice('tablet')}
-            className={`flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-bold transition-all duration-200 cursor-pointer ${
+            className={`flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-4 py-1.5 sm:py-2 rounded-lg sm:rounded-xl text-xs sm:text-sm font-bold transition-all duration-200 cursor-pointer ${
               device === 'tablet'
                 ? 'bg-brand-600 text-white shadow-glow'
                 : 'text-slate-400 hover:text-white hover:bg-slate-800/60'
@@ -120,12 +121,12 @@ export function LivePreviewBar({ theme }: LivePreviewBarProps) {
           >
             <Tablet className="w-4 h-4" />
             <span className="hidden sm:inline">Tablet</span>
-            <span className="text-xs opacity-70 hidden md:inline">(768px)</span>
+            <span className="text-xs opacity-70 hidden xl:inline">(768px)</span>
           </button>
 
           <button
             onClick={() => setDevice('mobile')}
-            className={`flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-bold transition-all duration-200 cursor-pointer ${
+            className={`flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-4 py-1.5 sm:py-2 rounded-lg sm:rounded-xl text-xs sm:text-sm font-bold transition-all duration-200 cursor-pointer ${
               device === 'mobile'
                 ? 'bg-brand-600 text-white shadow-glow'
                 : 'text-slate-400 hover:text-white hover:bg-slate-800/60'
@@ -134,40 +135,41 @@ export function LivePreviewBar({ theme }: LivePreviewBarProps) {
           >
             <Smartphone className="w-4 h-4" />
             <span className="hidden sm:inline">Mobile</span>
-            <span className="text-xs opacity-70 hidden md:inline">(375px)</span>
+            <span className="text-xs opacity-70 hidden xl:inline">(375px)</span>
           </button>
         </div>
 
         {/* Right: Buy Theme CTA & External Link */}
-        <div className="flex items-center gap-3.5">
+        <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
           {/* External Link */}
           <a
             href={currentDemoUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="p-2.5 rounded-xl text-slate-400 hover:text-white hover:bg-slate-900 border border-transparent hover:border-slate-800 transition hidden sm:flex items-center gap-1.5 text-xs font-semibold"
+            className="p-2 sm:p-2.5 rounded-xl text-slate-400 hover:text-white hover:bg-slate-900 border border-transparent hover:border-slate-800 transition hidden md:flex items-center gap-1.5 text-xs font-semibold"
             title="Mở demo trực tiếp trong tab mới"
           >
             <ExternalLink className="w-4 h-4" />
-            <span className="hidden lg:inline">Tab Mới</span>
+            <span className="hidden xl:inline">Tab Mới</span>
           </a>
 
           {/* Buy Now Button */}
           <button
             onClick={handleBuyNow}
-            className="flex items-center gap-2 px-6 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-amber-400 hover:from-amber-400 hover:to-amber-500 text-slate-950 text-sm font-black uppercase tracking-wider shadow-glow hover:scale-105 transition-all duration-200 cursor-pointer"
+            className="flex items-center gap-1.5 sm:gap-2 px-3 sm:px-5 py-2 sm:py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-amber-400 hover:from-amber-400 hover:to-amber-500 text-slate-950 text-xs sm:text-sm font-black uppercase tracking-wider shadow-glow sm:hover:scale-105 transition-all duration-200 cursor-pointer whitespace-nowrap"
           >
-            <Zap className="w-4.5 h-4.5 fill-slate-950" />
-            <span>MUA NGAY: {priceText}</span>
+            <Zap className="w-4 h-4 fill-slate-950 shrink-0" />
+            <span className="hidden xs:inline">MUA NGAY: </span>
+            <span>{priceText}</span>
           </button>
 
           {/* Close preview */}
           <Link
             href="/"
-            className="p-2.5 text-slate-400 hover:text-white hover:bg-slate-900 rounded-xl transition"
+            className="p-2 sm:p-2.5 text-slate-400 hover:text-white hover:bg-slate-900 rounded-xl transition shrink-0"
             title="Đóng chế độ Live Preview"
           >
-            <X className="w-5 h-5" />
+            <X className="w-4.5 h-4.5 sm:w-5 sm:h-5" />
           </Link>
         </div>
       </header>
@@ -185,12 +187,12 @@ export function LivePreviewBar({ theme }: LivePreviewBarProps) {
             />
           </div>
         ) : device === 'tablet' ? (
-          /* Tablet Mockup View: 768px frame with rounded corners & shadow */
-          <div className="w-[768px] h-[92vh] max-h-[1024px] bg-slate-950 rounded-3xl p-3.5 shadow-2xl border-4 border-slate-800 flex flex-col animate-in zoom-in-95 duration-200">
-            <div className="h-4 w-full flex items-center justify-center pb-1">
+          /* Tablet Mockup View: max-w-[768px] frame with rounded corners & shadow */
+          <div className="w-full max-w-[768px] h-full sm:h-[90dvh] max-h-[1024px] bg-slate-950 sm:rounded-3xl p-2 sm:p-3.5 shadow-2xl border-0 sm:border-4 border-slate-800 flex flex-col animate-in zoom-in-95 duration-200">
+            <div className="hidden sm:flex h-4 w-full items-center justify-center pb-1">
               <span className="w-2.5 h-2.5 rounded-full bg-slate-700" />
             </div>
-            <div className="flex-1 w-full rounded-2xl overflow-hidden bg-white">
+            <div className="flex-1 w-full rounded-xl sm:rounded-2xl overflow-hidden bg-white">
               <iframe
                 src={currentDemoUrl}
                 title={`${theme.name} Tablet Live Preview`}
@@ -200,13 +202,13 @@ export function LivePreviewBar({ theme }: LivePreviewBarProps) {
             </div>
           </div>
         ) : (
-          /* Mobile Mockup View: 375px frame with Dynamic Island */
-          <div className="w-[375px] h-[92vh] max-h-[812px] bg-slate-950 rounded-[44px] p-3 shadow-2xl border-4 border-slate-800 flex flex-col animate-in zoom-in-95 duration-200 relative">
+          /* Mobile Mockup View: max-w-[375px] frame with Dynamic Island */
+          <div className="w-full max-w-[375px] h-full sm:h-[90dvh] max-h-[812px] bg-slate-950 rounded-none xs:rounded-[44px] p-0 xs:p-3 shadow-2xl border-0 xs:border-4 border-slate-800 flex flex-col animate-in zoom-in-95 duration-200 relative">
             {/* Dynamic Island / Notch Mockup */}
-            <div className="h-5 w-full flex items-center justify-center pb-2">
+            <div className="hidden xs:flex h-5 w-full items-center justify-center pb-2">
               <span className="w-24 h-3.5 rounded-full bg-slate-800" />
             </div>
-            <div className="flex-1 w-full rounded-[32px] overflow-hidden bg-white">
+            <div className="flex-1 w-full rounded-none xs:rounded-[32px] overflow-hidden bg-white">
               <iframe
                 src={currentDemoUrl}
                 title={`${theme.name} Mobile Live Preview`}

@@ -36,7 +36,7 @@ export function FloatingWidgets() {
       {/* Cụm Widget Nổi Cố Định Góc Phải (Fixed Bottom-Right) */}
       <aside
         aria-label="Cụm hỗ trợ và ưu đãi nổi"
-        className="fixed bottom-6 right-4 sm:right-6 z-50 flex flex-col items-end gap-3 select-none pointer-events-auto"
+        className="fixed bottom-4 right-3 sm:bottom-6 sm:right-6 z-40 flex flex-col items-end gap-2.5 sm:gap-3 select-none pointer-events-auto"
       >
         {/* 1. Nút Hộp Quà Ưu Đãi (Top Widget) */}
         <div className="relative group">
@@ -44,17 +44,18 @@ export function FloatingWidgets() {
             type="button"
             onClick={() => setIsPromoOpen(true)}
             aria-label="Nhận Ưu Đãi Hôm Nay"
-            className="inline-flex items-center gap-2.5 pl-3 pr-4 sm:pl-3.5 sm:pr-4.5 py-2 sm:py-2.5 rounded-full bg-gradient-to-r from-red-600 via-rose-600 to-red-500 text-white font-black text-xs sm:text-sm tracking-wide shadow-xl shadow-red-500/35 hover:shadow-2xl hover:shadow-red-500/50 hover:scale-105 active:scale-95 transition-all duration-300 border border-white/20 cursor-pointer group whitespace-nowrap"
+            className="inline-flex items-center gap-2 sm:gap-2.5 pl-2.5 pr-3.5 sm:pl-3.5 sm:pr-4.5 py-1.5 sm:py-2.5 rounded-full bg-gradient-to-r from-red-600 via-rose-600 to-red-500 text-white font-black text-xs sm:text-sm tracking-wide shadow-xl shadow-red-500/35 hover:shadow-2xl hover:shadow-red-500/50 hover:scale-105 active:scale-95 transition-all duration-300 border border-white/20 cursor-pointer group whitespace-nowrap"
           >
             {/* Icon hộp quà rung nhẹ + chấm thông báo nhấp nháy */}
-            <span className="relative flex items-center justify-center w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-white/20 text-white shrink-0 animate-gift">
-              <Gift className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-amber-300 drop-shadow-xs" />
+            <span className="relative flex items-center justify-center w-6 h-6 sm:w-8 sm:h-8 rounded-full bg-white/20 text-white shrink-0 animate-gift">
+              <Gift className="w-3.5 h-3.5 sm:w-4.5 sm:h-4.5 text-amber-300 drop-shadow-xs" />
               <span className="absolute -top-0.5 -right-0.5 w-2.5 h-2.5 bg-amber-400 rounded-full animate-ping" />
               <span className="absolute -top-0.5 -right-0.5 w-2.5 h-2.5 bg-amber-300 rounded-full border border-red-600" />
             </span>
 
-            <span className="drop-shadow-xs font-black uppercase text-[11px] sm:text-xs tracking-wider whitespace-nowrap">
-              Nhận Ưu Đãi Hôm Nay
+            <span className="drop-shadow-xs font-black uppercase text-[10px] sm:text-xs tracking-wider whitespace-nowrap">
+              <span className="xs:hidden">Ưu Đãi</span>
+              <span className="hidden xs:inline">Nhận Ưu Đãi Hôm Nay</span>
             </span>
 
             <Flame className="w-4 h-4 text-amber-300 animate-pulse shrink-0 hidden sm:block" />

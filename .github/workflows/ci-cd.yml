@@ -54,6 +54,7 @@ jobs:
             npm ci || npm install
             npm run lint --if-present
             npm run test --if-present
+            npm run test:admin --if-present
           else
             echo "Thư mục backend chưa khởi tạo - bỏ qua bước test BE."
           fi
@@ -68,6 +69,18 @@ jobs:
             npm run type-check --if-present
           else
             echo "Thư mục frontend chưa khởi tạo - bỏ qua bước test FE."
+          fi
+
+      # Kiểm tra và test Admin Portal nếu thư mục admin tồn tại
+      - name: Admin Portal - Lint & Typecheck
+        run: |
+          if [ -d "admin" ]; then
+            cd admin
+            npm ci || npm install
+            npm run lint --if-present
+            npm run type-check --if-present
+          else
+            echo "Thư mục admin chưa khởi tạo - bỏ qua bước test Admin."
           fi
 
   # ===================================================================

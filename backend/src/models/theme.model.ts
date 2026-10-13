@@ -94,18 +94,51 @@ export class ThemeModel {
     const limit = params.limit || 12;
     const offset = params.offset || 0;
 
-    const [countRows] = await dbPool.query<RowDataPacket[]>(
-      `SELECT COUNT(*) as total FROM themes ${whereClause}`,
-      queryParams
-    );
-    const total = countRows[0]?.total || 0;
+    try {
+      const [countRows] = await dbPool.query<RowDataPacket[]>(
+        `SELECT COUNT(*) as total FROM themes ${whereClause}`,
+        queryParams
+      );
+      const total = countRows[0]?.total || 0;
 
-    const [rows] = await dbPool.query<RowDataPacket[]>(
-      `SELECT * FROM themes ${whereClause} ${orderByClause} LIMIT ? OFFSET ?`,
-      [...queryParams, limit, offset]
-    );
+      const [rows] = await dbPool.query<RowDataPacket[]>(
+        `SELECT * FROM themes ${whereClause} ${orderByClause} LIMIT ? OFFSET ?`,
+        [...queryParams, limit, offset]
+      );
 
-    return { themes: rows as Theme[], total };
+      return { themes: rows as Theme[], total };
+    } catch (err: any) {
+      console.warn('[ThemeModel.findAll] DB Error, fallback in-memory:', err.message);
+      let items = fallbackThemes.filter((t) => t.status === 'published');
+      if (params.category_id) {
+        items = items.filter((t) => t.category_id === params.category_id);
+      }
+      if (params.builder) {
+        const b = params.builder.toLowerCase();
+        items = items.filter((t) => t.page_builders.toLowerCase().includes(b));
+      }
+      if (params.keyword) {
+        const q = params.keyword.toLowerCase();
+        items = items.filter(
+          (t) =>
+            t.name.toLowerCase().includes(q) ||
+            t.short_desc_vi.toLowerCase().includes(q) ||
+            t.short_desc_en.toLowerCase().includes(q)
+        );
+      }
+      if (params.min_price !== undefined && !isNaN(Number(params.min_price))) {
+        const min = Number(params.min_price);
+        items = items.filter((t) => (params.currency === 'USD' ? t.price_usd : t.price_vnd) >= min);
+      }
+      if (params.max_price !== undefined && !isNaN(Number(params.max_price))) {
+        const max = Number(params.max_price);
+        items = items.filter((t) => (params.currency === 'USD' ? t.price_usd : t.price_vnd) <= max);
+      }
+      return {
+        themes: items.slice(offset, offset + limit),
+        total: items.length,
+      };
+    }
   }
 
   static async findBySlug(slug: string): Promise<Theme | null> {

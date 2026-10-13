@@ -26,6 +26,7 @@ adminRouter.get('/categories', AdminController.getCategories);
 adminRouter.get('/licenses', AdminController.getLicenses);
 adminRouter.get('/licenses/:licenseKey', AdminController.getLicenseDetail);
 
-// Quản lý Khách hàng
+// Quản lý Người dùng & Khách hàng
 adminRouter.get('/customers', AdminController.getCustomers);
 adminRouter.get('/customers/:id', AdminController.getCustomerDetail);
+adminRouter.patch('/customers/:id/role', AdminController.updateCustomerRole);

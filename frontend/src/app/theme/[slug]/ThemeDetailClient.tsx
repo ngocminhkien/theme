@@ -187,12 +187,12 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
         </div>
 
         {/* Detailed Tabs: Overview, Specs, Changelog, Reviews */}
-        <div className="bg-white rounded-3xl border border-slate-200/80 p-6 sm:p-8 shadow-sm mb-12">
+        <div className="bg-white rounded-3xl border border-slate-200/80 p-5 sm:p-8 shadow-sm mb-10 sm:mb-12">
           {/* Tabs Navigation */}
-          <div className="flex flex-wrap items-center gap-6 pb-4 border-b border-slate-100 mb-6">
+          <div className="flex items-center gap-4 sm:gap-6 overflow-x-auto no-scrollbar whitespace-nowrap pb-3 border-b border-slate-100 mb-6">
             <button
               onClick={() => setActiveTab('desc')}
-              className={`text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
+              className={`shrink-0 text-xs sm:text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
                 activeTab === 'desc'
                   ? 'border-brand-600 text-brand-600'
                   : 'border-transparent text-slate-500 hover:text-slate-800'
@@ -202,7 +202,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
             </button>
             <button
               onClick={() => setActiveTab('specs')}
-              className={`text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
+              className={`shrink-0 text-xs sm:text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
                 activeTab === 'specs'
                   ? 'border-brand-600 text-brand-600'
                   : 'border-transparent text-slate-500 hover:text-slate-800'
@@ -212,7 +212,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
             </button>
             <button
               onClick={() => setActiveTab('changelog')}
-              className={`text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
+              className={`shrink-0 text-xs sm:text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
                 activeTab === 'changelog'
                   ? 'border-brand-600 text-brand-600'
                   : 'border-transparent text-slate-500 hover:text-slate-800'
@@ -222,7 +222,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
             </button>
             <button
               onClick={() => setActiveTab('reviews')}
-              className={`text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
+              className={`shrink-0 text-xs sm:text-sm font-extrabold uppercase tracking-wider pb-2 border-b-2 transition cursor-pointer ${
                 activeTab === 'reviews'
                   ? 'border-brand-600 text-brand-600'
                   : 'border-transparent text-slate-500 hover:text-slate-800'
@@ -300,7 +300,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
                   NV
                 </div>
                 <div>
-                  <div className="flex items-center gap-2">
+                  <div className="flex flex-wrap items-center gap-2">
                     <strong className="text-xs text-slate-900">Nguyễn Văn An (Senior Frontend Developer)</strong>
                     <div className="flex items-center text-amber-400">
                       <Star className="w-3 h-3 fill-amber-400" />
@@ -324,7 +324,7 @@ export default function ThemeDetailClient({ slug }: ThemeDetailClientProps) {
           <h3 className="text-xl font-black text-slate-900 mb-6">
             Theme Cùng Lĩnh Vực Được Đề Xuất
           </h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 sm:gap-6">
             {relatedThemes.map((rTheme) => (
               <ThemeCard key={rTheme.id} theme={rTheme} currency={currency} />
             ))}
