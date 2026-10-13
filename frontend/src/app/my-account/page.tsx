@@ -131,7 +131,7 @@ function MyAccountContent() {
             <div className="flex flex-wrap items-center gap-2.5">
               {user.role === 'admin' && (
                 <a
-                  href="http://localhost:3001/dashboard"
+                  href="/admin"
                   className="inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 hover:bg-blue-700 px-4 py-2.5 text-xs font-bold text-white transition shadow-xs"
                 >
                   Vào Trang Quản Trị (Admin)

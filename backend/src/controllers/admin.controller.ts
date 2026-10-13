@@ -7,6 +7,15 @@ import { AuthRequest } from '../middlewares/auth.middleware.js';
 import { ThemeModel } from '../models/theme.model.js';
 import { CategoryModel } from '../models/category.model.js';
 import { UserModel } from '../models/user.model.js';
+import { LicenseModel } from '../models/license.model.js';
+import {
+  AdminOrderStatusUpdateSchema,
+  AdminThemeCreateSchema,
+  AdminThemeUpdateSchema,
+  AdminCustomerCreateSchema,
+  AdminCustomerRoleSchema,
+  AdminLicenseDeactivateSchema,
+} from '../validators/admin.validator.js';
 
 const fallbackOrders = [
   {
@@ -43,6 +52,42 @@ const fallbackLicenses = [
     customer_email: 'customer@thememarket.local',
     customer_name: 'Nguyễn Văn Khách Hàng',
     order_number: 'ORD-2026-8888',
+  },
+];
+
+const fallbackActivations = [
+  {
+    id: 1,
+    license_id: 1,
+    license_key: 'WD-2026-DEMO-A1B2-C3D4-E5F6',
+    domain: 'mytestshop.local',
+    ip_address: '127.0.0.1',
+    is_active: 1,
+    activated_at: new Date('2026-10-12T09:31:00Z'),
+  },
+];
+
+const fallbackAdminThemes: any[] = [
+  {
+    id: 1,
+    author_id: 1,
+    category_id: 1,
+    name: 'WoodMart - Multipurpose WooCommerce Theme',
+    slug: 'woodmart',
+    short_desc_vi: 'Theme bán hàng WooCommerce chuyên nghiệp, chuẩn SEO',
+    price_vnd: 599000,
+    price_usd: 29.0,
+    current_version: '8.6.2',
+    status: 'published',
+    is_featured: 1,
+    total_sales: 128,
+    rating_avg: 4.95,
+    rating_count: 320,
+    live_demo_url: 'https://demo.xtemos.com/woodmart',
+    thumbnail_url: 'https://example.com/thumb.jpg',
+    category_name: 'WordPress Theme',
+    author_name: 'XTemos Studio Official',
+    created_at: new Date('2026-10-12T08:00:00Z'),
   },
 ];
 
@@ -356,6 +401,76 @@ export class AdminController {
   }
 
   /**
+   * Cập nhật trạng thái đơn hàng (order_status hoặc payment_status)
+   * PATCH /api/v1/admin/orders/:orderNumber/status
+   */
+  static async updateOrderStatus(req: AuthRequest, res: Response) {
+    const orderNumber = (req.params.orderNumber as string || '').trim();
+    if (!orderNumber) {
+      return ResponseView.error(res, 'Mã đơn hàng không hợp lệ.', 'INVALID_ORDER_NUMBER', 400);
+    }
+
+    const parseResult = AdminOrderStatusUpdateSchema.safeParse(req.body);
+    if (!parseResult.success) {
+      return ResponseView.error(res, 'Trạng thái đơn hàng không hợp lệ.', 'INVALID_STATUS_UPDATE', 400);
+    }
+
+    const { payment_status, order_status } = parseResult.data;
+
+    try {
+      const [orderRows] = await dbPool.query<RowDataPacket[]>(
+        'SELECT id, order_number, payment_status, order_status FROM orders WHERE order_number = ? LIMIT 1',
+        [orderNumber]
+      );
+      if (!orderRows.length) {
+        return ResponseView.notFound(res, 'Không tìm thấy đơn hàng.');
+      }
+
+      const fields: string[] = [];
+      const params: any[] = [];
+      if (payment_status) {
+        fields.push('payment_status = ?');
+        params.push(payment_status);
+      }
+      if (order_status) {
+        fields.push('order_status = ?');
+        params.push(order_status);
+      }
+      params.push(orderNumber);
+
+      await dbPool.query<ResultSetHeader>(
+        `UPDATE orders SET ${fields.join(', ')} WHERE order_number = ?`,
+        params
+      );
+
+      const currentOrder = orderRows[0];
+      const updatedPaymentStatus = payment_status || currentOrder.payment_status;
+      const updatedOrderStatus = order_status || currentOrder.order_status;
+
+      return ResponseView.success(res, {
+        order_number: orderNumber,
+        payment_status: updatedPaymentStatus,
+        order_status: updatedOrderStatus,
+      }, 'Cập nhật trạng thái đơn hàng thành công.');
+    } catch (error: any) {
+      if (isDbOffline(error)) {
+        const order = fallbackOrders.find(o => o.order_number === orderNumber);
+        if (!order) {
+          return ResponseView.notFound(res, 'Không tìm thấy đơn hàng.');
+        }
+        if (payment_status) order.payment_status = payment_status;
+        if (order_status) order.order_status = order_status;
+        return ResponseView.success(res, {
+          order_number: order.order_number,
+          payment_status: order.payment_status,
+          order_status: order.order_status,
+        }, 'Cập nhật trạng thái đơn hàng thành công.');
+      }
+      return ResponseView.error(res, error.message || 'Lỗi cập nhật trạng thái đơn hàng.', 'UPDATE_ORDER_ERROR', 500);
+    }
+  }
+
+  /**
    * Danh sách themes quản trị
    * GET /api/v1/admin/themes
    */
@@ -442,27 +557,33 @@ export class AdminController {
    * POST /api/v1/admin/themes
    */
   static async createTheme(req: AuthRequest, res: Response) {
-    try {
-      const { name, slug, price_vnd, price_usd, status = 'draft', short_desc_vi = '', live_demo_url, thumbnail_url, category_id } = req.body;
-      const normalizedName = typeof name === 'string' ? name.trim() : '';
-      const normalizedSlug = typeof slug === 'string' ? slug.trim() : '';
-      const priceVnd = Number(price_vnd);
-      const priceUsd = Number(price_usd);
-      const categoryId = category_id === undefined || category_id === '' ? null : Number(category_id);
-
-      if (!normalizedName || normalizedName.length > 200 || !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(normalizedSlug)) {
-        return ResponseView.error(res, 'Tên hoặc slug theme không hợp lệ.', 'INVALID_THEME_INPUT', 400);
-      }
-      if (!Number.isFinite(priceVnd) || priceVnd < 0 || !Number.isFinite(priceUsd) || priceUsd < 0) {
+    const parseResult = AdminThemeCreateSchema.safeParse(req.body);
+    if (!parseResult.success) {
+      const issue = parseResult.error.issues[0];
+      const field = issue.path[0];
+      if (field === 'price_vnd' || field === 'price_usd') {
         return ResponseView.error(res, 'Giá theme không hợp lệ.', 'INVALID_THEME_PRICE', 400);
       }
-      if (!['draft', 'published', 'archived'].includes(status) || !this.isHttpUrl(live_demo_url) || !this.isHttpUrl(thumbnail_url)) {
-        return ResponseView.error(res, 'Trạng thái hoặc URL theme không hợp lệ.', 'INVALID_THEME_INPUT', 400);
-      }
-      if (categoryId !== null && (!Number.isInteger(categoryId) || categoryId <= 0)) {
+      if (field === 'category_id') {
         return ResponseView.error(res, 'Danh mục theme không hợp lệ.', 'INVALID_CATEGORY', 400);
       }
-      if (categoryId !== null) {
+      return ResponseView.error(res, 'Tên, slug, trạng thái hoặc URL theme không hợp lệ.', 'INVALID_THEME_INPUT', 400);
+    }
+
+    const {
+      name,
+      slug,
+      price_vnd: priceVnd,
+      price_usd: priceUsd,
+      status,
+      short_desc_vi: shortDescVi,
+      live_demo_url: liveDemoUrl,
+      thumbnail_url: thumbnailUrl,
+      category_id: categoryId,
+    } = parseResult.data;
+
+    try {
+      if (categoryId !== null && categoryId !== undefined) {
         const [categories] = await dbPool.query<RowDataPacket[]>('SELECT id FROM categories WHERE id = ? LIMIT 1', [categoryId]);
         if (!categories.length) return ResponseView.error(res, 'Danh mục không tồn tại.', 'CATEGORY_NOT_FOUND', 400);
       }
@@ -470,12 +591,41 @@ export class AdminController {
       const [result] = await dbPool.query<ResultSetHeader>(
         `INSERT INTO themes (author_id, category_id, name, slug, short_desc_vi, price_vnd, price_usd, live_demo_url, thumbnail_url, status)
          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-        [req.user!.id, categoryId, normalizedName, normalizedSlug, typeof short_desc_vi === 'string' ? short_desc_vi.trim() : '', priceVnd, priceUsd, live_demo_url.trim(), thumbnail_url.trim(), status]
+        [req.user!.id, categoryId, name, slug, shortDescVi, priceVnd, priceUsd, liveDemoUrl, thumbnailUrl, status]
       );
       return ResponseView.success(res, { id: result.insertId }, 'Tạo theme thành công.', 201);
     } catch (error: any) {
       if (error?.code === 'ER_DUP_ENTRY') {
         return ResponseView.error(res, 'Slug theme đã tồn tại.', 'THEME_SLUG_EXISTS', 409);
+      }
+      if (isDbOffline(error)) {
+        if (fallbackAdminThemes.some(t => t.slug === slug)) {
+          return ResponseView.error(res, 'Slug theme đã tồn tại.', 'THEME_SLUG_EXISTS', 409);
+        }
+        const newId = fallbackAdminThemes.length + 10;
+        const newTheme = {
+          id: newId,
+          author_id: req.user?.id || 1,
+          category_id: categoryId,
+          name,
+          slug,
+          short_desc_vi: shortDescVi,
+          price_vnd: priceVnd,
+          price_usd: priceUsd,
+          live_demo_url: liveDemoUrl,
+          thumbnail_url: thumbnailUrl,
+          status,
+          is_featured: 0,
+          total_sales: 0,
+          rating_avg: 5.0,
+          rating_count: 0,
+          current_version: '1.0.0',
+          category_name: 'WordPress Theme',
+          author_name: 'Admin',
+          created_at: new Date(),
+        };
+        fallbackAdminThemes.push(newTheme);
+        return ResponseView.success(res, { id: newId }, 'Tạo theme thành công.', 201);
       }
       return ResponseView.error(res, error.message || 'Lỗi tạo theme.', 'CREATE_THEME_ERROR', 500);
     }
@@ -509,6 +659,8 @@ export class AdminController {
       });
     } catch (error: any) {
       if (isDbOffline(error)) {
+        const localTheme = fallbackAdminThemes.find(t => t.id === themeId);
+        if (localTheme) return ResponseView.success(res, localTheme);
         const theme = await ThemeModel.findById(themeId);
         if (!theme) return ResponseView.notFound(res, 'Không tìm thấy theme.');
         return ResponseView.success(res, {
@@ -526,69 +678,80 @@ export class AdminController {
    * PUT /api/v1/admin/themes/:id
    */
   static async updateTheme(req: AuthRequest, res: Response) {
-    try {
-      const themeId = parseInt(req.params.id as string, 10);
-      if (isNaN(themeId)) return ResponseView.error(res, 'ID theme không hợp lệ.', 'INVALID_ID', 400);
+    const themeId = parseInt(req.params.id as string, 10);
+    if (isNaN(themeId)) return ResponseView.error(res, 'ID theme không hợp lệ.', 'INVALID_ID', 400);
 
-      const { name, price_vnd, price_usd, status, short_desc_vi, live_demo_url, thumbnail_url, category_id } = req.body;
-
-      const fields: string[] = [];
-      const params: any[] = [];
-
-      if (name !== undefined) {
-        if (typeof name !== 'string' || !name.trim() || name.trim().length > 200) {
-          return ResponseView.error(res, 'Tên theme không hợp lệ.', 'INVALID_THEME_INPUT', 400);
-        }
-        fields.push('name = ?');
-        params.push(name.trim());
-      }
-      if (price_vnd !== undefined) {
-        const pVnd = Number(price_vnd);
-        if (!Number.isFinite(pVnd) || pVnd < 0) return ResponseView.error(res, 'Giá VND không hợp lệ.', 'INVALID_THEME_PRICE', 400);
-        fields.push('price_vnd = ?');
-        params.push(pVnd);
-      }
-      if (price_usd !== undefined) {
-        const pUsd = Number(price_usd);
-        if (!Number.isFinite(pUsd) || pUsd < 0) return ResponseView.error(res, 'Giá USD không hợp lệ.', 'INVALID_THEME_PRICE', 400);
-        fields.push('price_usd = ?');
-        params.push(pUsd);
-      }
-      if (status !== undefined) {
-        if (!['draft', 'published', 'archived'].includes(status)) return ResponseView.error(res, 'Trạng thái theme không hợp lệ.', 'INVALID_THEME_INPUT', 400);
-        fields.push('status = ?');
-        params.push(status);
-      }
-      if (short_desc_vi !== undefined) {
-        if (typeof short_desc_vi !== 'string') return ResponseView.error(res, 'Mô tả theme không hợp lệ.', 'INVALID_THEME_INPUT', 400);
-        fields.push('short_desc_vi = ?');
-        params.push(short_desc_vi);
-      }
-      if (live_demo_url !== undefined) {
-        if (!this.isHttpUrl(live_demo_url)) return ResponseView.error(res, 'Live demo URL không hợp lệ.', 'INVALID_THEME_INPUT', 400);
-        fields.push('live_demo_url = ?');
-        params.push(live_demo_url.trim());
-      }
-      if (thumbnail_url !== undefined) {
-        if (!this.isHttpUrl(thumbnail_url)) return ResponseView.error(res, 'Thumbnail URL không hợp lệ.', 'INVALID_THEME_INPUT', 400);
-        fields.push('thumbnail_url = ?');
-        params.push(thumbnail_url.trim());
-      }
-      if (category_id !== undefined) {
-        const normalizedCategoryId = category_id === '' || category_id === null ? null : Number(category_id);
-        if (normalizedCategoryId !== null && (!Number.isInteger(normalizedCategoryId) || normalizedCategoryId <= 0)) {
-          return ResponseView.error(res, 'Danh mục theme không hợp lệ.', 'INVALID_CATEGORY', 400);
-        }
-        if (normalizedCategoryId !== null) {
-          const [categories] = await dbPool.query<RowDataPacket[]>('SELECT id FROM categories WHERE id = ? LIMIT 1', [normalizedCategoryId]);
-          if (!categories.length) return ResponseView.error(res, 'Danh mục không tồn tại.', 'CATEGORY_NOT_FOUND', 400);
-        }
-        fields.push('category_id = ?');
-        params.push(normalizedCategoryId);
-      }
-
-      if (!fields.length) {
+    const parseResult = AdminThemeUpdateSchema.safeParse(req.body);
+    if (!parseResult.success) {
+      const issue = parseResult.error.issues[0];
+      const field = issue.path[0];
+      if (!Object.keys(req.body || {}).length) {
         return ResponseView.error(res, 'Không có trường dữ liệu hợp lệ để cập nhật.', 'NO_VALID_FIELDS', 400);
+      }
+      if (field === 'price_vnd' || field === 'price_usd') {
+        return ResponseView.error(res, 'Giá VND hoặc USD không hợp lệ.', 'INVALID_THEME_PRICE', 400);
+      }
+      if (field === 'category_id') {
+        return ResponseView.error(res, 'Danh mục theme không hợp lệ.', 'INVALID_CATEGORY', 400);
+      }
+      return ResponseView.error(res, 'Thông tin cập nhật theme không hợp lệ.', 'INVALID_THEME_INPUT', 400);
+    }
+
+    const {
+      name,
+      price_vnd,
+      price_usd,
+      status,
+      short_desc_vi,
+      live_demo_url,
+      thumbnail_url,
+      category_id,
+    } = parseResult.data;
+
+    const fields: string[] = [];
+    const params: any[] = [];
+
+    if (name !== undefined) {
+      fields.push('name = ?');
+      params.push(name);
+    }
+    if (price_vnd !== undefined) {
+      fields.push('price_vnd = ?');
+      params.push(price_vnd);
+    }
+    if (price_usd !== undefined) {
+      fields.push('price_usd = ?');
+      params.push(price_usd);
+    }
+    if (status !== undefined) {
+      fields.push('status = ?');
+      params.push(status);
+    }
+    if (short_desc_vi !== undefined) {
+      fields.push('short_desc_vi = ?');
+      params.push(short_desc_vi);
+    }
+    if (live_demo_url !== undefined) {
+      fields.push('live_demo_url = ?');
+      params.push(live_demo_url);
+    }
+    if (thumbnail_url !== undefined) {
+      fields.push('thumbnail_url = ?');
+      params.push(thumbnail_url);
+    }
+    if (category_id !== undefined) {
+      fields.push('category_id = ?');
+      params.push(category_id);
+    }
+
+    if (!fields.length) {
+      return ResponseView.error(res, 'Không có trường dữ liệu hợp lệ để cập nhật.', 'NO_VALID_FIELDS', 400);
+    }
+
+    try {
+      if (category_id !== undefined && category_id !== null) {
+        const [categories] = await dbPool.query<RowDataPacket[]>('SELECT id FROM categories WHERE id = ? LIMIT 1', [category_id]);
+        if (!categories.length) return ResponseView.error(res, 'Danh mục không tồn tại.', 'CATEGORY_NOT_FOUND', 400);
       }
 
       params.push(themeId);
@@ -603,6 +766,21 @@ export class AdminController {
 
       return ResponseView.success(res, { id: themeId, updated_fields: fields }, 'Cập nhật theme thành công.');
     } catch (error: any) {
+      if (isDbOffline(error)) {
+        const theme = fallbackAdminThemes.find(t => t.id === themeId);
+        if (!theme) {
+          return ResponseView.notFound(res, 'Theme không tồn tại hoặc không thay đổi.');
+        }
+        if (name !== undefined) theme.name = name;
+        if (price_vnd !== undefined) theme.price_vnd = price_vnd;
+        if (price_usd !== undefined) theme.price_usd = price_usd;
+        if (status !== undefined) theme.status = status;
+        if (short_desc_vi !== undefined) theme.short_desc_vi = short_desc_vi;
+        if (live_demo_url !== undefined) theme.live_demo_url = live_demo_url;
+        if (thumbnail_url !== undefined) theme.thumbnail_url = thumbnail_url;
+        if (category_id !== undefined) theme.category_id = category_id;
+        return ResponseView.success(res, { id: themeId, updated_fields: fields }, 'Cập nhật theme thành công.');
+      }
       return ResponseView.error(res, error.message || 'Lỗi cập nhật theme.', 'UPDATE_THEME_ERROR', 500);
     }
   }
@@ -734,12 +912,73 @@ export class AdminController {
       if (isDbOffline(error)) {
         const license = fallbackLicenses.find(l => l.license_key === req.params.licenseKey);
         if (!license) return ResponseView.notFound(res, 'Không tìm thấy license.');
+        const activations = fallbackActivations.filter(a => a.license_key === license.license_key && a.is_active === 1);
         return ResponseView.success(res, {
           ...license,
-          activations: [{ id: 1, license_id: 1, domain: 'mytestshop.local', ip_address: '127.0.0.1', is_active: 1, activated_at: license.created_at }],
+          activations,
         });
       }
       return ResponseView.error(res, error.message || 'Lỗi tải chi tiết license.', 'LICENSE_DETAIL_ERROR', 500);
+    }
+  }
+
+  /**
+   * Hủy kích hoạt Domain của License
+   * POST /api/v1/admin/licenses/:licenseKey/deactivate
+   */
+  static async deactivateLicenseDomain(req: AuthRequest, res: Response) {
+    const licenseKey = (req.params.licenseKey as string || '').trim();
+    if (!licenseKey) {
+      return ResponseView.error(res, 'Mã bản quyền không hợp lệ.', 'INVALID_LICENSE_KEY', 400);
+    }
+
+    const parseResult = AdminLicenseDeactivateSchema.safeParse(req.body);
+    if (!parseResult.success) {
+      return ResponseView.error(res, 'Tên miền không hợp lệ.', 'INVALID_DOMAIN', 400);
+    }
+
+    const cleanDomain = parseResult.data.domain.toLowerCase().replace(/^https?:\/\//, '').replace(/\/$/, '');
+
+    try {
+      const [licRows] = await dbPool.query<RowDataPacket[]>(
+        'SELECT id, license_key FROM licenses WHERE license_key = ? LIMIT 1',
+        [licenseKey]
+      );
+      if (!licRows.length) {
+        return ResponseView.notFound(res, 'Không tìm thấy license.');
+      }
+
+      const deactResult = await LicenseModel.deactivateDomain(licenseKey, cleanDomain);
+      if (!deactResult.success) {
+        return ResponseView.error(res, deactResult.message, 'DEACTIVATE_DOMAIN_FAILED', 400);
+      }
+
+      return ResponseView.success(res, {
+        license_key: licenseKey,
+        domain: cleanDomain,
+        is_active: 0,
+      }, deactResult.message);
+    } catch (error: any) {
+      if (isDbOffline(error)) {
+        const fallbackLic = fallbackLicenses.find(l => l.license_key === licenseKey);
+        if (!fallbackLic) {
+          return ResponseView.notFound(res, 'Không tìm thấy license.');
+        }
+        const act = fallbackActivations.find(
+          a => a.license_key === licenseKey && a.domain.toLowerCase() === cleanDomain && a.is_active === 1
+        );
+        if (!act) {
+          return ResponseView.error(res, 'Domain này hiện không kích hoạt trên License Key này.', 'DOMAIN_NOT_ACTIVE', 400);
+        }
+        act.is_active = 0;
+        fallbackLic.active_domains_count = Math.max(0, fallbackLic.active_domains_count - 1);
+        return ResponseView.success(res, {
+          license_key: licenseKey,
+          domain: cleanDomain,
+          is_active: 0,
+        }, `Đã hủy kích hoạt thành công domain: ${cleanDomain}`);
+      }
+      return ResponseView.error(res, error.message || 'Lỗi hủy kích hoạt domain.', 'DEACTIVATE_DOMAIN_ERROR', 500);
     }
   }
 
@@ -780,6 +1019,7 @@ export class AdminController {
       const [customerRows] = await dbPool.query<RowDataPacket[]>(
         `SELECT u.id, u.email, u.full_name, u.phone, u.role, u.status, u.country_code, u.created_at,
                 (SELECT COUNT(*) FROM orders o WHERE o.user_id = u.id) as orders_count,
+                (SELECT COUNT(*) FROM licenses l WHERE l.user_id = u.id) as licenses_count,
                 (SELECT COALESCE(SUM(total_amount), 0) FROM orders o WHERE o.user_id = u.id AND o.payment_status = 'paid' AND o.currency = 'VND') as total_spent_vnd,
                 (SELECT COALESCE(SUM(total_amount), 0) FROM orders o WHERE o.user_id = u.id AND o.payment_status = 'paid' AND o.currency = 'USD') as total_spent_usd
          FROM users u
@@ -796,6 +1036,7 @@ export class AdminController {
           total_spent_vnd: Number(c.total_spent_vnd),
           total_spent_usd: Number(c.total_spent_usd),
           orders_count: Number(c.orders_count),
+          licenses_count: Number(c.licenses_count || 0),
         })),
         pagination: {
           page,
@@ -831,6 +1072,7 @@ export class AdminController {
             country_code: 'VN',
             created_at: u.created_at,
             orders_count: u.id === 3 ? 1 : 0,
+            licenses_count: u.id === 3 ? 1 : 0,
             total_spent_vnd: u.id === 3 ? 599000 : 0,
             total_spent_usd: 0,
           }));
@@ -909,35 +1151,37 @@ export class AdminController {
    * POST /api/v1/admin/customers
    */
   static async createCustomer(req: AuthRequest, res: Response) {
-    try {
-      const { email, password, full_name, phone, role } = req.body || {};
-      const normalizedEmail = typeof email === 'string' ? email.trim().toLowerCase() : '';
-      const normalizedName = typeof full_name === 'string' ? full_name.trim() : '';
-      const normalizedPhone = typeof phone === 'string' && phone.trim() ? phone.trim() : undefined;
-      const normalizedRole = role === 'admin' || role === 'author' ? role : 'customer';
-
-      if (!normalizedEmail || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(normalizedEmail)) {
+    const parseResult = AdminCustomerCreateSchema.safeParse(req.body);
+    if (!parseResult.success) {
+      const issue = parseResult.error.issues[0];
+      const field = issue.path[0];
+      if (field === 'email') {
         return ResponseView.error(res, 'Email không hợp lệ.', 'INVALID_EMAIL', 400);
       }
-      if (!normalizedName || normalizedName.length < 2) {
+      if (field === 'full_name') {
         return ResponseView.error(res, 'Họ và tên phải có ít nhất 2 ký tự.', 'INVALID_FULL_NAME', 400);
       }
-      if (typeof password !== 'string' || password.length < 6) {
+      if (field === 'password') {
         return ResponseView.error(res, 'Mật khẩu phải chứa ít nhất 6 ký tự.', 'INVALID_PASSWORD', 400);
       }
+      return ResponseView.error(res, issue.message || 'Thông tin người dùng không hợp lệ.', 'INVALID_CUSTOMER_INPUT', 400);
+    }
 
-      const existing = await UserModel.findByEmail(normalizedEmail);
+    const { email, password, full_name, phone, role } = parseResult.data;
+
+    try {
+      const existing = await UserModel.findByEmail(email);
       if (existing) {
         return ResponseView.error(res, 'Email này đã tồn tại trong hệ thống.', 'EMAIL_EXISTS', 409);
       }
 
       const password_hash = await bcrypt.hash(password, 10);
       const userId = await UserModel.create({
-        email: normalizedEmail,
+        email,
         password_hash,
-        full_name: normalizedName,
-        phone: normalizedPhone,
-        role: normalizedRole,
+        full_name,
+        phone: phone || undefined,
+        role: role || 'customer',
       });
 
       const user = await UserModel.findById(userId);
@@ -957,10 +1201,12 @@ export class AdminController {
       return ResponseView.error(res, 'ID người dùng không hợp lệ.', 'INVALID_ID', 400);
     }
 
-    const { role } = req.body;
-    if (!['customer', 'admin', 'author'].includes(role)) {
+    const parseResult = AdminCustomerRoleSchema.safeParse(req.body);
+    if (!parseResult.success) {
       return ResponseView.error(res, 'Vai trò không hợp lệ. Chỉ chấp nhận customer, author hoặc admin.', 'INVALID_ROLE', 400);
     }
+
+    const { role } = parseResult.data;
 
     if (req.user?.id === userId && role !== 'admin') {
       return ResponseView.error(res, 'Không thể tự hạ quyền quản trị của chính tài khoản đang đăng nhập.', 'SELF_DEMOTION_FORBIDDEN', 400);

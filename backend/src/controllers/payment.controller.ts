@@ -8,6 +8,7 @@ import { PaymentFulfillmentService } from '../services/payment-fulfillment.servi
 import { ResponseView } from '../views/response.view.js';
 import { SepayWebhookSchema } from '../validators/payment.validator.js';
 import { SecurityLogger } from '../middlewares/security.middleware.js';
+import { ENV } from '../config/env.js';
 import crypto from 'crypto';
 
 export class PaymentController {
@@ -91,79 +92,31 @@ export class PaymentController {
         }
       }
 
-      let fulfilled = false;
-      let licenses: any[] = [];
+      const result = await PaymentFulfillmentService.fulfillVietQr({
+        orderNumber,
+        transactionId: safeTransactionId,
+        paidAmount: Number(transferAmount),
+        transactionDate,
+        accountNumber,
+      });
 
-      try {
-        const result = await PaymentFulfillmentService.fulfillVietQr({
-          orderNumber,
+      if (result.status === 'already_processed') {
+        return res.status(200).json({ success: true, message: 'Đơn hàng đã được xử lý trước đó' });
+      }
+
+      if (result.status === 'rejected') {
+        SecurityLogger.alert('WEBHOOK_REJECTED', {
           transactionId: safeTransactionId,
-          paidAmount: Number(transferAmount),
-          transactionDate,
-          accountNumber,
+          orderNumber: result.orderNumber,
+          code: result.code,
         });
-
-        if (result.status === 'already_processed') {
-          return res.status(200).json({ success: true, message: 'Đơn hàng đã được xử lý trước đó' });
-        }
-
-        if (result.status === 'fulfilled') {
-          fulfilled = true;
-          if (order) {
-            licenses = await LicenseModel.findByOrderId(order.id);
-          }
-        } else if (result.status === 'rejected') {
-          SecurityLogger.alert('WEBHOOK_REJECTED', {
-            transactionId: safeTransactionId,
-            orderNumber: result.orderNumber,
-            code: result.code,
-          });
-          return res.status(200).json({ success: true, message: 'Webhook không khớp đơn hàng; đã ghi nhận để đối soát.' });
-        }
-      } catch (err: any) {
-        console.warn('[PaymentController.handleSepayWebhook] fulfillVietQr fallback:', err.message);
+        return res.status(200).json({ success: true, message: 'Webhook không khớp đơn hàng; đã ghi nhận để đối soát.' });
       }
 
-      if (!fulfilled && order) {
-        // Fallback in-memory fulfillment when DB connection is offline
-        await OrderModel.markAsPaid(order.id);
-        const licenseKey = LicenseService.generateKey();
-        await LicenseModel.create({
-          license_key: licenseKey,
-          order_id: order.id,
-          theme_id: order.items?.[0]?.theme_id || 1,
-          user_id: order.user_id || null,
-          license_type: 'regular',
-          max_domains: 1,
-        });
-        licenses = [{
-          license_key: licenseKey,
-          licenseKey: licenseKey,
-          themeId: order.items?.[0]?.theme_id || 1,
-          licenseType: 'regular',
-        }];
-        fulfilled = true;
-      }
-
-      if (fulfilled) {
-        if (licenses.length === 0) {
-          const licenseKey = LicenseService.generateKey();
-          if (order) {
-            await LicenseModel.create({
-              license_key: licenseKey,
-              order_id: order.id,
-              theme_id: order.items?.[0]?.theme_id || 1,
-              user_id: order.user_id || null,
-              license_type: 'regular',
-              max_domains: 1,
-            });
-          }
-          licenses = [{
-            license_key: licenseKey,
-            licenseKey: licenseKey,
-            themeId: order?.items?.[0]?.theme_id || 1,
-            licenseType: 'regular',
-          }];
+      if (result.status === 'fulfilled') {
+        let licenses: any[] = [];
+        if (order) {
+          licenses = await LicenseModel.findByOrderId(order.id);
         }
         const formattedLicenses = licenses.map((l: any) => ({
           licenseKey: l.license_key || l.licenseKey,
@@ -185,6 +138,40 @@ export class PaymentController {
     } catch (error: any) {
       SecurityLogger.alert('SEPAY_FULFILLMENT_UNAVAILABLE', { transactionId, orderNumber });
       return res.status(503).json({ success: false, message: 'Chưa thể đối soát thanh toán. SePAY sẽ thử lại.' });
+    }
+  }
+
+  /**
+   * Xác thực HMAC-SHA256 signature của Stripe Webhook với timingSafeEqual
+   */
+  static verifyStripeSignature(payload: string, header: string, secret: string): boolean {
+    try {
+      if (header.includes('t=') && header.includes('v1=')) {
+        const parts = header.split(',');
+        let timestamp = '';
+        let sig = '';
+        for (const p of parts) {
+          const [k, v] = p.trim().split('=');
+          if (k === 't') timestamp = v;
+          if (k === 'v1') sig = v;
+        }
+        if (!timestamp || !sig) return false;
+        const signedPayload = `${timestamp}.${payload}`;
+        const computed = crypto.createHmac('sha256', secret).update(signedPayload).digest('hex');
+        const bufA = Buffer.from(sig, 'hex');
+        const bufB = Buffer.from(computed, 'hex');
+        if (bufA.length !== bufB.length) return false;
+        return crypto.timingSafeEqual(bufA, bufB);
+      } else {
+        const cleanSig = header.trim();
+        const computed = crypto.createHmac('sha256', secret).update(payload).digest('hex');
+        const bufA = Buffer.from(cleanSig, 'hex');
+        const bufB = Buffer.from(computed, 'hex');
+        if (bufA.length !== bufB.length) return false;
+        return crypto.timingSafeEqual(bufA, bufB);
+      }
+    } catch {
+      return false;
     }
   }
 
@@ -221,47 +208,115 @@ export class PaymentController {
   }
 
   /**
-   * Webhook Stripe xử lý sự kiện thanh toán thẻ hoàn tất
+   * Webhook Stripe xử lý sự kiện thanh toán thẻ hoàn tất với chữ ký bảo mật và đối soát số tiền
    */
   static async handleStripeWebhook(req: Request, res: Response) {
     try {
+      const signatureHeader = (req.headers['stripe-signature'] as string | undefined)?.trim();
+      if (!signatureHeader) {
+        SecurityLogger.alert('STRIPE_WEBHOOK_UNSIGNED', { ip: req.ip || req.headers['x-forwarded-for'] });
+        return res.status(401).json({ error: 'Missing stripe-signature header' });
+      }
+
+      const secret = ENV.PAYMENTS.STRIPE_WEBHOOK_SECRET || process.env.STRIPE_WEBHOOK_SECRET;
+      if (!secret) {
+        SecurityLogger.alert('STRIPE_WEBHOOK_UNCONFIGURED', 'Stripe webhook secret chưa được cấu hình');
+        return res.status(503).json({ error: 'Stripe webhook secret is not configured' });
+      }
+
+      const rawPayload = typeof (req as any).rawBody === 'string'
+        ? (req as any).rawBody
+        : Buffer.isBuffer((req as any).rawBody)
+          ? (req as any).rawBody.toString('utf8')
+          : JSON.stringify(req.body);
+
+      const isValidSignature = PaymentController.verifyStripeSignature(rawPayload, signatureHeader, secret);
+      if (!isValidSignature) {
+        SecurityLogger.alert('STRIPE_WEBHOOK_INVALID_SIGNATURE', { ip: req.ip || req.headers['x-forwarded-for'] });
+        return res.status(401).json({ error: 'Invalid stripe-signature header' });
+      }
+
       const event = req.body;
+      if (!event || typeof event !== 'object') {
+        return res.status(400).json({ error: 'Invalid webhook payload structure' });
+      }
+
       const eventType = event.type || 'checkout.session.completed';
       const eventId = event.id || `evt_${Date.now()}`;
 
-      console.log(`[Stripe Webhook] Nhận sự kiện: ${eventType} (#${eventId})`);
+      if (eventType !== 'checkout.session.completed' && eventType !== 'payment_intent.succeeded') {
+        return res.status(200).json({ received: true, ignored: true });
+      }
 
       const session = event.data?.object || event;
       const orderNumber = session.metadata?.orderNumber || session.client_reference_id;
 
-      if (orderNumber) {
-        const order = await OrderModel.findByOrderNumber(orderNumber);
-        if (order && order.payment_status !== 'paid') {
-          await OrderModel.markAsPaid(order.id);
+      if (!orderNumber) {
+        return res.status(400).json({ error: 'Missing order reference (client_reference_id or metadata.orderNumber)' });
+      }
 
-          await PaymentModel.create({
-            order_id: order.id,
-            transaction_id: eventId,
-            gateway: 'stripe',
-            amount: order.total_amount,
-            currency: 'USD',
-            status: 'completed',
-            raw_payload: event,
+      const order = await OrderModel.findByOrderNumber(orderNumber);
+      if (!order) {
+        return res.status(404).json({ error: 'Không tìm thấy đơn hàng tương ứng' });
+      }
+
+      // Kiểm tra đơn vị tiền tệ
+      if (session.currency && session.currency.toUpperCase() !== order.currency.toUpperCase()) {
+        SecurityLogger.alert('STRIPE_CURRENCY_MISMATCH', {
+          orderNumber,
+          expected: order.currency,
+          received: session.currency,
+        });
+        return res.status(400).json({ error: 'Đơn vị tiền tệ thanh toán không khớp đơn hàng' });
+      }
+
+      // Kiểm tra số tiền chuyển khoản khớp với giá trị đơn hàng
+      const paidAmount = session.amount_total !== undefined ? session.amount_total : session.amount;
+      if (paidAmount !== undefined) {
+        const orderAmount = Number(order.total_amount);
+        const matchesStandard = paidAmount === orderAmount;
+        const matchesCents = paidAmount === Math.round(orderAmount * 100);
+        if (!matchesStandard && !matchesCents) {
+          SecurityLogger.alert('STRIPE_AMOUNT_MISMATCH', {
+            orderNumber,
+            expected: orderAmount,
+            received: paidAmount,
           });
-
-          // Cấp license key
-          const licenseKey = LicenseService.generateKey();
-          await LicenseModel.create({
-            license_key: licenseKey,
-            order_id: order.id,
-            theme_id: 1,
-            user_id: order.user_id,
-            license_type: 'regular',
-            max_domains: 1,
-          });
-
-          console.log(`[Stripe Webhook] Đơn ${orderNumber} đã thanh toán thành công và cấp key: ${licenseKey}`);
+          return res.status(400).json({ error: 'Số tiền thanh toán không khớp với tổng tiền đơn hàng' });
         }
+      }
+
+      if (order.payment_status === 'paid') {
+        return res.status(200).json({ received: true, message: 'Đơn hàng đã được xử lý trước đó' });
+      }
+
+      await OrderModel.markAsPaid(order.id);
+
+      await PaymentModel.create({
+        order_id: order.id,
+        transaction_id: eventId,
+        gateway: 'stripe',
+        amount: order.total_amount,
+        currency: order.currency || 'USD',
+        status: 'completed',
+        raw_payload: event,
+      });
+
+      // Cấp license key
+      const items = order.items && order.items.length > 0
+        ? order.items
+        : [{ theme_id: 1, license_type: 'regular' as const }];
+
+      for (const item of items) {
+        const licenseKey = LicenseService.generateKey();
+        await LicenseModel.create({
+          license_key: licenseKey,
+          order_id: order.id,
+          theme_id: item.theme_id || 1,
+          user_id: order.user_id || null,
+          license_type: item.license_type || 'regular',
+          max_domains: 1,
+        });
       }
 
       return res.status(200).json({ received: true });

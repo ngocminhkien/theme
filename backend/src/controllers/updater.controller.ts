@@ -68,6 +68,15 @@ export class UpdaterController {
         return ResponseView.unauthorized(res, 'License Key không hợp lệ hoặc đã hết hạn.');
       }
 
+      if (!StorageService.isConfigured()) {
+        return ResponseView.error(
+          res,
+          'Kho tệp tải bảo mật chưa được cấu hình. License của bạn vẫn hợp lệ; vui lòng thử lại sau.',
+          'DOWNLOAD_NOT_CONFIGURED',
+          503
+        );
+      }
+
       const clientIp = req.ip || (req.headers['x-forwarded-for'] as string) || '127.0.0.1';
       const userAgent = req.headers['user-agent'] || 'WordPress/PUC';
 

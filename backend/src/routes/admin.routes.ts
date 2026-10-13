@@ -14,6 +14,7 @@ adminRouter.get('/analytics', AdminController.getAnalytics);
 // Quản lý Đơn hàng
 adminRouter.get('/orders', AdminController.getOrders);
 adminRouter.get('/orders/:orderNumber', AdminController.getOrderDetail);
+adminRouter.patch('/orders/:orderNumber/status', AdminController.updateOrderStatus);
 
 // Quản lý Themes
 adminRouter.get('/themes', AdminController.getThemes);
@@ -25,6 +26,7 @@ adminRouter.get('/categories', AdminController.getCategories);
 // Quản lý Licenses
 adminRouter.get('/licenses', AdminController.getLicenses);
 adminRouter.get('/licenses/:licenseKey', AdminController.getLicenseDetail);
+adminRouter.post('/licenses/:licenseKey/deactivate', AdminController.deactivateLicenseDomain);
 
 // Quản lý Người dùng & Khách hàng
 adminRouter.get('/customers', AdminController.getCustomers);

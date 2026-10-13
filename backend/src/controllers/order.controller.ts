@@ -9,6 +9,15 @@ import { CheckoutOrderSchema, DirectCheckoutSchema } from '../validators/payment
 import { ENV } from '../config/env.js';
 import { AuthRequest } from '../middlewares/auth.middleware.js';
 
+function maskLicenseKey(key: string): string {
+  if (!key) return '';
+  const parts = key.split('-');
+  if (parts.length === 5) {
+    return `${parts[0]}-${parts[1]}-****-****-${parts[4]}`;
+  }
+  return key.length > 8 ? `${key.slice(0, 7)}****-****` : '****';
+}
+
 function checkoutResponse(order: Order) {
   return {
     orderId: order.id,
@@ -109,33 +118,37 @@ export class OrderController {
       }
       const data = parsed.data;
 
-      // Kiểm tra bảo mật chống tấn công can thiệp sửa giá (Anti-Price Tampering)
-      if (data.theme_id) {
-        const theme = await ThemeModel.findById(data.theme_id);
-        if (theme) {
-          const expectedPrice = data.currency === 'USD' ? theme.price_usd : theme.price_vnd;
-          if (data.total_amount < expectedPrice * 0.9) {
-            return ResponseView.error(res, 'Giá đơn hàng không khớp với giá niêm yết', 'PRICE_TAMPERING_DETECTED', 400);
-          }
-        }
+      // Kiểm tra bảo mật chống tấn công can thiệp sửa giá & thiếu theme_id
+      if (!data.theme_id) {
+        return ResponseView.error(res, 'Vui lòng chọn sản phẩm hợp lệ', 'THEME_REQUIRED', 400);
+      }
+
+      const theme = await ThemeModel.findById(data.theme_id);
+      if (!theme) {
+        return ResponseView.error(res, 'Sản phẩm không tồn tại trong hệ thống', 'THEME_NOT_FOUND', 400);
+      }
+
+      const expectedPrice = Number(data.currency === 'USD' ? theme.price_usd : theme.price_vnd);
+      if (data.total_amount !== expectedPrice) {
+        return ResponseView.error(res, 'Giá đơn hàng không khớp với giá niêm yết', 'PRICE_TAMPERING_DETECTED', 400);
       }
 
       const dateStr = new Date().toISOString().slice(0, 10).replace(/-/g, '');
       const hexStr = crypto.randomBytes(3).toString('hex').toUpperCase();
       const orderNumber = `OD-${dateStr}-${hexStr}`;
 
-      const items = data.theme_id ? [{
+      const items = [{
         theme_id: data.theme_id,
         license_type: data.license_type || 'regular',
-        unit_price: data.total_amount,
-      }] : [];
+        unit_price: expectedPrice,
+      }];
 
       const { orderId } = await OrderModel.createWithItems({
         order_number: orderNumber,
         customer_name: data.customer_name,
         customer_email: data.customer_email,
         customer_phone: data.customer_phone || null,
-        total_amount: data.total_amount,
+        total_amount: expectedPrice,
         currency: data.currency,
         payment_method: data.payment_method,
         user_id: req.user?.id || null,
@@ -144,13 +157,13 @@ export class OrderController {
       });
 
       const vietQrUrl = data.payment_method === 'vietqr'
-        ? SePayService.generateVietQrUrl(orderNumber, data.total_amount)
+        ? SePayService.generateVietQrUrl(orderNumber, expectedPrice)
         : null;
 
       return ResponseView.created(res, {
         orderId,
         orderNumber,
-        total_amount: data.total_amount,
+        total_amount: expectedPrice,
         currency: data.currency,
         payment_method: data.payment_method,
         payment_status: 'pending',
@@ -235,19 +248,24 @@ export class OrderController {
       if (order.payment_status === 'paid') {
         licenses = await LicenseModel.findByOrderId(order.id);
       }
+      const isOwner = Boolean(req.user && order.user_id && req.user.id === order.user_id);
       return ResponseView.success(res, {
         orderNumber: order.order_number,
         payment_status: order.payment_status,
         order_status: order.order_status,
         currency: order.currency,
         total_amount: Number(order.total_amount),
-        licenses: licenses.map(l => ({
-          license_key: l.license_key,
-          licenseKey: l.license_key,
-          license_type: l.license_type,
-          max_domains: l.max_domains,
-          theme_name: l.theme_name,
-        })),
+        licenses: licenses.map(l => {
+          const key = isOwner ? l.license_key : maskLicenseKey(l.license_key);
+          return {
+            license_key: key,
+            licenseKey: key,
+            license_type: l.license_type,
+            max_domains: l.max_domains,
+            theme_name: l.theme_name,
+            masked: !isOwner,
+          };
+        }),
       });
     } catch {
       return ResponseView.error(res, 'Chưa kiểm tra được trạng thái đơn hàng. Vui lòng thử lại.', 'ORDER_STATUS_UNAVAILABLE', 503);

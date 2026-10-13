@@ -18,8 +18,8 @@ export function FloatingWidgets() {
   const [isPromoOpen, setIsPromoOpen] = useState(false);
   const [copied, setCopied] = useState(false);
 
-  // Không hiển thị cụm widget nổi trên trang Live Preview để tránh che thanh điều khiển demo iframe
-  if (pathname?.startsWith('/preview')) {
+  // Không hiển thị cụm widget nổi trên trang Live Preview hoặc trang Admin để tránh che giao diện
+  if (pathname?.startsWith('/preview') || pathname?.startsWith('/admin')) {
     return null;
   }
 

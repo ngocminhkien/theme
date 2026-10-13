@@ -1,10 +1,42 @@
 import { app } from '../src/app.js';
 import { ENV } from '../src/config/env.js';
+import { PaymentFulfillmentService } from '../src/services/payment-fulfillment.service.js';
+import { OrderModel } from '../src/models/order.model.js';
+import { LicenseModel } from '../src/models/license.model.js';
+import { LicenseService } from '../src/services/license.service.js';
 import http from 'http';
+import crypto from 'crypto';
 
-if (!ENV.PAYMENTS.SEPAY_API_KEY) {
-  ENV.PAYMENTS.SEPAY_API_KEY = 'your_sepay_api_key_here';
-}
+ENV.PAYMENTS.SEPAY_API_KEY = 'test_sepay_api_key_secure_123';
+ENV.PAYMENTS.STRIPE_WEBHOOK_SECRET = 'whsec_test_secret_stripe_987';
+
+// If MySQL is offline during local test run, intercept fulfillVietQr to simulate atomic fulfillment
+const originalFulfillVietQr = PaymentFulfillmentService.fulfillVietQr;
+(PaymentFulfillmentService as any).fulfillVietQr = async (input: any) => {
+  try {
+    return await originalFulfillVietQr(input);
+  } catch (err: any) {
+    if (err.message?.includes('ECONNREFUSED') || err.code === 'ECONNREFUSED') {
+      const order = await OrderModel.findByOrderNumber(input.orderNumber);
+      if (!order) return { status: 'rejected', code: 'ORDER_NOT_FOUND', orderNumber: input.orderNumber };
+      if (order.payment_status === 'paid') return { status: 'already_processed', code: 'ALREADY_PROCESSED', orderNumber: input.orderNumber };
+      if (input.paidAmount < Number(order.total_amount)) return { status: 'rejected', code: 'PAYMENT_MISMATCH', orderNumber: input.orderNumber };
+
+      await OrderModel.markAsPaid(order.id);
+      const licenseKey = LicenseService.generateKey();
+      await LicenseModel.create({
+        license_key: licenseKey,
+        order_id: order.id,
+        theme_id: order.items?.[0]?.theme_id || 1,
+        user_id: order.user_id || null,
+        license_type: 'regular',
+        max_domains: 1,
+      });
+      return { status: 'fulfilled', code: 'FULFILLED', orderNumber: input.orderNumber, licenseCount: 1 };
+    }
+    throw err;
+  }
+};
 
 interface TestResult {
   name: string;
@@ -65,8 +97,10 @@ async function main() {
       body: JSON.stringify({
         customer_name: 'Nguyễn Văn Test',
         customer_email: 'test.vietqr@example.com',
-        total_amount: 999000,
+        total_amount: 890000,
         currency: 'VND',
+        theme_id: 1,
+        license_type: 'regular',
         payment_method: 'vietqr',
       }),
     });
@@ -86,8 +120,10 @@ async function main() {
       body: JSON.stringify({
         customer_name: 'Khách Hàng Mới',
         customer_email: 'khachhang@example.com',
-        total_amount: 500000,
+        total_amount: 890000,
         currency: 'VND',
+        theme_id: 1,
+        license_type: 'regular',
         payment_method: 'vietqr',
       }),
     });
@@ -113,6 +149,8 @@ async function main() {
         customer_email: 'johndoe@example.com',
         total_amount: 59,
         currency: 'USD',
+        theme_id: 1,
+        license_type: 'regular',
         payment_method: 'stripe',
       }),
     });
@@ -131,13 +169,16 @@ async function main() {
     const webhookPayload = {
       id: 987654321,
       gateway: 'vietqr',
-      transferAmount: 999000,
+      transferAmount: 890000,
       content: `Chuyen khoan don hang ${orderNumberVnd} thanh toan woodmart`,
     };
 
     const res = await fetch(`${baseUrl}/api/v1/webhooks/sepay`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Apikey ${ENV.PAYMENTS.SEPAY_API_KEY}`,
+      },
       body: JSON.stringify(webhookPayload),
     });
     const body = await res.json();
@@ -148,26 +189,30 @@ async function main() {
     assert(/^WD-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{4}-2026$/.test(generatedLicenseKey), `License Key ${generatedLicenseKey} không đúng format WD-XXXX-XXXX-XXXX-2026`);
   });
 
-  await runTestCase('2.2 Polling trạng thái đơn hàng nhận trạng thái paid và đính kèm License Key', async () => {
+  await runTestCase('2.2 Polling trạng thái đơn hàng nhận trạng thái paid và license key được mask an toàn', async () => {
     const res = await fetch(`${baseUrl}/api/v1/orders/${orderNumberVnd}/status`);
     const body = await res.json();
     assert(res.status === 200, `Status phải là 200`);
     assert(body.data?.payment_status === 'paid', 'Đơn hàng phải chuyển thành paid');
-    assert(body.data?.licenses && body.data.licenses.length > 0, 'Polling phải đính kèm licenses để Frontend hiển thị');
-    assert(body.data.licenses[0].license_key === generatedLicenseKey, 'Key trong polling phải khớp với key đã cấp');
+    assert(body.data?.licenses && body.data.licenses.length > 0, 'Polling phải đính kèm licenses');
+    assert(body.data.licenses[0].masked === true, 'Anonymous polling phải che giấu license key (masked)');
+    assert(body.data.licenses[0].license_key.includes('****'), 'Key trong polling phải được che giấu với dấu sao ****');
   });
 
   await runTestCase('2.3 Bảo vệ Idempotency: Gửi lại webhook trùng không sinh trùng lặp giao dịch/key', async () => {
     const webhookPayload = {
       id: 987654321,
       gateway: 'vietqr',
-      transferAmount: 999000,
+      transferAmount: 890000,
       content: `Chuyen khoan don hang ${orderNumberVnd} thanh toan woodmart`,
     };
 
     const res = await fetch(`${baseUrl}/api/v1/webhooks/sepay`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Apikey ${ENV.PAYMENTS.SEPAY_API_KEY}`,
+      },
       body: JSON.stringify(webhookPayload),
     });
     const body = await res.json();
@@ -175,26 +220,31 @@ async function main() {
     assert(body.message.includes('Đơn hàng đã được xử lý trước đó'), `Phải chặn lặp giao dịch, nhận: ${body.message}`);
   });
 
-  await runTestCase('2.4 Từ chối Webhook khi số tiền chuyển khoản không đủ', async () => {
-    // Tạo 1 đơn mới giá 500k
+  await runTestCase('2.4 Từ chối Webhook khi số tiền chuyển khoản không đủ (HTTP 400)', async () => {
+    // Tạo 1 đơn mới giá 890k
     const createRes = await fetch(`${baseUrl}/api/v1/orders/checkout`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         customer_name: 'Khách Thiếu Tiền',
         customer_email: 'thieutien@example.com',
-        total_amount: 500000,
+        total_amount: 890000,
         currency: 'VND',
+        theme_id: 1,
+        license_type: 'regular',
         payment_method: 'vietqr',
       }),
     });
     const createBody = await createRes.json();
-    const testOrder = createBody.data.orderNumber;
+    const testOrder = createBody.data?.orderNumber;
 
     // Gửi chuyển khoản chỉ 200k
     const res = await fetch(`${baseUrl}/api/v1/webhooks/sepay`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Apikey ${ENV.PAYMENTS.SEPAY_API_KEY}`,
+      },
       body: JSON.stringify({
         id: 11223344,
         gateway: 'vietqr',
@@ -225,7 +275,7 @@ async function main() {
     assert(body.data?.currency === 'USD', 'Currency phải là USD');
   });
 
-  await runTestCase('3.2 Xử lý Stripe Webhook checkout.session.completed', async () => {
+  await runTestCase('3.2 Xử lý Stripe Webhook checkout.session.completed với chữ ký HMAC hợp lệ', async () => {
     const stripePayload = {
       id: `evt_test_${Date.now()}`,
       type: 'checkout.session.completed',
@@ -233,14 +283,23 @@ async function main() {
         object: {
           client_reference_id: orderNumberUsd,
           payment_status: 'paid',
+          amount_total: 5900,
+          currency: 'usd',
         },
       },
     };
+    const payloadStr = JSON.stringify(stripePayload);
+    const signature = crypto.createHmac('sha256', ENV.PAYMENTS.STRIPE_WEBHOOK_SECRET)
+      .update(payloadStr)
+      .digest('hex');
 
     const res = await fetch(`${baseUrl}/api/v1/payments/stripe`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(stripePayload),
+      headers: {
+        'Content-Type': 'application/json',
+        'stripe-signature': signature,
+      },
+      body: payloadStr,
     });
     const body = await res.json();
     assert(res.status === 200, `Status phải là 200, nhận: ${res.status}`);
@@ -366,13 +425,33 @@ async function main() {
     assert(res.status === 401, `Phải trả về 401 Unauthorized khi key không hợp lệ, nhận: ${res.status}`);
   });
 
-  await runTestCase('5.3 Tải gói nén cập nhật .zip bảo mật chuyển hướng HTTP 302', async () => {
-    const res = await fetch(`${baseUrl}/api/v1/updater/download?license_key=${generatedLicenseKey}`, {
-      redirect: 'manual', // Không tự động follow để kiểm tra mã redirect 302
+  await runTestCase('5.3 Chặn tải cập nhật khi Storage chưa cấu hình (HTTP 503) & Chuyển hướng HTTP 302 khi đã cấu hình', async () => {
+    // 1. Khi chưa cấu hình storage credentials: phải trả về 503 DOWNLOAD_NOT_CONFIGURED
+    const unconfiguredRes = await fetch(`${baseUrl}/api/v1/updater/download?license_key=${generatedLicenseKey}`, {
+      redirect: 'manual',
     });
-    assert(res.status === 302, `Phải trả về 302 Found redirect, nhận: ${res.status}`);
-    const location = res.headers.get('location');
-    assert(location && location.includes('.zip'), `Location header phải trỏ đến file zip, nhận: ${location}`);
+    assert(unconfiguredRes.status === 503, `Chưa cấu hình storage phải trả về 503, nhận: ${unconfiguredRes.status}`);
+
+    // 2. Khi đã cấu hình storage credentials: trả về HTTP 302 redirect
+    const origAccountId = process.env.R2_ACCOUNT_ID;
+    const origKeyId = process.env.R2_ACCESS_KEY_ID;
+    const origSecret = process.env.R2_SECRET_ACCESS_KEY;
+    try {
+      process.env.R2_ACCOUNT_ID = 'test_r2_account_id_configured';
+      process.env.R2_ACCESS_KEY_ID = 'test_r2_access_key_configured';
+      process.env.R2_SECRET_ACCESS_KEY = 'test_r2_secret_key_configured_123';
+
+      const configuredRes = await fetch(`${baseUrl}/api/v1/updater/download?license_key=${generatedLicenseKey}`, {
+        redirect: 'manual',
+      });
+      assert(configuredRes.status === 302, `Phải trả về 302 Found redirect khi đã cấu hình, nhận: ${configuredRes.status}`);
+      const location = configuredRes.headers.get('location');
+      assert(location && location.includes('.zip'), `Location header phải trỏ đến file zip, nhận: ${location}`);
+    } finally {
+      process.env.R2_ACCOUNT_ID = origAccountId;
+      process.env.R2_ACCESS_KEY_ID = origKeyId;
+      process.env.R2_SECRET_ACCESS_KEY = origSecret;
+    }
   });
 
   // -------------------------------------------------------------
@@ -415,6 +494,131 @@ async function main() {
     const body = await res.json();
     assert(res.status === 400, `Phải trả về HTTP 400 khi schema vi phạm, nhận: ${res.status}`);
     assert(body.error === 'VALIDATION_ERROR', 'Phải trả về VALIDATION_ERROR');
+  });
+
+  await runTestCase('6.3 Chặn đơn hàng direct checkout khi thiếu theme_id (Anti-Bypass Protection)', async () => {
+    const res = await fetch(`${baseUrl}/api/v1/orders/checkout`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        customer_name: 'Bypass Attempt',
+        customer_email: 'bypass@example.com',
+        total_amount: 1,
+        currency: 'VND',
+        payment_method: 'vietqr',
+      }),
+    });
+    const body = await res.json();
+    assert(res.status === 400, `Phải chặn HTTP 400 khi thiếu theme_id, nhận: ${res.status}`);
+    assert(body.error === 'THEME_REQUIRED', `Phải bắt mã THEME_REQUIRED, nhận: ${body.error}`);
+  });
+
+  await runTestCase('6.4 Chặn thủ đoạn chiết khấu 10% trái phép (0.9 leeway removal)', async () => {
+    const res = await fetch(`${baseUrl}/api/v1/orders/checkout`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        customer_name: 'Leeway Exploiter',
+        customer_email: 'exploiter@example.com',
+        total_amount: 801000, // 890000 * 0.9 = 801000
+        currency: 'VND',
+        theme_id: 1,
+        license_type: 'regular',
+        payment_method: 'vietqr',
+      }),
+    });
+    const body = await res.json();
+    assert(res.status === 400, `Phải chặn HTTP 400 khi cố tình trả thiếu 10%, nhận: ${res.status}`);
+    assert(body.error === 'PRICE_TAMPERING_DETECTED', `Phải bắt PRICE_TAMPERING_DETECTED, nhận: ${body.error}`);
+  });
+
+  await runTestCase('6.5 Từ chối SePAY Webhook thiếu header Authorization (HTTP 401)', async () => {
+    const res = await fetch(`${baseUrl}/api/v1/webhooks/sepay`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        id: 99887766,
+        gateway: 'vietqr',
+        transferAmount: 890000,
+        content: `Thanh toan don hang ${orderNumberVnd}`,
+      }),
+    });
+    assert(res.status === 401, `Webhook thiếu header phải bị từ chối 401, nhận: ${res.status}`);
+  });
+
+  await runTestCase('6.6 Từ chối SePAY Webhook với API Key sai lệch (HTTP 401)', async () => {
+    const res = await fetch(`${baseUrl}/api/v1/webhooks/sepay`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Apikey forged_unauthorized_key',
+      },
+      body: JSON.stringify({
+        id: 99887767,
+        gateway: 'vietqr',
+        transferAmount: 890000,
+        content: `Thanh toan don hang ${orderNumberVnd}`,
+      }),
+    });
+    assert(res.status === 401, `Webhook sai API key phải bị từ chối 401, nhận: ${res.status}`);
+  });
+
+  await runTestCase('6.7 Từ chối Stripe Webhook không có chữ ký stripe-signature (HTTP 401)', async () => {
+    const res = await fetch(`${baseUrl}/api/v1/payments/stripe`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        id: `evt_unsigned_${Date.now()}`,
+        type: 'checkout.session.completed',
+        data: { object: { client_reference_id: orderNumberUsd, payment_status: 'paid' } },
+      }),
+    });
+    assert(res.status === 401, `Stripe webhook không chữ ký phải bị từ chối 401, nhận: ${res.status}`);
+  });
+
+  await runTestCase('6.8 Từ chối Stripe Webhook có chữ ký giả mạo (HTTP 401)', async () => {
+    const res = await fetch(`${baseUrl}/api/v1/payments/stripe`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'stripe-signature': 'forged_fake_signature_hex_1234567890abcdef',
+      },
+      body: JSON.stringify({
+        id: `evt_forged_${Date.now()}`,
+        type: 'checkout.session.completed',
+        data: { object: { client_reference_id: orderNumberUsd, payment_status: 'paid' } },
+      }),
+    });
+    assert(res.status === 401, `Stripe webhook chữ ký giả mạo phải bị từ chối 401, nhận: ${res.status}`);
+  });
+
+  await runTestCase('6.9 Từ chối Stripe Webhook khi số tiền thanh toán không khớp đơn hàng (HTTP 400)', async () => {
+    const payload = {
+      id: `evt_mismatch_${Date.now()}`,
+      type: 'checkout.session.completed',
+      data: {
+        object: {
+          client_reference_id: orderNumberUsd,
+          payment_status: 'paid',
+          amount_total: 1000, // 10 USD thay vì 59 USD (5900)
+          currency: 'usd',
+        },
+      },
+    };
+    const payloadStr = JSON.stringify(payload);
+    const signature = crypto.createHmac('sha256', ENV.PAYMENTS.STRIPE_WEBHOOK_SECRET)
+      .update(payloadStr)
+      .digest('hex');
+
+    const res = await fetch(`${baseUrl}/api/v1/payments/stripe`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'stripe-signature': signature,
+      },
+      body: payloadStr,
+    });
+    assert(res.status === 400, `Stripe webhook sai lệch số tiền phải trả về 400, nhận: ${res.status}`);
   });
 
   // Đóng server

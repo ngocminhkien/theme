@@ -166,57 +166,105 @@ export class LicenseModel {
     domain: string,
     ipAddress?: string
   ): Promise<{ success: boolean; message: string; remainingDomains?: number }> {
-    const license = await this.findByKey(licenseKey);
-    if (!license) {
-      return { success: false, message: 'License Key không tồn tại trên hệ thống.' };
-    }
-
-    if (license.status !== 'active') {
-      return { success: false, message: `License Key đã bị ${license.status === 'revoked' ? 'thu hồi' : 'hết hạn'}.` };
-    }
-
     const cleanDomain = domain.toLowerCase().replace(/^https?:\/\//, '').replace(/\/$/, '');
 
-    // Kiểm tra xem domain đã kích hoạt chưa
-    const existing = license.activations?.find(
-      (a) => a.domain.toLowerCase() === cleanDomain && a.is_active
-    );
-    if (existing) {
-      return {
-        success: true,
-        message: 'Domain này đã được kích hoạt trước đó.',
-        remainingDomains: license.max_domains - license.active_domains_count,
-      };
-    }
-
-    // Kiểm tra giới hạn số lượng domain
-    if (license.active_domains_count >= license.max_domains) {
-      return {
-        success: false,
-        message: `Đã đạt giới hạn kích hoạt tối đa (${license.max_domains} domain) cho gói ${license.license_type}. Vui lòng hủy domain cũ hoặc nâng cấp gói bản quyền.`,
-      };
-    }
-
+    let connection;
     try {
-      await dbPool.query(
+      connection = await dbPool.getConnection();
+      await connection.beginTransaction();
+
+      // Acquire exclusive row lock on the license to serialize concurrent activations
+      const [licRows] = await connection.query<RowDataPacket[]>(
+        'SELECT id, license_key, license_type, status, max_domains, active_domains_count FROM licenses WHERE license_key = ? FOR UPDATE',
+        [licenseKey]
+      );
+
+      if (!licRows.length) {
+        await connection.rollback();
+        return { success: false, message: 'License Key không tồn tại trên hệ thống.' };
+      }
+
+      const lic = licRows[0];
+      if (lic.status !== 'active') {
+        await connection.rollback();
+        return { success: false, message: `License Key đã bị ${lic.status === 'revoked' ? 'thu hồi' : 'hết hạn'}.` };
+      }
+
+      // Check if this domain is already active for this license under lock
+      const [existingRows] = await connection.query<RowDataPacket[]>(
+        'SELECT id, is_active FROM license_activations WHERE license_id = ? AND domain = ? LIMIT 1 FOR UPDATE',
+        [lic.id, cleanDomain]
+      );
+
+      if (existingRows.length > 0 && existingRows[0].is_active === 1) {
+        await connection.rollback();
+        return {
+          success: true,
+          message: 'Domain này đã được kích hoạt trước đó.',
+          remainingDomains: lic.max_domains - lic.active_domains_count,
+        };
+      }
+
+      // Concurrency protection: Atomic conditional increment enforcing quota limit
+      const [updateResult] = await connection.query<ResultSetHeader>(
+        'UPDATE licenses SET active_domains_count = active_domains_count + 1 WHERE id = ? AND active_domains_count < max_domains',
+        [lic.id]
+      );
+
+      if (updateResult.affectedRows === 0) {
+        await connection.rollback();
+        return {
+          success: false,
+          message: `Đã đạt giới hạn kích hoạt tối đa (${lic.max_domains} domain) cho gói ${lic.license_type}. Vui lòng hủy domain cũ hoặc nâng cấp gói bản quyền.`,
+        };
+      }
+
+      // Record / update activation record
+      await connection.query(
         `INSERT INTO license_activations (license_id, domain, ip_address, is_active)
          VALUES (?, ?, ?, 1)
          ON DUPLICATE KEY UPDATE is_active = 1, ip_address = VALUES(ip_address), last_check_at = CURRENT_TIMESTAMP`,
-        [license.id, cleanDomain, ipAddress || null]
+        [lic.id, cleanDomain, ipAddress || null]
       );
 
-      await dbPool.query(
-        'UPDATE licenses SET active_domains_count = active_domains_count + 1 WHERE id = ?',
-        [license.id]
-      );
-
+      await connection.commit();
       return {
         success: true,
         message: `Kích hoạt thành công bản quyền cho domain: ${cleanDomain}`,
-        remainingDomains: license.max_domains - (license.active_domains_count + 1),
+        remainingDomains: lic.max_domains - (lic.active_domains_count + 1),
       };
     } catch (error: any) {
+      if (connection) {
+        try { await connection.rollback(); } catch {}
+      }
       console.warn('[LicenseModel.activateDomain] DB Error, ghi nhận in-memory:', error.message);
+      const license = await this.findByKey(licenseKey);
+      if (!license) {
+        return { success: false, message: 'License Key không tồn tại trên hệ thống.' };
+      }
+
+      if (license.status !== 'active') {
+        return { success: false, message: `License Key đã bị ${license.status === 'revoked' ? 'thu hồi' : 'hết hạn'}.` };
+      }
+
+      const existing = license.activations?.find(
+        (a) => a.domain.toLowerCase() === cleanDomain && a.is_active
+      );
+      if (existing) {
+        return {
+          success: true,
+          message: 'Domain này đã được kích hoạt trước đó.',
+          remainingDomains: license.max_domains - license.active_domains_count,
+        };
+      }
+
+      if (license.active_domains_count >= license.max_domains) {
+        return {
+          success: false,
+          message: `Đã đạt giới hạn kích hoạt tối đa (${license.max_domains} domain) cho gói ${license.license_type}. Vui lòng hủy domain cũ hoặc nâng cấp gói bản quyền.`,
+        };
+      }
+
       inMemoryActivations.push({
         id: inMemoryActivations.length + 1,
         license_id: license.id,
@@ -231,6 +279,10 @@ export class LicenseModel {
         message: `Kích hoạt thành công bản quyền cho domain: ${cleanDomain}`,
         remainingDomains: license.max_domains - license.active_domains_count,
       };
+    } finally {
+      if (connection) {
+        try { connection.release(); } catch {}
+      }
     }
   }
 

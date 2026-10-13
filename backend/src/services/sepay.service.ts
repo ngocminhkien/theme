@@ -28,15 +28,6 @@ export class SePayService {
       return false;
     }
 
-    if (configuredKey === 'your_sepay_api_key_here') {
-      if (!apiKeyHeader) return true;
-      if (apiKeyHeader.startsWith('Apikey ')) {
-        const cleanHeader = apiKeyHeader.slice(7);
-        return cleanHeader === configuredKey;
-      }
-      return false;
-    }
-
     if (!apiKeyHeader) {
       SecurityLogger.warn('WEBHOOK_MISSING_AUTH_HEADER', 'Webhook bị từ chối do thiếu header Authorization');
       return false;
