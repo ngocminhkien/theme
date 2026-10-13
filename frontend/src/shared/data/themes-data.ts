@@ -66,7 +66,7 @@ export const THEMES_DATA: ThemeItem[] = [
     id: 1, category_id: 1, name: 'WoodMart - Multipurpose WooCommerce Theme', slug: 'woodmart',
     short_desc_vi: 'Giao diện thương mại điện tử đỉnh cao tối ưu tốc độ, tích hợp Header Builder và hơn 80+ bản demo có sẵn.',
     short_desc_en: 'Premium WooCommerce WordPress theme built for ultimate performance and online stores with 80+ prebuilt websites.',
-    full_desc_vi: 'WoodMart là giao diện cao cấp số 1 dành cho WooCommerce. Tích hợp sẵn Swatches, AJAX Search, Header Builder, Wishlist, Compare và tối ưu Core Web Vitals.',
+    full_desc_vi: 'WoodMart là giao diện cao cấp hàng đầu dành cho WooCommerce. Tích hợp sẵn Swatches, AJAX Search, Header Builder, Wishlist, Compare và tối ưu Core Web Vitals.',
     price_vnd: 599000, price_usd: 29, ...CATALOG_VISUALS.woodmart,
     live_demo_url: 'https://woodmart.xtemos.com/', page_builders: 'Elementor, WPBakery', rating_avg: 4.95, rating_count: 380, total_sales: 2540,
     is_featured: true, version: '8.6.2',

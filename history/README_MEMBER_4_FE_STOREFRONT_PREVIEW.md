@@ -330,14 +330,15 @@
      - Căn chỉnh lại `inline-flex items-center justify-center px-4 py-2 sm:px-4.5 sm:py-2 rounded-full border border-slate-200/90 text-xs sm:text-sm font-bold leading-normal whitespace-nowrap`.
      - Tăng khoảng cách lề `gap-2 sm:gap-2.5`, căn lề container `max-w-4xl mx-auto mb-10` giúp các tag chữ có khoảng thở rộng rãi, đồng đều và sắc sảo.
 
-5. **Tinh Chỉnh Tỉ Lệ Nút Nổi Ưu Đãi (Floating Widget):**
-   - **Tập tin tinh chỉnh:** [`frontend/src/components/layout/FloatingWidgets.tsx`](file:///d:/DNU/intern/VanPhong/theme/frontend/src/components/layout/FloatingWidgets.tsx)
-   - Thêm `whitespace-nowrap`, tinh chỉnh padding `pl-3 pr-4 sm:pl-3.5 sm:pr-4.5 py-2 sm:py-2.5` giúp nút gọn gàng, thanh thoát và không che khuất nội dung nền.
+5. **Nâng Cấp Hộp Quà Ưu Đãi Nổi 3D (Floating Widget Overhaul):**
+   - **Tập tin tinh chỉnh:** [`frontend/src/components/layout/FloatingWidgets.tsx`](file:///d:/DNU/intern/VanPhong/theme/frontend/src/components/layout/FloatingWidgets.tsx) & [`frontend/public/images/promo-giftbox.png`](file:///d:/DNU/intern/VanPhong/theme/frontend/public/images/promo-giftbox.png)
+   - **Thay đổi:** Thay thế nút thanh ngang bo tròn cũ bằng huy hiệu hộp quà 3D màu đỏ nổi bật với nơ vải đỏ, dải ruy băng vát góc chứa chữ **ƯU ĐÃI** màu vàng kim, kèm hai dòng chữ **NHẬN** và **HÔM NAY** màu trắng sắc nét, hiệu ứng hào quang phát sáng vàng ấm và chấm ping thông báo nhấp nháy, chuẩn theo mẫu thiết kế Ảnh 2.
 
 ### 10.2. Bảng Tổng Hợp Kiểm Thử Sau Fix
 | Bài kiểm tra | Phương thức thực thi | Kết quả | Trạng thái |
 | :--- | :--- | :--- | :--- |
 | **TypeScript Type-Check** | `npm run type-check` | ✅ **Exit code 0** | 0 lỗi kiểu dữ liệu. |
+| **Hộp Quà Ưu Đãi 3D** | Widget nổi góc dưới bên phải | ✅ **Chuẩn mẫu Ảnh 2** | Hộp quà đỏ 3D, nơ đỏ, banner "ƯU ĐÃI" vàng kim, popup hoạt động mượt mà. |
 | **Kiểm tra dòng gợi ý Header** | Tìm từ khóa `Gợi ý:` trong `HeaderMain.tsx` | ✅ **Đã xóa sạch** | Không còn dòng gợi ý thừa dưới search bar. |
 | **Thẻ Giỏ hàng (`Cart Button`)** | Kiểm tra độ rộng và padding | ✅ **Không tràn viền** | `min-w-[140px] px-5`, chữ `Giỏ Hàng / 0 đ` thẳng hàng tuyệt đối. |
 | **Huy hiệu Logo `SỐ 1 VN`** | Kiểm tra hiển thị | ✅ **Ngang 1 hàng** | Không còn bị bẻ dòng thành 3 chữ dọc. |
@@ -370,3 +371,30 @@
    - Căn chỉnh lưới sản phẩm đa cấp `grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4`.
    - Khung giả lập thiết bị trong `LivePreviewBar` tự động thích ứng (`w-full max-w-[768px]` và `w-full max-w-[375px]`, `h-dvh`) không gây tràn ngang trên màn hình nhỏ.
    - Đồng hồ đếm ngược `PromoDealBanner`, thẻ thống kê `HeroSection`, bộ lọc `ThemesCatalog`, liên kết `Footer` và cụm `FloatingWidgets` đều tự động co giãn chuẩn xác trên mọi thiết bị.
+
+---
+
+## 12. 💎 NÂNG CẤP GIAO DIỆN TRANG CHỦ THEO CHUẨN CLEAN & HIGH-CONVERSION E-COMMERCE [2026-10-13]
+
+### 12.1. Các Hạng Mục Nâng Cấp Chi Tiết
+1. **Hero Section (`HeroSection.tsx`):**
+   - **Tín hiệu uy tín (Trust Badge):** Huy hiệu nền tối nổi bật với đèn ping xanh lá, biểu tượng ngôi sao vàng và thông điệp: *"Kho Theme WordPress Bản Quyền #1 VN • Kích Hoạt Tự Động 24/7"*.
+   - **Thanh tìm kiếm tối ưu chuyển đổi:** Bổ sung nhãn phân loại ngành nghề nhanh, viền lấy nét nổi bật `ring-4 ring-brand-500/15`, nút tìm kiếm gradient trực quan.
+   - **Thanh tags gợi ý:** Bổ sung icon trực quan cho từng nhóm từ khóa (🛒 Theme Bán Hàng, ⚡ Flatsome Shop, 🏬 WoodMart, 🏢 Doanh Nghiệp, 🎨 Elementor, 🏠 Bất Động Sản).
+2. **Thẻ Sản Phẩm Theme (`theme-card.tsx`):**
+   - **Huy hiệu giảm giá & builder:** Badge `GIẢM X%`, `BÁN CHẠY`, `MỚI 2026` và builder pill (Elementor/WooCommerce) với chấm xanh trạng thái rõ ràng.
+   - **Lớp phủ xem trước khi hover:** Nút "Xem Demo" và "Mua Ngay" nổi bật trên nền kính mờ `backdrop-blur-[3px]`, tỉ lệ căn giữa hoàn hảo.
+   - **Khu vực giá & mua sắm:** Giá khuyến mãi màu đỏ/hồng nổi bật, giá gốc gạch ngang, nhãn cam kết *"Sạch mã độc 100% • Tự động kích hoạt"* và nút thêm giỏ hàng có phản hồi trạng thái tích xanh ngay lập tức khi đã có trong giỏ.
+3. **Danh Mục Ngành Nghề Bento Grid (`PopularCategories.tsx`):**
+   - **Khả năng tương tác trực tiếp:** Chuyển đổi toàn bộ các nhãn subcategory (như *Thời Trang, Điện Máy, Chung Cư, Bảng Giá SaaS...*) thành **liên kết tương tác (`<Link>`)**, cho phép khách hàng nhấp chuột để lọc ngay lập tức.
+   - Tối ưu hiệu ứng hover ảnh và nút "Khám Phá Theme" chuyển sang màu tối sang trọng khi rê chuột.
+4. **Bộ Lọc Tabs Danh Mục (`FeaturedThemesSection.tsx`):**
+   - Thêm danh mục `🏠 Bất Động Sản`, bổ sung icon phân loại cho từng tab (🛒 Bán Hàng, 🏢 Doanh Nghiệp, 🎨 Elementor Pro).
+5. **Banner Khuyến Mãi Flash Sale (`PromoDealBanner.tsx`):**
+   - Tích hợp ô **Sao chép mã ưu đãi 1-Click** trực tiếp trên banner với mã `THEMESTORE20`, tự động sao chép vào clipboard và đổi trạng thái thành *"✓ Đã Chép"*.
+
+### 12.2. Kết Quả Kiểm Thử
+| Bài kiểm tra | Lệnh thực thi | Kết quả |
+| :--- | :--- | :--- |
+| **TypeScript Type-Check** | `npm.cmd run type-check` | ✅ **Exit code 0 (Không còn lỗi)** |
+| **Server Response** | `Invoke-WebRequest http://localhost:3000` | ✅ **HTTP 200 OK** |

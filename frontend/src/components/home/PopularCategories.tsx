@@ -130,7 +130,7 @@ export function PopularCategories() {
                       <div className="w-8 h-8 rounded-xl bg-white/90 backdrop-blur-md text-brand-600 flex items-center justify-center shadow-sm">
                         <Icon className="w-4 h-4" />
                       </div>
-                      <span className="px-2.5 py-0.5 rounded-full bg-amber-500 text-slate-950 text-xs font-black uppercase shadow-xs">
+                      <span className="px-2.5 py-0.5 rounded-full bg-amber-500 text-slate-950 text-xs font-black uppercase shadow-xs animate-badge-float">
                         {cat.badge}
                       </span>
                     </div>
@@ -151,18 +151,20 @@ export function PopularCategories() {
 
                   {/* Body description & subcategories */}
                   <div className="p-4 sm:p-5">
-                    <p className="text-sm text-slate-500 line-clamp-2 leading-relaxed mb-3 font-medium">
+                    <p className="text-xs sm:text-sm text-slate-500 line-clamp-2 leading-relaxed mb-3.5 font-normal">
                       {cat.desc}
                     </p>
 
                     <div className="flex flex-wrap gap-1.5 mb-2">
                       {cat.subcategories.map((sub, sIdx) => (
-                        <span
+                        <Link
                           key={sIdx}
-                          className="px-2.5 py-1 rounded-md bg-slate-100 text-slate-700 text-xs font-semibold hover:bg-brand-50 hover:text-brand-600 transition truncate max-w-full"
+                          href={`/themes?category=${cat.id}&search=${encodeURIComponent(sub)}`}
+                          className="px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-md bg-slate-100 hover:bg-brand-50 text-slate-700 hover:text-brand-600 text-[11px] sm:text-xs font-semibold transition-colors truncate max-w-full"
+                          title={`Tìm kiếm theme ${sub}`}
                         >
                           {sub}
-                        </span>
+                        </Link>
                       ))}
                     </div>
                   </div>
@@ -172,10 +174,10 @@ export function PopularCategories() {
                 <div className="px-4 pb-4 sm:px-5 sm:pb-5 pt-1">
                   <Link
                     href={`/themes?category=${cat.id}`}
-                    className="w-full py-3 rounded-xl bg-slate-50 hover:bg-brand-600 text-slate-700 hover:text-white font-bold text-sm flex items-center justify-center gap-2 transition duration-200 group-hover:bg-brand-600 group-hover:text-white"
+                    className="w-full py-2.5 sm:py-3 rounded-xl bg-slate-100 hover:bg-brand-600 text-slate-800 hover:text-white font-bold text-xs sm:text-sm flex items-center justify-center gap-2 transition duration-200 group-hover:bg-slate-900 group-hover:text-white"
                   >
-                    <span>Khám Phá</span>
-                    <ArrowRight className="w-4 h-4" />
+                    <span>Khám Phá Theme</span>
+                    <ArrowRight className="w-3.5 h-3.5 sm:w-4 sm:h-4 group-hover:translate-x-1 transition-transform" />
                   </Link>
                 </div>
               </div>

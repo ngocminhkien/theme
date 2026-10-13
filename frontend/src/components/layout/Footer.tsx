@@ -86,7 +86,7 @@ export function Footer() {
               </div>
             </Link>
             <p className="text-sm text-slate-400 leading-relaxed mb-5 font-normal">
-              Nền tảng thương mại điện tử giao diện website & template WordPress bản quyền số 1 Việt Nam. Tối ưu tốc độ Google PageSpeed 99+, chuẩn SEO và kích hoạt tự động qua VietQR 24/7.
+              Nền tảng thương mại điện tử giao diện website & template WordPress bản quyền chính hãng hàng đầu tại Việt Nam. Tối ưu tốc độ Google PageSpeed 99+, chuẩn SEO và kích hoạt tự động qua VietQR 24/7.
             </p>
             <div className="space-y-3 text-sm text-slate-400">
               <div className="flex items-center gap-2.5">
@@ -228,7 +228,7 @@ export function Footer() {
         {/* Bottom Copyright */}
         <div className="mt-10 sm:mt-12 pt-6 sm:pt-8 border-t border-slate-800/80 flex flex-col lg:flex-row items-center justify-between gap-4 text-xs sm:text-sm text-slate-500 text-center lg:text-left">
           <p>
-            © 2026 <strong>THEMESTORE.VN</strong> - Thế giới Theme & Plugin WordPress bản quyền giá rẻ #1 Việt Nam. All rights reserved.
+            © 2026 <strong>THEMESTORE.VN</strong> - Thế giới Theme & Plugin WordPress bản quyền chính hãng chuẩn SEO tại Việt Nam. All rights reserved.
           </p>
           <div className="flex flex-wrap items-center justify-center lg:justify-end gap-x-4 sm:gap-x-6 gap-y-2">
             <Link href="/login" className="hover:text-slate-300 transition font-medium">Đăng Nhập</Link>

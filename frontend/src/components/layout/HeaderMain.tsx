@@ -85,7 +85,7 @@ export function HeaderMain() {
           <div className="w-10 h-10 sm:w-13 sm:h-13 rounded-xl sm:rounded-2xl bg-gradient-to-tr from-brand-600 via-indigo-600 to-amber-500 flex items-center justify-center text-white shadow-glow group-hover:scale-105 transition-all duration-300 relative shrink-0">
             <Layers className="w-5 h-5 sm:w-7 sm:h-7" />
             <span className="hidden xs:inline-block absolute -top-1.5 -right-2 px-1.5 sm:px-2 py-0.5 text-[8px] sm:text-[9px] font-black uppercase rounded-full bg-rose-500 text-white shadow-xs border border-white whitespace-nowrap leading-none tracking-tight">
-              SỐ 1 VN
+              CHÍNH HÃNG
             </span>
           </div>
           <div className="flex flex-col min-w-0">
@@ -246,32 +246,6 @@ export function HeaderMain() {
             {mobileSearchOpen ? <X className="w-5 h-5" /> : <Search className="w-5 h-5" />}
           </button>
 
-          {/* Account Portal Button (directs to /login) */}
-          <Link
-            href="/login"
-            className="hidden xl:flex items-center gap-3 px-4 py-2.5 rounded-2xl border border-slate-200 hover:border-brand-300 bg-slate-50/80 hover:bg-white text-slate-700 hover:text-brand-600 transition group shadow-2xs shrink-0 whitespace-nowrap"
-            title="Đăng nhập tài khoản thành viên hoặc xem quyền lợi VIP"
-          >
-            <div className="w-9 h-9 rounded-xl bg-brand-50 text-brand-600 flex items-center justify-center group-hover:bg-brand-600 group-hover:text-white transition shrink-0">
-              <User className="w-4 h-4" />
-            </div>
-            <div className="flex flex-col text-left">
-              <span className="text-xs text-slate-400 font-semibold leading-tight">
-                Tài Khoản
-              </span>
-              <span className="text-sm font-bold text-slate-800 group-hover:text-brand-600 leading-tight">
-                Đăng Nhập / VIP
-              </span>
-            </div>
-          </Link>
-
-          <Link
-            href="/my-account"
-            className="hidden lg:flex items-center gap-1.5 text-xs font-bold text-slate-700 hover:text-brand-600 px-3.5 py-2.5 rounded-xl hover:bg-slate-100 transition shrink-0"
-          >
-            <UserRound className="w-4 h-4 text-brand-500" />
-            <span>Tài khoản</span>
-          </Link>
 
           {/* Cart Button */}
           <button

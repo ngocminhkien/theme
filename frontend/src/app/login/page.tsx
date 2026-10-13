@@ -90,7 +90,7 @@ function LoginContent() {
                   THEME<span className="text-amber-400">STORE</span>
                 </span>
                 <span className="px-2.5 py-0.5 rounded text-xs font-black bg-rose-500 text-white uppercase shadow-xs">
-                  SỐ 1 VN
+                  CHÍNH HÃNG
                 </span>
               </div>
               <span className="text-xs font-semibold text-slate-300 mt-0.5">

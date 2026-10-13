@@ -7,7 +7,7 @@ import AmbientBackground from '@/components/layout/AmbientBackground';
 import { GlobalScrollObserver } from '@/components/motion/ScrollReveal';
 
 export const metadata: Metadata = {
-  title: 'THEME STORE | Thế Giới Theme & Plugin WordPress Bản Quyền Giá Rẻ #1 Việt Nam',
+  title: 'THEME STORE | Thế Giới Theme & Plugin WordPress Bản Quyền Chính Hãng Giá Tốt Chuẩn SEO',
   description: 'Nền tảng thương mại điện tử chuyên cung cấp hơn 500+ Theme WordPress, WooCommerce & Plugin bản quyền giá rẻ chuẩn SEO, sạch 100% không mã độc, tối ưu tốc độ Google PageSpeed 99+ và kích hoạt tự động qua VietQR trong 30 giây.',
   keywords: [
     'Theme Store',

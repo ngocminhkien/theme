@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import {
-  Gift,
   PhoneCall,
   X,
   Copy,
@@ -12,7 +11,6 @@ import {
   Sparkles,
   ArrowRight,
   ShieldCheck,
-  Flame,
 } from 'lucide-react';
 
 export function FloatingWidgets() {
@@ -38,33 +36,38 @@ export function FloatingWidgets() {
         aria-label="Cụm hỗ trợ và ưu đãi nổi"
         className="fixed bottom-4 right-3 sm:bottom-6 sm:right-6 z-40 flex flex-col items-end gap-2.5 sm:gap-3 select-none pointer-events-auto"
       >
-        {/* 1. Nút Hộp Quà Ưu Đãi (Top Widget) */}
-        <div className="relative group">
+        {/* 1. Nút Hộp Quà Ưu Đãi 3D (Nhận Ưu Đãi Hôm Nay - Khớp Mẫu Thiết Kế Ảnh 2) */}
+        <div className="relative group flex items-center justify-center">
+          {/* Tooltip phụ phía trên */}
+          <div className="absolute right-0 bottom-full mb-2 opacity-0 group-hover:opacity-100 pointer-events-none transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 whitespace-nowrap bg-slate-900/95 text-white text-xs font-bold py-1.5 px-3 rounded-xl shadow-xl border border-slate-700/80 z-20">
+            🎁 Nhận Mã Giảm 20% + Tặng 3 Plugin Pro
+          </div>
+
           <button
             type="button"
             onClick={() => setIsPromoOpen(true)}
             aria-label="Nhận Ưu Đãi Hôm Nay"
-            className="inline-flex items-center gap-2 sm:gap-2.5 pl-2.5 pr-3.5 sm:pl-3.5 sm:pr-4.5 py-1.5 sm:py-2.5 rounded-full bg-gradient-to-r from-red-600 via-rose-600 to-red-500 text-white font-black text-xs sm:text-sm tracking-wide shadow-xl shadow-red-500/35 hover:shadow-2xl hover:shadow-red-500/50 hover:scale-105 active:scale-95 transition-all duration-300 border border-white/20 cursor-pointer group whitespace-nowrap"
+            className="relative p-0 border-0 bg-transparent cursor-pointer group transition-all duration-300 hover:scale-110 active:scale-95 focus:outline-hidden"
           >
-            {/* Icon hộp quà rung nhẹ + chấm thông báo nhấp nháy */}
-            <span className="relative flex items-center justify-center w-6 h-6 sm:w-8 sm:h-8 rounded-full bg-white/20 text-white shrink-0 animate-gift">
-              <Gift className="w-3.5 h-3.5 sm:w-4.5 sm:h-4.5 text-amber-300 drop-shadow-xs" />
-              <span className="absolute -top-0.5 -right-0.5 w-2.5 h-2.5 bg-amber-400 rounded-full animate-ping" />
-              <span className="absolute -top-0.5 -right-0.5 w-2.5 h-2.5 bg-amber-300 rounded-full border border-red-600" />
-            </span>
+            {/* Hiệu ứng hào quang phát sáng vàng ấm xung quanh hộp quà */}
+            <span className="absolute -inset-1 rounded-2xl bg-amber-400/35 blur-xl opacity-70 group-hover:opacity-100 transition-opacity animate-pulse pointer-events-none -z-10" />
 
-            <span className="drop-shadow-xs font-black uppercase text-[10px] sm:text-xs tracking-wider whitespace-nowrap">
-              <span className="xs:hidden">Ưu Đãi</span>
-              <span className="hidden xs:inline">Nhận Ưu Đãi Hôm Nay</span>
-            </span>
+            {/* Ảnh Hộp Quà 3D chuẩn theo mẫu thiết kế Ảnh 2 */}
+            <div className="relative animate-gift drop-shadow-[0_8px_16px_rgba(220,38,38,0.4)] group-hover:drop-shadow-[0_12px_24px_rgba(245,158,11,0.6)] transition-all duration-300">
+              <img
+                src="/images/promo-giftbox.png"
+                alt="Nhận Ưu Đãi Hôm Nay"
+                width={86}
+                height={97}
+                className="w-18 sm:w-[86px] h-auto object-contain select-none pointer-events-none"
+                loading="eager"
+              />
 
-            <Flame className="w-4 h-4 text-amber-300 animate-pulse shrink-0 hidden sm:block" />
+              {/* Chấm ping thông báo nhấp nháy góc trên hộp quà */}
+              <span className="absolute top-0 right-1 w-2.5 h-2.5 bg-amber-400 rounded-full animate-ping pointer-events-none" />
+              <span className="absolute top-0 right-1 w-2.5 h-2.5 bg-amber-300 rounded-full border border-red-600 pointer-events-none shadow-xs" />
+            </div>
           </button>
-
-          {/* Tooltip phụ phía trên */}
-          <div className="absolute right-0 bottom-full mb-2 opacity-0 group-hover:opacity-100 pointer-events-none transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 whitespace-nowrap bg-slate-900/95 text-white text-xs font-bold py-1.5 px-3 rounded-xl shadow-lg border border-slate-700/80">
-            🎁 Tặng Voucher Giảm 20% + Bộ 3 Plugin Pro
-          </div>
         </div>
 
         {/* 2. Nút Messenger (Middle Widget) */}

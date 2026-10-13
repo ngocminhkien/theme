@@ -14,11 +14,17 @@ import {
   Star,
   PhoneCall,
 } from 'lucide-react';
+import { Interactive3DBackground } from './Interactive3DBackground';
 
 export function HeroSection() {
   const router = useRouter();
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCat, setSelectedCat] = useState('all');
+  const [mousePos, setMousePos] = useState({ x: 500, y: 300 });
+
+  // 3D tilt states for the two highlight banners
+  const [b1Tilt, setB1Tilt] = useState({ x: 0, y: 0, active: false });
+  const [b2Tilt, setB2Tilt] = useState({ x: 0, y: 0, active: false });
 
   const handleHeroSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -30,26 +36,63 @@ export function HeroSection() {
     router.push(url);
   };
 
+  const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    setMousePos({
+      x: e.clientX - rect.left,
+      y: e.clientY - rect.top,
+    });
+  };
+
+  const handleB1Move = (e: React.MouseEvent<HTMLDivElement>) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = (e.clientX - rect.left) / rect.width - 0.5;
+    const y = (e.clientY - rect.top) / rect.height - 0.5;
+    setB1Tilt({ x: x * 6, y: -y * 6, active: true });
+  };
+  const handleB1Leave = () => setB1Tilt({ x: 0, y: 0, active: false });
+
+  const handleB2Move = (e: React.MouseEvent<HTMLDivElement>) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = (e.clientX - rect.left) / rect.width - 0.5;
+    const y = (e.clientY - rect.top) / rect.height - 0.5;
+    setB2Tilt({ x: x * 6, y: -y * 6, active: true });
+  };
+  const handleB2Leave = () => setB2Tilt({ x: 0, y: 0, active: false });
+
   return (
-    <section className="relative pt-4 sm:pt-6 pb-8 sm:pb-12 overflow-hidden w-full">
-      {/* Background Decorative Grid & Glows */}
-      <div className="absolute inset-0 bg-grid-pattern opacity-60 pointer-events-none" />
-      <div className="absolute -top-24 left-1/2 -translate-x-1/2 w-[1000px] h-[500px] bg-gradient-to-tr from-brand-500/20 via-amber-500/15 to-transparent rounded-full blur-3xl pointer-events-none" />
+    <section
+      onMouseMove={handleMouseMove}
+      className="relative pt-4 sm:pt-6 pb-8 sm:pb-12 overflow-hidden w-full"
+    >
+      {/* 1. Interactive 3D Canvas Background with Floating Geometry & Constellations */}
+      <Interactive3DBackground />
+
+      {/* 2. Interactive Cursor Radial Spotlight */}
+      <div
+        className="pointer-events-none absolute w-[600px] h-[600px] rounded-full bg-gradient-to-tr from-brand-500/12 via-indigo-500/8 to-amber-500/6 blur-3xl transition-transform duration-150 ease-out -translate-x-1/2 -translate-y-1/2 -z-5"
+        style={{
+          left: `${mousePos.x}px`,
+          top: `${mousePos.y}px`,
+        }}
+      />
 
       <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12 relative z-10">
         {/* Main Hero Container */}
         <div className="text-center max-w-5xl mx-auto pt-2 sm:pt-4 pb-6 sm:pb-10">
-          {/* Badge: Slogan #1 VN */}
-          <div className="inline-flex items-center gap-1.5 sm:gap-2 px-3.5 sm:px-6 py-2 sm:py-2.5 rounded-full bg-gradient-to-r from-brand-50 via-amber-50 to-brand-50 border border-brand-200 text-slate-800 text-[11px] sm:text-sm font-black mb-5 sm:mb-6 shadow-xs cursor-default max-w-full">
+          {/* Badge: Slogan & Trust Signal (Removed #1 VN) */}
+          <div className="inline-flex items-center gap-2 px-3.5 sm:px-4 py-1.5 rounded-full bg-rose-50 border border-rose-200/80 text-rose-700 text-xs sm:text-sm font-black mb-4 sm:mb-6 shadow-2xs max-w-full animate-float-slow">
             <span className="flex h-2 w-2 sm:h-2.5 sm:w-2.5 rounded-full bg-rose-500 animate-ping shrink-0" />
             <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-500 shrink-0" />
-            <span className="truncate sm:whitespace-normal">THẾ GIỚI THEME & PLUGIN WORDPRESS BẢN QUYỀN GIÁ RẺ #1 VIỆT NAM</span>
+            <span className="truncate sm:whitespace-normal uppercase">
+              THẾ GIỚI THEME & PLUGIN WORDPRESS BẢN QUYỀN CHÍNH HÃNG
+            </span>
           </div>
 
-          {/* Main Headline */}
+          {/* Main Headline with Animated Shimmer Gradient */}
           <h1 className="text-2xl xs:text-3xl sm:text-5xl lg:text-6xl 2xl:text-7xl font-black text-slate-900 tracking-tight leading-[1.15] sm:leading-[1.12] mb-4 sm:mb-6">
             Kho Giao Diện Website & Plugin WordPress{' '}
-            <span className="bg-gradient-to-r from-brand-600 via-indigo-600 to-amber-500 bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r from-brand-600 via-indigo-600 to-amber-500 bg-clip-text text-transparent animate-shimmer-text">
               Bản Quyền Giá Rẻ Chuẩn SEO
             </span>
           </h1>
@@ -167,7 +210,16 @@ export function HeroSection() {
           {/* Banner 1: Multipurpose & High Performance */}
           <div
             data-reveal="fade-left"
-            className="group rounded-3xl bg-gradient-to-br from-slate-950 via-indigo-950 to-slate-900 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-indigo-500/30 flex flex-col justify-between transition-transform duration-500 hover:-translate-y-1.5"
+            onMouseMove={handleB1Move}
+            onMouseLeave={handleB1Leave}
+            style={{
+              transform: b1Tilt.active
+                ? `perspective(1000px) rotateX(${b1Tilt.y}deg) rotateY(${b1Tilt.x}deg) translateY(-4px) scale3d(1.01, 1.01, 1.01)`
+                : 'perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0px) scale3d(1, 1, 1)',
+              transition: b1Tilt.active ? 'transform 0.12s ease-out' : 'transform 0.5s cubic-bezier(0.16, 1, 0.3, 1)',
+              transformStyle: 'preserve-3d',
+            }}
+            className="group rounded-3xl bg-gradient-to-br from-slate-950 via-indigo-950 to-slate-900 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-indigo-500/30 flex flex-col justify-between will-change-transform"
           >
             <div className="absolute top-0 right-0 w-80 h-80 bg-brand-500/20 rounded-full blur-3xl pointer-events-none group-hover:scale-125 transition-transform duration-700" />
 
@@ -211,7 +263,16 @@ export function HeroSection() {
           {/* Banner 2: VIP All-Access Pass */}
           <div
             data-reveal="fade-right"
-            className="group rounded-3xl bg-gradient-to-br from-indigo-950 via-purple-950 to-slate-950 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-purple-500/30 flex flex-col justify-between transition-transform duration-500 hover:-translate-y-1.5"
+            onMouseMove={handleB2Move}
+            onMouseLeave={handleB2Leave}
+            style={{
+              transform: b2Tilt.active
+                ? `perspective(1000px) rotateX(${b2Tilt.y}deg) rotateY(${b2Tilt.x}deg) translateY(-4px) scale3d(1.01, 1.01, 1.01)`
+                : 'perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0px) scale3d(1, 1, 1)',
+              transition: b2Tilt.active ? 'transform 0.12s ease-out' : 'transform 0.5s cubic-bezier(0.16, 1, 0.3, 1)',
+              transformStyle: 'preserve-3d',
+            }}
+            className="group rounded-3xl bg-gradient-to-br from-indigo-950 via-purple-950 to-slate-950 p-6 sm:p-10 xl:p-12 text-white relative overflow-hidden shadow-2xl border border-purple-500/30 flex flex-col justify-between will-change-transform"
           >
             <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/20 rounded-full blur-3xl pointer-events-none group-hover:scale-125 transition-transform duration-700" />
 
