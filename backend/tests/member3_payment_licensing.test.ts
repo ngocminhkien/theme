@@ -1,5 +1,10 @@
 import { app } from '../src/app.js';
+import { ENV } from '../src/config/env.js';
 import http from 'http';
+
+if (!ENV.PAYMENTS.SEPAY_API_KEY) {
+  ENV.PAYMENTS.SEPAY_API_KEY = 'your_sepay_api_key_here';
+}
 
 interface TestResult {
   name: string;
