@@ -1,7 +1,7 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import { Eye, RefreshCw, Search, ShieldCheck, UserRound } from 'lucide-react';
+import { FormEvent, useEffect, useState } from 'react';
+import { Eye, Plus, RefreshCw, Search, ShieldCheck, UserRound } from 'lucide-react';
 import { adminApi } from '@/lib/api';
 import { dateTime, money } from '@/lib/format';
 import type { Customer, License, Order, Pagination as PaginationInfo } from '@/lib/types';
@@ -13,6 +13,125 @@ function roleLabel(role?: string) {
   if (role === 'admin') return 'Quản trị viên (admin)';
   if (role === 'author') return 'Tác giả (author)';
   return 'Người dùng (customer)';
+}
+
+function CreateCustomerModal({
+  onClose,
+  onCreated,
+}: {
+  onClose: () => void;
+  onCreated: () => void;
+}) {
+  const [fullName, setFullName] = useState('');
+  const [email, setEmail] = useState('');
+  const [phone, setPhone] = useState('');
+  const [password, setPassword] = useState('');
+  const [role, setRole] = useState<Customer['role']>('customer');
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState('');
+
+  const handleSubmit = async (e: FormEvent) => {
+    e.preventDefault();
+    setError('');
+    setSubmitting(true);
+    try {
+      await adminApi.createCustomer({
+        full_name: fullName.trim(),
+        email: email.trim(),
+        phone: phone.trim() || undefined,
+        password,
+        role,
+      });
+      onCreated();
+      onClose();
+    } catch (reason) {
+      setError(reason instanceof Error ? reason.message : 'Không thể tạo tài khoản.');
+    } finally {
+      setSubmitting(false);
+    }
+  };
+
+  return (
+    <Modal title="Tạo tài khoản mới (Người dùng / Admin)" onClose={onClose}>
+      <form onSubmit={handleSubmit} className="space-y-4 p-5 text-sm">
+        <div>
+          <label className="mb-1 block font-semibold text-slate-700">Họ và tên *</label>
+          <input
+            required
+            value={fullName}
+            onChange={(e) => setFullName(e.target.value)}
+            placeholder="Ví dụ: Ngọc Minh Kiên"
+            className="w-full rounded-xl border border-slate-200 px-3 py-2.5"
+          />
+        </div>
+        <div className="grid gap-3 sm:grid-cols-2">
+          <div>
+            <label className="mb-1 block font-semibold text-slate-700">Email đăng nhập *</label>
+            <input
+              required
+              type="email"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="admin@woodmart.vn"
+              className="w-full rounded-xl border border-slate-200 px-3 py-2.5"
+            />
+          </div>
+          <div>
+            <label className="mb-1 block font-semibold text-slate-700">Số điện thoại</label>
+            <input
+              value={phone}
+              onChange={(e) => setPhone(e.target.value)}
+              placeholder="0912345678"
+              className="w-full rounded-xl border border-slate-200 px-3 py-2.5"
+            />
+          </div>
+        </div>
+        <div className="grid gap-3 sm:grid-cols-2">
+          <div>
+            <label className="mb-1 block font-semibold text-slate-700">Mật khẩu (tối thiểu 6 ký tự) *</label>
+            <input
+              required
+              type="password"
+              minLength={6}
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              placeholder="••••••••"
+              className="w-full rounded-xl border border-slate-200 px-3 py-2.5"
+            />
+          </div>
+          <div>
+            <label className="mb-1 block font-semibold text-slate-700">Vai trò (Role)</label>
+            <select
+              value={role}
+              onChange={(e) => setRole(e.target.value as Customer['role'])}
+              className="w-full rounded-xl border border-slate-200 bg-white px-3 py-2.5 font-semibold text-slate-800"
+            >
+              <option value="customer">Người dùng (customer - Mặc định)</option>
+              <option value="admin">Quản trị viên (admin)</option>
+              <option value="author">Tác giả (author)</option>
+            </select>
+          </div>
+        </div>
+        {error && <p className="rounded-xl bg-rose-50 px-3 py-2 text-xs font-semibold text-rose-700">{error}</p>}
+        <div className="flex justify-end gap-2 pt-2">
+          <button
+            type="button"
+            onClick={onClose}
+            className="rounded-xl border border-slate-200 px-4 py-2 font-bold text-slate-600 hover:bg-slate-50"
+          >
+            Hủy
+          </button>
+          <button
+            type="submit"
+            disabled={submitting}
+            className="rounded-xl bg-blue-600 px-4 py-2 font-bold text-white hover:bg-blue-700 disabled:opacity-50"
+          >
+            {submitting ? 'Đang tạo…' : 'Tạo tài khoản'}
+          </button>
+        </div>
+      </form>
+    </Modal>
+  );
 }
 
 function CustomerDetails({
@@ -138,6 +257,7 @@ export function CustomerManager() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [detail, setDetail] = useState<CustomerDetail | null>(null);
+  const [creating, setCreating] = useState(false);
 
   const load = () => {
     setLoading(true);
@@ -174,7 +294,15 @@ export function CustomerManager() {
 
   return (
     <>
-      <PageHeader eyebrow="Tài khoản & Phân quyền" title="Người dùng, Admin và Quyền sở hữu" />
+      <PageHeader eyebrow="Tài khoản & Phân quyền" title="Người dùng, Admin và Quyền sở hữu">
+        <button
+          type="button"
+          onClick={() => setCreating(true)}
+          className="inline-flex items-center gap-2 rounded-xl bg-blue-600 px-4 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-blue-700"
+        >
+          <Plus size={16} /> Tạo tài khoản
+        </button>
+      </PageHeader>
       <Panel className="mb-5 p-4">
         <div className="flex flex-col gap-3 sm:flex-row">
           <label className="relative flex-1">
@@ -279,6 +407,7 @@ export function CustomerManager() {
         </Panel>
       )}
       {detail && <CustomerDetails data={detail} onClose={() => setDetail(null)} onRoleUpdated={handleRoleUpdate} />}
+      {creating && <CreateCustomerModal onClose={() => setCreating(false)} onCreated={load} />}
     </>
   );
 }

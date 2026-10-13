@@ -45,6 +45,8 @@ export const adminApi = {
   order: (number: string) => request<OrderDetail>(`/orders/${encodeURIComponent(number)}`),
   customers: (params: { page?: number; search?: string; role?: string }) => request<{ customers: Customer[]; pagination: Pagination }>(`/customers${query(params)}`),
   customer: (id: number) => request<{ customer: Customer; orders: Order[]; licenses: License[] }>(`/customers/${id}`),
+  createCustomer: (input: { email: string; password: string; full_name: string; phone?: string; role?: Customer['role'] }) =>
+    request<{ user: Customer }>('/customers', { method: 'POST', body: JSON.stringify(input) }),
   updateCustomerRole: (id: number, role: Customer['role']) => request<{ user: Customer }>(`/customers/${id}/role`, { method: 'PATCH', body: JSON.stringify({ role }) }),
   licenses: (params: { page?: number; search?: string; status?: string }) => request<{ licenses: License[]; pagination: Pagination }>(`/licenses${query(params)}`),
 };

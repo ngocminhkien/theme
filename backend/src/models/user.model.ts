@@ -54,6 +54,16 @@ const fallbackUsers: User[] = [
     status: 'active',
     created_at: new Date('2026-10-10T08:00:00Z'),
   },
+  {
+    id: 4,
+    email: 'admin@woodmart.vn',
+    password_hash: bcrypt.hashSync('Admin@123456', 10),
+    full_name: 'Ngọc Minh Kiên (Admin)',
+    phone: '0912345678',
+    role: 'admin',
+    status: 'active',
+    created_at: new Date('2026-10-13T08:00:00Z'),
+  },
 ];
 
 function toSafeUser(user: User): SafeUser {

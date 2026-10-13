@@ -1,4 +1,5 @@
 import { Response } from 'express';
+import bcrypt from 'bcryptjs';
 import { RowDataPacket, ResultSetHeader } from 'mysql2/promise';
 import { dbPool } from '../config/database.js';
 import { ResponseView } from '../views/response.view.js';
@@ -900,6 +901,49 @@ export class AdminController {
         });
       }
       return ResponseView.error(res, error.message || 'Lỗi tải chi tiết người dùng.', 'CUSTOMER_DETAIL_ERROR', 500);
+    }
+  }
+
+  /**
+   * Tạo tài khoản mới từ cổng Admin (mặc định role = 'customer', cho phép Admin chọn 'admin' / 'author')
+   * POST /api/v1/admin/customers
+   */
+  static async createCustomer(req: AuthRequest, res: Response) {
+    try {
+      const { email, password, full_name, phone, role } = req.body || {};
+      const normalizedEmail = typeof email === 'string' ? email.trim().toLowerCase() : '';
+      const normalizedName = typeof full_name === 'string' ? full_name.trim() : '';
+      const normalizedPhone = typeof phone === 'string' && phone.trim() ? phone.trim() : undefined;
+      const normalizedRole = role === 'admin' || role === 'author' ? role : 'customer';
+
+      if (!normalizedEmail || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(normalizedEmail)) {
+        return ResponseView.error(res, 'Email không hợp lệ.', 'INVALID_EMAIL', 400);
+      }
+      if (!normalizedName || normalizedName.length < 2) {
+        return ResponseView.error(res, 'Họ và tên phải có ít nhất 2 ký tự.', 'INVALID_FULL_NAME', 400);
+      }
+      if (typeof password !== 'string' || password.length < 6) {
+        return ResponseView.error(res, 'Mật khẩu phải chứa ít nhất 6 ký tự.', 'INVALID_PASSWORD', 400);
+      }
+
+      const existing = await UserModel.findByEmail(normalizedEmail);
+      if (existing) {
+        return ResponseView.error(res, 'Email này đã tồn tại trong hệ thống.', 'EMAIL_EXISTS', 409);
+      }
+
+      const password_hash = await bcrypt.hash(password, 10);
+      const userId = await UserModel.create({
+        email: normalizedEmail,
+        password_hash,
+        full_name: normalizedName,
+        phone: normalizedPhone,
+        role: normalizedRole,
+      });
+
+      const user = await UserModel.findById(userId);
+      return ResponseView.success(res, { user }, 'Tạo tài khoản thành công.', 201);
+    } catch (error: any) {
+      return ResponseView.error(res, error.message || 'Lỗi tạo tài khoản người dùng.', 'CREATE_USER_ERROR', 500);
     }
   }
 

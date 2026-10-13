@@ -48,3 +48,19 @@ SET @add_idx_sql := IF(
 PREPARE stmt_idx FROM @add_idx_sql;
 EXECUTE stmt_idx;
 DEALLOCATE PREPARE stmt_idx;
+
+-- 4. Khởi tạo tài khoản Quản trị viên (Admin) bổ sung (Idempotent)
+-- Email: admin@woodmart.vn | Mật khẩu: Admin@123456 | Role: admin
+INSERT INTO `users` (`email`, `password_hash`, `full_name`, `phone`, `role`, `status`, `country_code`)
+VALUES (
+  'admin@woodmart.vn',
+  '$2a$10$Jue.7VgGnjaOQBAGwBlJCO31IHG0FEREE89/QJ2ImZL7H03zxnsS.',
+  'Ngọc Minh Kiên (Admin)',
+  '0912345678',
+  'admin',
+  'active',
+  'VN'
+)
+ON DUPLICATE KEY UPDATE
+  `role` = 'admin',
+  `status` = 'active';
