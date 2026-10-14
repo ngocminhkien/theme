@@ -12,6 +12,7 @@
     "test": "tsx tests/run_all_tests.ts",
     "test:all": "tsx tests/run_all_tests.ts",
     "test:member2": "tsx tests/member2_auth_catalog.test.ts",
+    "test:oauth": "tsx tests/oauth.test.ts",
     "test:member3": "tsx tests/member3_payment_licensing.test.ts",
     "test:member5": "tsx tests/member5_checkout.test.ts",
     "test:admin": "npm run build && node tests/admin-bootstrap.test.mjs && node tests/admin-auth.test.mjs && node tests/admin.api.test.mjs",

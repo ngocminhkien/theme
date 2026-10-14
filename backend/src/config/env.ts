@@ -31,6 +31,9 @@ export const ENV = {
     EXPIRES_IN: process.env.JWT_EXPIRES_IN || '7d',
   },
 
+  APP_URL: process.env.APP_URL || 'http://localhost:4000',
+  FRONTEND_URL: process.env.FRONTEND_URL || 'http://localhost:3000',
+
   PAYMENTS: {
     SEPAY_API_KEY: process.env.SEPAY_API_KEY || '',
     SEPAY_WEBHOOK_SECRET: process.env.SEPAY_WEBHOOK_SECRET || '',
@@ -39,5 +42,18 @@ export const ENV = {
     VIETQR_ACCOUNT_NAME: process.env.VIETQR_ACCOUNT_NAME || '',
     STRIPE_SECRET_KEY: process.env.STRIPE_SECRET_KEY || '',
     STRIPE_WEBHOOK_SECRET: process.env.STRIPE_WEBHOOK_SECRET || '',
+  },
+
+  OAUTH: {
+    GOOGLE: {
+      CLIENT_ID: process.env.GOOGLE_CLIENT_ID || '',
+      CLIENT_SECRET: process.env.GOOGLE_CLIENT_SECRET || '',
+      CALLBACK_URL: process.env.GOOGLE_CALLBACK_URL || 'http://localhost:4000/api/v1/auth/google/callback',
+    },
+    GITHUB: {
+      CLIENT_ID: process.env.GITHUB_CLIENT_ID || '',
+      CLIENT_SECRET: process.env.GITHUB_CLIENT_SECRET || '',
+      CALLBACK_URL: process.env.GITHUB_CALLBACK_URL || 'http://localhost:4000/api/v1/auth/github/callback',
+    },
   },
 };

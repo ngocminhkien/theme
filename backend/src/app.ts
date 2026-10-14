@@ -23,6 +23,9 @@ app.get('/', (_req, res) => {
     health: '/health',
     endpoints: {
       health: 'GET /health',
+      auth_providers: 'GET /api/v1/auth/providers',
+      auth_google: 'GET /api/v1/auth/google',
+      auth_github: 'GET /api/v1/auth/github',
       admin_stats: 'GET /api/v1/admin/stats',
       orders_checkout: 'POST /api/v1/orders/checkout',
       orders_status: 'GET /api/v1/orders/:orderNumber/status',

@@ -25,6 +25,10 @@ export function getAuthToken(): string | null {
   try { return storage()?.getItem(AUTH_TOKEN_KEY) || null; } catch { return null; }
 }
 
+export function setAuthToken(token: string) {
+  try { storage()?.setItem(AUTH_TOKEN_KEY, token); } catch { /* Browser storage may be blocked. */ }
+}
+
 export function clearAuthToken() {
   try { storage()?.removeItem(AUTH_TOKEN_KEY); } catch { /* Browser storage may be blocked. */ }
 }

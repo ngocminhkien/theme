@@ -141,9 +141,9 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/themes?builder=elementor" className="hover:text-amber-400 transition flex items-center gap-2">
+                <Link href="/themes?category=landing-page" className="hover:text-amber-400 transition flex items-center gap-2">
                   <span className="w-2 h-2 rounded-full bg-amber-400" />
-                  Theme Tương Thích Elementor Pro
+                  Theme Landing Page &amp; Chuyển Đổi Cao
                 </Link>
               </li>
             </ul>

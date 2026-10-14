@@ -15,6 +15,7 @@ import {
   PhoneCall,
 } from 'lucide-react';
 import { Interactive3DBackground } from './Interactive3DBackground';
+import { AnimatedCounter } from '@/components/ui/AnimatedCounter';
 
 export function HeroSection() {
   const router = useRouter();
@@ -79,67 +80,57 @@ export function HeroSection() {
 
       <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12 relative z-10">
         {/* Main Hero Container */}
-        <div className="text-center max-w-5xl mx-auto pt-2 sm:pt-4 pb-6 sm:pb-10">
-          {/* Badge: Slogan & Trust Signal (Removed #1 VN) */}
-          <div className="inline-flex items-center gap-2 px-3.5 sm:px-4 py-1.5 rounded-full bg-rose-50 border border-rose-200/80 text-rose-700 text-xs sm:text-sm font-black mb-4 sm:mb-6 shadow-2xs max-w-full animate-float-slow">
-            <span className="flex h-2 w-2 sm:h-2.5 sm:w-2.5 rounded-full bg-rose-500 animate-ping shrink-0" />
-            <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-500 shrink-0" />
-            <span className="truncate sm:whitespace-normal uppercase">
-              THẾ GIỚI THEME & PLUGIN WORDPRESS BẢN QUYỀN CHÍNH HÃNG
+        <div className="text-center max-w-5xl mx-auto pt-3 sm:pt-6 pb-6 sm:pb-10">
+          {/* Main Headline with Balanced Semantic Line Breaks & High Contrast High-Legibility Colors */}
+          <h1 className="text-2xl xs:text-3xl sm:text-5xl lg:text-6xl 2xl:text-7xl font-black tracking-tight leading-[1.2] sm:leading-[1.18] mb-6 sm:mb-8 text-balance">
+            <span className="block text-slate-900 [html[data-site-theme='midnight']_&]:text-white">
+              <span className="inline-block">Kho Giao Diện Website</span>{' '}
+              <span className="inline-block">&amp; Plugin WordPress</span>
             </span>
-          </div>
-
-          {/* Main Headline with Animated Shimmer Gradient */}
-          <h1 className="text-2xl xs:text-3xl sm:text-5xl lg:text-6xl 2xl:text-7xl font-black text-slate-900 tracking-tight leading-[1.15] sm:leading-[1.12] mb-4 sm:mb-6">
-            Kho Giao Diện Website & Plugin WordPress{' '}
-            <span className="bg-gradient-to-r from-brand-600 via-indigo-600 to-amber-500 bg-clip-text text-transparent animate-shimmer-text">
-              Bản Quyền Giá Rẻ Chuẩn SEO
+            <span className="block mt-2 sm:mt-3 bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 bg-clip-text text-transparent [html[data-site-theme='midnight']_&]:from-cyan-300 [html[data-site-theme='midnight']_&]:via-sky-200 [html[data-site-theme='midnight']_&]:to-indigo-300">
+              <span className="inline-block">Bản Quyền Giá Rẻ</span>{' '}
+              <span className="inline-block">Chuẩn SEO</span>
             </span>
           </h1>
 
-          {/* Subtitle */}
-          <p className="text-sm sm:text-lg md:text-xl 2xl:text-2xl text-slate-600 max-w-4xl mx-auto leading-relaxed mb-6 sm:mb-8 font-normal">
-            Hơn <strong>500+ Theme WordPress, WooCommerce & Landing Page</strong> chuẩn SEO, tối ưu Google PageSpeed 99+, sạch 100% không mã độc, cập nhật trọn đời và kích hoạt bản quyền tự động 24/7 sau 30 giây qua VietQR.
-          </p>
-
-          {/* Centered Large Search Bar (Fluid max-w-3xl) */}
+          {/* Centered Large Search Command Bar */}
           <form
             onSubmit={handleHeroSearch}
-            className="max-w-3xl mx-auto bg-white p-2 sm:p-2.5 rounded-2xl sm:rounded-full border-2 border-slate-200 shadow-2xl flex flex-col sm:flex-row items-center gap-2 mb-5 sm:mb-6 focus-within:ring-4 focus-within:ring-brand-500/15 focus-within:border-brand-500 transition-all duration-300"
+            className="max-w-3xl mx-auto bg-white/95 backdrop-blur-2xl p-2 sm:p-2.5 rounded-2xl sm:rounded-full border border-slate-200 hover:border-blue-400 shadow-[0_10px_40px_-10px_rgba(30,41,59,0.08)] flex flex-col sm:flex-row items-center gap-2 mb-5 sm:mb-6 focus-within:ring-2 focus-within:ring-blue-500/20 focus-within:border-blue-500 transition-all duration-300 [html[data-site-theme='midnight']_&]:bg-slate-900/90 [html[data-site-theme='midnight']_&]:border-cyan-500/35"
           >
             {/* Quick Category Selector */}
-            <div className="w-full sm:w-auto sm:border-r border-slate-200 border-b sm:border-b-0 pb-2 sm:pb-0 sm:pr-4 px-3 sm:pl-4 py-1.5">
+            <div className="w-full sm:w-auto sm:border-r border-slate-200 border-b sm:border-b-0 pb-2 sm:pb-0 sm:pr-4 px-3 sm:pl-4 py-1.5 [html[data-site-theme='midnight']_&]:border-slate-700/80">
               <select
                 value={selectedCat}
                 onChange={(e) => setSelectedCat(e.target.value)}
                 aria-label="Chọn nhóm ngành giao diện"
-                className="w-full sm:w-auto bg-transparent text-xs sm:text-sm font-bold text-slate-700 outline-none cursor-pointer"
+                className="w-full sm:w-auto bg-transparent text-xs sm:text-sm font-bold text-slate-800 outline-none cursor-pointer [html[data-site-theme='midnight']_&]:text-slate-200"
               >
-                <option value="all">Mọi ngành nghề</option>
-                <option value="e-commerce">Bán Hàng & Shop</option>
-                <option value="corporate-b2b">Doanh Nghiệp & B2B</option>
-                <option value="tech-education">Công Nghệ & SaaS</option>
-                <option value="real-estate">Bất Động Sản</option>
-                <option value="news-blog">Tin Tức & Blog</option>
+                <option value="all" className="bg-white text-slate-800 [html[data-site-theme='midnight']_&]:bg-slate-900 [html[data-site-theme='midnight']_&]:text-slate-200">Mọi ngành nghề</option>
+                <option value="e-commerce" className="bg-white text-slate-800 [html[data-site-theme='midnight']_&]:bg-slate-900 [html[data-site-theme='midnight']_&]:text-slate-200">Bán Hàng &amp; Shop</option>
+                <option value="corporate-b2b" className="bg-white text-slate-800 [html[data-site-theme='midnight']_&]:bg-slate-900 [html[data-site-theme='midnight']_&]:text-slate-200">Doanh Nghiệp &amp; B2B</option>
+                <option value="tech-education" className="bg-white text-slate-800 [html[data-site-theme='midnight']_&]:bg-slate-900 [html[data-site-theme='midnight']_&]:text-slate-200">Công Nghệ &amp; SaaS</option>
+                <option value="real-estate" className="bg-white text-slate-800 [html[data-site-theme='midnight']_&]:bg-slate-900 [html[data-site-theme='midnight']_&]:text-slate-200">Bất Động Sản</option>
+                <option value="news-blog" className="bg-white text-slate-800 [html[data-site-theme='midnight']_&]:bg-slate-900 [html[data-site-theme='midnight']_&]:text-slate-200">Tin Tức &amp; Blog</option>
               </select>
             </div>
 
             {/* Input */}
             <div className="flex-1 w-full flex items-center px-3 py-1.5 min-w-0">
-              <Search className="w-4.5 h-4.5 sm:w-5 sm:h-5 text-slate-400 mr-2.5 shrink-0" />
+              <Search className="w-4.5 h-4.5 sm:w-5 sm:h-5 text-blue-600 mr-2.5 shrink-0 [html[data-site-theme='midnight']_&]:text-cyan-400" />
               <input
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
                 placeholder="Tìm theme theo từ khóa, ngành nghề, builder (WoodMart, Flatsome, Bán hàng...)"
-                className="w-full bg-transparent text-xs sm:text-base text-slate-800 placeholder:text-slate-400 outline-none font-semibold min-w-0"
+                className="w-full bg-transparent text-xs sm:text-base text-slate-900 placeholder:text-slate-400 outline-none font-semibold min-w-0 [html[data-site-theme='midnight']_&]:text-slate-100"
               />
             </div>
 
             {/* CTA Button */}
             <button
               type="submit"
-              className="w-full sm:w-auto px-8 sm:px-10 py-3.5 sm:py-4 bg-gradient-to-r from-brand-600 via-indigo-600 to-amber-500 hover:from-brand-500 hover:to-amber-600 text-white font-black text-xs sm:text-sm uppercase tracking-wider rounded-xl sm:rounded-full shadow-glow flex items-center justify-center gap-2 transition-all duration-200 hover:scale-[1.02] cursor-pointer shrink-0"
+              className="w-full sm:w-auto px-8 sm:px-10 py-3.5 sm:py-4 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-black text-xs sm:text-sm uppercase tracking-wider rounded-xl sm:rounded-full shadow-md shadow-blue-500/25 flex items-center justify-center gap-2 transition-all duration-200 hover:scale-[1.02] cursor-pointer shrink-0"
             >
               <span>Tìm Kiếm</span>
               <ArrowRight className="w-4 h-4 sm:w-4.5 sm:h-4.5" />
@@ -156,7 +147,7 @@ export function HeroSection() {
               { label: 'Flatsome Shop', search: 'Flatsome' },
               { label: 'WoodMart Siêu Tốc', search: 'WoodMart' },
               { label: 'Doanh Nghiệp B2B', query: 'corporate-b2b' },
-              { label: 'Elementor Pro', builder: 'elementor' },
+              { label: 'Landing Page', query: 'landing-page' },
               { label: 'Bất Động Sản', query: 'real-estate' },
             ].map((chip, idx) => (
               <Link
@@ -164,9 +155,7 @@ export function HeroSection() {
                 href={
                   chip.search
                     ? `/themes?search=${encodeURIComponent(chip.search)}`
-                    : chip.query
-                    ? `/themes?category=${chip.query}`
-                    : `/themes?builder=${chip.builder}`
+                    : `/themes?category=${chip.query}`
                 }
                 className="inline-flex items-center justify-center px-3 py-1.5 sm:px-4.5 sm:py-2 rounded-full bg-white hover:bg-brand-50 hover:text-brand-600 hover:border-brand-300 border border-slate-200/90 text-slate-700 shadow-2xs hover:shadow-sm text-xs sm:text-sm font-bold transition-all duration-200 leading-normal whitespace-nowrap"
               >
@@ -314,48 +303,70 @@ export function HeroSection() {
           </div>
         </div>
 
-        {/* Trust Stats Bar */}
+        {/* Elegant Trust Stats Bar with Smooth Count-Up Animation */}
         <div
           data-reveal="zoom-in"
-          className="mt-6 sm:mt-8 grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 p-5 sm:p-8 rounded-3xl wm-glass-panel"
+          className="mt-6 sm:mt-8 p-3 sm:p-4 rounded-2xl bg-white/90 [html[data-site-theme='midnight']_&]:bg-slate-900/85 backdrop-blur-xl border border-slate-200/90 [html[data-site-theme='midnight']_&]:border-slate-800 shadow-[0_4px_20px_-4px_rgba(0,0,0,0.06)] [html[data-site-theme='midnight']_&]:shadow-[0_10px_30px_-15px_rgba(0,0,0,0.5)] grid grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-3 lg:gap-4 transition-all duration-300"
         >
-          <div className="flex items-center gap-3.5 sm:gap-4">
-            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-brand-50 text-brand-600 flex items-center justify-center shrink-0">
-              <Layers className="w-6 h-6 sm:w-7 sm:h-7" />
+          {/* Stat 1: 500+ Themes */}
+          <div className="flex items-center gap-2.5 sm:gap-3.5 p-2 sm:p-2.5 rounded-xl transition-colors hover:bg-slate-50/80 [html[data-site-theme='midnight']_&]:hover:bg-slate-800/50">
+            <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl bg-blue-50 border border-blue-100/80 text-blue-600 flex items-center justify-center shrink-0 [html[data-site-theme='midnight']_&]:bg-blue-500/15 [html[data-site-theme='midnight']_&]:border-blue-500/25 [html[data-site-theme='midnight']_&]:text-blue-400">
+              <Layers className="w-5 h-5" />
             </div>
             <div className="min-w-0">
-              <div className="text-xl sm:text-3xl xl:text-4xl font-black text-slate-900 truncate">500+ Themes</div>
-              <div className="text-xs sm:text-sm text-slate-500 font-semibold">Bản quyền 100% sạch</div>
+              <div className="text-lg sm:text-2xl font-black text-slate-900 [html[data-site-theme='midnight']_&]:text-white tracking-tight leading-tight flex items-baseline gap-0.5">
+                <AnimatedCounter end={500} suffix="+" />
+              </div>
+              <div className="text-[11px] sm:text-xs text-slate-500 [html[data-site-theme='midnight']_&]:text-slate-400 font-semibold truncate mt-0.5">
+                Themes &amp; Plugin sạch
+              </div>
             </div>
           </div>
 
-          <div className="flex items-center gap-3.5 sm:gap-4">
-            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center shrink-0">
-              <ShieldCheck className="w-6 h-6 sm:w-7 sm:h-7" />
+          {/* Stat 2: 15.000+ Khách hàng */}
+          <div className="flex items-center gap-2.5 sm:gap-3.5 p-2 sm:p-2.5 rounded-xl transition-colors hover:bg-slate-50/80 [html[data-site-theme='midnight']_&]:hover:bg-slate-800/50">
+            <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl bg-emerald-50 border border-emerald-100/80 text-emerald-600 flex items-center justify-center shrink-0 [html[data-site-theme='midnight']_&]:bg-emerald-500/15 [html[data-site-theme='midnight']_&]:border-emerald-500/25 [html[data-site-theme='midnight']_&]:text-emerald-400">
+              <ShieldCheck className="w-5 h-5" />
             </div>
             <div className="min-w-0">
-              <div className="text-xl sm:text-3xl xl:text-4xl font-black text-slate-900 truncate">15.000+</div>
-              <div className="text-xs sm:text-sm text-slate-500 font-semibold">Khách hàng tin cậy</div>
+              <div className="text-lg sm:text-2xl font-black text-slate-900 [html[data-site-theme='midnight']_&]:text-white tracking-tight leading-tight flex items-baseline gap-0.5">
+                <AnimatedCounter end={15000} separator="." suffix="+" />
+              </div>
+              <div className="text-[11px] sm:text-xs text-slate-500 [html[data-site-theme='midnight']_&]:text-slate-400 font-semibold truncate mt-0.5">
+                Khách hàng tin cậy
+              </div>
             </div>
           </div>
 
-          <div className="flex items-center gap-3.5 sm:gap-4">
-            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center shrink-0">
-              <Zap className="w-6 h-6 sm:w-7 sm:h-7" />
+          {/* Stat 3: 99/100 PageSpeed */}
+          <div className="flex items-center gap-2.5 sm:gap-3.5 p-2 sm:p-2.5 rounded-xl transition-colors hover:bg-slate-50/80 [html[data-site-theme='midnight']_&]:hover:bg-slate-800/50">
+            <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl bg-amber-50 border border-amber-100/80 text-amber-600 flex items-center justify-center shrink-0 [html[data-site-theme='midnight']_&]:bg-amber-500/15 [html[data-site-theme='midnight']_&]:border-amber-500/25 [html[data-site-theme='midnight']_&]:text-amber-400">
+              <Zap className="w-5 h-5" />
             </div>
             <div className="min-w-0">
-              <div className="text-xl sm:text-3xl xl:text-4xl font-black text-slate-900 truncate">99/100</div>
-              <div className="text-xs sm:text-sm text-slate-500 font-semibold">PageSpeed xanh mướt</div>
+              <div className="text-lg sm:text-2xl font-black text-slate-900 [html[data-site-theme='midnight']_&]:text-white tracking-tight leading-tight flex items-baseline gap-1">
+                <AnimatedCounter end={99} />
+                <span className="text-xs sm:text-sm font-semibold text-slate-400 [html[data-site-theme='midnight']_&]:text-slate-500">/100</span>
+              </div>
+              <div className="text-[11px] sm:text-xs text-slate-500 [html[data-site-theme='midnight']_&]:text-slate-400 font-semibold truncate mt-0.5">
+                PageSpeed siêu tốc
+              </div>
             </div>
           </div>
 
-          <div className="flex items-center gap-3.5 sm:gap-4">
-            <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl bg-rose-50 text-rose-600 flex items-center justify-center shrink-0">
-              <Star className="w-6 h-6 sm:w-7 sm:h-7 text-amber-400 fill-amber-400" />
+          {/* Stat 4: 4.9/5.0 Đánh giá */}
+          <div className="flex items-center gap-2.5 sm:gap-3.5 p-2 sm:p-2.5 rounded-xl transition-colors hover:bg-slate-50/80 [html[data-site-theme='midnight']_&]:hover:bg-slate-800/50">
+            <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl bg-purple-50 border border-purple-100/80 text-purple-600 flex items-center justify-center shrink-0 [html[data-site-theme='midnight']_&]:bg-purple-500/15 [html[data-site-theme='midnight']_&]:border-purple-500/25 [html[data-site-theme='midnight']_&]:text-purple-400">
+              <Star className="w-5 h-5 text-amber-500 fill-amber-400" />
             </div>
             <div className="min-w-0">
-              <div className="text-xl sm:text-3xl xl:text-4xl font-black text-slate-900 truncate">4.9 / 5.0</div>
-              <div className="text-xs sm:text-sm text-slate-500 font-semibold">Đánh giá 5 sao uy tín</div>
+              <div className="text-lg sm:text-2xl font-black text-slate-900 [html[data-site-theme='midnight']_&]:text-white tracking-tight leading-tight flex items-baseline gap-1">
+                <AnimatedCounter end={4.9} decimals={1} />
+                <span className="text-xs sm:text-sm font-semibold text-slate-400 [html[data-site-theme='midnight']_&]:text-slate-500">/ 5.0</span>
+              </div>
+              <div className="text-[11px] sm:text-xs text-slate-500 [html[data-site-theme='midnight']_&]:text-slate-400 font-semibold truncate mt-0.5">
+                Đánh giá 5 sao uy tín
+              </div>
             </div>
           </div>
         </div>

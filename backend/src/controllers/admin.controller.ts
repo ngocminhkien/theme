@@ -92,7 +92,17 @@ const fallbackAdminThemes: any[] = [
 ];
 
 function isDbOfflineError(error: any): boolean {
-  return error?.code === 'ECONNREFUSED' || String(error?.message || '').includes('ECONNREFUSED');
+  const code = error?.code || '';
+  const msg = String(error?.message || '');
+  return (
+    code === 'ECONNREFUSED' ||
+    code === 'ER_ACCESS_DENIED_ERROR' ||
+    code === 'ETIMEDOUT' ||
+    code === 'ENOTFOUND' ||
+    msg.includes('ECONNREFUSED') ||
+    msg.includes('Access denied') ||
+    msg.includes('ETIMEDOUT')
+  );
 }
 
 export class AdminController {

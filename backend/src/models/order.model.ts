@@ -251,10 +251,8 @@ export class OrderModel {
       }
       return orders;
     } catch (error: any) {
-      if (error?.code === 'ECONNREFUSED' || String(error?.message || '').includes('ECONNREFUSED')) {
-        return [...inMemoryOrders.values()].filter((o) => o.user_id === userId);
-      }
-      throw error;
+      console.warn('[OrderModel.findByUserId] DB Error, tra cứu in-memory:', error?.message);
+      return [...inMemoryOrders.values()].filter((o) => o.user_id === userId);
     }
   }
 

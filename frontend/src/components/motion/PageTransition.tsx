@@ -13,27 +13,18 @@ export interface PageTransitionProps {
  */
 export function PageTransition({ children }: PageTransitionProps) {
   const pathname = usePathname();
-  const [stage, setStage] = useState<'entering' | 'entered'>('entering');
+  const [stage, setStage] = useState<'entering' | 'entered'>('entered');
 
   useEffect(() => {
     setStage('entering');
-    const raf = window.requestAnimationFrame(() => {
-      const timer = window.setTimeout(() => {
-        setStage('entered');
-      }, 30);
-      return () => window.clearTimeout(timer);
-    });
-    return () => window.cancelAnimationFrame(raf);
+    const timer = window.setTimeout(() => {
+      setStage('entered');
+    }, 250);
+    return () => window.clearTimeout(timer);
   }, [pathname]);
 
   return (
-    <div
-      key={pathname}
-      data-route-stage={stage}
-      className={`wm-page-transition ${
-        stage === 'entered' ? 'wm-page-entered' : 'wm-page-entering'
-      }`}
-    >
+    <div className="wm-page-transition w-full">
       {/* Top Route Transition Laser Glow */}
       <div
         aria-hidden="true"

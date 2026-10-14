@@ -19,35 +19,24 @@ export default function HomePage() {
       {/* Main Content Area */}
       <main className="flex-1">
         {/* Hero Section: Centered Big Search, Glow Grid & Highlight Banners */}
-        <ScrollReveal variant="fade-up" durationMs={650}>
-          <HeroSection />
-        </ScrollReveal>
+        <HeroSection />
 
         {/* Feature Grid Trust Strip */}
-        <ScrollReveal variant="fade-up" delayMs={60}>
-          <MarqueeFeatures />
-        </ScrollReveal>
+        <MarqueeFeatures />
 
         {/* Popular Categories Grid */}
-        <ScrollReveal variant="fade-up" delayMs={80}>
-          <PopularCategories />
-        </ScrollReveal>
+        <PopularCategories />
 
-        {/* Featured Themes Grid with Filter Tabs */}
-        <ScrollReveal variant="fade-up" delayMs={80}>
-          <FeaturedThemesSection />
-        </ScrollReveal>
+        {/* Featured Themes Grid with Filter Tabs & Shimmer Loading */}
+        <FeaturedThemesSection />
 
         {/* Promotional Countdown Deal Banner */}
-        <ScrollReveal variant="tilt-up" delayMs={90}>
-          <PromoDealBanner />
-        </ScrollReveal>
+        <PromoDealBanner />
       </main>
 
       {/* SaaS Dark Footer */}
-      <ScrollReveal variant="fade-up" delayMs={50}>
-        <Footer />
-      </ScrollReveal>
+      <Footer />
     </div>
   );
 }
+

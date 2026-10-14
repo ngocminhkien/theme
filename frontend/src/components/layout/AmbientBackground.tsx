@@ -45,7 +45,7 @@ export function applySiteTheme(mode: SiteThemeMode) {
 }
 
 export function useSiteTheme(): [SiteThemeMode, (mode: SiteThemeMode) => void] {
-  const [theme, setTheme] = useState<SiteThemeMode>('aurora');
+  const [theme, setTheme] = useState<SiteThemeMode>('midnight');
 
   useEffect(() => {
     try {
@@ -54,10 +54,10 @@ export function useSiteTheme(): [SiteThemeMode, (mode: SiteThemeMode) => void] {
         setTheme(saved);
         document.documentElement.setAttribute('data-site-theme', saved);
       } else {
-        document.documentElement.setAttribute('data-site-theme', 'aurora');
+        document.documentElement.setAttribute('data-site-theme', 'midnight');
       }
     } catch {
-      document.documentElement.setAttribute('data-site-theme', 'aurora');
+      document.documentElement.setAttribute('data-site-theme', 'midnight');
     }
 
     const onThemeChange = (e: Event) => {
@@ -83,14 +83,18 @@ export function ThemeSwitcherPill({ compact = false }: { compact?: boolean }) {
 
   return (
     <div
-      className="inline-flex items-center gap-1 rounded-full bg-slate-900/90 p-0.5 border border-slate-700/80 shadow-inner"
+      className={`inline-flex items-center rounded-full bg-slate-900/90 border border-slate-700/80 shadow-inner ${
+        compact ? 'gap-0.5 p-0.5' : 'gap-1 p-0.5'
+      }`}
       role="group"
       aria-label="Chọn chủ đề giao diện (Theme)"
     >
-      <span className="hidden xl:inline-flex items-center gap-1 pl-2.5 pr-1 text-[11px] font-bold text-slate-400">
-        <Palette className="w-3.5 h-3.5 text-indigo-400" />
-        <span>Theme:</span>
-      </span>
+      {!compact && (
+        <span className="hidden 2xl:inline-flex items-center gap-1 pl-2.5 pr-1 text-[11px] font-bold text-slate-400">
+          <Palette className="w-3.5 h-3.5 text-indigo-400" />
+          <span>Theme:</span>
+        </span>
+      )}
       {SITE_THEMES.map((item) => {
         const active = theme === item.id;
         return (
@@ -99,14 +103,16 @@ export function ThemeSwitcherPill({ compact = false }: { compact?: boolean }) {
             type="button"
             onClick={() => setTheme(item.id)}
             title={`Đổi giao diện sang ${item.label}`}
-            className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-[11px] font-extrabold transition-all duration-300 cursor-pointer ${
+            className={`inline-flex items-center gap-1 rounded-full font-extrabold transition-all duration-300 cursor-pointer ${
+              compact ? 'px-2 py-0.5 text-[10px] sm:text-[11px]' : 'px-2.5 py-1 text-[11px]'
+            } ${
               active
-                ? 'bg-gradient-to-r from-brand-600 via-indigo-600 to-cyan-600 text-white shadow-sm scale-[1.02]'
+                ? 'bg-gradient-to-r from-brand-600 via-indigo-600 to-cyan-600 text-white shadow-xs scale-[1.02]'
                 : 'text-slate-400 hover:text-white'
             }`}
           >
-            <span className={`w-2 h-2 rounded-full ${item.dotClass} ${active ? 'ring-2 ring-white/60' : ''}`} />
-            <span>{compact ? item.shortLabel : item.shortLabel}</span>
+            <span className={`w-2 h-2 rounded-full shrink-0 ${item.dotClass} ${active ? 'ring-2 ring-white/60' : ''}`} />
+            <span>{item.shortLabel}</span>
           </button>
         );
       })}

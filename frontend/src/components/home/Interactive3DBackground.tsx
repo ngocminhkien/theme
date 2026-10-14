@@ -93,33 +93,33 @@ export function Interactive3DBackground() {
 
       ctx.clearRect(0, 0, width, height);
 
-      // 1. Draw 3D Perspective Cyber Floor Grid
+      // 1. Draw 3D Perspective Cyber Floor Grid (Grounded in deep lower background)
       ctx.save();
-      const horizonY = height * 0.65;
-      const vanishingX = width / 2 + cameraOffsetX * 0.3;
-      const gridLines = 14;
-      const fanningLines = 18;
+      const horizonY = height * 0.82;
+      const vanishingX = width / 2 + cameraOffsetX * 0.2;
+      const gridLines = 10;
+      const fanningLines = 16;
 
-      // Perspective horizontal lines receding to horizon
+      // Perspective horizontal lines receding into distant cyber horizon
       for (let i = 1; i <= gridLines; i++) {
-        const p = Math.pow(i / gridLines, 2.2);
+        const p = Math.pow(i / gridLines, 2.4);
         const y = horizonY + p * (height - horizonY);
-        const alpha = Math.min(0.18, p * 0.25);
+        const alpha = Math.min(0.12, p * 0.16);
         ctx.beginPath();
         ctx.moveTo(0, y);
         ctx.lineTo(width, y);
-        ctx.strokeStyle = `rgba(99, 102, 241, ${alpha})`;
+        ctx.strokeStyle = `rgba(6, 182, 212, ${alpha})`;
         ctx.lineWidth = 1;
         ctx.stroke();
       }
 
       // Perspective vertical fan lines spreading from vanishing point
       for (let j = -fanningLines / 2; j <= fanningLines / 2; j++) {
-        const bottomX = width / 2 + j * (width / fanningLines) * 2.2;
+        const bottomX = width / 2 + j * (width / fanningLines) * 2.4;
         ctx.beginPath();
         ctx.moveTo(vanishingX, horizonY);
         ctx.lineTo(bottomX, height);
-        ctx.strokeStyle = 'rgba(6, 182, 212, 0.08)';
+        ctx.strokeStyle = 'rgba(99, 102, 241, 0.06)';
         ctx.lineWidth = 1;
         ctx.stroke();
       }
@@ -203,19 +203,19 @@ export function Interactive3DBackground() {
         [0, 4], [1, 5], [2, 6], [3, 7],
       ];
       draw3DShape(
-        -width * 0.35,
-        -height * 0.2 + Math.sin(time * 0.8) * 20,
-        340,
+        -width * 0.42,
+        -height * 0.22 + Math.sin(time * 0.6) * 16,
+        460,
         cubeVerts,
         cubeEdges,
-        time * 0.4 + cameraOffsetY * 0.003,
-        time * 0.5 + cameraOffsetX * 0.003,
-        time * 0.2,
-        'rgba(99, 102, 241, 0.35)'
+        time * 0.25 + cameraOffsetY * 0.002,
+        time * 0.3 + cameraOffsetX * 0.002,
+        time * 0.15,
+        'rgba(99, 102, 241, 0.22)'
       );
 
-      // 3D Octahedron (top-right)
-      const octSize = 70;
+      // 3D Octahedron (top-right flank)
+      const octSize = 65;
       const octVerts = [
         [0, -octSize, 0],
         [0, octSize, 0],
@@ -230,15 +230,15 @@ export function Interactive3DBackground() {
         [2, 4], [4, 3], [3, 5], [5, 2],
       ];
       draw3DShape(
-        width * 0.36,
-        -height * 0.14 + Math.cos(time * 0.7) * 22,
-        320,
+        width * 0.43,
+        -height * 0.16 + Math.cos(time * 0.5) * 18,
+        440,
         octVerts,
         octEdges,
-        time * 0.35 + cameraOffsetY * 0.003,
-        -time * 0.45 - cameraOffsetX * 0.003,
-        time * 0.15,
-        'rgba(245, 158, 11, 0.35)'
+        time * 0.22 + cameraOffsetY * 0.002,
+        -time * 0.28 - cameraOffsetX * 0.002,
+        time * 0.12,
+        'rgba(6, 182, 212, 0.24)'
       );
 
       // 3. Project & Render 3D Floating Particles

@@ -13,6 +13,12 @@ import {
   ArrowRight,
   User,
   UserRound,
+  Lock,
+  KeyRound,
+  PackageCheck,
+  ReceiptText,
+  LogOut,
+  ShieldCheck,
   Menu,
   Phone,
   Flame,
@@ -21,16 +27,48 @@ import {
 import { useCartStore } from '@/shared/stores/cart.store';
 import { THEMES_DATA, CATEGORIES_LIST } from '@/shared/data/themes-data';
 import { ThemeSwitcherPill } from '@/components/layout/AmbientBackground';
+import { getAuthToken, getCurrentUser, clearAuthToken, AuthUser } from '@/features/auth/auth-client';
 
-export function HeaderMain() {
+export function HeaderMain({ isScrolled = false }: { isScrolled?: boolean }) {
   const router = useRouter();
-  const { items, currency, getTotal, openCart, isCartOpen } = useCartStore();
+  const { items, currency, openCart, isCartOpen } = useCartStore();
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [showSearchDropdown, setShowSearchDropdown] = useState(false);
   const [mobileSearchOpen, setMobileSearchOpen] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [currentUser, setCurrentUser] = useState<AuthUser | null>(null);
+  const [accountMenuOpen, setAccountMenuOpen] = useState(false);
+  const accountMenuTimeoutRef = useRef<NodeJS.Timeout | null>(null);
   const searchContainerRef = useRef<HTMLDivElement>(null);
+
+  const handleAccountMouseEnter = () => {
+    if (!currentUser) return;
+    if (accountMenuTimeoutRef.current) {
+      clearTimeout(accountMenuTimeoutRef.current);
+    }
+    setAccountMenuOpen(true);
+  };
+
+  const handleAccountMouseLeave = () => {
+    accountMenuTimeoutRef.current = setTimeout(() => {
+      setAccountMenuOpen(false);
+    }, 180);
+  };
+
+  const handleLogout = () => {
+    clearAuthToken();
+    setCurrentUser(null);
+    setAccountMenuOpen(false);
+    window.location.href = '/login';
+  };
+
+  // Check auth session for account button
+  useEffect(() => {
+    if (getAuthToken()) {
+      getCurrentUser().then(setCurrentUser).catch(() => null);
+    }
+  }, []);
 
   // Close live search dropdown when clicking outside
   useEffect(() => {
@@ -71,14 +109,8 @@ export function HeaderMain() {
     }
   };
 
-  const totalPrice = getTotal();
-  const priceDisplay =
-    currency === 'VND'
-      ? `${totalPrice.toLocaleString('vi-VN')} ₫`
-      : `$${totalPrice}`;
-
   return (
-    <div className="bg-white/95 backdrop-blur-xl border-b border-slate-200 sticky top-0 z-40 transition-all duration-200 shadow-xs w-full">
+    <div className="border-b border-slate-200/90 [html[data-site-theme='midnight']_&]:border-slate-800/90 relative z-40 w-full bg-white/95 backdrop-blur-xl [html[data-site-theme='midnight']_&]:bg-slate-950/95 shadow-2xs">
       <div className="w-full max-w-[1720px] mx-auto px-3 sm:px-6 lg:px-8 xl:px-12 h-16 sm:h-20 lg:h-22 flex items-center justify-between gap-2.5 sm:gap-5">
         {/* Brand Logo - THEME STORE */}
         <Link href="/" className="flex items-center gap-2.5 sm:gap-3.5 shrink-0 group min-w-0">
@@ -88,17 +120,12 @@ export function HeaderMain() {
               CHÍNH HÃNG
             </span>
           </div>
-          <div className="flex flex-col min-w-0">
-            <div className="flex items-center gap-1.5 sm:gap-2">
-              <span className="font-black text-lg xs:text-xl sm:text-3xl tracking-tight text-slate-900 group-hover:text-brand-600 transition truncate">
-                THEME<span className="text-amber-500">STORE</span>
-              </span>
-              <span className="hidden xs:inline-block px-1.5 sm:px-2 py-0.5 rounded text-[10px] sm:text-xs font-black bg-brand-50 text-brand-700 border border-brand-200 shrink-0">
-                PRO
-              </span>
-            </div>
-            <span className="hidden sm:block text-xs font-bold tracking-tight text-slate-500 uppercase line-clamp-1">
-              Thế giới Theme & Plugin WordPress bản quyền chính hãng
+          <div className="flex items-center gap-1.5 sm:gap-2 min-w-0">
+            <span className="font-black text-lg xs:text-xl sm:text-2xl lg:text-3xl tracking-tight text-slate-900 [html[data-site-theme='midnight']_&]:text-white group-hover:text-blue-600 transition truncate">
+              THEME<span className="text-amber-500">STORE</span>
+            </span>
+            <span className="hidden xs:inline-block px-1.5 sm:px-2 py-0.5 rounded text-[10px] sm:text-xs font-black bg-blue-50 text-blue-700 border border-blue-200 [html[data-site-theme='midnight']_&]:bg-cyan-500/15 [html[data-site-theme='midnight']_&]:text-cyan-300 [html[data-site-theme='midnight']_&]:border-cyan-500/30 shrink-0">
+              PRO
             </span>
           </div>
         </Link>
@@ -107,7 +134,7 @@ export function HeaderMain() {
         <div ref={searchContainerRef} className="hidden md:block flex-1 max-w-3xl xl:max-w-4xl relative min-w-0">
           <form
             onSubmit={handleSearchSubmit}
-            className="flex items-center bg-slate-100 hover:bg-slate-100/90 focus-within:bg-white rounded-2xl border-2 border-slate-200 focus-within:border-brand-500 focus-within:ring-4 focus-within:ring-brand-500/10 transition-all duration-200 overflow-hidden shadow-xs"
+            className="flex items-center bg-slate-100 hover:bg-slate-100/90 focus-within:bg-white rounded-2xl border-2 border-slate-300 focus-within:border-brand-500 focus-within:ring-4 focus-within:ring-brand-500/10 transition-all duration-200 overflow-hidden shadow-xs"
           >
             {/* Category Dropdown */}
             <div className="relative border-r border-slate-200 shrink-0 bg-slate-50 hidden lg:block">
@@ -115,7 +142,7 @@ export function HeaderMain() {
                 value={selectedCategory}
                 onChange={(e) => setSelectedCategory(e.target.value)}
                 aria-label="Chọn danh mục theme"
-                className="appearance-none bg-transparent pl-4 pr-8 py-3.5 text-sm font-bold text-slate-700 outline-none cursor-pointer hover:text-brand-600 transition"
+                className="appearance-none bg-transparent pl-4 pr-8 py-3.5 text-sm font-bold text-slate-900 outline-none cursor-pointer hover:text-brand-600 transition"
               >
                 <option value="all">Tất cả ngành nghề</option>
                 {CATEGORIES_LIST.filter((c) => c.id !== 'all').map((cat) => (
@@ -124,7 +151,7 @@ export function HeaderMain() {
                   </option>
                 ))}
               </select>
-              <ChevronDown className="w-4 h-4 text-slate-400 absolute right-2.5 top-1/2 -translate-y-1/2 pointer-events-none" />
+              <ChevronDown className="w-4 h-4 text-slate-600 absolute right-2.5 top-1/2 -translate-y-1/2 pointer-events-none" />
             </div>
 
             {/* Input field */}
@@ -138,7 +165,7 @@ export function HeaderMain() {
                 }}
                 onFocus={() => setShowSearchDropdown(true)}
                 placeholder="Tìm theme theo tên, ngành nghề (Bán hàng, Bất động sản, Flatsome, WoodMart...)"
-                className="w-full bg-transparent px-4 py-3 lg:py-3.5 text-sm text-slate-800 placeholder:text-slate-400 outline-none font-semibold min-w-0"
+                className="w-full bg-transparent px-4 py-3 lg:py-3.5 text-sm text-slate-950 placeholder:text-slate-500 outline-none font-bold min-w-0"
               />
               {searchTerm && (
                 <button
@@ -247,7 +274,7 @@ export function HeaderMain() {
           </button>
 
 
-          {/* Cart Button */}
+          {/* Cart Icon Button (Giỏ hàng đưa sang trước, sau tìm kiếm) */}
           <button
             type="button"
             aria-label="Mở giỏ hàng"
@@ -255,27 +282,134 @@ export function HeaderMain() {
             aria-expanded={isCartOpen}
             aria-controls="cart-drawer"
             onClick={openCart}
-            className="flex items-center gap-2 sm:gap-3.5 px-3 sm:px-5 py-2 sm:py-2.5 bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 hover:from-brand-600 hover:to-indigo-600 text-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-glow transition-all duration-200 cursor-pointer group shrink-0 sm:min-w-[140px]"
-            title="Mở giỏ hàng"
+            className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl sm:rounded-2xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white flex items-center justify-center transition-all duration-200 cursor-pointer shrink-0 relative shadow-md shadow-blue-500/20 hover:scale-105"
           >
-            <div className="relative shrink-0 flex items-center justify-center">
-              <ShoppingBag className="w-5 h-5 group-hover:scale-110 transition text-white" />
-              {items.length > 0 && (
-                <span className="absolute -top-2 -right-2 sm:-top-2.5 sm:-right-2.5 bg-rose-500 text-white text-[10px] font-black w-4.5 h-4.5 sm:w-5 sm:h-5 rounded-full flex items-center justify-center border-2 border-slate-900 shadow-xs">
-                  {items.length}
-                </span>
-              )}
-            </div>
-
-            <div className="hidden xs:flex flex-col text-left whitespace-nowrap min-w-0 pr-0.5 sm:pr-1">
-              <span className="text-[10px] sm:text-xs text-slate-300 font-medium group-hover:text-white/90 leading-tight">
-                Giỏ Hàng
+            <ShoppingBag className="w-5 h-5 text-white transition-transform hover:scale-110" />
+            {items.length > 0 && (
+              <span className="absolute -top-1.5 -right-1.5 bg-rose-500 text-white text-[10px] font-black w-5 h-5 rounded-full flex items-center justify-center border-2 border-white [html[data-site-theme='midnight']_&]:border-slate-900 shadow-xs animate-in zoom-in-75">
+                {items.length}
               </span>
-              <span className="text-xs sm:text-sm font-black text-amber-400 group-hover:text-white leading-tight tracking-tight mt-0.5">
-                {priceDisplay}
-              </span>
-            </div>
+            )}
           </button>
+
+          {/* Account Icon Button with Smooth Hover Dropdown */}
+          <div
+            className="relative"
+            onMouseEnter={handleAccountMouseEnter}
+            onMouseLeave={handleAccountMouseLeave}
+          >
+            <Link
+              href={currentUser ? '/my-account' : '/login'}
+              aria-label={currentUser ? `Tài khoản: ${currentUser.full_name}` : 'Đăng nhập tài khoản'}
+              className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl sm:rounded-2xl border border-slate-200/90 [html[data-site-theme='midnight']_&]:border-slate-800 bg-slate-100/90 [html[data-site-theme='midnight']_&]:bg-slate-900/90 hover:bg-blue-50 [html[data-site-theme='midnight']_&]:hover:bg-slate-800 text-slate-700 [html[data-site-theme='midnight']_&]:text-slate-200 hover:text-blue-600 [html[data-site-theme='midnight']_&]:hover:text-cyan-300 flex items-center justify-center transition-all duration-200 cursor-pointer shrink-0 shadow-2xs hover:shadow-xs hover:scale-105"
+            >
+              {currentUser ? (
+                <span className="w-7 h-7 rounded-full bg-gradient-to-tr from-blue-600 to-indigo-600 text-white font-extrabold text-xs flex items-center justify-center shadow-xs">
+                  {(currentUser.full_name || currentUser.email || 'U').charAt(0).toUpperCase()}
+                </span>
+              ) : (
+                <User className="w-5 h-5 transition-transform hover:scale-110" />
+              )}
+            </Link>
+
+            {/* Hover Dropdown Menu: Chỉ hiển thị khi người dùng đã đăng nhập */}
+            {accountMenuOpen && currentUser && (
+              <div className="absolute right-0 top-full pt-2 w-72 sm:w-80 z-50 animate-in fade-in zoom-in-95 duration-150 origin-top-right">
+                <div className="bg-white [html[data-site-theme='midnight']_&]:bg-slate-900 rounded-2xl shadow-[0_20px_50px_rgba(15,23,42,0.18),0_4px_12px_rgba(0,0,0,0.05)] border border-slate-100 [html[data-site-theme='midnight']_&]:border-slate-800 p-2 text-slate-800 [html[data-site-theme='midnight']_&]:text-slate-100 overflow-hidden">
+                  {/* User Info Header */}
+                  <div className="p-3 bg-gradient-to-br from-slate-50 to-blue-50/50 [html[data-site-theme='midnight']_&]:from-slate-800/80 [html[data-site-theme='midnight']_&]:to-indigo-950/40 rounded-xl mb-1.5 border border-slate-100 [html[data-site-theme='midnight']_&]:border-slate-800">
+                    <div className="flex items-center gap-3">
+                      <div className="w-10 h-10 rounded-full bg-gradient-to-tr from-blue-600 to-indigo-600 text-white font-black text-sm flex items-center justify-center shrink-0 shadow-sm">
+                        {(currentUser.full_name || currentUser.email || 'U').charAt(0).toUpperCase()}
+                      </div>
+                      <div className="min-w-0 flex-1">
+                        <h4 className="font-bold text-sm text-slate-900 [html[data-site-theme='midnight']_&]:text-white truncate">
+                          {currentUser.full_name || 'Khách hàng'}
+                        </h4>
+                        <p className="text-xs text-slate-500 [html[data-site-theme='midnight']_&]:text-slate-400 truncate">
+                          {currentUser.email}
+                        </p>
+                        <span className="inline-block mt-1 px-2 py-0.5 rounded-full text-[10px] font-bold bg-blue-100/80 text-blue-800 [html[data-site-theme='midnight']_&]:bg-blue-900/60 [html[data-site-theme='midnight']_&]:text-blue-300">
+                          {currentUser.role === 'admin' ? 'Quản trị viên' : currentUser.role === 'author' ? 'Tác giả VIP' : 'Khách hàng'}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Menu Options */}
+                  <div className="space-y-0.5 py-1">
+                    <Link
+                      href="/my-account?tab=profile"
+                      onClick={() => setAccountMenuOpen(false)}
+                      className="flex items-center gap-2.5 px-3 py-2 text-xs font-semibold rounded-lg hover:bg-slate-100 [html[data-site-theme='midnight']_&]:hover:bg-slate-800 text-slate-700 [html[data-site-theme='midnight']_&]:text-slate-200 transition"
+                    >
+                      <UserRound className="w-4 h-4 text-blue-600 [html[data-site-theme='midnight']_&]:text-blue-400" />
+                      <span>Thông tin cá nhân</span>
+                    </Link>
+
+                    <Link
+                      href="/my-account?tab=password"
+                      onClick={() => setAccountMenuOpen(false)}
+                      className="flex items-center gap-2.5 px-3 py-2 text-xs font-semibold rounded-lg hover:bg-slate-100 [html[data-site-theme='midnight']_&]:hover:bg-slate-800 text-slate-700 [html[data-site-theme='midnight']_&]:text-slate-200 transition"
+                    >
+                      <Lock className="w-4 h-4 text-indigo-600 [html[data-site-theme='midnight']_&]:text-indigo-400" />
+                      <span>Đổi mật khẩu</span>
+                    </Link>
+
+                    <Link
+                      href="/my-account?tab=themes"
+                      onClick={() => setAccountMenuOpen(false)}
+                      className="flex items-center gap-2.5 px-3 py-2 text-xs font-semibold rounded-lg hover:bg-slate-100 [html[data-site-theme='midnight']_&]:hover:bg-slate-800 text-slate-700 [html[data-site-theme='midnight']_&]:text-slate-200 transition"
+                    >
+                      <PackageCheck className="w-4 h-4 text-emerald-600 [html[data-site-theme='midnight']_&]:text-emerald-400" />
+                      <span>Theme đã mua & Tải về</span>
+                    </Link>
+
+                    <Link
+                      href="/my-account?tab=licenses"
+                      onClick={() => setAccountMenuOpen(false)}
+                      className="flex items-center gap-2.5 px-3 py-2 text-xs font-semibold rounded-lg hover:bg-slate-100 [html[data-site-theme='midnight']_&]:hover:bg-slate-800 text-slate-700 [html[data-site-theme='midnight']_&]:text-slate-200 transition"
+                    >
+                      <KeyRound className="w-4 h-4 text-amber-600 [html[data-site-theme='midnight']_&]:text-amber-400" />
+                      <span>Quản lý License Bản quyền</span>
+                    </Link>
+
+                    <Link
+                      href="/my-account?tab=orders"
+                      onClick={() => setAccountMenuOpen(false)}
+                      className="flex items-center gap-2.5 px-3 py-2 text-xs font-semibold rounded-lg hover:bg-slate-100 [html[data-site-theme='midnight']_&]:hover:bg-slate-800 text-slate-700 [html[data-site-theme='midnight']_&]:text-slate-200 transition"
+                    >
+                      <ReceiptText className="w-4 h-4 text-sky-600 [html[data-site-theme='midnight']_&]:text-sky-400" />
+                      <span>Lịch sử đơn hàng</span>
+                    </Link>
+
+                    {currentUser.role === 'admin' && (
+                      <Link
+                        href="/admin"
+                        onClick={() => setAccountMenuOpen(false)}
+                        className="flex items-center gap-2.5 px-3 py-2 text-xs font-semibold rounded-lg bg-blue-50/70 hover:bg-blue-100 [html[data-site-theme='midnight']_&]:bg-blue-950/40 [html[data-site-theme='midnight']_&]:hover:bg-blue-900/50 text-blue-700 [html[data-site-theme='midnight']_&]:text-blue-300 transition"
+                      >
+                        <ShieldCheck className="w-4 h-4 text-blue-600" />
+                        <span>Trang Quản Trị Hệ Thống (Admin)</span>
+                      </Link>
+                    )}
+                  </div>
+
+                  {/* Logout Action */}
+                  <div className="pt-1 mt-1 border-t border-slate-100 [html[data-site-theme='midnight']_&]:border-slate-800">
+                    <button
+                      type="button"
+                      onClick={handleLogout}
+                      className="w-full flex items-center gap-2.5 px-3 py-2 text-xs font-bold rounded-lg text-rose-600 hover:bg-rose-50 [html[data-site-theme='midnight']_&]:hover:bg-rose-950/30 transition text-left cursor-pointer"
+                    >
+                      <LogOut className="w-4 h-4 text-rose-500" />
+                      <span>Đăng xuất tài khoản</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
 
           {/* Mobile Hamburger Menu Button */}
           <button
@@ -388,8 +522,8 @@ export function HeaderMain() {
                 <Link href="/themes?category=corporate-b2b" onClick={() => setMobileMenuOpen(false)} className="px-3 py-2.5 rounded-xl bg-slate-50 hover:bg-brand-50">
                   Theme Doanh Nghiệp
                 </Link>
-                <Link href="/themes?builder=elementor" onClick={() => setMobileMenuOpen(false)} className="px-3 py-2.5 rounded-xl bg-slate-50 hover:bg-brand-50">
-                  Elementor Pro
+                <Link href="/themes?category=landing-page" onClick={() => setMobileMenuOpen(false)} className="px-3 py-2.5 rounded-xl bg-slate-50 hover:bg-brand-50">
+                  Landing Page
                 </Link>
                 <Link href="/themes?category=real-estate" onClick={() => setMobileMenuOpen(false)} className="px-3 py-2.5 rounded-xl bg-slate-50 hover:bg-brand-50">
                   Bất Động Sản

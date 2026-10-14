@@ -6,6 +6,7 @@ const apiBase = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:4000')
 
 const nextConfig = {
   compress: true,
+  devIndicators: false,
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },

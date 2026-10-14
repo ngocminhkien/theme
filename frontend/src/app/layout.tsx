@@ -35,12 +35,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="vi" data-site-theme="aurora" className="scroll-smooth">
+    <html lang="vi" data-site-theme="midnight" className="scroll-smooth">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
-      <body className="min-h-screen text-slate-900 antialiased selection:bg-indigo-600/20 selection:text-indigo-900 font-sans relative overflow-x-hidden">
+      <body className="min-h-screen text-slate-900 antialiased selection:bg-indigo-600/20 selection:text-indigo-900 font-sans relative overflow-x-clip">
         <AmbientBackground />
         <GlobalScrollObserver />
         <div className="relative z-10 flex flex-col min-h-screen">

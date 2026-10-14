@@ -35,21 +35,21 @@ export function PromoDealBanner() {
   return (
     <section className="py-8 sm:py-10 w-full">
       <div className="w-full max-w-[1720px] mx-auto px-3.5 sm:px-6 lg:px-8 xl:px-12">
-        <div className="rounded-3xl bg-gradient-to-r from-slate-950 via-brand-950 to-slate-900 text-white p-5 sm:p-10 lg:p-12 xl:p-16 relative overflow-hidden shadow-2xl border border-slate-800">
+        <div data-reveal="zoom-in" className="rounded-3xl bg-gradient-to-r from-slate-950 via-slate-900 to-indigo-950 text-white p-5 sm:p-10 lg:p-12 xl:p-16 relative overflow-hidden shadow-2xl border border-indigo-500/30 cyber-glow-border">
           {/* Glow Effects */}
-          <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-rose-500/15 rounded-full blur-3xl pointer-events-none animate-float-slow" />
-          <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-amber-500/15 rounded-full blur-3xl pointer-events-none animate-float-reverse" />
+          <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-cyan-500/10 rounded-full blur-3xl pointer-events-none animate-float-slow" />
+          <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-indigo-500/15 rounded-full blur-3xl pointer-events-none animate-float-reverse" />
 
           <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 xl:gap-14 items-center">
             {/* Left Text & Countdown */}
             <div className="lg:col-span-7">
-              <div className="inline-flex items-center gap-2 px-3.5 sm:px-4.5 py-1.5 sm:py-2 rounded-full bg-rose-500/20 text-rose-300 border border-rose-500/30 text-xs sm:text-sm font-black uppercase tracking-wider mb-4 animate-badge-float">
-                <Flame className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-rose-400 animate-pulse shrink-0" />
+              <div className="inline-flex items-center gap-2 px-3.5 sm:px-4.5 py-1.5 sm:py-2 rounded-full bg-cyan-500/20 text-cyan-300 border border-cyan-500/35 text-xs sm:text-sm font-black uppercase tracking-wider mb-4 shadow-[0_0_15px_rgba(6,182,212,0.3)] animate-badge-float">
+                <Flame className="w-4 h-4 sm:w-4.5 sm:h-4.5 text-amber-400 animate-pulse shrink-0" />
                 <span>SIÊU SALE HÔM NAY • GIẢM ĐẾN 50%</span>
               </div>
 
-              <h2 className="text-xl xs:text-2xl sm:text-3xl xl:text-5xl font-black tracking-tight leading-tight mb-4">
-                <span className="bg-gradient-to-r from-white via-amber-200 to-rose-200 bg-clip-text text-transparent animate-shimmer-text">
+              <h2 className="text-xl xs:text-2xl sm:text-3xl xl:text-5xl font-black tracking-tight leading-tight mb-4 text-white">
+                <span className="bg-gradient-to-r from-white via-cyan-200 to-indigo-200 bg-clip-text text-transparent animate-shimmer-text">
                   Trọn Bộ Theme WordPress Bản Quyền
                 </span>{' '}
                 & Bộ Plugin Siêu Tốc Độ
@@ -59,31 +59,31 @@ export function PromoDealBanner() {
                 Cơ hội duy nhất trong ngày: Sở hữu theme WordPress bản quyền sạch 100%, tích hợp sẵn Elementor Pro, chuẩn Core Web Vitals xanh và quét mã VietQR tự động kích hoạt sau 30 giây.
               </p>
 
-              {/* Countdown Glass Boxes */}
+              {/* Countdown Cyber Glass Boxes */}
               <div className="flex items-center gap-1.5 xs:gap-2.5 sm:gap-4 mb-4">
-                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-white/10 shadow-lg flex-1 xs:flex-initial">
-                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
+                <div className="bg-slate-900/80 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-cyan-500/30 shadow-[0_0_15px_rgba(6,182,212,0.15)] flex-1 xs:flex-initial">
+                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-mono font-black text-cyan-400 drop-shadow-[0_0_8px_rgba(6,182,212,0.6)]">
                     {String(timeLeft.days).padStart(2, '0')}
                   </span>
                   <span className="text-[10px] sm:text-xs uppercase font-bold text-slate-300">Ngày</span>
                 </div>
-                <span className="text-lg sm:text-2xl font-bold text-slate-400">:</span>
-                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-white/10 shadow-lg flex-1 xs:flex-initial">
-                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
+                <span className="text-lg sm:text-2xl font-bold text-cyan-400">:</span>
+                <div className="bg-slate-900/80 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-cyan-500/30 shadow-[0_0_15px_rgba(6,182,212,0.15)] flex-1 xs:flex-initial">
+                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-mono font-black text-cyan-400 drop-shadow-[0_0_8px_rgba(6,182,212,0.6)]">
                     {String(timeLeft.hours).padStart(2, '0')}
                   </span>
                   <span className="text-[10px] sm:text-xs uppercase font-bold text-slate-300">Giờ</span>
                 </div>
-                <span className="text-lg sm:text-2xl font-bold text-slate-400">:</span>
-                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-white/10 shadow-lg flex-1 xs:flex-initial">
-                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
+                <span className="text-lg sm:text-2xl font-bold text-cyan-400">:</span>
+                <div className="bg-slate-900/80 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-cyan-500/30 shadow-[0_0_15px_rgba(6,182,212,0.15)] flex-1 xs:flex-initial">
+                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-mono font-black text-cyan-400 drop-shadow-[0_0_8px_rgba(6,182,212,0.6)]">
                     {String(timeLeft.minutes).padStart(2, '0')}
                   </span>
                   <span className="text-[10px] sm:text-xs uppercase font-bold text-slate-300">Phút</span>
                 </div>
-                <span className="text-lg sm:text-2xl font-bold text-slate-400">:</span>
-                <div className="bg-white/10 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-white/10 shadow-lg flex-1 xs:flex-initial">
-                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-black text-amber-400">
+                <span className="text-lg sm:text-2xl font-bold text-cyan-400">:</span>
+                <div className="bg-slate-900/80 backdrop-blur-md rounded-2xl px-2.5 xs:px-4 sm:px-5 py-2.5 sm:py-3.5 text-center min-w-[56px] xs:min-w-16 sm:min-w-20 border border-cyan-500/30 shadow-[0_0_15px_rgba(6,182,212,0.15)] flex-1 xs:flex-initial">
+                  <span className="block text-xl xs:text-2xl sm:text-3xl xl:text-4xl font-mono font-black text-cyan-400 drop-shadow-[0_0_8px_rgba(6,182,212,0.6)]">
                     {String(timeLeft.seconds).padStart(2, '0')}
                   </span>
                   <span className="text-[10px] sm:text-xs uppercase font-bold text-slate-300">Giây</span>

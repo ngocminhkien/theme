@@ -48,18 +48,18 @@ export function MarqueeFeatures() {
                 key={idx}
                 data-reveal="fade-up"
                 style={{ transitionDelay: `${idx * 70}ms` }}
-                className="wm-surface-card rounded-2xl p-5 hover:-translate-y-1.5 transition-all duration-300 flex items-start gap-4 group"
+                className="cyber-card rounded-2xl p-5 hover:-translate-y-1.5 transition-all duration-300 flex items-start gap-4 group cursor-default"
               >
                 <div
-                  className={`w-12 h-12 rounded-2xl border flex items-center justify-center shrink-0 group-hover:scale-110 transition duration-300 ${feat.color}`}
+                  className={`w-12 h-12 rounded-2xl border flex items-center justify-center shrink-0 group-hover:scale-110 group-hover:shadow-[0_0_20px_rgba(6,182,212,0.3)] transition duration-300 ${feat.color}`}
                 >
                   <Icon className="w-6 h-6" />
                 </div>
                 <div>
-                  <h4 className="font-black text-sm sm:text-base text-slate-900 group-hover:text-indigo-600 transition leading-snug">
+                  <h4 className="font-black text-sm sm:text-base text-white group-hover:text-cyan-300 transition leading-snug">
                     {feat.title}
                   </h4>
-                  <p className="text-xs sm:text-sm text-slate-500 mt-1 leading-relaxed font-medium">
+                  <p className="text-xs sm:text-sm text-slate-300 mt-1 leading-relaxed font-normal">
                     {feat.desc}
                   </p>
                 </div>

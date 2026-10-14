@@ -109,38 +109,34 @@ export function GlobalScrollObserver() {
       return;
     }
 
+    const observedElements = new WeakSet<Element>();
+
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('wm-reveal-visible');
+            io.unobserve(entry.target);
+          }
+        });
+      },
+      {
+        threshold: 0.1,
+        rootMargin: '0px 0px -40px 0px',
+      }
+    );
+
     const observeElements = () => {
-      const elements = document.querySelectorAll<HTMLElement>(
-        '[data-reveal]:not([data-reveal-bound="true"])'
-      );
-
-      if (elements.length === 0) return null;
-
-      const io = new IntersectionObserver(
-        (entries) => {
-          entries.forEach((entry) => {
-            if (entry.isIntersecting) {
-              entry.target.classList.add('wm-reveal-visible');
-              entry.target.setAttribute('data-visible', 'true');
-              io.unobserve(entry.target);
-            }
-          });
-        },
-        {
-          threshold: 0.1,
-          rootMargin: '0px 0px -40px 0px',
-        }
-      );
-
+      const elements = document.querySelectorAll<HTMLElement>('[data-reveal]');
       elements.forEach((el) => {
-        el.setAttribute('data-reveal-bound', 'true');
-        io.observe(el);
+        if (!observedElements.has(el)) {
+          observedElements.add(el);
+          io.observe(el);
+        }
       });
-
-      return io;
     };
 
-    const io = observeElements();
+    observeElements();
 
     const mutationObserver = new MutationObserver(() => {
       observeElements();
@@ -152,7 +148,7 @@ export function GlobalScrollObserver() {
     });
 
     return () => {
-      io?.disconnect();
+      io.disconnect();
       mutationObserver.disconnect();
     };
   }, []);
