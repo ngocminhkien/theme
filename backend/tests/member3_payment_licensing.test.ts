@@ -10,13 +10,31 @@ import crypto from 'crypto';
 ENV.PAYMENTS.SEPAY_API_KEY = 'test_sepay_api_key_secure_123';
 ENV.PAYMENTS.STRIPE_WEBHOOK_SECRET = 'whsec_test_secret_stripe_987';
 
+const isDbOfflineError = (err: any): boolean => {
+  if (!err) return false;
+  const code = err.code || '';
+  const msg = String(err.message || '');
+  return (
+    code === 'ECONNREFUSED' ||
+    code === 'ER_ACCESS_DENIED_ERROR' ||
+    code === 'ETIMEDOUT' ||
+    code === 'ENOTFOUND' ||
+    code === 'EHOSTUNREACH' ||
+    code === 'PROTOCOL_CONNECTION_LOST' ||
+    msg.includes('ECONNREFUSED') ||
+    msg.includes('Access denied') ||
+    msg.includes('ETIMEDOUT') ||
+    msg.includes('connect')
+  );
+};
+
 // If MySQL is offline during local test run, intercept fulfillVietQr to simulate atomic fulfillment
 const originalFulfillVietQr = PaymentFulfillmentService.fulfillVietQr;
 (PaymentFulfillmentService as any).fulfillVietQr = async (input: any) => {
   try {
     return await originalFulfillVietQr(input);
   } catch (err: any) {
-    if (err.message?.includes('ECONNREFUSED') || err.code === 'ECONNREFUSED') {
+    if (isDbOfflineError(err)) {
       const order = await OrderModel.findByOrderNumber(input.orderNumber);
       if (!order) return { status: 'rejected', code: 'ORDER_NOT_FOUND', orderNumber: input.orderNumber };
       if (order.payment_status === 'paid') return { status: 'already_processed', code: 'ALREADY_PROCESSED', orderNumber: input.orderNumber };
