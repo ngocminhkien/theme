@@ -19,18 +19,10 @@ if %errorlevel% neq 0 (
   exit /b %errorlevel%
 )
 
-echo 📦 1.2 Biên dịch Frontend Next.js 15 Production Package...
+echo 📦 1.2 Biên dịch Unified Frontend Next.js 15 Production Package...
 call npm --prefix frontend run build
 if %errorlevel% neq 0 (
   echo ❌ Lỗi biên dịch Frontend! Vui lòng kiểm tra lại.
-  pause
-  exit /b %errorlevel%
-)
-
-echo 📦 1.3 Biên dịch Admin Portal Next.js 15 Production Package...
-call npm --prefix admin run build
-if %errorlevel% neq 0 (
-  echo ❌ Lỗi biên dịch Admin! Vui lòng kiểm tra lại.
   pause
   exit /b %errorlevel%
 )
@@ -39,20 +31,18 @@ echo.
 echo ======================================================================
 echo [GIAI ĐOẠN 2/2] KHỞI CHẠY HỆ THỐNG RUNTIME SIÊU TỐC
 echo ======================================================================
-echo - Backend API  : http://localhost:4000 (Node.js High-Throughput)
-echo - Frontend Store: http://localhost:3000 (Pre-rendered Production)
-echo - Admin Portal  : http://localhost:3001 (Pre-rendered Production)
+echo - Backend API   : http://localhost:4000 (Node.js High-Throughput)
+echo - Web & Admin   : http://localhost:3000 (Pre-rendered Production)
+echo   * Cửa hàng    : http://localhost:3000
+echo   * Quản trị    : http://localhost:3000/admin
 echo ======================================================================
 echo.
 
 echo 🚀 Khởi chạy Backend Production (Port 4000)...
 start "Backend Production (Port 4000)" cmd /k "title Backend Production (Port 4000) && node backend/dist/server.js"
 
-echo 🚀 Khởi chạy Frontend Production (Port 3000)...
-start "Frontend Production (Port 3000)" cmd /k "title Frontend Production (Port 3000) && npm --prefix frontend run start"
-
-echo 🚀 Khởi chạy Admin Portal Production (Port 3001)...
-start "Admin Portal Production (Port 3001)" cmd /k "title Admin Portal Production (Port 3001) && npm --prefix admin run start"
+echo 🚀 Khởi chạy Unified Frontend Production (Port 3000)...
+start "Unified Frontend Production (Port 3000)" cmd /k "title Unified Frontend Production (Port 3000) && npm --prefix frontend run start"
 
 echo.
 echo ✅ HỆ THỐNG PRODUCTION ĐÃ SẴN SÀNG!

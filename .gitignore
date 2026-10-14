@@ -21,6 +21,7 @@ Thumbs.db
 
 # AI Agents internal artifacts
 .agents/
+admin_backup/
 
 # Environment variables & secrets
 .env

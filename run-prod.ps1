@@ -24,17 +24,10 @@ if ($LASTEXITCODE -ne 0) {
     exit $LASTEXITCODE
 }
 
-Write-Host "📦 1.2 Biên dịch Frontend Next.js 15 Production Package..." -ForegroundColor Cyan
+Write-Host "📦 1.2 Biên dịch Unified Frontend Next.js 15 Production Package..." -ForegroundColor Cyan
 & npm --prefix frontend run build
 if ($LASTEXITCODE -ne 0) {
     Write-Host "❌ Lỗi biên dịch Frontend! Thoát tiến trình." -ForegroundColor Red
-    exit $LASTEXITCODE
-}
-
-Write-Host "📦 1.3 Biên dịch Admin Portal Next.js 15 Production Package..." -ForegroundColor Cyan
-& npm --prefix admin run build
-if ($LASTEXITCODE -ne 0) {
-    Write-Host "❌ Lỗi biên dịch Admin! Thoát tiến trình." -ForegroundColor Red
     exit $LASTEXITCODE
 }
 
@@ -42,20 +35,18 @@ Write-Host ""
 Write-Host "======================================================================" -ForegroundColor Cyan
 Write-Host "[GIAI ĐOẠN 2/2] KHỞI CHẠY HỆ THỐNG RUNTIME SIÊU TỐC" -ForegroundColor Cyan
 Write-Host "======================================================================" -ForegroundColor Cyan
-Write-Host "- Backend API  : http://localhost:4000 (Node.js High-Throughput)" -ForegroundColor Green
-Write-Host "- Frontend Store: http://localhost:3000 (Pre-rendered Production)" -ForegroundColor Green
-Write-Host "- Admin Portal  : http://localhost:3001 (Pre-rendered Production)" -ForegroundColor Green
+Write-Host "- Backend API   : http://localhost:4000 (Node.js High-Throughput)" -ForegroundColor Green
+Write-Host "- Web & Admin   : http://localhost:3000 (Pre-rendered Production)" -ForegroundColor Green
+Write-Host "  * Cửa hàng    : http://localhost:3000" -ForegroundColor Gray
+Write-Host "  * Quản trị    : http://localhost:3000/admin" -ForegroundColor Gray
 Write-Host "======================================================================" -ForegroundColor Cyan
 Write-Host ""
 
 Write-Host "🚀 Khởi chạy Backend Production (Port 4000)..." -ForegroundColor Yellow
 Start-Process powershell -ArgumentList "-NoExit", "-Command", "Set-Location '$rootPath'; `$Host.UI.RawUI.WindowTitle='Backend Production (Port 4000)'; node backend/dist/server.js"
 
-Write-Host "🚀 Khởi chạy Frontend Production (Port 3000)..." -ForegroundColor Yellow
-Start-Process powershell -ArgumentList "-NoExit", "-Command", "Set-Location '$rootPath'; `$Host.UI.RawUI.WindowTitle='Frontend Production (Port 3000)'; npm --prefix frontend run start"
-
-Write-Host "🚀 Khởi chạy Admin Portal Production (Port 3001)..." -ForegroundColor Yellow
-Start-Process powershell -ArgumentList "-NoExit", "-Command", "Set-Location '$rootPath'; `$Host.UI.RawUI.WindowTitle='Admin Portal Production (Port 3001)'; npm --prefix admin run start"
+Write-Host "🚀 Khởi chạy Unified Frontend Production (Port 3000)..." -ForegroundColor Yellow
+Start-Process powershell -ArgumentList "-NoExit", "-Command", "Set-Location '$rootPath'; `$Host.UI.RawUI.WindowTitle='Unified Frontend Production (Port 3000)'; npm --prefix frontend run start"
 
 Write-Host ""
 Write-Host "✅ HỆ THỐNG PRODUCTION ĐÃ ĐƯỢC KHỞI CHẠY THÀNH CÔNG!" -ForegroundColor Green

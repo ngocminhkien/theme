@@ -17,6 +17,7 @@ import {
   X,
   ShieldCheck,
   User,
+  BarChart3,
 } from 'lucide-react';
 import { AdminGuard, useAdminContext } from '@/features/admin/AdminGuard';
 import { ThemeSwitcherPill } from '@/components/layout/AmbientBackground';
@@ -31,6 +32,7 @@ interface NavItem {
 
 const NAV_ITEMS: NavItem[] = [
   { label: 'Tổng Quan', href: '/admin', icon: LayoutDashboard, exact: true },
+  { label: 'Báo Cáo', href: '/admin/reports', icon: BarChart3 },
   { label: 'Đơn Hàng', href: '/admin/orders', icon: ShoppingBag },
   { label: 'Themes Catalog', href: '/admin/themes', icon: Layers },
   { label: 'Quản Lý Bản Quyền', href: '/admin/licenses', icon: KeyRound },
@@ -146,6 +148,20 @@ function AdminLayoutInner({ children }: { children: React.ReactNode }) {
           >
             <Store className="w-5 h-5 text-emerald-400 shrink-0" />
             {(!isCollapsed || isMobileOpen) && <span className="truncate">Xem Cửa Hàng</span>}
+          </Link>
+
+          {/* Customer Portal Link */}
+          <Link
+            href="/my-account"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`flex items-center gap-3 px-3 py-2.5 rounded-xl text-xs font-bold text-slate-400 hover:text-white hover:bg-slate-800 transition ${
+              isCollapsed ? 'md:justify-center md:px-0' : ''
+            }`}
+            title={isCollapsed ? 'Cổng Khách Hàng' : undefined}
+          >
+            <User className="w-5 h-5 text-indigo-400 shrink-0" />
+            {(!isCollapsed || isMobileOpen) && <span className="truncate">Cổng Khách Hàng</span>}
           </Link>
 
           {/* Logout Button */}
