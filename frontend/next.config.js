@@ -5,6 +5,10 @@ const apiBase = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:4000')
   .replace(/\/api\/v1\/?$/, '');
 
 const nextConfig = {
+  compress: true,
+  experimental: {
+    optimizePackageImports: ['lucide-react'],
+  },
   typescript: {
     ignoreBuildErrors: true,
   },

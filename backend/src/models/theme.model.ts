@@ -1,5 +1,5 @@
 import { RowDataPacket } from 'mysql2/promise';
-import { dbPool } from '../config/database.js';
+import { dbPool, isDbOffline, markDbOffline } from '../config/database.js';
 
 export interface Theme {
   id: number;
@@ -22,6 +22,7 @@ export interface Theme {
   rating_avg: number;
   rating_count: number;
   status: 'draft' | 'published' | 'archived';
+  created_at?: Date | string;
 }
 
 export class ThemeModel {
@@ -37,6 +38,40 @@ export class ThemeModel {
     limit?: number;
     offset?: number;
   }): Promise<{ themes: Theme[]; total: number }> {
+    const limit = params.limit || 12;
+    const offset = params.offset || 0;
+
+    if (isDbOffline()) {
+      let items = fallbackThemes.filter((t) => t.status === 'published');
+      if (params.category_id) {
+        items = items.filter((t) => t.category_id === params.category_id);
+      }
+      if (params.builder) {
+        const b = params.builder.toLowerCase();
+        items = items.filter((t) => t.page_builders.toLowerCase().includes(b));
+      }
+      if (params.keyword) {
+        const q = params.keyword.toLowerCase();
+        items = items.filter(
+          (t) =>
+            t.name.toLowerCase().includes(q) ||
+            t.short_desc_vi.toLowerCase().includes(q) ||
+            t.short_desc_en.toLowerCase().includes(q)
+        );
+      }
+      if (params.min_price !== undefined && !isNaN(Number(params.min_price))) {
+        const min = Number(params.min_price);
+        items = items.filter((t) => (params.currency === 'USD' ? t.price_usd : t.price_vnd) >= min);
+      }
+      if (params.max_price !== undefined && !isNaN(Number(params.max_price))) {
+        const max = Number(params.max_price);
+        items = items.filter((t) => (params.currency === 'USD' ? t.price_usd : t.price_vnd) <= max);
+      }
+      return {
+        themes: items.slice(offset, offset + limit),
+        total: items.length,
+      };
+    }
     let whereClause = "WHERE status = 'published'";
     const queryParams: (string | number)[] = [];
 
@@ -91,9 +126,6 @@ export class ThemeModel {
         break;
     }
 
-    const limit = params.limit || 12;
-    const offset = params.offset || 0;
-
     try {
       const [countRows] = await dbPool.query<RowDataPacket[]>(
         `SELECT COUNT(*) as total FROM themes ${whereClause}`,
@@ -142,6 +174,9 @@ export class ThemeModel {
   }
 
   static async findBySlug(slug: string): Promise<Theme | null> {
+    if (isDbOffline()) {
+      return fallbackThemes.find((t) => t.slug === slug && t.status === 'published') || null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT * FROM themes WHERE slug = ? AND status = "published" LIMIT 1',
@@ -149,12 +184,16 @@ export class ThemeModel {
       );
       if (rows.length) return rows[0] as Theme;
     } catch (err: any) {
+      markDbOffline(err);
       console.warn('[ThemeModel.findBySlug] DB Error, fallback in-memory:', err.message);
     }
     return fallbackThemes.find((t) => t.slug === slug && t.status === 'published') || null;
   }
 
   static async findById(id: number): Promise<Theme | null> {
+    if (isDbOffline()) {
+      return fallbackThemes.find((t) => t.id === id && t.status === 'published') || null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT * FROM themes WHERE id = ? AND status = "published" LIMIT 1',
@@ -162,6 +201,7 @@ export class ThemeModel {
       );
       if (rows.length) return rows[0] as Theme;
     } catch (err: any) {
+      markDbOffline(err);
       console.warn('[ThemeModel.findById] DB Error, fallback in-memory:', err.message);
     }
     return fallbackThemes.find((t) => t.id === id && t.status === 'published') || null;
@@ -190,5 +230,6 @@ const fallbackThemes: Theme[] = [
     rating_avg: 4.95,
     rating_count: 320,
     status: 'published',
+    created_at: new Date('2026-10-12T08:00:00Z'),
   },
 ];

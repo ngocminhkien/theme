@@ -1,5 +1,5 @@
 import { RowDataPacket, ResultSetHeader } from 'mysql2/promise';
-import { dbPool } from '../config/database.js';
+import { dbPool, isDbOffline, markDbOffline } from '../config/database.js';
 
 export interface LicenseActivation {
   id: number;
@@ -47,6 +47,23 @@ export class LicenseModel {
       data.max_domains ||
       (licenseType === 'lifetime' ? 999 : licenseType === 'agency' ? 5 : 1);
 
+    if (isDbOffline()) {
+      const fallbackId = inMemoryLicenses.size + 1;
+      inMemoryLicenses.set(data.license_key, {
+        id: fallbackId,
+        license_key: data.license_key,
+        order_id: data.order_id,
+        theme_id: data.theme_id,
+        user_id: data.user_id || null,
+        license_type: licenseType,
+        max_domains: maxDomains,
+        active_domains_count: 0,
+        status: 'active',
+        created_at: new Date(),
+      });
+      return fallbackId;
+    }
+
     try {
       const [result] = await dbPool.query<ResultSetHeader>(
         `INSERT INTO licenses (license_key, order_id, theme_id, user_id, license_type, max_domains)
@@ -62,6 +79,7 @@ export class LicenseModel {
       );
       return result.insertId;
     } catch (error: any) {
+      markDbOffline(error);
       console.warn('[LicenseModel.create] DB Error, lưu tạm in-memory:', error.message);
       const fallbackId = inMemoryLicenses.size + 1;
       inMemoryLicenses.set(data.license_key, {
@@ -84,6 +102,16 @@ export class LicenseModel {
    * Tra cứu License theo mã Key
    */
   static async findByKey(key: string): Promise<License | null> {
+    if (isDbOffline()) {
+      const mem = inMemoryLicenses.get(key);
+      if (mem) {
+        mem.activations = inMemoryActivations.filter(
+          (a) => a.license_id === mem.id && a.is_active
+        );
+        return mem;
+      }
+      return null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         `SELECT l.*, t.name as theme_name 
@@ -103,6 +131,7 @@ export class LicenseModel {
         return license;
       }
     } catch (error: any) {
+      markDbOffline(error);
       console.warn('[LicenseModel.findByKey] DB Error, tra cứu in-memory:', error.message);
     }
 
@@ -120,6 +149,11 @@ export class LicenseModel {
    * Lấy danh sách license của người dùng
    */
   static async findByUserId(userId: number): Promise<License[]> {
+    if (isDbOffline()) {
+      return Array.from(inMemoryLicenses.values()).filter(
+        (l) => l.user_id === userId
+      );
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         `SELECT l.*, t.name as theme_name, t.slug as theme_slug, t.thumbnail_url
@@ -130,6 +164,7 @@ export class LicenseModel {
       );
       return rows as License[];
     } catch (error: any) {
+      markDbOffline(error);
       console.warn('[LicenseModel.findByUserId] DB Error, tra cứu in-memory:', error.message);
       return Array.from(inMemoryLicenses.values()).filter(
         (l) => l.user_id === userId
@@ -141,6 +176,11 @@ export class LicenseModel {
    * Lấy danh sách license theo ID đơn hàng (phục vụ trả về kết quả khi polling hoàn tất)
    */
   static async findByOrderId(orderId: number): Promise<License[]> {
+    if (isDbOffline()) {
+      return Array.from(inMemoryLicenses.values()).filter(
+        (l) => l.order_id === orderId
+      );
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         `SELECT l.*, t.name as theme_name 
@@ -151,6 +191,7 @@ export class LicenseModel {
       );
       if (rows.length > 0) return rows as License[];
     } catch (error: any) {
+      markDbOffline(error);
       console.warn('[LicenseModel.findByOrderId] DB Error, tra cứu in-memory:', error.message);
     }
     return Array.from(inMemoryLicenses.values()).filter(
@@ -167,6 +208,50 @@ export class LicenseModel {
     ipAddress?: string
   ): Promise<{ success: boolean; message: string; remainingDomains?: number }> {
     const cleanDomain = domain.toLowerCase().replace(/^https?:\/\//, '').replace(/\/$/, '');
+
+    if (isDbOffline()) {
+      const license = await this.findByKey(licenseKey);
+      if (!license) {
+        return { success: false, message: 'License Key không tồn tại trên hệ thống.' };
+      }
+
+      if (license.status !== 'active') {
+        return { success: false, message: `License Key đã bị ${license.status === 'revoked' ? 'thu hồi' : 'hết hạn'}.` };
+      }
+
+      const existing = license.activations?.find(
+        (a) => a.domain.toLowerCase() === cleanDomain && a.is_active
+      );
+      if (existing) {
+        return {
+          success: true,
+          message: 'Domain này đã được kích hoạt trước đó.',
+          remainingDomains: license.max_domains - license.active_domains_count,
+        };
+      }
+
+      if (license.active_domains_count >= license.max_domains) {
+        return {
+          success: false,
+          message: `Đã đạt giới hạn kích hoạt tối đa (${license.max_domains} domain) cho gói ${license.license_type}. Vui lòng hủy domain cũ hoặc nâng cấp gói bản quyền.`,
+        };
+      }
+
+      inMemoryActivations.push({
+        id: inMemoryActivations.length + 1,
+        license_id: license.id,
+        domain: cleanDomain,
+        ip_address: ipAddress,
+        activated_at: new Date(),
+        is_active: true,
+      });
+      license.active_domains_count += 1;
+      return {
+        success: true,
+        message: `Kích hoạt thành công bản quyền cho domain: ${cleanDomain}`,
+        remainingDomains: license.max_domains - license.active_domains_count,
+      };
+    }
 
     let connection;
     try {

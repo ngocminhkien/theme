@@ -1,6 +1,6 @@
 import bcrypt from 'bcryptjs';
 import { RowDataPacket, ResultSetHeader } from 'mysql2/promise';
-import { dbPool } from '../config/database.js';
+import { dbPool, isDbOffline, markDbOffline } from '../config/database.js';
 
 export interface User {
   id: number;
@@ -77,6 +77,10 @@ export class UserModel {
   }
 
   static async findByEmail(email: string): Promise<User | null> {
+    const normalized = email.toLowerCase().trim();
+    if (isDbOffline()) {
+      return fallbackUsers.find((u) => u.email.toLowerCase() === normalized) || null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT * FROM users WHERE email = ? LIMIT 1',
@@ -84,13 +88,17 @@ export class UserModel {
       );
       if (!rows.length) return null;
       return rows[0] as User;
-    } catch {
-      const normalized = email.toLowerCase().trim();
+    } catch (err) {
+      markDbOffline(err);
       return fallbackUsers.find((u) => u.email.toLowerCase() === normalized) || null;
     }
   }
 
   static async findById(id: number): Promise<SafeUser | null> {
+    if (isDbOffline()) {
+      const found = fallbackUsers.find((u) => u.id === id);
+      return found ? toSafeUser(found) : null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT id, email, full_name, phone, role, status, created_at FROM users WHERE id = ? LIMIT 1',
@@ -98,13 +106,17 @@ export class UserModel {
       );
       if (!rows.length) return null;
       return rows[0] as SafeUser;
-    } catch {
+    } catch (err) {
+      markDbOffline(err);
       const found = fallbackUsers.find((u) => u.id === id);
       return found ? toSafeUser(found) : null;
     }
   }
 
   static async findFullById(id: number): Promise<User | null> {
+    if (isDbOffline()) {
+      return fallbackUsers.find((u) => u.id === id) || null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT * FROM users WHERE id = ? LIMIT 1',
@@ -112,7 +124,8 @@ export class UserModel {
       );
       if (!rows.length) return null;
       return rows[0] as User;
-    } catch {
+    } catch (err) {
+      markDbOffline(err);
       return fallbackUsers.find((u) => u.id === id) || null;
     }
   }

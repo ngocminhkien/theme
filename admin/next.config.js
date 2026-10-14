@@ -3,6 +3,10 @@ const apiBase = (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:4000')
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  compress: true,
+  experimental: {
+    optimizePackageImports: ['lucide-react'],
+  },
   async rewrites() {
     return [{ source: '/api/v1/:path*', destination: `${apiBase}/api/v1/:path*` }];
   },

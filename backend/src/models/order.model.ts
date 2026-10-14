@@ -1,5 +1,5 @@
 import { RowDataPacket, ResultSetHeader } from 'mysql2/promise';
-import { dbPool } from '../config/database.js';
+import { dbPool, isDbOffline, markDbOffline } from '../config/database.js';
 
 export interface OrderItem {
   id?: number;
@@ -192,6 +192,9 @@ export class OrderModel {
    * Tìm đơn hàng theo mã đơn
    */
   static async findByOrderNumber(orderNumber: string, strict = false): Promise<Order | null> {
+    if (!strict && isDbOffline()) {
+      return inMemoryOrders.get(orderNumber) || null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT * FROM orders WHERE order_number = ? LIMIT 1',
@@ -211,6 +214,7 @@ export class OrderModel {
         return order;
       }
     } catch (error: any) {
+      markDbOffline(error);
       if (strict) throw error;
       console.warn('[OrderModel.findByOrderNumber] DB Error, tra cứu in-memory:', error.message);
     }
@@ -222,6 +226,9 @@ export class OrderModel {
    * endpoints deliberately do not use the in-memory fallback or an email query.
    */
   static async findByUserId(userId: number): Promise<Order[]> {
+    if (isDbOffline()) {
+      return [...inMemoryOrders.values()].filter((o) => o.user_id === userId);
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         `SELECT * FROM orders

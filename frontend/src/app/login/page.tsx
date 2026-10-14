@@ -48,8 +48,11 @@ function LoginContent() {
       const session = await login(email, password);
       setSuccessMsg(`Đăng nhập thành công! Xin chào ${session.user.full_name || session.user.email}. Đang chuyển hướng...`);
       setTimeout(() => {
-        router.push(redirectTarget);
-      }, 1000);
+        const dest = (session.user.role === 'admin' && (!searchParams.get('redirect') || redirectTarget === '/my-account'))
+          ? '/admin'
+          : redirectTarget;
+        router.push(dest);
+      }, 800);
     } catch (err: unknown) {
       setErrorMsg(err instanceof Error ? err.message : 'Đăng nhập không thành công. Vui lòng kiểm tra lại.');
     } finally {
@@ -239,6 +242,49 @@ function LoginContent() {
               Hoặc đăng nhập bằng Email
             </span>
             <div className="h-px flex-1 bg-slate-200" />
+          </div>
+
+          {/* Quick Demo Credentials */}
+          <div className="mb-5 p-3.5 rounded-2xl bg-indigo-50/70 border border-indigo-100 flex flex-col gap-2">
+            <div className="flex items-center justify-between text-xs font-bold text-indigo-900">
+              <span className="flex items-center gap-1.5">
+                <Sparkles className="w-3.5 h-3.5 text-indigo-600" />
+                <span>Tài khoản thử nghiệm nhanh:</span>
+              </span>
+              <span className="text-[11px] font-normal text-indigo-600">Bấm để tự điền</span>
+            </div>
+            <div className="grid grid-cols-2 gap-2">
+              <button
+                type="button"
+                onClick={() => {
+                  setEmail('admin@woodmart.vn');
+                  setPassword('Admin@123456');
+                  setErrorMsg('');
+                }}
+                className="flex flex-col text-left p-2.5 rounded-xl bg-white border border-indigo-200/80 hover:border-indigo-500 hover:shadow-xs transition text-xs cursor-pointer group"
+              >
+                <span className="font-bold text-indigo-700 flex items-center gap-1 group-hover:text-indigo-800">
+                  👑 Quản trị (Admin)
+                </span>
+                <span className="text-[11px] text-slate-700 font-mono truncate">admin@woodmart.vn</span>
+                <span className="text-[10px] text-slate-400">Pass: Admin@123456</span>
+              </button>
+              <button
+                type="button"
+                onClick={() => {
+                  setEmail('customer@thememarket.local');
+                  setPassword('Customer@2026');
+                  setErrorMsg('');
+                }}
+                className="flex flex-col text-left p-2.5 rounded-xl bg-white border border-slate-200 hover:border-slate-400 hover:shadow-xs transition text-xs cursor-pointer group"
+              >
+                <span className="font-bold text-slate-800 flex items-center gap-1 group-hover:text-brand-600">
+                  👤 Khách Hàng
+                </span>
+                <span className="text-[11px] text-slate-700 font-mono truncate">customer@themem...</span>
+                <span className="text-[10px] text-slate-400">Pass: Customer@2026</span>
+              </button>
+            </div>
           </div>
 
           {/* Form */}

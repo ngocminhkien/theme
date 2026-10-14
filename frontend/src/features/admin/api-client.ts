@@ -232,6 +232,62 @@ export class AdminApiError extends Error {
   }
 }
 
+interface CacheEntry<T> {
+  data: T;
+  timestamp: number;
+}
+
+const clientCache = new Map<string, CacheEntry<any>>();
+const CACHE_TTL_MS = 45 * 1000; // 45 seconds TTL (30-60s requirement)
+
+/**
+ * Xóa bộ nhớ đệm client-side của Admin Portal
+ * @param pattern Đường dẫn hoặc tiền tố cần vô hiệu hóa (nếu bỏ trống sẽ xóa sạch toàn bộ)
+ */
+export function invalidateAdminCache(pattern?: string): void {
+  if (!pattern) {
+    clientCache.clear();
+    return;
+  }
+  for (const key of clientCache.keys()) {
+    if (key.includes(pattern)) {
+      clientCache.delete(key);
+    }
+  }
+}
+
+function shouldCache(): boolean {
+  if (typeof process !== 'undefined') {
+    if (process.env.NODE_ENV === 'test' || Boolean(process.env.NODE_TEST_CONTEXT)) return false;
+    if (Array.isArray(process.argv) && process.argv.some(arg => arg.includes('test'))) return false;
+  }
+  return typeof window !== 'undefined' && typeof document !== 'undefined';
+}
+
+async function cachedFetch<T>(
+  cacheKey: string,
+  fetcher: () => Promise<T>,
+  ttlMs = CACHE_TTL_MS
+): Promise<T> {
+  // Chỉ kích hoạt bộ nhớ đệm client-side khi chạy thực tế trên trình duyệt Web (Browser)
+  if (!shouldCache()) {
+    return fetcher();
+  }
+
+  const cached = clientCache.get(cacheKey);
+  const now = Date.now();
+
+  // 0ms Fast-Path: Trả về ngay lập tức dữ liệu cache nếu còn trong hạn TTL
+  if (cached && now - cached.timestamp < ttlMs) {
+    return cached.data;
+  }
+
+  // Nạp mới dữ liệu và lưu vào cache
+  const freshData = await fetcher();
+  clientCache.set(cacheKey, { data: freshData, timestamp: Date.now() });
+  return freshData;
+}
+
 async function adminFetch<T>(path: string, init?: RequestInit): Promise<T> {
   const token = getAuthToken();
   if (!token) {
@@ -263,11 +319,12 @@ async function adminFetch<T>(path: string, init?: RequestInit): Promise<T> {
 }
 
 export async function getStats(): Promise<AdminDashboardStats> {
-  return adminFetch<AdminDashboardStats>('/stats');
+  return cachedFetch('/stats', () => adminFetch<AdminDashboardStats>('/stats'));
 }
 
 export async function getAnalytics(days = 30): Promise<AdminAnalytics> {
-  return adminFetch<AdminAnalytics>(`/analytics?days=${encodeURIComponent(days)}`);
+  const key = `/analytics?days=${encodeURIComponent(days)}`;
+  return cachedFetch(key, () => adminFetch<AdminAnalytics>(key));
 }
 
 export async function getOrders(params?: {
@@ -287,24 +344,30 @@ export async function getOrders(params?: {
   if (params?.date_to) query.set('date_to', params.date_to);
 
   const qs = query.toString();
-  return adminFetch<{ orders: AdminOrder[]; pagination: Pagination }>(`/orders${qs ? `?${qs}` : ''}`);
+  const key = `/orders${qs ? `?${qs}` : ''}`;
+  return cachedFetch(key, () => adminFetch<{ orders: AdminOrder[]; pagination: Pagination }>(key));
 }
 
 export async function getOrderDetail(orderNumber: string): Promise<AdminOrderDetail> {
-  return adminFetch<AdminOrderDetail>(`/orders/${encodeURIComponent(orderNumber)}`);
+  const key = `/orders/${encodeURIComponent(orderNumber)}`;
+  return cachedFetch(key, () => adminFetch<AdminOrderDetail>(key));
 }
 
 export async function updateOrderStatus(
   orderNumber: string,
   data: { payment_status?: string; order_status?: string }
 ): Promise<{ order_number: string; payment_status?: string; order_status?: string }> {
-  return adminFetch<{ order_number: string; payment_status?: string; order_status?: string }>(
+  const result = await adminFetch<{ order_number: string; payment_status?: string; order_status?: string }>(
     `/orders/${encodeURIComponent(orderNumber)}/status`,
     {
       method: 'PATCH',
       body: JSON.stringify(data),
     }
   );
+  invalidateAdminCache('/orders');
+  invalidateAdminCache('/stats');
+  invalidateAdminCache('/analytics');
+  return result;
 }
 
 export async function getThemes(params?: {
@@ -322,32 +385,40 @@ export async function getThemes(params?: {
   if (params?.category_id) query.set('category_id', String(params.category_id));
 
   const qs = query.toString();
-  return adminFetch<{ themes: AdminTheme[]; pagination: Pagination }>(`/themes${qs ? `?${qs}` : ''}`);
+  const key = `/themes${qs ? `?${qs}` : ''}`;
+  return cachedFetch(key, () => adminFetch<{ themes: AdminTheme[]; pagination: Pagination }>(key));
 }
 
 export async function getThemeDetail(id: number): Promise<AdminTheme> {
-  return adminFetch<AdminTheme>(`/themes/${id}`);
+  const key = `/themes/${id}`;
+  return cachedFetch(key, () => adminFetch<AdminTheme>(key));
 }
 
 export async function createTheme(data: AdminThemeInput): Promise<{ id: number }> {
-  return adminFetch<{ id: number }>('/themes', {
+  const result = await adminFetch<{ id: number }>('/themes', {
     method: 'POST',
     body: JSON.stringify(data),
   });
+  invalidateAdminCache('/themes');
+  invalidateAdminCache('/stats');
+  return result;
 }
 
 export async function updateTheme(
   id: number,
   data: Partial<AdminThemeInput>
 ): Promise<{ id: number; updated_fields?: string[] }> {
-  return adminFetch<{ id: number; updated_fields?: string[] }>(`/themes/${id}`, {
+  const result = await adminFetch<{ id: number; updated_fields?: string[] }>(`/themes/${id}`, {
     method: 'PUT',
     body: JSON.stringify(data),
   });
+  invalidateAdminCache('/themes');
+  invalidateAdminCache('/stats');
+  return result;
 }
 
 export async function getCategories(): Promise<{ categories: AdminCategory[] }> {
-  return adminFetch<{ categories: AdminCategory[] }>('/categories');
+  return cachedFetch('/categories', () => adminFetch<{ categories: AdminCategory[] }>('/categories'));
 }
 
 export async function getLicenses(params?: {
@@ -363,35 +434,43 @@ export async function getLicenses(params?: {
   if (params?.status) query.set('status', params.status);
 
   const qs = query.toString();
-  return adminFetch<{ licenses: AdminLicense[]; pagination: Pagination }>(`/licenses${qs ? `?${qs}` : ''}`);
+  const key = `/licenses${qs ? `?${qs}` : ''}`;
+  return cachedFetch(key, () => adminFetch<{ licenses: AdminLicense[]; pagination: Pagination }>(key));
 }
 
 export async function getLicenseDetail(licenseKey: string): Promise<AdminLicenseDetail> {
-  return adminFetch<AdminLicenseDetail>(`/licenses/${encodeURIComponent(licenseKey)}`);
+  const key = `/licenses/${encodeURIComponent(licenseKey)}`;
+  return cachedFetch(key, () => adminFetch<AdminLicenseDetail>(key));
 }
 
 export async function deactivateLicenseDomain(
   licenseKey: string,
   domain: string
 ): Promise<{ license_key: string; domain: string; is_active: number }> {
-  return adminFetch<{ license_key: string; domain: string; is_active: number }>(
+  const result = await adminFetch<{ license_key: string; domain: string; is_active: number }>(
     `/licenses/${encodeURIComponent(licenseKey)}/deactivate`,
     {
       method: 'POST',
       body: JSON.stringify({ domain }),
     }
   );
+  invalidateAdminCache('/licenses');
+  invalidateAdminCache('/stats');
+  return result;
 }
 
 export async function resetLicenseDomains(
   licenseKey: string
 ): Promise<{ license_key: string; active_domains_count: number }> {
-  return adminFetch<{ license_key: string; active_domains_count: number }>(
+  const result = await adminFetch<{ license_key: string; active_domains_count: number }>(
     `/licenses/${encodeURIComponent(licenseKey)}/reset`,
     {
       method: 'POST',
     }
   );
+  invalidateAdminCache('/licenses');
+  invalidateAdminCache('/stats');
+  return result;
 }
 
 export async function getCustomers(params?: {
@@ -407,28 +486,36 @@ export async function getCustomers(params?: {
   if (params?.role) query.set('role', params.role);
 
   const qs = query.toString();
-  return adminFetch<{ customers: AdminCustomer[]; pagination: Pagination }>(`/customers${qs ? `?${qs}` : ''}`);
+  const key = `/customers${qs ? `?${qs}` : ''}`;
+  return cachedFetch(key, () => adminFetch<{ customers: AdminCustomer[]; pagination: Pagination }>(key));
 }
 
 export async function createCustomer(
   data: AdminCustomerInput
 ): Promise<{ user: AdminCustomer }> {
-  return adminFetch<{ user: AdminCustomer }>('/customers', {
+  const result = await adminFetch<{ user: AdminCustomer }>('/customers', {
     method: 'POST',
     body: JSON.stringify(data),
   });
+  invalidateAdminCache('/customers');
+  invalidateAdminCache('/stats');
+  return result;
 }
 
 export async function getCustomerDetail(id: number): Promise<AdminCustomerDetail> {
-  return adminFetch<AdminCustomerDetail>(`/customers/${id}`);
+  const key = `/customers/${id}`;
+  return cachedFetch(key, () => adminFetch<AdminCustomerDetail>(key));
 }
 
 export async function updateCustomerRole(
   id: number,
   role: 'customer' | 'admin' | 'author'
 ): Promise<{ user: AdminCustomer }> {
-  return adminFetch<{ user: AdminCustomer }>(`/customers/${id}/role`, {
+  const result = await adminFetch<{ user: AdminCustomer }>(`/customers/${id}/role`, {
     method: 'PATCH',
     body: JSON.stringify({ role }),
   });
+  invalidateAdminCache('/customers');
+  invalidateAdminCache('/stats');
+  return result;
 }

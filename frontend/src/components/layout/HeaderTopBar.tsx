@@ -89,6 +89,18 @@ export function HeaderTopBar() {
             </button>
           </div>
 
+          <div className="h-4 w-px bg-slate-800 hidden sm:block" />
+
+          {/* Admin Console Quick Link */}
+          <Link
+            href="/admin"
+            className="hidden sm:flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-indigo-950 hover:bg-indigo-900 text-indigo-200 hover:text-white border border-indigo-700/50 transition text-xs font-bold shadow-xs"
+            title="Bảng Quản Trị Hệ Thống (Admin Console)"
+          >
+            <ShieldCheck className="w-3.5 h-3.5 text-indigo-400" />
+            <span>Admin</span>
+          </Link>
+
           <div className="h-4 w-px bg-slate-800 hidden md:block" />
 
           {/* Quick links: Đăng nhập / Đăng ký */}

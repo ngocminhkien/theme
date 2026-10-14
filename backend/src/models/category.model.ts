@@ -1,5 +1,5 @@
 import { RowDataPacket, ResultSetHeader } from 'mysql2/promise';
-import { dbPool } from '../config/database.js';
+import { dbPool, isDbOffline, markDbOffline } from '../config/database.js';
 
 export interface Category {
   id: number;
@@ -14,6 +14,9 @@ export interface Category {
 
 export class CategoryModel {
   static async findAll(includeCount = true): Promise<Category[]> {
+    if (isDbOffline()) {
+      return fallbackCategories;
+    }
     if (includeCount) {
       try {
         const [rows] = await dbPool.query<RowDataPacket[]>(
@@ -27,6 +30,8 @@ export class CategoryModel {
         );
         return rows.map((r) => ({ ...r, themes_count: Number(r.themes_count || 0) })) as Category[];
       } catch (err: any) {
+        markDbOffline(err);
+        if (isDbOffline()) return fallbackCategories;
         console.warn('[CategoryModel.findAll] fallback to simple query:', err.message);
       }
     }
@@ -36,12 +41,16 @@ export class CategoryModel {
       );
       return rows.map((r) => ({ ...r, themes_count: 0 })) as Category[];
     } catch (err: any) {
+      markDbOffline(err);
       console.warn('[CategoryModel.findAll] DB Error, fallback in-memory:', err.message);
       return fallbackCategories;
     }
   }
 
   static async findById(id: number): Promise<Category | null> {
+    if (isDbOffline()) {
+      return fallbackCategories.find((c) => c.id === id) || null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT id, name_vi, name_en, slug, icon, sort_order, is_active FROM categories WHERE id = ? LIMIT 1',
@@ -49,12 +58,16 @@ export class CategoryModel {
       );
       if (!rows.length) return null;
       return rows[0] as Category;
-    } catch {
+    } catch (err) {
+      markDbOffline(err);
       return fallbackCategories.find((c) => c.id === id) || null;
     }
   }
 
   static async findBySlug(slug: string): Promise<Category | null> {
+    if (isDbOffline()) {
+      return fallbackCategories.find((c) => c.slug === slug) || null;
+    }
     try {
       const [rows] = await dbPool.query<RowDataPacket[]>(
         'SELECT id, name_vi, name_en, slug, icon, sort_order, is_active FROM categories WHERE slug = ? LIMIT 1',
@@ -62,7 +75,8 @@ export class CategoryModel {
       );
       if (!rows.length) return null;
       return rows[0] as Category;
-    } catch {
+    } catch (err) {
+      markDbOffline(err);
       return fallbackCategories.find((c) => c.slug === slug) || null;
     }
   }
@@ -74,14 +88,47 @@ export class CategoryModel {
     icon?: string;
     sort_order?: number;
   }): Promise<number> {
-    const [result] = await dbPool.query<ResultSetHeader>(
-      'INSERT INTO categories (name_vi, name_en, slug, icon, sort_order) VALUES (?, ?, ?, ?, ?)',
-      [data.name_vi, data.name_en, data.slug, data.icon || null, data.sort_order ?? 0]
-    );
-    return result.insertId;
+    if (isDbOffline()) {
+      const exists = fallbackCategories.some((c) => c.slug === data.slug);
+      if (exists) {
+        const err: any = new Error(`Duplicate entry '${data.slug}' for key 'categories.slug'`);
+        err.code = 'ER_DUP_ENTRY';
+        throw err;
+      }
+      const newId = Math.max(...fallbackCategories.map((c) => c.id), 0) + 1;
+      fallbackCategories.push({
+        id: newId,
+        name_vi: data.name_vi,
+        name_en: data.name_en,
+        slug: data.slug,
+        icon: data.icon || null,
+        sort_order: data.sort_order ?? 0,
+        is_active: 1,
+        themes_count: 0,
+      });
+      return newId;
+    }
+    try {
+      const [result] = await dbPool.query<ResultSetHeader>(
+        'INSERT INTO categories (name_vi, name_en, slug, icon, sort_order) VALUES (?, ?, ?, ?, ?)',
+        [data.name_vi, data.name_en, data.slug, data.icon || null, data.sort_order ?? 0]
+      );
+      return result.insertId;
+    } catch (err) {
+      markDbOffline(err);
+      throw err;
+    }
   }
 
   static async update(id: number, data: Partial<Category>): Promise<boolean> {
+    if (isDbOffline()) {
+      const cat = fallbackCategories.find((c) => c.id === id);
+      if (cat) {
+        Object.assign(cat, data);
+        return true;
+      }
+      return false;
+    }
     const updates: string[] = [];
     const values: (string | number | null)[] = [];
     if (data.name_vi !== undefined) { updates.push('name_vi = ?'); values.push(data.name_vi); }
@@ -92,11 +139,16 @@ export class CategoryModel {
     if (data.is_active !== undefined) { updates.push('is_active = ?'); values.push(data.is_active); }
     if (!updates.length) return true;
     values.push(id);
-    const [result] = await dbPool.query<ResultSetHeader>(
-      `UPDATE categories SET ${updates.join(', ')} WHERE id = ?`,
-      values
-    );
-    return result.affectedRows > 0;
+    try {
+      const [result] = await dbPool.query<ResultSetHeader>(
+        `UPDATE categories SET ${updates.join(', ')} WHERE id = ?`,
+        values
+      );
+      return result.affectedRows > 0;
+    } catch (err) {
+      markDbOffline(err);
+      throw err;
+    }
   }
 }
 

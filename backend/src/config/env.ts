@@ -11,7 +11,7 @@ const configuredOrigins = [
 
 export const ENV = {
   NODE_ENV: process.env.NODE_ENV || 'development',
-  PORT: parseInt(process.env.APP_PORT || '4000', 10),
+  PORT: parseInt(process.env.PORT || process.env.APP_PORT || '4000', 10),
   // Both the customer storefront and the separately-hosted admin application
   // need to call this API in development. Values remain explicit rather than
   // reflecting arbitrary browser origins.
@@ -23,6 +23,7 @@ export const ENV = {
     NAME: process.env.DB_NAME || 'theme_marketplace',
     USER: process.env.DB_USER || 'theme_user',
     PASSWORD: process.env.DB_PASSWORD || 'theme_password_secure',
+    SSL: process.env.DB_SSL === 'true',
   },
 
   JWT: {

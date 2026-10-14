@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { Download, KeyRound, LogOut, PackageCheck, ReceiptText, UserRound } from 'lucide-react';
+import { ArrowRight, Download, KeyRound, LogOut, PackageCheck, ReceiptText, ShieldCheck, UserRound } from 'lucide-react';
 import { Suspense, useEffect, useMemo, useState } from 'react';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
@@ -116,6 +116,29 @@ function MyAccountContent() {
 
         {loading && <p className="text-center text-sm text-slate-500">Đang tải Customer Portal…</p>}
         {user && !loading && <section>
+          {user.role === 'admin' && (
+            <div className="mb-6 p-4 rounded-2xl bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 text-white flex flex-col sm:flex-row items-center justify-between gap-4 shadow-xl border border-indigo-500/30">
+              <div className="flex items-center gap-3.5">
+                <div className="w-10 h-10 rounded-xl bg-indigo-500/20 border border-indigo-400/30 flex items-center justify-center text-indigo-300 font-bold shrink-0">
+                  <ShieldCheck className="w-5 h-5" />
+                </div>
+                <div>
+                  <p className="text-sm font-bold text-white flex items-center gap-2">
+                    <span>Bạn đang đăng nhập với quyền Quản trị viên (Admin)</span>
+                    <span className="px-2 py-0.5 rounded-full bg-amber-400/20 text-amber-300 text-[10px] font-extrabold uppercase">Toàn quyền</span>
+                  </p>
+                  <p className="text-xs text-slate-300 mt-0.5">Truy cập khu vực quản lý đơn hàng, kho theme, cấp phát license và phân quyền người dùng.</p>
+                </div>
+              </div>
+              <a
+                href="/admin"
+                className="shrink-0 px-4 py-2.5 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-xs shadow-md transition flex items-center gap-2 cursor-pointer"
+              >
+                <span>Mở Bảng Quản Trị /admin</span>
+                <ArrowRight className="w-4 h-4" />
+              </a>
+            </div>
+          )}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-7">
             <div>
               <div className="flex flex-wrap items-center gap-2.5">
